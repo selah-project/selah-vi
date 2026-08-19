@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "vi",
   "chapter": 8,
-  "translation": "Và ông nói với Yeter con trưởng tử của mình: \"Hãy đứng dậy, giết ⟨אתם⟩ chúng.\" Nhưng người trai trẻ không rút gươm của mình, vì sợ, vì nó còn là trai trẻ.",
+  "translation": "Và ông nói với Yeter con trưởng tử của mình: \"Hãy đứng dậy, giết ⟨את⟩ ⟨אתם⟩ chúng.\" Nhưng người trai trẻ không rút gươm của mình, vì sợ, vì nó còn là trai trẻ.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨אתם⟩ chúng",
+      "gloss": "⟨את⟩ ⟨אתם⟩ chúng",
       "marks": "chúng"
     },
     {
@@ -69,6 +69,6 @@
       "gloss": "một trai trẻ"
     }
   ],
-  "timestamp": "2026-08-19T03:25:04.985280032Z",
+  "timestamp": "2026-08-19T06:41:40.964020163Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "vi",
   "chapter": 14,
-  "translation": "Và toàn thể dân Yehudah đã lấy ⟨את⟩ Azaryah — ⟨vâng⟩ ông là con mười sáu tuổi — và họ đã tôn ⟨אתו⟩ ông làm vua thay cha mình Amatsyahu.",
+  "translation": "Và toàn thể dân Yehudah đã lấy ⟨את⟩ Azaryah — ⟨vâng⟩ ông là con mười sáu tuổi — và họ đã tôn ⟨את⟩ ⟨אתו⟩ ông làm vua thay cha mình Amatsyahu.",
   "tokens": [
     {
       "surface": "ויקחו",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "ông"
     },
     {
@@ -74,6 +74,6 @@
       "gloss": "Amatsyahu"
     }
   ],
-  "timestamp": "2026-08-19T03:59:52.005699897Z",
+  "timestamp": "2026-08-19T06:41:41.031606763Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 30,
-  "translation": "Hãy giao ⟨את⟩ các vợ của tôi và ⟨את⟩ các con của tôi, mà tôi đã hầu việc ngươi ⟨אתך⟩ vì họ, và tôi sẽ đi; vì ngươi biết ⟨את⟩ sự hầu việc của tôi mà tôi đã hầu việc ngươi.",
+  "translation": "Hãy giao ⟨את⟩ các vợ của tôi và ⟨את⟩ các con của tôi, mà tôi đã hầu việc ngươi ⟨את⟩ ⟨אתך⟩ vì họ, và tôi sẽ đi; vì ngươi biết ⟨את⟩ sự hầu việc của tôi mà tôi đã hầu việc ngươi.",
   "tokens": [
     {
       "surface": "תנה",
@@ -39,7 +39,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨אתך⟩",
+      "gloss": "⟨את⟩ ⟨אתך⟩",
       "marks": "vì họ (בהן)"
     },
     {
@@ -80,6 +80,6 @@
       "gloss": "tôi đã hầu việc ngươi"
     }
   ],
-  "timestamp": "2026-08-19T01:14:24.853428247Z",
+  "timestamp": "2026-08-19T06:41:40.944177926Z",
   "model": "glm-5.3"
 }

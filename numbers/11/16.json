@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 11,
-  "translation": "Và Yahweh phán cùng Moshe: Hãy tập họp cho Ta bảy mươi người trong các trưởng lão của Yisrael, mà ngươi biết rằng họ là trưởng lão của dân và các viên quan của dân; và ngươi sẽ đem ⟨אתם⟩ chúng đến Lều Hội Kiến, và chúng sẽ đứng đó cùng ngươi.",
+  "translation": "Và Yahweh phán cùng Moshe: Hãy tập họp cho Ta bảy mươi người trong các trưởng lão của Yisrael, mà ngươi biết rằng họ là trưởng lão của dân và các viên quan của dân; và ngươi sẽ đem ⟨את⟩ ⟨אתם⟩ chúng đến Lều Hội Kiến, và chúng sẽ đứng đó cùng ngươi.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "chúng"
     },
     {
@@ -109,6 +109,6 @@
       "gloss": "cùng ngươi"
     }
   ],
-  "timestamp": "2026-08-19T02:55:55.783489862Z",
+  "timestamp": "2026-08-19T06:41:41.047125504Z",
   "model": "glm-5.3"
 }

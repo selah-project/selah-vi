@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "vi",
   "chapter": 4,
-  "translation": "Và người ta sẽ đem ra ⟨את⟩ toàn bộ con bò ra ngoài trại quân, đến một nơi tinh sạch, đến nơi đổ tro, và sẽ đốt ⟨את nó⟩ trên củi trong lửa; tại nơi đổ tro nó sẽ bị đốt.",
+  "translation": "Và người ta sẽ đem ra ⟨את⟩ toàn bộ con bò ra ngoài trại quân, đến một nơi tinh sạch, đến nơi đổ tro, và sẽ đốt ⟨את⟩ ⟨את nó⟩ trên củi trong lửa; tại nơi đổ tro nó sẽ bị đốt.",
   "tokens": [
     {
       "surface": "והוציא",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את nó⟩",
+      "gloss": "⟨את⟩ ⟨את nó⟩",
       "marks": "nó (con bò)"
     },
     {
@@ -98,6 +98,6 @@
       "gloss": "nó sẽ bị đốt"
     }
   ],
-  "timestamp": "2026-08-19T02:39:55.212093968Z",
+  "timestamp": "2026-08-19T06:41:41.034163371Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 13,
-  "translation": "Và đất không thể mang ⟨אתם⟩ chúng, để họ ở chung với nhau, vì tài sản của họ thật nhiều, và họ không thể ở chung với nhau.",
+  "translation": "Và đất không thể mang ⟨את⟩ ⟨אתם⟩ chúng, để họ ở chung với nhau, vì tài sản của họ thật nhiều, và họ không thể ở chung với nhau.",
   "tokens": [
     {
       "surface": "ולא",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "đất"
     },
     {
@@ -65,6 +65,6 @@
       "gloss": "chung với nhau"
     }
   ],
-  "timestamp": "2026-08-19T00:55:32.711508950Z",
+  "timestamp": "2026-08-19T06:41:40.953762970Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "vi",
   "chapter": 19,
-  "translation": "Và nếu một khách ngoại kiều cư ngụ ⟨אתך⟩ với ngươi trong đất các ngươi, các ngươi không được ức hiếp ⟨אתו⟩ hắn.",
+  "translation": "Và nếu một khách ngoại kiều cư ngụ ⟨את⟩ ⟨אתך⟩ với ngươi trong đất các ngươi, các ngươi không được ức hiếp ⟨את⟩ ⟨אתו⟩ hắn.",
   "tokens": [
     {
       "surface": "וכי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨אתך⟩",
+      "gloss": "⟨את⟩ ⟨אתך⟩",
       "marks": "với ngươi"
     },
     {
@@ -38,10 +38,10 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "hắn"
     }
   ],
-  "timestamp": "2026-08-19T02:45:59.608922884Z",
+  "timestamp": "2026-08-19T06:41:41.036279665Z",
   "model": "glm-5.3"
 }

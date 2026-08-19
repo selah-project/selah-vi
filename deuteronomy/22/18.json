@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "vi",
   "chapter": 22,
-  "translation": "Thì các trưởng lão của thành đó sẽ bắt ⟨את⟩ người đàn ông ấy và trừng phạt ⟨אתו⟩ hắn.",
+  "translation": "Thì các trưởng lão của thành đó sẽ bắt ⟨את⟩ người đàn ông ấy và trừng phạt ⟨את⟩ ⟨אתו⟩ hắn.",
   "tokens": [
     {
       "surface": "ולקחו",
@@ -38,10 +38,10 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "hắn"
     }
   ],
-  "timestamp": "2026-08-19T03:10:23.067932005Z",
+  "timestamp": "2026-08-19T06:41:41.020202248Z",
   "model": "glm-5.3"
 }

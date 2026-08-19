@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "vi",
   "chapter": 14,
-  "translation": "Tớ gái của ngươi có hai đứa con trai, và chúng đánh nhau trong cánh đồng, không có ai giải cứu ở giữa chúng; đứa này đánh ⟨את⟩ đứa kia, và nó giết chết ⟨אתו⟩ nó.",
+  "translation": "Tớ gái của ngươi có hai đứa con trai, và chúng đánh nhau trong cánh đồng, không có ai giải cứu ở giữa chúng; đứa này đánh ⟨את⟩ đứa kia, và nó giết chết ⟨את⟩ ⟨אתו⟩ nó.",
   "tokens": [
     {
       "surface": "ולשפחתך",
@@ -66,10 +66,10 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "nó"
     }
   ],
-  "timestamp": "2026-08-19T03:42:35.819266326Z",
+  "timestamp": "2026-08-19T06:41:40.941966495Z",
   "model": "glm-5.3"
 }

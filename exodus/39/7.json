@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 39,
-  "translation": "Và ông đặt ⟨אתם⟩ lên vai áo êphốt — những viên đá kỷ niệm cho con trai Yisrael, như Yahweh đã phán dặn ⟨את⟩ Moshe.",
+  "translation": "Và ông đặt ⟨את⟩ ⟨אתם⟩ lên vai áo êphốt — những viên đá kỷ niệm cho con trai Yisrael, như Yahweh đã phán dặn ⟨את⟩ Moshe.",
   "tokens": [
     {
       "surface": "וישם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "lên vai áo êphốt"
     },
     {
@@ -66,6 +66,6 @@
       "gloss": "Moshe"
     }
   ],
-  "timestamp": "2026-08-19T02:38:50.884255564Z",
+  "timestamp": "2026-08-19T06:41:40.987232575Z",
   "model": "glm-5.3"
 }

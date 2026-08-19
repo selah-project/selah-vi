@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "vi",
   "chapter": 26,
-  "translation": "Nếu trong các luật lệ của Ta các ngươi đi, và ⟨את⟩ các điều răn của Ta các ngươi giữ, và các ngươi làm ⟨אתם⟩ chúng",
+  "translation": "Nếu trong các luật lệ của Ta các ngươi đi, và ⟨את⟩ các điều răn của Ta các ngươi giữ, và các ngươi làm ⟨את⟩ ⟨אתם⟩ chúng",
   "tokens": [
     {
       "surface": "אם",
@@ -38,10 +38,10 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "chúng (các điều răn)"
     }
   ],
-  "timestamp": "2026-08-19T02:48:30.645198812Z",
+  "timestamp": "2026-08-19T06:41:41.034944174Z",
   "model": "glm-5.3"
 }

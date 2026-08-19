@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "vi",
   "chapter": 32,
-  "translation": "Ai trong tất cả các elohim của những nước mà cha ông tôi đã tận diệt — ai đã thể cứu ⟨את⟩ dân mình khỏi tay tôi — mà elohim của các ngươi lại thể cứu các ngươi ⟨אתכם⟩ khỏi tay tôi?",
+  "translation": "Ai trong tất cả các elohim của những nước mà cha ông tôi đã tận diệt — ai đã thể cứu ⟨את⟩ dân mình khỏi tay tôi — mà elohim của các ngươi lại thể cứu các ngươi ⟨את⟩ ⟨אתכם⟩ khỏi tay tôi?",
   "tokens": [
     {
       "surface": "מי",
@@ -82,13 +82,13 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩"
+      "gloss": "⟨את⟩ ⟨אתכם⟩"
     },
     {
       "surface": "מידי",
       "gloss": "khỏi tay tôi"
     }
   ],
-  "timestamp": "2026-08-19T06:01:21.090083966Z",
+  "timestamp": "2026-08-19T06:41:41.003539041Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "vi",
   "chapter": 4,
-  "translation": "Và ông làm ⟨את⟩ Biển bằng kim loại đúc, mười amma từ mép này đến mép kia, tròn xung quanh, và cao năm amma, và một dây dây ba mươi amma quấn ⟨את nó⟩ quanh.",
+  "translation": "Và ông làm ⟨את⟩ Biển bằng kim loại đúc, mười amma từ mép này đến mép kia, tròn xung quanh, và cao năm amma, và một dây dây ba mươi amma quấn ⟨את⟩ ⟨את nó⟩ quanh.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את nó⟩",
+      "gloss": "⟨את⟩ ⟨את nó⟩",
       "marks": "nó (Biển)"
     },
     {
@@ -90,6 +90,6 @@
       "gloss": "xung quanh"
     }
   ],
-  "timestamp": "2026-08-19T05:54:58.446122576Z",
+  "timestamp": "2026-08-19T06:41:41.005562132Z",
   "model": "glm-5.3"
 }

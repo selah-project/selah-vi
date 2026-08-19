@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "vi",
   "chapter": 7,
-  "translation": "Và Ngài sẽ phó các vua của chúng vào tay ngươi, và ngươi sẽ làm cho ⟨את⟩ danh chúng mất khỏi dưới các tầng trời; không ai sẽ đứng vững trước mặt ngươi cho đến khi ngươi hủy diệt ⟨אתם⟩ chúng.",
+  "translation": "Và Ngài sẽ phó các vua của chúng vào tay ngươi, và ngươi sẽ làm cho ⟨את⟩ danh chúng mất khỏi dưới các tầng trời; không ai sẽ đứng vững trước mặt ngươi cho đến khi ngươi hủy diệt ⟨את⟩ ⟨אתם⟩ chúng.",
   "tokens": [
     {
       "surface": "ונתן",
@@ -66,10 +66,10 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "chúng"
     }
   ],
-  "timestamp": "2026-08-19T03:06:40.126533802Z",
+  "timestamp": "2026-08-19T06:41:41.019244548Z",
   "model": "glm-5.3"
 }

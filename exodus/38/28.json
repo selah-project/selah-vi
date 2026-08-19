@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 38,
-  "translation": "Và ⟨với⟩ một ngàn và bảy trăm và năm và bảy mươi ⟨shekel⟩ thì làm các móc cho các cây cột, và phủ bạc các đầu của chúng, và làm đai khít ⟨אתם⟩ cho chúng.",
+  "translation": "Và ⟨với⟩ một ngàn và bảy trăm và năm và bảy mươi ⟨shekel⟩ thì làm các móc cho các cây cột, và phủ bạc các đầu của chúng, và làm đai khít ⟨את⟩ ⟨אתם⟩ cho chúng.",
   "tokens": [
     {
       "surface": "ואת",
@@ -58,10 +58,10 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "chúng (các cột)"
     }
   ],
-  "timestamp": "2026-08-19T02:38:51.249667616Z",
+  "timestamp": "2026-08-19T06:41:40.992201678Z",
   "model": "glm-5.3"
 }

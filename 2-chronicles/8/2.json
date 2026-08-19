@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "vi",
   "chapter": 8,
-  "translation": "Còn các thành mà Huram đã cho Shelomoh, thì Shelomoh đã xây ⟨אתם⟩ chúng, và ông cho con cái Yisra'el định cư ở đó.",
+  "translation": "Còn các thành mà Huram đã cho Shelomoh, thì Shelomoh đã xây ⟨את⟩ ⟨אתם⟩ chúng, và ông cho con cái Yisra'el định cư ở đó.",
   "tokens": [
     {
       "surface": "והערים",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "các thành"
     },
     {
@@ -62,6 +62,6 @@
       "gloss": "Yisra'el"
     }
   ],
-  "timestamp": "2026-08-19T05:55:31.015271794Z",
+  "timestamp": "2026-08-19T06:41:41.008851238Z",
   "model": "glm-5.3"
 }

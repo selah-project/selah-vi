@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "vi",
   "chapter": 11,
-  "translation": "Và Hadad trốn thoát, chính ⟨hắn⟩, cùng một số người Íđômit trong các đầy tớ của cha ⟨hắn⟩ ⟨אתו⟩ với mình, để vào Mitzrayim; còn Hadad ⟨là⟩ một cậu bé nhỏ.",
+  "translation": "Và Hadad trốn thoát, chính ⟨hắn⟩, cùng một số người Íđômit trong các đầy tớ của cha ⟨hắn⟩ ⟨את⟩ ⟨אתו⟩ với mình, để vào Mitzrayim; còn Hadad ⟨là⟩ một cậu bé nhỏ.",
   "tokens": [
     {
       "surface": "ויברח",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "với mình"
     },
     {
@@ -61,6 +61,6 @@
       "gloss": "nhỏ"
     }
   ],
-  "timestamp": "2026-08-19T06:10:01.620411892Z",
+  "timestamp": "2026-08-19T06:41:41.055989422Z",
   "model": "glm-5.3"
 }

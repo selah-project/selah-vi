@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 1,
-  "translation": "từ hai mươi tuổi trở lên, mọi người ra quân dịch trong Yisrael, các ngươi hãy kiểm điểm ⟨אתם⟩ theo đạo binh của chúng, ngươi cùng Aharon.",
+  "translation": "từ hai mươi tuổi trở lên, mọi người ra quân dịch trong Yisrael, các ngươi hãy kiểm điểm ⟨את⟩ ⟨אתם⟩ theo đạo binh của chúng, ngươi cùng Aharon.",
   "tokens": [
     {
       "surface": "מבן",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "(đạo binh của chúng — đối tượng bị kiểm điểm)"
     },
     {
@@ -61,6 +61,6 @@
       "gloss": "cùng Aharon"
     }
   ],
-  "timestamp": "2026-08-19T02:52:00.307253514Z",
+  "timestamp": "2026-08-19T06:41:41.049415729Z",
   "model": "glm-5.3"
 }

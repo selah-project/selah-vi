@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 27,
-  "translation": "Hãy đi, tôi nài anh, đến ⟨với⟩ đàn cừu, và bắt cho tôi từ đó hai con dê con tốt, rồi tôi sẽ làm ⟨אתם⟩ chúng thành món ngon cho cha anh, như ngài yêu thích.",
+  "translation": "Hãy đi, tôi nài anh, đến ⟨với⟩ đàn cừu, và bắt cho tôi từ đó hai con dê con tốt, rồi tôi sẽ làm ⟨את⟩ ⟨אתם⟩ chúng thành món ngon cho cha anh, như ngài yêu thích.",
   "tokens": [
     {
       "surface": "לך",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "món ngon"
     },
     {
@@ -77,6 +77,6 @@
       "gloss": "yêu thích"
     }
   ],
-  "timestamp": "2026-08-19T01:10:40.148435113Z",
+  "timestamp": "2026-08-19T06:41:40.950016015Z",
   "model": "glm-5.3"
 }

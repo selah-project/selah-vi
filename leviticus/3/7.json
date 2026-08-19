@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "vi",
   "chapter": 3,
-  "translation": "Nếu chiên con là con vật ⟨הוא⟩ dâng lễ vật của mình, thì phải đem ⟨אתו⟩ đến trước mặt Yahweh.",
+  "translation": "Nếu chiên con là con vật ⟨הוא⟩ dâng lễ vật của mình, thì phải đem ⟨את⟩ ⟨אתו⟩ đến trước mặt Yahweh.",
   "tokens": [
     {
       "surface": "אם",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "nó (con chiên)"
     },
     {
@@ -50,6 +50,6 @@
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-19T02:40:02.488991896Z",
+  "timestamp": "2026-08-19T06:41:41.032939389Z",
   "model": "glm-5.3"
 }

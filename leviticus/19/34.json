@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "vi",
   "chapter": 19,
-  "translation": "Như dân bản xứ giữa các ngươi, khách ngoại kiều — kẻ cư ngụ ⟨אתכם⟩ với các ngươi — sẽ như vậy cho các ngươi; và ngươi hãy yêu hắn như chính ngươi, vì các ngươi đã là khách ngoại kiều trong đất Mitsrayim; ta là Yahweh Elohim các ngươi.",
+  "translation": "Như dân bản xứ giữa các ngươi, khách ngoại kiều — kẻ cư ngụ ⟨את⟩ ⟨אתכם⟩ với các ngươi — sẽ như vậy cho các ngươi; và ngươi hãy yêu hắn như chính ngươi, vì các ngươi đã là khách ngoại kiều trong đất Mitsrayim; ta là Yahweh Elohim các ngươi.",
   "tokens": [
     {
       "surface": "כאזרח",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "với các ngươi"
     },
     {
@@ -81,6 +81,6 @@
       "gloss": "Elohim các ngươi"
     }
   ],
-  "timestamp": "2026-08-19T02:45:59.609196250Z",
+  "timestamp": "2026-08-19T06:41:41.037533927Z",
   "model": "glm-5.3"
 }

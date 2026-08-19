@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "vi",
   "chapter": 13,
-  "translation": "Aviyah an giấc cùng các tổ phụ ông, và họ chôn ⟨אתו⟩ ông trong thành của David; và Asa con trai ông làm vua thay ông; trong các ngày của ông xứ được yên tị mười năm.",
+  "translation": "Aviyah an giấc cùng các tổ phụ ông, và họ chôn ⟨את⟩ ⟨אתו⟩ ông trong thành của David; và Asa con trai ông làm vua thay ông; trong các ngày của ông xứ được yên tị mười năm.",
   "tokens": [
     {
       "surface": "וישכב",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "ông"
     },
     {
@@ -77,6 +77,6 @@
       "gloss": "năm"
     }
   ],
-  "timestamp": "2026-08-19T05:56:29.922954502Z",
+  "timestamp": "2026-08-19T06:41:41.009259449Z",
   "model": "glm-5.3"
 }

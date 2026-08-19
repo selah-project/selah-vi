@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 44,
-  "translation": "Kẻ nào trong số tôi tớ của ngài mà nó được tìm thấy ⟨אתו⟩ thì nó sẽ chết, và cả chúng tôi nữa sẽ trở thành nô lệ cho chúa của ngài.",
+  "translation": "Kẻ nào trong số tôi tớ của ngài mà nó được tìm thấy ⟨את⟩ ⟨אתו⟩ thì nó sẽ chết, và cả chúng tôi nữa sẽ trở thành nô lệ cho chúa của ngài.",
   "tokens": [
     {
       "surface": "אשר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "nó (vật bị tìm thấy)"
     },
     {
@@ -49,6 +49,6 @@
       "gloss": "làm nô lệ"
     }
   ],
-  "timestamp": "2026-08-19T02:25:11.598913017Z",
+  "timestamp": "2026-08-19T06:41:40.945160815Z",
   "model": "glm-5.3"
 }

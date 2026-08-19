@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 40,
-  "translation": "Ngươi sẽ đưa ⟨את⟩ Aharon và ⟨את⟩ các con trai ông đến lối vào Trại Hội Kiến, và ngươi sẽ tắm rửa ⟨אתם⟩ trong nước.",
+  "translation": "Ngươi sẽ đưa ⟨את⟩ Aharon và ⟨את⟩ các con trai ông đến lối vào Trại Hội Kiến, và ngươi sẽ tắm rửa ⟨את⟩ ⟨אתם⟩ trong nước.",
   "tokens": [
     {
       "surface": "והקרבת",
@@ -51,7 +51,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "họ (Aharon và các con trai)"
     },
     {
@@ -59,6 +59,6 @@
       "gloss": "trong nước"
     }
   ],
-  "timestamp": "2026-08-19T02:39:31.981193593Z",
+  "timestamp": "2026-08-19T06:41:40.988120217Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "vi",
   "chapter": 12,
-  "translation": "Các trưởng lão trong nhà ông đứng lên ⟨trên⟩ ông để dựng ông dậy khỏi mặt đất, nhưng ông không chịu, và không ăn ⟨אתם⟩ bánh với họ.",
+  "translation": "Các trưởng lão trong nhà ông đứng lên ⟨trên⟩ ông để dựng ông dậy khỏi mặt đất, nhưng ông không chịu, và không ăn ⟨את⟩ ⟨אתם⟩ bánh với họ.",
   "tokens": [
     {
       "surface": "ויקמו",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "với họ"
     },
     {
@@ -61,6 +61,6 @@
       "gloss": "bánh"
     }
   ],
-  "timestamp": "2026-08-19T03:41:51.387121206Z",
+  "timestamp": "2026-08-19T06:41:40.940826798Z",
   "model": "glm-5.3"
 }

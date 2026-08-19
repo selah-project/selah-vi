@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 26,
-  "translation": "Và ông có của cải là đàn chiên, và của cải là đàn bò, và đầy tớ đông đảo; và người Philistim ghen ghét ⟨אתו⟩ ông.",
+  "translation": "Và ông có của cải là đàn chiên, và của cải là đàn bò, và đầy tớ đông đảo; và người Philistim ghen ghét ⟨את⟩ ⟨אתו⟩ ông.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "ông"
     },
     {
@@ -53,6 +53,6 @@
       "gloss": "người Philistim"
     }
   ],
-  "timestamp": "2026-08-19T01:09:23.856728557Z",
+  "timestamp": "2026-08-19T06:41:40.946671590Z",
   "model": "glm-5.3"
 }

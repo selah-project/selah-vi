@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 37,
-  "translation": "Và người làm các cây đòn bằng gỗ keo (shitim), và bọc ⟨אתם⟩ chúng bằng vàng.",
+  "translation": "Và người làm các cây đòn bằng gỗ keo (shitim), và bọc ⟨את⟩ ⟨אתם⟩ chúng bằng vàng.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "các cây đòn"
     },
     {
@@ -37,6 +37,6 @@
       "gloss": "vàng"
     }
   ],
-  "timestamp": "2026-08-19T02:38:31.513570550Z",
+  "timestamp": "2026-08-19T06:41:40.991380496Z",
   "model": "glm-5.3"
 }

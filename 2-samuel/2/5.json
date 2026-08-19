@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "vi",
   "chapter": 2,
-  "translation": "Và David sai các sứ giả đến với những người Yavesh Gil'ad, và nói với họ: Các ngươi được phước bởi Yahweh, vì các ngươi đã làm sự nhân từ này với chúa của các ngươi, với Sha'ul, và đã chôn cất ⟨אתו⟩ ông.",
+  "translation": "Và David sai các sứ giả đến với những người Yavesh Gil'ad, và nói với họ: Các ngươi được phước bởi Yahweh, vì các ngươi đã làm sự nhân từ này với chúa của các ngươi, với Sha'ul, và đã chôn cất ⟨את⟩ ⟨אתו⟩ ông.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -93,10 +93,10 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "ông (Sha'ul)"
     }
   ],
-  "timestamp": "2026-08-19T06:08:45.804049397Z",
+  "timestamp": "2026-08-19T06:41:40.941404151Z",
   "model": "glm-5.3"
 }

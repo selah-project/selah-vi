@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 31,
-  "translation": "Ông mang theo ⟨את⟩ các anh em mình với mình, đuổi theo sau lưng ông suốt hành trình bảy ngày, và kịp bắt ⟨אתו⟩ ông tại núi Gil'ad.",
+  "translation": "Ông mang theo ⟨את⟩ các anh em mình với mình, đuổi theo sau lưng ông suốt hành trình bảy ngày, và kịp bắt ⟨את⟩ ⟨אתו⟩ ông tại núi Gil'ad.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "ông"
     },
     {
@@ -62,6 +62,6 @@
       "gloss": "Gil'ad"
     }
   ],
-  "timestamp": "2026-08-19T01:15:37.519962256Z",
+  "timestamp": "2026-08-19T06:41:40.954215668Z",
   "model": "glm-5.3"
 }

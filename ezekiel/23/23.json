@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "vi",
   "chapter": 23,
-  "translation": "Con trai của Bavel, và mọi Kashdim, Pekod, vaShoa, vaKoa, mọi con trai của Ashshur ⟨אתם⟩ — những chàng trai đẹp đẽ, các tổng trấn và quan trưởng, tất cả chúng — các quan cao cấp và người được tung hô, cưỡi ngựa, tất cả chúng.",
+  "translation": "Con trai của Bavel, và mọi Kashdim, Pekod, vaShoa, vaKoa, mọi con trai của Ashshur ⟨את⟩ ⟨אתם⟩ — những chàng trai đẹp đẽ, các tổng trấn và quan trưởng, tất cả chúng — các quan cao cấp và người được tung hô, cưỡi ngựa, tất cả chúng.",
   "tokens": [
     {
       "surface": "בני",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "những chàng trai đẹp đẽ"
     },
     {
@@ -93,6 +93,6 @@
       "gloss": "tất cả chúng"
     }
   ],
-  "timestamp": "2026-08-19T04:37:42.154670815Z",
+  "timestamp": "2026-08-19T06:41:41.025637456Z",
   "model": "glm-5.3"
 }

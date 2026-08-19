@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 25,
-  "translation": "Ngươi sẽ làm hai keruvim bằng vàng, công việc chạm đánh ⟨אתם⟩ ngươi sẽ làm, từ hai đầu của nắp xá tội.",
+  "translation": "Ngươi sẽ làm hai keruvim bằng vàng, công việc chạm đánh ⟨את⟩ ⟨אתם⟩ ngươi sẽ làm, từ hai đầu của nắp xá tội.",
   "tokens": [
     {
       "surface": "ועשית",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "keruvim"
     },
     {
@@ -49,6 +49,6 @@
       "gloss": "của nắp xá tội"
     }
   ],
-  "timestamp": "2026-08-19T02:34:49.490958135Z",
+  "timestamp": "2026-08-19T06:41:40.992623015Z",
   "model": "glm-5.3"
 }

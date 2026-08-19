@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 30,
-  "translation": "Nhưng nếu người chồng của nàng lặng im, giữ kín lặng với nàng từ ngày nọ đến ngày kia, thì ⟨hắn⟩ đã làm ⟨את⟩ mọi lời khấn nguyện của nàng hay ⟨את⟩ mọi sự ràng buộc của nàng đang trên mình nàng đứng vững; ⟨hắn⟩ đã làm ⟨אתם⟩ chúng đứng vững, vì ⟨hắn⟩ đã lặng im với nàng vào ngày người ấy nghe.",
+  "translation": "Nhưng nếu người chồng của nàng lặng im, giữ kín lặng với nàng từ ngày nọ đến ngày kia, thì ⟨hắn⟩ đã làm ⟨את⟩ mọi lời khấn nguyện của nàng hay ⟨את⟩ mọi sự ràng buộc của nàng đang trên mình nàng đứng vững; ⟨hắn⟩ đã làm ⟨את⟩ ⟨אתם⟩ chúng đứng vững, vì ⟨hắn⟩ đã lặng im với nàng vào ngày người ấy nghe.",
   "tokens": [
     {
       "surface": "ואם",
@@ -87,7 +87,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "chúng (các lời khấn và ràng buộc)"
     },
     {
@@ -111,6 +111,6 @@
       "gloss": "người ấy nghe"
     }
   ],
-  "timestamp": "2026-08-19T03:02:18.231218423Z",
+  "timestamp": "2026-08-19T06:41:41.046306767Z",
   "model": "glm-5.3"
 }

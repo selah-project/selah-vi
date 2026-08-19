@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "vi",
   "chapter": 12,
-  "translation": "Còn Ngài, Yahweh, đã biết tôi; Ngài thấy tôi, và đã thử lòng tôi ⟨אתך⟩; hãy kéo họ đi như chiên đến chỗ giết, và biệt họ ra thánh cho ngày giết-hại.",
+  "translation": "Còn Ngài, Yahweh, đã biết tôi; Ngài thấy tôi, và đã thử lòng tôi ⟨את⟩ ⟨אתך⟩; hãy kéo họ đi như chiên đến chỗ giết, và biệt họ ra thánh cho ngày giết-hại.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨אתך⟩"
+      "gloss": "⟨את⟩ ⟨אתך⟩"
     },
     {
       "surface": "התקם",
@@ -60,6 +60,6 @@
       "gloss": "giết-hại"
     }
   ],
-  "timestamp": "2026-08-19T04:20:02.227707060Z",
+  "timestamp": "2026-08-19T06:41:40.972805046Z",
   "model": "glm-5.3"
 }

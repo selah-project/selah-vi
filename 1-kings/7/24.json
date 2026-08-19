@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "vi",
   "chapter": 7,
-  "translation": "Và các núm tròn ở dưới mép nó, bao ⟨את nó⟩ quanh, mười trong một ammah, vây quanh ⟨את⟩ Biển ăn khắp vòng; các núm ấy đặt thành hai hàng, được đúc cùng lúc khi đúc nó.",
+  "translation": "Và các núm tròn ở dưới mép nó, bao ⟨את⟩ ⟨את nó⟩ quanh, mười trong một ammah, vây quanh ⟨את⟩ Biển ăn khắp vòng; các núm ấy đặt thành hai hàng, được đúc cùng lúc khi đúc nó.",
   "tokens": [
     {
       "surface": "ופקעים",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את nó⟩",
+      "gloss": "⟨את⟩ ⟨את nó⟩",
       "marks": "nó"
     },
     {
@@ -78,6 +78,6 @@
       "gloss": "khi đúc nó"
     }
   ],
-  "timestamp": "2026-08-19T03:48:52.480173759Z",
+  "timestamp": "2026-08-19T06:41:41.055163420Z",
   "model": "glm-5.3"
 }

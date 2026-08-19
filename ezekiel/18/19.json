@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "vi",
   "chapter": 18,
-  "translation": "Và các ngươi nói: Vì sao con trai không gánh tội của người cha? Còn con trai đã làm phép công bằng và sự công chính, đã giữ ⟨את⟩ mọi thánh lệ của Ta và đã làm ⟨אתם⟩ chúng — sống, nó sẽ sống.",
+  "translation": "Và các ngươi nói: Vì sao con trai không gánh tội của người cha? Còn con trai đã làm phép công bằng và sự công chính, đã giữ ⟨את⟩ mọi thánh lệ của Ta và đã làm ⟨את⟩ ⟨אתם⟩ chúng — sống, nó sẽ sống.",
   "tokens": [
     {
       "surface": "ואמרתם",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "chúng (mọi thánh lệ)"
     },
     {
@@ -86,6 +86,6 @@
       "gloss": "sẽ sống"
     }
   ],
-  "timestamp": "2026-08-19T04:35:22.282553604Z",
+  "timestamp": "2026-08-19T06:41:41.028330041Z",
   "model": "glm-5.3"
 }

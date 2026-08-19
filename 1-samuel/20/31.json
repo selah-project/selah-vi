@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "vi",
   "chapter": 20,
-  "translation": "Vì suốt các ngày mà con trai Yishai còn sống trên mặt đất, ngươi và vương quốc ngươi sẽ không được vững bền; vậy bây giờ, hãy sai người và bắt ⟨אתו⟩ đem đến ta, vì nó là kẻ đáng chết.",
+  "translation": "Vì suốt các ngày mà con trai Yishai còn sống trên mặt đất, ngươi và vương quốc ngươi sẽ không được vững bền; vậy bây giờ, hãy sai người và bắt ⟨את⟩ ⟨אתו⟩ đem đến ta, vì nó là kẻ đáng chết.",
   "tokens": [
     {
       "surface": "כי",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "hắn (David)"
     },
     {
@@ -97,6 +97,6 @@
       "gloss": "nó là"
     }
   ],
-  "timestamp": "2026-08-19T03:35:23.037022279Z",
+  "timestamp": "2026-08-19T06:41:41.012827292Z",
   "model": "glm-5.3"
 }

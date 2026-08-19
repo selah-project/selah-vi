@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "vi",
   "chapter": 22,
-  "translation": "Vì ở nơi chúng đã lưu đày ⟨אתו⟩ nó, tại đó nó sẽ chết; và ⟨את⟩ đất này nó sẽ không thấy nữa.",
+  "translation": "Vì ở nơi chúng đã lưu đày ⟨את⟩ ⟨אתו⟩ nó, tại đó nó sẽ chết; và ⟨את⟩ đất này nó sẽ không thấy nữa.",
   "tokens": [
     {
       "surface": "כי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "nó (Shallum)"
     },
     {
@@ -62,6 +62,6 @@
       "gloss": "nữa"
     }
   ],
-  "timestamp": "2026-08-19T04:21:50.817855524Z",
+  "timestamp": "2026-08-19T06:41:40.970964032Z",
   "model": "glm-5.3"
 }

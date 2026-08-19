@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "vi",
   "chapter": 62,
-  "translation": "Này, Yahweh đã truyền-ra đến tận cùng đất: Hãy nói với con-gái Tsiyon: Này, sự cứu của ngươi đang đến; này, phần thưởng của Ngài ⟨אתו⟩ cùng Ngài, và công-trình của Ngài trước mặt Ngài.",
+  "translation": "Này, Yahweh đã truyền-ra đến tận cùng đất: Hãy nói với con-gái Tsiyon: Này, sự cứu của ngươi đang đến; này, phần thưởng của Ngài ⟨את⟩ ⟨אתו⟩ cùng Ngài, và công-trình của Ngài trước mặt Ngài.",
   "tokens": [
     {
       "surface": "הנה",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩"
+      "gloss": "⟨את⟩ ⟨אתו⟩"
     },
     {
       "surface": "ופעלתו",
@@ -76,6 +76,6 @@
       "gloss": "trước mặt Ngài"
     }
   ],
-  "timestamp": "2026-08-19T04:15:32.133601603Z",
+  "timestamp": "2026-08-19T06:41:41.045343496Z",
   "model": "glm-5.3"
 }

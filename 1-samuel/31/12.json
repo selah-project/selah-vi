@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "vi",
   "chapter": 31,
-  "translation": "Mọi chiến sĩ đều trỗi dậy, đi suốt đêm, lấy ⟨את⟩ xác Shaol và ⟨את⟩ xác các con trai ông khỏi tường thành Beth-Shan, về đến Yavesh, và thiêu ⟨אתם⟩ tại đó.",
+  "translation": "Mọi chiến sĩ đều trỗi dậy, đi suốt đêm, lấy ⟨את⟩ xác Shaol và ⟨את⟩ xác các con trai ông khỏi tường thành Beth-Shan, về đến Yavesh, và thiêu ⟨את⟩ ⟨אתם⟩ tại đó.",
   "tokens": [
     {
       "surface": "ויקומו",
@@ -91,7 +91,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "chúng (các xác)"
     },
     {
@@ -99,6 +99,6 @@
       "gloss": "tại đó"
     }
   ],
-  "timestamp": "2026-08-19T03:38:32.935563124Z",
+  "timestamp": "2026-08-19T06:41:41.015013123Z",
   "model": "glm-5.3"
 }

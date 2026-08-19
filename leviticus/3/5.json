@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "vi",
   "chapter": 3,
-  "translation": "Và con trai của Aharon sẽ đốt ⟨אתו⟩ trên bàn thờ, trên của lễ thiêu đang ở trên cây gỗ đang ở trên lửa — của lễ dùng lửa, hương thơm dễ chịu cho Yahweh.",
+  "translation": "Và con trai của Aharon sẽ đốt ⟨את⟩ ⟨אתו⟩ trên bàn thờ, trên của lễ thiêu đang ở trên cây gỗ đang ở trên lửa — của lễ dùng lửa, hương thơm dễ chịu cho Yahweh.",
   "tokens": [
     {
       "surface": "והקטירו",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "nó (các phần béo và thận đã lấy ra)"
     },
     {
@@ -77,6 +77,6 @@
       "gloss": "cho Yahweh"
     }
   ],
-  "timestamp": "2026-08-19T02:40:02.488455275Z",
+  "timestamp": "2026-08-19T06:41:41.033752845Z",
   "model": "glm-5.3"
 }

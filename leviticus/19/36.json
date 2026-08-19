@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "vi",
   "chapter": 19,
-  "translation": "Cân công bình, đá cân công bình, êpha công bình, và hin công bình sẽ có cho các ngươi; ta là Yahweh Elohim các ngươi, Đấng đã đưa ⟨אתכם⟩ các ngươi ra khỏi đất Mitsrayim.",
+  "translation": "Cân công bình, đá cân công bình, êpha công bình, và hin công bình sẽ có cho các ngươi; ta là Yahweh Elohim các ngươi, Đấng đã đưa ⟨את⟩ ⟨אתכם⟩ các ngươi ra khỏi đất Mitsrayim.",
   "tokens": [
     {
       "surface": "מאזני",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "các ngươi"
     },
     {
@@ -81,6 +81,6 @@
       "gloss": "Mitsrayim"
     }
   ],
-  "timestamp": "2026-08-19T02:45:59.609501549Z",
+  "timestamp": "2026-08-19T06:41:41.036736151Z",
   "model": "glm-5.3"
 }

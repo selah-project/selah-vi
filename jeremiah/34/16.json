@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "vi",
   "chapter": 34,
-  "translation": "nhưng các ngươi đã quay lại và làm ô uế ⟨את⟩ Danh Ta, và đã đưa mỗi người ⟨את⟩ tôi trai mình và mỗi người ⟨את⟩ nàng hầu mình trở lại — những kẻ các ngươi đã tha cho tự do theo ý họ — và các ngươi đã khuất phục ⟨אתם⟩ để họ trở thành tôi trai và nàng hầu cho các ngươi.",
+  "translation": "nhưng các ngươi đã quay lại và làm ô uế ⟨את⟩ Danh Ta, và đã đưa mỗi người ⟨את⟩ tôi trai mình và mỗi người ⟨את⟩ nàng hầu mình trở lại — những kẻ các ngươi đã tha cho tự do theo ý họ — và các ngươi đã khuất phục ⟨את⟩ ⟨אתם⟩ để họ trở thành tôi trai và nàng hầu cho các ngươi.",
   "tokens": [
     {
       "surface": "ותשבו",
@@ -76,7 +76,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "họ"
     },
     {
@@ -96,6 +96,6 @@
       "gloss": "và nàng hound"
     }
   ],
-  "timestamp": "2026-08-19T04:26:10.519009063Z",
+  "timestamp": "2026-08-19T06:41:40.969188086Z",
   "model": "glm-5.3"
 }

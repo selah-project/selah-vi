@@ -5,7 +5,7 @@
   "book": "esther",
   "lang": "vi",
   "chapter": 9,
-  "translation": "như những ngày mà người Yehuda được nghỉ ngơi khỏi kẻ thù của họ, và tháng đã được đổi chuyển cho họ từ đau thương sang vui mừng, và từ than khóc sang ngày tốt lành; để làm ⟨אתם⟩ những ngày ấy thành ngày yến tiệc và vui mừng, và gửi phần quà người nọ cho bạn mình, và tặng vật cho những người nghèo khó.",
+  "translation": "như những ngày mà người Yehuda được nghỉ ngơi khỏi kẻ thù của họ, và tháng đã được đổi chuyển cho họ từ đau thương sang vui mừng, và từ than khóc sang ngày tốt lành; để làm ⟨את⟩ ⟨אתם⟩ những ngày ấy thành ngày yến tiệc và vui mừng, và gửi phần quà người nọ cho bạn mình, và tặng vật cho những người nghèo khó.",
   "tokens": [
     {
       "surface": "כימים",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "những ngày ấy"
     },
     {
@@ -113,6 +113,6 @@
       "gloss": "cho những người nghèo khó"
     }
   ],
-  "timestamp": "2026-08-19T05:35:59.516018379Z",
+  "timestamp": "2026-08-19T06:41:40.954726962Z",
   "model": "glm-5.3"
 }

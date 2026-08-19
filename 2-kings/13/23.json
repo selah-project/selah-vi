@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "vi",
   "chapter": 13,
-  "translation": "Và Yahweh ban ơn cho ⟨אתם⟩ họ, và thương xót họ, và quay lại hướng về họ, vì cớ giao ước của Ngài với Avraham, với Yitschak và Yaakov; và Ngài không muốn hủy diệt họ, và không ném họ khỏi trước mặt Ngài cho đến giờ này.",
+  "translation": "Và Yahweh ban ơn cho ⟨את⟩ ⟨אתם⟩ họ, và thương xót họ, và quay lại hướng về họ, vì cớ giao ước của Ngài với Avraham, với Yitschak và Yaakov; và Ngài không muốn hủy diệt họ, và không ném họ khỏi trước mặt Ngài cho đến giờ này.",
   "tokens": [
     {
       "surface": "ויחן",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "họ"
     },
     {
@@ -94,6 +94,6 @@
       "gloss": "giờ này"
     }
   ],
-  "timestamp": "2026-08-19T03:59:38.811427576Z",
+  "timestamp": "2026-08-19T06:41:41.032008171Z",
   "model": "glm-5.3"
 }

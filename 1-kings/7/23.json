@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "vi",
   "chapter": 7,
-  "translation": "Ngài làm ⟨את⟩ Biển ăn bằng kim loại đúc, mười ammah từ mép này đến mép kia, tròn quanh; chiều cao nó năm ammah, và một sợi dây ba mươi ammah bao ⟨את nó⟩ quanh.",
+  "translation": "Ngài làm ⟨את⟩ Biển ăn bằng kim loại đúc, mười ammah từ mép này đến mép kia, tròn quanh; chiều cao nó năm ammah, và một sợi dây ba mươi ammah bao ⟨את⟩ ⟨את nó⟩ quanh.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את nó⟩",
+      "gloss": "⟨את⟩ ⟨את nó⟩",
       "marks": "nó (Biển ăn)"
     },
     {
@@ -90,6 +90,6 @@
       "gloss": "quanh"
     }
   ],
-  "timestamp": "2026-08-19T03:48:52.480016041Z",
+  "timestamp": "2026-08-19T06:41:41.055566572Z",
   "model": "glm-5.3"
 }

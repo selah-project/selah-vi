@@ -5,7 +5,7 @@
   "book": "joel",
   "lang": "vi",
   "chapter": 2,
-  "translation": "Và Yahweh đã đáp lời và nói với dân sự Ngài: Này, Ta đang gửi đến các ngươi ⟨את⟩ ngũ cốc, rượu mới và dầu; và các ngươi sẽ được no đầy ⟨את nó⟩; và Ta sẽ không còn ban các ngươi làm sự sỉ nhục giữa các dân tộc nữa.",
+  "translation": "Và Yahweh đã đáp lời và nói với dân sự Ngài: Này, Ta đang gửi đến các ngươi ⟨את⟩ ngũ cốc, rượu mới và dầu; và các ngươi sẽ được no đầy ⟨את⟩ ⟨את nó⟩; và Ta sẽ không còn ban các ngươi làm sự sỉ nhục giữa các dân tộc nữa.",
   "tokens": [
     {
       "surface": "ויען",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את nó⟩",
+      "gloss": "⟨את⟩ ⟨את nó⟩",
       "marks": "ngũ cốc, rượu mới và dầu"
     },
     {
@@ -71,7 +71,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את các ngươi⟩",
+      "gloss": "⟨את⟩ ⟨את các ngươi⟩",
       "marks": "các ngươi"
     },
     {
@@ -87,6 +87,6 @@
       "gloss": "giữa các dân tộc"
     }
   ],
-  "timestamp": "2026-08-19T06:16:26.625374267Z",
+  "timestamp": "2026-08-19T06:41:40.996440999Z",
   "model": "glm-5.3"
 }

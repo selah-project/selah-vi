@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 14,
-  "translation": "Và toàn thể hội chúng nói để ném đá ⟨אתם⟩ bằng đá; và vinh quang của Yahweh hiện ra trong lều hội, trước mặt toàn thể con cái Yisrael.",
+  "translation": "Và toàn thể hội chúng nói để ném đá ⟨את⟩ ⟨אתם⟩ bằng đá; và vinh quang của Yahweh hiện ra trong lều hội, trước mặt toàn thể con cái Yisrael.",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "họ (Yehoshua và Kalev)"
     },
     {
@@ -69,6 +69,6 @@
       "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-08-19T02:56:19.169830355Z",
+  "timestamp": "2026-08-19T06:41:41.050593200Z",
   "model": "glm-5.3"
 }

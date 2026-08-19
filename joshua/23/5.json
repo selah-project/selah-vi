@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "vi",
   "chapter": 23,
-  "translation": "Và Yahweh Elohim của các ngươi, chính Ngài sẽ xua đuổi họ khỏi mặt các ngươi, và trục xuất ⟨אתם⟩ khỏi trước mặt các ngươi; và các ngươi sẽ chiếm hữu ⟨את⟩ đất của họ, như Yahweh Elohim của các ngươi đã phán với các ngươi.",
+  "translation": "Và Yahweh Elohim của các ngươi, chính Ngài sẽ xua đuổi họ khỏi mặt các ngươi, và trục xuất ⟨את⟩ ⟨אתם⟩ khỏi trước mặt các ngươi; và các ngươi sẽ chiếm hữu ⟨את⟩ đất của họ, như Yahweh Elohim của các ngươi đã phán với các ngươi.",
   "tokens": [
     {
       "surface": "ויהוה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "họ (các dân tộc ấy)"
     },
     {
@@ -74,6 +74,6 @@
       "gloss": "với các ngươi"
     }
   ],
-  "timestamp": "2026-08-19T03:21:39.883173719Z",
+  "timestamp": "2026-08-19T06:41:41.053522960Z",
   "model": "glm-5.3"
 }

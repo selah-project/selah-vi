@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 1,
-  "translation": "Và Elohim sáng tạo ⟨את⟩ con người theo hình ảnh Ngài; theo hình ảnh Elohim Ngài đã sáng tạo ⟨אתו⟩; nam và nữ Ngài đã sáng tạo ⟨אתם⟩.",
+  "translation": "Và Elohim sáng tạo ⟨את⟩ con người theo hình ảnh Ngài; theo hình ảnh Elohim Ngài đã sáng tạo ⟨את⟩ ⟨אתו⟩; nam và nữ Ngài đã sáng tạo ⟨את⟩ ⟨אתם⟩.",
   "tokens": [
     {
       "surface": "ויברא",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "hắn"
     },
     {
@@ -59,10 +59,10 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "chúng"
     }
   ],
-  "timestamp": "2026-08-19T00:47:11.380315969Z",
+  "timestamp": "2026-08-19T06:41:40.951466772Z",
   "model": "glm-5.3"
 }

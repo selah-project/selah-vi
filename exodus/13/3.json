@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 13,
-  "translation": "Và Moshe nói với dân: Hãy nhớ ⟨את⟩ ngày này, mà các ngươi đã ra khỏi Mitzrayim, khỏi nhà nô lệ, vì bằng bàn tay mạnh mẽ Yahweh đã đưa các ngươi ⟨אתכם⟩ ra khỏi đây; và bánh có men không được ăn.",
+  "translation": "Và Moshe nói với dân: Hãy nhớ ⟨את⟩ ngày này, mà các ngươi đã ra khỏi Mitzrayim, khỏi nhà nô lệ, vì bằng bàn tay mạnh mẽ Yahweh đã đưa các ngươi ⟨את⟩ ⟨אתכם⟩ ra khỏi đây; và bánh có men không được ăn.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "các ngươi"
     },
     {
@@ -102,6 +102,6 @@
       "gloss": "bánh-có-men"
     }
   ],
-  "timestamp": "2026-08-19T02:31:13.647810729Z",
+  "timestamp": "2026-08-19T06:41:40.995004560Z",
   "model": "glm-5.3"
 }

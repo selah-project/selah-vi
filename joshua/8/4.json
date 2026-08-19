@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "vi",
   "chapter": 8,
-  "translation": "Và ⟨הוא⟩ truyền lệnh ⟨אתם⟩ nói rằng: Hãy thấy, chính các ngươi là phục binh đối với thành, ở phía sau thành; đừng đi xa khỏi thành quá nhiều, và tất cả các ngươi hãy sẵn sàng.",
+  "translation": "Và ⟨הוא⟩ truyền lệnh ⟨את⟩ ⟨אתם⟩ nói rằng: Hãy thấy, chính các ngươi là phục binh đối với thành, ở phía sau thành; đừng đi xa khỏi thành quá nhiều, và tất cả các ngươi hãy sẵn sàng.",
   "tokens": [
     {
       "surface": "ויצו",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩"
+      "gloss": "⟨את⟩ ⟨אתם⟩"
     },
     {
       "surface": "לאמר",
@@ -76,6 +76,6 @@
       "gloss": "sẵn sàng"
     }
   ],
-  "timestamp": "2026-08-19T03:17:47.640802126Z",
+  "timestamp": "2026-08-19T06:41:41.054761622Z",
   "model": "glm-5.3"
 }

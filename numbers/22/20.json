@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 22,
-  "translation": "Và Elohim đến cùng Bilam trong đêm và nói với ông: Nếu những người này đến để gọi ngươi, hãy đứng dậy, đi với ⟨אתם⟩ họ; nhưng chỉ ⟨את⟩ điều mà ta sẽ phán với ngươi — ⟨אתו⟩ điều đó ngươi hãy làm.",
+  "translation": "Và Elohim đến cùng Bilam trong đêm và nói với ông: Nếu những người này đến để gọi ngươi, hãy đứng dậy, đi ⟨את⟩ với ⟨אתם⟩ họ; nhưng chỉ ⟨את⟩ điều mà ta sẽ phán với ngươi — ⟨את⟩ ⟨אתו⟩ điều đó ngươi hãy làm.",
   "tokens": [
     {
       "surface": "ויבא",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "với ⟨אתם⟩"
+      "gloss": "⟨את⟩ với ⟨אתם⟩"
     },
     {
       "surface": "ואך",
@@ -94,7 +94,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "điều đó"
     },
     {
@@ -102,6 +102,6 @@
       "gloss": "ngươi hãy làm"
     }
   ],
-  "timestamp": "2026-08-19T02:59:49.669290825Z",
+  "timestamp": "2026-08-19T06:41:41.047569996Z",
   "model": "glm-5.3"
 }

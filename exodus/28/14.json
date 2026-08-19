@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 28,
-  "translation": "và hai sợi dây xích bằng vàng tinh khiết, hình vành viền, ngươi sẽ làm ⟨אתם⟩ chúng, công việc bện xoắn; rồi ngươi đặt ⟨את⟩ các dây xích bện ấy trên các miếng khảm.",
+  "translation": "và hai sợi dây xích bằng vàng tinh khiết, hình vành viền, ngươi sẽ làm ⟨את⟩ ⟨אתם⟩ chúng, công việc bện xoắn; rồi ngươi đặt ⟨את⟩ các dây xích bện ấy trên các miếng khảm.",
   "tokens": [
     {
       "surface": "ושתי",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "chúng (các dây xích)"
     },
     {
@@ -70,6 +70,6 @@
       "gloss": "các miếng khảm (có mạo)"
     }
   ],
-  "timestamp": "2026-08-19T02:35:10.949883140Z",
+  "timestamp": "2026-08-19T06:41:40.985553338Z",
   "model": "glm-5.3"
 }

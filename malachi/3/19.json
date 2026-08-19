@@ -5,7 +5,7 @@
   "book": "malachi",
   "lang": "vi",
   "chapter": 3,
-  "translation": "Vì nầy, ngày đến đang cháy như lò; và mọi kẻ ngạo mạn cùng mọi kẻ làm điều ác sẽ như rơm; và ngày đến sẽ thiêu đốt ⟨אתם⟩ chúng, Yahweh Tsevaot phán, đếnỗi sẽ không còn lại cho chúng rễ và nhánh.",
+  "translation": "Vì nầy, ngày đến đang cháy như lò; và mọi kẻ ngạo mạn cùng mọi kẻ làm điều ác sẽ như rơm; và ngày đến sẽ thiêu đốt ⟨את⟩ ⟨אתם⟩ chúng, Yahweh Tsevaot phán, đếnỗi sẽ không còn lại cho chúng rễ và nhánh.",
   "tokens": [
     {
       "surface": "כי",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "chúng"
     },
     {
@@ -113,6 +113,6 @@
       "gloss": "và nhánh"
     }
   ],
-  "timestamp": "2026-08-19T04:55:32.048803181Z",
+  "timestamp": "2026-08-19T06:41:41.002222337Z",
   "model": "glm-5.3"
 }

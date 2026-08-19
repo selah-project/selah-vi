@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 2,
-  "translation": "Và người đàn bà thụ thai, và sinh một con trai; và bà thấy ⟨אתו⟩ rằng ⟨hắn⟩ tốt, và bà giấu hắn ba tháng.",
+  "translation": "Và người đàn bà thụ thai, và sinh một con trai; và bà thấy ⟨את⟩ ⟨אתו⟩ rằng ⟨hắn⟩ tốt, và bà giấu hắn ba tháng.",
   "tokens": [
     {
       "surface": "ותהר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "hắn"
     },
     {
@@ -57,6 +57,6 @@
       "gloss": "tháng"
     }
   ],
-  "timestamp": "2026-08-19T02:27:48.389936890Z",
+  "timestamp": "2026-08-19T06:41:40.990542872Z",
   "model": "glm-5.3"
 }

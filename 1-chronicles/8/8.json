@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "vi",
   "chapter": 8,
-  "translation": "Và Shaharaim sinh con tại đồng bằng Moav, sau khi ông đã rủa bỏ ⟨אתם⟩ — Chushim và ⟨את⟩ Baara, các vợ ông.",
+  "translation": "Và Shaharaim sinh con tại đồng bằng Moav, sau khi ông đã rủa bỏ ⟨את⟩ ⟨אתם⟩ — Chushim và ⟨את⟩ Baara, các vợ ông.",
   "tokens": [
     {
       "surface": "ושחרים",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "Chushim và Baara"
     },
     {
@@ -54,6 +54,6 @@
       "gloss": "các vợ ông"
     }
   ],
-  "timestamp": "2026-08-19T05:48:45.246822713Z",
+  "timestamp": "2026-08-19T06:41:40.997285807Z",
   "model": "glm-5.3"
 }

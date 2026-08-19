@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "vi",
   "chapter": 31,
-  "translation": "Và Yahweh sẽ làm với chúng như Ngài đã làm với Sichon và với Og, các vua của HaEmori, và với đất của chúng — những kẻ mà Ngài đã hủy diệt ⟨אתם⟩.",
+  "translation": "Và Yahweh sẽ làm với chúng như Ngài đã làm với Sichon và với Og, các vua của HaEmori, và với đất của chúng — những kẻ mà Ngài đã hủy diệt ⟨את⟩ ⟨אתם⟩.",
   "tokens": [
     {
       "surface": "ועשה",
@@ -57,10 +57,10 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "chúng (Sichon và Og)"
     }
   ],
-  "timestamp": "2026-08-19T03:13:06.091605090Z",
+  "timestamp": "2026-08-19T06:41:41.023201685Z",
   "model": "glm-5.3"
 }

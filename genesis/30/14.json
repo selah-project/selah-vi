@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 30,
-  "translation": "Reuven đi trong những ngày gặt lúa mì, và tìm thấy trái mандrake trong đồng, đem chúng ⟨אתם⟩ về cho Leah mẹ mình. Rachel nói với Leah: \"Xin cho tôi vài trái mандrake của con trai bà.\"",
+  "translation": "Reuven đi trong những ngày gặt lúa mì, và tìm thấy trái mандrake trong đồng, đem chúng ⟨את⟩ ⟨אתם⟩ về cho Leah mẹ mình. Rachel nói với Leah: \"Xin cho tôi vài trái mандrake của con trai bà.\"",
   "tokens": [
     {
       "surface": "וילך",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "chúng (trái mandrake)"
     },
     {
@@ -97,6 +97,6 @@
       "gloss": "của con trai bà"
     }
   ],
-  "timestamp": "2026-08-19T01:14:11.196900238Z",
+  "timestamp": "2026-08-19T06:41:40.943600603Z",
   "model": "glm-5.3"
 }

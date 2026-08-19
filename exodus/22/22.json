@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 22,
-  "translation": "Nếu ngươi hà hiếp thật sự ⟨אתו⟩ hắn — quả thật nếu hắn kêu cầu cùng Ta, thì Ta sẽ nghe chắc chắn tiếng kêu cầu của hắn;",
+  "translation": "Nếu ngươi hà hiếp thật sự ⟨את⟩ ⟨אתו⟩ hắn — quả thật nếu hắn kêu cầu cùng Ta, thì Ta sẽ nghe chắc chắn tiếng kêu cầu của hắn;",
   "tokens": [
     {
       "surface": "אם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩ hắn",
+      "gloss": "⟨את⟩ ⟨אתו⟩ hắn",
       "marks": "hắn (quả phụ hoặc trẻ mồ côi)"
     },
     {
@@ -57,6 +57,6 @@
       "gloss": "tiếng kêu cầu của hắn"
     }
   ],
-  "timestamp": "2026-08-19T02:33:26.226385968Z",
+  "timestamp": "2026-08-19T06:41:40.989331073Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "vi",
   "chapter": 19,
-  "translation": "Ngươi chớ hà hiếp ⟨את⟩ người lân cận của ngươi, và chớ cướp đoạt; công việc của người làm thuê ⟨אתך⟩ chớ để lại qua đêm cho đến buổi sáng.",
+  "translation": "Ngươi chớ hà hiếp ⟨את⟩ người lân cận của ngươi, và chớ cướp đoạt; công việc của người làm thuê ⟨את⟩ ⟨אתך⟩ chớ để lại qua đêm cho đến buổi sáng.",
   "tokens": [
     {
       "surface": "לא",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨אתך⟩"
+      "gloss": "⟨את⟩ ⟨אתך⟩"
     },
     {
       "surface": "עד",
@@ -61,6 +61,6 @@
       "gloss": "buổi sáng"
     }
   ],
-  "timestamp": "2026-08-19T02:45:28.738865491Z",
+  "timestamp": "2026-08-19T06:41:41.037138200Z",
   "model": "glm-5.3"
 }

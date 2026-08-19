@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 3,
-  "translation": "Hãy đi, và hãy tập hợp ⟨את⟩ các trưởng lão của Yisra'el, và ngươi sẽ nói với chúng: 'Yahweh, Elohim của tổ phụ các ngươi, đã hiện ra với tôi — Elohim của Avraham, Yitschak, và Yaakov — mà phán: Chắc chắn Ta đã thăm các ngươi ⟨אתכם⟩ và ⟨את⟩ điều đã làm cho các ngươi trong Mitzrayim.'",
+  "translation": "Hãy đi, và hãy tập hợp ⟨את⟩ các trưởng lão của Yisra'el, và ngươi sẽ nói với chúng: 'Yahweh, Elohim của tổ phụ các ngươi, đã hiện ra với tôi — Elohim của Avraham, Yitschak, và Yaakov — mà phán: Chắc chắn Ta đã thăm các ngươi ⟨את⟩ ⟨אתכם⟩ và ⟨את⟩ điều đã làm cho các ngươi trong Mitzrayim.'",
   "tokens": [
     {
       "surface": "לך",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "các ngươi"
     },
     {
@@ -107,6 +107,6 @@
       "gloss": "trong Mitzrayim"
     }
   ],
-  "timestamp": "2026-08-19T02:28:07.617435532Z",
+  "timestamp": "2026-08-19T06:41:40.987673851Z",
   "model": "glm-5.3"
 }

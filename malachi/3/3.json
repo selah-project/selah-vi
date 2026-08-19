@@ -5,7 +5,7 @@
   "book": "malachi",
   "lang": "vi",
   "chapter": 3,
-  "translation": "Và Ngài sẽ ngồi như người luyện và thanh luyện bạc, và sẽ thanh luyện ⟨את⟩ con trai của Levi, và luyện lọc ⟨אתם⟩ như vàng và như bạc; và chúng sẽ thuộc về Yahweh, dâng lên lễ vật trong sự công bình.",
+  "translation": "Và Ngài sẽ ngồi như người luyện và thanh luyện bạc, và sẽ thanh luyện ⟨את⟩ con trai của Levi, và luyện lọc ⟨את⟩ ⟨אתם⟩ như vàng và như bạc; và chúng sẽ thuộc về Yahweh, dâng lên lễ vật trong sự công bình.",
   "tokens": [
     {
       "surface": "וישב",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "chúng"
     },
     {
@@ -78,6 +78,6 @@
       "gloss": "trong sự công bình"
     }
   ],
-  "timestamp": "2026-08-19T04:55:24.766314969Z",
+  "timestamp": "2026-08-19T06:41:41.001378511Z",
   "model": "glm-5.3"
 }

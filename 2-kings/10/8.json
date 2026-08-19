@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "vi",
   "chapter": 10,
-  "translation": "Sứ giả đến và báo cho người, nói: Họ đã đem đến các đầu của con trai vua. Người nói: Hãy đặt ⟨אתם⟩ chúng thành hai đống trước cổng thành, cho đến sáng.",
+  "translation": "Sứ giả đến và báo cho người, nói: Họ đã đem đến các đầu của con trai vua. Người nói: Hãy đặt ⟨את⟩ ⟨אתם⟩ chúng thành hai đống trước cổng thành, cho đến sáng.",
   "tokens": [
     {
       "surface": "ויבא",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "chúng (các đầu)"
     },
     {
@@ -81,6 +81,6 @@
       "gloss": "sáng"
     }
   ],
-  "timestamp": "2026-08-19T03:58:57.929303052Z",
+  "timestamp": "2026-08-19T06:41:41.029200039Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 24,
-  "translation": "Nếu Balak ban cho tôi đầy nhà hắn bạc và vàng, tôi cũng không thể vượt qua ⟨את⟩ miệng Yahweh để làm điều lành hay điều dữ tùy theo lòng mình; điều mà Yahweh phán — ⟨אתו⟩ điều đó tôi sẽ nói.",
+  "translation": "Nếu Balak ban cho tôi đầy nhà hắn bạc và vàng, tôi cũng không thể vượt qua ⟨את⟩ miệng Yahweh để làm điều lành hay điều dữ tùy theo lòng mình; điều mà Yahweh phán — ⟨את⟩ ⟨אתו⟩ điều đó tôi sẽ nói.",
   "tokens": [
     {
       "surface": "אם",
@@ -98,7 +98,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "điều đó tôi sẽ nói"
     },
     {
@@ -106,6 +106,6 @@
       "gloss": "tôi sẽ nói"
     }
   ],
-  "timestamp": "2026-08-19T03:00:35.563184748Z",
+  "timestamp": "2026-08-19T06:41:41.051390615Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "vi",
   "chapter": 21,
-  "translation": "Và Ta sẽ không thêm làm cho bàn chân của Yisrael xiêu tắt khỏi đất mà Ta đã ban cho tổ phụ họa; chỉ trừ nếu họ gìn giữ để làm theo mọi điều Ta đã truyền dạy họ, và theo toàn bộ Torah mà Moshe, tôi tớ Ta, đã truyền dạy ⟨אתם⟩.",
+  "translation": "Và Ta sẽ không thêm làm cho bàn chân của Yisrael xiêu tắt khỏi đất mà Ta đã ban cho tổ phụ họa; chỉ trừ nếu họ gìn giữ để làm theo mọi điều Ta đã truyền dạy họ, và theo toàn bộ Torah mà Moshe, tôi tớ Ta, đã truyền dạy ⟨את⟩ ⟨אתם⟩.",
   "tokens": [
     {
       "surface": "ולא",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "họ"
     },
     {
@@ -105,6 +105,6 @@
       "gloss": "Moshe"
     }
   ],
-  "timestamp": "2026-08-19T04:02:27.153958014Z",
+  "timestamp": "2026-08-19T06:41:41.030001111Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 30,
-  "translation": "Và ngươi sẽ làm ⟨אתו⟩ thành dầu xức thánh, một hương liệu pha trộn, việc làm của người pha hương; nó sẽ là dầu xức thánh.",
+  "translation": "Và ngươi sẽ làm ⟨את⟩ ⟨אתו⟩ thành dầu xức thánh, một hương liệu pha trộn, việc làm của người pha hương; nó sẽ là dầu xức thánh.",
   "tokens": [
     {
       "surface": "ועשית",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "dầu xức thánh"
     },
     {
@@ -61,6 +61,6 @@
       "gloss": "sẽ là"
     }
   ],
-  "timestamp": "2026-08-19T02:35:56.452064383Z",
+  "timestamp": "2026-08-19T06:41:40.985973293Z",
   "model": "glm-5.3"
 }

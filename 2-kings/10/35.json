@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "vi",
   "chapter": 10,
-  "translation": "Yehu nằm xuống với các tổ phụ mình, và người ta chôn ⟨אתו⟩ ông tại Shomron; và Yehoachaz con trai ông làm vua thay chỗ ông.",
+  "translation": "Yehu nằm xuống với các tổ phụ mình, và người ta chôn ⟨את⟩ ⟨אתו⟩ ông tại Shomron; và Yehoachaz con trai ông làm vua thay chỗ ông.",
   "tokens": [
     {
       "surface": "וישכב",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "ông (Yehu)"
     },
     {
@@ -53,6 +53,6 @@
       "gloss": "thay chỗ ông"
     }
   ],
-  "timestamp": "2026-08-19T03:58:07.145039514Z",
+  "timestamp": "2026-08-19T06:41:41.029606106Z",
   "model": "glm-5.3"
 }

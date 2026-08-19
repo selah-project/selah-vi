@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "vi",
   "chapter": 12,
-  "translation": "Ta sẽ giăng ⟨את⟩ lưới của ta trên nó, và nó bị bắt trong bẫy của ta; ta sẽ đem ⟨אתו⟩ nó đến Bavel, đất của Kasdim, nhưng ⟨אותה⟩ nó sẽ không thấy, và tại đó nó sẽ chết.",
+  "translation": "Ta sẽ giăng ⟨את⟩ lưới của ta trên nó, và nó bị bắt trong bẫy của ta; ta sẽ đem ⟨את⟩ ⟨אתו⟩ nó đến Bavel, đất của Kasdim, nhưng ⟨אותה⟩ nó sẽ không thấy, và tại đó nó sẽ chết.",
   "tokens": [
     {
       "surface": "ופרשתי",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "nó"
     },
     {
@@ -75,6 +75,6 @@
       "gloss": "nó sẽ chết"
     }
   ],
-  "timestamp": "2026-08-19T04:34:01.562119071Z",
+  "timestamp": "2026-08-19T06:41:41.026425774Z",
   "model": "glm-5.3"
 }

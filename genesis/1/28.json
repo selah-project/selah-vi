@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 1,
-  "translation": "Và Elohim ban phước ⟨אתם⟩ cho họ, và Elohim phán với họ: Hãy sinh sôi, hãy nhiều lên, hãy làm đầy ⟨את⟩ đất và trấn phục nó; và hãy thống trị cá biển, chim trời, và mọi sinh vật bò trườn trên đất.",
+  "translation": "Và Elohim ban phước ⟨את⟩ ⟨אתם⟩ cho họ, và Elohim phán với họ: Hãy sinh sôi, hãy nhiều lên, hãy làm đầy ⟨את⟩ đất và trấn phục nó; và hãy thống trị cá biển, chim trời, và mọi sinh vật bò trườn trên đất.",
   "tokens": [
     {
       "surface": "ויברך",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "họ"
     },
     {
@@ -98,6 +98,6 @@
       "gloss": "đất"
     }
   ],
-  "timestamp": "2026-08-19T00:47:11.380521922Z",
+  "timestamp": "2026-08-19T06:41:40.952364545Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "vi",
   "chapter": 6,
-  "translation": "⟨את⟩ Yahweh Elohim ngươi hãy kính sợ, và ⟨אתו⟩ hãy phụng sự, và nhân Danh Ngươi hãy thề.",
+  "translation": "⟨את⟩ Yahweh Elohim ngươi hãy kính sợ, ⟨את⟩ và ⟨אתו⟩ hãy phụng sự, và nhân Danh Ngươi hãy thề.",
   "tokens": [
     {
       "surface": "את",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "ואתו",
-      "gloss": "và ⟨אתו⟩",
+      "gloss": "⟨את⟩ và ⟨אתו⟩",
       "marks": "hãy phụng sự"
     },
     {
@@ -42,6 +42,6 @@
       "gloss": "hãy thề"
     }
   ],
-  "timestamp": "2026-08-19T03:05:58.645058434Z",
+  "timestamp": "2026-08-19T06:41:41.021917074Z",
   "model": "glm-5.3"
 }

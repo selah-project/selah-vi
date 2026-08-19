@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 18,
-  "translation": "Và Yitro nói: Đáng chúc phúc là Yahweh, Đấng đã giải thoát ⟨אתכם⟩ các ngươi khỏi tay Mitsrayim và khỏi tay Paroh, Đấng đã giải thoát ⟨את⟩ dân khỏi dưới tay Mitsrayim.",
+  "translation": "Và Yitro nói: Đáng chúc phúc là Yahweh, Đấng đã giải thoát ⟨את⟩ ⟨אתכם⟩ các ngươi khỏi tay Mitsrayim và khỏi tay Paroh, Đấng đã giải thoát ⟨את⟩ dân khỏi dưới tay Mitsrayim.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "các ngươi"
     },
     {
@@ -82,6 +82,6 @@
       "gloss": "Mitsrayim"
     }
   ],
-  "timestamp": "2026-08-19T02:32:06.798832376Z",
+  "timestamp": "2026-08-19T06:41:40.995443481Z",
   "model": "glm-5.3"
 }

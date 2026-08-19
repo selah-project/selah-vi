@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "vi",
   "chapter": 17,
-  "translation": "Và bất kỳ người nào của nhà Yisrael, hay trong những kiều dân kiều ngụ giữa họ, ăn huyết nào — thì Ta sẽ đặt mặt Ta chống lại ⟨את⟩ huyết — người sinh mạng ăn huyết đó — và Ta sẽ cắt bỏ ⟨אתה⟩ nó khỏi giữa dân sự của nó.",
+  "translation": "Và bất kỳ người nào của nhà Yisrael, hay trong những kiều dân kiều ngụ giữa họ, ăn huyết nào — thì Ta sẽ đặt mặt Ta chống lại ⟨את⟩ huyết — người sinh mạng ăn huyết đó — và Ta sẽ cắt bỏ ⟨את⟩ ⟨אתה⟩ nó khỏi giữa dân sự của nó.",
   "tokens": [
     {
       "surface": "ואיש",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "⟨אתה⟩",
+      "gloss": "⟨את⟩ ⟨אתה⟩",
       "marks": "nó khỏi giữa dân sự của nó"
     },
     {
@@ -98,6 +98,6 @@
       "gloss": "dân sự của nó"
     }
   ],
-  "timestamp": "2026-08-19T06:04:33.374128122Z",
+  "timestamp": "2026-08-19T06:41:41.035731369Z",
   "model": "glm-5.3"
 }

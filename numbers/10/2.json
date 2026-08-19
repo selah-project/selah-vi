@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 10,
-  "translation": "Hãy làm cho ngươi hai cái kèn bằng bạc, công việc đúc hoa văn ngươi sẽ làm ⟨אתם⟩ chúng nó; và chúng sẽ thuộc về ngươi để triệu tập hội chúng và để khởi hành ⟨את⟩ các trại quân.",
+  "translation": "Hãy làm cho ngươi hai cái kèn bằng bạc, công việc đúc hoa văn ngươi sẽ làm ⟨את⟩ ⟨אתם⟩ chúng nó; và chúng sẽ thuộc về ngươi để triệu tập hội chúng và để khởi hành ⟨את⟩ các trại quân.",
   "tokens": [
     {
       "surface": "עשה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "chúng nó (hai cái kèn)"
     },
     {
@@ -70,6 +70,6 @@
       "gloss": "các trại quân"
     }
   ],
-  "timestamp": "2026-08-19T02:55:19.695969401Z",
+  "timestamp": "2026-08-19T06:41:41.045879708Z",
   "model": "glm-5.3"
 }

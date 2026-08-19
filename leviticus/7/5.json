@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "vi",
   "chapter": 7,
-  "translation": "Và thầy tế lễ sẽ đốt ⟨אתם⟩ chúng trên bàn thờ, của lễ dùng lửa cho Yahweh; nó là tế lễ đền tội.",
+  "translation": "Và thầy tế lễ sẽ đốt ⟨את⟩ ⟨אתם⟩ chúng trên bàn thờ, của lễ dùng lửa cho Yahweh; nó là tế lễ đền tội.",
   "tokens": [
     {
       "surface": "והקטיר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "thầy tế lễ"
     },
     {
@@ -41,6 +41,6 @@
       "gloss": "nó là"
     }
   ],
-  "timestamp": "2026-08-19T02:40:41.609213336Z",
+  "timestamp": "2026-08-19T06:41:41.034565070Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "vi",
   "chapter": 3,
-  "translation": "Người làm trong nhà Cự Thánh hai keruvim, tác phẩm chạm khắc, và phủ ⟨אתם⟩ chúng bằng vàng.",
+  "translation": "Người làm trong nhà Cự Thánh hai keruvim, tác phẩm chạm khắc, và phủ ⟨את⟩ ⟨אתם⟩ chúng bằng vàng.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "chúng (hai keruvim)"
     },
     {
@@ -53,6 +53,6 @@
       "gloss": "vàng"
     }
   ],
-  "timestamp": "2026-08-19T05:54:31.417580829Z",
+  "timestamp": "2026-08-19T06:41:41.004742754Z",
   "model": "glm-5.3"
 }

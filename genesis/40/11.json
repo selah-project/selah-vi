@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 40,
-  "translation": "Chén của Pharaoh trong tay tôi; tôi lấy ⟨את⟩ những trái nho và vắt ⟨אתם⟩ chúng vào chén của Pharaoh, rồi đặt ⟨את⟩ chén lên lòng bàn tay của Pharaoh.",
+  "translation": "Chén của Pharaoh trong tay tôi; tôi lấy ⟨את⟩ những trái nho và vắt ⟨את⟩ ⟨אתם⟩ chúng vào chén của Pharaoh, rồi đặt ⟨את⟩ chén lên lòng bàn tay của Pharaoh.",
   "tokens": [
     {
       "surface": "וכוס",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "chúng (những trái nho)"
     },
     {
@@ -79,6 +79,6 @@
       "gloss": "Pharaoh"
     }
   ],
-  "timestamp": "2026-08-19T01:24:59.324776524Z",
+  "timestamp": "2026-08-19T06:41:40.948086067Z",
   "model": "glm-5.3"
 }

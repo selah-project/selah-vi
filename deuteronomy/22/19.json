@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "vi",
   "chapter": 22,
-  "translation": "Và họ sẽ phạt hắn ⟨אתו⟩ một trăm sikl bạc, và đưa cho cha của người thiếu nữ, vì hắn đã đem ra tiếng xấu trên một trinh nữ của Yisrael; và nàng sẽ là vợ cho hắn; hắn không thể rước nàng ra mọi ngày đời hắn.",
+  "translation": "Và họ sẽ phạt hắn ⟨את⟩ ⟨אתו⟩ một trăm sikl bạc, và đưa cho cha của người thiếu nữ, vì hắn đã đem ra tiếng xấu trên một trinh nữ của Yisrael; và nàng sẽ là vợ cho hắn; hắn không thể rước nàng ra mọi ngày đời hắn.",
   "tokens": [
     {
       "surface": "וענשו",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "hắn"
     },
     {
@@ -97,6 +97,6 @@
       "gloss": "ngày đời hắn"
     }
   ],
-  "timestamp": "2026-08-19T03:10:23.068116075Z",
+  "timestamp": "2026-08-19T06:41:41.020662251Z",
   "model": "glm-5.3"
 }
