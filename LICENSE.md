@@ -1,6 +1,6 @@
 # License
 
-**The Selah Hausa Rendering** — the Selah project's
+**The Selah Vietnamese Rendering** — the Selah project's
 letter-faithful rendering of the Hebrew Bible (per-verse
 translations and per-token glosses), together with its revision
 history.
