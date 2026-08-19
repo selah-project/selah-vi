@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 32:6",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Vì kẻ hèn nói sự hèn hạ, và lòng nó làm điều gian ác, để hành sự gian trá và nói với Yahweh điều lầm lạc, để làm cạn kiệt nefesh của kẻ đói, và làm thiếu thức uống của kẻ khát.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "kẻ-hèn"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "sự-hèn-hạ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "và-lòng-nó"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "làm"
+    },
+    {
+      "surface": "און",
+      "gloss": "gian-ác"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "để-hành-sự"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "gian-trá"
+    },
+    {
+      "surface": "ולדבר",
+      "gloss": "và-nói"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תועה",
+      "gloss": "điều-lầm-lạc"
+    },
+    {
+      "surface": "להריק",
+      "gloss": "để-làm-cạn"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "kẻ-đói"
+    },
+    {
+      "surface": "ומשקה",
+      "gloss": "và-thức-uống"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "kẻ-khát"
+    },
+    {
+      "surface": "יחסיר",
+      "gloss": "làm-thiếu"
+    }
+  ],
+  "timestamp": "2026-08-19T04:09:54.269829002Z",
+  "model": "glm-5.3"
+}

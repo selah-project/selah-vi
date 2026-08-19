@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Vì bất kỳ người nào nguyền rủa ⟨את⟩ cha mình và ⟨את⟩ mẹ mình thì phải bị xử tử: cha mình và mẹ mình hắn đã nguyền rủa, máu của hắn ở trên chính hắn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bất kỳ người"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "người mà"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "nguyền rủa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cha mình"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "cha mình"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "mẹ mình"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mẹ mình"
+    },
+    {
+      "surface": "מות",
+      "gloss": "chết"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bị xử tử"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "cha mình"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "và mẹ mình"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "đã nguyền rủa"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "máu của hắn"
+    },
+    {
+      "surface": "בו",
+      "gloss": "trên chính hắn"
+    }
+  ],
+  "timestamp": "2026-08-19T02:46:20.809987386Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 18:13",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Sự trần trụi của chị em mẹ ngươi, ngươi không được phơi bày; vì ⟨ngươi⟩ là huyết thống của mẹ ngươi ⟨là⟩ nàng.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "sự trần trụi"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "chị em"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mẹ ngươi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ngươi-phơi-bày"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "huyết-thống"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mẹ ngươi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nàng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:45:19.454505649Z",
+  "model": "glm-5.3"
+}

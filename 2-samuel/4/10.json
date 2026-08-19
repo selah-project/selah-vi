@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 4:10",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "khi kẻ báo tin cho tôi rằng: Này, Shaul đã chết, và hắn vốn tự coi mình như người đem tin lành, thì ta đã nắm lấy hắn và giết hắn tại Ziklag, thay vì phải cho hắn phần thưởng vì tin lành.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "khi rằng"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "kẻ báo tin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "này"
+    },
+    {
+      "surface": "מת",
+      "gloss": "đã chết"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "và hắn"
+    },
+    {
+      "surface": "היה",
+      "gloss": "đã là"
+    },
+    {
+      "surface": "כמבשר",
+      "gloss": "như người đem tin"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "trong mắt hắn"
+    },
+    {
+      "surface": "ואחזה",
+      "gloss": "và ta đã nắm"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hắn"
+    },
+    {
+      "surface": "ואהרגהו",
+      "gloss": "và ta đã giết hắn"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "tại Ziklag"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "לתתי",
+      "gloss": "để tôi cho"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hắn"
+    },
+    {
+      "surface": "בשרה",
+      "gloss": "phần thưởng tin lành"
+    }
+  ],
+  "timestamp": "2026-08-19T03:39:56.383415137Z",
+  "model": "glm-5.3"
+}

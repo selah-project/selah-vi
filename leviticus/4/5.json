@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Vị thầy tế lễ được xức dầu sẽ lấy từ máu con bò và đem ⟨את⟩ nó vào Lều Hội Kiến.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "và sẽ-lấy"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "vị-thầy-tế-lễ"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "được-xức-dầu"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "từ-máu"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "con-bò"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "và-sẽ-đem-vào"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nó (máu con bò)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vào"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "lều"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "hội-kiến"
+    }
+  ],
+  "timestamp": "2026-08-19T02:40:10.407197558Z",
+  "model": "glm-5.3"
+}

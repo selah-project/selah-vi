@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Và bò hoặc chiên, ⟨את⟩ nó và ⟨את⟩ con nó, các ngươi chớ giết trong một ngày.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "và bò"
+    },
+    {
+      "surface": "או",
+      "gloss": "hoặc"
+    },
+    {
+      "surface": "שה",
+      "gloss": "chiên"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "con nó"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "con nó"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "các ngươi giết"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "trong ngày"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "một"
+    }
+  ],
+  "timestamp": "2026-08-19T02:46:02.517201345Z",
+  "model": "glm-5.3"
+}

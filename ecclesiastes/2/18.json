@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và tôi đã ghét ⟨את⟩ mọi cực nhọc của tôi mà tôi nhọc nhằn dưới ánh mặt trời, vì tôi phải để lại nó cho người sẽ đến sau tôi.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "và tôi đã ghét"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi cực nhọc của tôi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "cực nhọc của tôi"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "mà tôi"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "nhọc nhằn"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dưới"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "mặt trời"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "rằng tôi phải để lại nó"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "cho người"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "sẽ là"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sau tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:33.258010462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 22:1",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "David đi từ đó, và trốn thoát đến hang Adullam; anh em ông và cả nhà cha ông nghe điều đó, và xuống đến với ông tại đó.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "đi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "משם",
+      "gloss": "từ đó"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "và trốn thoát"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "hang"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adullam"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "và nghe"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "anh em ông"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và cả"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "cha ông"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "và xuống"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "đến với ông"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tại đó"
+    }
+  ],
+  "timestamp": "2026-08-19T03:36:08.291913511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và Kajin nhận biết ⟨את⟩ vợ mình, và ⟨nàng⟩ thụ thai, và sinh ra ⟨את⟩ Khanokh; và ⟨ngài⟩ trở thành người xây thành, và gọi tên của thành ấy theo tên con trai mình, Khanokh.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "và nhận biết"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vợ mình"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vợ mình"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "và thụ thai"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "và sinh ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khanokh"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Khanokh"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "và trở thành"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "người xây"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "thành"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "và gọi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tên"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "của thành ấy"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "theo tên"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "con trai mình"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Khanokh"
+    }
+  ],
+  "timestamp": "2026-08-19T00:48:42.984503061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 124,
+  "translation": "Sinh mạng chúng ta ⟨đã⟩ thoát như chim khỏi bẫy ⟨của⟩ kẻ đặt lưới; bẫy đã gãy, và chúng ta ⟨đã⟩ thoát.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "sinh mạng chúng ta"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "chim"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "đã thoát"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "khỏi bẫy"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "kẻ đặt lưới"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "bẫy"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "đã gãy"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "và chúng ta"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "đã thoát"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:59.401135108Z",
+  "model": "glm-5.3"
+}

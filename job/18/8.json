@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 18:8",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Vì ⟨ông⟩ bị sa vào lưới bởi chính chân mình, và trên bẫy lưới ⟨ông⟩ bước đi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "bị sa vào"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "vào lưới"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "bởi chân ông"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "và trên"
+    },
+    {
+      "surface": "שבכה",
+      "gloss": "bẫy lưới"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "ông bước đi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:23:15.944563768Z",
+  "model": "glm-5.3"
+}

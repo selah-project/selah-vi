@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 33,
+  "translation": "Và toàn thể dân sự thấy ⟨את⟩ cột mây đứng tại cửa trại, và toàn thể dân sự đứng dậy và sụp lạy, mỗi người tại cửa trại mình.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "và thấy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cột mây"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "cột"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "mây"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "đứng"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "tại cửa"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "trại"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "và đứng dậy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "và sụp lạy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mỗi người"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "tại cửa"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "trại mình"
+    }
+  ],
+  "timestamp": "2026-08-19T06:03:49.581420768Z",
+  "model": "glm-5.3"
+}

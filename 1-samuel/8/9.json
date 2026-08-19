@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 8:9",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và bây giờ, hãy nghe theo tiếng của họ; chỉ vậy thôi, ngươi hãy nghiêm khắc làm chứng cho họ, và ngươi sẽ tỏ cho họ biết phán quyết của vua sẽ trị vì trên họ",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "và bây giờ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hãy nghe"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "theo tiếng của họ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "chỉ vậy thôi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨rằng⟩"
+    },
+    {
+      "surface": "העד",
+      "gloss": "hãy làm chứng"
+    },
+    {
+      "surface": "תעיד",
+      "gloss": "nghiêm khắc làm chứng"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "cho họ"
+    },
+    {
+      "surface": "והגדת",
+      "gloss": "và ngươi sẽ tỏ cho biết"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho họ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "phán quyết"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "của vua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "sẽ trị vì"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "trên họ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:30:26.403071931Z",
+  "model": "glm-5.3"
+}

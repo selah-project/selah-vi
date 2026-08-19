@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Va Elohim đưa ⟨את⟩ dân đi vòng qua con đường hoang mạc, biển Súp; và con cái Yisrael lên khỏi đất Mitsrayim trong trang bị chiến đấu.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "và đưa đi vòng"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "con đường"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "hoang mạc"
+    },
+    {
+      "surface": "ים",
+      "gloss": "biển"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Súp (súng)"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "trong trang bị \/ năm-chục"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "lên"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "khỏi đất"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T02:31:22.003429563Z",
+  "model": "glm-5.3"
+}

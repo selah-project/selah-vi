@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 72,
+  "translation": "Các vua Tarshish và các hải đảo sẽ triều cống; các vua Sheva và Sva sẽ dâng lễ vật.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "các vua"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "và các hải đảo"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "quà triều cống"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "sẽ đem lại"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "các vua"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "và Sva"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "lễ vật"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "sẽ dâng gần"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:25.195568689Z",
+  "model": "glm-5.3"
+}

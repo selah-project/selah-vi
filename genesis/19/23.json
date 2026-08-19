@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 19:23",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Mặt trời đã mọc trên đất, và Lot đã vào Tsoar.",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "mặt trời"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "đã mọc"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "và Lot"
+    },
+    {
+      "surface": "בא",
+      "gloss": "đã vào"
+    },
+    {
+      "surface": "צערה",
+      "gloss": "Tsoar"
+    }
+  ],
+  "timestamp": "2026-08-19T01:01:28.238420107Z",
+  "model": "glm-5.3"
+}

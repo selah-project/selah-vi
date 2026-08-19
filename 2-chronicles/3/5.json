@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và ⟨את⟩ nhà lớn ông phủ bằng gỗ cây bách, và phủ nó bằng vàng tốt, và làm nổi lên trên nó những hình chùm cọ và dây xích.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nhà lớn"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "lớn"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "phủ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "gỗ"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "cây bách"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "và phủ nó"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "vàng"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tốt"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "và làm lên"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "trên nó"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "chùm cọ"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "và dây xích"
+    }
+  ],
+  "timestamp": "2026-08-19T05:54:48.339953056Z",
+  "model": "glm-5.3"
+}

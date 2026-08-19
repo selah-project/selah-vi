@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Mỗi người hãy kính sợ mẹ mình và cha mình, và hãy giữ ⟨את⟩ các ngày sabát của ta; ta ⟨là⟩ Yahweh Elohim của các ngươi.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "mỗi người"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mẹ mình"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "và cha mình"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "hãy kính sợ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "các ngày sabát của ta"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "các ngày sabát của ta"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "hãy giữ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim của các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:45:36.867939183Z",
+  "model": "glm-5.3"
+}

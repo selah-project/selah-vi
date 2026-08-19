@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Khi ngươi khấn một lời khấn cho Elohim, đừng trì hoãn trả nó; vì ⟨người ta⟩ không có thiện ý nơi các kẻ dại: ⟨את⟩ điều ngươi khấn, hãy trả trọn.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "khi"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "ngươi khấn"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "một lời khấn"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "cho Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "trì hoãn"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "trả nó"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "thiện ý"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "nơi các kẻ dại"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "điều ngươi khấn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "điều mà"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "ngươi khấn"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "hãy trả trọn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:00.811421847Z",
+  "model": "glm-5.3"
+}

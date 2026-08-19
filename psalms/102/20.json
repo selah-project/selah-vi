@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 102,
+  "translation": "Vì Yahweh đã nghiêng mình nhìn từ nơi cao thánh của Ngài, từ các tầng trời Ngài đã đoái nhìn xuống đất.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "đã nghiêng mình nhìn"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "từ nơi cao"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "thánh của Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "từ các tầng trời"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "đã đoái nhìn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:15.546842951Z",
+  "model": "glm-5.3"
+}

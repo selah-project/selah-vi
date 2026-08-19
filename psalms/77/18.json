@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 77:18",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 77,
+  "translation": "Các đám mây dày đặc đổ nước tuôn ra; các tầng trời vang tiếng; phải, các mũi tên của Ngài lóe đi khắp nơi.",
+  "tokens": [
+    {
+      "surface": "זרמו",
+      "gloss": "đổ tuôn"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "các đám mây dày đặc"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tiếng"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "vang ra"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "các tầng trời"
+    },
+    {
+      "surface": "אף",
+      "gloss": "phải"
+    },
+    {
+      "surface": "חצציך",
+      "gloss": "các mũi tên của Ngài"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "lóe đi khắp nơi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:51.400008260Z",
+  "model": "glm-5.3"
+}

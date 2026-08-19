@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Cả ⟨את⟩ con trai của nàng đầy tớ gái nữa, ta sẽ đặt ⟨את⟩ nó thành một dân tộc, vì nó là dòng giống của ngươi.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "cả... nữa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con trai của nàng đầy tớ gái"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "của nàng đầy tớ gái"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "thành một dân tộc"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "ta sẽ đặt nó"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "dòng giống của ngươi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó là"
+    }
+  ],
+  "timestamp": "2026-08-19T06:03:10.679576023Z",
+  "model": "glm-5.3"
+}

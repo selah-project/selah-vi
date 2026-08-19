@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "David đi lên từ đó, và ở lại trong các nơi kiên cố của En-Gedi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "đi lên"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "משם",
+      "gloss": "từ đó"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "và ở lại"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "trong các nơi kiên cố"
+    },
+    {
+      "surface": "עין",
+      "gloss": "En-"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:36:34.754830127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 139,
+  "translation": "Ngài đã biết lúc con ngồi và lúc con đứng dậy; Ngài hiểu suy tưởng con từ phương xa.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "đã biết"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "lúc con ngồi"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "và lúc con đứng dậy"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "Ngài hiểu"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "suy tưởng con"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "từ phương xa"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:44.301535110Z",
+  "model": "glm-5.3"
+}

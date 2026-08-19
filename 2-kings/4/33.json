@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 4:33",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Người đi vào, đóng cửa lại sau lưng hai người, và cầu nguyện cùng Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "người đi vào"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "và đóng lại"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "cái cửa"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "sau lưng"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "hai người"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "và cầu nguyện"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cùng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T06:10:41.413367852Z",
+  "model": "glm-5.3"
+}

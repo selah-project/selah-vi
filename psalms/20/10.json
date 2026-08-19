@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Yahweh, xin hãy cứu vua; nguyện Đấng Vua đáp lại chúng ta trong ngày chúng ta kêu cầu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "xin hãy cứu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "đáp lại chúng ta"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "trong ngày"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "chúng ta kêu cầu"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:44.620915023Z",
+  "model": "glm-5.3"
+}

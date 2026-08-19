@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Đừng ghen tị với những kẻ làm điều ác, và đừng ham muốn ⟨את⟩ được ở với chúng.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "ghen tị"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "với những kẻ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ác"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và đừng"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "ham muốn"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "được ở"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ chúng",
+      "marks": "chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T06:19:56.808854805Z",
+  "model": "glm-5.3"
+}

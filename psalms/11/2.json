@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 11:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Vì kìa, kẻ ác giương cung, chúng đã gắn mũi tên trên dây, để bắn trong bóng tối kẻ ngay thẳng trong lòng.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kìa"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "ידרכון",
+      "gloss": "chúng giương (đạp cung)"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "cung"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "chúng đã gắn sẵn"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "mũi tên của chúng"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "dây cung"
+    },
+    {
+      "surface": "לירות",
+      "gloss": "để bắn"
+    },
+    {
+      "surface": "במו",
+      "gloss": "trong"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "bóng tối"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "kẻ ngay thẳng"
+    },
+    {
+      "surface": "לב",
+      "gloss": "trong lòng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:09.819492002Z",
+  "model": "glm-5.3"
+}

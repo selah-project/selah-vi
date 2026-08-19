@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "esther 9:14",
+  "book": "esther",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và vua phán làm như vậy; và sắc lệnh được ban ra tại Shushan, và mười con trai của Haman đã bị treo lên.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và vua phán"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "nhà vua"
+    },
+    {
+      "surface": "להעשות",
+      "gloss": "để làm"
+    },
+    {
+      "surface": "כן",
+      "gloss": "như vậy"
+    },
+    {
+      "surface": "ותנתן",
+      "gloss": "và được ban ra"
+    },
+    {
+      "surface": "דת",
+      "gloss": "sắc lệnh"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "tại Shushan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mười (con trai của Haman)"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "mười"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "תלו",
+      "gloss": "đã bị treo"
+    }
+  ],
+  "timestamp": "2026-08-19T05:36:17.826320530Z",
+  "model": "glm-5.3"
+}

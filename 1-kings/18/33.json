@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Và ông sắp xếp ⟨את⟩ các củi gỗ, và ông cắt khúc ⟨את⟩ con bò, và đặt lên trên các củi gỗ.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "và ông sắp xếp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các củi gỗ"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "các củi gỗ"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "và ông cắt khúc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con bò"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "con bò"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "và ông đặt"
+    },
+    {
+      "surface": "על",
+      "gloss": "lên trên"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "các củi gỗ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:53:44.935132244Z",
+  "model": "glm-5.3"
+}

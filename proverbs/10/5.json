@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 10:5",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Ai gom hái vào mùa hè ⟨là⟩ con khôn ngoan; ai ngủ suốt vào mùa gặt ⟨là⟩ con làm xấu hổ.",
+  "tokens": [
+    {
+      "surface": "אגר",
+      "gloss": "gom hái"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "vào mùa hè"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "khôn ngoan"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "ngủ suốt"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "vào mùa gặt"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "làm xấu hổ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:15:30.376994136Z",
+  "model": "glm-5.3"
+}

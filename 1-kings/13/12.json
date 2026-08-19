@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 13:12",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Và cha họ nói với họ: Con đường nào là ⟨đường⟩ này mà ⟨ông⟩ đã đi? Và các con trai ⟨ông⟩ đã chỉ ra ⟨את⟩ con đường mà người của Elohim đã đi, ⟨người⟩ đã đến từ Yehudah.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "với họ"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "cha họ"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ở đâu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "này"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "con đường"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "đã đi"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "và đã chỉ ra"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "các con trai ông"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con đường"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "con đường"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "đã đi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "của Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "בא",
+      "gloss": "đã đến"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "từ Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-19T03:51:24.077687937Z",
+  "model": "glm-5.3"
+}

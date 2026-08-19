@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 100,
+  "translation": "Hãy biết rằng Yahweh, ⟨ chính ⟩ Ngài là Elohim; ⟨ chính ⟩ Ngài đã làm nên chúng ta, và không phải chúng ta ⟨tự mình⟩; ⟨hãy biết⟩ chúng ta là dân của Ngài, và là chiên trong đồng cỏ của Ngài.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "hãy biết"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨chính⟩ Ngài"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨chính⟩ Ngài"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "đã làm nên chúng ta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "chúng ta"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "dân của Ngài"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "và chiên"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "đồng cỏ của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:05.839934952Z",
+  "model": "glm-5.3"
+}

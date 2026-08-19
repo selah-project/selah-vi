@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Người nói với tôi 'Hây! Hây!' — xin chúng phải hoang tàn vì cớ sự xấu hổ của mình.",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "xin phải hoang tàn"
+    },
+    {
+      "surface": "על",
+      "gloss": "vì cớ"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "hậu quả"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "sự xấu hổ của chúng"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "người nói"
+    },
+    {
+      "surface": "לי",
+      "gloss": "với tôi"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Hây!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Hây!"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:44.149329768Z",
+  "model": "glm-5.3"
+}

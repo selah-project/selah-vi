@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Vị tư tế ⟨là⟩ người dâng lễ tha tội ⟨את⟩ nó sẽ ăn nó; tại nơi thánh nó sẽ bị ăn, trong sân trại hội kiến.",
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "vị tư tế"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "người dâng lễ tha tội"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nó (lễ tha tội)"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "sẽ ăn nó"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "tại nơi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "thánh"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "sẽ bị ăn"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "trong sân"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "trại"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "hội kiến"
+    }
+  ],
+  "timestamp": "2026-08-19T02:40:32.409700630Z",
+  "model": "glm-5.3"
+}

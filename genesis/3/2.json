@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Người phụ nữ nói với con rắn: \"Từ trái của các cây trong vườn chúng tôi ăn được.\"",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "và bà nói"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "người phụ nữ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "con rắn"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "từ trái"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "của cây"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "trong vườn"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "chúng tôi ăn"
+    }
+  ],
+  "timestamp": "2026-08-19T00:48:05.974976019Z",
+  "model": "glm-5.3"
+}

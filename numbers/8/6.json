@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Hãy lấy ⟨את⟩ người Levi từ giữa con cái Israel, và ngươi sẽ thanh-tẩy ⟨את⟩ họ.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "hãy-lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người Levi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "người-Levi"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "từ-giữa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con-cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "và-ngươi-sẽ-thanh-tẩy"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩-họ",
+      "marks": "họ (người Levi)"
+    }
+  ],
+  "timestamp": "2026-08-19T02:55:02.658906782Z",
+  "model": "glm-5.3"
+}

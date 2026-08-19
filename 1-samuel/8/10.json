@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 8:10",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và Shemuel nói ⟨את⟩ mọi lời của Yahweh cho dân sự, ⟨là⟩ những người xin từ ⟨את⟩ ngài một vua",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và ông nói"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi lời"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "lời của"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cho"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "השאלים",
+      "gloss": "những người xin"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "từ ⟨את⟩ ngài"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "một vua"
+    }
+  ],
+  "timestamp": "2026-08-19T03:30:26.403337940Z",
+  "model": "glm-5.3"
+}

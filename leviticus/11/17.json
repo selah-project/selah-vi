@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "và ⟨את⟩ con cú nhỏ, và ⟨את⟩ con chim ô tải, và ⟨את⟩ con cú lớn;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con cú nhỏ"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "con cú nhỏ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con chim ô tải"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "con chim ô tải"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con cú lớn"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "con cú lớn"
+    }
+  ],
+  "timestamp": "2026-08-19T02:42:17.682786439Z",
+  "model": "glm-5.3"
+}

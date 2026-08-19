@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 7:17",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Và việc trở về của ông là về HaRamatah, vì ở đó là nhà của ông, và ở đó ông xét xử ⟨את⟩ Yisrael; và ông xây ở đó một bàn thờ cho Yahweh.",
+  "tokens": [
+    {
+      "surface": "ותשבתו",
+      "gloss": "và việc trở về của ông"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "về HaRamatah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ở đó"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nhà của ông"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "và ở đó"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ông xét xử"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "và ông xây"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ở đó"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "một bàn thờ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "cho Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T03:29:58.489659675Z",
+  "model": "glm-5.3"
+}

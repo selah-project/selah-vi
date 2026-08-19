@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Há không phải khôn ngoan cất tiếng kêu gọi, và sáng suốt cho vang tiếng của mình sao?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "há không phải"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "khôn ngoan"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "cất tiếng kêu gọi"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "và sáng suốt"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "cho (vang ra)"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "tiếng của mình"
+    }
+  ],
+  "timestamp": "2026-08-19T05:15:34.452735321Z",
+  "model": "glm-5.3"
+}

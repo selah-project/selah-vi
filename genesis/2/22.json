@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và Yahweh Elohim xây dựng ⟨את⟩ ⟨cái⟩ xương sườn mà Ngài đã lấy từ con người thành một người nữ, và đưa nàng đến với con người.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "và xây dựng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xương sườn"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "xương sườn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "đã lấy"
+    },
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "con người"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "thành người nữ"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "và đưa nàng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến với"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "con người"
+    }
+  ],
+  "timestamp": "2026-08-19T00:46:18.271410585Z",
+  "model": "glm-5.3"
+}

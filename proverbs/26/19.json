@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 26:19",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Thế là kẻ lừa dối ⟨את⟩ bạn mình, rồi nói: 'Chẳng phải tôi chỉ đùa sao?'",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "thế là"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kẻ"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "lừa dối"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bạn mình"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "bạn mình"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "rồi nói"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "chẳng phải"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "chỉ đùa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:18:55.871920635Z",
+  "model": "glm-5.3"
+}

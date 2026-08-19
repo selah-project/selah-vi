@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 38,
+  "translation": "Và kẻ thù tôi sống mạnh, ⟨họ⟩ cường tráng; và kẻ ghét tôi vì điều dối trá đã đông đảo.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "và kẻ thù tôi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "sống mạnh"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "cường tráng"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "và đã đông đảo"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "kẻ ghét tôi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dối trá"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:24.993491370Z",
+  "model": "glm-5.3"
+}

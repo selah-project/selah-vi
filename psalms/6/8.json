@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Mắt tôi mòn mỏi đi vì cơn giận; ⟨nó⟩ đã già nua vì tất cả kẻ thù nghịch tôi.",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "mòn mỏi đi"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "vì cơn giận"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mắt tôi"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "đã già nua"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "vì tất cả"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "kẻ thù nghịch tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:07.127899364Z",
+  "model": "glm-5.3"
+}

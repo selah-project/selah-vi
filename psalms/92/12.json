@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 92:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 92,
+  "translation": "Mắt tôi đã nhìn ⟨vào số phận⟩ kẻ thù, tai tôi đã nghe ⟨về⟩ bọn làm ác nổi lên chống lại tôi.",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "và đã nhìn"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mắt tôi"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "kẻ thù tôi"
+    },
+    {
+      "surface": "בקמים",
+      "gloss": "những kẻ nổi lên"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "chống lại tôi"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "bọn làm ác"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "đã nghe"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "tai tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:36.199170395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 26:10",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Avimelekh nói: Ngươi đã làm gì cho chúng ta thế này? Hầu như một người trong dân chúng đã nằm với ⟨את⟩ vợ ngươi, và ngươi đã đưa tội lỗi đến trên chúng ta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "thế này"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ngươi đã làm"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "cho chúng ta"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "hầu như"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "nằm với"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "một"
+    },
+    {
+      "surface": "העם",
+      "gloss": "(trong) dân chúng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vợ ngươi"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "vợ ngươi"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "ngươi đã đưa đến"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "trên chúng ta"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "tội lỗi"
+    }
+  ],
+  "timestamp": "2026-08-19T01:08:36.938596745Z",
+  "model": "glm-5.3"
+}

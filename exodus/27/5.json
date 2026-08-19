@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 27:5",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Và ngươi sẽ đặt ⟨את⟩ nó dưới gờ vòng của bàn thờ, ở phần dưới, và lưới sẽ ⟨là⟩ đến nửa bàn thờ.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "và ngươi sẽ đặt"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nó (cái lưới)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dưới"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "gờ vòng"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "của bàn thờ"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "ở phần dưới"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "và ... sẽ là"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "cái lưới"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "nửa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bàn thờ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:34:28.855385526Z",
+  "model": "glm-5.3"
+}

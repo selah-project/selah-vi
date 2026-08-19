@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 23:12",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Và trong ngày các ngươi vẫy ⟨את⟩ bó lúa, các ngươi hãy dâng một chiên con không tì vết, con một tuổi, làm lễ thiêu cho Yahweh.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "và các ngươi hãy làm"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "trong ngày"
+    },
+    {
+      "surface": "הניפכם",
+      "gloss": "các ngươi vẫy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bó lúa"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "bó lúa"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "chiên con"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "không tì vết"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "một tuổi"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "lễ thiêu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "cho Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:46:30.778309232Z",
+  "model": "glm-5.3"
+}

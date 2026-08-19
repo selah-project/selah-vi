@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 113,
+  "translation": "để cho ⟨người ấy⟩ ngồi cùng các bậc quí tộc, cùng các quí tộc của dân Ngài.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "để cho ngồi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cùng"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "các bậc quí tộc"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cùng"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "các quí tộc của"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "dân Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:47.127431487Z",
+  "model": "glm-5.3"
+}

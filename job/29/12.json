@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 29:12",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Vì tôi cứu kẻ nghèo khổ đang kêu cứu, và kẻ mồ côi, kẻ không có ai giúp đỡ mình.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אמלט",
+      "gloss": "tôi cứu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kẻ nghèo khổ"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "đang kêu cứu"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "và kẻ mồ côi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "giúp đỡ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mình"
+    }
+  ],
+  "timestamp": "2026-08-19T05:25:01.209550033Z",
+  "model": "glm-5.3"
+}

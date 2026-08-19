@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 2:6",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Yahweh làm chết và làm sống, đưa xuống Sheol và đưa lên.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ממית",
+      "gloss": "làm chết"
+    },
+    {
+      "surface": "ומחיה",
+      "gloss": "và làm sống"
+    },
+    {
+      "surface": "מוריד",
+      "gloss": "đưa xuống"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "và đưa lên"
+    }
+  ],
+  "timestamp": "2026-08-19T03:29:17.273156119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "vì người ta trao nó cho những người làm công việc, và họ dùng nó tu sửa ⟨את⟩ nhà Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "cho những người làm"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "công việc"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "người ta trao nó"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "và họ tu sửa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "bằng nó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhà Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T03:59:15.943809240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Còn ngươi, hãy truyền lệnh cho ⟨את⟩ con cái Yisra'el, và chúng sẽ đem đến ngươi dầu ô-liu nguyên chất, ép giã, cho đèn, để làm ngọn đèn cháy luôn luôn.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "còn ngài\/còn ngươi"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "hãy truyền lệnh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con cái Yisra'el"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái của"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "và chúng sẽ đem"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "đến ngươi"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "dầu"
+    },
+    {
+      "surface": "זית",
+      "gloss": "ô-liu"
+    },
+    {
+      "surface": "זך",
+      "gloss": "nguyên chất"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "ép giã"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "cho đèn"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "để làm… cháy lên"
+    },
+    {
+      "surface": "נר",
+      "gloss": "ngọn đèn"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "luôn luôn"
+    }
+  ],
+  "timestamp": "2026-08-19T02:34:43.891267072Z",
+  "model": "glm-5.3"
+}

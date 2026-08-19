@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Ai đã cân đo ⟨את⟩ Thần khí của Yahweh, và ai là người cố vấn của Ngài mà dạy bảo Ngài?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ai"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "đã cân đo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Thần khí"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Thần khí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "và ai là người"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "cố vấn của Ngài"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "mà dạy bảo Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T04:11:37.643020741Z",
+  "model": "glm-5.3"
+}

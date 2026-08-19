@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 104,
+  "translation": "Đấng đặt xà nhà các phòng trên của Ngài nơi nước, làm mây mù thành cỗ xe Ngài, Đấng đi trên cánh của gió.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "Đấng đặt xà nhà"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nơi nước"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "các phòng trên của Ngài"
+    },
+    {
+      "surface": "השם",
+      "gloss": "làm thành"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "mây mù"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "cỗ xe Ngài"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "Đấng đi"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "cánh của"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "gió"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:29.362947292Z",
+  "model": "glm-5.3"
+}

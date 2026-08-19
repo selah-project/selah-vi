@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 16:13",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Và ⟨is⟩ buổi chiều, chim cút bay lên và phủ ⟨את⟩ trại; và đến sáng, có một lớp sương phủ quanh trại.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "và xảy ra"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "buổi chiều"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "và bay lên"
+    },
+    {
+      "surface": "השלו",
+      "gloss": "con cút"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "và phủ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trại"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "trại"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "và đến sáng"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "đã có"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "lớp phủ"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "sương"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "quanh"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "trại"
+    }
+  ],
+  "timestamp": "2026-08-19T02:32:37.693914930Z",
+  "model": "glm-5.3"
+}

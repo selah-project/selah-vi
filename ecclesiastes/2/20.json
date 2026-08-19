@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và tôi quay lại khiến lòng tôi tuyệt vọng về ⟨את⟩ mọi cực nhọc mà tôi đã nhọc nhằn dưới ánh mặt trời.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "và tôi quay lại"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "tuyệt vọng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lòng tôi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "lòng tôi"
+    },
+    {
+      "surface": "על",
+      "gloss": "về"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "cực nhọc"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "mà tôi đã nhọc nhằn"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dưới"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "mặt trời"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:33.258341434Z",
+  "model": "glm-5.3"
+}

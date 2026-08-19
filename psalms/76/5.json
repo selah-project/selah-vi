@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 76,
+  "translation": "Rạng rỡ ⟨là⟩ Ngài, lẫm liệt hơn các núi của con mồi.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "rạng rỡ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "lẫm liệt"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "hơn các núi"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "của con mồi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:23.713906165Z",
+  "model": "glm-5.3"
+}

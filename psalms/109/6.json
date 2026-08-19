@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 109,
+  "translation": "Xin hãy đặt một kẻ ác trên hắn, và một kẻ đối nghịch hãy đứng bên hữu hắn.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "xin hãy đặt"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "trên hắn"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "một kẻ ác"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "và một kẻ đối nghịch"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "hãy đứng"
+    },
+    {
+      "surface": "על",
+      "gloss": "bên"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "hữu hắn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:32.607128120Z",
+  "model": "glm-5.3"
+}

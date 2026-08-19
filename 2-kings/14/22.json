@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 14:22",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Ông là người đã xây ⟨את⟩ Eylat và đem nó về lại cho Yehudah, sau khi vua nằm xuống với các tổ phụ mình.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ông"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "đã xây"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eylat"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Eylat"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "và đem về lại"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "cho Yehudah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sau khi"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "nằm xuống"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "עם",
+      "gloss": "với"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "các tổ phụ mình"
+    }
+  ],
+  "timestamp": "2026-08-19T03:59:52.005951279Z",
+  "model": "glm-5.3"
+}

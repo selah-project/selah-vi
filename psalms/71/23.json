@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 71:23",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 71,
+  "translation": "Môi tôi sẽ reo hò, vì tôi sẽ弹 ca cho Ngài, và sinh khí của tôi, mà Ngài đã chuộc lại.",
+  "tokens": [
+    {
+      "surface": "תרננה",
+      "gloss": "sẽ reo hò"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "môi tôi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "tôi sẽ弹 ca"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho Ngài"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "và sinh khí của tôi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "Ngài đã chuộc lại"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:22.548430310Z",
+  "model": "glm-5.3"
+}

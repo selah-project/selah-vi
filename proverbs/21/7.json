@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 21:7",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Sự cướp bóc của kẻ ác sẽ kéo chúng đi, vì chúng đã từ chối làm điều công bằng.",
+  "tokens": [
+    {
+      "surface": "שד",
+      "gloss": "sự cướp bóc"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "của kẻ ác"
+    },
+    {
+      "surface": "יגורם",
+      "gloss": "sẽ kéo chúng đi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "chúng đã từ chối"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "làm"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "điều công bằng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:17:52.928258290Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 11:4",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Chỉ ⟨את⟩ điều này các ngươi không được ăn, trong các con nhại lại thức ăn và trong các con chia móng: ⟨את⟩ con lạc đà, vì nó nhại lại thức ăn nhưng móng thì không chia — nó ô uế đối với các ngươi.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "chỉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "điều này"
+    },
+    {
+      "surface": "זה",
+      "gloss": "điều-này"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "các-ngươi-ăn"
+    },
+    {
+      "surface": "ממעלי",
+      "gloss": "trong-các-con-nhại-lại"
+    },
+    {
+      "surface": "הגרה",
+      "gloss": "thức-ăn-nhại"
+    },
+    {
+      "surface": "וממפריסי",
+      "gloss": "và-trong-các-con-chia-móng"
+    },
+    {
+      "surface": "הפרסה",
+      "gloss": "móng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con lạc đà"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "con-lạc-đà"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "nhại-lại"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "thức-ăn-nhại"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "và-móng"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "không"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "chia"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ô-uế"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "đối-với-các-ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:42:34.487889769Z",
+  "model": "glm-5.3"
+}

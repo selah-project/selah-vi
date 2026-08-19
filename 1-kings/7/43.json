@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Và ⟨את⟩ mười cái đế, và ⟨את⟩ mười cái chậu trên các đế.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "mười cái đế"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "các cái đế"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mười"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "mười cái chậu"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "các cái chậu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "mười"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "các đế"
+    }
+  ],
+  "timestamp": "2026-08-19T03:49:01.917958427Z",
+  "model": "glm-5.3"
+}

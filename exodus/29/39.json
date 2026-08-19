@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "⟨את⟩ chi con thứ nhất ngươi hãy dâng vào buổi sáng, và ⟨את⟩ chi con thứ hai ngươi hãy dặng giữa hai buổi chiều.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chi con thứ nhất"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "chi con"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "thứ nhất"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ngươi hãy dâng"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "vào buổi sáng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "chi con thứ hai"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "chi con"
+    },
+    {
+      "surface": "השני",
+      "gloss": "thứ hai"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ngươi hãy dâng"
+    },
+    {
+      "surface": "בין",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "hai buổi chiều"
+    }
+  ],
+  "timestamp": "2026-08-19T02:35:43.736110445Z",
+  "model": "glm-5.3"
+}

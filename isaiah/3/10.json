@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Hãy nói rằng người công chính ⟨is⟩ tốt, vì họ sẽ ăn trái của việc làm mình.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "hãy nói"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "người công chính"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tốt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "trái"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "của việc làm mình"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "họ sẽ ăn"
+    }
+  ],
+  "timestamp": "2026-08-19T04:03:00.255851484Z",
+  "model": "glm-5.3"
+}

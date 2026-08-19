@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 144,
+  "translation": "Bò của chúng ta nặng trĩu ⟨is⟩ — không có ⟨is⟩ chỗ vỡ, không có kẻ đi ra, không có tiếng kêu gào trong các quảng trường của chúng ta",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "bò của chúng ta"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "nặng trĩu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "chỗ vỡ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "và không có"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "kẻ đi ra"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "và không có"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "tiếng kêu gào"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "trong các quảng trường của chúng ta"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:17.237645534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 51,
+  "translation": "Adonai, xin mở môi con, và miệng con sẽ kể ra sự ngợi khen của Ngài.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "môi con"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "xin mở"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "và miệng con"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "sẽ kể ra"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "sự ngợi khen của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:20.066114292Z",
+  "model": "glm-5.3"
+}

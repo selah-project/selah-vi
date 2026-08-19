@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Một thành nhỏ, và trong nó ít người; rồi một vị vua lớn đến cùng nó, và vây quanh ⟨את⟩ nó, và xây trên nó những công sự lớn.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "thành"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "nhỏ"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "và những người"
+    },
+    {
+      "surface": "בה",
+      "gloss": "trong nó"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ít"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "và đã đến"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "cùng nó"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "một vị vua"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lớn"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "và đã vây quanh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nó (thành nhỏ)"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "và đã xây"
+    },
+    {
+      "surface": "עלי׊",
+      "gloss": "trên nó"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "những công sự vây hãm"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "lớn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:50.293112104Z",
+  "model": "glm-5.3"
+}

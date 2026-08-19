@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 119:56",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Điều này đã thuộc về tôi, vì các mệnh lệnh của Ngài tôi đã giữ gìn.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "điều này"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "đã là"
+    },
+    {
+      "surface": "לי",
+      "gloss": "thuộc về tôi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "các mệnh lệnh của Ngài"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "tôi đã giữ gìn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:46.498282569Z",
+  "model": "glm-5.3"
+}

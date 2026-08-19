@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Hai điều con đã xin từ ⟨את⟩ Ngài; chớ cất khỏi con, trước khi con chết.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "hai điều"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "con đã xin"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "từ ⟨את⟩ Ngài",
+      "marks": "Ngài"
+    },
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "cất khỏi \/ từ chối"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "khỏi con"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "trước khi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "con chết"
+    }
+  ],
+  "timestamp": "2026-08-19T05:19:47.347173303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 9:22",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Một điều duy nhất ⟨là vậy⟩, vì vậy tôi đã nói: người trọn lành và kẻ ác — ⟨Ngài⟩ hủy diệt cả.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "một điều duy nhất"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨là vậy⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vậy"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "tôi đã nói"
+    },
+    {
+      "surface": "תם",
+      "gloss": "người trọn lành"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "và kẻ ác"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "מכלה",
+      "gloss": "hủy diệt"
+    }
+  ],
+  "timestamp": "2026-08-19T05:21:45.043431231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Còn nếu ⟨nó⟩ là người nữ, thì giá định của ngươi ⟨is⟩ ba mươi sikén.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "còn nếu"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "người nữ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨nó⟩ là"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "thì sẽ là"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "giá định của ngươi"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ba mươi"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "sikén"
+    }
+  ],
+  "timestamp": "2026-08-19T02:51:26.008009011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 9:14",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Hãy ban ơn cho con, Yahweh; hãy xem sự khốn khổ của con vì những kẻ ghét con; Đấng nhấc con lên khỏi các cổng của sự chết,",
+  "tokens": [
+    {
+      "surface": "חננני",
+      "gloss": "hãy ban ơn cho con"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "hãy xem"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "sự khốn khổ của con"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "từ những kẻ ghét con"
+    },
+    {
+      "surface": "מרוממי",
+      "gloss": "Đấng nhấc con lên"
+    },
+    {
+      "surface": "משערי",
+      "gloss": "từ các cổng"
+    },
+    {
+      "surface": "מות",
+      "gloss": "của sự chết"
+    }
+  ],
+  "timestamp": "2026-08-19T04:55:48.433852789Z",
+  "model": "glm-5.3"
+}

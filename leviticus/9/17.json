@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 9:17",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và ông dâng ⟨את⟩ lễ chay, đầy bàn tay mình từ nó, và làm khói lên trên bàn thờ, ngoài lễ thiêu của buổi sáng.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "và ông dâng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lễ chay"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "lễ chay"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "và đầy"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "bàn tay mình"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "từ nó"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "và làm khói lên"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "ngoài"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "lễ thiêu"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "của buổi sáng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:42:01.946992635Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 9:10",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Sha'ul nói với đầy tớ ⟨mình⟩: Lời của ngươi tốt; hãy đến, chúng ta hãy đi. Và họ đi đến thành nơi ⟨đó⟩ có người của Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "với đầy tớ mình"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tốt"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "lời của ngươi"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "hãy đến"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "chúng ta hãy đi"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "và họ đi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "thành"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nơi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "đó"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "của Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T06:08:06.520975349Z",
+  "model": "glm-5.3"
+}

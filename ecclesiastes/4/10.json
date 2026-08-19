@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Vì nếu chúng ngã, kẻ này sẽ dựng đồng bạn của mình dậy ⟨את⟩; nhưng kẻ một mình khi ngã thì không có ai thứ hai để dựng nó dậy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "chúng ngã"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "kẻ này"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "sẽ dựng dậy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đồng bạn của mình"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "đồng bạn của mình"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "nhưng còn"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "kẻ một mình"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "khi ngã"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "thì không có"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ai thứ hai"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "để dựng nó dậy"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:23.744721877Z",
+  "model": "glm-5.3"
+}

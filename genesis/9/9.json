@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Còn ta, này, ta đang dựng lên ⟨את⟩ giao ước của ta với ⟨את⟩ các ngươi, và ⟨את⟩ dòng giống các ngươi sau các ngươi.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "còn ta"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "này"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "đang dựng lên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "giao ước của ta"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "giao ước của ta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ với các ngươi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "dòng giống các ngươi"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "dòng giống các ngươi"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "sau các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T00:51:10.103678653Z",
+  "model": "glm-5.3"
+}

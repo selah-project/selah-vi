@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 29:44",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Và Ta sẽ thánh hóa ⟨את⟩ Trại Hội Ngộ và ⟨את⟩ bàn thờ, và ⟨את⟩ Aharon cùng ⟨את⟩ các con trai ông Ta sẽ thánh hóa làm thầy tế lễ cho Ta.",
+  "tokens": [
+    {
+      "surface": "וקדשתי",
+      "gloss": "và Ta sẽ thánh hóa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Trại Hội Ngộ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Trại"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Hội Ngộ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "bàn thờ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các con trai ông"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "các con trai ông"
+    },
+    {
+      "surface": "אקדש",
+      "gloss": "Ta sẽ thánh hóa"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "làm thầy tế lễ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho Ta"
+    }
+  ],
+  "timestamp": "2026-08-19T02:35:52.170963380Z",
+  "model": "glm-5.3"
+}

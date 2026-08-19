@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 45,
+  "translation": "Chúng sẽ được đưa vào giữa niềm vui và sự reo mừng, sẽ tiến vào cung điện của đức vua.",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "chúng sẽ được đưa vào"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "giữa niềm vui"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "và sự reo mừng"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "sẽ tiến vào"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "trong cung điện"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "của đức vua"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:42.448654244Z",
+  "model": "glm-5.3"
+}

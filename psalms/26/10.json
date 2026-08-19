@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Mà trong tay chúng là mưu đồ xấu, và tay hữu chúng đầy ắp tiền hối lộ.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "trong tay chúng"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "mưu đồ xấu"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "và tay hữu chúng"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "đầy ắp"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "tiền hối lộ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:33.150425465Z",
+  "model": "glm-5.3"
+}

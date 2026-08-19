@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 5:2",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Hãy truyền-lệnh cho ⟨את⟩ con cái Yisrael, và họ phải đuổi ra khỏi trại quân mọi người mắc bệnh phung, mọi người bị chảy máu, và mọi người ô uế vì ⟨את⟩ xác chết.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "hãy truyền-lệnh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con cái Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "và họ phải đuổi-đi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "trại quân"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "người mắc bệnh phung"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "זב",
+      "gloss": "người bị chảy máu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "người ô uế"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "vì xác chết"
+    }
+  ],
+  "timestamp": "2026-08-19T02:54:12.033883658Z",
+  "model": "glm-5.3"
+}

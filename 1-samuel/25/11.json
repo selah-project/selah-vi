@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 25:11",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Lẽ nào tôi lấy ⟨את⟩ bánh của tôi và ⟨את⟩ nước của tôi và ⟨את⟩ thịt đã giết của tôi — mà tôi đã giết cho người xén lông của mình — và cho những người mà tôi không biết họ từ đâu đến?",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "và lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bánh của tôi"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "bánh của tôi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "nước của tôi"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "nước của tôi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "thịt đã giết của tôi"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "thịt đã giết của tôi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "tôi đã giết"
+    },
+    {
+      "surface": "לגזזי",
+      "gloss": "cho người xén lông của tôi"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "và cho"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "cho những người"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "tôi biết"
+    },
+    {
+      "surface": "אי",
+      "gloss": "đâu"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "từ đâu"
+    },
+    {
+      "surface": "המה",
+      "gloss": "họ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:36:21.458094571Z",
+  "model": "glm-5.3"
+}

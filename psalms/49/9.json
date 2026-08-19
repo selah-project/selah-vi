@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 49,
+  "translation": "Và giá chuộc linh hồn họ thật quá đắt, và nó chấm dứt cho đến muôn đời —",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "và quá đắt"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "giá chuộc"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "linh hồn họ"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "và chấm dứt"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "cho đến muôn đời"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:49.033716231Z",
+  "model": "glm-5.3"
+}

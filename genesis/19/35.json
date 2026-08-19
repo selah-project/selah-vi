@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 19:35",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Đêm đó cũng vậy, họ cho ⟨את⟩ cha mình uống rượu; rồi người con út dậy nằm với người, và người không biết khi nàng nằm xuống, cũng không biết khi nàng chỗi dậy.",
+  "tokens": [
+    {
+      "surface": "ותשקין",
+      "gloss": "và-họ-cho-uống"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cũng"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "trong-đêm"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "đó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cha mình"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "cha-của-họ"
+    },
+    {
+      "surface": "יין",
+      "gloss": "rượu"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "và-nàng-dậy"
+    },
+    {
+      "surface": "הצעירה",
+      "gloss": "người-con-út"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "và-nàng-nằm"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "với-người"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và-không"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "biết"
+    },
+    {
+      "surface": "בשכבה",
+      "gloss": "khi-nàng-nằm"
+    },
+    {
+      "surface": "ובקמה",
+      "gloss": "và-khi-nàng-dậy"
+    }
+  ],
+  "timestamp": "2026-08-19T01:01:55.484000029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 48:12",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 48,
+  "translation": "Hãy nghe Ta, hỡi Yaakov, và Yisrael, kẻ được Ta kêu gọi: Ta là ⟨Đấng⟩ ấy; Ta là Đấng thứ nhất, cũng chính Ta là Đấng sau cùng.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "hãy nghe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "và Yisrael"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "kẻ được Ta kêu gọi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨Đấng⟩ ấy"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "Đấng thứ nhất"
+    },
+    {
+      "surface": "אף",
+      "gloss": "cũng chính"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "Đấng sau cùng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:13:10.954616720Z",
+  "model": "glm-5.3"
+}

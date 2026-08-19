@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 27:8",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Và nếu ⟨hắn⟩ quá nghèo so với định giá của ngươi, thì hắn phải được đưa đứng trước mặt thầy tế lễ, và thầy tế lễ định giá hắn ⟨את⟩; theo như tay của người khấn nguyện với tới, thầy tế lễ định giá hắn.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Và nếu"
+    },
+    {
+      "surface": "מך",
+      "gloss": "quá nghèo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hắn"
+    },
+    {
+      "surface": "מערכך",
+      "gloss": "so với định giá của ngươi"
+    },
+    {
+      "surface": "והעמידו",
+      "gloss": "thì đưa đứng"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "thầy tế lễ"
+    },
+    {
+      "surface": "והעריך",
+      "gloss": "và định giá"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hắn (người được định giá)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "thầy tế lễ"
+    },
+    {
+      "surface": "על",
+      "gloss": "theo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "phép của"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "với tới"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tay"
+    },
+    {
+      "surface": "הנדר",
+      "gloss": "người khấn nguyện"
+    },
+    {
+      "surface": "יעריכנו",
+      "gloss": "định giá hắn"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "thầy tế lễ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:51:30.696642100Z",
+  "model": "glm-5.3"
+}

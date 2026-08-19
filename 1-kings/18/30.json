@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 18:30",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Và Eliyahu nói với toàn dân: Hãy lại gần ta. Và toàn dân lại gần ông; và ông sửa chữa ⟨את⟩ bàn thờ của Yahweh — ⟨bàn thờ⟩ đã bị phá đổ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "với toàn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "hãy lại gần"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "đến ta"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "họ lại gần"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "đến ông"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "ông sửa chữa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bàn thờ của Yahweh"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ההרוס",
+      "gloss": "đã bị phá đổ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:54:04.237472726Z",
+  "model": "glm-5.3"
+}

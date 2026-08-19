@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 36,
+  "translation": "và ⟨את⟩ Bosmath con gái Yishmael, chị của Nevayot.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Bosmath"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bosmath"
+    },
+    {
+      "surface": "בת",
+      "gloss": "con gái"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "chị"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Nevayot"
+    }
+  ],
+  "timestamp": "2026-08-19T01:20:43.152966250Z",
+  "model": "glm-5.3"
+}

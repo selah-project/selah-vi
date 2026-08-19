@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "vết cháy sẹo thay cho vết cháy sẹo, vết thương thay cho vết thương, vết bầm thay cho vết bầm.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "vết cháy sẹo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thay cho"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "vết cháy sẹo"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "vết thương"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thay cho"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "vết thương"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "vết bầm"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thay cho"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "vết bầm"
+    }
+  ],
+  "timestamp": "2026-08-19T02:33:03.500684980Z",
+  "model": "glm-5.3"
+}

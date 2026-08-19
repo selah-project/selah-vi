@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Ngươi sẽ đưa ⟨את⟩ Aharon và ⟨את⟩ các con trai ông đến lối vào Trại Hội Kiến, và ngươi sẽ tắm rửa ⟨אתם⟩ trong nước.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "và ngươi sẽ đưa đến"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các con trai ông"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "các con trai ông"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "lối vào"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Trại"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Hội Kiến"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "và ngươi sẽ tắm rửa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "họ (Aharon và các con trai)"
+    },
+    {
+      "surface": "במים",
+      "gloss": "trong nước"
+    }
+  ],
+  "timestamp": "2026-08-19T02:39:31.981193593Z",
+  "model": "glm-5.3"
+}

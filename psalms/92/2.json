@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 92,
+  "translation": "Tốt ⟨là⟩ để tạ ơn với Yahweh, và để hát xướng danh Ngài, hỡi Đấng Tối Cao.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Tốt"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "để tạ ơn"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "với Yahweh"
+    },
+    {
+      "surface": "ולזמר",
+      "gloss": "và để hát xướng"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "danh Ngài"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Đấng Tối Cao"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:11.574934023Z",
+  "model": "glm-5.3"
+}

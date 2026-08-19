@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 136,
+  "translation": "Đấng chia biển Súp ra làm hai phần, vì sự nhân từ của Ngài tồn tại đến đời đời.",
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "Đấng chia"
+    },
+    {
+      "surface": "ים",
+      "gloss": "biển"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Súp"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "ra làm hai phần"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "đến đời đời"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sự nhân từ của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:27.106970632Z",
+  "model": "glm-5.3"
+}

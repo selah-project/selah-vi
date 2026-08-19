@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 43,
+  "translation": "Người sẽ đến và đánh ⟨את⟩ đất Mitsrajim: kẻ dành cho sự chết thì đến sự chết, kẻ dành cho việc bị bắt làm tù binh thì đến bị bắt làm tù binh, kẻ dành cho gươm thì đến gươm.",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "người sẽ đến"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "sẽ đánh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đất Mitsrajim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kẻ mà"
+    },
+    {
+      "surface": "למות",
+      "gloss": "dành cho sự chết"
+    },
+    {
+      "surface": "למות",
+      "gloss": "thì đến sự chết"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "và kẻ mà"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "dành cho việc bị bắt làm tù binh"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "thì đến bị bắt làm tù binh"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "và kẻ mà"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "dành cho gươm"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "thì đến gươm"
+    }
+  ],
+  "timestamp": "2026-08-19T06:14:24.573232101Z",
+  "model": "glm-5.3"
+}

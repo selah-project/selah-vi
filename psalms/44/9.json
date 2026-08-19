@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 44:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Trong Elohim chúng tôi đã tự hào suốt cả ngày, và danh Ngài chúng tôi sẽ cảm tạ đến muôn đời. Selah.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "trong Elohim"
+    },
+    {
+      "surface": "הללנו",
+      "gloss": "chúng tôi đã tự hào"
+    },
+    {
+      "surface": "כל",
+      "gloss": "suốt cả"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "ושמך",
+      "gloss": "và danh Ngài"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "đến muôn đời"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "chúng tôi sẽ cảm tạ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:51.824448218Z",
+  "model": "glm-5.3"
+}

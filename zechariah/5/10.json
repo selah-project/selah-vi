@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Và tôi nói với vị thiên sứ đang nói với tôi: Những kẻ này đem ⟨את⟩ cái epha đến đâu?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "và tôi nói"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "vị thiên sứ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "đang nói"
+    },
+    {
+      "surface": "בי",
+      "gloss": "với tôi"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "đến đâu"
+    },
+    {
+      "surface": "המה",
+      "gloss": "chúng"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "đang đem đi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cái epha"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "cái epha"
+    }
+  ],
+  "timestamp": "2026-08-19T04:52:34.009222921Z",
+  "model": "glm-5.3"
+}

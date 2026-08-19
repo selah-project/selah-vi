@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 12:2",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Xảy ra là vào năm thứ năm của vua Rechavam, Shishak vua Mitzrayim lên đánh Yerushalayim, vì họ đã phản bội Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "xảy ra là"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "vào năm"
+    },
+    {
+      "surface": "החמישית",
+      "gloss": "thứ năm"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "của vua"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechavam"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "lên"
+    },
+    {
+      "surface": "שישק",
+      "gloss": "Shishak"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "chống_against_Yerushalayim",
+      "gloss_notes": null,
+      "translation_slot": "đánh"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "đã phản bội"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T06:22:19.010001433Z",
+  "model": "glm-5.3"
+}

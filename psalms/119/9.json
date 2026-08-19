@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Bằng gì một người trẻ làm trong sạch ⟨את⟩ lối đi của mình? Để giữ theo lời Ngài.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "bằng gì"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "làm trong sạch"
+    },
+    {
+      "surface": "נער",
+      "gloss": "người trẻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lối đi của mình"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "lối đi của mình"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "để giữ"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "theo lời Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:51.082525636Z",
+  "model": "glm-5.3"
+}

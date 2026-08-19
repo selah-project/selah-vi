@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và ⟨ Ngài ⟩ phán: Hãy ném nó xuống đất. Và ⟨ ông ⟩ ném nó xuống đất, và nó thành con rắn, và Moshe bỏ chạy khỏi trước mặt nó.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và phán"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "hãy ném nó"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "xuống đất"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "và ⟨ ông ⟩ ném nó"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "xuống đất"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "và thành"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "con rắn"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "và bỏ chạy"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "khỏi trước mặt nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:28:52.013198786Z",
+  "model": "glm-5.3"
+}

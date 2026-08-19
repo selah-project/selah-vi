@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Vì tôi đã giữ các con đường của Yahweh, và không làm điều ác chống lại Elohim của tôi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "tôi đã giữ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "các con đường"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "của Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "làm điều ác"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "chống lại Elohim của tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:33.547647283Z",
+  "model": "glm-5.3"
+}

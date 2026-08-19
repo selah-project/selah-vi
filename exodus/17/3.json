@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Dân sự khát nước tại đó, và dân sự oán trách Moshe, và nói: Sao nỗi này ngươi đem chúng tôi lên khỏi Mitzrayim, để giết ⟨את⟩ tôi cùng ⟨את⟩ con cái tôi và ⟨את⟩ súc vật tôi vì khát?",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "và khát"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tại đó"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "למים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "và oán trách"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "על",
+      "gloss": "chống"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "למה",
+      "gloss": "sao"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nỗi này"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "ngươi đem chúng tôi lên"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "khỏi Mitzrayim"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "để giết"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ tôi",
+      "marks": "tôi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "cùng ⟨את⟩",
+      "marks": "con cái tôi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái tôi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "súc vật tôi"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "súc vật tôi"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "vì khát"
+    }
+  ],
+  "timestamp": "2026-08-19T02:32:46.071664131Z",
+  "model": "glm-5.3"
+}

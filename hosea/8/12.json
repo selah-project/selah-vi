@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 8:12",
+  "book": "hosea",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Ta viết cho hắn vô số điều trong luật Ta, nhưng chúng bị kể như điều xa lạ.",
+  "tokens": [
+    {
+      "surface": "אכתוב",
+      "gloss": "Ta viết"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho hắn"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "vô số"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "luật Ta"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "như"
+    },
+    {
+      "surface": "זר",
+      "gloss": "điều xa lạ"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "chúng bị kể"
+    }
+  ],
+  "timestamp": "2026-08-19T04:44:59.129684359Z",
+  "model": "glm-5.3"
+}

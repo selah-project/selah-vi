@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 35,
+  "translation": "Nguyện chúng nó xấu hổ và bị sỉ nhục, những kẻ tìm kiếm sinh mạng tôi; nguyện chúng nó lui ra đằng sau và bối rối, những kẻ mưu tính điều ác chống tôi.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "nguyện chúng nó xấu hổ"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "và bị sỉ nhục"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "những kẻ tìm kiếm"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sinh mạng tôi"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "nguyện chúng nó lui"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ra đằng sau"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "và bối rối"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "những kẻ mưu tính"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "điều ác chống tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:00.525068710Z",
+  "model": "glm-5.3"
+}

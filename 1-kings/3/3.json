@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và Shelomoh yêu ⟨את⟩ Yahweh, đi trong các lệ luật của David cha mình; chỉ ⟨là⟩ tại các nơi cao ⟨ông⟩ giết tế và đốt hương.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "và yêu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "đi"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "trong các lệ luật"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "cha mình"
+    },
+    {
+      "surface": "רק",
+      "gloss": "chỉ"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "tại các nơi cao"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ông"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "giết tế"
+    },
+    {
+      "surface": "ו מקטיר",
+      "gloss": "và đốt hương"
+    }
+  ],
+  "timestamp": "2026-08-19T03:47:54.893413099Z",
+  "model": "glm-5.3"
+}

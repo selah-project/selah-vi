@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Vì khôn ngoan hơn kẻ dại được ⟨số⟩ gì? Kẻ nghèo biết đi trước mặt người sống thì được gì?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "hơn"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "cho kẻ khôn"
+    },
+    {
+      "surface": "מן",
+      "gloss": "hơn"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "kẻ dại"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "cho kẻ nghèo"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "biết"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "đi"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "người sống"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:38.895041054Z",
+  "model": "glm-5.3"
+}

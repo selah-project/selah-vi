@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 3:25",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Vì điều kinh sợ — con đã kinh sợ nó, và nó đã đến với con; và điều con run rẩy sợ đã đến upon con.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "nỗi kinh sợ"
+    },
+    {
+      "surface": "פחדתי",
+      "gloss": "con đã kinh sợ"
+    },
+    {
+      "surface": "ויאתיני",
+      "gloss": "và nó đã đến với con"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "và điều mà"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "con run rẩy sợ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "nó đến"
+    },
+    {
+      "surface": "לי",
+      "gloss": "với con"
+    }
+  ],
+  "timestamp": "2026-08-19T06:20:37.951160970Z",
+  "model": "glm-5.3"
+}

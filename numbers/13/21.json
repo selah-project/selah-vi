@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 13:21",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Họ đi lên và trinh sát ⟨את⟩ đất, từ hoang mạc Tsin đến Rechob, tại lối vào Chamath.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "họ đi lên"
+    },
+    {
+      "surface": "ויתרו",
+      "gloss": "và trinh sát"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đất"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "từ hoang mạc"
+    },
+    {
+      "surface": "צן",
+      "gloss": "Tsin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rechob"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "lối vào"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamath"
+    }
+  ],
+  "timestamp": "2026-08-19T02:56:53.533998397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 62,
+  "translation": "Chỉ mình Ngài ⟨là⟩ đá tảng tôi và sự cứu rỗi tôi, ⟨là⟩ thành lũy cao của tôi; tôi sẽ không xiêu đổ nhiều.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "chỉ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "mình Ngài"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "đá tảng tôi"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "và sự cứu rỗi tôi"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "thành lũy cao của tôi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "xiêu đổ"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "nhiều"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:45.415042589Z",
+  "model": "glm-5.3"
+}

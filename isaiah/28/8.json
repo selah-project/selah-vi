@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 28:8",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Vì mọi bàn đều đầy chất nôn mửa và phân uế, không còn chỗ nào sạch.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "bàn"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "đầy"
+    },
+    {
+      "surface": "קיא",
+      "gloss": "chất nôn mửa"
+    },
+    {
+      "surface": "צאה",
+      "gloss": "phân uế"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "không còn"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "chỗ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:08:15.446204180Z",
+  "model": "glm-5.3"
+}

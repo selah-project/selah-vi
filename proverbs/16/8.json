@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Một ít mà ⟨với⟩ công bình, ⟨thì tốt⟩ hơn nhiều thu nhập mà không có công lý.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "tốt"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "một ít"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "với công bình"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "hơn nhiều"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "thu nhập"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "mà không có"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "công lý"
+    }
+  ],
+  "timestamp": "2026-08-19T05:16:53.885423878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 50:25",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 50,
+  "translation": "Và Yosef khiến các con trai Yisrael thề, nói: Pakod, Elohim sẽ chắc chắn thăm ⟨אתכם⟩, và các ngươi sẽ đưa lên ⟨את⟩ xương của tôi khỏi nơi này.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "và khiến thề"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các con trai Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "các con trai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "thăm"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "sẽ chắc chắn thăm"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ các ngươi"
+    },
+    {
+      "surface": "והעלתם",
+      "gloss": "và các ngươi sẽ đưa lên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xương của tôi"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "xương của tôi"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "khởi nơi này"
+    }
+  ],
+  "timestamp": "2026-08-19T06:03:30.445680822Z",
+  "model": "glm-5.3"
+}

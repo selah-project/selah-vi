@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Và chúng ta hãy đưa ⟨את⟩ hòm của Elohim chúng ta về cùng chúng ta, vì trong những ngày của Shaol chúng ta đã không tìm hỏi Ngài.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "và chúng ta hãy đưa về"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hòm của Elohim chúng ta"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "hòm"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "của Elohim chúng ta"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "về cùng chúng ta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "chúng ta đã tìm hỏi nó"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "trong những ngày"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    }
+  ],
+  "timestamp": "2026-08-19T05:50:41.724016202Z",
+  "model": "glm-5.3"
+}

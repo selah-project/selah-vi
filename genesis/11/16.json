@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và Ever đã sống ba mươi tư năm, và đã sinh ⟨את⟩ Peleg.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "đã sống"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "bốn"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "và ba mươi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "năm"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "và đã sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peleg"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    }
+  ],
+  "timestamp": "2026-08-19T00:54:29.506173284Z",
+  "model": "glm-5.3"
+}

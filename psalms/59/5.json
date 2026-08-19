@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 59:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 59,
+  "translation": "Không có tội lỗi, chúng chạy rôn và chuẩn bị; hãy thức dậy đến gặp con, và hãy nhìn xem.",
+  "tokens": [
+    {
+      "surface": "בלי",
+      "gloss": "Không có"
+    },
+    {
+      "surface": "עון",
+      "gloss": "tội lỗi"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "chúng chạy rôn"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "và chuẩn bị"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "hãy thức dậy"
+    },
+    {
+      "surface": "לקראתי",
+      "gloss": "đến gặp con"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "và hãy nhìn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:10.609761021Z",
+  "model": "glm-5.3"
+}

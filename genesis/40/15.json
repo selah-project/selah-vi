@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 40:15",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Vì thật bị đánh cắp, tôi đã bị đánh cắp khỏi đất của người Hebrew, và ở đây nữa tôi cũng không làm điều gì đó, vì họ đã đặt ⟨את⟩ tôi vào hầm.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "bị đánh cắp"
+    },
+    {
+      "surface": "גנבתי",
+      "gloss": "tôi đã bị đánh cắp"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "khỏi đất"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "của người Hebrew"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "và cả"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ở đây"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "tôi đã làm"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "điều gì"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "họ đã đặt"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ tôi",
+      "marks": "vào hầm"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "vào hầm"
+    }
+  ],
+  "timestamp": "2026-08-19T01:25:42.063880062Z",
+  "model": "glm-5.3"
+}

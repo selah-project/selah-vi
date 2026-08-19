@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 6:1",
+  "book": "esther",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Đêm đó, giấc ngủ của vua trốn mất, và vua truyền đem ⟨את⟩ sách ghi nhớ, các biên niên sử, và chúng được đọc trước mặt vua.",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "đêm đó"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ấy"
+    },
+    {
+      "surface": "נדדה",
+      "gloss": "trốn mất"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "giấc ngủ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "của vua"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và vua nói"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "đem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sách ghi nhớ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "sách"
+    },
+    {
+      "surface": "הזכרנות",
+      "gloss": "ghi nhớ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "chuyện của"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "các ngày"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "và chúng được"
+    },
+    {
+      "surface": "נקראים",
+      "gloss": "đọc"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    }
+  ],
+  "timestamp": "2026-08-19T05:35:24.227960435Z",
+  "model": "glm-5.3"
+}

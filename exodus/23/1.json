@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 23:1",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Ngươi chớ nhấc lên một tin đồn hư không; chớ đặt tay ngươi cùng kẻ ác để làm chứng bạo ngược.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ngươi nhấc lên"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "tin đồn"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "hư không"
+    },
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "ngươi đặt"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tay ngươi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cùng"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "להית",
+      "gloss": "để làm"
+    },
+    {
+      "surface": "עד",
+      "gloss": "chứng"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "bạo ngược"
+    }
+  ],
+  "timestamp": "2026-08-19T02:33:57.059098301Z",
+  "model": "glm-5.3"
+}

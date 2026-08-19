@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Shaúl chết, ba con trai ông và cả nhà ông đều chết chung với nhau.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "chết"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "và ba"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "con trai ông"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và cả"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nhà ông"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "chung với nhau"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "đã chết"
+    }
+  ],
+  "timestamp": "2026-08-19T05:49:40.402152069Z",
+  "model": "glm-5.3"
+}

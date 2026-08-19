@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Hãy xem, ta đã gọi đích danh Betsalel, con của Uri, con của Chur, thuộc chi tộc Yehudah.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "hãy-xem"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ta-đã-gọi"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "đích-danh"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con-của"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con-của"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Chur"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "thuộc-chi-tộc"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-19T02:35:31.898308911Z",
+  "model": "glm-5.3"
+}

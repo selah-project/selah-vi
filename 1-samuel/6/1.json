@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và Ap-khôn của Yahweh ở trong đồng của dân Phlishtim bảy tháng.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "xảy ra rằng"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Ap-khôn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "trong đồng"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "dân Phlishtim"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "bảy"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "tháng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:30:56.103924656Z",
+  "model": "glm-5.3"
+}

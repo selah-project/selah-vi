@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 62,
+  "translation": "Vì những kẻ gặt-hái nó sẽ ăn nó, và họ sẽ ngợi-khen ⟨את⟩ Yahweh; và những kẻ thu-góp nó sẽ uống nó trong các sân thánh-ta của Ta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "những kẻ gặt-hái nó"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "sẽ ăn nó"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "và sẽ ngợi-khen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "và những kẻ thu-góp nó"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "sẽ uống nó"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "trong các sân"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "thánh-ta của Ta"
+    }
+  ],
+  "timestamp": "2026-08-19T04:15:32.133120763Z",
+  "model": "glm-5.3"
+}

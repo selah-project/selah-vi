@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 23:30",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Từ từ, từng chút một, Ta sẽ đuổi chúng nó ra khỏi mặt ngươi, cho đến khi ngươi sinh sôi nhiều, và ngươi sẽ thừa hưởng ⟨את⟩ vùng đất.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "từ từ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "từng chút một"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "Ta sẽ đuổi nó ra"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "khỏi mặt ngươi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến khi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "תפרה",
+      "gloss": "ngươi sinh sôi nhiều"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "và ngươi sẽ thừa hưởng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vùng đất"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨vùng⟩ đất"
+    }
+  ],
+  "timestamp": "2026-08-19T02:34:04.116278132Z",
+  "model": "glm-5.3"
+}

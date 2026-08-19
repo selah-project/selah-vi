@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 10:18",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Này, máu của nó không được đem ⟨את⟩ vào nơi thánh phía trong; các ngươi phải ăn ⟨את⟩ nó tại nơi thánh, như ta đã truyền lệnh.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "này"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "הובא",
+      "gloss": "được đem vào"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "máu của nó"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "máu của nó"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vào"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "nơi thánh"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "phía trong"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "phải ăn"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "các ngươi ăn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ nó",
+      "marks": "tại nơi thánh"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "tại nơi thánh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ta đã truyền lệnh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:42:39.764622669Z",
+  "model": "glm-5.3"
+}

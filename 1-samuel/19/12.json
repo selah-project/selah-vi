@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Và Mikal thả ⟨את⟩ David xuống qua cửa sổ; ⟨anh⟩ đi, trốn chạy và thoát chết.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "và-cô-thả-xuống"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "qua"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "cửa-sổ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "và-⟨anh⟩-đi"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "và-trốn-chạy"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "và-thoát-chết"
+    }
+  ],
+  "timestamp": "2026-08-19T03:35:15.329471365Z",
+  "model": "glm-5.3"
+}

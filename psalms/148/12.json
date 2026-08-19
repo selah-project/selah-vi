@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 148,
+  "translation": "Các chàng trai và cả các trinh nữ, người già cùng với trẻ nhỏ",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "các chàng trai"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "và cả"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "các trinh nữ"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "người già"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cùng với"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "trẻ nhỏ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:31.816164559Z",
+  "model": "glm-5.3"
+}

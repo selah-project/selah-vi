@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Bà sinh một con trai, và ông gọi ⟨את⟩ tên nó là Gershom, vì ông nói: Người khách lạ, ta đã là, trong xứ của người lạ.",
+  "tokens": [
+    {
+      "surface": "ו תלד",
+      "gloss": "và bà sinh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "một con trai"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "và ông gọi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tên nó"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "tên nó"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gershom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ông nói"
+    },
+    {
+      "surface": "גר",
+      "gloss": "người khách lạ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ta đã là"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trong xứ"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "của người lạ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:27:34.144551815Z",
+  "model": "glm-5.3"
+}

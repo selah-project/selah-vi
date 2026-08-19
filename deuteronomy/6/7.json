@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "và ngươi phải dạy dạy lại cho con cái ngươi, và nói về chúng khi ngươi ngồi trong nhà ngươi, khi ngươi đi trên đường, khi ngươi nằm xuống và khi ngươi đứng dậy.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "và ngươi phải dạy dạy lại"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "cho con cái ngươi"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "và ngươi nói"
+    },
+    {
+      "surface": "בם",
+      "gloss": "về chúng"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "khi ngươi ngồi"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "trong nhà ngươi"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "và khi ngươi đi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "trên đường"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "và khi ngươi nằm xuống"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "và khi ngươi đứng dậy"
+    }
+  ],
+  "timestamp": "2026-08-19T03:05:37.176591671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 45:15",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 45,
+  "translation": "Quả thật, Ngài là ⟨đấng⟩ El tự ẩn mình, Elohim của Yisrael, ⟨là⟩ Đấng Cứu-rỗi.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "quả thật"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "tự ẩn mình"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "Đấng Cứu-rỗi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:13:00.778124544Z",
+  "model": "glm-5.3"
+}

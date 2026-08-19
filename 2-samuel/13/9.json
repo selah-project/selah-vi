@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 13:9",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Và nàng lấy ⟨את⟩ cái chảo, đổ ra trước mặt chàng; nhưng chàng từ chối không ăn. Amnon nói: Hãy đuổi mọi người ra khỏi ta. Và mọi người đều ra khỏi chàng.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "và nàng lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cái chảo"
+    },
+    {
+      "surface": "המשרת",
+      "gloss": "cái chảo"
+    },
+    {
+      "surface": "ותצק",
+      "gloss": "và đổ ra"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "trước mặt chàng"
+    },
+    {
+      "surface": "וימאן",
+      "gloss": "nhưng chàng từ chối"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "ăn"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "hãy đưa ra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "khỏi ta"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "và họ ra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "khỏi chàng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:42:00.827100080Z",
+  "model": "glm-5.3"
+}

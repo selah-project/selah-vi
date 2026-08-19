@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Và Yahweh sẽ làm với chúng như Ngài đã làm với Sichon và với Og, các vua của HaEmori, và với đất của chúng — những kẻ mà Ngài đã hủy diệt ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "và sẽ làm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "với chúng"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "với Sichon"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "và với Og"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "các vua của"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "HaEmori"
+    },
+    {
+      "surface": "ולארצם",
+      "gloss": "và với đất của chúng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "đã hủy diệt"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "chúng (Sichon và Og)"
+    }
+  ],
+  "timestamp": "2026-08-19T03:13:06.091605090Z",
+  "model": "glm-5.3"
+}

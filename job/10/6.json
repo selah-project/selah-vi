@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 10:6",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "bởi vì Ngài kiếm tìm tội ác của tôi, và truy lùng lỗi lầm của tôi?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bởi vì"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "Ngài kiếm tìm"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "tội ác của tôi"
+    },
+    {
+      "surface": "ולחטאתי",
+      "gloss": "và lỗi lầm của tôi"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "Ngài truy lùng"
+    }
+  ],
+  "timestamp": "2026-08-19T06:20:13.301116266Z",
+  "model": "glm-5.3"
+}

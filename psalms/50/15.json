@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 50,
+  "translation": "Và hãy kêu Ta trong ngày khốn khó — Ta sẽ giải cứu ngươi, và ngươi sẽ tôn vinh Ta.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "và hãy kêu Ta"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "trong ngày"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "khốn khó"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "Ta sẽ giải cứu ngươi"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "và ngươi sẽ tôn vinh Ta"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:47.606094987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Ngài đặt tối tàm làm nơi ẩn nấp của Ngài, quanh Ngài là trại của Ngài — tối tàm của nước, mây dày của các tầng mây.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "Ngài đặt"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tối tàm"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "nơi ẩn nấp của Ngài"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "quanh Ngài"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "trại của Ngài"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "tối tàm"
+    },
+    {
+      "surface": "מים",
+      "gloss": "của nước"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "mây dày"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "của các tầng mây"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:26.544739339Z",
+  "model": "glm-5.3"
+}

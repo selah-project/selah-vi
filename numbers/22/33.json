@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 22:33",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Con lạc đà cái đã thấy ta và nép sang một bên trước mặt ta — nầy ba lần; may là nó đã nép khỏi mặt ta, vì bây giờ ta đã giết cả ⟨את⟩ ngươi và ⟨את⟩ nó thì đã giữ sống.",
+  "tokens": [
+    {
+      "surface": "ותראני",
+      "gloss": "đã thấy ta"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "lạc đà cái"
+    },
+    {
+      "surface": "ותט",
+      "gloss": "và nép sang một bên"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt ta"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nầy"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ba"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "lần"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "may ra"
+    },
+    {
+      "surface": "נטתה",
+      "gloss": "nép đi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "khỏi mặt ta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "bây giờ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cả"
+    },
+    {
+      "surface": "אתכה",
+      "gloss": "⟨את⟩",
+      "marks": "ngươi"
+    },
+    {
+      "surface": "הרגתי",
+      "gloss": "đã giết"
+    },
+    {
+      "surface": "ואותה",
+      "gloss": "và ⟨את⟩",
+      "marks": "nó (lạc đà cái)"
+    },
+    {
+      "surface": "החייתי",
+      "gloss": "đã giữ sống"
+    }
+  ],
+  "timestamp": "2026-08-19T03:00:07.023335047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và Nachshon sinh ⟨את⟩ Salma; và Salma sinh ⟨את⟩ Boaz,",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "và Nachshon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salma"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Salma"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "và Salma"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boaz"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-08-19T05:47:05.264037912Z",
+  "model": "glm-5.3"
+}

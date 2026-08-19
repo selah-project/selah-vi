@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "⟨את⟩ lúa mọc tự sinh của mùa gặt ngươi, ngươi không được gặt; và ⟨את⟩ nho của vườn không tỉa ngươi, ngươi không được hái; sẽ là năm nghỉ shabbaton cho đất.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lúa mọc tự sinh"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "lúa mọc tự sinh"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "mùa gặt của ngươi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "ngươi được gặt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "nho của vườn không tỉa ngươi"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "nho của"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "vườn không tỉa của ngươi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "ngươi được hái"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "năm"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "nghỉ shabbaton"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sẽ là"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "cho đất"
+    }
+  ],
+  "timestamp": "2026-08-19T02:47:39.718838771Z",
+  "model": "glm-5.3"
+}

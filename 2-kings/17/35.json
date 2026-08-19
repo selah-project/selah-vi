@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 17:35",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Yahweh đã cắt giao ước với ⟨את⟩ họ và đã truyền lệnh cho họ rằng: Các ngươi chớ kính sợ các thần khác, và chớ quỳ lạy trước chúng, và chớ hầu việc chúng, và ch đừng sát tế cho chúng.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "và đã cắt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "họ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "giao ước"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "và đã truyền lệnh cho họ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "các ngươi kính sợ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "các thần"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "khác"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và chớ"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "các ngươi quỳ lạy"
+    },
+    {
+      "surface": "להם",
+      "gloss": "trước chúng"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và chớ"
+    },
+    {
+      "surface": "תעבדום",
+      "gloss": "các ngươi hầu việc chúng"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và chớ"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "các ngươi sát tế"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:01:00.021329345Z",
+  "model": "glm-5.3"
+}

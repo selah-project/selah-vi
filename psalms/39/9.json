@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 39,
+  "translation": "Từ mọi sự phạm tội của tôi, hãy cứu tôi; sự sỉ nhục của kẻ dại dột, xin đừng đặt tôi thành ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "từ mọi"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "sự phạm tội của tôi"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "hãy cứu tôi"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "sự sỉ nhục"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "kẻ dại dột"
+    },
+    {
+      "surface": "אל",
+      "gloss": "xin đừng"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "đặt tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:28.882500077Z",
+  "model": "glm-5.3"
+}

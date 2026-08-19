@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Ngươi hãy bẻ ⟨את⟩ nó thành từng mẩu, và đổ dầu lên trên nó; nó là lễ minh-cha.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "hãy bẻ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nó (bánh)"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "thành từng mẩu"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "và ngươi hãy đổ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "lên trên nó"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "dầu"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "lễ minh-cha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó là"
+    }
+  ],
+  "timestamp": "2026-08-19T02:39:41.078116040Z",
+  "model": "glm-5.3"
+}

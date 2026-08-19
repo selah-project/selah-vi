@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và ông thả ⟨את⟩ con quạ; nó bay ra đi rồi lại quay về, cho đến khi nước khô khỏi ⟨trên⟩ đất.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Và ông thả"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con quạ"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "con quạ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "nó bay ra"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "đi mãi"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "rồi lại quay về"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến khi"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "khô"
+    },
+    {
+      "surface": "המים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T00:52:55.105488421Z",
+  "model": "glm-5.3"
+}

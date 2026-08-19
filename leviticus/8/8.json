@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và ⟨hắn⟩ đặt trên người hắn ⟨את》 kep ngực, và đặt vào kep ngực ⟨את⟩ Urim cùng ⟨את⟩ Tummim.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "và đặt"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "trên người hắn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kep ngực"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "kep ngực"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "và đặt vào"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vào"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "kep ngực"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urim"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Urim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "cùng ⟨את⟩",
+      "marks": "Tummim"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Tummim"
+    }
+  ],
+  "timestamp": "2026-08-19T02:41:20.394272349Z",
+  "model": "glm-5.3"
+}

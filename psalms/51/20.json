@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 51,
+  "translation": "Xin làm ơn theo ý tốt của Ngài cho ⟨את⟩ Tziyon; xin dựng các tường thành của Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "xin làm ơn"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "theo ý tốt của Ngài"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tziyon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tziyon"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "xin dựng"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "các tường thành"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:20.066623655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Và Avraham giơ ⟨את⟩ tay mình ra, và cầm ⟨את⟩ con dao, để hạ ⟨את⟩ con mình.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "và giơ ra"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tay mình"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tay mình"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "và cầm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con dao"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "con dao"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "để hạ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con mình"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "con mình"
+    }
+  ],
+  "timestamp": "2026-08-19T01:02:31.228760128Z",
+  "model": "glm-5.3"
+}

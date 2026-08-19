@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Cho người chỉ huy ⟨כנסר⟩. Thánh thi của Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "cho người chỉ huy"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "thánh thi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "của Dawid"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:27.381345107Z",
+  "model": "glm-5.3"
+}

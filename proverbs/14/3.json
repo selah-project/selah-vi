@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 14:3",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Trong miệng kẻ dại là roi của sự kiêu ngạo, môi của người khôn giữ gìn chúng.",
+  "tokens": [
+    {
+      "surface": "בפי",
+      "gloss": "trong miệng"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "kẻ dại"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "roi (cành gậy)"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "sự kiêu ngạo"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "và môi"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "người khôn"
+    },
+    {
+      "surface": "תשמורם",
+      "gloss": "giữ gìn chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:16:30.406683645Z",
+  "model": "glm-5.3"
+}

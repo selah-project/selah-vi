@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Và Yonatan trả lời ⟨את⟩ Sha-ul cha mình, và nói với người: Sao hắn phải bị giết? Hắn đã làm gì?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "và trả lời"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sha-ul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "cha mình"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "với người"
+    },
+    {
+      "surface": "למה",
+      "gloss": "vì sao"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "phải bị giết"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hắn đã làm"
+    }
+  ],
+  "timestamp": "2026-08-19T03:35:23.037189496Z",
+  "model": "glm-5.3"
+}

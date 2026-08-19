@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Một tiếng nói phán: Hãy kêu lên. Và ⟨hắn⟩ nói: Tôi sẽ kêu lên điều gì? Mọi xác thịt ⟨là⟩ cỏ, và toàn cả ân huệ của nó ⟨là⟩ như hoa của đồng ruộng.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "tiếng nói"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "phán"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Hãy-kêu-lên"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "tôi-sẽ-kêu-lên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "xác thịt"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "cỏ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và toàn-cả"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ân-huệ của-nó"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "như hoa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "của đồng-ruộng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:11:16.914652304Z",
+  "model": "glm-5.3"
+}

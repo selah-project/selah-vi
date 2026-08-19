@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Mọi lời đều mệt mỏi; không ai có thể nói hết; mắt không được no nhìn, và tai không được đầy nghe.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "lời"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "mệt mỏi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "có thể"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người nào"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "được no"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mắt"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "nhìn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "được đầy"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "tai"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "nghe"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:31.307083939Z",
+  "model": "glm-5.3"
+}

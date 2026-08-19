@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 12:25",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "và ⟨Người⟩ sai qua tay Natan đấng tiên tri, và gọi ⟨את⟩ tên nó là Yedidyah, vì cớ Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "và sai"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "qua tay"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "đấng tiên tri"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "và gọi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tên nó"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "tên nó"
+    },
+    {
+      "surface": "ידידיה",
+      "gloss": "Yedidyah"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "vì cớ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T03:41:40.292201053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và giờ đây, ngươi bị rủa sả, ⟨hỞi⟩⟨kẻ⟩ xa ⟨khỏi⟩ đất, là đất đã há miệng mình ra để nhận ⟨את⟩ máu anh ngươi từ tay ngươi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "và-giờ-đây"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "bị-rủa-sả"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "đất"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "là-mà"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "đã-há"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miệng mình"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "miệng-mình"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "để-nhận"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "máu anh ngươi"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "máu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "anh-ngươi"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "từ-tay-ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T00:46:42.777737095Z",
+  "model": "glm-5.3"
+}

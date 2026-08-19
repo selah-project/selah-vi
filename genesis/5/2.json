@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 5:2",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Nam và nữ Ngài đã sáng tạo ⟨את⟩ họ, và Ngài ban phước cho ⟨את⟩ họ, và Ngài đặt tên họ là Adam, trong ngày họ được sáng tạo.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "nam"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "và nữ"
+    },
+    {
+      "surface": "בראם",
+      "gloss": "Ngài đã sáng tạo họ"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "và Ngài ban phước"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "họ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "và Ngài đặt tên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tên họ"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "tên họ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "trong ngày"
+    },
+    {
+      "surface": "הבראם",
+      "gloss": "họ được sáng tạo"
+    }
+  ],
+  "timestamp": "2026-08-19T00:49:09.275525119Z",
+  "model": "glm-5.3"
+}

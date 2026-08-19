@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Và chúng tôi nói với chúa tôi: Đứa trẻ không thể lìa ⟨את⟩ cha nó, vì nếu nó lìa ⟨את⟩ cha nó thì ⟨cha nó⟩ sẽ chết.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "và chúng tôi nói"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "chúa tôi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "có thể"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "đứa trẻ"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "lìa bỏ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cha nó"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "cha nó"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "và nếu nó lìa bỏ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cha nó"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "cha nó"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "thì sẽ chết"
+    }
+  ],
+  "timestamp": "2026-08-19T02:25:00.189518633Z",
+  "model": "glm-5.3"
+}

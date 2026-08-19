@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và vào tháng thứ hai, ngày hai mươi bảy của tháng, đất đã khô hẳn.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "và vào tháng"
+    },
+    {
+      "surface": "השני",
+      "gloss": "thứ hai"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "vào bảy"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "và hai mươi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "của tháng"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "đã khô hẳn"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T00:50:52.656424605Z",
+  "model": "glm-5.3"
+}

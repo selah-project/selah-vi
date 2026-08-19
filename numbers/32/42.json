@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Và Novach đã đi và chiếm lấy ⟨את⟩ Kenat và ⟨את⟩ các làng con của nó, và gọi nó là Novach, theo tên của chính mình.",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "Novach"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "đã đi"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "và chiếm lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenat"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "các làng con của nó"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "các làng con của nó"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "và gọi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "nó"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Novach"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "theo tên của mình"
+    }
+  ],
+  "timestamp": "2026-08-19T03:02:48.121202846Z",
+  "model": "glm-5.3"
+}

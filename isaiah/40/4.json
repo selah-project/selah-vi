@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Mọi hẽm núi sẽ được nhấc lên, và mọi núi và gò sẽ bị hạ thấp; chỗ gập ghềnh sẽ ⟨trở thành⟩ đồng bằng, và chỗ lồi lõm thành trũng rộng.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "hẽm núi"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "sẽ được nhấc lên"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "הר",
+      "gloss": "núi"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "và gò"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "sẽ bị hạ thấp"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "và sẽ ⟨trở thành⟩"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "chỗ gập ghềnh"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "thành đồng bằng"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "và chỗ lồi lõm"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "thành trũng rộng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:11:14.467958670Z",
+  "model": "glm-5.3"
+}

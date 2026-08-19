@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 3:2",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Chỉ ⟨là⟩ dân sự vẫn slaughter tế ở các nơi cao, vì chưa được xây ⟨một⟩ nhà cho Danh Yahweh cho đến những ngày ấy.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "chỉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "giết tế"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "ở các nơi cao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chưa"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "được xây"
+    },
+    {
+      "surface": "בית",
+      "gloss": "một nhà"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "cho Danh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "những ngày"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ấy"
+    }
+  ],
+  "timestamp": "2026-08-19T03:47:54.893250201Z",
+  "model": "glm-5.3"
+}

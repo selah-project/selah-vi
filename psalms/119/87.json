@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Gần như chúng đã tuyệt diệt tôi trên đất; còn tôi, tôi không bỏ các điều Ngài đã định.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "gần như"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "chúng đã tuyệt diệt tôi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trên đất"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "còn tôi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "tôi bỏ"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "các điều Ngài đã định"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:55.712057253Z",
+  "model": "glm-5.3"
+}

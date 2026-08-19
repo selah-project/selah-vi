@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Hãy nói cùng con cái Yisrael và phán cùng chúng rằng: Ta là Yahweh, Elohim của các ngươi.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "hãy nói"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cùng"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "và ngươi hãy phán"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "cùng chúng"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim của các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:45:04.838647156Z",
+  "model": "glm-5.3"
+}

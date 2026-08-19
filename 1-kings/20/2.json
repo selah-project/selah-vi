@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Và ông sai các sứ giả đến Ahab vua của Yisrael, vào trong thành.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "và sai"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "các sứ giả"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "vào trong thành"
+    }
+  ],
+  "timestamp": "2026-08-19T03:54:56.529115617Z",
+  "model": "glm-5.3"
+}

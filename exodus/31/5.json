@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 31:5",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "và trong việc khắc đá để gắn đặt, và trong việc chạm gỗ, để làm mọi công việc.",
+  "tokens": [
+    {
+      "surface": "ובחרשת",
+      "gloss": "và trong việc khắc"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "đá"
+    },
+    {
+      "surface": "למלאת",
+      "gloss": "để gắn đặt"
+    },
+    {
+      "surface": "ובחרשת",
+      "gloss": "và trong việc chạm"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "gỗ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "để làm"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "công việc"
+    }
+  ],
+  "timestamp": "2026-08-19T02:36:17.850918361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 89,
+  "translation": "Chúc tụng Yahweh đến đời đời. A-men, và a-men.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Chúc tụng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "đến đời đời"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "A-men"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "và a-men"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:00.526929684Z",
+  "model": "glm-5.3"
+}

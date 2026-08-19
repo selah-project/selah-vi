@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 23:4",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Hỡi Tsidon, hãy xấu hổ, vì biển đã phán — thành lũy của biển — rằng: Ta không từng đau đẻ, không từng sinh con, không từng nuôi lớn thanh niên, cũng chẳng nuôi dưỡng các trinh nữ.",
+  "tokens": [
+    {
+      "surface": "בושי",
+      "gloss": "hãy xấu hổ"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "đã phán"
+    },
+    {
+      "surface": "ים",
+      "gloss": "biển"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "thành lũy"
+    },
+    {
+      "surface": "הים",
+      "gloss": "của biển"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "חלתי",
+      "gloss": "ta đau đẻ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "ta sinh con"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "ta nuôi lớn"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "thanh niên"
+    },
+    {
+      "surface": "רוממתי",
+      "gloss": "ta nuôi dưỡng"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "các trinh nữ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:08:28.489881061Z",
+  "model": "glm-5.3"
+}

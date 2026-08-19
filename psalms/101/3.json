@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 101,
+  "translation": "Không việc gì vô ích tôi sẽ đặt trước mắt tôi; việc làm của kẻ lạc đường tôi ghét, nó sẽ không bám vào tôi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "tôi sẽ đặt"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "trước"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mắt tôi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "việc"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "vô ích"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "việc làm"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "của kẻ lạc đường"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "tôi ghét"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "nó sẽ bám"
+    },
+    {
+      "surface": "בי",
+      "gloss": "vào tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:01.448876344Z",
+  "model": "glm-5.3"
+}

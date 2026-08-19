@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 53,
+  "translation": "Há không biết sao, những kẻ làm điều gian ác, những kẻ ăn dân ta như ăn bánh — Elohim họ đã không kêu cầu?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "há không"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "biết"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "những kẻ làm"
+    },
+    {
+      "surface": "און",
+      "gloss": "điều gian ác"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "những kẻ ăn"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "dân ta"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "đã ăn"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bánh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "họ đã kêu cầu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:27.789748538Z",
+  "model": "glm-5.3"
+}

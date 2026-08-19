@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 6:15",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Các anh em tôi đã phản bội như một suối, như lòng suối của các dòng suối trôi qua.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "các anh em tôi"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "đã phản bội"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "như"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "một suối"
+    },
+    {
+      "surface": "כאפיק",
+      "gloss": "như lòng suối"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "của các dòng suối"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "trôi qua"
+    }
+  ],
+  "timestamp": "2026-08-19T05:21:31.273842865Z",
+  "model": "glm-5.3"
+}

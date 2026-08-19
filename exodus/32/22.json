@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Aharon đáp: Xin chúa tôi đừng nóng giận; chính ngươi biết ⟨את⟩ dân này, rằng nó chuyên về điều ác.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "đáp"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "nóng bừng"
+    },
+    {
+      "surface": "אף",
+      "gloss": "cơn giận"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "chúa tôi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "chính ngươi"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "biết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân này"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "trong sự ác"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:36:45.527831452Z",
+  "model": "glm-5.3"
+}

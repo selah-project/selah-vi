@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 90,
+  "translation": "Vì chúng con bị tiêu灭 trong cơn thịnh nộ của Ngài, và trong cơn giận của Ngài chúng con kinh hoàng.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Vì"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "chúng con bị tiêu diệt"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "trong cơn thịnh nộ của Ngài"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "và trong cơn giận của Ngài"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "chúng con kinh hoàng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:02.505236027Z",
+  "model": "glm-5.3"
+}

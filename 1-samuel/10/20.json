@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Shemuël cho ⟨את⟩ mọi chi tộc của Yisrael đến gần, và chi tộc Binyamin bị bắt được.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "cho đến gần"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi chi tộc của Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "chi tộc của"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "và bị bắt được"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "chi tộc của"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    }
+  ],
+  "timestamp": "2026-08-19T03:31:33.085030383Z",
+  "model": "glm-5.3"
+}

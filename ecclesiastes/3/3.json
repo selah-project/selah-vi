@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Một thời gian để giết, và một thời gian để chữa; một thời gian để phá đổ, và một thời gian để xây dựng.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "một thời gian"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "để giết"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "và một thời gian"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "để chữa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "một thời gian"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "để phá đổ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "và một thời gian"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "để xây dựng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:31.020427537Z",
+  "model": "glm-5.3"
+}

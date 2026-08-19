@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và Elimèlech, chồng của Naomini, chết; và bà bị bỏ lại, bà và hai con trai bà.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "và chết"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimèlech"
+    },
+    {
+      "surface": "איש",
+      "gloss": "chồng"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomini"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "và bị bỏ lại"
+    },
+    {
+      "surface": "היא",
+      "gloss": "bà"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "và hai"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "con trai bà"
+    }
+  ],
+  "timestamp": "2026-08-19T05:29:59.515603640Z",
+  "model": "glm-5.3"
+}

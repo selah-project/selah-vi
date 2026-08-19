@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 2:17",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Há không phải điều này ⟨đã⟩ xảy ra cho ngươi, vì ngươi đã lìa bỏ ⟨את⟩ Yahweh Elohim của ngươi, vào lúc Ngài dẫn ngươi trên con đường?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "há không phải"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "điều này"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "xảy ra cho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "ngươi đã lìa bỏ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim của ngươi"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "vào lúc"
+    },
+    {
+      "surface": "מוליכך",
+      "gloss": "Ngài dẫn ngươi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "trên con đường"
+    }
+  ],
+  "timestamp": "2026-08-19T04:17:05.779732983Z",
+  "model": "glm-5.3"
+}

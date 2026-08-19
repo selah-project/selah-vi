@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 42,
+  "translation": "Và Ta sẽ ban cho các ngươi sự thương xót, và ⟨người ấy⟩ sẽ thương xót ⟨את⟩ các ngươi, và sẽ đưa ⟨את⟩ các ngươi trở về đất của chính các ngươi.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "và Ta sẽ ban"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho các ngươi"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "sự thương xót"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "và sẽ thương xót"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "và sẽ đưa trở về"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "về"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "đất của các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:27:45.497882378Z",
+  "model": "glm-5.3"
+}

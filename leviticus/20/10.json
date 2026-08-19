@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Và người nào ngoại tình với ⟨את⟩ vợ của người, là kẻ ngoại tình với ⟨את⟩ vợ của bạn đồng mình, thì kẻ ngoại tình và người nữ ngoại tình phải bị xử tử.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "và người"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "người mà"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "ngoại tình"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vợ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vợ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "của người"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "là kẻ mà"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "ngoại tình"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vợ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vợ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "của bạn đồng mình"
+    },
+    {
+      "surface": "מות",
+      "gloss": "chết"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bị xử tử"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "kẻ ngoại tình (nam)"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "và người nữ ngoại tình"
+    }
+  ],
+  "timestamp": "2026-08-19T02:46:20.810239039Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 69,
+  "translation": "Elohim, chính Ngài — ⟨is⟩ Đấng đã biết sự dại dột của tôi, và các lỗi lầm của tôi khỏi Ngài không bị che giấu.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "Đấng đã biết"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "sự dại dột của tôi"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "và các lỗi lầm của tôi"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "khỏi Ngài"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "bị che giấu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:13.513732143Z",
+  "model": "glm-5.3"
+}

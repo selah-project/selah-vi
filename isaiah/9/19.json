@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 9:19",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và nó vồ bên phải mà vẫn đói, và nó ăn bên trái mà không được no; người ta ăn thịt cánh tay của chính mình.",
+  "tokens": [
+    {
+      "surface": "ויגזר",
+      "gloss": "và nó vồ"
+    },
+    {
+      "surface": "על",
+      "gloss": "bên"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "phải"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "mà vẫn đói"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "và nó ăn"
+    },
+    {
+      "surface": "על",
+      "gloss": "bên"
+    },
+    {
+      "surface": "שמאול",
+      "gloss": "trái"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mà không"
+    },
+    {
+      "surface": "שבעו",
+      "gloss": "được no"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người ta"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "thịt"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "cánh tay của chính mình"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ăn"
+    }
+  ],
+  "timestamp": "2026-08-19T04:05:32.905175833Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 11:16",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và xảy ra, khi Joav canh giữ thành, ngài đặt ⟨את⟩ Uriya vào chỗ mà ngài biết rằng ở đó có những người mạnh dũng.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "và xảy ra"
+    },
+    {
+      "surface": "בשמור",
+      "gloss": "khi canh giữ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đối với"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "thành"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "và ngài đặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriya"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vào"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "chỗ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ngài biết"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "những người"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "mạnh dũng"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ở đó"
+    }
+  ],
+  "timestamp": "2026-08-19T03:41:28.528181767Z",
+  "model": "glm-5.3"
+}

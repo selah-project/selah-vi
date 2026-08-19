@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Và ⟨את⟩ hết thảy mỡ của nó người ta sẽ dâng từ nó: ⟨את⟩ cái đuôi mỡ, và ⟨את⟩ cái mỡ bao phủ ⟨את〕 ruột gan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "hết thảy mỡ của nó"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hết thảy"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "mỡ của nó"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "sẽ dâng"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "từ nó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cái đuôi mỡ"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "đuôi mỡ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "cái mỡ"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "cái mỡ"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "bao phủ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruột"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ruột"
+    }
+  ],
+  "timestamp": "2026-08-19T02:40:59.761816912Z",
+  "model": "glm-5.3"
+}

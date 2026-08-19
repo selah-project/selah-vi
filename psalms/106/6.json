@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 106,
+  "translation": "Chúng tôi đã phạm tội cùng với tổ phụ chúng tôi, chúng tôi đã làm cong queo, chúng tôi đã làm điều ác.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "chúng tôi đã phạm tội"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cùng với"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "tổ phụ chúng tôi"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "chúng tôi đã làm cong queo"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "chúng tôi đã làm điều ác"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:37.884344304Z",
+  "model": "glm-5.3"
+}

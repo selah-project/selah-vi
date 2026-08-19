@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Hãy chỗi dậy, Yahweh! Hãy cứu tôi, Elohim của tôi! Vì Ngài đã đánh ⟨את⟩ mọi kẻ thù tôi vào má, đã đánh vỡ răng kẻ ác.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "hãy chỗi dậy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "hãy cứu tôi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của tôi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "Ngài đã đánh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi kẻ thù tôi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "kẻ thù tôi"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "vào má"
+    },
+    {
+      "surface": "שני",
+      "gloss": "răng"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "đã đánh vỡ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:55:02.419724278Z",
+  "model": "glm-5.3"
+}

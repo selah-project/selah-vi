@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Và chúng sẽ mọc lên giữa cỏ, như những cây liễu bên các dòng nước.",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "và chúng sẽ mọc lên"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "cỏ"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "như những cây liễu"
+    },
+    {
+      "surface": "על",
+      "gloss": "bên"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "các dòng"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    }
+  ],
+  "timestamp": "2026-08-19T04:12:33.048679875Z",
+  "model": "glm-5.3"
+}

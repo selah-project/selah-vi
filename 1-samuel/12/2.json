@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 12:2",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Và giờ đây, này, ⟨⟩vua đang đi trước mặt các ông, còn tôi đã già và tóc đã bạc, và các con trai tôi, kìa, ⟨את⟩ chúng ở với các ông; còn tôi đã đi trước mặt các ông từ thuở niên thiếu cho đến ngày nay.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "và giờ đây"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "này"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨the⟩ vua"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "đang đi"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "trước mặt các ông"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "và tôi"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "đã già"
+    },
+    {
+      "surface": "ושבתי",
+      "gloss": "và đã bạc tóc"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "và các con trai tôi"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "kìa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ở với các ông"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "còn tôi"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "đã đi"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "trước mặt các ông"
+    },
+    {
+      "surface": "מנערי",
+      "gloss": "từ thuở niên thiếu của tôi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    }
+  ],
+  "timestamp": "2026-08-19T03:32:36.192288179Z",
+  "model": "glm-5.3"
+}

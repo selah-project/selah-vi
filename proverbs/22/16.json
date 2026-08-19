@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 22:16",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Kẻ ức hiếp người nghèo để làm giàu cho ⟨mình⟩, kẻ ban cho người giàu — chỉ để rồi thiếu thốn.",
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "ức hiếp"
+    },
+    {
+      "surface": "דל",
+      "gloss": "người nghèo"
+    },
+    {
+      "surface": "להרבות",
+      "gloss": "để làm giàu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho mình"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ban cho"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "cho người giàu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "chỉ"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "để rồi thiếu thốn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:18:13.062873307Z",
+  "model": "glm-5.3"
+}

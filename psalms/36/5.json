@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 36,
+  "translation": "Sự điều ác nó đã mưu tính trên giường nó, nó đứng vững trên con đường ⟨không⟩ tốt, điều ác nó không khinh ghét.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "sự điều ác"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "nó đã mưu tính"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "giường nó"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "nó đứng vững"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "con đường"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tốt"
+    },
+    {
+      "surface": "רע",
+      "gloss": "điều ác"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "khinh ghét"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:52.302018267Z",
+  "model": "glm-5.3"
+}

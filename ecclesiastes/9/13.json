@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Cả điều này nữa tôi đã thấy: sự khôn ngoan dưới mặt trời, và nó ⟨là⟩ điều lớn lao đối với tôi.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "cả...nữa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "điều này"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "tôi đã thấy"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "sự khôn ngoan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dưới"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "mặt trời"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "và lớn lao"
+    },
+    {
+      "surface": "היא",
+      "gloss": "nó"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "đối với tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:50.292875639Z",
+  "model": "glm-5.3"
+}

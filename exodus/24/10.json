@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Và họ thấy ⟨את⟩ Elohim của Yisrael; và dưới chân Ngài ⟨là⟩ như công trình của ngọc sapphire lát, và như chính thể của các tầng trời về sự thanh khiết.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "và họ thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim của Yisrael"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "của Yisrael"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "và dưới"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "chân Ngài"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "như công trình"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "của ngọc lát trắng"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "sapphire"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "và như chính thể"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "của các tầng trời"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "về sự thanh khiết"
+    }
+  ],
+  "timestamp": "2026-08-19T02:34:02.471745552Z",
+  "model": "glm-5.3"
+}

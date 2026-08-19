@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 19:24",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Kẻ lười giấu tay mình trong chén; ngay cả đến miệng nó, cũng không đưa tay trở lại.",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "giấu"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "kẻ lười"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tay mình"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "trong chén"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ngay cả"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "miệng nó"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "đưa nó trở lại"
+    }
+  ],
+  "timestamp": "2026-08-19T05:17:31.120274687Z",
+  "model": "glm-5.3"
+}

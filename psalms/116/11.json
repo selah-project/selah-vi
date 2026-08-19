@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 116,
+  "translation": "Tôi đã nói trong sự vội vã ⟨của tôi⟩: mọi người ⟨đều⟩ là kẻ nói dối.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "đã nói"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "trong sự vội vã của tôi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "người"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "là kẻ nói dối"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:11.982614031Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 92:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 92,
+  "translation": "Khi kẻ ác nở ra như cỏ, và mọi kẻ làm điều vô ích đâm bông — là để chúng bị hủy diệt đời đời.",
+  "tokens": [
+    {
+      "surface": "בפרח",
+      "gloss": "khi... nở ra"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "như"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "cỏ"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "và đâm bông"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "kẻ làm"
+    },
+    {
+      "surface": "און",
+      "gloss": "điều vô ích"
+    },
+    {
+      "surface": "להשמדם",
+      "gloss": "để chúng bị hủy diệt"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "đời"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đời"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:12.953103921Z",
+  "model": "glm-5.3"
+}

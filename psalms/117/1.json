@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 117,
+  "translation": "Hãy ngợi khen ⟨את⟩ Yahweh, hỡi mọi dân tộc; hãy tôn vinh Ngài, hỡi mọi quốc dân.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "hãy ngợi khen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "dân tộc"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "hãy tôn vinh Ngài"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "các quốc dân"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:10.478250305Z",
+  "model": "glm-5.3"
+}

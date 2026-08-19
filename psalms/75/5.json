@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 75:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 75,
+  "translation": "Tôi đã nói với những kẻ kiêu ngạo: Đừng kiêu ngạo; và với những kẻ ác: Đừng nhấc lên sừng.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "tôi đã nói"
+    },
+    {
+      "surface": "להוללים",
+      "gloss": "với những kẻ kiêu ngạo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תהלו",
+      "gloss": "kiêu ngạo"
+    },
+    {
+      "surface": "ולרשעים",
+      "gloss": "và với những kẻ ác"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "nhấc lên"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "sừng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:34.989843133Z",
+  "model": "glm-5.3"
+}

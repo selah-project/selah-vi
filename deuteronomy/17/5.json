@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 17:5",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "thì ngươi sẽ đưa ra ⟨את⟩ người đàn ông đó hay ⟨את⟩ người đàn bà đó, là kẻ đã làm ⟨את⟩ việc xấu ác này, đến cổng thành của ngươi — ⟨את⟩ người đàn ông hay ⟨את⟩ người đàn bà — và ngươi sẽ ném đá họ bằng đá, và họ sẽ chết.",
+  "tokens": [
+    {
+      "surface": "והוצאת",
+      "gloss": "thì ngươi sẽ đưa ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người đàn ông đó"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "người đàn ông"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "đó"
+    },
+    {
+      "surface": "או",
+      "gloss": "hay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người đàn bà đó"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "người đàn bà"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "đó"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "là kẻ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "việc xấu ác này"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "việc"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "xấu ác"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "cổng thành của ngươi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người đàn ông"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "người đàn ông"
+    },
+    {
+      "surface": "או",
+      "gloss": "hay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người đàn bà"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "người đàn bà"
+    },
+    {
+      "surface": "וסקלתם",
+      "gloss": "và ngươi sẽ ném đá họ"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "bằng đá"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "và họ sẽ chết"
+    }
+  ],
+  "timestamp": "2026-08-19T03:10:00.035064563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Họ bèn đứng dậy và bỏ chạy trong lúc chạng vạng, bỏ lại ⟨את⟩ trại của họ và ⟨את⟩ ngựa của họ và ⟨את⟩ lừa của họ — cả trại quân như nguyên trạng — và họ chạy trốn mạng sống mình.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "họ đứng dậy"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "và bỏ chạy"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "trong lúc chạng vạng"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "bỏ lại"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trại của họ"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "trại của họ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "ngựa của họ"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "ngựa của họ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "lừa của họ"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "lừa của họ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "cả trại quân"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "היא",
+      "gloss": "nguyên trạng"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "và họ chạy trốn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vì"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "mạng sống mình"
+    }
+  ],
+  "timestamp": "2026-08-19T03:57:43.816882951Z",
+  "model": "glm-5.3"
+}

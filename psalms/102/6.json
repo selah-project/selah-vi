@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 102,
+  "translation": "Từ tiếng thở dài của tôi, xương tôi dính chặt vào thịt mình.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "từ tiếng"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "thở dài của tôi"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "dính chặt"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "xương tôi"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "vào thịt mình"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:58.641462622Z",
+  "model": "glm-5.3"
+}

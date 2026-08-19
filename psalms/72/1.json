@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 72,
+  "translation": "Cho Shelomo. Elohim ⟨hãy⟩ ban các phán quyết của Ngài cho vua, và sự công chính của Ngài cho con trai vua.",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "Cho Shelomo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "các phán quyết của Ngài"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "cho vua"
+    },
+    {
+      "surface": "תן",
+      "gloss": "hãy ban"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "và sự công chính của Ngài"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "cho con trai"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:00.585295266Z",
+  "model": "glm-5.3"
+}

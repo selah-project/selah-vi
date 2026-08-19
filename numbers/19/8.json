@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 19:8",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Và kẻ thiêu ⟨את⟩ nó sẽ giặt quần áo mình trong nước, và tắm thân thể mình trong nước, và sẽ ô uế cho đến buổi tối.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "và kẻ thiêu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nó (con bê cái)"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "sẽ giặt"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "quần áo mình"
+    },
+    {
+      "surface": "במים",
+      "gloss": "trong nước"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "và sẽ tắm"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "thân thể mình"
+    },
+    {
+      "surface": "במים",
+      "gloss": "trong nước"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "và sẽ ô uế"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "buổi tối"
+    }
+  ],
+  "timestamp": "2026-08-19T02:58:44.920277175Z",
+  "model": "glm-5.3"
+}

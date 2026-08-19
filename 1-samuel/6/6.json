@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 6:6",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và tại sao các ngươi làm nặng ⟨את⟩ lòng mình, như Mitzrayim và Pharaoh đã làm nặng ⟨את⟩ lòng họ? Há không phải khi Ngài hành hạ họ, thì họ đã thả dân đi và dân đã đi sao?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "và tại sao"
+    },
+    {
+      "surface": "תכבדו",
+      "gloss": "các ngươi làm nặng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lòng mình"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "lòng của các ngươi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "đã làm nặng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "và Pharaoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lòng họ"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "lòng của họ"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "há không phải"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "khi"
+    },
+    {
+      "surface": "התעלל",
+      "gloss": "Ngài hành hạ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "họ"
+    },
+    {
+      "surface": "וישלחום",
+      "gloss": "họ đã thả họ đi"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "và họ đã đi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:31:00.125118774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 1:30",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Chúng nó đã không ưng theo lời khuyên của tôi, đã khinh bỉ mọi lời quở trách của tôi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "chúng đã không ưng theo"
+    },
+    {
+      "surface": "לעצתי",
+      "gloss": "lời khuyên của tôi"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "chúng đã khinh bỉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "תוכחתי",
+      "gloss": "lời quở trách của tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:59.030696778Z",
+  "model": "glm-5.3"
+}

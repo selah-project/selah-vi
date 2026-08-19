@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 21:3",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Và Avraham đã đặt tên ⟨את⟩ cho con trai mình, đứa được sinh ra cho mình, mà Sarah đã sinh cho ông: Yitschak.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "và đã gọi\/đặt tên"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tên của con trai mình"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tên"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "con trai mình"
+    },
+    {
+      "surface": "הנולד",
+      "gloss": "được sinh ra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho ông"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "đã sinh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho ông"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    }
+  ],
+  "timestamp": "2026-08-19T01:03:03.241192244Z",
+  "model": "glm-5.3"
+}

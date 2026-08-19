@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 11:10",
+  "book": "hosea",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Chúng sẽ đi theo Yahweh; như sư tử ⟨người⟩ gầm — vì ⟨chính⟩ ⟨người⟩ sẽ gầm, và con cái ⟨của⟩ chúng sẽ run rẩy từ phía biển.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "sau \/ theo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "chúng sẽ đi"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "như sư tử"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "⟨người⟩ gầm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨chính⟩ ⟨người⟩"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "sẽ gầm"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "và chúng sẽ run rẩy"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "מים",
+      "gloss": "từ phía biển"
+    }
+  ],
+  "timestamp": "2026-08-19T04:45:12.554652372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Con đường trung tín con đã chọn; các phán quyết của Ngài con đã đặt ⟨trước mặt⟩.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "con đường"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "trung tín"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "con đã chọn"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "các phán quyết của Ngài"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "con đã đặt"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:44.407950826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 20:20",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Và một người nam nào nằm với ⟨את⟩ cô dì mình — sự trần trụi của chú bác mình người đã phơi bày — tội lỗi của họ họ sẽ mang lấy, không con cái họ sẽ chết.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "và một người nam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "nằm với"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cô dì mình"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "cô dì mình"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "sự trần trụi"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "của chú bác mình"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "đã phơi bày"
+    },
+    {
+      "surface": "חטאם",
+      "gloss": "tội lỗi của họ"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "sẽ mang lấy"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "không con cái"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "sẽ chết"
+    }
+  ],
+  "timestamp": "2026-08-19T02:46:46.570772387Z",
+  "model": "glm-5.3"
+}

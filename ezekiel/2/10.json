@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 2:10",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "và Ngài trải ⟨את⟩ nó ra trước mặt tôi; và nó được viết phía trước và phía sau, và có viết trên nó những điếu văn, tiếng than khóc và tiếng rên rỉ.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "và Ngài trải ra"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "nó (cuộn sách)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt tôi"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "và nó"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "được viết"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "phía trước"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "và phía sau"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "và có viết"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "trên nó"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "những điếu văn"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "và tiếng than khóc"
+    },
+    {
+      "surface": "והי",
+      "gloss": "và tiếng rên rỉ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:30:29.720188106Z",
+  "model": "glm-5.3"
+}

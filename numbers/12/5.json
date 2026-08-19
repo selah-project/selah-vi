@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 12:5",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Và Yahweh ngự xuống trong trụ mây, và đứng nơi cửa lều, và gọi Aharon và Miryam; và cả hai bước ra.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "ngự xuống"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "trong trụ"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "mây"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "và đứng"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "cửa"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "lều"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "và gọi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "và Miryam"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "và bước ra"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "cả hai"
+    }
+  ],
+  "timestamp": "2026-08-19T02:56:15.354427023Z",
+  "model": "glm-5.3"
+}

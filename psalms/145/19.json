@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 145,
+  "translation": "Nguyện ước của những kẻ kính sợ Ngài Ngài sẽ làm, và ⟨את⟩ tiếng kêu cứu của họ Ngài sẽ nghe, và sẽ cứu họ.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "nguyện ước"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "những kẻ kính sợ Ngài"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "sẽ làm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tiếng kêu cứu của họ"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "tiếng kêu cứu của họ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "sẽ nghe"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "và sẽ cứu họ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:31.155247465Z",
+  "model": "glm-5.3"
+}

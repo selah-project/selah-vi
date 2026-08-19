@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Người hãy hôn tôi với những nụ hôn của miệng người, vì những tình yêu của chàng tốt hơn rượu.",
+  "tokens": [
+    {
+      "surface": "ישקני",
+      "gloss": "người hãy hôn tôi"
+    },
+    {
+      "surface": "מנשיקות",
+      "gloss": "với những nụ hôn"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "của miệng người"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "tốt hơn"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "những tình yêu của chàng"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "hơn rượu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:28:42.415235761Z",
+  "model": "glm-5.3"
+}

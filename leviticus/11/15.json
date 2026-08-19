@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "⟨את⟩ mọi con quạ theo giống nó.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi con quạ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "con quạ"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "theo giống nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:41:59.939443989Z",
+  "model": "glm-5.3"
+}

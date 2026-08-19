@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Dù họ có nuôi lớn ⟨את⟩ con cái mình, Ta cũng sẽ làm chúng mất con, khỏi loài người; vì than ôi, khốn cho chúng, khi Ta lìa bỏ chúng.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "dù \/ vì"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dù"
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "họ nuôi lớn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con cái mình"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "con cái mình"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "Ta cũng sẽ làm mất con"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "khỏi loài người"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "גם",
+      "gloss": "quả thật"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "than ôi \/ khốn"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho chúng"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "khi Ta lìa bỏ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "khỏi chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:45:08.461141327Z",
+  "model": "glm-5.3"
+}

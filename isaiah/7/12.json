@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Nhưng Achaz nói: Tôi sẽ không xin, và sẽ không thách thức ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "tôi sẽ xin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "tôi sẽ thách thức"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T04:04:17.938259928Z",
+  "model": "glm-5.3"
+}

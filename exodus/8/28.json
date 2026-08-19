@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và Pharaoh làm ⟨את⟩ lòng mình nặng nề cả lần này nữa, và không phóng ⟨את⟩ dân sự đi.",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "và làm nặng nề"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lòng mình"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "lòng mình"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cả"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "lần"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "này"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "phóng đi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân sự"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    }
+  ],
+  "timestamp": "2026-08-19T02:29:44.953355434Z",
+  "model": "glm-5.3"
+}

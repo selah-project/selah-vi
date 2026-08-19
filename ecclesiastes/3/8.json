@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Một thì yêu thương, và một thì ghét; một thì giao chiến, và một thì bình an.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "một thì"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "yêu thương"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "và một thì"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "ghét"
+    },
+    {
+      "surface": "עת",
+      "gloss": "một thì"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "giao chiến"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "và một thì"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "bình an"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:17.252994031Z",
+  "model": "glm-5.3"
+}

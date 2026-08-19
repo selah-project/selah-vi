@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Mọi chim sạch thì các ngươi hãy ăn.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "chim"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "sạch"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "các ngươi hãy ăn"
+    }
+  ],
+  "timestamp": "2026-08-19T03:07:53.753688714Z",
+  "model": "glm-5.3"
+}

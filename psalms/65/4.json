@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 65,
+  "translation": "Những sự gian ác đã mạnh hơn ⟨so với⟩ tôi; ⟨còn⟩ những sự phản nghịch của chúng ta — chính Ngài sẽ che phủ ⟨את⟩ chúng.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "những sự"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "gian ác"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "đã mạnh hơn"
+    },
+    {
+      "surface": "מני",
+      "gloss": "hơn tôi"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "những sự phản nghịch của chúng ta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "chính Ngài"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "sẽ che phủ ⟨את⟩ chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:54.226925019Z",
+  "model": "glm-5.3"
+}

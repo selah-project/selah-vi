@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 35:3",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 35,
+  "translation": "Và tôi đã đem ⟨את⟩ Yaazanyah con Yirmeyahu con Khavatsanyah, và ⟨את⟩ các anh em ông, và ⟨את⟩ tất cả con trai ông, và ⟨את⟩ toàn thể nhà HaRekhavim.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Và tôi đã đem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaazanyah"
+    },
+    {
+      "surface": "יאזניה",
+      "gloss": "Yaazanyah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con"
+    },
+    {
+      "surface": "חבצניה",
+      "gloss": "Khavatsanyah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các anh em ông"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "các anh em ông"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "tất cả con trai ông"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "con trai ông"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "toàn thể nhà HaRekhavim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "HaRekhavim"
+    }
+  ],
+  "timestamp": "2026-08-19T04:25:44.972549217Z",
+  "model": "glm-5.3"
+}

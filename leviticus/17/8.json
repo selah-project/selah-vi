@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 17:8",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Và ngươi sẽ nói với chúng: người nào — người nào — thuộc nhà Yisrael, hay từ người khách cư ngụ ở giữa các ngươi, kẻ nào dâng lên của lễ thiêu hay của lễ giết tế,",
+  "tokens": [
+    {
+      "surface": "ואלהם",
+      "gloss": "và với chúng"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ngươi sẽ nói"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người nào"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người nào"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "thuộc nhà"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "hay từ"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "người khách"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "cư ngụ"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "ở giữa các ngươi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kẻ nào"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "dâng lên"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "của lễ thiêu"
+    },
+    {
+      "surface": "או",
+      "gloss": "hay"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "của lễ giết tế"
+    }
+  ],
+  "timestamp": "2026-08-19T02:45:41.438841312Z",
+  "model": "glm-5.3"
+}

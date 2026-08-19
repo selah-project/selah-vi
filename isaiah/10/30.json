@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 10:30",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Hãy cất tiếng kêu, hỡi con gái Gallim! Hãy lắng nghe, hỡi Layishah! Hỡi Anathoth nghèo khổ!",
+  "tokens": [
+    {
+      "surface": "צהלי",
+      "gloss": "hãy cất tiếng kêu"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "tiếng của ngươi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "con gái của"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "Gallim"
+    },
+    {
+      "surface": "הקשיבי",
+      "gloss": "hãy lắng nghe"
+    },
+    {
+      "surface": "לישה",
+      "gloss": "Layishah"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "nghèo khổ"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anathoth"
+    }
+  ],
+  "timestamp": "2026-08-19T04:06:05.111415858Z",
+  "model": "glm-5.3"
+}

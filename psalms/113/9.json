@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 113:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 113,
+  "translation": "Người cho người đàn bà son sẻ trong nhà ngồi xuống ⟨thành⟩ mẹ của các con, hạnh phúc — hãy hát khen Yah!",
+  "tokens": [
+    {
+      "surface": "מושיבי",
+      "gloss": "Người cho... ngồi xuống"
+    },
+    {
+      "surface": "עקרת",
+      "gloss": "người đàn bà son sẻ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "trong nhà"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mẹ"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "của các con"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "hạnh phúc"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "hãy hát khen"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:15.888832366Z",
+  "model": "glm-5.3"
+}

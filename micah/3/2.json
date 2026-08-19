@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 3:2",
+  "book": "micah",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Kẻ ghét điều lành và yêu điều dữ; kẻ lột da họ khỏi thân họ, và thịt họ khỏi xương họ.",
+  "tokens": [
+    {
+      "surface": "שנאי",
+      "gloss": "kẻ ghét"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "điều lành"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "và yêu"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "điều dữ"
+    },
+    {
+      "surface": "גזלי",
+      "gloss": "kẻ lột"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "da họ"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "khỏi thân họ"
+    },
+    {
+      "surface": "ושארם",
+      "gloss": "và thịt họ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "עצמותם",
+      "gloss": "xương họ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:49:42.014372296Z",
+  "model": "glm-5.3"
+}

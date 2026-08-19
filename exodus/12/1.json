@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Và Yahweh phán với Moshe và với Aharon trong đất Mitzrayim, rằng:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và với"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trong đất"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:30:11.948303580Z",
+  "model": "glm-5.3"
+}

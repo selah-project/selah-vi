@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 20:4",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Còn Avimelech thì chưa đến gần nàng, và ông thưa: Adonai, dân nước dù công chính, ngươi cũng giết sao?",
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "còn Avimelech"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chưa"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "đến gần"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "nàng"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và thưa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "dân nước sao"
+    },
+    {
+      "surface": "גם",
+      "gloss": "dù"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "công chính"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "ngươi giết"
+    }
+  ],
+  "timestamp": "2026-08-19T01:04:58.628254941Z",
+  "model": "glm-5.3"
+}

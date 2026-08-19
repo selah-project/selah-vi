@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 37:31",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Họ lấy ⟨את⟩ áo Yosef, giết một con dê đực, rồi nhúng ⟨את⟩ chiếc áo trong máu.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "họ lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "áo Yosef"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "áo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "giết"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "con dê đực"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "(của) dê"
+    },
+    {
+      "surface": "ויטבלו",
+      "gloss": "nhúng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiếc áo"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "chiếc áo"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "trong máu"
+    }
+  ],
+  "timestamp": "2026-08-19T01:24:44.874294236Z",
+  "model": "glm-5.3"
+}

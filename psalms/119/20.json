@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Linh hồn tôi bị nghiền nát vì khao khát ⟨những⟩ phán quyết của Ngài mọi lúc.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "bị nghiền nát"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "linh hồn tôi"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "vì khao khát"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hướng về"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "phán quyết của Ngài"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mọi \/ trong tất cả"
+    },
+    {
+      "surface": "עת",
+      "gloss": "lúc \/ thời điểm"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:31.560167829Z",
+  "model": "glm-5.3"
+}

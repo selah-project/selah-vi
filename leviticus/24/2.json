@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 24:2",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Hãy truyền lệnh cho ⟨את⟩ con cái Yisrael, và chúng sẽ đem đến ngươi dầu ô-liu tinh sạch, ép cho đèn, để thắp sáng đèn luôn luôn.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "hãy truyền lệnh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con cái Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "và họ sẽ đem"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "đến ngươi"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "dầu"
+    },
+    {
+      "surface": "זית",
+      "gloss": "ô-liu"
+    },
+    {
+      "surface": "זך",
+      "gloss": "tinh sạch"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "đã ép"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "cho đèn"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "để thắp lên"
+    },
+    {
+      "surface": "נר",
+      "gloss": "ngọn đèn"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "luôn luôn"
+    }
+  ],
+  "timestamp": "2026-08-19T02:48:13.206365648Z",
+  "model": "glm-5.3"
+}

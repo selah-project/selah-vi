@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 34,
+  "translation": "Hãy lìa khỏi điều dữ và làm điều tốt; hãy tìm kiếm sự bình an và đuổi theo nó.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "hãy lìa khỏi"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "điều dữ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "và làm"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "điều tốt"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "hãy tìm kiếm"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sự bình an"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "và đuổi theo nó"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:38.604948959Z",
+  "model": "glm-5.3"
+}

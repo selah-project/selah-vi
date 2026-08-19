@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 8:10",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và ngươi sẽ đưa ⟨את⟩ người Levi đến trước mặt Yahweh, và con cái Yitsrael sẽ đặt ⟨את⟩ tay mình lên người Levi.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "ngươi sẽ đưa lại gần"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người Levi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "người Levi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "và sẽ đặt (tay) lên"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yitsrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tay mình"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "tay của họ"
+    },
+    {
+      "surface": "על",
+      "gloss": "lên"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "người Levi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:55:04.826828899Z",
+  "model": "glm-5.3"
+}

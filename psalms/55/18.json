@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 55,
+  "translation": "Chiều, và sáng, và trưa, tôi sẽ suy ngẫm và rên than, và Ngài đã nghe tiếng tôi.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "chiều"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "và sáng"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "và trưa"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "tôi sẽ suy ngẫm\/nói"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "và rên than"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "và Ngài đã nghe"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "tiếng tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:35.001496414Z",
+  "model": "glm-5.3"
+}

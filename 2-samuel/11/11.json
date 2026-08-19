@@ -1,0 +1,150 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 11:11",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Uriah nói với David: Hòm Giao ước, và Israel, và Yehudah đang ở trong trại; còn chúa tôi Yoav và các tôi tớ của chúa tôi đóng trại ngoài đồng; vậy ta lại đi vào nhà ta để ăn, để uống, và nằm với vợ ta sao? Ngươi sống, và sinh mạng ngươi sống, nếu ta làm ⟨את⟩ điều này!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "Hòm Giao ước"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "và Israel"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "và Yehudah"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "đang ở"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "trong trại"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "và chúa tôi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "và các tôi tớ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "của chúa tôi"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "của đồng"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "đóng trại"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "và ta"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "sẽ đi vào"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tới"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "nhà ta"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "để ăn"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "và để uống"
+    },
+    {
+      "surface": "ולשכב",
+      "gloss": "và để nằm"
+    },
+    {
+      "surface": "עם",
+      "gloss": "với"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "vợ ta"
+    },
+    {
+      "surface": "חיך",
+      "gloss": "ngươi sống"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "và sự sống"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "của sinh mạng ngươi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ta làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "điều này"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "điều"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    }
+  ],
+  "timestamp": "2026-08-19T03:41:30.060547692Z",
+  "model": "glm-5.3"
+}

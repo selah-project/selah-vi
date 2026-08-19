@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 139,
+  "translation": "Cho đốc ca. Thánh thi của David. Yahweh, Ngài đã thấu xét con, và đã biết con.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "cho đốc ca"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "của David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "thánh thi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "Ngài đã thấu xét con"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "và đã biết"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:44.301330791Z",
+  "model": "glm-5.3"
+}

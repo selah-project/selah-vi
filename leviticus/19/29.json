@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Đừng làm ô uế ⟨את⟩ con gái ngươi để nó đi ho, kẻo đất đi ho và đất đầy trần sự ô tục.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "làm ô uế"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con gái ngươi"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "con gái ngươi"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "để nó đi ho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và đừng"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "đi ho"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "và đầy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "sự ô tục"
+    }
+  ],
+  "timestamp": "2026-08-19T02:46:05.688845663Z",
+  "model": "glm-5.3"
+}

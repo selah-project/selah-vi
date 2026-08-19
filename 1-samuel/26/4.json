@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Và David phái các do thám, và biết rằng Sha-ul thực sự đã đến Nakhon.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "và-phái"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "các-do-thám"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "và-biết"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "בא",
+      "gloss": "đã-đến"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "Nakhon \/ chắc-chắn"
+    }
+  ],
+  "timestamp": "2026-08-19T03:37:25.001093627Z",
+  "model": "glm-5.3"
+}

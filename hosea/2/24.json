@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và đất sẽ đáp lời ⟨את⟩ lúa mì, và ⟨את⟩ rượu mới, và ⟨את⟩ dầu; và chúng sẽ đáp lời ⟨את⟩ Yizreel.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "và-đất"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "sẽ-đáp-lời"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lúa mì"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "lúa-mì"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và-⟨את⟩",
+      "marks": "rượu mới"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "rượu-mới"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và-⟨את⟩",
+      "marks": "dầu"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "dầu"
+    },
+    {
+      "surface": "והם",
+      "gloss": "và-chúng"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "sẽ-đáp-lời"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yizreel"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-08-19T04:44:17.952694742Z",
+  "model": "glm-5.3"
+}

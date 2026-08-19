@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 106,
+  "translation": "Kẻ thù của họ đã áp bức họ, và họ bị khuất phục dưới tay chúng.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "và áp bức họ"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "kẻ thù của họ"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "và họ bị khuất phục"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dưới"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "tay chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:59.230411477Z",
+  "model": "glm-5.3"
+}

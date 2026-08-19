@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 42,
+  "translation": "Hắn sẽ không la hét, và sẽ không nhấc ⟨lên⟩, và sẽ không cho tiếng ⟨của hắn⟩ được nghe ở ngoài đường.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "hắn sẽ la hét"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "hắn sẽ nhấc ⟨lên⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "hắn sẽ cho nghe"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ở ngoài đường"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "tiếng ⟨của hắn⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T04:12:32.441978283Z",
+  "model": "glm-5.3"
+}

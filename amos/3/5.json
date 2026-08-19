@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 3:5",
+  "book": "amos",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Liệu chim có rơi xuống bẫy trên đất, khi không có mồi cho nó chăng? Liệu bẫy có bật lên khỏi đất, mà chẳng bắt được gì chăng?",
+  "tokens": [
+    {
+      "surface": "התפל",
+      "gloss": "liệu có rơi"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "chim"
+    },
+    {
+      "surface": "על",
+      "gloss": "xuống trên"
+    },
+    {
+      "surface": "פח",
+      "gloss": "bẫy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "ומוקש",
+      "gloss": "mà bẫy (mồi)"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "לה",
+      "gloss": "cho nó"
+    },
+    {
+      "surface": "היעלה",
+      "gloss": "liệu có bật lên"
+    },
+    {
+      "surface": "פח",
+      "gloss": "bẫy"
+    },
+    {
+      "surface": "מן",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "đất"
+    },
+    {
+      "surface": "ולכוד",
+      "gloss": "và bắt được"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ילכוד",
+      "gloss": "bắt"
+    }
+  ],
+  "timestamp": "2026-08-19T04:46:52.434324570Z",
+  "model": "glm-5.3"
+}

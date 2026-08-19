@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Khi tôi kêu xin, hãy đáp tôi, hỡi Elohim của sự công chính của tôi; trong cơn khốn khổ Ngài đã rộng mở cho tôi; hãy ban ơn cho tôi, và lắng nghe lời cầu nguyện của tôi.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "khi tôi kêu xin"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "hãy đáp tôi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "sự công chính của tôi"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "trong cơn khốn khổ"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "Ngài đã rộng mở"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "hãy ban ơn cho tôi"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "và hãy lắng nghe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "lời cầu nguyện của tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:54:53.645037473Z",
+  "model": "glm-5.3"
+}

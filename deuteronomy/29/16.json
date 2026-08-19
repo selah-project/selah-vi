@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Và các ngươi đã thấy ⟨את⟩ các đồ gớm ghiếc của chúng và ⟨את⟩ các thần tượng của chúng — gỗ và đá, bạc và vàng — là những thứ ở cùng chúng",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "và các ngươi đã thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các đồ gớm ghiếc của chúng"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "các đồ gớm ghiếc của chúng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các thần tượng của chúng"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "các thần tượng của chúng"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "gỗ"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "và đá"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "bạc"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "và vàng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "là những thứ mà"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "ở cùng chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:12:47.328170214Z",
+  "model": "glm-5.3"
+}

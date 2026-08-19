@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 28:1",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Vì có nguồn cho bạc, và có nơi cho vàng ⟨được⟩ nấu luyện.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "יש",
+      "gloss": "có"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "cho bạc"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "nguồn"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "và nơi"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "cho vàng"
+    },
+    {
+      "surface": "יזקו",
+      "gloss": "nấu luyện"
+    }
+  ],
+  "timestamp": "2026-08-19T05:25:45.709024268Z",
+  "model": "glm-5.3"
+}

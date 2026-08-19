@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Và mọi người Yavesh Gilad nghe ⟨את⟩ mọi điều mà Pelishtim đã làm cho Shaul.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "và họ nghe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi \/ toàn thể"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi điều"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "cho Shaul"
+    }
+  ],
+  "timestamp": "2026-08-19T05:49:26.194067439Z",
+  "model": "glm-5.3"
+}

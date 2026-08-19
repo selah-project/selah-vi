@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 4:24",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và xảy đến, trên đường, tại trọ quán, Yahweh gặp gỡ ông ta, và tìm cách giết ông ta.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "và-xảy-đến"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "trên-đường"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "tại-trọ-quán"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "và-gặp-gỡ-ông-ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "và-tìm-cách"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "giết-ông-ta"
+    }
+  ],
+  "timestamp": "2026-08-19T02:28:16.341044019Z",
+  "model": "glm-5.3"
+}

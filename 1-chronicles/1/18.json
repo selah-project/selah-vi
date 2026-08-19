@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và Arpachshad sinh ⟨את⟩ Shelach, và Shelach sinh ⟨את⟩ Ever.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "và Arpachshad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelach"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelach"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "và Shelach"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ever"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    }
+  ],
+  "timestamp": "2026-08-19T05:46:45.432349605Z",
+  "model": "glm-5.3"
+}

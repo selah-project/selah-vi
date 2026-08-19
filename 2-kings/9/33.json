@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 9:33",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và ông nói: Hãy ném nàng xuống. Và họ ném nàng xuống, và máu nàng văng lên tường và lên những con ngựa, và chúng giày đạp nàng.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và ông nói"
+    },
+    {
+      "surface": "שמטהו",
+      "gloss": "hãy ném xuống (nàng)"
+    },
+    {
+      "surface": "וישמטוה",
+      "gloss": "và họ ném nàng xuống"
+    },
+    {
+      "surface": "ויז",
+      "gloss": "và văng ra"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "từ máu của nàng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lên"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "bức tường"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và lên"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "những con ngựa"
+    },
+    {
+      "surface": "וירמסנה",
+      "gloss": "và chúng giày đạp nàng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:58:23.931911634Z",
+  "model": "glm-5.3"
+}

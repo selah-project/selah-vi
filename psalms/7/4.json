@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Yahweh Elohim của tôi, nếu tôi đã làm điều này, nếu ⟨có⟩ sự bất công trong lòng bàn tay tôi:",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của tôi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "tôi đã làm"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "điều này"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨có⟩"
+    },
+    {
+      "surface": "עול",
+      "gloss": "sự bất công"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "trong lòng bàn tay tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:55:19.435891737Z",
+  "model": "glm-5.3"
+}

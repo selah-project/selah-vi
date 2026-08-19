@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 39:8",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 39,
+  "translation": "Còn ⟨את⟩ nhà của vua và ⟨את⟩ nhà của dân thì Kasdim đã đốt bằng lửa; còn ⟨את⟩ các tường thành Yerushalayim thì họ đã phá đổ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "còn ⟨את⟩",
+      "marks": "nhà của vua"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "của vua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "nhà của dân"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "העם",
+      "gloss": "của dân"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "đã đốt"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Kasdim"
+    },
+    {
+      "surface": "באש",
+      "gloss": "bằng lửa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "còn ⟨את⟩",
+      "marks": "các tường thành Yerushalayim"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "các tường thành"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "đã phá đổ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:26:27.180391526Z",
+  "model": "glm-5.3"
+}

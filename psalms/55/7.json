@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 55,
+  "translation": "Và tôi nói: Ai sẽ ban cho tôi cánh như bồ câu — ⟨thì⟩ tôi sẽ bay đi và nghỉ ngơi.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "và tôi nói"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "sẽ ban"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "cánh (lông sơ cấp)"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "như bồ câu"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "tôi sẽ bay đi"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "và nghỉ ngơi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:21.485362467Z",
+  "model": "glm-5.3"
+}

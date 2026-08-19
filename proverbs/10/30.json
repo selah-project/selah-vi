@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 10:30",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Người công chính ⟨sẽ⟩ không bao giờ lung lay, còn kẻ ác sẽ không cư ngụ trong đất.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "người công chính"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "đến muôn đời"
+    },
+    {
+      "surface": "בל",
+      "gloss": "chẳng"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "lung lay"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "còn kẻ ác"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "sẽ cư ngụ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "trong đất"
+    }
+  ],
+  "timestamp": "2026-08-19T05:15:48.678904466Z",
+  "model": "glm-5.3"
+}

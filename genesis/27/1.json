@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 27:1",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Và có chuyện xảy ra: khi Yitschak già rồi, mắt ông mờ đi không còn nhìn thấy, ông gọi ⟨את⟩ Esav con trai mình, đứa con cả, và nói với nó: Con ơi. Nó đáp với ông: Đây con.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "và có chuyện xảy ra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "khi"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "già rồi"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "ותכהין",
+      "gloss": "và mờ đi"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "mắt ông"
+    },
+    {
+      "surface": "מראת",
+      "gloss": "không còn nhìn thấy"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ông gọi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "con trai mình"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "đứa con cả"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "với nó"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con ơi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và đáp"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "với ông"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "đây con"
+    }
+  ],
+  "timestamp": "2026-08-19T01:10:22.654705084Z",
+  "model": "glm-5.3"
+}

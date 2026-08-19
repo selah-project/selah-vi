@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Chẳng điều chi với Gat, đừng kể; chẳng khóc than, đừng khóc; tại Beit-Le-Aphrah, trong bụi đất hãy lăn mình.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "tại Gat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "kể"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "khóc than"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "khóc"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "tại nhà"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "của Aphrah"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "bụi đất"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "hãy lăn mình"
+    }
+  ],
+  "timestamp": "2026-08-19T04:48:58.741392579Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Khi con nằm xuống, con sẽ không kinh hoảng; phải, con nằm xuống, và giấc ngủ con sẽ ngọt ngào.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "khi"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "con nằm xuống"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "con sẽ kinh hoảng"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "và con đã nằm xuống"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "và sẽ ngọt ngào"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "giấc ngủ con"
+    }
+  ],
+  "timestamp": "2026-08-19T05:14:11.358104409Z",
+  "model": "glm-5.3"
+}

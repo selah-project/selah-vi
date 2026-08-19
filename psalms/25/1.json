@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Của David. Lạy Yahweh, hướng về Ngài, linh hồn tôi tôi nâng lên.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Của David"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "hướng về Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "linh hồn tôi"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "tôi nâng lên"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:57.230779679Z",
+  "model": "glm-5.3"
+}

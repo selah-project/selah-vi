@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 97:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 97,
+  "translation": "Vì Ngài, Yahweh, ⟨là⟩ Đấng Tối Cao trên cả đất, Ngài đã được tôn cao vượt mọi Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Đấng Tối Cao"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cả"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "vượt bậc"
+    },
+    {
+      "surface": "נעלית",
+      "gloss": "được tôn cao"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:20.312708156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 34,
+  "translation": "Yahweh gần ⟨với⟩ những kẻ vỡ lòng, và ⟨את⟩ những kẻ crushed trong tâm thần Ngài cứu.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "gần"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "với những kẻ vỡ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "lòng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "những kẻ crushed trong tâm thần"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "những kẻ crushed"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "tâm thần"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "Ngài cứu"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:28.867866175Z",
+  "model": "glm-5.3"
+}

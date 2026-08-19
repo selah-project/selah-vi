@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và ⟨את⟩ con heo, vì nó chẻ móng và có khe chẻ móng nhưng thức ăn nhai thì không nhả lại — nó ô uế đối với các ngươi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "con heo"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "con heo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "nó chẻ"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "móng"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "và khe chẻ"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "chẻ đôi"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "móng"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "và nó"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "thức ăn nhai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "nhả lại"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ô uế"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "đối với các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:42:33.359868357Z",
+  "model": "glm-5.3"
+}

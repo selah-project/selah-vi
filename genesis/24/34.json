@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Và ⟨anh ta⟩ nói: Tôi là đầy tớ của Avraham.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "đầy tớ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "tôi là"
+    }
+  ],
+  "timestamp": "2026-08-19T01:06:25.212166960Z",
+  "model": "glm-5.3"
+}

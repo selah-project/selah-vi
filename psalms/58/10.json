@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 58,
+  "translation": "Trước khi nồi các ngươi kịp hiểu biết cây gai, Ngài sẽ cuốn chúng đi như cơn lốc — đang sống cũng như trong cơn thịnh nộ Ngài.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "trước khi"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "kịp hiểu biết"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "nồi các ngươi"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "cây gai"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "như"
+    },
+    {
+      "surface": "חי",
+      "gloss": "đang sống"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "như"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "cơn thịnh nộ"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "Ngài sẽ cuốn chúng đi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:58.741917952Z",
+  "model": "glm-5.3"
+}

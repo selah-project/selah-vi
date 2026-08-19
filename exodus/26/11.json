@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 26:11",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Ngươi sẽ làm năm mươi cái khóa bằng đồng, đưa ⟨את⟩ các cái khóa vào trong các vòng móc, và nối ⟨את⟩ lều lại để nó thành một.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ngươi sẽ làm"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "các cái khóa"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "bằng đồng"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "năm mươi"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "ngươi sẽ đưa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các cái khóa"
+    },
+    {
+      "surface": "הקרסים",
+      "gloss": "các cái khóa"
+    },
+    {
+      "surface": "בללאת",
+      "gloss": "vào trong các vòng móc"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "và ngươi sẽ nối"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lều"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "lều"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "và nó sẽ thành"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "một"
+    }
+  ],
+  "timestamp": "2026-08-19T02:34:40.855741008Z",
+  "model": "glm-5.3"
+}

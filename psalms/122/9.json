@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 122,
+  "translation": "Vì cớ nhà Yahweh Elohim của chúng ta, ta sẽ tìm điều tốt cho ngươi.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "vì cớ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim của chúng ta"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "ta sẽ tìm"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "điều tốt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:33.935939590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 136:22",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 136,
+  "translation": "sản nghiệp cho Yitsrael, tôi tớ của Người, vì sự nhân từ của Người tồn tại mãi mãi.",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "sản nghiệp"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "cho Yitsrael"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "tôi tớ của Người"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mãi mãi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sự nhân từ của Người"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:24.974255006Z",
+  "model": "glm-5.3"
+}

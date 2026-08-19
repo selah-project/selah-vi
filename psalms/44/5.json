@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Chính Ngài là vua của tôi, Elohim; hãy truyền lệnh ⟨các⟩ sự cứu giải cho Yaakov.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chính là"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "vua của tôi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hãy truyền lệnh"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "các sự cứu giải"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:05.607482403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Một người nhìn thấy và báo cho Yoav, và nói: Này, tôi đã thấy ⟨את⟩ Avshalom treo lơ lửng trên cây sồi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nhìn thấy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "một người"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "nào đó"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "và báo"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "cho Yoav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "này"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "tôi đã thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalom"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "treo lơ lửng"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "trên cây sồi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:44:03.697051124Z",
+  "model": "glm-5.3"
+}

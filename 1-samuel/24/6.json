@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Và sau đó lòng David đánh ⟨את⟩ ⟨nó⟩ ⟨vào⟩ ⟨chính mình⟩, vì đã cắt ⟨את⟩ góc áo choàng của Shaul.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "và xảy ra"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sau"
+    },
+    {
+      "surface": "כן",
+      "gloss": "đó"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "và đánh"
+    },
+    {
+      "surface": "לב",
+      "gloss": "lòng"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "của David"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "David (chính ông)"
+    },
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "điều mà"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "đã cắt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "góc áo choàng"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "góc"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "của Shaul"
+    }
+  ],
+  "timestamp": "2026-08-19T03:36:32.668555455Z",
+  "model": "glm-5.3"
+}

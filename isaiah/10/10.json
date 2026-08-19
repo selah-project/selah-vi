@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 10:10",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Như tay tôi đã tìm thấy các vương quốc của ⟨các⟩ thần tượng, và các tượng chạm của chúng tại Yerushalayim và tại Shomeron",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "đã tìm thấy"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tay tôi"
+    },
+    {
+      "surface": "לממלכת",
+      "gloss": "các vương quốc của"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "⟨các⟩ thần tượng"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "và các tượng chạm của chúng"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "tại Yerushalayim"
+    },
+    {
+      "surface": "ומשמרון",
+      "gloss": "và tại Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-19T04:05:38.794364444Z",
+  "model": "glm-5.3"
+}

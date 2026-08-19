@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 89,
+  "translation": "nếu họ xúc phạm các thiết lệnh của tôi, và các điều răn của tôi không giữ,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "các thiết lệnh của tôi"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "họ xúc phạm"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "và các điều răn của tôi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "họ giữ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:47.119777587Z",
+  "model": "glm-5.3"
+}

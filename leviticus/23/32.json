@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Đó là Sa-bát nghỉ ngơi cho các ngươi, và các ngươi hãy hạ mình ⟨את⟩ các linh hồn mình; ngày mùng chín của tháng, lúc chiều tối, từ chiều tối đến chiều tối, các ngươi hãy giữ Sa-bát của mình.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Sa-bát"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "nghỉ ngơi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "đó là"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho các ngươi"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "và các ngươi hãy hạ mình"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các linh hồn mình"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "các linh hồn mình"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "ngày mùng chín"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "của tháng"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "lúc chiều tối"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "từ chiều tối"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "chiều tối"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "các ngươi hãy giữ Sa-bát"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "Sa-bát của mình"
+    }
+  ],
+  "timestamp": "2026-08-19T02:47:30.787249436Z",
+  "model": "glm-5.3"
+}

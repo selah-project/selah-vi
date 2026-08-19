@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Hãy déng heads—nâng lên ⟨את⟩ đầu của con cái Kehat, từ giữa con cái Levi, theo họ của chúng, theo nhà cha của chúng.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "nâng lên (đếm)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đầu của con cái Kehat"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "đầu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "từ giữa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "theo họ của chúng"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "theo nhà"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "cha của chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:52:48.503825112Z",
+  "model": "glm-5.3"
+}

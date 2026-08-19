@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 34:7",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 34,
+  "translation": "Và ông phá đổ ⟨את⟩ các bàn thờ và ⟨את⟩ các Asherim, và các tượng chạm khắc — đập nát thành bụi; còn mọi tượng thờ mặt trời ông chặt đi trong khắp đất Yisra'el, và ông trở về Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "וינתץ",
+      "gloss": "và ông phá đổ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các bàn thờ"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "các bàn thờ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các Asherim"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "các Asherim"
+    },
+    {
+      "surface": "והפסלים",
+      "gloss": "và các tượng chạm khắc"
+    },
+    {
+      "surface": "כתת",
+      "gloss": "đập nát"
+    },
+    {
+      "surface": "להדק",
+      "gloss": "thành bụi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "tượng thờ mặt trời"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "ông chặt đi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "trong khắp"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "và ông trở về"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "về Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-19T06:02:09.204817201Z",
+  "model": "glm-5.3"
+}

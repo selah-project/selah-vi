@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và Attai sinh ra ⟨את⟩ Natan, và Natan sinh ra ⟨את⟩ Zavad.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "Và Attai"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "sinh ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "và Natan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "sinh ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zavad"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Zavad"
+    }
+  ],
+  "timestamp": "2026-08-19T05:47:12.300388485Z",
+  "model": "glm-5.3"
+}

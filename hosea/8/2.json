@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 8:2",
+  "book": "hosea",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Đến Ta chúng sẽ kêu gào: Elohim của chúng ta, chúng ta — Yisrael — đã biết Ngài.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "đến Ta"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "chúng sẽ kêu gào"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của chúng ta"
+    },
+    {
+      "surface": "ידענוך",
+      "gloss": "chúng ta đã biết Ngài"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T04:45:21.011063640Z",
+  "model": "glm-5.3"
+}

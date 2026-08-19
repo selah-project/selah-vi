@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Và Yirmeyahu vào ra ⟨is⟩ tự do giữa dân sự, vì họ chưa bỏ ⟨את⟩ ông vào nhà giam.",
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "và Yirmeyahu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vào"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ra"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "họ đã bỏ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ông"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "giam"
+    }
+  ],
+  "timestamp": "2026-08-19T04:26:39.249623101Z",
+  "model": "glm-5.3"
+}

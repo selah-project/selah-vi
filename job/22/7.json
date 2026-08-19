@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 22:7",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Ngươi không cho người mệt mỏi nước uống, và giữ lại bánh khỏi kẻ đói.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "người mệt mỏi"
+    },
+    {
+      "surface": "תשקה",
+      "gloss": "ngươi cho uống"
+    },
+    {
+      "surface": "ומרעב",
+      "gloss": "và khỏi kẻ đói"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "ngươi giữ lại"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bánh"
+    }
+  ],
+  "timestamp": "2026-08-19T05:24:03.845464130Z",
+  "model": "glm-5.3"
+}

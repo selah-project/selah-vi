@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 78,
+  "translation": "vì họ đã không tin vào Elohim, và đã không tin cậy nơi sự cứu cứu của Ngài;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "họ đã tin"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "vào Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "họ đã tin cậy"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "nơi sự cứu của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:39.057452860Z",
+  "model": "glm-5.3"
+}

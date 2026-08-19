@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 20:2",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Và Avraham nói về Sarai vợ mình, ⟨אחתי היא⟩ chị tôi là ⟨nàng⟩; và Avimelech vua Gerar sai người đến, và lấy ⟨את⟩ Sarah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "về"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vợ mình"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "chị tôi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "là nàng"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "và sai"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "גרר",
+      "gloss": "Gerar"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "và lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarah"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    }
+  ],
+  "timestamp": "2026-08-19T01:04:58.627760122Z",
+  "model": "glm-5.3"
+}

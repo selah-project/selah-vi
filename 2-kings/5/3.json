@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 5:3",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Và nàng nói với bà chủ mình: Ước gì chúa tôi ở trước mặt vị naví בשומרון! Khi đó người sẽ nhận ⟨את⟩ ông khỏi bịnh phung của ông.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "và nàng nói"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "bà chủ của nàng"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "ước gì"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "chúa tôi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "vị naví"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "là"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "tại Shomron"
+    },
+    {
+      "surface": "אז",
+      "gloss": "khi đó"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "sẽ nhận"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ông (Naaman)"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "khỏi bịnh phung của ông"
+    }
+  ],
+  "timestamp": "2026-08-19T03:57:21.897130145Z",
+  "model": "glm-5.3"
+}

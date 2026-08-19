@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 5:3",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Từ nam đến nữ, các ngươi hãy đuổi họ đi; đến bên ngoài trại quân các ngươi hãy đuổi họ, để họ không làm ô uế ⟨את⟩ trại quân của họ, mà Ta ngự giữa nơi đó.",
+  "tokens": [
+    {
+      "surface": "מזכר",
+      "gloss": "từ nam"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "nữ"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "các ngươi hãy đuổi-đi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "bên ngoài"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "trại quân"
+    },
+    {
+      "surface": "תשלחום",
+      "gloss": "các ngươi hãy đuổi họ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יטמאו",
+      "gloss": "họ làm ô uế"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trại quân của họ"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "trại quân của họ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ngự"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "giữa nơi đó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:54:12.034082969Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 60,
+  "translation": "Cho đốc ca, theo điệu Shushan-Eduth, mikhtam của David, để dạy dỗ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "cho đốc ca"
+    },
+    {
+      "surface": "על",
+      "gloss": "theo điệu"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Shushan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Eduth"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mikhtam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "của David"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "để dạy dỗ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:27.496553754Z",
+  "model": "glm-5.3"
+}

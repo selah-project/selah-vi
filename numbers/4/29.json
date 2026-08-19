@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 4:29",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Con cái Merari, theo các gia tộc của chúng, theo nhà cha ông của chúng, ngươi sẽ kiểm điểm ⟨את⟩ chúng.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "theo các gia tộc của chúng"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "theo nhà"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "cha ông của chúng"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "ngươi sẽ kiểm điểm"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ chúng",
+      "marks": "chúng (con cái Merari)"
+    }
+  ],
+  "timestamp": "2026-08-19T02:53:06.688517129Z",
+  "model": "glm-5.3"
+}

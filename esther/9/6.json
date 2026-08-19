@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và tại Shushan ⟨את⟩ lâu đài, người Yehuda đã giết và tiêu diệt năm trăm người.",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "và tại Shushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "lâu đài"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "đã giết"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "người Yehuda"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "và tiêu diệt"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "năm"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "trăm"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    }
+  ],
+  "timestamp": "2026-08-19T06:20:43.873368616Z",
+  "model": "glm-5.3"
+}

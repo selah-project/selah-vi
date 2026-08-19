@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 37:23",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Xảy ra là khi Yosef đến với các anh em mình, họ lột ⟨את⟩ Yosef ⟨את⟩ áo dài của người — ⟨את⟩ chiếc áo dài nhiều màu sặc sỡ đang mặc trên mình.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "xảy ra là"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "khi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "đến"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "các anh em mình"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "họ lột"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "áo dài của người"
+    },
+    {
+      "surface": "כתנתו",
+      "gloss": "áo dài của người"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "áo dài nhiều màu"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "chiếc áo dài"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "nhiều màu sặc sỡ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "trên mình người"
+    }
+  ],
+  "timestamp": "2026-08-19T01:24:32.481050583Z",
+  "model": "glm-5.3"
+}

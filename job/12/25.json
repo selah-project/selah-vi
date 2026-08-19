@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 12:25",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Chúng sờ soạng trong bóng tối và không có ánh sáng, và Ngài làm chúng lang thang như người say.",
+  "tokens": [
+    {
+      "surface": "ימששו",
+      "gloss": "sờ soạng"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "bóng tối"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ánh sáng"
+    },
+    {
+      "surface": "ויתעם",
+      "gloss": "và làm chúng lang thang"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "như người say"
+    }
+  ],
+  "timestamp": "2026-08-19T05:21:45.307053486Z",
+  "model": "glm-5.3"
+}

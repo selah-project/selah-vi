@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 28:8",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Các tiên tri đã có trước tôi và trước ngươi, từ trước kia, đã tiên tri về nhiều xứ và về các nước lớn, về chiến tranh, về sự tai họa, và về dịch bệnh.",
+  "tokens": [
+    {
+      "surface": "הנביאים",
+      "gloss": "các tiên tri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "היו",
+      "gloss": "đã có"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước"
+    },
+    {
+      "surface": "ולפניך",
+      "gloss": "và trước ngươi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "trước kia"
+    },
+    {
+      "surface": "וינבאו",
+      "gloss": "và đã tiên tri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "về"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "nhiều xứ"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "nhiều"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "và về"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "các nước"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "lớn"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "về chiến tranh"
+    },
+    {
+      "surface": "ולרעה",
+      "gloss": "về sự tai họa"
+    },
+    {
+      "surface": "ולדבר",
+      "gloss": "và về dịch bệnh"
+    }
+  ],
+  "timestamp": "2026-08-19T04:24:17.200177265Z",
+  "model": "glm-5.3"
+}

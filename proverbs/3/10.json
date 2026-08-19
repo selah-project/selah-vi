@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 3:10",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Thì kho lẫm ngươi sẽ đầy tràn dồi dào, và hầm rượu mới của ngươi sẽ tràn bờ.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "thì sẽ được đầy"
+    },
+    {
+      "surface": "אסמיך",
+      "gloss": "kho lẫm ngươi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "dồi dào"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "và rượu mới"
+    },
+    {
+      "surface": "יקביך",
+      "gloss": "hầm rượu ngươi"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "sẽ tràn bờ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:14:08.554343130Z",
+  "model": "glm-5.3"
+}

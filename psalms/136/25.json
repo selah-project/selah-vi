@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 136,
+  "translation": "⟨Đấng⟩ ban bánh mì cho mọi loài xác thịt, vì sự nhân từ của Ngài tồn tại đến đời đời.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "ban"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bánh mì"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "cho mọi"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "xác thịt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "đến đời đời"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sự nhân từ của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:18.783757769Z",
+  "model": "glm-5.3"
+}

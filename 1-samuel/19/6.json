@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Và Shaúl nghe theo tiếng nói của Yehonatan, và Shaúl thề: “Yahweh hằng sống, y sẽ không bị giết.”",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "và nghe theo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "tiếng nói của"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "và đã thề"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "חי",
+      "gloss": "hằng sống"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "y sẽ bị giết"
+    }
+  ],
+  "timestamp": "2026-08-19T03:35:05.149717249Z",
+  "model": "glm-5.3"
+}

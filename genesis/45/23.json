@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 45:23",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 45,
+  "translation": "Và cho cha mình ông gửi như vậy: mười con lừa đực chở ⟨את⟩ điều tốt nhất của Mitsrayim, và mười con lừa cái chở ngũ cốc và bánh và thức ăn cho cha mình cho đường đi.",
+  "tokens": [
+    {
+      "surface": "וְלְאָבִיו",
+      "gloss": "và cho cha mình"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "gửi"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "như vậy"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "mười"
+    },
+    {
+      "surface": "חמרים",
+      "gloss": "con lừa đực"
+    },
+    {
+      "surface": "נושאים",
+      "gloss": "chở"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "từ điều tốt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "và mười"
+    },
+    {
+      "surface": "אתנת",
+      "gloss": "con lừa cái"
+    },
+    {
+      "surface": "נושאת",
+      "gloss": "chở"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ngũ cốc"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "và bánh"
+    },
+    {
+      "surface": "ומזון",
+      "gloss": "và thức ăn"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "cho cha mình"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "cho đường đi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:26:03.775432730Z",
+  "model": "glm-5.3"
+}

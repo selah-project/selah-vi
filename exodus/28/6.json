@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 28:6",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Và họ sẽ làm ⟨את⟩ êpốt: vàng, xanh-tím, và đỏ-tím, sâu đỏ son, và lanh mịn xoắn — công việc của người thợ khéo tay.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "và họ sẽ làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "êpốt"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "êpốt"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "vàng"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "xanh-tím"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "và đỏ-tím"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "sâu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "đỏ son"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "và lanh mịn"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "xoắn"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "công việc"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "người thợ khéo tay"
+    }
+  ],
+  "timestamp": "2026-08-19T06:03:54.553783941Z",
+  "model": "glm-5.3"
+}

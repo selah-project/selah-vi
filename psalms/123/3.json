@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 123,
+  "translation": "Xin ban ơn cho chúng tôi, Yahweh, xin ban ơn cho chúng tôi, vì chúng tôi đã no đầy khinh miệt.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "xin ban ơn cho chúng tôi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "xin ban ơn cho chúng tôi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "רב",
+      "gloss": "vô cùng"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "chúng tôi đã no đầy"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "khinh miệt"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:04.982153594Z",
+  "model": "glm-5.3"
+}

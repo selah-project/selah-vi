@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 7:23",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Mọi điều này ta đã thử trong sự khôn ngoan; ta đã nói: 'Ta sẽ nên khôn ngoan' — nhưng nó xa cách ta.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "điều này"
+    },
+    {
+      "surface": "נסיתי",
+      "gloss": "ta đã thử"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "trong sự khôn ngoan"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ta đã nói"
+    },
+    {
+      "surface": "אחכמה",
+      "gloss": "ta sẽ nên khôn ngoan"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "nhưng nó"
+    },
+    {
+      "surface": "רחוקה",
+      "gloss": "xa cách"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "khỏi ta"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:18.376799082Z",
+  "model": "glm-5.3"
+}

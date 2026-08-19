@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 6:4",
+  "book": "song-of-songs",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Đẹp thay, ⟨את⟩ người yêu của tôi, như Tirtsa; duyên dáng như Yerushalayim; kinh khủng như các đạo quân phất cờ.",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "đẹp thay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người yêu của tôi"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "người yêu của tôi"
+    },
+    {
+      "surface": "כתרצה",
+      "gloss": "như Tirtsa"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "duyên dáng"
+    },
+    {
+      "surface": "כירושלם",
+      "gloss": "như Yerushalayim"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "kinh khủng"
+    },
+    {
+      "surface": "כנדגלות",
+      "gloss": "như các đạo quân phất cờ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:28:51.868946377Z",
+  "model": "glm-5.3"
+}

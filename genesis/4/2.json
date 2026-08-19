@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và nàng tiếp tục sinh ⟨את⟩ em nó, ⟨את⟩ Hevel. Và Hevel ⟨là⟩ người chăn chiên, còn Kayin ⟨là⟩ người trồng đất.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "và nàng tiếp tục"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "em nó"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "em của nó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hevel"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "và đã xảy ra"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "chăn"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "chiên"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "còn Kayin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "là"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "trồng \/ phục vụ"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T00:48:43.978223036Z",
+  "model": "glm-5.3"
+}

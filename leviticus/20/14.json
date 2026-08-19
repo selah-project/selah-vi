@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 20:14",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Và người đàn ông nào cưới ⟨את⟩ người vợ và ⟨את⟩ mẹ của nàng — đó là tội đồi bại; trong lửa người ta sẽ thiêu ⟨את⟩ hắn và ⟨את⟩ các nàng, và sẽ không có tội đồi bại giữa các ngươi.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "và người đàn ông"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "cưới"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người vợ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "người vợ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "mẹ của nàng"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "mẹ của nàng"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "tội đồi bại"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "đó là"
+    },
+    {
+      "surface": "באש",
+      "gloss": "trong lửa"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "sẽ thiêu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hắn"
+    },
+    {
+      "surface": "ואתהן",
+      "gloss": "và ⟨את⟩",
+      "marks": "các nàng"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sẽ có"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "tội đồi bại"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "giữa các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:47:00.586124814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 4:3",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và đây là của cha ⟨là⟩ Etam: Yizreel, ve Yishma, ve Yidbash; và tên các chị em của họ ⟨là⟩ Hatslelponi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "và đây là"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "cha của"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Etam"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "וישמא",
+      "gloss": "và Yishma"
+    },
+    {
+      "surface": "וידבש",
+      "gloss": "và Yidbash"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "và tên"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "chị em của họ"
+    },
+    {
+      "surface": "הצללפוני",
+      "gloss": "Hatslelponi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:47:50.000555103Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Vậy ngươi hãy giữ ⟨את⟩ điều răn, và ⟨את⟩ các luật lệ, và ⟨את⟩ các phán quyết, mà ta phán dặn ngươi hôm nay, để làm theo chúng;",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "vậy ngươi hãy giữ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "điều răn"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "điều răn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các luật lệ"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "các luật lệ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các phán quyết"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "các phán quyết"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "phán dặn ngươi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hôm nay"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "để làm theo chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:06:07.347340149Z",
+  "model": "glm-5.3"
+}

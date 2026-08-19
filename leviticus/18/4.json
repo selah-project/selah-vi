@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "⟨את⟩ phán quyết của Ta các ngươi hãy làm, và ⟨את⟩ luật lệ của Ta các ngươi hãy giữ, để đi trong chúng; Ta là Yahweh, Elohim của các ngươi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phán quyết của Ta"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "phán quyết của Ta"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "các ngươi hãy làm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "luật lệ của Ta"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "luật lệ của Ta"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "các ngươi hãy giữ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "để đi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "trong chúng"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim của các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:45:04.839017502Z",
+  "model": "glm-5.3"
+}

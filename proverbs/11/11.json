@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 11:11",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Nhờ phước lành của người ngay thẳng, thành ⟨thị⟩ được nhấc lên; nhưng bằng miệng kẻ ác, ⟨nó⟩ bị phá đổ.",
+  "tokens": [
+    {
+      "surface": "בברכת",
+      "gloss": "nhờ phước lành của"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "người ngay thẳng"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "được nhấc lên"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "thị"
+    },
+    {
+      "surface": "ובפי",
+      "gloss": "nhưng bằng miệng"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "תהרס",
+      "gloss": "bị phá đổ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:15:53.774877674Z",
+  "model": "glm-5.3"
+}

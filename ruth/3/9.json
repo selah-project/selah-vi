@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 3:9",
+  "book": "ruth",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và người nói: Ngươi là ⟨את⟩ ai? Nàng nói: Tôi là Rut, nữ tỳ của ngươi; xin hãy trải cánh áo ngươi lên nữ tỳ ngươi, vì ngươi là người chuộc.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và người nói"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngươi là ai"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "và nàng nói"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Rut"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "nữ tỳ của ngươi"
+    },
+    {
+      "surface": "ופרשת",
+      "gloss": "và ngươi hãy trải"
+    },
+    {
+      "surface": "כנפך",
+      "gloss": "cánh áo của ngươi"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "nữ tỳ của ngươi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "người chuộc"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:29:59.161510044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Mọi người khôn khéo hành động với tri thức, nhưng kẻ dại xoè bày ra sự dại dột.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "người khôn khéo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hành động"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "với tri thức"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "nhưng kẻ dại"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "xoè bày ra"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "sự dại dột"
+    }
+  ],
+  "timestamp": "2026-08-19T05:16:22.117570723Z",
+  "model": "glm-5.3"
+}

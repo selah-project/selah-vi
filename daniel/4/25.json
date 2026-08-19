@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Mọi điều đó đã đến trên Nebukadnetsar, ⟨vua⟩.",
+  "tokens": [
+    {
+      "surface": "כלא",
+      "gloss": "mọi điều đó"
+    },
+    {
+      "surface": "מטא",
+      "gloss": "đã đến"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nebukadnetsar"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "vua"
+    }
+  ],
+  "timestamp": "2026-08-19T05:37:38.043304275Z",
+  "model": "glm-5.3"
+}

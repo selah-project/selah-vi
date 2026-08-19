@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Phước thay những người trọn vẹn trong đường lối, những kẻ đi trong Torah của Yahweh.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "phước thay"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "những người trọn vẹn"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "đường lối"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "những kẻ đi"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "trong Torah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:38.852734697Z",
+  "model": "glm-5.3"
+}

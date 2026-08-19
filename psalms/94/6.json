@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 94,
+  "translation": "Góa phụ và khách ngoại kiều ⟨họ⟩ giết, và trẻ mồ côi ⟨họ⟩ mưu sát.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "góa phụ"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "và khách ngoại kiều"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "⟨họ⟩ giết"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "và trẻ mồ côi"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "⟨họ⟩ mưu sát"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:28.087638757Z",
+  "model": "glm-5.3"
+}

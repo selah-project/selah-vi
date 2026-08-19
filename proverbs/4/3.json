@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Vì tôi đã là con trai của cha tôi, dịu dàng và ⟨là⟩ con một trước mặt mẹ tôi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "tôi đã là"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "của cha tôi"
+    },
+    {
+      "surface": "רך",
+      "gloss": "dịu dàng"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "và con một"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mẹ tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:14:44.757681038Z",
+  "model": "glm-5.3"
+}

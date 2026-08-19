@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 87,
+  "translation": "Và về Tsiyon sẽ có lời nói: người nọ và người kia đã được sinh ra trong nàng; và chính Ngài — Elyon — sẽ thiết lập nàng.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "và về Tsiyon"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sẽ có lời nói"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người nọ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "và người kia"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "đã được sinh ra"
+    },
+    {
+      "surface": "בה",
+      "gloss": "trong nàng"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "và chính Ngài"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "sẽ thiết lập nàng"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:28.292898113Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 18:39",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Tôi nghiền nát chúng, và chúng không thể đứng dậy; chúng ngã xuống dưới chân tôi.",
+  "tokens": [
+    {
+      "surface": "אמחצם",
+      "gloss": "tôi nghiền nát chúng"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "chúng có thể"
+    },
+    {
+      "surface": "קום",
+      "gloss": "đứng dậy"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "chúng ngã xuống"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dưới"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "chân tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:40.869160911Z",
+  "model": "glm-5.3"
+}

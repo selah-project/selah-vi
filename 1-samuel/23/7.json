@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 23:7",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Người ta báo cho Shaul biết rằng Đavid đã đến Keilah; Shaul nói: Elohim đã phó ⟨את⟩ hắn vào tay ta, vì hắn tự đóng kín khi vào một thành có cửa và then cài.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "được báo cho"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "בא",
+      "gloss": "đã đến"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Đavid"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilah"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "đã phó"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hắn",
+      "marks": "hắn (Đavid)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "vào tay ta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "נסגר",
+      "gloss": "tự đóng kín"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "khi vào"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "một thành"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "có cửa"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "và then cài"
+    }
+  ],
+  "timestamp": "2026-08-19T03:36:17.047198535Z",
+  "model": "glm-5.3"
+}

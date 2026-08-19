@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 8:15",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và nhiều người sẽ vấp ngã nơi đó, và ngã xuống, và bị nghiền vỡ, và bị bẫy mắc, và bị bắt giữ.",
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "và sẽ vấp ngã"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nơi nó"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nhiều người"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "và ngã xuống"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "và bị nghiền vỡ"
+    },
+    {
+      "surface": "ונוקשו",
+      "gloss": "và bị bẫy mắc"
+    },
+    {
+      "surface": "ונלכדו",
+      "gloss": "và bị bắt giữ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:04:49.195368274Z",
+  "model": "glm-5.3"
+}

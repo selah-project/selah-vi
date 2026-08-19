@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 23:5",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Và Yahweh Elohim của các ngươi, chính Ngài sẽ xua đuổi họ khỏi mặt các ngươi, và trục xuất ⟨אתם⟩ khỏi trước mặt các ngươi; và các ngươi sẽ chiếm hữu ⟨את⟩ đất của họ, như Yahweh Elohim của các ngươi đã phán với các ngươi.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "và Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim của các ngươi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chính Ngài"
+    },
+    {
+      "surface": "יהדפם",
+      "gloss": "sẽ xua đuổi họ"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "khỏi mặt các ngươi"
+    },
+    {
+      "surface": "והוריש",
+      "gloss": "và trục xuất"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "họ (các dân tộc ấy)"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "khỏi trước mặt các ngươi"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "và các ngươi sẽ chiếm hữu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đất của họ"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "đất của họ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "đã phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim của các ngươi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "với các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:21:39.883173719Z",
+  "model": "glm-5.3"
+}

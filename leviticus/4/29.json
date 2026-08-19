@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 4:29",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và ⟨hắn⟩ đặt tay mình lên đầu con sinh tế tạ lỗi, và giết con sinh tế tạ lỗi tại nơi giết sinh tế thiêu.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "và đặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tay mình"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tay mình"
+    },
+    {
+      "surface": "על",
+      "gloss": "lên"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "đầu"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "con sinh tế tạ lỗi"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "và giết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con sinh tế tạ lỗi"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "con sinh tế tạ lỗi"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "tại nơi"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sinh tế thiêu"
+    }
+  ],
+  "timestamp": "2026-08-19T02:40:42.597405137Z",
+  "model": "glm-5.3"
+}

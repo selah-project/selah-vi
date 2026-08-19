@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Tôi sẽ đuổi theo kẻ thù tôi và bắt kịp chúng; tôi sẽ không quay lại cho đến khi chúng bị tận diệt.",
+  "tokens": [
+    {
+      "surface": "ארדוף",
+      "gloss": "tôi sẽ đuổi theo"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "kẻ thù tôi"
+    },
+    {
+      "surface": "ואשיגם",
+      "gloss": "và bắt kịp chúng"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "tôi quay lại"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến khi"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "chúng bị tận diệt"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:40.869043260Z",
+  "model": "glm-5.3"
+}

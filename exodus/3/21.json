@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Ta sẽ ban ⟨את⟩ ân huệ của dân này trong mắt người Mitzrayim, và sẽ xảy ra là khi các ngươi đi, các ngươi sẽ không đi tay không.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Ta sẽ ban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ân huệ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ân huệ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "của dân"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "trong mắt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "người Mitzrayim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "và sẽ xảy ra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "là khi"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "các ngươi đi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "các ngươi sẽ đi"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "tay không"
+    }
+  ],
+  "timestamp": "2026-08-19T02:28:05.524720248Z",
+  "model": "glm-5.3"
+}

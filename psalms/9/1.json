@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Cho người hướng dẫn, theo điệu Almuth Laben; thánh thi của David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "cho người hướng dẫn"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "Almuth"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laben"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "thánh thi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "của David"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:06.396742311Z",
+  "model": "glm-5.3"
+}

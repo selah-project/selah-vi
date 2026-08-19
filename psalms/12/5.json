@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "kẻ đã nói: Với lưỡi của chúng ta chúng ta sẽ thắng thế; môi miệng ⟨là⟩ với ⟨את⟩ chúng ta — ai là chúa trên chúng ta?",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kẻ đã"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "nói"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "với lưỡi của chúng ta"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "chúng ta sẽ thắng thế"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "môi miệng chúng ta"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "chúng ta"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "chúa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "trên chúng ta"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:03.523773049Z",
+  "model": "glm-5.3"
+}

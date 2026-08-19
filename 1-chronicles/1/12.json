@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "và ⟨את⟩ người Patrusim, và ⟨את⟩ người Kasluchim — từ đó ra đi ⟨the⟩ Philistim — và ⟨את⟩ người Kaftorim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người Patrusim"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "người Patrusim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người Kasluchim"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "người Kasluchim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "từ đó"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ra đi"
+    },
+    {
+      "surface": "משם",
+      "gloss": "từ nơi ấy"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Philistim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người Kaftorim"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "người Kaftorim"
+    }
+  ],
+  "timestamp": "2026-08-19T05:46:44.458037634Z",
+  "model": "glm-5.3"
+}

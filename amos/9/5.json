@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 9:5",
+  "book": "amos",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và Adonai Yahweh Tsevaot — Đấng chạm vào đất thì nó tan chảy, và mọi cư dân trong nó than khóc; và cả nó dâng lên như sông, và chìm xuống như sông Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ואדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "הנוגע",
+      "gloss": "Đấng chạm"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "vào đất"
+    },
+    {
+      "surface": "ותמוג",
+      "gloss": "thì nó tan chảy"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "và than khóc"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "cư dân"
+    },
+    {
+      "surface": "בה",
+      "gloss": "trong nó"
+    },
+    {
+      "surface": "ועלתה",
+      "gloss": "và dâng lên"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "như sông"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "cả nó"
+    },
+    {
+      "surface": "ושקעה",
+      "gloss": "và chìm xuống"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "như sông"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T04:48:42.707702995Z",
+  "model": "glm-5.3"
+}

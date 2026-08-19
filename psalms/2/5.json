@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Bấy giờ Ngài sẽ phán cùng chúng nó trong cơn giận Ngài, và trong cơn thịnh nộ Ngài sẽ làm chúng nó kinh hoàng.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "bấy giờ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "sẽ phán"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "cùng chúng nó"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "trong cơn giận Ngài"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "và trong cơn thịnh nộ Ngài"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "sẽ làm chúng nó kinh hoàng"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:08.697966518Z",
+  "model": "glm-5.3"
+}

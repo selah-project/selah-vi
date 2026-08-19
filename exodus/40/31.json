@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Và rửa từ nó Moshe và Aharon và các con trai ông ⟨את⟩ bàn tay họ và ⟨את⟩ bàn chân họ.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "và rửa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "từ nó"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "và Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "và các con trai ông"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bàn tay họ"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "bàn tay họ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bàn chân họ"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "bàn chân họ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:39:26.482281075Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 142:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 142,
+  "translation": "Tôi đã kêu van cùng Ngài, Yahweh; tôi đã nói: Ngài ⟨là⟩ nơi nương náu tôi, phần dành của tôi trong đất của người sống.",
+  "tokens": [
+    {
+      "surface": "זעקתי",
+      "gloss": "tôi đã kêu van"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "cùng Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "tôi đã nói"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "nơi nương náu tôi"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "phần dành tôi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trong đất"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "của người sống"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:45.215357208Z",
+  "model": "glm-5.3"
+}

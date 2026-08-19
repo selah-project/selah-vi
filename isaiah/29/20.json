@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 29:20",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Vì kẻ hung bạo sẽ biến mất, kẻ nhạo báng sẽ bị diệt, và mọi kẻ canh chừng để làm điều ác sẽ bị trừ khử.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "sẽ biến mất"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "kẻ hung bạo"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "và sẽ bị diệt"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "kẻ nhạo báng"
+    },
+    {
+      "surface": "ונכרתו",
+      "gloss": "và sẽ bị trừ khử"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "שקדי",
+      "gloss": "kẻ canh chừng không ngủ"
+    },
+    {
+      "surface": "און",
+      "gloss": "điều ác"
+    }
+  ],
+  "timestamp": "2026-08-19T04:09:26.982963540Z",
+  "model": "glm-5.3"
+}

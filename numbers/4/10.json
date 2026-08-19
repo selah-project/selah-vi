@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và chúng sẽ đặt nó ⟨את⟩ và ⟨את⟩ mọi dụng cụ của nó vào một lớp phủ bằng da tahash, và chúng sẽ đặt trên cái đòn khiêng.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "và chúng sẽ đặt"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nó (chân đèn)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mọi dụng cụ của nó"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "dụng cụ của nó"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vào"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "lớp phủ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "bằng da"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "tahash"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "và chúng sẽ đặt"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "cái đòn khiêng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:53:06.894812674Z",
+  "model": "glm-5.3"
+}

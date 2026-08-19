@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 129,
+  "translation": "Nhiều lần chúng đã ghẹt bức tôi từ thuở niên thiếu, nhưng chúng không thể thắng nổi tôi.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "nhiều lần"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "chúng đã ghẹt bức tôi"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "từ thuở niên thiếu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nhưng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "chúng có thể"
+    },
+    {
+      "surface": "לי",
+      "gloss": "đối với tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:46.760219822Z",
+  "model": "glm-5.3"
+}

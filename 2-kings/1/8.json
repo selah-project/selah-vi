@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 1:8",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và họ nói với ông: một người đàn ông có tóc dài, và đai da thắt ngang hông. Và ông nói: Eliyah người Tishbi, chính là người ấy.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "và họ-nói"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "với ông"
+    },
+    {
+      "surface": "איש",
+      "gloss": "một-người-đàn-ông"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "có"
+    },
+    {
+      "surface": "שער",
+      "gloss": "tóc"
+    },
+    {
+      "surface": "ואזור",
+      "gloss": "và đai-thắt"
+    },
+    {
+      "surface": "עור",
+      "gloss": "da"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "thắt"
+    },
+    {
+      "surface": "במתניו",
+      "gloss": "ngang-hông-người-ấy"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và ông-nói"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "Eliyah"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "người-Tishbi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chính-là-người-ấy"
+    }
+  ],
+  "timestamp": "2026-08-19T03:56:09.541130419Z",
+  "model": "glm-5.3"
+}

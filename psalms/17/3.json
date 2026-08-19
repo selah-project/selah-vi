@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Ngài đã thử thách lòng tôi, đã thăm xét tôi trong đêm, đã luyện tôi ⟨như luyện kim⟩ — Ngài sẽ không tìm thấy điều gì; ý định của tôi sẽ không vượt qua miệng tôi.",
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "Ngài đã thử thách"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "lòng tôi"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "Ngài đã thăm xét"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "trong đêm"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "Ngài đã luyện tôi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "chẳng"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "Ngài tìm thấy"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "ý định của tôi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "chẳng"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "sẽ vượt qua"
+    },
+    {
+      "surface": "פי",
+      "gloss": "miệng tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:22.907295905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và một dòng sông đi ra từ Eden để tưới ⟨את⟩ vườn, và từ đó nó chia ra và trở thành bốn đầu nguồn.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "và dòng sông"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "đi ra"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "từ Eden"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "để tưới"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vườn"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "vườn"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "và từ đó"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "chia ra"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "và trở thành"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "thành bốn"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "đầu nguồn"
+    }
+  ],
+  "timestamp": "2026-08-19T00:46:01.274242080Z",
+  "model": "glm-5.3"
+}

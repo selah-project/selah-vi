@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 69,
+  "translation": "Tôi đã mệt nhọc vì kêu cứu, cổ họng tôi đã khô rát, mắt tôi đã tàn hao, khi trông đợi Elohim của tôi.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "tôi đã mệt nhọc"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "vì kêu cứu"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "đã khô rát"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "cổ họng tôi"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "đã tàn hao"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mắt tôi"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "khi trông đợi"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim của tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:39.313162908Z",
+  "model": "glm-5.3"
+}

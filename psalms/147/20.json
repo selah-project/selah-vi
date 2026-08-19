@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 147,
+  "translation": "Ngài không làm như vậy cho mọi dân tộc nào, và các phán quyết — chúng hoàn toàn không biết. Hãy ngợi khen Yah!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "כן",
+      "gloss": "như vậy"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "cho mọi"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "dân tộc"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "và các phán quyết"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hoàn toàn không"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "chúng biết chúng"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "hãy ngợi khen"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:31.356403112Z",
+  "model": "glm-5.3"
+}

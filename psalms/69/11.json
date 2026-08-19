@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 69,
+  "translation": "Tôi khóc trong kiêng ăn của linh hồn tôi, và điều đó trở thành điều sỉ nhục cho tôi.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "và tôi khóc"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "trong sự kiêng ăn"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "của linh hồn tôi"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "và nó trở thành"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "thành điều sỉ nhục"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:06.329015554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 20:17",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Và mắt tôi đã thương xót họ, không hủy diệt họ, và tôi không làm cho họ thành ⟨את⟩ sự tận diệt trong đồng vắng.",
+  "tokens": [
+    {
+      "surface": "ותחס",
+      "gloss": "và mắt tôi đã thương xót"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mắt tôi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "trên họ"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "khỏi sự hủy diệt họ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "tôi đã làm"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "sự tận diệt (họ)"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "sự tận diệt"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "trong đồng vắng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:36:01.016384227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 11:28",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và người vác ⟨את⟩ xác chết của chúng thì phải giặt quần áo mình và bị ô uế cho đến tối — chúng là ô uế cho các ngươi.",
+  "tokens": [
+    {
+      "surface": "והנשא",
+      "gloss": "và người vác"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xác chết của chúng"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "xác chết của chúng"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "phải giặt"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "quần áo mình"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "và ô uế"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "tối"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "ô uế"
+    },
+    {
+      "surface": "המה",
+      "gloss": "chúng là"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:42:20.921897472Z",
+  "model": "glm-5.3"
+}

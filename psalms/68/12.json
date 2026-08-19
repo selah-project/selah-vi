@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 68,
+  "translation": "Adonai ban lời nói; những nữ người báo tin — một đạo quân đông đảo.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ban"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "lời nói"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "những nữ người báo tin"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "đạo quân"
+    },
+    {
+      "surface": "רב",
+      "gloss": "đông đảo"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:58.849802856Z",
+  "model": "glm-5.3"
+}

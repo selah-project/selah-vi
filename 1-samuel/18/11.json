@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 18:11",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Va Shaul ném ⟨את⟩ cây giáo, vì ⟨he⟩ nói: Ta sẽ đâm David, cả vào tường; và David xoay mình khỏi mặt ngài, hai lần.",
+  "tokens": [
+    {
+      "surface": "ויטל",
+      "gloss": "ném"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cây giáo"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "cây giáo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "ta sẽ đâm"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "vào David"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "cả vào tường"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "và xoay mình"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "khỏi mặt ngài"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "hai lần"
+    }
+  ],
+  "timestamp": "2026-08-19T03:34:31.766266755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 3:3",
+  "book": "ruth",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Hãy tắm rửa, hãy xông dầu, hãy mặc y phục của con lên mình, và hãy xuống sân đập; đừng cho người ấy biết, cho đến khi người ăn uống xong.",
+  "tokens": [
+    {
+      "surface": "ורחצת",
+      "gloss": "và-hãy-tắm"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "và-hãy-xông-dầu"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "và-hãy-mặc"
+    },
+    {
+      "surface": "שמלתך",
+      "gloss": "y-phục-của-con"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "lên-mình-con"
+    },
+    {
+      "surface": "וירדתי",
+      "gloss": "và-hãy-xuống"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "sân-đập"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תודעי",
+      "gloss": "hãy-cho-biết-mình"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "với-người-ấy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho-đến-khi"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "ngươi-xong"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ăn"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "và-uống"
+    }
+  ],
+  "timestamp": "2026-08-19T05:30:31.418055817Z",
+  "model": "glm-5.3"
+}

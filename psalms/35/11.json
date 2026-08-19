@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 35,
+  "translation": "Các kẻ làm chứng hung bạo đứng dậy; về những điều tôi không biết, chúng chất vấn tôi.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "chúng đứng dậy"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "các kẻ làm chứng"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "hung bạo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "về những điều"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "tôi biết"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "chúng chất vấn tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:30.496448623Z",
+  "model": "glm-5.3"
+}

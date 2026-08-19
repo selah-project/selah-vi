@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Và nếu một khách ngoại kiều cư ngụ ⟨אתך⟩ với ngươi trong đất các ngươi, các ngươi không được ức hiếp ⟨אתו⟩ hắn.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "và nếu"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "cư ngụ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩",
+      "marks": "với ngươi"
+    },
+    {
+      "surface": "גר",
+      "gloss": "khách ngoại kiều"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "trong đất các ngươi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không được"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "ức hiếp"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "hắn"
+    }
+  ],
+  "timestamp": "2026-08-19T02:45:59.608922884Z",
+  "model": "glm-5.3"
+}

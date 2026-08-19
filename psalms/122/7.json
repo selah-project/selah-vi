@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 122,
+  "translation": "Nguyện sự bình an trong tường thành ngươi, sự an tịnh trong các đền đài ngươi.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "nguyện được"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sự bình an"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "trong tường thành ngươi"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "sự an tịnh"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "trong các đền đài ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:44.557220592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 1:6",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và cha ông chưa bao giờ làm phiền ông từ những ngày của ông, để nói: Vì sao ngươi đã làm như vậy? Và ông cũng có hình dáng rất đẹp; và ⟨את⟩ ông đã sinh ra sau Avshalom.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "עצבו",
+      "gloss": "làm phiền ông"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "cha ông"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "từ những ngày của ông"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "để nói"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "vì sao"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "như vậy"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ngươi đã làm"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "và cũng"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ông"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tốt"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "hình dáng"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "rất"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "ông"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "đã sinh"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sau"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    }
+  ],
+  "timestamp": "2026-08-19T03:46:37.823570753Z",
+  "model": "glm-5.3"
+}

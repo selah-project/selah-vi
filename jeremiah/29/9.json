@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 29:9",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Vì trong sự dối trá họ nói tiên tri cho các ngươi trong Danh ta — ta đã không sai ⟨את⟩ họ, sấm ngôn của Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "trong sự dối trá"
+    },
+    {
+      "surface": "הם",
+      "gloss": "họ"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "nói tiên tri"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho các ngươi"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "trong Danh ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "שלחתים",
+      "gloss": "ta đã sai ⟨את⟩ họ",
+      "marks": "họ (các tiên tri giả)"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sấm ngôn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T06:35:49.532555827Z",
+  "model": "glm-5.3"
+}

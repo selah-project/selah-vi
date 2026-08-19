@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Người tay tinh sạch, và lòng trong sáng, kẻ không nâng linh hồn mình lên điều hư không, và không thề luống phí để dối trá.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "tinh sạch"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "tay"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "và trong sáng"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "lòng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kẻ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "đã nâng lên"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "đến điều hư không"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "linh hồn mình"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "đã thề"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "để dối trá"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:25.679419312Z",
+  "model": "glm-5.3"
+}

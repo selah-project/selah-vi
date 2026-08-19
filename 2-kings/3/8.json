@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Ngài hỏi: Con đường nào chúng ta sẽ lên? Ngài đáp: Con đường qua hoang mạc Edom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và ngài nói"
+    },
+    {
+      "surface": "אי",
+      "gloss": "nào"
+    },
+    {
+      "surface": "זה",
+      "gloss": "này"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "con đường"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "chúng ta sẽ lên"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và ngài đáp"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "con đường"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "hoang mạc"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-19T03:55:59.527957320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 138,
+  "translation": "Nếu tôi đi giữa gian truân, Ngài sẽ làm tôi sống lại; trước cơn giận của kẻ thù tôi, Ngài giơ tay ⟨ra⟩, và tay phải Ngài sẽ cứu tôi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "tôi đi"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "gian truân"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "Ngài sẽ làm tôi sống lại"
+    },
+    {
+      "surface": "על",
+      "gloss": "trước"
+    },
+    {
+      "surface": "אף",
+      "gloss": "cơn giận"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "của kẻ thù tôi"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "Ngài giơ ra"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tay Ngài"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "và sẽ cứu tôi"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tay phải Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:01.492330415Z",
+  "model": "glm-5.3"
+}

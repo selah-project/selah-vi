@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Nước trong bầu đã cạn, và nàng đã đặt ⟨את⟩ đứa trẻ dưới một bụi cây.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "và đã cạn"
+    },
+    {
+      "surface": "המים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "מן",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "trong bầu da"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "và nàng đã đặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đứa trẻ"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "đứa trẻ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dưới"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "một"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "bụi cây"
+    }
+  ],
+  "timestamp": "2026-08-19T06:03:08.486758331Z",
+  "model": "glm-5.3"
+}

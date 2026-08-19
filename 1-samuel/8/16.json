@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và ⟨את⟩ các đầy tớ nam của các ngươi, và ⟨את⟩ các nữ tỳ của các ngươi, và ⟨את⟩ các thanh niên của các ngươi — những người tốt nhất — và ⟨את⟩ các con lừa của các ngươi, nó sẽ lấy, và đưa vào công việc của nó.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "các đầy tớ nam của các ngươi"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "các đầy tớ nam của các ngươi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "các nữ tỳ của các ngươi"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "các nữ tỳ của các ngươi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "các thanh niên của các ngươi"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "các thanh niên của các ngươi"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "những người tốt nhất"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "các con lừa của các ngươi"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "các con lừa của các ngươi"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "nó sẽ lấy"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "và đưa vào \/ làm"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "vào công việc của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T03:30:19.466782482Z",
+  "model": "glm-5.3"
+}

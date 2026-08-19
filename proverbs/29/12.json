@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 29:12",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Nhà cầm quyền lắng nghe lời dối trá thì mọi tôi tớ ⟨của ông⟩ đều là kẻ ác.",
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "nhà cầm quyền"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "lắng nghe"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lời"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dối trá"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "tôi tớ của ông"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "đều là kẻ ác"
+    }
+  ],
+  "timestamp": "2026-08-19T05:19:18.243906754Z",
+  "model": "glm-5.3"
+}

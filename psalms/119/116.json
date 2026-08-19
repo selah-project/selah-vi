@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 116,
+  "ref": "psalms 119:116",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Xin nâng đỡ tôi theo lời Ngài phán, và tôi sẽ được sống; đừng làm tôi phải hổ thẹn vì cậy trông của tôi.",
+  "tokens": [
+    {
+      "surface": "סמכני",
+      "gloss": "Xin nâng đỡ tôi"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "theo lời Ngài phán"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "và tôi sẽ được sống"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "làm tôi phải hổ thẹn"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "vì cậy trông của tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:53.230299385Z",
+  "model": "glm-5.3"
+}

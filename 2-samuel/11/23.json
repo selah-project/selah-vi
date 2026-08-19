@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 11:23",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Người đưa tin nói với David: Quả thật những người ấy đã lấn áp chúng tôi, và đã ra ngoài đến với chúng tôi ra đồng; và chúng tôi đã đè lên họ cho đến tận cửa cổng thành.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "người đưa tin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quả thật"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "đã lấn áp"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "chúng tôi"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "những người ấy"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "và đã ra ngoài"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "đến với chúng tôi"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ra đồng"
+    },
+    {
+      "surface": "וינהי",
+      "gloss": "và chúng tôi đã ở"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "đè lên họ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến tận"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "cửa"
+    },
+    {
+      "surface": "השער",
+      "gloss": "cổng thành"
+    }
+  ],
+  "timestamp": "2026-08-19T03:41:25.558634665Z",
+  "model": "glm-5.3"
+}

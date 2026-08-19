@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 4:14",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Sự kinh hoàng đã gặp tôi, và run rẩy, và ⟨nhiều⟩ xương cốt tôi ⟨bị⟩ làm cho sợ hải.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "sự kinh hoàng"
+    },
+    {
+      "surface": "קראני",
+      "gloss": "đã gặp tôi"
+    },
+    {
+      "surface": "ורעדה",
+      "gloss": "và run rẩy"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "và ⟨số nhiều⟩"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "xương cốt tôi"
+    },
+    {
+      "surface": "הפחיד",
+      "gloss": "⟨bị⟩ làm cho sợ hải"
+    }
+  ],
+  "timestamp": "2026-08-19T06:20:09.876913543Z",
+  "model": "glm-5.3"
+}

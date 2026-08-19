@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 17:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Từ mặt kẻ ác tàn phá tôi, kẻ thù của tôi trong sự sống vây quanh chống lại tôi.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "từ mặt"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "זו",
+      "gloss": "người mà"
+    },
+    {
+      "surface": "שדוני",
+      "gloss": "tàn phá tôi"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "kẻ thù của tôi"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "trong sự sống"
+    },
+    {
+      "surface": "יקיפו",
+      "gloss": "vây quanh"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "chống lại tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:55:58.643661200Z",
+  "model": "glm-5.3"
+}

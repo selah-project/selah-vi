@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 132,
+  "translation": "Vì cớ David, tôi tớ ngươi, xin đừng xây lưng khỏi mặt Mashíach của ngươi.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "vì cớ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tôi tớ ngươi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "xin đừng"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "xây lưng"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashíach của ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:15.586965229Z",
+  "model": "glm-5.3"
+}

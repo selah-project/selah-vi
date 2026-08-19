@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 87,
+  "translation": "Điều vinh quang đã được nói về ngươi, hỡi thành của Elohim. Selah.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "điều vinh quang"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "được nói"
+    },
+    {
+      "surface": "בך",
+      "gloss": "về ngươi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "hỡi thành"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "của Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:40.241071517Z",
+  "model": "glm-5.3"
+}

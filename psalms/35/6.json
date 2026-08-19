@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 35,
+  "translation": "Nguyện đường lối của chúng nó ⟨là⟩ tối tăm và trơn trượt, và thiên sứ của Yahweh đuổi bắt chúng nó.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "nguyện … là"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "đường lối của chúng nó"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tối tăm"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "và trơn trượt"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "và thiên sứ của"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "đuổi bắt chúng nó"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:58.543684201Z",
+  "model": "glm-5.3"
+}

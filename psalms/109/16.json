@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 109,
+  "translation": "Bởi vì nó không nhớ làm nhân từ, nhưng đuổi bắt người khốn khổ và người thiếu thốn, và người bị đánh đau lòng, để giết đi.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "bởi vì"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nhớ"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "làm"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "nhân từ"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "và đuổi bắt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "עני",
+      "gloss": "khốn khổ"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "và thiếu thốn"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "và bị đánh"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "lòng \/ trái tim"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "để giết"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:52.752880702Z",
+  "model": "glm-5.3"
+}

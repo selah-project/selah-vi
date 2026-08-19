@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 9:7",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và ngươi sẽ đánh ⟨את⟩ nhà của Achav, chúa của ngươi; và Ta sẽ báo thù máu của các tôi tớ Ta, các tiên tri, và máu của mọi tôi tớ của Yahweh, khỏi tay Izevel.",
+  "tokens": [
+    {
+      "surface": "והכיתה",
+      "gloss": "và ngươi sẽ đánh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhà của Achav"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "của Achav"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "chúa của ngươi"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "và Ta sẽ báo thù"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "máu"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "của các tôi tớ"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "các tiên tri"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "và máu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "tôi tớ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "của Yahweh"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "khỏi tay"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevel"
+    }
+  ],
+  "timestamp": "2026-08-19T03:57:48.411352042Z",
+  "model": "glm-5.3"
+}

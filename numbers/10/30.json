@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Và ⟨hắn⟩ nói với ⟨anh ta⟩: Ta sẽ không đi; nhưng đến đất của ta và đến nơi sinh của ta, ta sẽ đi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "với anh ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ta sẽ đi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nhưng"
+    },
+    {
+      "surface": "אם",
+      "gloss": "chỉ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "đất của ta"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và đến"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "nơi sinh của ta"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ta sẽ đi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:55:40.557671267Z",
+  "model": "glm-5.3"
+}

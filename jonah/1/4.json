@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và Yahweh ném một ngọn gió lớn xuống ⟨את⟩ biển, và có một cơn bão lớn trong biển, và chiếc tàu tính như sắp bị vỡ.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Và Yahweh"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "ném"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "một ngọn gió"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "lớn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "xuống"
+    },
+    {
+      "surface": "הים",
+      "gloss": "biển"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "và có"
+    },
+    {
+      "surface": "סער",
+      "gloss": "một cơn bão"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lớn"
+    },
+    {
+      "surface": "בים",
+      "gloss": "trong biển"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "và chiếc tàu"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "tính như"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "sắp bị vỡ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:48:25.327302833Z",
+  "model": "glm-5.3"
+}

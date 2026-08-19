@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 26:17",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Sha-ul nhận ra ⟨את⟩ giọng nói của David, và nói: Giọng của ngươi đây sao, David con trai ta? Và David nói: Giọng của tôi, thưa chúa tôi là đức vua.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "nhận ra"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "giọng nói của David"
+    },
+    {
+      "surface": "קול",
+      "gloss": "giọng nói"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "הקולך",
+      "gloss": "giọng của ngươi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "đây"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con trai ta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "giọng của tôi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "chúa tôi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "đức vua"
+    }
+  ],
+  "timestamp": "2026-08-19T06:08:21.863267870Z",
+  "model": "glm-5.3"
+}

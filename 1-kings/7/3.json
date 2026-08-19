@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 7:3",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Và ⟨nó⟩ được lợp bằng bách từ phía trên, trên các buồng bên nằm trên các cột, bốn mươi lăm — mười lăm mỗi hàng.",
+  "tokens": [
+    {
+      "surface": "וספן",
+      "gloss": "và được lợp"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "bằng bách"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "từ phía trên"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "הצלעת",
+      "gloss": "các buồng bên"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "các cột"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "bốn mươi"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "và năm"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "năm"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mười"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "mỗi hàng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:49:03.894004629Z",
+  "model": "glm-5.3"
+}

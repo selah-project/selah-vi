@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 39,
+  "translation": "⟨את⟩ hòm của lời chứng và ⟨את⟩ các đòn khiêng của nó, và ⟨את⟩ nắp xá tội.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hòm của lời chứng"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "hòm"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "của lời chứng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các đòn khiêng của nó"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "các đòn khiêng của nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "nắp xá tội"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "nắp xá tội"
+    }
+  ],
+  "timestamp": "2026-08-19T02:39:16.259347317Z",
+  "model": "glm-5.3"
+}

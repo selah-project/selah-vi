@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và họ đặt ⟨את⟩ các mỡ trên các ức, và ông làm khói lên ⟨את⟩ các mỡ trên bàn thờ.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "và họ đặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các mỡ"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "các mỡ"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "các ức"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "và ông làm khói lên"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "các mỡ"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "trên bàn thờ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:42:01.947581422Z",
+  "model": "glm-5.3"
+}

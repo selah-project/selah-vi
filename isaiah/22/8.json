@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Và ⟨người ta⟩ lật mở ⟨את⟩ màn che của Yehudah, và ngươi nhìn trong ngày đó đến vũ khí của nhà rừng.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "và lật mở"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "màn che của Yehudah"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "màn che"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "của Yehudah"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "và ngươi nhìn"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "trong ngày"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "đó"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "vũ khí"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "היער",
+      "gloss": "rừng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:06:53.499390363Z",
+  "model": "glm-5.3"
+}

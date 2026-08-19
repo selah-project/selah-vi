@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Điều đã bị bóp méo thì không thể làm cho ngay thẳng, và điều thiếu hụt thì không thể đếm được.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "điều đã bị bóp méo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "có thể"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "làm cho ngay thẳng"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "và điều thiếu hụt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "có thể"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "đếm được"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:22.354080646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Avraham đứng dậy từ trước mặt người chết của ⟨ông⟩, và nói với con cái của Chet, rằng:",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "và đứng dậy"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "từ trên"
+    },
+    {
+      "surface": "פני",
+      "gloss": "th mặt của"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "người chết của ⟨ông⟩"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái của"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Chet"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    }
+  ],
+  "timestamp": "2026-08-19T01:04:25.113525102Z",
+  "model": "glm-5.3"
+}

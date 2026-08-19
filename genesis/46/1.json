@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 46:1",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 46,
+  "translation": "Yisrael lên đường cùng tất cả những gì thuộc về mình, và đến Beer-Sheba, và dâng các của lễ cho Elohim của cha mình là Yitschak.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "lên đường"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và tất cả"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "những gì"
+    },
+    {
+      "surface": "לו",
+      "gloss": "thuộc về mình"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "và đến"
+    },
+    {
+      "surface": "בארה",
+      "gloss": "⟨tại⟩ Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "và dâng"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "các của lễ"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "cho Elohim"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "của cha mình"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    }
+  ],
+  "timestamp": "2026-08-19T06:03:36.309284202Z",
+  "model": "glm-5.3"
+}

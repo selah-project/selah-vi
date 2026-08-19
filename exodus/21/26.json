@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 21:26",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Và nếu một người đánh ⟨את⟩ mắt nô lệ nam của mình hay ⟨את⟩ mắt nô lệ nữ của mình và nó hỏng, thì vì mắt đó ⟨he⟩ phải thả người ấy ra tự do.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "và nếu"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "đánh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "một người"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mắt"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mắt"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "nô lệ nam của mình"
+    },
+    {
+      "surface": "או",
+      "gloss": "hay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mắt"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mắt"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "nô lệ nữ của mình"
+    },
+    {
+      "surface": "ושחתה",
+      "gloss": "và nó hỏng"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "ra tự do"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "⟨he⟩ phải thả người ấy"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thay cho"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "mắt của người ấy"
+    }
+  ],
+  "timestamp": "2026-08-19T02:33:03.501007692Z",
+  "model": "glm-5.3"
+}

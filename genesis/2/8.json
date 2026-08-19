@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và Yahweh Elohim đã trồng một vườn ở Eden, phía đông, và đã đặt ở đó ⟨את⟩ con người mà Ngài đã nắn.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "và đã trồng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "vườn"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "ở Eden"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "phía đông"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "và đã đặt"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ở đó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con người"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "con người"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "đã nắn"
+    }
+  ],
+  "timestamp": "2026-08-19T00:45:45.455113423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 30:3",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Ngươi hãy phủ ⟨את⟩ nó bằng vàng tinh khiết: ⟨את⟩ mái nó, và ⟨את⟩ các thành nó chung quanh, và ⟨את⟩ các sừng nó; và ngươi hãy làm cho nó một vành vàng chung quanh.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "và ngươi hãy phủ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nó",
+      "marks": "nó (bàn thờ)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bằng vàng"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tinh khiết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mái nó"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "mái nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các thành nó"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "các thành nó"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "chung quanh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các sừng nó"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "các sừng nó"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "và ngươi hãy làm"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho nó"
+    },
+    {
+      "surface": "זר",
+      "gloss": "một vành"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bằng vàng"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "chung quanh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:36:22.022765991Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Vì vậy kẻ ác sẽ không đứng dậy trong sự phán xử, và tội nhân trong hội chúng của người công chính.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "vì vậy (trên)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vậy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "sẽ đứng dậy"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "trong sự phán xử"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "và tội nhân"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "trong hội chúng của"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "người công chính"
+    }
+  ],
+  "timestamp": "2026-08-19T04:54:36.292485286Z",
+  "model": "glm-5.3"
+}

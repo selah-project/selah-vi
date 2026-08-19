@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 2:8",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Đất hắn đã đầy tượng thần vô ích; nó phủ phục trước công việc tay mình, trước điều ngón tay mình đã làm ra.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "đã đầy"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "đất hắn"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "tượng thần vô ích"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "trước công việc"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "tay mình"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "nó phủ phục"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "trước điều mà"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "đã làm ra"
+    },
+    {
+      "surface": "אצבעתיו",
+      "gloss": "ngón tay mình"
+    }
+  ],
+  "timestamp": "2026-08-19T06:11:02.811424113Z",
+  "model": "glm-5.3"
+}

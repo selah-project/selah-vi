@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 105,
+  "translation": "Đất của chúng sinh sôi nhiểu ếch nhái, trong các phòng nội của các vua chúng.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "sinh sôi nhiểu"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "đất của chúng"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "ếch nhái"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "trong các phòng nội của"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "các vua chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:06.493512566Z",
+  "model": "glm-5.3"
+}

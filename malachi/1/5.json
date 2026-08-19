@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "malachi 1:5",
+  "book": "malachi",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Mắt các ngươi sẽ thấy, và các ngươi sẽ nói: 'Yahweh được tôn cao vượt quá biên giới Yisra'el.'",
+  "tokens": [
+    {
+      "surface": "ועיניכם",
+      "gloss": "và mắt các ngươi"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "sẽ thấy"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "và các ngươi"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "sẽ nói"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "được tôn cao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "vượt quá"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "biên giới"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-19T04:54:44.254736159Z",
+  "model": "glm-5.3"
+}

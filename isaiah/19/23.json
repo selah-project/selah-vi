@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 19:23",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Trong ngày ấy sẽ có một con đường từ Mitzrayim đến Ashshur, và Ashshur sẽ vào Mitzrayim, và Mitzrayim vào Ashshur, và Mitzrayim sẽ phụng sự ⟨את⟩ Ashshur.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "trong ngày"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ấy"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sẽ có"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "con đường"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "từ Mitzrayim"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "đến Ashshur"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "và sẽ vào"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "vào Mitzrayim"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "và Mitzrayim"
+    },
+    {
+      "surface": "באשור",
+      "gloss": "vào Ashshur"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "và sẽ phụng sự"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashshur"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    }
+  ],
+  "timestamp": "2026-08-19T04:07:10.798395820Z",
+  "model": "glm-5.3"
+}

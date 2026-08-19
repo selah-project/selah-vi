@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Hỡi con cháu của loài người, đến bao lâu vinh quang của tôi bị đổi thành sỉ nhục, các ngươi yêu điều hư không, tìm kiếm sự dối trá. Selah.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "hỡi con cháu của"
+    },
+    {
+      "surface": "איש",
+      "gloss": "loài người"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "מה",
+      "gloss": "bao lâu"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "vinh quang của tôi"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "bị đổi thành sỉ nhục"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "các ngươi yêu"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "điều hư không"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "các ngươi tìm kiếm"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "sự dối trá"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T04:54:53.645218879Z",
+  "model": "glm-5.3"
+}

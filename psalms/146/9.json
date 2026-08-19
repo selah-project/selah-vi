@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 146,
+  "translation": "Yahweh gìn giữ ⟨את⟩ những người khách ngoại cư, người mồ côi và goá phụ ⟨Ngài⟩ nâng đỡ, còn con đường của kẻ ác ⟨Ngài⟩ làm cho vạy xoắn.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "gìn giữ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "những người khách ngoại cư"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "những người khách ngoại cư"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "người mồ côi"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "và goá phụ"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "nâng đỡ"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "còn con đường của"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "làm cho vạy xoắn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:14.973528871Z",
+  "model": "glm-5.3"
+}

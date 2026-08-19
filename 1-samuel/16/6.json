@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Khi họ vào, ông nhìn thấy ⟨את⟩ Eliav và nói: Chắc chắn trước mặt Yahweh là Đấng được xức dầu của Ngài.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "đã xảy ra"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "khi họ vào"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "và ông nhìn thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliav"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và ông nói"
+    },
+    {
+      "surface": "אך",
+      "gloss": "chắc chắn"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Đấng được xức dầu của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T03:33:24.562533312Z",
+  "model": "glm-5.3"
+}

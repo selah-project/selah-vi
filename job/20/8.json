@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 20:8",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Như giấc mơ hắn bay đi và ⟨người ta⟩ không tìm thấy hắn; hắn bị đuổi đi như khải tượng trong đêm.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "như giấc mơ"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "bay đi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "ימצאוהו",
+      "gloss": "tìm thấy hắn"
+    },
+    {
+      "surface": "וידד",
+      "gloss": "và bị đuổi đi"
+    },
+    {
+      "surface": "כחזיון",
+      "gloss": "như khải tượng"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "đêm"
+    }
+  ],
+  "timestamp": "2026-08-19T05:24:02.225150892Z",
+  "model": "glm-5.3"
+}

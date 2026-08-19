@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Hãy nguôi cơn气愤 — hãy buông bỏ ⟨את⟩ sự nóng giận; chớ nóng ruột giận dữ, điều đó chỉ dẫn đến làm điều ác.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "hãy nguôi \/ buông tha"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "khỏi cơn giận"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "và hãy buông bỏ"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "sự nóng giận"
+    },
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "nóng ruột giận dữ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "chỉ"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "dẫn đến làm điều ác"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:04.860509352Z",
+  "model": "glm-5.3"
+}

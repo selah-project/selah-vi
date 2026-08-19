@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 14:8",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Sự khôn ngoan của người khôn kín là hiểu biết con đường mình, còn sự dại dột của những kẻ ngu dại là gian dối.",
+  "tokens": [
+    {
+      "surface": "חכמת",
+      "gloss": "sự khôn ngoan"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "của người khôn kín"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "hiểu biết"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "con đường mình"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "và sự dại dột"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "của những kẻ ngu dại"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "gian dối"
+    }
+  ],
+  "timestamp": "2026-08-19T05:16:14.853265902Z",
+  "model": "glm-5.3"
+}

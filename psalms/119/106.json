@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 106,
+  "ref": "psalms 119:106",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Tôi đã thề và sẽ giữ vững ⟨nó⟩, để gìn giữ các phán quyết công bình của Ngài.",
+  "tokens": [
+    {
+      "surface": "נשבעתי",
+      "gloss": "tôi đã thề"
+    },
+    {
+      "surface": "ואקימה",
+      "gloss": "và sẽ giữ vững"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "để gìn giữ"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "các phán quyết"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "công bình của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:53.283861541Z",
+  "model": "glm-5.3"
+}

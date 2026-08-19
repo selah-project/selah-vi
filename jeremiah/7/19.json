@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 7:19",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "⟨את⟩ Ta họ chọc giận, sấm của Yahweh; chẳng phải ⟨את⟩ chính họ, để làm xấu hổ mặt của chúng nó sao?",
+  "tokens": [
+    {
+      "surface": "האתי",
+      "gloss": "⟨את⟩ Ta"
+    },
+    {
+      "surface": "הם",
+      "gloss": "họ"
+    },
+    {
+      "surface": "מכעסים",
+      "gloss": "chọc giận"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sấm của"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "chẳng phải... sao"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chính họ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "để làm"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "xấu hổ"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "mặt của chúng nó"
+    }
+  ],
+  "timestamp": "2026-08-19T04:18:40.135804451Z",
+  "model": "glm-5.3"
+}

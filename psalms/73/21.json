@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 73,
+  "translation": "Khi tim tôi ⟨đang⟩ lên men, và thận tôi bị đâm刺 —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "khi"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "lên men"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "tim tôi"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "và thận tôi"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "bị đâm"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:08.931718480Z",
+  "model": "glm-5.3"
+}

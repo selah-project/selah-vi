@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Và Balak con trai Tsippor thấy ⟨את⟩ tất cả điều mà Yisrael đã làm cho người Emori.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "và thấy"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Tsippor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả điều mà Yisrael đã làm"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "điều mà"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "cho người Emori"
+    }
+  ],
+  "timestamp": "2026-08-19T02:59:44.734182425Z",
+  "model": "glm-5.3"
+}

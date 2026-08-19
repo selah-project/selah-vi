@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Và cả Lot, kẻ đi cùng ⟨את⟩ Avram, cũng có chiên, bò và trại.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "và cả"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "cho Lot"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "kẻ đi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "có \/ trở nên"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "chiên"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "và bò"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "và trại"
+    }
+  ],
+  "timestamp": "2026-08-19T00:55:32.711163864Z",
+  "model": "glm-5.3"
+}

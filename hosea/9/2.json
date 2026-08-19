@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 9:2",
+  "book": "hosea",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Sân đập lúa và hầm rượu sẽ không nuôi dưỡng họ, và rượu mới sẽ phản bội ⟨họ⟩.",
+  "tokens": [
+    {
+      "surface": "גרן",
+      "gloss": "sân đập lúa"
+    },
+    {
+      "surface": "ויקב",
+      "gloss": "và hầm rượu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "sẽ nuôi dưỡng họ"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "và rượu mới"
+    },
+    {
+      "surface": "יכחש",
+      "gloss": "sẽ phản bội \/ sẽ hỏng mất"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nó"
+    }
+  ],
+  "timestamp": "2026-08-19T06:16:09.456082046Z",
+  "model": "glm-5.3"
+}

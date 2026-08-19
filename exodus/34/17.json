@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 34,
+  "translation": "Thần đúc không ngươi sẽ làm cho mình.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "thần"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "đúc"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ngươi sẽ làm"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho mình"
+    }
+  ],
+  "timestamp": "2026-08-19T02:37:12.943771277Z",
+  "model": "glm-5.3"
+}

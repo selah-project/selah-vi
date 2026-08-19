@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 35:8",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 35,
+  "translation": "và dầu cho ánh sáng, và hương liệu cho dầu xức, và cho hương thơm của các gia vị.",
+  "tokens": [
+    {
+      "surface": "ושמן",
+      "gloss": "và dầu"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "cho ánh sáng"
+    },
+    {
+      "surface": "ובשמים",
+      "gloss": "và hương liệu (besamim)"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "cho dầu của"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "sự xức (hamishchah)"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "và cho hương (ketoret)"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "các gia vị (hasamim)"
+    }
+  ],
+  "timestamp": "2026-08-19T02:36:49.819462743Z",
+  "model": "glm-5.3"
+}

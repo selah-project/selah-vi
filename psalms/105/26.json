@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 105,
+  "translation": "Ngài đã sai Moshe, tôi tớ của Ngài, Aharon mà Ngài đã chọn lựa.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "đã sai"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "tôi tớ của Ngài"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "đã chọn lựa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:46.255049040Z",
+  "model": "glm-5.3"
+}

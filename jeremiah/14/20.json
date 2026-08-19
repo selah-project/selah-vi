@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 14:20",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Chúng con biết rồi, Yahweh ơi, sự gian ác của chúng con, và tội lỗi của tổ phụ chúng con; vì chúng con đã phạm tội chống Ngài.",
+  "tokens": [
+    {
+      "surface": "ידענו",
+      "gloss": "chúng con biết rồi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רשענו",
+      "gloss": "sự gian ác của chúng con"
+    },
+    {
+      "surface": "עון",
+      "gloss": "tội lỗi"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "của tổ phụ chúng con"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "chúng con đã phạm tội"
+    },
+    {
+      "surface": "לך",
+      "gloss": "chống Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T06:13:03.392142923Z",
+  "model": "glm-5.3"
+}

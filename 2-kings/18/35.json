@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 18:35",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Who among all the gods of the lands — those that delivered ⟨את⟩ their land from my hand — that Yahweh should deliver ⟨את⟩ Yerushalayim from my hand?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "who"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "among all"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "the gods of"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "the lands"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "who"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "delivered"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "their land"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "their land"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "from my hand"
+    },
+    {
+      "surface": "כי",
+      "gloss": "that"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "should deliver"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "from my hand"
+    }
+  ],
+  "timestamp": "2026-08-19T04:00:57.682761979Z",
+  "model": "glm-5.3"
+}

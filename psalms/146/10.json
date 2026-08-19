@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 146,
+  "translation": "Yahweh sẽ trị vì đến muôn đời, Elohim của ngươi, hỡi Tziyon, từ thế hệ này sang thế hệ — hãy hallen Yah!",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "sẽ trị vì"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "đến muôn đời"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim của ngươi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tziyon"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "đến thế hệ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "và thế hệ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "hãy hallen"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:14.973851682Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 18:3",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Và đây sẽ là quyền phán cho các thầy tế lễ, từ ⟨את⟩ dân chúng, từ ⟨את⟩ những người dâng sinh lễ — dù bò hay chiên — người ta sẽ cho thầy tế lễ cánh tay, hai hàm, và cái bụng.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "và đây"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sẽ là"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "quyền phán"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "của các thầy tế lễ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "từ ⟨את⟩",
+      "marks": "dân chúng"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân chúng"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "từ ⟨את⟩",
+      "marks": "những người dâng sinh lễ"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "những người dâng sinh lễ"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "con sinh lễ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dù"
+    },
+    {
+      "surface": "שור",
+      "gloss": "bò"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hay"
+    },
+    {
+      "surface": "שה",
+      "gloss": "chiên"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "sẽ cho"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "cho thầy tế lễ"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "cánh tay"
+    },
+    {
+      "surface": "והלחיים",
+      "gloss": "và hai hàm"
+    },
+    {
+      "surface": "והקבה",
+      "gloss": "và cái bụng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:10:02.387492163Z",
+  "model": "glm-5.3"
+}

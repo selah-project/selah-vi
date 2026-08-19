@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Để cho vang lên tiếng của sự tạ ơn, và để kể lại mọi việc lạ lùng của Ngài.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "để cho vang lên"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "với tiếng"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "sự tạ ơn"
+    },
+    {
+      "surface": "ולספר",
+      "gloss": "và để kể lại"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "việc lạ lùng của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:46.529145139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Còn ⟨את⟩ Natan đấng tiên tri, và Benayahu, và ⟨את⟩ các dũng sĩ, và ⟨את⟩ Shelomo anh em mình, ông không triệu tập.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "còn ⟨את⟩",
+      "marks": "Natan đấng tiên tri"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "đấng tiên tri"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "và Benayahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các dũng sĩ"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "các dũng sĩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Shelomo anh em mình"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "anh em mình"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "triệu tập"
+    }
+  ],
+  "timestamp": "2026-08-19T03:46:39.343731154Z",
+  "model": "glm-5.3"
+}

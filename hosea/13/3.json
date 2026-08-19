@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 13:3",
+  "book": "hosea",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Vì vậy chúng sẽ như đám mây buổi sáng, như sương mai sớm tan đi, như trấu bị cuốn khỏi sân đạp lúa, và như khói bay khỏi cửa sổ.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "vì vậy"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "chúng sẽ như"
+    },
+    {
+      "surface": "כענן",
+      "gloss": "như đám mây"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "buổi sáng"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "và như sương"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "sớm"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "tan đi"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "như trấu"
+    },
+    {
+      "surface": "יסער",
+      "gloss": "bị cuốn"
+    },
+    {
+      "surface": "מגרן",
+      "gloss": "khỏi sân đạp lúa"
+    },
+    {
+      "surface": "וכעשן",
+      "gloss": "và như khói"
+    },
+    {
+      "surface": "מארבה",
+      "gloss": "khỏi cửa sổ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:45:49.252094653Z",
+  "model": "glm-5.3"
+}

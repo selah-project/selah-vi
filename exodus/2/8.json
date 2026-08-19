@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và con gái của Paroh nói với ⟨nàng⟩: Hãy đi. Và cô gái trẻ đi, và gọi ⟨את⟩ mẹ của đứa trẻ.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "và-nàng-nói"
+    },
+    {
+      "surface": "לה",
+      "gloss": "với-nàng"
+    },
+    {
+      "surface": "בת",
+      "gloss": "con gái"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "hãy-đi"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "và-nàng-đi"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "cô gái trẻ"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "và-nàng-gọi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mẹ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mẹ"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "của-đứa-trẻ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:27:30.125776972Z",
+  "model": "glm-5.3"
+}

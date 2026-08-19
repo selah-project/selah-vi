@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Thì Toi, vua của Hamat, nghe rằng David đã đánh ⟨את⟩ toàn bộ quân lực của Hadadezer.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "thì nghe"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "Toi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "đã đánh"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toàn bộ quân lực của Hadadezer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn bộ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "quân lực"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    }
+  ],
+  "timestamp": "2026-08-19T03:40:30.987665127Z",
+  "model": "glm-5.3"
+}

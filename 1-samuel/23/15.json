@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Đavid thấy rằng Shaúl đã ra đi để tìm ⟨את⟩ mạng sống của ngài; còn Đavid ⟨ở⟩ trong hoang mạc Ziph, tại Chore'shah.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "và thấy"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Đavid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "đã ra đi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "để tìm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mạng sống của ngài"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "mạng sống của ngài"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "và Đavid"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "trong hoang mạc"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Ziph"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "tại Chore'shah"
+    }
+  ],
+  "timestamp": "2026-08-19T03:36:37.720512937Z",
+  "model": "glm-5.3"
+}

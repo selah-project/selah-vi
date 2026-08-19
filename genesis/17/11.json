@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Các ngươi hãy cắt bì ⟨את⟩ da quy đầu của các ngươi, và nó sẽ thành dấu hiệu của giao ước giữa Ta với các ngươi.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "và-các-ngươi-hãy-cắt-bì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "da (của quy đầu các ngươi)"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "da-thịt"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "quy-đầu-của-các-ngươi"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "và-nó-sẽ-thành"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "làm-dấu-hiệu"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "của-giao-ước"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "giữa-Ta"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "với-các-ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T00:58:10.685801974Z",
+  "model": "glm-5.3"
+}

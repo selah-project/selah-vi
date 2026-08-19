@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 53,
+  "translation": "Elohim từ các tầng trời đã cúi nhìn xuống con cái loài người, để xem có ai thông sáng, ai tìm kiếm ⟨את⟩ Elohim không.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "từ các tầng trời"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "đã cúi nhìn xuống"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "loài người"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "để xem"
+    },
+    {
+      "surface": "היש",
+      "gloss": "có... không"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ai thông sáng"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "tìm kiếm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:54.196395820Z",
+  "model": "glm-5.3"
+}

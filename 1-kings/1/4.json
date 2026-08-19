@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 1:4",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Thiếu nữ ấy đẹp vô cùng, và nàng làm người chăm sóc cho vua, và hầu hạ ngài; nhưng vua không ăn ở với nàng.",
+  "tokens": [
+    {
+      "surface": "והנערה",
+      "gloss": "và thiếu nữ ấy"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "đẹp"
+    },
+    {
+      "surface": "עד",
+      "gloss": "vô cùng"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "không cùng"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "và nàng làm"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "cho vua"
+    },
+    {
+      "surface": "סכנת",
+      "gloss": "người chăm sóc"
+    },
+    {
+      "surface": "ותשרתהו",
+      "gloss": "và hầu hạ ngài"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "nhưng vua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "ăn ở với nàng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:46:42.523266529Z",
+  "model": "glm-5.3"
+}

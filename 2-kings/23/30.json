@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 23:30",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Các tôi tớ ông chở ông trên xe, ⟨ông⟩ đã chết, từ Megiddo, đem ông về Yerushalayim, và chôn ông trong mộ của ông; dân của xứ lấy ⟨את⟩ Yehoachaz con Yosiyahu, xức dầu cho ⟨את⟩ ông, và lập ⟨את⟩ ông làm vua thay cha ông.",
+  "tokens": [
+    {
+      "surface": "וירכבהו",
+      "gloss": "và chở ông trên xe"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "các tôi tớ ông"
+    },
+    {
+      "surface": "מת",
+      "gloss": "đã chết"
+    },
+    {
+      "surface": "ממגדו",
+      "gloss": "từ Megiddo"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "và đem ông đến"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "và chôn ông"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "trong mộ của ông"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "và lấy"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "của xứ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoachaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoachaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yosiyahu"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "và xức dầu cho"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ông (Yehoachaz)"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "và lập làm vua"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ông (Yehoachaz)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thay"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "cha ông"
+    }
+  ],
+  "timestamp": "2026-08-19T04:02:29.935695994Z",
+  "model": "glm-5.3"
+}

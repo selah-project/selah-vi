@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Hãy vào, nói với Paroh, vua của Mitsrayim, để ông thả ⟨את⟩ con cái Yisrael ra khỏi đất của ông.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "hãy vào"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "của Mitsrayim"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "để ông thả"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con cái Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "ra khỏi đất của ông"
+    }
+  ],
+  "timestamp": "2026-08-19T02:28:23.318513986Z",
+  "model": "glm-5.3"
+}

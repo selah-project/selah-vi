@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 6:13",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và vua nói: Hãy đi và xem nơi ông ta ở đâu, rồi ta sẽ sai người bắt ông. Và người ta báo cho vua biết, rằng: Kìa, ⟨ông ta⟩ ở Dotan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và vua nói"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "hãy đi"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "và xem"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "nơi nào"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ông ta"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "và ta sẽ sai"
+    },
+    {
+      "surface": "ואקחהו",
+      "gloss": "và bắt ông ta"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "và người ta báo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho vua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kìa"
+    },
+    {
+      "surface": "בדתן",
+      "gloss": "ở Dotan"
+    }
+  ],
+  "timestamp": "2026-08-19T03:57:18.760102673Z",
+  "model": "glm-5.3"
+}

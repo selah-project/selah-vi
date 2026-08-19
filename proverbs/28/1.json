@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 28:1",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Kẻ dữ trốn chạy khi không ai đuổi theo, còn người công chính tự tin như sư tử trẻ.",
+  "tokens": [
+    {
+      "surface": "נסו",
+      "gloss": "trốn chạy"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "và không có"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "người đuổi theo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kẻ dữ"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "còn người công chính"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "như sư tử trẻ"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "tự tin"
+    }
+  ],
+  "timestamp": "2026-08-19T05:19:42.703038261Z",
+  "model": "glm-5.3"
+}

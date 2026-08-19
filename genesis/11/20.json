@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và Reu sống hai mươi và ba mươi năm, và sinh ⟨את⟩ Serug.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "và sống"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "hai"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "và ba mươi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "năm"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "và sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serug"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    }
+  ],
+  "timestamp": "2026-08-19T00:54:38.307682713Z",
+  "model": "glm-5.3"
+}

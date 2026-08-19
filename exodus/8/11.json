@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và Pharaoh thấy rằng đã có ⟨sự⟩ nghỉ ngơi, và ông làm cho ⟨את⟩ lòng mình nặng nề, và không nghe họ, như Yahweh đã phán.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "và thấy"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaoh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "đã có"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "sự nghỉ ngơi"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "và làm cho nặng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lòng mình"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "lòng mình"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nghe"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "họ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "đã phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:29:29.689764964Z",
+  "model": "glm-5.3"
+}

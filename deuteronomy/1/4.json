@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Sau khi ⟨người⟩ đánh bại ⟨את⟩ Sichon, vua của người Emori, kẻ ngự tại Cheshbon, và ⟨את⟩ Og, vua của Bashan, kẻ ngự tại Ashtarot, tại Edrei.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Sau khi"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "⟨người⟩ đánh bại"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sichon, vua của người Emori"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sichon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "của người Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kẻ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ngự tại"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "Cheshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Og, vua của Bashan"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "của Bashan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kẻ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ngự tại"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "tại Ashtarot"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "tại Edrei"
+    }
+  ],
+  "timestamp": "2026-08-19T03:04:41.721627350Z",
+  "model": "glm-5.3"
+}

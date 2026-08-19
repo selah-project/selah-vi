@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Và người Hebrew băng qua ⟨את⟩ sông Yarden đến đất Gad và Gilad; còn Shaol vẫn còn ở Gilgal, và toàn thể dân run rẩy theo sau ông.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "và người Hebrew"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "băng qua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sông Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sông Yarden"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "và Gilad"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "còn Shaol"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "vẫn còn"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "ở Gilgal"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và toàn thể"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "run rẩy"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "theo sau ông"
+    }
+  ],
+  "timestamp": "2026-08-19T03:31:46.672707303Z",
+  "model": "glm-5.3"
+}

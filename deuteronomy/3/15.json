@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và cho Machir, ta đã ban ⟨את⟩ Gilad.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "và cho Machir"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ta đã ban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gilad"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-08-19T03:05:19.737033791Z",
+  "model": "glm-5.3"
+}

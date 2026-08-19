@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 20:42",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Và người nói với ông: Như vậy Yahweh phán: Vì ngươi đã thả ⟨את⟩ người ta — vật ta dành tận di — khỏi tay, thì mạng sống ngươi sẽ đền thay mạng sống hắn, và dân ngươi thay dân hắn.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "với ông"
+    },
+    {
+      "surface": "כה",
+      "gloss": "như vậy"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יען",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "ngươi đã thả"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người ta — vật ta dành tận di"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người ta"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "vật ta dành tận di"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "khỏi tay"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "thì sẽ là"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "mạng sống ngươi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "đền thay"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "mạng sống hắn"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "và dân ngươi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thay"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "dân hắn"
+    }
+  ],
+  "timestamp": "2026-08-19T03:53:46.499570935Z",
+  "model": "glm-5.3"
+}

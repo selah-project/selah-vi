@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 72,
+  "translation": "Trong ngày của người, kẻ công bình sẽ nở hoa, và sự dồi dào bình an cho đến khi không còn trăng.",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "sẽ nở hoa"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "trong ngày của người"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "kẻ công bình"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "và sự dồi dào"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "bình an"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến khi"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "không còn"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "trăng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:00.652017449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 86,
+  "translation": "Xin quay mặt về con và ban ơn cho con; xin ban sức mạnh của Ngài cho tôi tớ Ngài, và cứu con trai của nữ tỳ Ngài.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "xin quay mặt về"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "con"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "và ban ơn cho con"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "xin ban"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "sức mạnh của Ngài"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "cho tôi tớ Ngài"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "và xin cứu"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "con trai của"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "nữ tỳ Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:16.308902246Z",
+  "model": "glm-5.3"
+}

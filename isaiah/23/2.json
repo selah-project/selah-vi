@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 23:2",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Hãy im lặng, hỡi dân cư của hải đảo; thương gia của Tsidon, kẻ qua lại biển cả, đã làm cho ngươi no đầy.",
+  "tokens": [
+    {
+      "surface": "דמו",
+      "gloss": "hãy im lặng"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "dân cư của"
+    },
+    {
+      "surface": "אי",
+      "gloss": "hải đảo"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "thương gia"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "qua lại"
+    },
+    {
+      "surface": "ים",
+      "gloss": "biển"
+    },
+    {
+      "surface": "מלאוך",
+      "gloss": "đã làm no đầy ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:08:28.489544092Z",
+  "model": "glm-5.3"
+}

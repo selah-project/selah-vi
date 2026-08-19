@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 39:3",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 39,
+  "translation": "Và họ dập mỏng ⟨את⟩ các lá vàng, rồi cắt sợi để dệt vào giữa màu xanh tím, vào giữa màu tía, vào giữa đỏ son, và vào giữa gai dầu — công việc của người thợ khéo kế.",
+  "tokens": [
+    {
+      "surface": "וירקעו",
+      "gloss": "và họ dập mỏng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các lá vàng"
+    },
+    {
+      "surface": "פחי",
+      "gloss": "các lá"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "vàng"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "và cắt"
+    },
+    {
+      "surface": "פתילם",
+      "gloss": "sợi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "để làm"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "vào giữa"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "màu xanh tím"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "và vào giữa"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "màu tía"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "và vào giữa"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "sâu"
+    },
+    {
+      "surface": "השני",
+      "gloss": "đỏ son"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "và vào giữa"
+    },
+    {
+      "surface": "השש",
+      "gloss": "gai dầu"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "công việc"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "người khéo kế"
+    }
+  ],
+  "timestamp": "2026-08-19T02:38:56.224229007Z",
+  "model": "glm-5.3"
+}

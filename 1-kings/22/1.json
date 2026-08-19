@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Và ⟨họ⟩ cứ ở yên ba năm, không có chiến tranh giữa Aram và giữa Yisra'el.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "và họ ở yên"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "năm"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "chiến tranh"
+    },
+    {
+      "surface": "בין",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "và giữa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-19T03:55:42.164254352Z",
+  "model": "glm-5.3"
+}

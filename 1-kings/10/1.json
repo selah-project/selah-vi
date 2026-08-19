@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Và nữ vương của Shva nghe ⟨את⟩ tin đồn về Shlomoh, vì danh Yahweh, và bà đến để thử ông bằng những câu đố.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "và nữ vương"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "của Shva"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "nghe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tin đồn"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "tin đồn"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "về Shlomoh"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "vì danh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "và bà đến"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "để thử ông"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "bằng những câu đố"
+    }
+  ],
+  "timestamp": "2026-08-19T03:50:21.787153349Z",
+  "model": "glm-5.3"
+}

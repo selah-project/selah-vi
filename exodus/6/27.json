@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 6:27",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Họ là những người đã nói với Paroh, vua của Mitzrayim, để đưa ⟨את⟩ con cái Yisrael ra khỏi Mitzrayim — chính là Moshe và Aharon.",
+  "tokens": [
+    {
+      "surface": "הם",
+      "gloss": "họ"
+    },
+    {
+      "surface": "המדברים",
+      "gloss": "những người đã nói"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua của"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "để đưa ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con cái Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "khỏi Mitzrayim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chính là"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "và Aharon"
+    }
+  ],
+  "timestamp": "2026-08-19T02:28:48.843158935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 2:15",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Paro nghe ⟨את⟩ việc này, và tìm cách giết ⟨את⟩ Moshe; nhưng Moshe trốn khỏi mặt Paro, và ở trong đất Midyan, và ngồi xuống bên giếng.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nghe"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "việc này"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "việc"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "và tìm cách"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "giết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "và (ông) trốn"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "khỏi mặt"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "và ở"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trong đất"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "và ngồi"
+    },
+    {
+      "surface": "על",
+      "gloss": "bên"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "giếng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:27:28.611760632Z",
+  "model": "glm-5.3"
+}

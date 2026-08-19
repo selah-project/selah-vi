@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 15:12",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Và ⟨he⟩ đuổi những kẻ thánh dâm khỏi đất, và loại bỏ ⟨את⟩ tất cả các tượng thần mà cha ông ông đã làm.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "và đuổi đi"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "những kẻ thánh dâm"
+    },
+    {
+      "surface": "מן",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "và loại bỏ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả các tượng thần"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "các tượng thần"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "cha ông của ông"
+    }
+  ],
+  "timestamp": "2026-08-19T03:52:31.498731818Z",
+  "model": "glm-5.3"
+}

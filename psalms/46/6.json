@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 46,
+  "translation": "Elohim ở giữa nàng — nàng sẽ không lung lay; Elohim sẽ trợ giúp nàng ngay khi rạng đông.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "ở giữa nàng"
+    },
+    {
+      "surface": "בל",
+      "gloss": "không"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "lung lay"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "sẽ trợ giúp nàng"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "ngay khi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "rạng đông"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:34.413750818Z",
+  "model": "glm-5.3"
+}

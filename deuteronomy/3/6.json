@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 3:6",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Chúng tôi đã tận diệt ⟨את⟩ họ, như chúng tôi đã làm cho Sichon vua của Cheshbon — tận diệt mọi thành: ⟨את⟩ đàn ông, ⟨את⟩ phụ nữ, và ⟨את⟩ trẻ nhỏ.",
+  "tokens": [
+    {
+      "surface": "ונחרם",
+      "gloss": "và chúng tôi đã tận diệt"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ họ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "chúng tôi đã làm"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "cho Sichon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Cheshbon"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "tận diệt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "thành"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "đàn ông"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "phụ nữ"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "và trẻ nhỏ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:04:24.540498880Z",
+  "model": "glm-5.3"
+}

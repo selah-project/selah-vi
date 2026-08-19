@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Ai đã tạo hình một El, và tạc tượng đúc, để chẳng lợi ích gì?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "đã tạo hình"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "và tượng"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "đúc"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "để chẳng"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "lợi ích gì"
+    }
+  ],
+  "timestamp": "2026-08-19T04:12:22.700313964Z",
+  "model": "glm-5.3"
+}

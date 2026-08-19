@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và đây là luật của lễ chay: hãy dâng ⟨את⟩ nó, hỡi các con trai của Aharon, trước mặt Yahweh, trước bàn thờ.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "và đây"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "luật"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "của lễ chay"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "hãy dâng"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nó (lễ chay)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "các con trai"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "của Aharon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "của bàn thờ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:40:43.566285496Z",
+  "model": "glm-5.3"
+}

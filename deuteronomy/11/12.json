@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "đất mà Yahweh Elohim ngươi tìm kiếm ⟨את⟩ nó không ngừng; mắt của Yahweh Elohim ngươi luôn luôn trên nó, từ khởi đầu năm cho đến cuối năm.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ngươi"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "tìm kiếm"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nó (đất)"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "không ngừng"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mắt của"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ngươi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "trên nó"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "từ khởi đầu"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "năm"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "cuối"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "năm"
+    }
+  ],
+  "timestamp": "2026-08-19T03:07:38.523476748Z",
+  "model": "glm-5.3"
+}

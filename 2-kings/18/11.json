@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Vua Ashur bắt đày ⟨את⟩ Yisrael sang Ashur, và đặt họ tại Chalach, tại Chavor, sông của Gozan, và các thành của Madai.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "và bắt đày"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "sang Ashur"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "và đặt họ"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "tại Chalach"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "tại Chavor"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "sông của"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "và các thành"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Madai"
+    }
+  ],
+  "timestamp": "2026-08-19T04:00:57.673453978Z",
+  "model": "glm-5.3"
+}

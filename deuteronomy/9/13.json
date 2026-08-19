@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và Yahweh phán cùng tôi, rằng: Ta đã thấy ⟨את⟩ dân này, và kìa, ⟨đó là⟩ một dân cứng cổ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và Ngài phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cùng tôi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ta đã thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân này"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "và kìa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "một dân"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "cứng"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "cổ (gáy)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨đó là⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T03:07:04.817095333Z",
+  "model": "glm-5.3"
+}

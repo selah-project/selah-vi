@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Elohim đến gặp Bilam, và ⟨he⟩ nói với Người: ⟨את⟩ bảy bàn thờ tôi đã sắp đặt, và tôi dâng lên bò đực và cừu đực trên bàn thờ.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "và đến gặp"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "với Người"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bảy bàn thờ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "bảy"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "tôi đã sắp đặt"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "và tôi dâng lên"
+    },
+    {
+      "surface": "פר",
+      "gloss": "bò đực"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "và cừu đực"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "trên bàn thờ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:00:29.315000864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 8:9",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Người đội cái mũ mitra lên đầu ông, và đặt lên cái mũ mitra, ngay trước mặt ông, ⟨את⟩ tấm kim vàng, dấu hiệu thánh hiến thánh, như Yahweh đã phán dặn ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "và người đặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cái mũ mitra"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "cái mũ mitra"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "đầu ông"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "và người đặt"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "cái mũ mitra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ngay trước"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mặt ông"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tấm kim vàng"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "tấm kim"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "vàng"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "dấu hiệu thánh hiến"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "thánh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "đã phán dặn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-19T02:41:04.286733985Z",
+  "model": "glm-5.3"
+}

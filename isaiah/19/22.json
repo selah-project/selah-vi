@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Yahweh sẽ đánh ⟨את⟩ Mitzrayim, đánh rồi lại chữa lành; chúng sẽ quay về với Yahweh, Ngài sẽ được ~~lời khẩn cầu của chúng~~ và chữa lành chúng.",
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "và sẽ đánh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitzrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "đánh"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "và chữa lành"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "và chúng sẽ quay về"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến với"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "và sẽ được ~~lời khẩn cầu~~"
+    },
+    {
+      "surface": "להם",
+      "gloss": "của chúng"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "và chữa lành chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:07:10.798226418Z",
+  "model": "glm-5.3"
+}

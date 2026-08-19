@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 119:62",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Nửa đêm tôi sẽ dậy để cảm tạ Ngài, vì các phán quyết công bình của Ngài.",
+  "tokens": [
+    {
+      "surface": "חצות",
+      "gloss": "nửa"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "đêm"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "tôi sẽ dậy"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "để cảm tạ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "các phán quyết"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "công bình của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:35.015971895Z",
+  "model": "glm-5.3"
+}

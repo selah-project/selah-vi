@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Thì các đầy tớ của vua ở cổng vua nói với Mordecai: Sao ngươi vi phạm ⟨את〕 mệnh lệnh của vua?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "thì nói"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "các đầy tớ của"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ở"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "cổng"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "với Mordecai"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "sao"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "vi phạm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mệnh lệnh của vua"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mệnh lệnh của"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    }
+  ],
+  "timestamp": "2026-08-19T05:34:44.947274301Z",
+  "model": "glm-5.3"
+}

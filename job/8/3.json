@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Há El làm lệch ⟨sự⟩ phán xét, hay Shaddai làm lệch sự công chính?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "há El"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "làm lệch"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "phán xét"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "hay"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "làm lệch"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sự công chính"
+    }
+  ],
+  "timestamp": "2026-08-19T05:21:26.922223757Z",
+  "model": "glm-5.3"
+}

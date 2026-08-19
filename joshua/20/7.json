@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 20:7",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Và họ đã biệt riêng ⟨את⟩ Kedesh ở Galil trong núi Naphtali, và ⟨את⟩ Shekhem trong núi Efrayim, và ⟨את⟩ Kiryat-Arba — ấy là Chevron — trong núi Yehudah.",
+  "tokens": [
+    {
+      "surface": "ויקדשו",
+      "gloss": "và họ đã biệt riêng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedesh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedesh"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "ở Galil"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "trong núi"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naphtali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Shekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "trong núi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Kiryat-Arba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ấy là"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "trong núi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-19T03:21:00.892081209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "để đất không mửa ra ⟨את⟩ các ngươi khi các ngươi làm ô uế nó, ⟨את⟩ như nó đã mửa ra ⟨את⟩ dân tộc ở trước mặt các ngươi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "để không"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "mửa ra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ các ngươi",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "khi các ngươi làm ô uế"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ nó",
+      "marks": "nó (đất)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "đã mửa ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân tộc"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "dân tộc"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ở trước mặt các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:44:52.727459966Z",
+  "model": "glm-5.3"
+}

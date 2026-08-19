@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 134,
+  "translation": "Nguyện Yahweh từ Tsiyon chúc phước cho ngươi, Đấng làm ra các tầng trời và đất.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "nguyện Ngài chúc phước cho ngươi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "từ Tsiyon"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Đấng làm ra"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "các tầng trời"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "và đất"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:48.333969900Z",
+  "model": "glm-5.3"
+}

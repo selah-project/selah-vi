@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 75,
+  "translation": "Vì Elohim ⟨là⟩ Đấng xét đoán: người này Ngài hạ xuống, và người kia Ngài nhấc lên.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "xét đoán"
+    },
+    {
+      "surface": "זה",
+      "gloss": "người này"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "Ngài hạ xuống"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "và người kia"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "Ngài nhấc lên"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:34.990334542Z",
+  "model": "glm-5.3"
+}

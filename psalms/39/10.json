@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 39,
+  "translation": "Tôi đã nín lặng, tôi không mở miệng mình; vì chính ⟨bạn⟩ — ⟨אתה⟩ — đã làm điều đó.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "tôi đã nín lặng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "tôi mở"
+    },
+    {
+      "surface": "פי",
+      "gloss": "miệng mình"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "chính ngài"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "đã làm"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:28.882739625Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 77,
+  "translation": "Tiếng sấm của Ngài vang trong xoáy nước; các tia chớp soi sáng ⟨thế giới⟩; trái đất run rẩy và chuyển động.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "tiếng"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "sấm của Ngài"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "trong xoáy nước"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "soi sáng"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "các tia chớp"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "thế giới"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "run rẩy"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "và chuyển động"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "trái đất"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:51.400184765Z",
+  "model": "glm-5.3"
+}

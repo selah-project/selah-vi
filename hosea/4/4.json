@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Dẫu vậy, chớ có người nào tranh cãi, và chớ trách móc ai; vì dân ngươi như những kẻ tranh cãi với thầy tế lễ.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "dẫu vậy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người nào"
+    },
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "tranh cãi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và chớ"
+    },
+    {
+      "surface": "יוכח",
+      "gloss": "trách móc"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ai"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "và dân ngươi"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "như những kẻ tranh cãi với"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "thầy tế lễ"
+    }
+  ],
+  "timestamp": "2026-08-19T06:16:11.875798462Z",
+  "model": "glm-5.3"
+}

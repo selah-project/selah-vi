@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 83,
+  "translation": "Hỡi Elohai của con, hãy khiến chúng như vật lăn, như rơm rạ trước gió.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohai của con"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "hãy khiến chúng"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "như vật lăn"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "như rơm rạ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "gió"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:45.142237494Z",
+  "model": "glm-5.3"
+}

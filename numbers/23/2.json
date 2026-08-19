@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 23:2",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Balak làm đúng như Bilam đã nói, và Balak cùng Bilam dâng lên mỗi bàn thờ một con bò đực và một con cừu đực.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "và làm"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "đã nói"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "và dâng lên"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "ובלעם",
+      "gloss": "và Bilam"
+    },
+    {
+      "surface": "פר",
+      "gloss": "bò đực"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "và cừu đực"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "trên bàn thờ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:00:29.314582153Z",
+  "model": "glm-5.3"
+}

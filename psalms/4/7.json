@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Nhiều người đang nói: Ai sẽ cho chúng tôi thấy điều tốt? Hãy giơ lên trên chúng tôi ánh sáng của mặt Ngài, Yahweh",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "nhiều người"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "đang nói"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "sẽ cho chúng tôi thấy"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "điều tốt"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "hãy giơ lên"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "trên chúng tôi"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ánh sáng"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "của mặt Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T04:54:46.576058038Z",
+  "model": "glm-5.3"
+}

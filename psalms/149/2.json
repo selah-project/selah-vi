@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 149,
+  "translation": "Israel hãy vui mừng trong Đấng đã làm nên mình, con cái Tsiyon hãy nhảy múa reo vui trong vua của chúng.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "hãy vui mừng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "trong Đấng đã làm nên mình"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "hãy nhảy múa reo vui"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "trong vua của họ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:22.918867721Z",
+  "model": "glm-5.3"
+}

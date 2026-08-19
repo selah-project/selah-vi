@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 106,
+  "translation": "Xin hãy nhớ đến con, Yahweh, trong ⟨sự⟩ đẹp lòng ⟨với⟩ dân Ngài; xin hãy thăm con trong ⟨sự⟩ cứu giúp của Ngài.",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "xin hãy nhớ đến con"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "trong sự đẹp lòng"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dân Ngài"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "xin hãy thăm con"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "trong sự cứu giúp của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:03.955292116Z",
+  "model": "glm-5.3"
+}

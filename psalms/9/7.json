@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Kẻ thù đã tuyệt diệt, hoang tàn đến đời đời; các thành Ngài đã nhổ lên, ký ức của chúng đã mất, đó là chúng.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "kẻ thù"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "đã tuyệt diệt"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "hoang tàn"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "đến đời đời"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "và các thành"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "Ngài đã nhổ lên"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "đã mất"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ký ức của chúng"
+    },
+    {
+      "surface": "המה",
+      "gloss": "đó là chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:55:51.978074548Z",
+  "model": "glm-5.3"
+}

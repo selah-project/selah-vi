@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 26:6",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Người Mitsrayim làm ác với ⟨את⟩ chúng ta, và hành hạ chúng ta, và đặt lên chúng ta dịch vụ khắc nghiệt.",
+  "tokens": [
+    {
+      "surface": "וירעו",
+      "gloss": "và làm ác"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "chúng ta"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "người Mitsrayim"
+    },
+    {
+      "surface": "ויענונו",
+      "gloss": "và hành hạ chúng ta"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "và đặt"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "lên chúng ta"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "dịch vụ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "khắc nghiệt"
+    }
+  ],
+  "timestamp": "2026-08-19T03:11:50.350413690Z",
+  "model": "glm-5.3"
+}

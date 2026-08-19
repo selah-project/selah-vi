@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 104,
+  "translation": "Kìa ⟨là⟩ biển cả, rộng lớn hai bên tay, nơi đó có các sinh vật bò sát không thể đếm xuể, sinh vật nhỏ cùng sinh vật lớn.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "kìa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "biển"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lớn"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "và rộng"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "hai bên tay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nơi đó"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "sinh vật bò sát"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "và không có"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "số đếm"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "sinh vật"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "nhỏ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cùng"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "lớn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:19.103553139Z",
+  "model": "glm-5.3"
+}

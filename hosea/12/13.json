@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 12:13",
+  "book": "hosea",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Va Yaakov chạy trốn sang đồng Aram, va Yitsrael phục vụ vì một người vợ, và vì một người vợ mà người canh giữ.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "và chạy trốn"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "đồng"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "và phục vụ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yitsrael"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "vì một người vợ"
+    },
+    {
+      "surface": "ובאשה",
+      "gloss": "và vì một người vợ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "canh giữ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:45:02.251767622Z",
+  "model": "glm-5.3"
+}

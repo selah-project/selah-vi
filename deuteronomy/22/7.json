@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Hãy tha cho đành — tha chim mẹ, còn chim con ngươi hãy bắt lấy cho mình, để điều lành xảy đến cho ngươi và ngươi được kéo dài ngày.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "tha cho đành —"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "tha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chim mẹ"
+    },
+    {
+      "surface": "האם",
+      "gloss": "chim mẹ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "chim con"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "chim con"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "hãy bắt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho mình"
+    },
+    {
+      "surface": "למען",
+      "gloss": "để"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "điều lành xảy đến"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngươi"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "và ngươi được kéo dài"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ngày"
+    }
+  ],
+  "timestamp": "2026-08-19T03:10:25.199620299Z",
+  "model": "glm-5.3"
+}

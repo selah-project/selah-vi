@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 8:23",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và ⟨את⟩ vua của Ai họ bắt sống, và đem ⟨את⟩ ông đến với Yehoshua.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "vua của Ai"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "העי",
+      "gloss": "của Ai"
+    },
+    {
+      "surface": "תפשו",
+      "gloss": "họ bắt"
+    },
+    {
+      "surface": "חי",
+      "gloss": "sống"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "và họ đem đến"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ông",
+      "marks": "ông"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến với"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    }
+  ],
+  "timestamp": "2026-08-19T03:17:25.579304653Z",
+  "model": "glm-5.3"
+}

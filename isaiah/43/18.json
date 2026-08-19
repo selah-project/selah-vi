@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 43:18",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 43,
+  "translation": "Chớ nhớ những sự việc thứ nhất, và những điều thuở xưa chớ suy xét.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תזכרו",
+      "gloss": "nhớ"
+    },
+    {
+      "surface": "ראשנות",
+      "gloss": "những sự việc thứ nhất"
+    },
+    {
+      "surface": "וקדמניות",
+      "gloss": "và những điều thuở xưa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תתבננו",
+      "gloss": "suy xét"
+    }
+  ],
+  "timestamp": "2026-08-19T04:12:12.628903235Z",
+  "model": "glm-5.3"
+}

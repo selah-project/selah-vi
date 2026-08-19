@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 24:23",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Và ⟨anh⟩ nói: Con-gái của ai là ngươi? Xin nàng cho tôi biết: trong nhà cha của ngươi có chỗ cho chúng-tôi ngủ-lại không?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và ⟨anh⟩ nói"
+    },
+    {
+      "surface": "בת",
+      "gloss": "con-gái"
+    },
+    {
+      "surface": "מי",
+      "gloss": "của ai"
+    },
+    {
+      "surface": "את",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "הגידי",
+      "gloss": "hãy cho biết"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    },
+    {
+      "surface": "היש",
+      "gloss": "có... không"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "cha của ngươi"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "chỗ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "cho chúng-tôi"
+    },
+    {
+      "surface": "ללין",
+      "gloss": "để ngủ-lại"
+    }
+  ],
+  "timestamp": "2026-08-19T02:23:42.348766944Z",
+  "model": "glm-5.3"
+}

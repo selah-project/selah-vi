@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 35,
+  "translation": "và ⟨את⟩ chân đèn của ánh sáng và ⟨את⟩ các dụng cụ của nó và ⟨את⟩ các ngọn đèn của nó, và ⟨את⟩ dầu cho ánh sáng;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "chân đèn của ánh sáng"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "chân đèn của"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "ánh sáng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các dụng cụ của nó"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "các dụng cụ của nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các ngọn đèn của nó"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "các ngọn đèn của nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "dầu của ánh sáng"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "dầu"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "của ánh sáng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:37:51.319345314Z",
+  "model": "glm-5.3"
+}

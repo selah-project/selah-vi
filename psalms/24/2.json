@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Vì chính ⟨Ngài⟩ đã lập nó trên các biển, và trên các dòng sông ⟨Ngài⟩ đã закреп lập nó.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chính Ngài"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "các biển"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "đã lập nó"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "và trên"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "các dòng sông"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "đã закреп lập nó"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:25.679112184Z",
+  "model": "glm-5.3"
+}

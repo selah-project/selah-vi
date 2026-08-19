@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 66,
+  "translation": "Đáng chúc tụng là Elohim, Đấng không đóng bỏ lời cầu nguyện tôi, và sự nhân từ của Ngài, ⟨את⟩ khỏi với tôi.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "đáng chúc tụng"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Đấng mà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "đóng bỏ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "lời cầu nguyện tôi"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "và sự nhân từ của Ngài"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ khỏi với tôi",
+      "marks": "lời cầu nguyện tôi, và sự nhân từ của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:28.753918776Z",
+  "model": "glm-5.3"
+}

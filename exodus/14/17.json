@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 14:17",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Còn ta, này, ta đang làm cho ⟨את⟩ lòng Mitsrayim cứng lại, và chúng sẽ đuổi theo sau họ; và ta sẽ được tôn vinh nơi Paroh, trong toàn thể quân lực của ông, trong các chiến xa của ông và trong các kỵ binh của ông.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "còn ta"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "này"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "làm cứng lại"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lòng"
+    },
+    {
+      "surface": "לב",
+      "gloss": "lòng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "và chúng sẽ đi theo"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "sau họ"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "và ta sẽ được tôn vinh"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "nơi Paroh"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "và trong toàn thể"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "quân lực của ông"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "trong các chiến xa của ông"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "và trong các kỵ binh của ông"
+    }
+  ],
+  "timestamp": "2026-08-19T02:31:35.376446288Z",
+  "model": "glm-5.3"
+}

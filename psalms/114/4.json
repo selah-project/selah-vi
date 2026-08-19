@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 114,
+  "translation": "Các núi nhảy múa như bê đực, các đồi như chiên con.",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "các núi"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "nhảy múa"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "như bê đực"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "các đồi"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "như con của"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "đàn chiên"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:00.762793353Z",
+  "model": "glm-5.3"
+}

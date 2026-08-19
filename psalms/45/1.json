@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 45,
+  "translation": "Cho đốc ca, theo điệu « Bách Hợp », của con cháu Korach, một thơ dạy khôn ngoan, một khúc ca tình yêu.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "cho đốc ca"
+    },
+    {
+      "surface": "על",
+      "gloss": "theo điệu"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Bách Hợp"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "của con cháu"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "thơ dạy khôn ngoan"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "khúc ca"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "tình yêu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:48.520742308Z",
+  "model": "glm-5.3"
+}

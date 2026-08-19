@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 2:8",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và Eliyahu lấy ⟨את⟩ áo choàng của mình và cuộn lại, rồi đánh ⟨את⟩ nước; nước liền chia ra bên này và bên kia, và cả hai đi qua trên đất khô.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "và lấy"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "áo choàng của mình"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "áo choàng của ông"
+    },
+    {
+      "surface": "ויגלם",
+      "gloss": "và cuộn lại"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "và đánh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nước"
+    },
+    {
+      "surface": "המים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "ויחצו",
+      "gloss": "và bị chia đôi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bên này"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "và bên kia"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "và đi qua"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "cả hai"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "trên đất khô"
+    }
+  ],
+  "timestamp": "2026-08-19T03:55:53.615618852Z",
+  "model": "glm-5.3"
+}

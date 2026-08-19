@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "chỉ không phải kiểm điểm với ⟨את⟩ họ bạc đã được trao vào tay họ, vì trong sự tín trung họ đang làm.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "chỉ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "phải kiểm điểm"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "với ⟨את⟩",
+      "marks": "họ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "bạc"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "được trao"
+    },
+    {
+      "surface": "על",
+      "gloss": "vào"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "tay họ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "trong sự tín trung"
+    },
+    {
+      "surface": "הם",
+      "gloss": "họ"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "đang làm"
+    }
+  ],
+  "timestamp": "2026-08-19T04:02:05.045324424Z",
+  "model": "glm-5.3"
+}

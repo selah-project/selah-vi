@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Sau Yahweh Elohim của các ngươi các ngươi sẽ đi, và ⟨את⟩ Ngài các ngươi sẽ kính sợ, và ⟨את⟩ các điều răn của Ngài các ngươi sẽ giữ, và bởi tiếng của Ngài các ngươi sẽ nghe, và ⟨את⟩ Ngài các ngươi sẽ phụng sự, và trong Ngài các ngươi sẽ gắn bó.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "sau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim của các ngươi"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "các ngươi sẽ đi"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "Ngài (đối tượng của 'kính sợ')"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "các ngươi sẽ kính sợ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "các điều răn của Ngài"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "các điều răn của Ngài"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "các ngươi sẽ giữ"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "và bởi tiếng của Ngài"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "các ngươi sẽ nghe"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "Ngài (đối tượng của 'phụng sự')"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "các ngươi sẽ phụng sự"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "và trong Ngài"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "các ngươi sẽ gắn bó"
+    }
+  ],
+  "timestamp": "2026-08-19T03:08:50.881493971Z",
+  "model": "glm-5.3"
+}

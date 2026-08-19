@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 2:14",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và người nói: Tôi có một lời với bà; và bà nói: Hãy nói.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và người nói"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "một lời"
+    },
+    {
+      "surface": "לי",
+      "gloss": "với tôi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "với bà"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "và bà nói"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Hãy nói"
+    }
+  ],
+  "timestamp": "2026-08-19T03:47:17.245492911Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và họ nhấc ⟨את⟩ Yonah lên và ném ⟨את⟩ ông vào biển, và biển đứng yên khỏi cơn thịnh nộ của nó.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "và họ nhấc lên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "và họ ném ông"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vào"
+    },
+    {
+      "surface": "הים",
+      "gloss": "biển"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "và nó đứng yên"
+    },
+    {
+      "surface": "הים",
+      "gloss": "biển"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "khỏi cơn thịnh nộ của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T04:48:45.394840468Z",
+  "model": "glm-5.3"
+}

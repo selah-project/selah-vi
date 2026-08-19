@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 21:18",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Kẻ gian ác ⟨là⟩ giá chuộc thay cho người công bình, và kẻ phản bội thay cho những người ngay thẳng.",
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "giá chuộc"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "cho người công bình"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kẻ gian ác"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "và thay cho"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "những người ngay thẳng"
+    },
+    {
+      "surface": "בוגד",
+      "gloss": "kẻ phản bội"
+    }
+  ],
+  "timestamp": "2026-08-19T05:18:02.882019039Z",
+  "model": "glm-5.3"
+}

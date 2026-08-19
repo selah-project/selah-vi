@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và Terach sống bảy mươi năm, và sinh ⟨את⟩ Avram, ⟨את⟩ Nachor, và ⟨את⟩ Haran.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "và sống"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terach"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "bảy mươi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "năm"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "và sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    }
+  ],
+  "timestamp": "2026-08-19T00:55:20.370771581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 111:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 111,
+  "translation": "Sự cứu chuộc Ngài đã gửi đến cho dân sự Ngài; Ngài đã truyền lệnh ⟨את⟩ giao ước của Ngài đến muôn đời; thánh và đáng kính sợ ⟨là⟩ danh Ngài.",
+  "tokens": [
+    {
+      "surface": "פדות",
+      "gloss": "sự cứu chuộc"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "đã gửi"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "cho dân sự Ngài"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "đã truyền lệnh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "đến muôn đời"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "giao ước của Ngài"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "thánh"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "và đáng kính sợ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "danh Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T06:19:03.389479040Z",
+  "model": "glm-5.3"
+}

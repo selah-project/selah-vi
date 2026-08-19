@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Cho nhạc trưởng, theo đàn Nehiloth, thánh thi của David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "cho nhạc trưởng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "theo"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "đàn Nehiloth"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "thánh thi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "của David"
+    }
+  ],
+  "timestamp": "2026-08-19T04:55:13.757883824Z",
+  "model": "glm-5.3"
+}

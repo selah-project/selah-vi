@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 34,
+  "translation": "Và họ nói: Như một kỹ nữ mà người ta xử ⟨את⟩ chị của chúng tôi sao?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "và họ nói"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "như một kỹ nữ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "người ta xử"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chị của chúng tôi"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "chị của chúng tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T01:20:17.837976422Z",
+  "model": "glm-5.3"
+}

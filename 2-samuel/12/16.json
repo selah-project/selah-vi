@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "David cầu xin ⟨את⟩ Elohim cho đứa trẻ; David giữ mục kiêng ăn, rồi đi vào, qua đêm, và nằm xuống đất.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "cầu xin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "cho"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "đứa trẻ"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "giữ mục"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "צום",
+      "gloss": "kiêng ăn"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "đi vào"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "qua đêm"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "nằm xuống"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "xuống đất"
+    }
+  ],
+  "timestamp": "2026-08-19T03:41:43.689234480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 69:22",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 69,
+  "translation": "Và họ đưa cho thức ăn tôi độc dược, và cho khát của tôi họ cho uống giấm.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "và họ đưa cho"
+    },
+    {
+      "surface": "בברותי",
+      "gloss": "trong thức ăn của tôi"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "độc dược"
+    },
+    {
+      "surface": "ולצמאי",
+      "gloss": "và cho cơn khát của tôi"
+    },
+    {
+      "surface": "ישקוני",
+      "gloss": "họ cho tôi uống"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "giấm"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:03.893381788Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 10:2",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Tôi sẽ nói với Eloah: Đừng bắt tội tôi; xin cho tôi biết vì cớ gì Ngài tranh chấp với tôi.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "tôi sẽ nói"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תרשיעני",
+      "gloss": "bắt tội tôi"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "cho tôi biết"
+    },
+    {
+      "surface": "על",
+      "gloss": "về"
+    },
+    {
+      "surface": "מה",
+      "gloss": "điều gì"
+    },
+    {
+      "surface": "תריבני",
+      "gloss": "Ngài tranh chấp với tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:22:42.735066190Z",
+  "model": "glm-5.3"
+}

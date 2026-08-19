@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 44:25",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Sao Ngài che giấu mặt Ngài, quên⟨đi⟩ khổ nạn của chúng tôi và áp bức của chúng tôi?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "sao"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "mặt Ngài"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "che giấu"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "quên"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "khổ nạn của chúng tôi"
+    },
+    {
+      "surface": "ולחצנו",
+      "gloss": "và áp bức của chúng tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:11.584698347Z",
+  "model": "glm-5.3"
+}

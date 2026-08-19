@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và Aharon giơ ⟨את⟩ tay mình ra trên nước của Mitsrayim, và con ếch nổi lên, và nó phủ ⟨את⟩ đất Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "và giơ ra"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tay mình"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tay mình"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "nước của"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "và nổi lên"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "con ếch"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "và phủ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đất"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T02:29:23.323043795Z",
+  "model": "glm-5.3"
+}

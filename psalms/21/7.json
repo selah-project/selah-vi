@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Vì Ngài đặt chàng nên phước lành cho đến đời đời; Ngài làm chàng vui mừng cùng niềm vui ⟨את⟩ nhan ⟨của⟩ Ngài.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "Ngài đặt chàng"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "phước lành"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "cho đến đời đời"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "Ngài làm chàng vui mừng"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "cùng niềm vui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhan Ngài"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nhan Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:05.954189637Z",
+  "model": "glm-5.3"
+}

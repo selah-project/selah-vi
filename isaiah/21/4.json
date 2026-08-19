@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Lòng tôi lang lạc, sự kinh hãi đã làm tôi khiếp đảm; ⟨את⟩ giờ hoàng hôn tôi ưa thích đã trở thành cho tôi sự run rẩy.",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "lang lạc"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "lòng tôi"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "sự kinh hãi"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "đã làm tôi khiếp đảm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "giờ hoàng hôn tôi ưa thích"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "giờ hoàng hôn"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "tôi ưa thích"
+    },
+    {
+      "surface": "שם",
+      "gloss": "đã trở thành"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "sự run rẩy"
+    }
+  ],
+  "timestamp": "2026-08-19T04:07:32.249211035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Chim của ⟨ה⟩ trời, và cá của biển — kẻ đi qua các lối đường của biển.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "chim"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "trời"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "và cá của"
+    },
+    {
+      "surface": "הים",
+      "gloss": "biển"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "đi qua"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "các lối đường"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "của biển"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:17.741562313Z",
+  "model": "glm-5.3"
+}

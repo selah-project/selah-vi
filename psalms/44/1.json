@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Cho đốc ca, cho con cái Korach, một bài Maskil.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "cho đốc ca"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "cho con cái"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Maskil (bài trí tuệ)"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:13.369676208Z",
+  "model": "glm-5.3"
+}

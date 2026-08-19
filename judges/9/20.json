@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 9:20",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "nhưng nếu không, thì xin lửa xuất ra từ Avimelekh và nuốt ⟨את⟩ các chủ nhân của Shkhem và ⟨את⟩ nhà Milo; và lửa xuất ra từ các chủ nhân của Shkhem và từ nhà Milo, và nuốt ⟨את⟩ Avimelekh.\"",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "nhưng nếu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "xuất ra"
+    },
+    {
+      "surface": "אש",
+      "gloss": "lửa"
+    },
+    {
+      "surface": "מאבימלך",
+      "gloss": "từ Avimelekh"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "và nuốt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các chủ nhân của Shkhem"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "các chủ nhân"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shkhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "nhà Milo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "và xuất ra"
+    },
+    {
+      "surface": "אש",
+      "gloss": "lửa"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "từ các chủ nhân"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shkhem"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "và từ nhà"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "và nuốt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelekh"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    }
+  ],
+  "timestamp": "2026-08-19T03:25:31.458728699Z",
+  "model": "glm-5.3"
+}

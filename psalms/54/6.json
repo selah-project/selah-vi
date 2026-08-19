@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 54,
+  "translation": "Này, Elohim ⟨là⟩ Đấng giúp đỡ tôi; Adonai ⟨là⟩ cùng những kẻ nâng đỡ sinh mạng tôi.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "này"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "giúp đỡ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "cùng những kẻ nâng đỡ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sinh mạng tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:30.428806384Z",
+  "model": "glm-5.3"
+}

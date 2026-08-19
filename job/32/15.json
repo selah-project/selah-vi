@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 32:15",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Chúng kinh sợ, không đáp nữa; lời nói đã lìa khỏi chúng.",
+  "tokens": [
+    {
+      "surface": "חתו",
+      "gloss": "chúng kinh sợ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "đáp"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nữa"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "đã lìa đi"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "khỏi chúng"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "lời nói"
+    }
+  ],
+  "timestamp": "2026-08-19T05:26:13.731145390Z",
+  "model": "glm-5.3"
+}

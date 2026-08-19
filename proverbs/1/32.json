@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 1:32",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Vì sự bội phản của kẻ ngây dại sẽ giết chúng nó, và sự an nhàn của kẻ dại dột sẽ hủy diệt chúng nó.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "משובת",
+      "gloss": "sự bội phản"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "kẻ ngây dại"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "sẽ giết chúng nó"
+    },
+    {
+      "surface": "ושלות",
+      "gloss": "và sự an nhàn"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "kẻ dại dột"
+    },
+    {
+      "surface": "תאבדם",
+      "gloss": "sẽ hủy diệt chúng nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:59.031104626Z",
+  "model": "glm-5.3"
+}

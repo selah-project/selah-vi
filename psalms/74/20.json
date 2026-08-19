@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 74,
+  "translation": "Xin đoái nhìn ⟨את⟩ giao ước, vì những nơi tối tăm của đất đã đầy những sào huyệt của bạo hành.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "xin đoái nhìn"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "giao ước"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "đã đầy"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "những nơi tối tăm"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "những sào huyệt"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "bạo hành"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:31.849392588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 15:16",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Shemuel nói với Shaül: Hãy dừng lại, và tôi sẽ kể cho ngài ⟨את⟩ điều mà Yahweh đã phán với tôi đêm nay. Và họ nói với ông: Hãy nói.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaül"
+    },
+    {
+      "surface": "הרף",
+      "gloss": "hãy dừng lại"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "và tôi sẽ kể"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngài"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "điều"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "đã phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "với tôi"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "đêm nay"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "và người ấy nói"
+    },
+    {
+      "surface": "לו",
+      "gloss": "với ông"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hãy nói"
+    }
+  ],
+  "timestamp": "2026-08-19T03:33:50.336818319Z",
+  "model": "glm-5.3"
+}

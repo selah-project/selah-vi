@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Vì Yahweh đã chuộc ⟨את⟩ Yaakov, và đã cứu chuộc nó khỏi tay kẻ mạnh hơn nó.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "đã chuộc"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "và đã cứu chuộc nó"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "khỏi tay"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "kẻ mạnh"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "hơn nó"
+    }
+  ],
+  "timestamp": "2026-08-19T04:24:38.153262440Z",
+  "model": "glm-5.3"
+}

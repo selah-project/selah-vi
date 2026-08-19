@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 22:6",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Avraham lấy ⟨את⟩ củi của lễ thiêu mà đặt trên Yitschak con trai mình; người lấy trong tay mình ⟨את⟩ lửa và ⟨את⟩ dao; và hai người cùng đi với nhau.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "lấy"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "củi của lễ thiêu"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "củi"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "của lễ thiêu"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "mà đặt"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "con trai mình"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "người lấy"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "trong tay mình"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lửa"
+    },
+    {
+      "surface": "האש",
+      "gloss": "lửa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "dao"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "dao"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "và đi"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "hai người"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "cùng với nhau"
+    }
+  ],
+  "timestamp": "2026-08-19T01:02:32.320307773Z",
+  "model": "glm-5.3"
+}

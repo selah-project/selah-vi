@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và tôi đã ghét ⟨את⟩ sự sống, vì điều làm ra dưới ánh mặt trời là điều xấu cho tôi; vì mọi sự đều là hư không và sự dằn vặt của tâm thần.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "và tôi đã ghét"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sự sống"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "sự sống"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "רע",
+      "gloss": "xấu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "cho tôi"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "công việc"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "được làm ra"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dưới"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "mặt trời"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "mọi sự"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hư không"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "và sự dằn vặt"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "của tâm thần"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:33.257759608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 26:9",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Ta sẽ quay mặt về phía các ngươi, làm cho các ngươi sinh nhiều, làm cho các ngươi thêm số, và Ta sẽ đứng vững giao ước của Ta ⟨את⟩ cùng các ngươi.",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "Ta sẽ quay về"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "về phía các ngươi"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "và Ta sẽ làm cho...sinh nhiều"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ các ngươi"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "và Ta sẽ làm cho...thêm số"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ các ngươi"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "và Ta sẽ đứng vững"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "giao ước của Ta"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "giao ước của Ta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ cùng các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:47:55.297113139Z",
+  "model": "glm-5.3"
+}

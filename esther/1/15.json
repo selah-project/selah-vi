@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Theo luật, phải làm gì với nữ hoàng Vashti, vì bà đã không làm ⟨את⟩ mệnh lệnh của vua Achashverosh bởi tay các hoạn quan?",
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "theo luật"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "phải làm"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "với nữ hoàng"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vashti"
+    },
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "bà đã làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mệnh lệnh"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "mệnh lệnh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "của vua"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bởi tay"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "các hoạn quan"
+    }
+  ],
+  "timestamp": "2026-08-19T05:35:02.385224101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 139,
+  "translation": "Và tôi nói: 'Chắc chắn sự tối tăm sẽ vùi lấp tôi, nhưng đêm tối sẽ trở thành ánh sáng quanh tôi.'",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "và tôi nói"
+    },
+    {
+      "surface": "אך",
+      "gloss": "chắc chắn"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "sự tối tăm"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "sẽ vùi lấp tôi"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "và đêm tối"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ánh sáng"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "quanh tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:37.855133237Z",
+  "model": "glm-5.3"
+}

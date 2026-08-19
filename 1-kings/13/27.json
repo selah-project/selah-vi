@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Và ông nói với các con trai mình, rằng: Hãy đóng yên ⟨את⟩ con lừa cho tôi; và chúng đã đóng yên nó.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "và ông nói"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "các con trai mình"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "hãy đóng yên"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con lừa"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "con lừa"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "và chúng đã đóng yên nó"
+    }
+  ],
+  "timestamp": "2026-08-19T06:10:05.238667199Z",
+  "model": "glm-5.3"
+}

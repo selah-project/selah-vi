@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và linh hồn con bị khuấy động vô cùng; còn ⟨את⟩ Ngài, Yahweh — ⟨thì⟩ cho đến bao lâu?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "và linh hồn con"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "bị khuấy động"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "vô cùng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩ Ngài",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "bao lâu"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:22.931962257Z",
+  "model": "glm-5.3"
+}

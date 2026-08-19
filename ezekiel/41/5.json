@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 41:5",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 41,
+  "translation": "Người đo tường nhà: sáu ammah; bề rộng gian bên: bốn ammah, vòng quanh, vòng quanh cho nhà, vòng quanh.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "và người đo"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "tường"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨của⟩ nhà"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sáu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ammah"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "và bề rộng"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "⟨của⟩ gian bên"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "bốn"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ammah"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "vòng quanh"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "vòng quanh"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "cho nhà"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "vòng quanh"
+    }
+  ],
+  "timestamp": "2026-08-19T04:42:09.637749119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Vì sự dạy dỗ tốt lành tôi đã ban cho các ngươi; luật pháp của tôi, chớ bỏ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "sự dạy dỗ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tốt lành"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "tôi đã ban"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho các ngươi"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "luật pháp của tôi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "bỏ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:14:44.757496437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Tốt thay khi ngươi nắm giữ điều này, và cũng từ điều kia chớ buông ⟨את⟩ tay ngươi; vì kẻ sợ Elohim sẽ ra khỏi tất cả chúng.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "tốt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "khi mà"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "ngươi nắm giữ"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "điều này"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "và cũng"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "từ điều kia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "buông"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tay ngươi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tay ngươi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "kẻ sợ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "sẽ ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả chúng"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "tất cả chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:34.995872760Z",
+  "model": "glm-5.3"
+}

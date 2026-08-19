@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 35:19",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 35,
+  "translation": "Người chuộc máu, chính ⟨hắn⟩, sẽ giết ⟨את⟩ kẻ sát nhân; khi gặp hắn, ⟨hắn⟩ sẽ giết hắn.",
+  "tokens": [
+    {
+      "surface": "גאל",
+      "gloss": "người chuộc"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "máu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chính hắn"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "sẽ giết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kẻ sát nhân"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "kẻ sát nhân"
+    },
+    {
+      "surface": "בפגעו",
+      "gloss": "khi gặp"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hắn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hắn"
+    },
+    {
+      "surface": "ימיתנו",
+      "gloss": "sẽ giết hắn"
+    }
+  ],
+  "timestamp": "2026-08-19T03:03:43.802150497Z",
+  "model": "glm-5.3"
+}

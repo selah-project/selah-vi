@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 18:16",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Và Ovadjahu đi ra đón Achav, và báo cho người; và Achav đi ra đón Eliyahu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "và đi"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Ovadjahu"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ra đón"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "và báo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho người"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "và đi"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ra đón"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "timestamp": "2026-08-19T03:53:29.499733816Z",
+  "model": "glm-5.3"
+}

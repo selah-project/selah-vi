@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 18:10",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Sự trần trụi của con gái con trai ngươi hay con gái con gái ngươi, ngươi chớ phơi bày sự trần trụi của chúng nó, vì ⟨đó là⟩ sự trần trụi của ngươi.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "sự trần trụi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "con gái"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "của con trai ngươi"
+    },
+    {
+      "surface": "או",
+      "gloss": "hay"
+    },
+    {
+      "surface": "בת",
+      "gloss": "con gái"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "của con gái ngươi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ngươi phơi bày"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "sự trần trụi của chúng nó"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "sự trần trụi của ngươi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "đó là"
+    }
+  ],
+  "timestamp": "2026-08-19T02:45:05.607950061Z",
+  "model": "glm-5.3"
+}

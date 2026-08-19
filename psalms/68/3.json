@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 68,
+  "translation": "Như khói bị thổi bay, ⟨hãy đuổi⟩ chúng bay đi; như sáp tan chảy từ trước mặt lửa, kẻ ác hãy bị diệt vong từ trước mặt Elohim.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "như bị thổi bay"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "khói"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "hãy bị đuổi bay"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "như tan chảy"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "sáp"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "từ trước mặt"
+    },
+    {
+      "surface": "אש",
+      "gloss": "lửa"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "hãy bị diệt vong"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "từ trước mặt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:04.303973368Z",
+  "model": "glm-5.3"
+}

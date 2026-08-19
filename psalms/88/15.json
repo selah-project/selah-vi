@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 88,
+  "translation": "Vì sao, Yahweh, Ngài ném bỏ linh hồn con, che khuất mặt Ngài khỏi con?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "vì sao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "Ngài ném bỏ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "linh hồn con"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "Ngài che giấu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "mặt của Ngài"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "khỏi con"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:27.203766781Z",
+  "model": "glm-5.3"
+}

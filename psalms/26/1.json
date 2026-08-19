@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Của David. Hãy xét xử con, Yahweh, vì con đã đi trong sự toàn vẹn của con, và con đã tin cậy nơi Yahweh, con sẽ không lung lay.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Của David"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "hãy xét xử con"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אני",
+      "gloss": "con"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "trong sự toàn vẹn của con"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "đã đi"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "và nơi Yahweh"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "đã tin cậy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "sẽ lung lay"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:02.918953190Z",
+  "model": "glm-5.3"
+}

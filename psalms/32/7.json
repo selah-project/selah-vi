@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Chính Ngài là nơi ẩn nấp cho tôi; từ cơn khốn cùng Ngài sẽ giữ gìn tôi; với tiếng hát giải cứu Ngài sẽ bao quanh tôi. Selah.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "chính Ngài"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "nơi ẩn nấp"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "từ cơn khốn cùng"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "Ngài sẽ giữ gìn tôi"
+    },
+    {
+      "surface": "רני",
+      "gloss": "với tiếng hát"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "giải cứu"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "Ngài sẽ bao quanh tôi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:11.900476631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và Yahweh phán tán ⟨את⟩ chúng khỏi đó trên mặt của cả đất, và chúng ngừng xây thành.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "phán tán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ chúng",
+      "marks": "chúng (con người)"
+    },
+    {
+      "surface": "משם",
+      "gloss": "khỏi đó"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt của"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cả"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "và ngừng"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "xây"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "thành"
+    }
+  ],
+  "timestamp": "2026-08-19T00:54:46.872705556Z",
+  "model": "glm-5.3"
+}

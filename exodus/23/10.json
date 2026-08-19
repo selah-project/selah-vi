@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Và sáu năm ngươi sẽ gieo ⟨את⟩ đất ngươi, và ngươi sẽ gom ⟨את⟩ mùa màng của nó.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "và sáu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "năm"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "ngươi sẽ gieo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đất ngươi"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "đất ngươi"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "và ngươi sẽ gom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mùa màng của nó"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "mùa màng\/sản vật của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:33:29.512395285Z",
+  "model": "glm-5.3"
+}

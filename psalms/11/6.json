@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Ngài sẽ mưa xuống trên kẻ ác bẫy lưới, lửa và lưu huỳnh, và gió thiêu đốt — ⟨đó là⟩ phần của chén chúng.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "sẽ mưa xuống"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "bẫy lưới"
+    },
+    {
+      "surface": "אש",
+      "gloss": "lửa"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "và lưu huỳnh"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "và gió"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "thiêu đốt"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "phần"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "chén chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:55:52.311348140Z",
+  "model": "glm-5.3"
+}

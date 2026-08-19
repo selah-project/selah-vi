@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Vì ⟨chúng⟩ như cỏ sẽ nhanh chóng bị cắt, và như rau xanh sẽ héo tàn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Vì"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "như cỏ"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "nhanh chóng"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "sẽ bị cắt"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "và như rau xanh"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "cỏ non"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "sẽ héo tàn"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:07.072937768Z",
+  "model": "glm-5.3"
+}

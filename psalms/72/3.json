@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 72,
+  "translation": "Các núi sẽ mang sự bình an đến cho dân, và các đồi — trong sự công chính.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "sẽ mang"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "các núi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sự bình an"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "đến cho dân"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "và các đồi"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "trong sự công chính"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:00.585698773Z",
+  "model": "glm-5.3"
+}

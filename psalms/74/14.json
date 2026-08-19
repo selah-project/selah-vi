@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 74:14",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 74,
+  "translation": "Chính Ngài đã nghiền nát các đầu của ⟨את⟩ Livyatan, Ngài ban nó làm thức ăn cho ⟨את⟩ dân, cho ⟨את⟩ dân hoang địa.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Chính Ngài"
+    },
+    {
+      "surface": "רצצת",
+      "gloss": "đã nghiền nát"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "các đầu của"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "Livyatan"
+    },
+    {
+      "surface": "תתננו",
+      "gloss": "Ngài ban nó"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "làm thức ăn"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "cho dân"
+    },
+    {
+      "surface": "לציים",
+      "gloss": "cho dân hoang địa"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:36.224517487Z",
+  "model": "glm-5.3"
+}

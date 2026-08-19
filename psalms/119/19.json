@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Kẻ khách tá ngụ ⟨là⟩ tôi trên đất; xin đừng giấu các mệnh lệnh Ngài khỏi tôi.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "kẻ khách tá ngụ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trên đất"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "ngươi giấu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "khỏi tôi"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "các mệnh lệnh của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:31.559998178Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 18:30",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Còn vua Aram đã ra lệnh cho ⟨את⟩ các quân trưởng cỗ xe thuộc về ông, rằng: \"Đừng chiến đấu với ⟨את⟩ kẻ nhỏ hay ⟨את⟩ kẻ lớn, nhưng chỉ với ⟨את⟩ vua Yisra'el mà thôi.\"",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "còn vua"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ra lệnh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các quân trưởng cỗ xe"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "các quân trưởng"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "cỗ xe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "לו",
+      "gloss": "thuộc ông"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "chiến đấu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kẻ nhỏ"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "kẻ nhỏ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kẻ lớn"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "kẻ lớn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nhưng"
+    },
+    {
+      "surface": "אם",
+      "gloss": "chỉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vua Yisra'el"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "mà thôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:57:28.923400625Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 77,
+  "translation": "Tiếng tôi ⟨đến⟩ Elohim, và tôi kêu cứu; tiếng tôi ⟨đến⟩ Elohim, và Ngài lắng nghe tôi.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "tiếng tôi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨đến⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "và tôi kêu cứu"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "tiếng tôi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨đến⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "và Ngài lắng nghe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:48.513206750Z",
+  "model": "glm-5.3"
+}

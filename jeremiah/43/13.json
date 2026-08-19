@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 43:13",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 43,
+  "translation": "Người sẽ đập vỡ ⟨את⟩ các trụ tượng của Beit-Shemesh, vốn ở trong đất Mitsrayim; và ⟨את⟩ các nhà của các elohim của Mitsrayim người sẽ thiêu trong lửa.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "sẽ đập vỡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các trụ tượng của Beit-Shemesh"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "các trụ tượng"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Shemesh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vốn"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trong đất"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các nhà của các elohim của Mitsrayim"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "các nhà"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "các elohim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "người sẽ thiêu"
+    },
+    {
+      "surface": "באש",
+      "gloss": "trong lửa"
+    }
+  ],
+  "timestamp": "2026-08-19T04:27:27.611204931Z",
+  "model": "glm-5.3"
+}

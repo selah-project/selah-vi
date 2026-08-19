@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 60,
+  "translation": "Ngài đã ban cho những kẻ kính sợ Ngài một ngọn cờ, để được giương cao vì sự chân thật. Selah.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Ngài đã ban"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "cho những kẻ kính sợ Ngài"
+    },
+    {
+      "surface": "נס",
+      "gloss": "một ngọn cờ"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "để được giương cao"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vì"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "sự chân thật"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:28.543190093Z",
+  "model": "glm-5.3"
+}

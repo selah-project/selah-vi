@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 69,
+  "translation": "Xin đừng để dòng nước cuốn trôi tôi, và đừng để vực sâu nuốt chửng tôi, và đừng để hố sâu khép miệng nó trên ⟨trên⟩ tôi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "cuốn trôi tôi"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "dòng"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và đừng"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "nuốt chửng tôi"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "vực sâu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và đừng"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "khép lại"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "trên tôi"
+    },
+    {
+      "surface": "באר",
+      "gloss": "hố sâu"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "miệng nó"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:47.534914558Z",
+  "model": "glm-5.3"
+}

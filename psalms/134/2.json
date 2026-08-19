@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 134,
+  "translation": "Hãy giơ tay các ngươi về nơi thánh, và hãy chúc phúc ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "hãy giơ"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "tay các ngươi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nơi thánh"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "và hãy chúc phúc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:48.333852941Z",
+  "model": "glm-5.3"
+}

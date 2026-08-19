@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 75,
+  "translation": "Còn tôi, tôi sẽ kể lại mãi mãi, tôi sẽ hát khen Elohim của Yaakov.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Còn tôi"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "tôi sẽ kể lại"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "mãi mãi"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "tôi sẽ hát khen"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim của"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:08.730992593Z",
+  "model": "glm-5.3"
+}

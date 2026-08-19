@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Sau ông, Ya'ir người Gil'ad đứng lên, và xét xử ⟨את⟩ Yisrael hai mươi hai năm.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "đứng dậy"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "sau ông"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Ya'ir"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "người Gil'ad"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "và xét xử"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "hai mươi"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "và hai"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "năm"
+    }
+  ],
+  "timestamp": "2026-08-19T03:24:32.092590121Z",
+  "model": "glm-5.3"
+}

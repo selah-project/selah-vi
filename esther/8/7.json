@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 8:7",
+  "book": "esther",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và vua Achashverosh nói với Ester hoàng hậu và với Mordechai người Yehuda: Này, nhà của Haman thiếp ⟨ta⟩ đã ban cho Ester, còn hắn thì họ đã treo trên cây gỗ, vì hắn đã đưa tay ra against người Yehuda.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và ngài nói"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "אחשורש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "với Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "hoàng hậu"
+    },
+    {
+      "surface": "ולמרדכי",
+      "gloss": "và với Mordechai"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "người Yehuda"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "này"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "המן",
+      "gloss": "của Haman"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ta đã ban"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "cho Ester"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "và ⟨את⟩ hắn",
+      "marks": "hắn (Haman)"
+    },
+    {
+      "surface": "תלו",
+      "gloss": "họ đã treo"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "cây gỗ"
+    },
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "hắn đã đưa ra"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tay hắn"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "ngược người Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-19T05:36:02.576247337Z",
+  "model": "glm-5.3"
+}

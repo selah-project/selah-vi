@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 13:11",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Shemuel nói: Ngươi đã làm gì? Shaun nói: Vì tôi thấy rằng dân chúng tản lạc khỏi tôi, và ngươi không đến đúng kỳ hạn những ngày, và người Philistinh đang tập hợp tại Mikmash.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ngươi đã làm"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "tôi thấy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "נפץ",
+      "gloss": "tản lạc"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân chúng"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "khỏi tôi"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "và ngài"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "באת",
+      "gloss": "đến"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "đúng kỳ hạn"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "những ngày"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "và người Philistinh"
+    },
+    {
+      "surface": "נאספים",
+      "gloss": "tập hợp"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Mikmash"
+    }
+  ],
+  "timestamp": "2026-08-19T03:31:56.457097786Z",
+  "model": "glm-5.3"
+}

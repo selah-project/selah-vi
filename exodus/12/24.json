@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Và các ngươi hãy giữ ⟨את⟩ lời nầy làm luật định cho ngươi và cho con cháu ngươi cho đến đời đời.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "và các ngươi hãy giữ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lời nầy"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lời"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nầy"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "làm luật định"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngươi"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "và cho con cháu ngươi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "đời đời"
+    }
+  ],
+  "timestamp": "2026-08-19T02:30:51.715438676Z",
+  "model": "glm-5.3"
+}

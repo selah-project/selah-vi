@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Bước chân tôi ⟨được⟩ nâng đỡ trong ⟨các⟩ lối Ngài; chân tôi hẳn không hề trượt.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "nâng đỡ"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "bước chân tôi"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "trong các lối của Ngài"
+    },
+    {
+      "surface": "בל",
+      "gloss": "chẳng hề"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "trượt"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "chân tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:20.721604901Z",
+  "model": "glm-5.3"
+}

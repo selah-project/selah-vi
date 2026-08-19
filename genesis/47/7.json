@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 47:7",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 47,
+  "translation": "Yosef đưa ⟨את⟩ Yaakov cha mình đến, cho ông đứng trước mặt Pharaôn; và Yaakov chúc phúc cho ⟨את⟩ Pharaôn.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "đưa đến"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov cha mình"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "cha mình"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "cho ông đứng"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaôn"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "chúc phúc"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pharaôn"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaôn"
+    }
+  ],
+  "timestamp": "2026-08-19T02:26:32.137386486Z",
+  "model": "glm-5.3"
+}

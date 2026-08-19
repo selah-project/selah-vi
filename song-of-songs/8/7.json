@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 8:7",
+  "book": "song-of-songs",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Nước nhiều không thể dập-tắt ⟨את⟩ tình-yêu, và sông ngòi không cuốn-trôi nó được; nếu một người-đàn-ông cho ⟨את⟩ toàn-bộ tài-sản nhà mình vì tình-yêu, sẽ khinh-bỉ — người ta khinh-bỉ y!",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nhiều"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "có-thể-dập-tắt"
+    },
+    {
+      "surface": "לכבות",
+      "gloss": "để-dập-tắt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tình-yêu"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "tình-yêu"
+    },
+    {
+      "surface": "ונהרות",
+      "gloss": "và-sông-ngòi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ישטפוה",
+      "gloss": "cuốn-trôi-nó"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "cho"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người-đàn-ông"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toàn-bộ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn-bộ"
+    },
+    {
+      "surface": "הון",
+      "gloss": "tài-sản"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nhà-mình"
+    },
+    {
+      "surface": "באהבה",
+      "gloss": "vì-tình-yêu"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "khinh-bỉ"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "người-ta-khinh-bỉ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "y"
+    }
+  ],
+  "timestamp": "2026-08-19T05:30:16.142289782Z",
+  "model": "glm-5.3"
+}

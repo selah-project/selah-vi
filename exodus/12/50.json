@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "exodus 12:50",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Và toàn thể con cái Yisrael đã làm đúng như Yahweh đã phán dặn ⟨את⟩ Moshe và ⟨את⟩ Aharon; đúng như vậy họ đã làm.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "và họ đã làm"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "đã phán dặn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "đúng như vậy"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "họ đã làm"
+    }
+  ],
+  "timestamp": "2026-08-19T02:30:23.942458334Z",
+  "model": "glm-5.3"
+}

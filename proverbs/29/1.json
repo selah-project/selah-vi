@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 29:1",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Người hay bị quở trách mà cứ làm cứng cổ gáy, sẽ đột ngột bị nghiền vỡ, và không có thuốc chữa.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "quở trách"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "làm cứng"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "cổ gáy"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "đột ngột"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "bị nghiền vỡ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "và không có"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "thuốc chữa"
+    }
+  ],
+  "timestamp": "2026-08-19T05:19:16.607622407Z",
+  "model": "glm-5.3"
+}

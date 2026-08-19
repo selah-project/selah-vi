@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 115,
+  "translation": "Không phải cho chúng con, Yahweh, không phải cho chúng con, mà vì danh của Ngài hãy ban sự vinh quang, vì lòng nhân từ của Ngài, vì sự thật của Ngài.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "cho chúng con"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "cho chúng con"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mà vì"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "vì danh của Ngài"
+    },
+    {
+      "surface": "תן",
+      "gloss": "hãy ban"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "sự vinh quang"
+    },
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "lòng nhân từ của Ngài"
+    },
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "sự thật của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:05.001303441Z",
+  "model": "glm-5.3"
+}

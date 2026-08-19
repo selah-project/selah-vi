@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Cả khi kẻ dại đi trên đường, lòng hắn thiếu hụt ⟨hiểu biết⟩, và hắn tỏ cho mọi người rằng hắn là kẻ dại.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "cả khi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "trên đường"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "như kẻ dại"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "đi"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "lòng hắn"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "thiếu hụt"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "và hắn tỏ ra"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "cho mọi người"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "kẻ dại"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hắn là"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:39.526303569Z",
+  "model": "glm-5.3"
+}

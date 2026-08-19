@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 4:6",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Chớ bỏ nó, và nó sẽ giữ gìn ngươi; hãy yêu nó, và nó sẽ che chở ngươi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תעזבה",
+      "gloss": "bỏ nó"
+    },
+    {
+      "surface": "ותשמרך",
+      "gloss": "và nó sẽ giữ gìn ngươi"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "hãy yêu nó"
+    },
+    {
+      "surface": "ותצרך",
+      "gloss": "và nó sẽ che chở ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:14:31.604523543Z",
+  "model": "glm-5.3"
+}

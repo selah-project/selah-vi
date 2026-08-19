@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 7:3",
+  "book": "hosea",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Bằng sự ác của chúng chúng làm vua vui mừng, và bằng sự dối trá của chúng ⟨làm⟩ các quan trưởng ⟨vui mừng⟩.",
+  "tokens": [
+    {
+      "surface": "ברעתם",
+      "gloss": "bằng sự ác của chúng"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "chúng làm vui mừng"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "ובכחשיהם",
+      "gloss": "và bằng sự dối trá của chúng"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "các quan trưởng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:44:55.047180124Z",
+  "model": "glm-5.3"
+}

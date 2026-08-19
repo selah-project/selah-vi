@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 42:16",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 42,
+  "translation": "Hãy sai một người trong các ngươi đi, và người ấy hãy đem ⟨את⟩ anh em các ngươi; còn các ngươi hãy bị trói buộc, để lời của các ngươi được xét nghiệm xem ⟨את⟩ sự thật có ở với các ngươi hay không; nếu không — nhờ sự sống của Paroh, quả thật các ngươi là những kẻ do thám.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "hãy sai đi"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "từ trong các ngươi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "một người"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "và hãy đem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anh em của các ngươi"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "anh em của các ngươi"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "còn các ngươi"
+    },
+    {
+      "surface": "האסרו",
+      "gloss": "hãy bị trói buộc"
+    },
+    {
+      "surface": "ויבחנו",
+      "gloss": "và hãy được xét nghiệm"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "lời của các ngươi"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "sự thật"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ với các ngươi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "và nếu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "חי",
+      "gloss": "sự sống của"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quả thật"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "những kẻ do thám"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "các ngươi là"
+    }
+  ],
+  "timestamp": "2026-08-19T02:24:46.195460853Z",
+  "model": "glm-5.3"
+}

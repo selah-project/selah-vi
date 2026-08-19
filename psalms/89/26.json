@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 89:26",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 89,
+  "translation": "Ta sẽ đặt tay ⟨את⟩người ấy trên biển, và tay phải của ⟨את⟩người ấy trên các dòng sông.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "và Ta sẽ đặt"
+    },
+    {
+      "surface": "בים",
+      "gloss": "trên biển"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tay của người ấy"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "và trên các dòng sông"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "tay phải của người ấy"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:38.429967554Z",
+  "model": "glm-5.3"
+}

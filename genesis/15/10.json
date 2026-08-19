@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 15:10",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Ông lấy cho mình ⟨את⟩ tất cả những con này, và xẻ ⟨את⟩ chúng ra giữa lòng, và đặt mỗi miếng đối diện miếng bạn của nó; còn ⟨את⟩ loài chim thì ông không xẻ.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ông-lấy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho-mình"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả những con này"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất-cả"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "những-này"
+    },
+    {
+      "surface": "ויבתר",
+      "gloss": "và-xẻ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chúng"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "giữa-lòng"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "và-đặt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mỗi"
+    },
+    {
+      "surface": "בתרו",
+      "gloss": "miếng-của-nó"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "đối-diện"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "bạn-của-nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và-⟨את⟩",
+      "marks": "loài chim"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "loài-chim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "בתר",
+      "gloss": "xẻ"
+    }
+  ],
+  "timestamp": "2026-08-19T00:57:53.164467470Z",
+  "model": "glm-5.3"
+}

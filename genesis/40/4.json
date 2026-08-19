@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 40:4",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Quan trưởng những đao phủ giao ⟨את⟩ Yosef ⟨את⟩ họ, và Yosef hầu hạ ⟨את⟩ họ; và họ ở trong tù nhiều ngày.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "giao \/ phó"
+    },
+    {
+      "surface": "שר",
+      "gloss": "quan trưởng"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "những đao phủ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "họ"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "và hầu hạ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "họ"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "và chúng xảy ra"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "những ngày"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "trong nơi canh giữ"
+    }
+  ],
+  "timestamp": "2026-08-19T01:27:17.339218895Z",
+  "model": "glm-5.3"
+}

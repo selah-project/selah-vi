@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 132:14",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 132,
+  "translation": "Này là nơi nghỉ ngơi của ta đến đời đời; tại đây ta sẽ ngự, vì ta đã ước muốn nó.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "này"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "nơi nghỉ ngơi của ta"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "đến"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đời đời"
+    },
+    {
+      "surface": "פה",
+      "gloss": "tại đây"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "ta sẽ ngự"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אותיה",
+      "gloss": "ta đã ước muốn nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:15.980951317Z",
+  "model": "glm-5.3"
+}

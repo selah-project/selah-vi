@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 16:20",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Achaz nằm xuống với các tổ phụ mình, và được chôn với các tổ phụ mình trong thành của David; và Chizkiyahu con trai ông làm vua thay ông.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "và nằm xuống"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "với"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "các tổ phụ mình"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "và được chôn"
+    },
+    {
+      "surface": "עם",
+      "gloss": "với"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "các tổ phụ mình"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "trong thành"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "của David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "và làm vua"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "con trai ông"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "thay ông"
+    }
+  ],
+  "timestamp": "2026-08-19T04:00:25.927089678Z",
+  "model": "glm-5.3"
+}

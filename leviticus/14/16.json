@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 14:16",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Thầy tế lễ sẽ nhúng ⟨את⟩ ngón tay phải của mình từ dầu đang trên lòng bàn tay trái của mình, và sẽ vẩy dầu bằng ngón tay đó bảy lần trước mặt Yahweh.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "và sẽ nhúng"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "thầy tế lễ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngón tay phải của mình"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "ngón tay của mình"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "bên phải"
+    },
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "dầu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "lòng bàn tay của mình"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "bên trái"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "và sẽ vẩy"
+    },
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "dầu"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "bằng ngón tay của mình"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "bảy"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "lần"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:43:48.511104805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Và thông gia của Moshe nói với ⟨anh⟩: không tốt là việc mà ngươi đang làm.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "thông gia"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "với ⟨anh⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tốt"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨là⟩ việc"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "đang làm"
+    }
+  ],
+  "timestamp": "2026-08-19T02:32:35.815206536Z",
+  "model": "glm-5.3"
+}

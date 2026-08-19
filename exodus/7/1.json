@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Và Yahweh phán cùng Moshe: Hãy xem, Ta đã đặt ngươi ⟨לָ⟩ Elohim cho Pharaoh, còn Aharon anh ngươi sẽ làm đấng tiên tri của ngươi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và-phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cùng"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "hãy-xem"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "Ta-đặt-ngươi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "cho-Pharaoh"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "và-Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "anh-ngươi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sẽ-là"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "đấng-tiên-tri-của-ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:29:09.272372272Z",
+  "model": "glm-5.3"
+}

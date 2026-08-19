@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 10:17",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Vì Yahweh Elohim của các ngươi, ⟨ngài⟩ là Elohim của các elohim và Adonai của các adonai, ⟨là⟩ El cao cả, uy lực và đáng kinh sợ, Đấng không tôn cứ ngoại lệ và không nhận hối lộ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim của các ngươi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ngài⟩ là"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "các elohim"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "và Adonai của"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "các adonai"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "cao cả"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "uy lực"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "và đáng kinh sợ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Đấng mà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "nhấc lên"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "mặt (tôn cứ ngoại lệ)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "nhận"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "hối lộ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:07:18.414966628Z",
+  "model": "glm-5.3"
+}

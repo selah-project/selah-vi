@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Và Yeshua sinh ⟨את⟩ Yoyakim; Yoyakim sinh ⟨את⟩ Elyashiv; Elyashiv ⟨sinh⟩ ⟨את⟩ Yoyada.",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "và Yeshua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "sinh ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyakim"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Yoyakim"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "và Yoyakim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "sinh ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyashiv"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Elyashiv"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "và Elyashiv"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyada"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Yoyada"
+    }
+  ],
+  "timestamp": "2026-08-19T05:45:59.549268155Z",
+  "model": "glm-5.3"
+}

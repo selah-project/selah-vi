@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 32:23",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Và ông thức dậy trong đêm đó, và lấy ⟨את⟩ hai vợ mình, và ⟨את⟩ hai nữ tì mình, và ⟨את⟩ mười một đứa con mình, và đưa qua ⟨את⟩ khúc sông Yabboq.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "và ông thức dậy"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "trong đêm"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "đó"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "và lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hai vợ mình"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "hai"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "vợ mình"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hai nữ tì mình"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "hai"
+    },
+    {
+      "surface": "שפחתיו",
+      "gloss": "nữ tì mình"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mười một đứa con mình"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "một"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mười"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "đứa con mình"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "và đưa qua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khúc sông Yabboq"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "khúc sông \/ chỗ vượt"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "Yabboq"
+    }
+  ],
+  "timestamp": "2026-08-19T01:15:52.358282781Z",
+  "model": "glm-5.3"
+}

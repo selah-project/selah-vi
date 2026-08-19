@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 59,
+  "translation": "Sức mạnh của tôi, tôi sẽ ca ngợi ⟨đến⟩ Ngài, vì Elohim ⟨là⟩ núi đồi trú ẩn của tôi, Elohim của lòng nhân từ tôi.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "Sức mạnh của tôi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "đến Ngài"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "tôi sẽ ca ngợi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "núi đồi trú ẩn của tôi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "lòng nhân từ tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:00.455969411Z",
+  "model": "glm-5.3"
+}

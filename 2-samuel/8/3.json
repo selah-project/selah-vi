@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Daviđ đánh ⟨את⟩ Hađađezer con của Reḥov, vua của Tsova, khi người đi để đưa tay mình về ⟨sông⟩.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "đánh"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daviđ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hađađezer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hađađezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con của"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Reḥov"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsova"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "khi người đi"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "để đưa về"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tay mình"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "tại Sông"
+    }
+  ],
+  "timestamp": "2026-08-19T03:40:48.064315590Z",
+  "model": "glm-5.3"
+}

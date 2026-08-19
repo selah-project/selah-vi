@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 91,
+  "translation": "Với lông vũ của Ngài Ngài sẽ che ⟨bạn⟩, và dưới cánh của Ngài ⟨bạn⟩ sẽ nương náu; khiên và thuẫn ⟨là⟩ sự thành tín của Ngài.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "với lông vũ của Ngài"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "Ngài sẽ che"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨bạn⟩"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "và dưới"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "cánh của Ngài"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "⟨bạn⟩ sẽ nương náu"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "khiên"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "và thuẫn"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "sự thành tín của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:15.233577958Z",
+  "model": "glm-5.3"
+}

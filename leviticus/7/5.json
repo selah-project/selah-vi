@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Và thầy tế lễ sẽ đốt ⟨אתם⟩ chúng trên bàn thờ, của lễ dùng lửa cho Yahweh; nó là tế lễ đền tội.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "và sẽ đốt"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "thầy tế lễ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "thầy tế lễ"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "trên bàn thờ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "của lễ dùng lửa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "cho Yahweh"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "tế lễ đền tội"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó là"
+    }
+  ],
+  "timestamp": "2026-08-19T02:40:41.609213336Z",
+  "model": "glm-5.3"
+}

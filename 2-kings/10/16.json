@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "và nói: Hãy đến cùng ⟨את⟩ ta, và hãy xem sự nhiệt thành của ta đối với Yahweh. Họ cho ông cưỡi ⟨את⟩ trên cỗ xe của mình.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "hãy đến"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "cùng ⟨את⟩ ta"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "và hãy xem"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "sự nhiệt thành của ta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "đối với Yahweh"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "họ cho cưỡi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ông (Yehonadav) trên cỗ xe"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "trên cỗ xe của mình"
+    }
+  ],
+  "timestamp": "2026-08-19T03:58:27.945901044Z",
+  "model": "glm-5.3"
+}

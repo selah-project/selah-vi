@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 5:3",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "mười bò vỗ béo, và hai mươi bò chăn thả, và một trăm chiên, ngoài ra hươu, hoẵng, hươu đỏ và loài chim béo mập.",
+  "tokens": [
+    {
+      "surface": "עשרה",
+      "gloss": "mười"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "bò"
+    },
+    {
+      "surface": "בראים",
+      "gloss": "vỗ béo"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "và hai mươi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "bò"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "chăn thả"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "và một trăm"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "chiên"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ngoài ra"
+    },
+    {
+      "surface": "מאיל",
+      "gloss": "từ hươu"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "và hoẵng"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "và hươu đỏ"
+    },
+    {
+      "surface": "וברברים",
+      "gloss": "và loài chim"
+    },
+    {
+      "surface": "אבוסים",
+      "gloss": "béo mập"
+    }
+  ],
+  "timestamp": "2026-08-19T03:48:02.708766482Z",
+  "model": "glm-5.3"
+}

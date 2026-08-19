@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Và Yehoshua nghe ⟨את⟩ tiếng của dân chúng đang hò reo, và nói với Moshe: Tiền trạm chiến trận trong trại quân!",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "và nghe"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiếng"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tiếng"
+    },
+    {
+      "surface": "העם",
+      "gloss": "của dân chúng"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "đang hò reo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tiếng"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "chiến trận"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "trong trại quân"
+    }
+  ],
+  "timestamp": "2026-08-19T02:37:05.220769172Z",
+  "model": "glm-5.3"
+}

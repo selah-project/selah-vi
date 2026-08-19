@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 139,
+  "translation": "Mắt Ngài đã thấy hình hài tôi chưa thành hình, và trên sách của Ngài tất cả đều được viết ra — những ngày đã được định hình, khi chưa có một ngày nào trong chúng.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "hình hài tôi chưa thành hình"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "đã thấy"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "mắt Ngài"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "và trên"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "sách của Ngài"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "được viết ra"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "những ngày"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "đã được định hình"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "khi chưa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "một ngày nào"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "trong chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:53.428177852Z",
+  "model": "glm-5.3"
+}

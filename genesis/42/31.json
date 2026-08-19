@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 42,
+  "translation": "Và chúng tôi nói với người rằng: Chúng tôi ⟨là⟩ người ngay thật, không phải kẻ do thám.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "và chúng tôi nói"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "với người"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "ngay thật"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "chúng tôi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "đã là"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "kẻ do thám"
+    }
+  ],
+  "timestamp": "2026-08-19T02:24:55.018466027Z",
+  "model": "glm-5.3"
+}

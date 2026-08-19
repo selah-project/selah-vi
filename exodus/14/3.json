@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Và Pharaoh sẽ nói về con cái Yisrael: Họ ⟨bị⟩ lạc lối trong đất, hoang mạc đã khép lại trên họ.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "và sẽ nói"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaoh"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "về con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "lạc lối \/ vướng mắc"
+    },
+    {
+      "surface": "הם",
+      "gloss": "họ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trong đất"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "đã khép lại"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "trên họ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "hoang mạc"
+    }
+  ],
+  "timestamp": "2026-08-19T02:31:39.971409014Z",
+  "model": "glm-5.3"
+}

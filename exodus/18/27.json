@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Moshe tiễn ⟨את⟩ người thông gia mình, và ⟨người ấy⟩ đi về đất của mình.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "tiễn đi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người thông gia mình"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "người thông gia mình"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "và đi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho mình"
+    },
+    {
+      "surface": "אל",
+      "gloss": "về"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "đất của mình"
+    }
+  ],
+  "timestamp": "2026-08-19T02:32:38.775822644Z",
+  "model": "glm-5.3"
+}

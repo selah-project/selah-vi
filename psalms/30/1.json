@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Bản nhạc cụ, bài ca ⟨về⟩ lễ khánh thành ⟨của⟩ đền — thuộc Davíd.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "bản nhạc cụ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "bài ca"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "lễ khánh thành"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "đền, nhà"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "thuộc Davíd"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:59.455610664Z",
+  "model": "glm-5.3"
+}

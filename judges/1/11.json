@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 1:11",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Từ đó ⟨hắn⟩ tiến đến cư dân của Dvir — còn tên Dvir trước kia là Kiryat-Sefer.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "tiến đến"
+    },
+    {
+      "surface": "משם",
+      "gloss": "từ đó"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "cư dân"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Dvir"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "và tên"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Dvir"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "trước kia"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    }
+  ],
+  "timestamp": "2026-08-19T03:21:40.256630701Z",
+  "model": "glm-5.3"
+}

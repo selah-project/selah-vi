@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Vì mệnh lệnh lên mệnh lệnh, mệnh lệnh lên mệnh lệnh, dây mực nối dây mực, dây mực nối dây mực, chút ở đây, chút ở đó.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "צו",
+      "gloss": "mệnh lệnh"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "lên mệnh lệnh"
+    },
+    {
+      "surface": "צו",
+      "gloss": "mệnh lệnh"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "lên mệnh lệnh"
+    },
+    {
+      "surface": "קו",
+      "gloss": "dây mực"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "nối dây mực"
+    },
+    {
+      "surface": "קו",
+      "gloss": "dây mực"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "nối dây mực"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "chút"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ở đó"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "chút"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ở đó"
+    }
+  ],
+  "timestamp": "2026-08-19T04:08:35.462078896Z",
+  "model": "glm-5.3"
+}

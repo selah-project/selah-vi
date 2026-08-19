@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Còn tôi là kẻ nghèo hèn và thiếu thốn; Adonai hãy nghĩ đến tôi. Sự giúp đỡ và Đấng giải cứu của tôi ⟨là⟩ Ngài, Elohim của tôi; xin đừng chần chừ.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "còn tôi"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kẻ nghèo hèn"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "và thiếu thốn"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "hãy nghĩ đến"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "sự giúp đỡ của tôi"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "và Đấng giải cứu của tôi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của tôi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "chần chừ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:35.980233568Z",
+  "model": "glm-5.3"
+}

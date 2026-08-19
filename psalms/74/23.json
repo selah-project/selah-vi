@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 74,
+  "translation": "Đừng quên tiếng của kẻ thù nghịch Ngài; tiếng ầm ĩ của những kẻ nổi dậy chống Ngài lên lên không ngừng.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "quên"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tiếng"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "kẻ thù nghịch Ngài"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "tiếng ầm ĩ"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "những kẻ nổi dậy chống Ngài"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "lên lên"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "không ngừng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:15.319019111Z",
+  "model": "glm-5.3"
+}

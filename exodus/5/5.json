@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Paroh nói: Này, nay dân của ⟨את⟩ xứ đã đông đảo, và các ngươi khiến họ nghỉ khỏi các gánh nặng của họ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "הן",
+      "gloss": "này"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "đông đảo"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nay"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "của xứ"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "và các ngươi khiến nghỉ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "họ (dân)"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "khỏi các gánh nặng của họ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:28:22.526893303Z",
+  "model": "glm-5.3"
+}

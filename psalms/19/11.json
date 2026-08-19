@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 19:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Chúng đáng ước ao hơn vàng, và hơn nhiều vàng ròng; ngọt hơn mật ong và mật nhỏ giọt từ tổ.",
+  "tokens": [
+    {
+      "surface": "הנחמדים",
+      "gloss": "đáng ước ao"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "hơn vàng"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "và hơn vàng ròng"
+    },
+    {
+      "surface": "רב",
+      "gloss": "nhiều"
+    },
+    {
+      "surface": "ומתוקים",
+      "gloss": "và ngọt hơn"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "mật ong"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "và mật nhỏ giọt"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "từ tổ ong"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:32.967927146Z",
+  "model": "glm-5.3"
+}

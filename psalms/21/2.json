@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Yahweh, trong sức mạnh của Ngài vua được vui mừng, và trong sự cứu giúp của Ngài — chừng nào ⟨he⟩ hớn hở!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "trong sức mạnh của Ngài"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "được vui mừng"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "và trong sự cứu giúp của Ngài"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chừng nào"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "hớn hở"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hết sức"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:21.678748836Z",
+  "model": "glm-5.3"
+}

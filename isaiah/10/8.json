@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Vì ⟨hắn⟩ nói: Há các thủ lãnh của ⟨ta⟩ chẳng ⟨phải⟩ cùng nhau ⟨là⟩ vua sao?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "⟨hắn⟩ nói"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "há... chẳng"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "các thủ lãnh của ⟨ta⟩"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "cùng nhau"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "vua"
+    }
+  ],
+  "timestamp": "2026-08-19T06:11:57.511559544Z",
+  "model": "glm-5.3"
+}

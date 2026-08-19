@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Và người đã giết ⟨את⟩ tất cả các thầy tế lễ của các nơi cao vốn ở đó, tại trên các bàn thờ; và người đã đốt ⟨את⟩ xương của con người trên chúng; và người đã trở về Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "và người đã giết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả các thầy tế lễ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "các thầy tế lễ của"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "các nơi cao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vốn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ở đó"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "các bàn thờ"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "và người đã đốt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xương của con người"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "xương của"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "con người"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "trên chúng"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "và người đã trở về"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-19T04:02:54.839534369Z",
+  "model": "glm-5.3"
+}

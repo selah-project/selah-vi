@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 89,
+  "translation": "Đến muôn đời tôi sẽ xác lập dòng giống ngươi, và tôi sẽ dựng ngai ngươi cho thế hệ rồi thế hệ. Selah.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "muôn đời"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "tôi sẽ xác lập"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "dòng giống ngươi"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "và tôi sẽ dựng"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "cho thế hệ"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "rồi thế hệ"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "ngai ngươi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:27.816172288Z",
+  "model": "glm-5.3"
+}

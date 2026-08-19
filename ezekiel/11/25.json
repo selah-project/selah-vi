@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Tôi đã nói với những người bị lưu đày ⟨את⟩ mọi lời của Yahweh mà Ngài đã cho tôi thấy.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "tôi đã nói"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "những người bị lưu đày"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi lời"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "lời"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "Ngài đã cho tôi thấy"
+    }
+  ],
+  "timestamp": "2026-08-19T04:32:44.997272261Z",
+  "model": "glm-5.3"
+}

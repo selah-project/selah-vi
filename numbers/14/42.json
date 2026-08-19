@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Đừng lên, vì Yahweh không ⟨nằm⟩ giữa các ngươi, và các ngươi sẽ không bị đánh ngã trước mặt kẻ thù các ngươi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "lên"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "giữa các ngươi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "bị đánh ngã"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "kẻ thù các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:05:07.682107604Z",
+  "model": "glm-5.3"
+}

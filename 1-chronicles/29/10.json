@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 29:10",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "David đã chúc phước ⟨את⟩ Yahweh trước mắt toàn thể hội chúng, và David nói: Ngài đáng được chúc phước, Yahweh, Elohim của Yitsraen, cha chúng ta, từ đời đời cho đến đời đời.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "đã chúc phước"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "trước mắt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "hội chúng"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "được chúc phước"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yitsraen"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "cha chúng ta"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "từ đời đời"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "đời đời"
+    }
+  ],
+  "timestamp": "2026-08-19T05:53:44.816435842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Yahweh ngự trên trận đại hồng thủy; Yahweh ngự làm vua đến đời đời.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "trên trận đại hồng thủy"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "đã ngự"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "và sẽ ngự"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "làm vua"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "đến đời đời"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:46.947738960Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 28:27",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Vì hoa thì là không bị đạp bằng xe đạp lúa sắc, và bánh xe xe bò không quay trên cùmine; vì bằng gậy thì hoa thì là bị đập ra, và cùmine bằng roi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "בחרוץ",
+      "gloss": "bằng xe đạp lúa sắc"
+    },
+    {
+      "surface": "יודש",
+      "gloss": "bị đạp"
+    },
+    {
+      "surface": "קצח",
+      "gloss": "hoa thì là"
+    },
+    {
+      "surface": "ואופן",
+      "gloss": "và bánh xe"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "xe bò"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "כמן",
+      "gloss": "cùmine"
+    },
+    {
+      "surface": "יוסב",
+      "gloss": "quay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "bằng gậy"
+    },
+    {
+      "surface": "יחבט",
+      "gloss": "bị đập"
+    },
+    {
+      "surface": "קצח",
+      "gloss": "hoa thì là"
+    },
+    {
+      "surface": "וכמן",
+      "gloss": "và cùmine"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "bằng roi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:08:56.969836074Z",
+  "model": "glm-5.3"
+}

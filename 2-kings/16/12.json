@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Vua đến từ Damashk, và vua thấy ⟨את⟩ bàn thờ; vua lại gần bàn thờ và dâng lên trên nó.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "đã đến"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "từ Damashk"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "đã thấy"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bàn thờ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "đã lại gần"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "đã dâng lên"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "trên nó"
+    }
+  ],
+  "timestamp": "2026-08-19T04:00:20.920101109Z",
+  "model": "glm-5.3"
+}

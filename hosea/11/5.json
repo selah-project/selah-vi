@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 11:5",
+  "book": "hosea",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "⟨Người⟩ sẽ không quay về đất Mitsrayim, mà Ashshur — chính ⟨nó⟩ là vua của ⟨người⟩ — vì chúng đã từ chối quay về.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "sẽ quay về"
+    },
+    {
+      "surface": "אל",
+      "gloss": "về"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "và Ashshur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chính nó"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "là vua của người"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "chúng đã từ chối"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "quay về"
+    }
+  ],
+  "timestamp": "2026-08-19T04:45:49.365306728Z",
+  "model": "glm-5.3"
+}

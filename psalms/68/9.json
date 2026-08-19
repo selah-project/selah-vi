@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 68,
+  "translation": "Đất rung chuyển, chính các tầng trời cũng nhỏ giọt trước mặt Elohim — này Sinai ⟨vùng⟩ trước mặt Elohim, Elohim của Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "rung chuyển"
+    },
+    {
+      "surface": "אף",
+      "gloss": "chính...cũng"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "các tầng trời"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "nhỏ giọt"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "này"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:58.849101587Z",
+  "model": "glm-5.3"
+}

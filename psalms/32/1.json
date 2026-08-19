@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Của Dawid, một bài maszkil. Phước thay ⟨kẻ⟩ được cất ⟨sự⟩ phản nghịch, được che phủ tội lỗi.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Của Dawid"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "bài maszkil"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "phước thay"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "được cất"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "sự phản nghịch"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "được che phủ"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "tội lỗi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:03.413657046Z",
+  "model": "glm-5.3"
+}

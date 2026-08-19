@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 3:28",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Chớ nói với người lân cận ngươi: «Hãy đi, rồi hãy quay lại, và ngày mai ta sẽ cho», khi ⟨v⟩ điều đó có ⟨את⟩ cùng ngươi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "לרעיך",
+      "gloss": "với người lân cận ngươi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hãy đi"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "và hãy quay lại"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "và ngày mai"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ta sẽ cho"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "và có"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ cùng ngươi",
+      "marks": "điều đó có — אתך ở đây là giới từ 'cùng ngươi', không phải DOM"
+    }
+  ],
+  "timestamp": "2026-08-19T05:14:29.681444153Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 21:35",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Và nếu con bò của một người húc ⟨את⟩ con bò của bạn nó mà nó chết, thì họ sẽ bán ⟨את⟩ con bò sống và chia đôi ⟨את⟩ số bạc của nó, và cả ⟨את⟩ con vật chết nữa họ sẽ chia đôi.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Và nếu"
+    },
+    {
+      "surface": "יגף",
+      "gloss": "húc"
+    },
+    {
+      "surface": "שור",
+      "gloss": "con bò"
+    },
+    {
+      "surface": "איש",
+      "gloss": "của một người"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con bò"
+    },
+    {
+      "surface": "שור",
+      "gloss": "con bò"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "của bạn nó"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "và nó chết"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "thì họ sẽ bán"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con bò sống"
+    },
+    {
+      "surface": "השור",
+      "gloss": "con bò"
+    },
+    {
+      "surface": "החי",
+      "gloss": "sống"
+    },
+    {
+      "surface": "וחצו",
+      "gloss": "và chia đôi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "số bạc của nó"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "số bạc của nó"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "và cả"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con vật chết"
+    },
+    {
+      "surface": "המת",
+      "gloss": "con vật chết"
+    },
+    {
+      "surface": "יחצון",
+      "gloss": "họ sẽ chia đôi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:33:13.225837615Z",
+  "model": "glm-5.3"
+}

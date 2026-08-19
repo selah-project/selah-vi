@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 16:1",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Và Yahweh phán cùng Moshe, sau khi hai con trai của Aharon chết, khi chúng đến gần trước mặt Yahweh và chúng chết.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cùng"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sau khi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "chết"
+    },
+    {
+      "surface": "שני",
+      "gloss": "hai"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con trai của"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "בקרבתם",
+      "gloss": "khi chúng đến gần"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "và chúng chết"
+    }
+  ],
+  "timestamp": "2026-08-19T02:45:22.587176625Z",
+  "model": "glm-5.3"
+}

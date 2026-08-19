@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Và các ngươi hãy giữ mình hết sức, để yêu mến ⟨את⟩ Yahweh Elohim của các ngươi.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "các ngươi hãy giữ mình"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hết sức"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "cho sinh mạng các ngươi"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "để yêu mến"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim của các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:21:29.919091496Z",
+  "model": "glm-5.3"
+}

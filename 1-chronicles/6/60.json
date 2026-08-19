@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-chronicles 6:60",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Cùng ⟨את⟩ Chukkok và ⟨את⟩ đất đồng của nó, ⟨את⟩ Rechov và ⟨את⟩ đất đồng của nó.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "cùng ⟨את⟩",
+      "marks": "Chukkok"
+    },
+    {
+      "surface": "חוקק",
+      "gloss": "Chukkok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "đất đồng của nó"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "đất đồng của nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Rechov"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rechov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "đất đồng của nó"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "đất đồng của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:48:02.420740621Z",
+  "model": "glm-5.3"
+}

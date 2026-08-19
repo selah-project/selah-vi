@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 12:4",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Chỉ ⟨rằng⟩ các nơi cao không bị dời bỏ; dân sự vẫn còn sát tế và đốt hương tại các nơi cao.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "chỉ"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "các nơi cao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "bị dời bỏ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vẫn còn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "đang sát tế"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "và đang đốt hương"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "tại các nơi cao"
+    }
+  ],
+  "timestamp": "2026-08-19T03:59:13.855354594Z",
+  "model": "glm-5.3"
+}

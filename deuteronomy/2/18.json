@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Ngươi đang qua ⟨את⟩ biên giới Moav, ⟨את⟩ Ar, hôm nay:",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "đang-qua"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hôm nay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biên giới"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "biên giới"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ar"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    }
+  ],
+  "timestamp": "2026-08-19T03:04:50.046120724Z",
+  "model": "glm-5.3"
+}

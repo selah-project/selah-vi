@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 3:1",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và Shelomoh kết hôn với ⟨את⟩ Pharaoh, vua của Mitsrayim, và lấy ⟨את⟩ con gái của Pharaoh, và đưa nàng đến thành của David, cho đến khi hoàn tất việc xây ⟨את⟩ nhà của mình, và ⟨את⟩ nhà của Yahweh, và ⟨את⟩ tường thành của Yerushalayim chung quanh.",
+  "tokens": [
+    {
+      "surface": "ויתחתן",
+      "gloss": "và kết hôn"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pharaoh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaoh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "và lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con gái"
+    },
+    {
+      "surface": "בת",
+      "gloss": "con gái"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaoh"
+    },
+    {
+      "surface": "ויביאה",
+      "gloss": "và đưa nàng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "thành"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "hoàn tất"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "xây"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhà của mình"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nhà của mình"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "nhà"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "tường thành"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "tường thành"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "chung quanh"
+    }
+  ],
+  "timestamp": "2026-08-19T03:47:54.892963159Z",
+  "model": "glm-5.3"
+}

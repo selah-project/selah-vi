@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 43,
+  "translation": "Và họ chuẩn bị ⟨את⟩ món quà cho đến khi Yosef vào nhà giữa trưa, vì họ nghe rằng ở đó họ sẽ ăn bánh mì.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "và họ chuẩn bị"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "món quà"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "món quà"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến khi"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "vào"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "giữa trưa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "họ nghe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ở đó"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "họ sẽ ăn"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bánh mì"
+    }
+  ],
+  "timestamp": "2026-08-19T02:24:27.942602575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Họ vội vàng hạ xuống mỗi người ⟨את⟩ túi của mình xuống đất, và mỗi người mở túi của mình.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "họ vội vàng"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "họ hạ xuống"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mỗi người"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "túi của mình"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "túi của mình"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "xuống đất"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "và họ mở"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mỗi người"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "túi của mình"
+    }
+  ],
+  "timestamp": "2026-08-19T02:25:11.599527380Z",
+  "model": "glm-5.3"
+}

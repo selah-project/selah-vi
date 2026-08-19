@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 120,
+  "translation": "Khốn cho tôi, vì tôi sống khách nơi Meshek, tôi cư ngụ ⟨cùng⟩ các trại của Kedar!",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "khốn cho"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "tôi sống khách"
+    },
+    {
+      "surface": "משך",
+      "gloss": "Meshek"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "tôi cư ngụ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨cùng⟩"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "các trại"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kedar"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:31.181058416Z",
+  "model": "glm-5.3"
+}

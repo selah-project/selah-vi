@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 68,
+  "translation": "Đàn sống vật của Ngài ngụ trong đó; trong sự tốt lành của Ngài Ngài sắm sẵn cho người nghèo, hỡi Elohim.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "đàn sống vật của Ngài"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ngụ trong"
+    },
+    {
+      "surface": "בה",
+      "gloss": "trong đó"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "Ngài sắm sẵn"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "trong sự tốt lành của Ngài"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "cho người nghèo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:58.849657903Z",
+  "model": "glm-5.3"
+}

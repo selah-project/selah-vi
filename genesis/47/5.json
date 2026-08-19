@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 47,
+  "translation": "Pharaôn nói với Yosef, rằng: Cha ngươi và anh em ngươi đã đến với ngươi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaôn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "cha ngươi"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "và anh em ngươi"
+    },
+    {
+      "surface": "באו",
+      "gloss": "đã đến"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "với ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:26:32.136900604Z",
+  "model": "glm-5.3"
+}

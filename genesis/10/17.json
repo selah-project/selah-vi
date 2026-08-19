@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "và ⟨את⟩ người Chiv-vi, và ⟨את⟩ người Ar-ki, và ⟨את⟩ người Si-ni",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người Chiv-vi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "người Chiv-vi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người Ar-ki"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "người Ar-ki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người Si-ni"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "người Si-ni"
+    }
+  ],
+  "timestamp": "2026-08-19T00:54:00.055909977Z",
+  "model": "glm-5.3"
+}

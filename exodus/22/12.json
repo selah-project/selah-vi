@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Nếu nó bị xé nát, hắn phải đem nó làm bằng chứng; con vật bị xé thì không cần bồi thường.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "bị xé"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "thật bị xé nát"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "hắn phải đem nó"
+    },
+    {
+      "surface": "עד",
+      "gloss": "làm bằng chứng"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "con vật bị xé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "cần bồi thường"
+    }
+  ],
+  "timestamp": "2026-08-19T02:33:27.512756025Z",
+  "model": "glm-5.3"
+}

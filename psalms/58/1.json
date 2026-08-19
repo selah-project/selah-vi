@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 58,
+  "translation": "Cho đốc ca. Đừng hủy phá. Của David. Michtam.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "cho đốc ca"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "hủy phá"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "của David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Michtam"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:04.220359984Z",
+  "model": "glm-5.3"
+}

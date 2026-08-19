@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 69,
+  "translation": "Vì vì cớ Ngài tôi đã gánh sự sỉ nhục; sự nhục nhã đã che phủ mặt tôi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "vì cớ Ngài"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "tôi đã gánh"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "sự sỉ nhục"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "đã che phủ"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "sự nhục nhã"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:13.514061656Z",
+  "model": "glm-5.3"
+}

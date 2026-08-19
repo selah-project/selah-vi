@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "vì chúng nghe ⟨את⟩ danh ngươi vĩ đại, và ⟨את⟩ tay ngươi mạnh mẽ, và cánh tay ngươi duỗi ra, và đến cầu nguyện hướng về ngôi nhà này,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "chúng nghe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "danh ngươi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "danh ngươi"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "vĩ đại"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "tay ngươi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tay ngươi"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "mạnh mẽ"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "và cánh tay ngươi"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "duỗi ra"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "và đến"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "và cầu nguyện"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hướng về"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ngôi nhà"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    }
+  ],
+  "timestamp": "2026-08-19T03:50:09.373635011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 5:22",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Và Moshe quay lại với Yahweh và nói: Adonai, tại sao Ngài đã gây hại cho dân này? tại sao ⟨vì thế⟩ Ngài đã sai con?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "và ông quay lại"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và ông nói"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "למה",
+      "gloss": "tại sao"
+    },
+    {
+      "surface": "הרעתה",
+      "gloss": "Ngài đã gây hại"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "cho dân"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "למה",
+      "gloss": "tại sao"
+    },
+    {
+      "surface": "זה",
+      "gloss": "vì thế"
+    },
+    {
+      "surface": "שלחתני",
+      "gloss": "Ngài đã sai con"
+    }
+  ],
+  "timestamp": "2026-08-19T02:28:09.662147470Z",
+  "model": "glm-5.3"
+}

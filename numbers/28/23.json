@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 28:23",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Ngoài lễ thiêu của buổi sáng, là ⟨את⟩ lễ thiêu thường trực, các ngươi hãy làm ⟨את⟩ những điều này.",
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "ngoài"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "lễ thiêu"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "của buổi sáng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "là"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "cho lễ thiêu"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "thường trực"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "các ngươi hãy làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "những điều này"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "những điều này"
+    }
+  ],
+  "timestamp": "2026-08-19T03:01:43.779901417Z",
+  "model": "glm-5.3"
+}

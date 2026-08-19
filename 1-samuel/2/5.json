@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 2:5",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Kẻ no đầy đã phải làm thuê vì bánh, còn kẻ đói thì thôi không đói nữa; người son sẻ đã sinh bảy con, còn nàng đông con thì héo mòn.",
+  "tokens": [
+    {
+      "surface": "שבעים",
+      "gloss": "kẻ no đầy"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "vì bánh"
+    },
+    {
+      "surface": "נשכרו",
+      "gloss": "đã làm thuê"
+    },
+    {
+      "surface": "ורעבים",
+      "gloss": "còn kẻ đói"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "đã thôi (không đói nữa)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến nỗi"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "người son sẻ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "đã sinh"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "bảy"
+    },
+    {
+      "surface": "ורבת",
+      "gloss": "còn nàng đông"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "con"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "đã héo mòn"
+    }
+  ],
+  "timestamp": "2026-08-19T03:29:17.272892905Z",
+  "model": "glm-5.3"
+}

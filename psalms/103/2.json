@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 103,
+  "translation": "Hãy chúc phước, hỡi linh hồn tôi, ⟨את⟩ Yahweh, và chớ quên hết thảy ân huệ của Ngài.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "hãy chúc phước"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "linh hồn tôi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và chớ"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "quên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hết thảy"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "ân huệ của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:13.089223964Z",
+  "model": "glm-5.3"
+}

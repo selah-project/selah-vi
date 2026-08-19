@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Shemuël kêu gọi ⟨את⟩ dân chúng đến với Yahweh tại HaMitspah.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "kêu gọi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân chúng"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân chúng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến với"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "HaMitspah"
+    }
+  ],
+  "timestamp": "2026-08-19T03:31:33.084374020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 49,
+  "translation": "Cho đấng hướng dẫn nhạc, cho con cái Qorach, một thánh thi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "cho đấng hướng dẫn nhạc"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "cho con cái"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qorach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "một thánh thi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:56.087325448Z",
+  "model": "glm-5.3"
+}

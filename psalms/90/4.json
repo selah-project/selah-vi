@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 90,
+  "translation": "Vì ngàn năm trong mắt Ngài như ngày hôm qua khi nó đã trôi qua, và như một canh trong đêm.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ngàn"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "năm"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "trong mắt Ngài"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "như ngày"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "hôm qua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "khi"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "nó trôi qua"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "và một canh"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "trong đêm"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:00.125829714Z",
+  "model": "glm-5.3"
+}

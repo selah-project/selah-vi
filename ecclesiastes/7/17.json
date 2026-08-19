@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Chớ làm điều ác quá nhiều, và chớ làm kẻ dại dột; sao ngươi lại chết khi chưa tới giờ của mình?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "làm điều ác"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "quá nhiều"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và chớ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "là\/làm"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "kẻ dại dột"
+    },
+    {
+      "surface": "למה",
+      "gloss": "sao"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ngươi chết"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "chưa \/ không trong"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "giờ của ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:34.995668618Z",
+  "model": "glm-5.3"
+}

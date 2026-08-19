@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 6:7",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và tôi sẽ lấy ⟨את⟩-các ngươi làm dân sự cho tôi, và tôi sẽ trở thành Elohim cho các ngươi; và các ngươi sẽ biết rằng tôi là Yahweh, Elohim của các ngươi, Đấng đưa ⟨את⟩-các ngươi ra khỏi dưới các gánh nặng của Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "và tôi sẽ lấy"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-các ngươi",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "làm dân sự"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "và tôi sẽ trở thành"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho các ngươi"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "làm Elohim"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "và các ngươi sẽ biết"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim của các ngươi"
+    },
+    {
+      "surface": "המוציא",
+      "gloss": "Đấng đưa ra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-các ngươi",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "khỏi dưới"
+    },
+    {
+      "surface": "סבלות",
+      "gloss": "các gánh nặng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T02:29:02.878166910Z",
+  "model": "glm-5.3"
+}

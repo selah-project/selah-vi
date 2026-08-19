@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 11:3",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và ⟨hắn⟩ ⟨את⟩ bà ở trong nhà Yahweh, ẩn trốn sáu năm; còn Atalya trị vì trên xứ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Và xảy ra"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ (cùng với) bà",
+      "marks": "bà (Yehosheva)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "trong nhà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מתחבא",
+      "gloss": "ẩn trốn"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sáu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "năm"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "còn Atalya"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "trị vì"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "xứ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:59:06.591906773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 21:12",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Hỡi nhà David, như vầy Yahweh đã phán: hãy xét xử sự công lý ngay từ buổi sáng, và hãy cứu kẻ bị cướp khỏi tay kẻ áp bức, kẻo cơn nóng giận của Ta đi ra như lửa và bùng cháy mà không có ai dập tắt, vì sự dữ của các hành vi chúng nó.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "hỡi nhà"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כה",
+      "gloss": "như vầy"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "đã phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דינו",
+      "gloss": "hãy xét xử"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "vào buổi sáng"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sự công lý"
+    },
+    {
+      "surface": "והצילו",
+      "gloss": "và hãy cứu"
+    },
+    {
+      "surface": "גזול",
+      "gloss": "kẻ bị cướp"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "khỏi tay"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "kẻ áp bức"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kẻo"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "đi ra"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "như lửa"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "cơn nóng giận của Ta"
+    },
+    {
+      "surface": "ובערה",
+      "gloss": "và bùng cháy"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mà không có"
+    },
+    {
+      "surface": "מכבה",
+      "gloss": "ai dập tắt"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vì"
+    },
+    {
+      "surface": "רע",
+      "gloss": "sự dữ"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "các hành vi của chúng nó"
+    }
+  ],
+  "timestamp": "2026-08-19T04:21:50.687105823Z",
+  "model": "glm-5.3"
+}

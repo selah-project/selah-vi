@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 10:21",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Trước khi tôi đi và không quay lại, ⟨đến⟩ xứ tối tăm và bóng của sự chết.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "trước khi"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "tôi đi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "tôi quay lại"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "xứ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tối tăm"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "và bóng của sự chết"
+    }
+  ],
+  "timestamp": "2026-08-19T05:21:53.825422721Z",
+  "model": "glm-5.3"
+}

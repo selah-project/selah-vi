@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Hãy nhớ sự thương xót của Ngài, Yahweh, và ⟨את⟩ sự nhân từ của Ngài; vì từ thuở đời đời chúng ⟨là⟩ như vậy.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "hãy nhớ"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "sự thương xót của Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "và sự nhân từ của Ngài"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "từ thuở đời đời"
+    },
+    {
+      "surface": "המה",
+      "gloss": "chúng (là như vậy)"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:44.593195836Z",
+  "model": "glm-5.3"
+}

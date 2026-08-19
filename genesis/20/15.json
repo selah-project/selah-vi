@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 20:15",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Và Avimelech nói: Này, đất của tôi ở trước mặt ngươi; ở đâu tốt trong mắt ngươi, hãy ở đó.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "này"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "đất của tôi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "trước mặt ngươi"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ở đâu tốt"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "trong mắt ngươi"
+    },
+    {
+      "surface": "שב",
+      "gloss": "hãy ở"
+    }
+  ],
+  "timestamp": "2026-08-19T01:04:13.104084788Z",
+  "model": "glm-5.3"
+}

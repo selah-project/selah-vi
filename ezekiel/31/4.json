@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 31:4",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Nước đã nuôi lớn nó, vực sâu đã tôn cao nó — ⟨את⟩ các sông của nó chảy vòng quanh chỗ trồng nó, và ⟨את⟩ các kênh của nó đã gửi tới mọi cây của đồng.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "גדלוהו",
+      "gloss": "đã nuôi lớn nó"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "vực sâu"
+    },
+    {
+      "surface": "רממתהו",
+      "gloss": "đã tôn cao nó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các sông của nó"
+    },
+    {
+      "surface": "נהרתיה",
+      "gloss": "các sông của nó"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "chảy\/đi"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "vòng quanh"
+    },
+    {
+      "surface": "מטעה",
+      "gloss": "chỗ trồng nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "các kênh của nó"
+    },
+    {
+      "surface": "תעלתיה",
+      "gloss": "các kênh của nó"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "đã gửi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tới"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "cây"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "của đồng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:39:10.833015061Z",
+  "model": "glm-5.3"
+}

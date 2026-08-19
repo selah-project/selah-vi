@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 3:1",
+  "book": "zechariah",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và Ngài cho tôi thấy ⟨את⟩ Yehoshua thầy tế lễ cả, đứng trước mặt thiên sứ của Yahweh; và Ha-satan đứng tại bên phải ông, để chống đối ông.",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "và Ngài cho tôi thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "thầy tế lễ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "cả"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "đứng"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "thiên sứ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והשטן",
+      "gloss": "và Ha-satan"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "đứng"
+    },
+    {
+      "surface": "על",
+      "gloss": "tại"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "bên phải ông"
+    },
+    {
+      "surface": "לשטנו",
+      "gloss": "để chống đối ông"
+    }
+  ],
+  "timestamp": "2026-08-19T04:52:59.864394335Z",
+  "model": "glm-5.3"
+}

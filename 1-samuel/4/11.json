@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 4:11",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và hộp của Elohim đã bị chiếm lấy, và hai con trai của Eli đã chết — Chophni và Phinehas.",
+  "tokens": [
+    {
+      "surface": "וארון",
+      "gloss": "và hộp"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "của Elohim"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "đã bị chiếm lấy"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "và hai"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con trai của"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "đã chết"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "Chophni"
+    },
+    {
+      "surface": "ופינחס",
+      "gloss": "và Phinehas"
+    }
+  ],
+  "timestamp": "2026-08-19T03:30:24.544670575Z",
+  "model": "glm-5.3"
+}

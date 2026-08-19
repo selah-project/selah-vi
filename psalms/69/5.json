@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 69:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 69,
+  "translation": "Đông hơn tóc trên đầu tôi là những kẻ ghét tôi vô cớ; mạnh mẽ là những kẻ muốn diệt tôi, kẻ thù của tôi giả dối — điều tôi đã không cướp đoạt, thì bấy giờ tôi phải hoàn trả.",
+  "tokens": [
+    {
+      "surface": "רבו",
+      "gloss": "đông hơn"
+    },
+    {
+      "surface": "משערות",
+      "gloss": "tóc"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "đầu tôi"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "những kẻ ghét tôi"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "vô cớ"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "mạnh mẽ"
+    },
+    {
+      "surface": "מצמיתי",
+      "gloss": "những kẻ muốn diệt tôi"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "kẻ thù của tôi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "giả dối"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "điều mà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "גזלתי",
+      "gloss": "tôi đã cướp đoạt"
+    },
+    {
+      "surface": "אז",
+      "gloss": "bấy giờ"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "tôi phải hoàn trả"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:13.513420455Z",
+  "model": "glm-5.3"
+}

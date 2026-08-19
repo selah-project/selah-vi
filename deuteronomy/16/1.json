@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 16:1",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Hãy giữ ⟨את⟩ tháng Aviv, và ngươi hãy làm lễ Pesach cho Yahweh Elohim của ngươi, vì trong tháng Aviv Yahweh Elohim của ngươi đã đưa ngươi ra khỏi Mitzrayim trong đêm.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Hãy giữ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tháng Aviv"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "tháng"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Aviv"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "và ngươi hãy làm"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "lễ Pesach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "cho Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim của ngươi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "trong tháng"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Aviv"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "đã đưa ngươi ra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim của ngươi"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "khỏi Mitzrayim"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "trong đêm"
+    }
+  ],
+  "timestamp": "2026-08-19T03:09:12.231800403Z",
+  "model": "glm-5.3"
+}

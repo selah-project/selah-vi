@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 124,
+  "translation": "Bài ca lên đền, của David. Nếu không phải Yahweh — Ngài đã ⟨là⟩ cho chúng ta — thì Israel hãy nói ra:",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "bài ca"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "lên đền"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "của David"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "nếu không"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "đã là"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "cho chúng ta"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "hãy nói"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:56.814417162Z",
+  "model": "glm-5.3"
+}

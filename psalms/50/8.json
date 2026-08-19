@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 50,
+  "translation": "Không phải vì các con sinh của ngươi mà Ta trách ngươi; còn các toàn thiêu của ngươi ⟨thì⟩ ở trước mặt Ta luôn luôn.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "các con sinh của ngươi"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "Ta trách ngươi"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "và các toàn thiêu của ngươi"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "ở trước mặt Ta"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "luôn luôn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:41.393311401Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 43,
+  "translation": "Ta là Yahweh, Đấng Thánh của các ngươi, Đấng sáng tạo ⟨את⟩ Yitsrael, Vua của các ngươi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "Đấng Thánh của các ngươi"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "Đấng sáng tạo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yitsrael"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "Vua của các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:34:55.747100980Z",
+  "model": "glm-5.3"
+}

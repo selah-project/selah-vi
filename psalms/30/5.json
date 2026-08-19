@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Hãy đàn ca cho Yahweh, hỡi những kẻ敬虔诚 của Ngài, và cảm tạ trước sự ghi nhớ sự thánh của Ngài.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "hãy đàn ca cho"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "những kẻ敬虔诚 của Ngài"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "và hãy cảm tạ"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "trước sự ghi nhớ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sự thánh của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:01.399361599Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và giờ đây, hãy đến, ta sẽ sai ngươi đến với Paroh, để ngươi đưa ra ⟨את⟩ dân ta, con cái Yisrael, khỏi Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "và giờ đây"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "hãy đến"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "ta sẽ sai ngươi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến với"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "và hãy đưa ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân ta"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "dân ta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "khỏi Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T02:27:51.738624895Z",
+  "model": "glm-5.3"
+}

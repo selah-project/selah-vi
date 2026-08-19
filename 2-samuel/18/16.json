@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 18:16",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Rồi Yoav thổi kèn, và dân chúng quay lại khỏi việc đuổi theo Yisra'el, vì Yoav đã kiềm chế ⟨את⟩ dân chúng.",
+  "tokens": [
+    {
+      "surface": "ויתקע",
+      "gloss": "rồi thổi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "בשפר",
+      "gloss": "kèn"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "và quay lại"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân chúng"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "khỏi việc đuổi theo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "theo sau"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "đã kiềm chế"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân chúng"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:43:50.809252087Z",
+  "model": "glm-5.3"
+}

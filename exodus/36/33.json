@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 36:33",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 36,
+  "translation": "Và người làm ⟨את⟩ cây đòn ngang giữa, để chạy xuyên qua giữa các ván, từ đầu này đến đầu kia.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "và người làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cây đòn ngang"
+    },
+    {
+      "surface": "הבריח",
+      "gloss": "cây đòn ngang"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "לברח",
+      "gloss": "để chạy xuyên"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "các ván"
+    },
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "đ đầu này"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "đầu kia"
+    }
+  ],
+  "timestamp": "2026-08-19T02:38:25.234613247Z",
+  "model": "glm-5.3"
+}

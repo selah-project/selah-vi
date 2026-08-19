@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 69,
+  "translation": "Nguyện chúng bị xóa khỏi sổ sách của ⟨các⟩ kẻ sống, và cùng với các người công bình, chớ để chúng được ghi vào.",
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "nguyện bị xóa"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "khỏi sổ sách"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "của kẻ sống"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "và cùng với"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "các người công bình"
+    },
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "được ghi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:56.417382372Z",
+  "model": "glm-5.3"
+}

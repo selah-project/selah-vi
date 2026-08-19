@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 36,
+  "translation": "Và ⟨he⟩ làm ⟨את⟩ các ván cho Mishkan: hai mươi ván cho phía nam, về hướng nam.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "và làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các ván"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "các ván"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "cho Mishkan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "hai mươi"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "ván"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "cho phía"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "nam"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "về hướng nam"
+    }
+  ],
+  "timestamp": "2026-08-19T02:38:36.417475212Z",
+  "model": "glm-5.3"
+}

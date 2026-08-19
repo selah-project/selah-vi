@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 6:11",
+  "book": "esther",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Haman lấy ⟨את⟩ áo choàng và ⟨את⟩ con ngựa, mặc cho Mordecai, cho ⟨את⟩ người ấy cưỡi giữa quảng trường của thành, và hô trước mặt người ấy: như vậy sẽ được làm cho người mà vua vui thích tôn vinh.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "và đã lấy"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "áo choàng"
+    },
+    {
+      "surface": "הלבוש",
+      "gloss": "áo choàng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con ngựa"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "con ngựa"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "và đã mặc cho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordecai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordecai"
+    },
+    {
+      "surface": "וירכיבהו",
+      "gloss": "và cho người ấy cưỡi"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "giữa quảng trường"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "của thành"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "và đã hô"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "trước mặt người ấy"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "như vậy"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "sẽ được làm"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "cho người"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "vui thích"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "tôn vinh"
+    }
+  ],
+  "timestamp": "2026-08-19T05:35:38.070214772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Xin hãy thử ⟨את⟩ các tôi tớ của ngài mười ngày; và hãy cho chúng tôi từ các món rau, và chúng tôi sẽ ăn, và nước, và chúng tôi sẽ uống.",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "hãy thử"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các tôi tớ của ngài"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "các tôi tớ của ngài"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "mười"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "và hãy cho"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "chúng tôi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "các món rau"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "và chúng tôi sẽ ăn"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "và nước"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "và chúng tôi sẽ uống"
+    }
+  ],
+  "timestamp": "2026-08-19T05:35:49.045462483Z",
+  "model": "glm-5.3"
+}

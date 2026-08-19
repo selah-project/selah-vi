@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 30:10",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Adonai Yahweh phán rằng: Ta sẽ làm ngưng đọng ⟨את⟩ đám đông của Mitsrayim, vào tay Nevukhadretstsar, vua của Bavel.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "như vậy"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "phán"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "và ta sẽ làm ngưng đọng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đám đông của Mitsrayim"
+    },
+    {
+      "surface": "המון",
+      "gloss": "đám đông"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "của Mitsrayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "vào tay"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nevukhadretstsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "của Bavel"
+    }
+  ],
+  "timestamp": "2026-08-19T04:38:28.542704465Z",
+  "model": "glm-5.3"
+}

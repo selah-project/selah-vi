@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Bà nói với Avraham: hãy đuổi nữ tỳ này cùng ⟨את⟩ con trai bà đi, vì con trai của nữ tỳ này sẽ không thừa kế với con tôi, với Yitschak.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "bà nói"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "với Avraham"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "hãy đuổi"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "nữ tỳ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "này"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con trai bà"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "con trai bà"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "sẽ thừa kế"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "của nữ tỳ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "này"
+    },
+    {
+      "surface": "עם",
+      "gloss": "với"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con tôi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "với"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    }
+  ],
+  "timestamp": "2026-08-19T01:02:11.834486545Z",
+  "model": "glm-5.3"
+}

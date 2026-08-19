@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 33:15",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 33,
+  "translation": "Và ông dời away ⟨את⟩ các elohim ngoại bang và ⟨את⟩ tượng thờ khỏi nhà của Yahweh, và mọi bàn thờ mà ông đã xây trên núi nhà Yahweh và trong Yerushalayim, và ông ném chúng ra ngoài thành.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "và ông dời away"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các elohim ngoại bang"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "các elohim"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "ngoại bang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tượng thờ"
+    },
+    {
+      "surface": "הסמל",
+      "gloss": "tượng thờ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "khỏi nhà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "của Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ông đã xây"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "trên núi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "của Yahweh"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "và trong Yerushalayim"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "và ông ném"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "ra ngoài"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "khỏi thành"
+    }
+  ],
+  "timestamp": "2026-08-19T06:01:30.920977486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 9:19",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Ba người này là con trai của Noach, và từ những người này mà cả đất đã được lan tràn khắp.",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "những người này"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con trai của"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "và từ những người này"
+    },
+    {
+      "surface": "נפצה",
+      "gloss": "được tung ra \/ lan tràn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cả"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T00:50:37.945427968Z",
+  "model": "glm-5.3"
+}

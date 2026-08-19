@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 13:24",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Kẻ giữ lại roi ⟨của mình⟩ là ghét con ⟨mình⟩; còn kẻ yêu con thì sớm tìm cho nó sự sửa dạy.",
+  "tokens": [
+    {
+      "surface": "חושך",
+      "gloss": "kẻ giữ lại"
+    },
+    {
+      "surface": "שבטו",
+      "gloss": "roi của mình"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ghét"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "con của mình"
+    },
+    {
+      "surface": "ואהבו",
+      "gloss": "còn kẻ yêu"
+    },
+    {
+      "surface": "שחרו",
+      "gloss": "sớm tìm kiếm"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "sự sửa dạy"
+    }
+  ],
+  "timestamp": "2026-08-19T05:16:02.599304822Z",
+  "model": "glm-5.3"
+}

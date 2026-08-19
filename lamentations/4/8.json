@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 4:8",
+  "book": "lamentations",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Dáng vẻ họ thẫm hơn than đen; họ không còn được nhận ra giữa phố phường; da họ dính chặt vào xương, khô héo ⟨đã⟩ thành như cây gỗ.",
+  "tokens": [
+    {
+      "surface": "חשך",
+      "gloss": "thẫm"
+    },
+    {
+      "surface": "משחור",
+      "gloss": "hơn than đen"
+    },
+    {
+      "surface": "תארם",
+      "gloss": "dáng vẻ họ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "נכרו",
+      "gloss": "được nhận ra"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "giữa phố phường"
+    },
+    {
+      "surface": "צפד",
+      "gloss": "dính chặt"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "da họ"
+    },
+    {
+      "surface": "על",
+      "gloss": "vào"
+    },
+    {
+      "surface": "עצמם",
+      "gloss": "xương"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "khô héo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "đã thành"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "như cây gỗ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:31:21.066453171Z",
+  "model": "glm-5.3"
+}

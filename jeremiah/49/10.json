@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 49:10",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 49,
+  "translation": "Vì chính Ta đã lột trần ⟨את⟩ Esav, Ta đã phơi bày ⟨את⟩ những nơi ẩn náu của nó, và nó trốn ẩn thì không thể; hậu duệ nó đã bị cướp phá, cùng anh em nó và láng giềng nó, và nó không còn nữa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אני",
+      "gloss": "chính Ta"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "Ta đã lột trần"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "Ta đã phơi bày"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "những nơi ẩn náu của nó"
+    },
+    {
+      "surface": "מסתריו",
+      "gloss": "những nơi ẩn náu của nó"
+    },
+    {
+      "surface": "ונחבה",
+      "gloss": "và trốn ẩn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "nó có thể"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "đã bị cướp phá"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "hậu duệ nó"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "và anh em nó"
+    },
+    {
+      "surface": "ושכניו",
+      "gloss": "và láng giềng nó"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "và nó không còn nữa"
+    }
+  ],
+  "timestamp": "2026-08-19T04:29:33.303626498Z",
+  "model": "glm-5.3"
+}

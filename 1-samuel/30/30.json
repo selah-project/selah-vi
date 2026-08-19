@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "và những người ở Khor-mah, và những người ở Bor-Ashan, và những người ở Atakh",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "và những người ở"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "ở Khor-mah"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "và những người ở"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "ở Bor-"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Ashan"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "và những người ở"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "ở Atakh"
+    }
+  ],
+  "timestamp": "2026-08-19T03:37:43.715848701Z",
+  "model": "glm-5.3"
+}

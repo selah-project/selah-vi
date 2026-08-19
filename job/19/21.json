@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 19:21",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Hãy thương xót tôi, hãy thương xót tôi, hỡi các bạn hữu của tôi; vì tay Eloah đã chạm đến tôi.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "hãy thương xót tôi"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "hãy thương xót tôi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "các bạn (hỡi)"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "bạn hữu của tôi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tay"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "נגעה",
+      "gloss": "đã chạm đến"
+    },
+    {
+      "surface": "בי",
+      "gloss": "tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:23:27.151132005Z",
+  "model": "glm-5.3"
+}

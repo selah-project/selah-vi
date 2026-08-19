@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Vì chính Ngài cứu ⟨את⟩ dân khốn khó, nhưng hạ xuống những con mắt ngạo mạn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "chính Ngài"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "עני",
+      "gloss": "khốn khó"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "cứu"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "nhưng những con mắt"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "ngạo mạn"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "hạ xuống"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:38.433845563Z",
+  "model": "glm-5.3"
+}

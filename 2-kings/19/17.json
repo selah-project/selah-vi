@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Quả thật, Yahweh, các vua của Ashshur đã tàn phá ⟨את⟩ các dân tộc và ⟨את⟩ đất của chúng.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "quả thật"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "đã tàn phá"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "các vua của"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các dân tộc"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "các dân tộc"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "đất của chúng"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "đất của chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T06:10:57.969912060Z",
+  "model": "glm-5.3"
+}

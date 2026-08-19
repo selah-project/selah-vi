@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 63,
+  "translation": "Bài ca (mizmor) của David, khi người còn ở trong hoang mạc Yehudah.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "bài ca (mizmor)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "của David"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "khi người còn ở"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "trong hoang mạc"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:46.011764408Z",
+  "model": "glm-5.3"
+}

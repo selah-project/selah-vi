@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 8:30",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Bấy giờ Yehoshua xây một bàn thờ cho Yahweh, Elohim của Yisrael, trên núi Eival.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "bấy giờ"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "xây"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "cho Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "trên núi"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Eival"
+    }
+  ],
+  "timestamp": "2026-08-19T03:16:56.508903527Z",
+  "model": "glm-5.3"
+}

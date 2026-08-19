@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 35:15",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 35,
+  "translation": "và ⟨את⟩ bàn thờ xông hương và ⟨את⟩ các đòn khiêng nó, và ⟨את⟩ dầu xức và ⟨את⟩ hương các thứ gia vị, và ⟨את⟩ bức màn che lối vào ⟨tại⟩ lối vào của Đền Tạm;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "bàn thờ xông hương"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "xông hương"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các đòn khiêng nó"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "các đòn khiêng nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "dầu xức"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "dầu"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "xức"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "hương của các thứ gia vị"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "hương"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "của các thứ gia vị"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "bức màn của lối vào"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "bức màn che"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "lối vào"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "⟨tại⟩ lối vào"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "của Đền Tạm"
+    }
+  ],
+  "timestamp": "2026-08-19T02:37:51.319511800Z",
+  "model": "glm-5.3"
+}

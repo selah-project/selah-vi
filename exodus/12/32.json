@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Cả chiên bầy của các ngươi lẫn bò đàn của các ngươi, hãy đem theo, như các ngươi đã nói, và hãy đi; và các ngươi hãy cầu phúc ⟨את⟩ cho cả tôi nữa.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "cả"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "chiên bầy của các ngươi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cả lẫn"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "bò đàn của các ngươi"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "hãy đem theo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "các ngươi đã nói"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "và hãy đi"
+    },
+    {
+      "surface": "וברכתם",
+      "gloss": "và các ngươi hãy cầu phúc"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cả"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ tôi",
+      "marks": "tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:31:24.512036033Z",
+  "model": "glm-5.3"
+}

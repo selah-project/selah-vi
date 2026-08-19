@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 92,
+  "translation": "Thánh thi, bài ca, cho ngày Sa-bát.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Thánh thi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "bài ca"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "cho ngày"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sa-bát"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:11.574704755Z",
+  "model": "glm-5.3"
+}

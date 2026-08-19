@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Liệu sức lực tôi ⟨có phải⟩ là sức lực của đá, liệu thịt xương tôi ⟨có phải⟩ là đồng?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "liệu có"
+    },
+    {
+      "surface": "כח",
+      "gloss": "sức lực"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "của đá"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "sức lực của tôi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hay liệu có"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "thịt xương của tôi"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "là đồng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:21:22.761705926Z",
+  "model": "glm-5.3"
+}

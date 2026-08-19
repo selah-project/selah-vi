@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 20:37",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Ông gặp một người khác và nói: \"Xin hãy đánh tôi.\" Người ấy đánh ông — đánh và làm bị thương.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "ông gặp"
+    },
+    {
+      "surface": "איש",
+      "gloss": "một người"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "khác"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "הכיני",
+      "gloss": "hãy đánh tôi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xin"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "và người ấy đánh ông"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "người ấy"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "đánh"
+    },
+    {
+      "surface": "ופצע",
+      "gloss": "và làm bị thương"
+    }
+  ],
+  "timestamp": "2026-08-19T03:54:33.714982491Z",
+  "model": "glm-5.3"
+}

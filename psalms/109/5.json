@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 109:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 109,
+  "translation": "Và chúng đã đặt lên tôi điều ác thay vì điều lành, và sự thù ghét thay vì tình yêu của tôi.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "và chúng đã đặt"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lên tôi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "điều ác"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thay vì"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "điều lành"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "và sự thù ghét"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thay vì"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "tình yêu của tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:32.606904493Z",
+  "model": "glm-5.3"
+}

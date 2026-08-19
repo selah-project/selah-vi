@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 2:5",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và con gái của Paroh đi xuống để tắm nơi dòng sông, và các nữ tì của ⟨nàng⟩ đi dọc theo bờ sông; và ⟨nàng⟩ thấy ⟨את⟩ cái thỏng giữa đám lau sậy, và ⟨nàng⟩ sai đầy tớ nữ của mình, và ⟨nàng ấy⟩ lấy nó lại.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "và-nàng-đi-xuống"
+    },
+    {
+      "surface": "בת",
+      "gloss": "con gái"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "để-tắm"
+    },
+    {
+      "surface": "על",
+      "gloss": "nơi"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "dòng sông"
+    },
+    {
+      "surface": "ונערתיה",
+      "gloss": "và-các-nữ-tì-của-nàng"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "đi"
+    },
+    {
+      "surface": "על",
+      "gloss": "dọc theo"
+    },
+    {
+      "surface": "יד",
+      "gloss": "bên"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "sông"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "và-nàng-thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cái thỏng"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "cái thỏng"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "הסוף",
+      "gloss": "đám lau sậy"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "và-nàng-sai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đầy tớ nữ của nàng"
+    },
+    {
+      "surface": "אמתה",
+      "gloss": "đầy tớ nữ của nàng"
+    },
+    {
+      "surface": "ותקחה",
+      "gloss": "và-nàng ấy-lấy-nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:27:30.125173070Z",
+  "model": "glm-5.3"
+}

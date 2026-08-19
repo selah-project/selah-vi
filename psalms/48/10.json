@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 48,
+  "translation": "Chúng ta đã suy ngẫm, hỡi Elohim, về sự nhân từ của Ngài, giữa cung điện Ngài.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "chúng ta đã suy ngẫm"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sự nhân từ của Ngài"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "cung điện Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:25.730025282Z",
+  "model": "glm-5.3"
+}

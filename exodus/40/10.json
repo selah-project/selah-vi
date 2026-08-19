@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Ngươi sẽ xức ⟨את⟩ bàn thờ thiêu cùng ⟨את⟩ mọi dụng cụ của nó; ngươi sẽ thánh hóa ⟨את⟩ bàn thờ, và bàn thờ sẽ nên thánh các thánh.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "và ngươi sẽ xức"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bàn thờ thiêu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "thiêu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "cùng ⟨את⟩",
+      "marks": "mọi dụng cụ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "dụng cụ của nó"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "và ngươi sẽ thánh hóa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bàn thờ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "và nó sẽ là"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "thánh"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "các thánh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:39:31.980807447Z",
+  "model": "glm-5.3"
+}

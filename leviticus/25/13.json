@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 25:13",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Trong năm yovel ⟨này⟩, các ngươi hãy trở về, mỗi người đến phần sở hữu của mình.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "trong năm"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "yovel"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "này"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "các ngươi hãy trở về"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mỗi người"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "phần sở hữu của mình"
+    }
+  ],
+  "timestamp": "2026-08-19T02:47:49.028313511Z",
+  "model": "glm-5.3"
+}

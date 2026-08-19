@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Đất đã bị ô uế, nên Ta đã thăm phạt sự perversity của nó trên nó, và đất đã mửa ra ⟨את⟩ các cư dân của nó.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "đã bị ô uế"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "nên Ta đã thăm phạt"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "sự perversity của nó"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "trên nó"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "đã mửa ra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các cư dân của nó"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "các cư dân của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:44:52.726881561Z",
+  "model": "glm-5.3"
+}

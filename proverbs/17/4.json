@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 17:4",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Kẻ làm ác lắng tai nghe ⟨את⟩ môi tội ác, kẻ dối nghe ⟨את⟩ lưỡi gây hoại diệt.",
+  "tokens": [
+    {
+      "surface": "מרע",
+      "gloss": "kẻ làm ác"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "lắng tai nghe"
+    },
+    {
+      "surface": "על",
+      "gloss": "về"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "môi"
+    },
+    {
+      "surface": "און",
+      "gloss": "tội ác"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kẻ dối"
+    },
+    {
+      "surface": "מזין",
+      "gloss": "lắng nghe"
+    },
+    {
+      "surface": "על",
+      "gloss": "về"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lưỡi"
+    },
+    {
+      "surface": "הות",
+      "gloss": "gây hoại diệt"
+    }
+  ],
+  "timestamp": "2026-08-19T06:19:30.554511431Z",
+  "model": "glm-5.3"
+}

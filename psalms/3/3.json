@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Nhiều kẻ nói với linh hồn con: «Không có sự cứu giúp nào cho nó trong Elohim.» Selah.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "nhiều kẻ"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "nói"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "với linh hồn con"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "sự cứu giúp"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho nó"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "trong Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T04:55:00.623707763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Chỉ có điều máu thì các ngươi chớ ăn; trên đất các ngươi hãy đổ nó ra như nước.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "chỉ có điều"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "máu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "các ngươi ăn"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "các ngươi hãy đổ nó ra"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "như nước"
+    }
+  ],
+  "timestamp": "2026-08-19T03:08:16.600280358Z",
+  "model": "glm-5.3"
+}

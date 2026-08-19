@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 5:2",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Và Paro nói: Yahweh là ai, mà ⟨ta⟩ phải nghe theo tiếng Ngài để thả ⟨את⟩ Yisrael? Ta không biết ⟨את⟩ Yahweh, và cả ⟨את⟩ Yisrael nữa, ta sẽ không thả.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ta phải nghe"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "theo tiếng Ngài"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "để thả"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ta biết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "và cả"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ta sẽ thả"
+    }
+  ],
+  "timestamp": "2026-08-19T02:29:02.465724478Z",
+  "model": "glm-5.3"
+}

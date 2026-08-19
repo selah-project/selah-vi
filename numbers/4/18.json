@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 4:18",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Đừng các ngươi hủy diệt ⟨את⟩ chi tộc của các gia đình Kehatit khỏi giữa người Lêvi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תכריתו",
+      "gloss": "các ngươi hủy diệt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chi tộc"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "chi tộc"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "của các gia đình"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "Kehatit"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "khỏi giữa"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "người Lêvi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:52:51.295141656Z",
+  "model": "glm-5.3"
+}

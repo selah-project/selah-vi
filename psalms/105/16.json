@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 105,
+  "translation": "Và Ngài kêu gọi nạn đói đến trên đất, mọi cây gậy của bánh mì Ngài đã bẻ gãy.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "và Ngài kêu gọi"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "nạn đói"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "cây gậy"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bánh mì"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "đã bẻ gãy"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:41.308338455Z",
+  "model": "glm-5.3"
+}

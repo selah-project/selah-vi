@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 9:8",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Chớ quở trách kẻ nhạo báng, kẻo nó ghét ngươi; hãy quở trách người khôn ngoan, và nó sẽ yêu ngươi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תוכח",
+      "gloss": "quở trách"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "kẻ nhạo báng"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kẻo"
+    },
+    {
+      "surface": "ישנאך",
+      "gloss": "nó ghét ngươi"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "hãy quở trách"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "người khôn ngoan"
+    },
+    {
+      "surface": "ויאהבך",
+      "gloss": "và nó sẽ yêu ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:15:28.856657981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 13:6",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Tuy nhiên họ không xa lánh khỏi các tội của nhà Yarov'am, mà ông đã làm cho ⟨את⟩ Yisra'el phạm tội trong đó; họ cứ đi trong đó; và cả cây asherah cũng vẫn đứng tại Shomron.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tuy nhiên"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "họ xa lánh"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "khỏi các tội của"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà của"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarov'am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "החטי",
+      "gloss": "ông đã làm phạm tội"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "בה",
+      "gloss": "trong đó"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "đi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "và cả"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "cây asherah"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "nó vẫn đứng"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "tại Shomron"
+    }
+  ],
+  "timestamp": "2026-08-19T03:59:58.749790874Z",
+  "model": "glm-5.3"
+}

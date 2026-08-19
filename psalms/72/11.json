@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 72,
+  "translation": "Và mọi vua sẽ phủ phục trước ngươi; mọi dân tộc sẽ hầu việc ngươi.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "và sẽ phủ phục"
+    },
+    {
+      "surface": "לו",
+      "gloss": "trước ngươi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "vua chúa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "dân tộc"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "sẽ hầu việc ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:25.195764201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và thầy tế lễ sẽ dâng ⟨chúng⟩ trước mặt Yahweh, và sẽ làm ⟨את⟩ lễ tội của người ấy và ⟨את⟩ lễ thiêu của người ấy.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "và sẽ dâng"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "thầy tế lễ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "và sẽ làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lễ tội của người ấy"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "lễ tội của người ấy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lễ thiêu của người ấy"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "lễ thiêu của người ấy"
+    }
+  ],
+  "timestamp": "2026-08-19T02:53:49.977414637Z",
+  "model": "glm-5.3"
+}

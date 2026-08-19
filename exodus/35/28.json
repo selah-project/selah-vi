@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 35,
+  "translation": "Và ⟨את⟩ hương-liệu, và ⟨את⟩ dầu, cho ánh-sáng, cho dầu xức và cho hương-thuốc.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "hương-liệu"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "hương-liệu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "dầu"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "dầu"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "cho ánh-sáng"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "và cho dầu"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "xức"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "và cho hương-thuốc"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "các vị thơm"
+    }
+  ],
+  "timestamp": "2026-08-19T02:37:07.248151469Z",
+  "model": "glm-5.3"
+}

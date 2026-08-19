@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 14:23",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "thì sẽ không thấy ⟨את⟩ đất mà Ta đã thề với tổ tiên họ; và tất cả những kẻ khinh miệt Ta sẽ không thấy nó.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "sẽ thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đất"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "Ta đã thề"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "với tổ tiên họ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và tất cả"
+    },
+    {
+      "surface": "מנאצי",
+      "gloss": "những kẻ khinh miệt Ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יראוה",
+      "gloss": "sẽ thấy nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:56:56.725218712Z",
+  "model": "glm-5.3"
+}

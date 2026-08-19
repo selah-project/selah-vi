@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Dân sự đứng từ đàng xa, còn Moshe tiến gần đến đám mây mù tối nơi Elohim ngự đó.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "đứng"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "từ đàng xa"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "còn Moshe"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "tiến gần"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "đám mây mù tối"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nơi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "đó"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T02:32:33.371497089Z",
+  "model": "glm-5.3"
+}

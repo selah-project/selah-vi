@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 3:24",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và vua nói: \"Hãy lấy cho ta một thanh gươm.\" Và họ đem thanh gươm đến trước mặt vua.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và vua nói"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "hãy lấy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho ta"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "thanh gươm"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "và họ đem đến"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "thanh gươm"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    }
+  ],
+  "timestamp": "2026-08-19T06:09:20.391204218Z",
+  "model": "glm-5.3"
+}

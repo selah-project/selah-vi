@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 33,
+  "translation": "Và Ngài phán: ngươi không thể thấy ⟨את⟩ mặt ta; vì người ta sẽ không thấy ta mà còn sống.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và phán"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "ngươi có thể"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mặt ta"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt ta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "sẽ thấy ta"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "người ta"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "và còn sống"
+    }
+  ],
+  "timestamp": "2026-08-19T02:37:31.075906262Z",
+  "model": "glm-5.3"
+}

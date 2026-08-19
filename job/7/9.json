@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 7:9",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Đám mây tan hết rồi đi; kẻ xuống Sheol cũng vậy, sẽ không lên nữa.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "tan hết"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "đám mây"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "rồi đi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "cũng vậy"
+    },
+    {
+      "surface": "יורד",
+      "gloss": "xuống"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "sẽ lên"
+    }
+  ],
+  "timestamp": "2026-08-19T05:21:13.615174969Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 148,
+  "translation": "Và Ngài đã dựng chúng đứng vững đến đời đời, mãi mãi; Ngài đã ban một định lệ, và chúng sẽ không vượt qua.",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "và Ngài đã dựng chúng đứng vững"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "đến đời đời"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mãi mãi"
+    },
+    {
+      "surface": "חק",
+      "gloss": "một định lệ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Ngài đã ban"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "sẽ vượt qua"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:43.594575154Z",
+  "model": "glm-5.3"
+}

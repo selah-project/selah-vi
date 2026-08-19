@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 35:19",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 35,
+  "translation": "Rachael chết, và được chôn trên đường đến Ephrata — ấy là Beit-Lechem.",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "nàng chết"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachael"
+    },
+    {
+      "surface": "ותקבר",
+      "gloss": "được chôn"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "trên đường"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "Ephrata"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ấy là"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-08-19T01:22:56.002576291Z",
+  "model": "glm-5.3"
+}

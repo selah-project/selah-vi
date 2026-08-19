@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Roi cho ngựa, hàm thiềm cho lừa, và cây roi cho lưng những kẻ dại.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "roi"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "cho ngựa"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "hàm thiềm"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "cho lừa"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "và cây roi"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "cho lưng"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "những kẻ dại"
+    }
+  ],
+  "timestamp": "2026-08-19T05:19:01.737238749Z",
+  "model": "glm-5.3"
+}

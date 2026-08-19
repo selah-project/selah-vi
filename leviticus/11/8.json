@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Thịt chúng các ngươi không ăn, và xác chết của chúng các ngươi không chạm vào — chúng ô uế đối với các ngươi.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "từ thịt chúng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "các ngươi ăn"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "và trong xác chết chúng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "các ngươi chạm"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "chúng ô uế"
+    },
+    {
+      "surface": "הם",
+      "gloss": "chúng"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "đối với các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:42:33.360013943Z",
+  "model": "glm-5.3"
+}

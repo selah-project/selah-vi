@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 78,
+  "translation": "Và chúng quên các việc Ngài đã làm, và các phép lạ của Ngài mà Ngài đã cho chúng thấy.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "và chúng quên"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "các việc Ngài đã làm"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "và các phép lạ của Ngài"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "Ngài đã cho chúng thấy"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:47.631714274Z",
+  "model": "glm-5.3"
+}

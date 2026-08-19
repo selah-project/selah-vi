@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 14:12",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Há không phải ⟨là⟩ lời này mà chúng tôi đã nói với ngài trong Mitzrayim, rằng: 'Hãy thôi bỏ chúng tôi, để chúng tôi phục dịch ⟨את⟩ Mitzrayim'? Vì phục dịch ⟨את⟩ Mitzrayim thì tốt cho chúng tôi hơn là chết trong hoang mạc.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "há không phải"
+    },
+    {
+      "surface": "זה",
+      "gloss": "này"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lời"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "chúng tôi đã nói"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "với ngài"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "trong Mitzrayim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "hãy thôi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "bỏ chúng tôi"
+    },
+    {
+      "surface": "ונעבדה",
+      "gloss": "để chúng tôi phục dịch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitzrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tốt"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "cho chúng tôi"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "phục dịch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitzrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "ממתנו",
+      "gloss": "hơn là chết"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "trong hoang mạc"
+    }
+  ],
+  "timestamp": "2026-08-19T06:03:41.366429218Z",
+  "model": "glm-5.3"
+}

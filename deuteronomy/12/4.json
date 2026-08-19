@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Các ngươi không được làm như vậy đối với Yahweh, Elohim của các ngươi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "các ngươi được làm"
+    },
+    {
+      "surface": "כן",
+      "gloss": "như vậy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "đối với Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim của các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:07:56.129524034Z",
+  "model": "glm-5.3"
+}

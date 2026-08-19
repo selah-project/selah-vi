@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 55,
+  "translation": "Tôi muốn chóng tìm ⟨cho⟩ mình nơi trốn chạy, khỏi gió lộng, khỏi bão cuồng.",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "tôi muốn chóng"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "nơi trốn chạy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho mình"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "khỏi gió"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "lộng"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "khỏi bão cuồng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:20.051815277Z",
+  "model": "glm-5.3"
+}

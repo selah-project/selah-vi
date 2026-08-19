@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và Yehoshua đã làm cho chúng như Yahweh đã phán với ông: ⟨את⟩ ngựa của chúng ông đã chặt gân, còn ⟨את⟩ các cỗ chiến xa của chúng thì đốt trong lửa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho chúng"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "đã phán"
+    },
+    {
+      "surface": "לו",
+      "gloss": "với ông"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngựa của chúng"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "ngựa của chúng"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "đã chặt gân"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các cỗ chiến xa của chúng"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "các cỗ chiến xa của chúng"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "đã đốt"
+    },
+    {
+      "surface": "באש",
+      "gloss": "trong lửa"
+    }
+  ],
+  "timestamp": "2026-08-19T03:18:18.949051318Z",
+  "model": "glm-5.3"
+}

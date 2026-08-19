@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Arpakhshad sống ba mươi lăm năm, và đã sinh ra ⟨את⟩ Shelach.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "và Arpakhshad"
+    },
+    {
+      "surface": "חי",
+      "gloss": "đã sống"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "năm"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "và ba mươi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "năm"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "và đã sinh ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelach"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelach"
+    }
+  ],
+  "timestamp": "2026-08-19T00:54:03.982633808Z",
+  "model": "glm-5.3"
+}

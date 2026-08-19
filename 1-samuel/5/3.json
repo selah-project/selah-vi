@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 5:3",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Và dân Ashdod dậy sớm ngày hôm sau, và kìa, Dagon ngã sấp mặt xuống đất trước aron của Yahweh; và họ lấy ⟨את⟩ Dagon lên và đặt nó lại ⟨את⟩ vào chỗ của nó.",
+  "tokens": [
+    {
+      "surface": "וישכמו",
+      "gloss": "và dậy sớm"
+    },
+    {
+      "surface": "אשדודים",
+      "gloss": "dân Ashdod"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ngày hôm sau"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "và kìa"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ngã sấp mặt"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "mặt của nó xuống"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "đất"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "của Yahweh"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "và đã lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dagon"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "và đã đặt lại"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nó",
+      "marks": "nó (Dagon)"
+    },
+    {
+      "surface": "למקומו",
+      "gloss": "vào chỗ của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T03:30:41.326150559Z",
+  "model": "glm-5.3"
+}

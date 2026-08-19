@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 10:17",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Con đường đến sự sống ⟨là⟩ kẻ giữ giáo huấn, nhưng kẻ bỏ sự quở trách sẽ lầm lạc.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "con đường"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "đến sự sống"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "kẻ giữ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "giáo huấn"
+    },
+    {
+      "surface": "ועוזב",
+      "gloss": "và kẻ bỏ"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "sự quở trách"
+    },
+    {
+      "surface": "מתעה",
+      "gloss": "sẽ lầm lạc"
+    }
+  ],
+  "timestamp": "2026-08-19T05:15:41.738993141Z",
+  "model": "glm-5.3"
+}

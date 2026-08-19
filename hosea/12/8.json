@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 12:8",
+  "book": "hosea",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Kenaan! Trong tay hắn ⟨là⟩ cân giả dối; hắn yêu thích ⟨את⟩ sự ức hiếp.",
+  "tokens": [
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "trong tay hắn"
+    },
+    {
+      "surface": "מאזני",
+      "gloss": "cân"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "giả dối"
+    },
+    {
+      "surface": "לעשק",
+      "gloss": "⟨את⟩ sự ức hiếp",
+      "marks": "sự ức hiếp"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "yêu thích"
+    }
+  ],
+  "timestamp": "2026-08-19T04:45:39.647008588Z",
+  "model": "glm-5.3"
+}

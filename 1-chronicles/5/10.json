@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 5:10",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Và trong các ngày của Shaoul, ⟨họ⟩ gây chiến trận với ⟨את⟩ người Hagri, và ⟨họ⟩ ngã vào tay họ, và ⟨họ⟩ ở trong các trại của họ trên khắp mặt phía đông của Gilad.",
+  "tokens": [
+    {
+      "surface": "ובימי",
+      "gloss": "và trong các ngày của"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaoul"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gây"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "chiến trận"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người Hagri"
+    },
+    {
+      "surface": "עם",
+      "gloss": "với"
+    },
+    {
+      "surface": "ההגראים",
+      "gloss": "người Hagri"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "và ngã"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "vào tay họ"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "và ở"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "trong các trại của họ"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "khắp"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt của"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "phía đông"
+    },
+    {
+      "surface": "לגלעד",
+      "gloss": "của Gilad"
+    }
+  ],
+  "timestamp": "2026-08-19T05:47:50.828887477Z",
+  "model": "glm-5.3"
+}

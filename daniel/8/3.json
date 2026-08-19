@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 8:3",
+  "book": "daniel",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Tôi nhắc mắt lên và thấy, kìa, một con cừu đực đứng trước sông, và nó có sừng; những cái sừng cao, và cái ⟨sừng⟩ thứ nhất cao hơn cái thứ hai, và cái cao hơn mọc lên sau.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "tôi nhắc lên"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mắt tôi"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "và thấy"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kìa"
+    },
+    {
+      "surface": "איל",
+      "gloss": "con cừu đực"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "một"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "đứng"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước"
+    },
+    {
+      "surface": "האבל",
+      "gloss": "sông"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "và nó có"
+    },
+    {
+      "surface": "קרנים",
+      "gloss": "sừng (số đôi)"
+    },
+    {
+      "surface": "והקרנים",
+      "gloss": "và những cái sừng"
+    },
+    {
+      "surface": "גבהות",
+      "gloss": "cao"
+    },
+    {
+      "surface": "והאחת",
+      "gloss": "và cái thứ nhất"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "cao"
+    },
+    {
+      "surface": "מן",
+      "gloss": "hơn"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "cái thứ hai"
+    },
+    {
+      "surface": "והגבהה",
+      "gloss": "và cái cao"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "mọc lên"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "sau"
+    }
+  ],
+  "timestamp": "2026-08-19T05:38:52.667219003Z",
+  "model": "glm-5.3"
+}

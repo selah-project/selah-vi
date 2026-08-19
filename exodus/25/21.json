@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Ngươi sẽ đặt ⟨את⟩ nắp thiêng trên Hòm, phía trên, và vào Hòm ngươi sẽ đặt ⟨את⟩ lời chứng mà Ta sẽ ban cho ngươi.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ngươi sẽ đặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nắp thiêng"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "nắp thiêng"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Hòm"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "phía trên"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và vào"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Hòm"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ngươi sẽ đặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lời chứng"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "lời chứng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "Ta sẽ ban"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "cho ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:34:44.240250913Z",
+  "model": "glm-5.3"
+}

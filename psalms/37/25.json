@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Tôi từng là tuổi trẻ, rồi cũng già đi, mà chưa hề thấy người công bình bị bỏ rơi, hay con cháu ⟨họ⟩ phải tìm xin bánh mì.",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "tuổi trẻ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "tôi từng là"
+    },
+    {
+      "surface": "גם",
+      "gloss": "rồi cũng"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "già đi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mà không"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "tôi thấy"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "người công bình"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "bị bỏ rơi"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "hay con cháu"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "phải tìm xin"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bánh mì"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:26.550532598Z",
+  "model": "glm-5.3"
+}

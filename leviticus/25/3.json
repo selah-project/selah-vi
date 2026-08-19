@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Sáu năm ngươi hãy gieo ⟨את⟩ ruộng mình, và sáu năm ngươi hãy tỉa ⟨את⟩ vườn nho mình, và ngươi sẽ gặt ⟨את⟩ sản vật của nó.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "sáu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "năm"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "ngươi hãy gieo"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "ruộng ngươi"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "và sáu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "năm"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "ngươi hãy tỉa"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "vườn nho ngươi"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "và ngươi sẽ gặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sản vật của nó"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "sản vật của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:48:03.139487102Z",
+  "model": "glm-5.3"
+}

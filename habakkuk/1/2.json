@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 1:2",
+  "book": "habakkuk",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Cho đến bao lâu, Yahweh, tôi kêu cầu mà Ngài không nghe? Tôi la lên cùng Ngài về sự bạo hành, mà Ngài không cứu?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "bao lâu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "tôi kêu cầu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mà không"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "Ngài nghe"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "tôi la lên"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "cùng Ngài"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "sự bạo hành"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mà không"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "Ngài cứu"
+    }
+  ],
+  "timestamp": "2026-08-19T04:50:39.829581033Z",
+  "model": "glm-5.3"
+}

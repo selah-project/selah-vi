@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 36,
+  "translation": "Yahweh, trong các tầng trời ⟨là⟩ lòng nhân từ của Ngài; sự tín thực của Ngài ⟨vươn⟩ đến các tầng mây.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "trong các tầng trời"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "lòng nhân từ của Ngài"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "sự tín thực của Ngài"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "các tầng mây"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:52.302250439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 81:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 81,
+  "translation": "Hãy cất tiếng hát lên cho Elohim ⟨là⟩ sức mạnh của chúng ta, hãy reo hò lên cho Elohim của Yaakov.",
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "hãy cất tiếng hát"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "cho Elohim"
+    },
+    {
+      "surface": "עוזנו",
+      "gloss": "sức mạnh của chúng ta"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "hãy reo hò"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "cho Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:26.601080135Z",
+  "model": "glm-5.3"
+}

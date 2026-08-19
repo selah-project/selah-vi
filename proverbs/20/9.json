@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 20:9",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Ai có thể nói: Tôi đã làm tinh sạch lòng mình, tôi đã được thanh tẩy khỏi tội mình?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "có thể nói"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "tôi đã làm tinh sạch"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "lòng mình"
+    },
+    {
+      "surface": "טהרתי",
+      "gloss": "tôi đã được thanh tẩy"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "khỏi tội mình"
+    }
+  ],
+  "timestamp": "2026-08-19T05:17:29.836721609Z",
+  "model": "glm-5.3"
+}

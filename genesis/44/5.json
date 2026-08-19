@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 44:5",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Há không phải ⟨את⟩ đây là cái mà Adonai tôi uống, và ông ta bói toán bằng nó sao? Các ngươi đã làm điều xấu mà các ngươi đã làm.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "há không phải"
+    },
+    {
+      "surface": "זה",
+      "gloss": "đây"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "uống"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai tôi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "bằng nó"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "và ông ta"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "bói"
+    },
+    {
+      "surface": "ינחש",
+      "gloss": "toán"
+    },
+    {
+      "surface": "בו",
+      "gloss": "bằng nó"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "các ngươi đã làm điều xấu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "các ngươi đã làm"
+    }
+  ],
+  "timestamp": "2026-08-19T02:25:00.556196682Z",
+  "model": "glm-5.3"
+}

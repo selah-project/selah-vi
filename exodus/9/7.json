@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 9:7",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và Pharaoh sai người đi xem, và kìa, gia súc của Yisrael không chết đến một con; mà lòng Pharaoh trở nên cứng cỏi, và người không tha ⟨את⟩ dân ấy đi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "và đã sai"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaoh"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "và kìa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "מת",
+      "gloss": "chết"
+    },
+    {
+      "surface": "ממקנה",
+      "gloss": "từ gia súc"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "một con"
+    },
+    {
+      "surface": "ויכבד",
+      "gloss": "và trở nên nặng nề"
+    },
+    {
+      "surface": "לב",
+      "gloss": "lòng"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaoh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "tha đi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân ấy"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    }
+  ],
+  "timestamp": "2026-08-19T02:29:31.501043313Z",
+  "model": "glm-5.3"
+}

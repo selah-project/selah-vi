@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 4:19",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và ⟨את⟩ tất cả mỡ của nó, ông sẽ nhấc lên khỏi nó, và xông trên bàn thờ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả mỡ của nó"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "mỡ của nó"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ông sẽ nhấc lên"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "khỏi nó"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "và xông lên"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "trên bàn thờ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:40:16.828886957Z",
+  "model": "glm-5.3"
+}

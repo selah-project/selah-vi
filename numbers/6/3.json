@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 6:3",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Từ rượu vang và đồ uống mạnh người ấy phải biệt riêng; giấm rượu vang và giấm đồ uống mạnh người ấy không được uống; và mọi nước ép nho người ấy không được uống; và nho tươi và nho khô người ấy không được ăn.",
+  "tokens": [
+    {
+      "surface": "מיין",
+      "gloss": "từ rượu vang"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "và đồ uống mạnh"
+    },
+    {
+      "surface": "יזיר",
+      "gloss": "người ấy phải biệt riêng"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "giấm"
+    },
+    {
+      "surface": "יין",
+      "gloss": "rượu vang"
+    },
+    {
+      "surface": "וחמץ",
+      "gloss": "và giấm"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "đồ uống mạnh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "người ấy được uống"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "nước ép"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "nho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "người ấy được uống"
+    },
+    {
+      "surface": "וענבים",
+      "gloss": "và nho"
+    },
+    {
+      "surface": "לחים",
+      "gloss": "tươi"
+    },
+    {
+      "surface": "ויבשים",
+      "gloss": "và khô"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "người ấy được ăn"
+    }
+  ],
+  "timestamp": "2026-08-19T02:54:31.458960127Z",
+  "model": "glm-5.3"
+}

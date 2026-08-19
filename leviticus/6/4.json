@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và người sẽ cởi ⟨את⟩ áo mình ra, mặc áo khác, rồi đem ⟨את⟩ tro ra ngoài trại quân, đến nơi tinh sạch.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "và sẽ cởi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "áo mình"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "áo mình"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "và mặc"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "áo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "khác"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "và đem ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tro"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "tro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ngoài"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "trại quân"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "nơi"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tinh sạch"
+    }
+  ],
+  "timestamp": "2026-08-19T02:41:20.922112895Z",
+  "model": "glm-5.3"
+}

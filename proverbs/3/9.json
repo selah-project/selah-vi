@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Hãy tôn vinh ⟨את⟩ Yahweh bằng của cải ngươi, và bằng phương sản đầu mùa của mọi hoa lợi ngươi.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Hãy tôn vinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "bằng của cải ngươi"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "và bằng phương sản đầu mùa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "hoa lợi ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:14:08.554147167Z",
+  "model": "glm-5.3"
+}

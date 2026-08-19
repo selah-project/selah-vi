@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 53:4",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 53,
+  "translation": "Thật vậy, những bệnh tật của chúng tôi — chính người đã mang lấy, và những đau đớn của chúng tôi — người đã gánh chịu; còn chúng tôi đã coi người là bị đánh, bị Elohim đánh đập và bị hoạn nạn.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "thật vậy"
+    },
+    {
+      "surface": "חלינו",
+      "gloss": "những bệnh tật của chúng tôi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chính người"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "đã mang lấy"
+    },
+    {
+      "surface": "ומכאבינו",
+      "gloss": "và những đau đớn của chúng tôi"
+    },
+    {
+      "surface": "סבלם",
+      "gloss": "người đã gánh chịu"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "còn chúng tôi"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "đã coi người là"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "bị đánh"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "bị đánh đập"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bởi Elohim"
+    },
+    {
+      "surface": "ומענה",
+      "gloss": "và bị hoạn nạn"
+    }
+  ],
+  "timestamp": "2026-08-19T04:14:08.573885501Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Vua Shlomoh đã yêu thương nhiều phụ nữ ngoại quốc, cùng ⟨את⟩ con gái của Paroh: phụ nữ Mô-áp, A-môn, Ê-đôm, Xi-đôn, và Khít-tít.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "và vua"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomoh"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "đã yêu thương"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "phụ nữ"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "ngoại quốc"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "nhiều"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "con gái của Paroh"
+    },
+    {
+      "surface": "בת",
+      "gloss": "con gái"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "Mô-áp"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "A-môn"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "Ê-đôm"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "Xi-đôn"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "Khít-tít"
+    }
+  ],
+  "timestamp": "2026-08-19T03:50:46.387532385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 9:15",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "để con kể lại mọi lời ngợi khen Ngài trong các cổng của con gái Tzion; con sẽ vui mừng trong sự cứu ngộ của Ngài.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "để"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "con kể lại"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "תהלתיך",
+      "gloss": "lời ngợi khen của Ngài"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "trong các cổng"
+    },
+    {
+      "surface": "בת",
+      "gloss": "con gái"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "con sẽ vui mừng"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "trong sự cứu ngộ của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T04:55:48.434026980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 4:21",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và người ấy đem con bò ra ⟨את⟩ đến bên ngoài trại quân, và thiêu nó, như đã thiêu ⟨את⟩ con bò thứ nhất; đó là lễ tha tội của hội chúng.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "và đem ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con bò"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "con bò"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "bên ngoài"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "trại quân"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "và thiêu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nó",
+      "marks": "con bò"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "đã thiêu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con bò thứ nhất"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "con bò"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "thứ nhất"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "lễ tha tội"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "của hội chúng"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "đó là"
+    }
+  ],
+  "timestamp": "2026-08-19T02:40:24.431091867Z",
+  "model": "glm-5.3"
+}

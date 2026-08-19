@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 70,
+  "translation": "Cho người chỉ huy ca đoàn, của David, để làm kỷ niệm.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "cho người chỉ huy ca đoàn"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "của David"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "để làm kỷ niệm"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:59.554647473Z",
+  "model": "glm-5.3"
+}

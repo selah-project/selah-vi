@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và những kẻ chăn chiên đến và đuổi họ đi; và Moshe đứng dậy và cứu giúp họ, và cho uống ⟨את⟩ đàn chiên của họ.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "và đến"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "những kẻ chăn chiên"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "và đuổi họ đi"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "và đứng dậy"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "và cứu giúp họ"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "và cho uống"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đàn chiên của họ"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "đàn chiên của họ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:27:31.263552961Z",
+  "model": "glm-5.3"
+}

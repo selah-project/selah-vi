@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 65,
+  "translation": "Dân nào chọc giận Ta ⟨את⟩, ngay trước mặt Ta luôn luôn; họ slaughter-tế trong các khu vườn và xông hương trên các viên gạch.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "dân-đó"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "những-kẻ-chọc-giận"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩Ta",
+      "marks": "Ta"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "luôn-luôn"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "slaughter-tế"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "trong-các-khu-vườn"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "và-xông-hương"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "các-viên-gạch"
+    }
+  ],
+  "timestamp": "2026-08-19T04:16:15.518145427Z",
+  "model": "glm-5.3"
+}

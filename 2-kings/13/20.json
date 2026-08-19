@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Và Elisha chết, và họ chôn ⟨ông⟩; còn các toán cướp của Moav thì cứ vào ⟨trong⟩ đất vào mùa năm mới.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "và chết"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "và họ chôn ⟨ông⟩"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "và các toán cướp của"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "thì cứ vào"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨trong⟩ đất"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vào lúc"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "năm mới"
+    }
+  ],
+  "timestamp": "2026-08-19T03:59:47.691525274Z",
+  "model": "glm-5.3"
+}

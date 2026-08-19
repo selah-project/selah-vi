@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 33,
+  "translation": "Esav nói: \"Tôi có nhiều lắm rồi, anh tôi; hãy để phần anh là của anh.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "יש",
+      "gloss": "có"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "nhiều"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "anh tôi"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "hãy để cho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "của anh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "điều mà"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anh có"
+    }
+  ],
+  "timestamp": "2026-08-19T01:18:06.476593482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Và khi các ngươi nói: chúng ta sẽ ăn gì trong năm thứ-bảy? kìa, chúng ta không gieo và không gặt ⟨את⟩ hoa-lợi của chúng ta —",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "và khi"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "các ngươi nói"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "chúng ta sẽ ăn"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "trong năm"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "thứ-bảy"
+    },
+    {
+      "surface": "הן",
+      "gloss": "kìa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "chúng ta gieo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "chúng ta gặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoa-lợi của chúng ta"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "hoa-lợi của chúng ta"
+    }
+  ],
+  "timestamp": "2026-08-19T02:48:06.915531474Z",
+  "model": "glm-5.3"
+}

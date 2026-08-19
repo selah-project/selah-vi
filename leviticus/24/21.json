@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 24:21",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Kẻ đánh chết súc vật phải bồi hoàn nó; còn kẻ đánh chết người thì phải bị xử tử.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "và kẻ đánh chết"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "súc vật"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "phải bồi hoàn nó"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "và kẻ đánh chết"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "con người"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "phải bị xử tử"
+    }
+  ],
+  "timestamp": "2026-08-19T02:47:15.242263992Z",
+  "model": "glm-5.3"
+}

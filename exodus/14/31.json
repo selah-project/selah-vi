@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 14:31",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Và Yisrael thấy ⟨את⟩ bàn tay vĩ đại mà Yahweh đã làm nơi Mitsrayim; và dân tộc kính sợ Yahweh, và tin nơi Yahweh và nơi Moshe, tôi tớ của Ngài.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "và thấy"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bàn tay vĩ đại"
+    },
+    {
+      "surface": "היד",
+      "gloss": "bàn tay"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "vĩ đại"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "nơi Mitsrayim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "và kính sợ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân tộc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמינו",
+      "gloss": "và tin"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "nơi Yahweh"
+    },
+    {
+      "surface": "ובמשה",
+      "gloss": "và nơi Moshe"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "tôi tớ của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T02:31:10.973186608Z",
+  "model": "glm-5.3"
+}

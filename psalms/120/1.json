@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 120,
+  "translation": "Bài ca lên đền. Đến với Yahweh, trong cơn nguy khốn ⟨của⟩ tôi, tôi đã kêu cầu, và Ngài đã đáp lời tôi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "bài ca"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "lên đền \/ bước đi lên"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến với"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "trong cơn nguy khốn"
+    },
+    {
+      "surface": "לי",
+      "gloss": "của tôi"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "tôi đã kêu cầu"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "và Ngài đã đáp lời tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:36.787267446Z",
+  "model": "glm-5.3"
+}

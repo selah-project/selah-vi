@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 8:12",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Các ngươi chớ nói: 'âm mưu', về tất cả mà dân nầy nói: 'âm mưu'; và ⟨את⟩ cơn kinh sợ của nó, các ngươi chớ sợ, và chớ run rẩy.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "các ngươi nói"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "âm mưu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "về tất cả"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "nó nói"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nầy"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "âm mưu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "cơn kinh sợ của nó"
+    },
+    {
+      "surface": "מוראו",
+      "gloss": "cơn kinh sợ của nó"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "các ngươi sợ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và chớ"
+    },
+    {
+      "surface": "תעריצו",
+      "gloss": "run rẩy"
+    }
+  ],
+  "timestamp": "2026-08-19T04:04:53.471164908Z",
+  "model": "glm-5.3"
+}

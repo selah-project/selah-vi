@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "⟨את⟩ bạc của ngươi, chớ cho hắn ăn lãi; và chớ lấy lời thêm mà cho đồ ăn của ngươi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bạc của ngươi"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "bạc của ngươi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "cho"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hắn"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "ăn lãi"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "và lấy lời thêm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "cho"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "đồ ăn của ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:47:33.038672829Z",
+  "model": "glm-5.3"
+}

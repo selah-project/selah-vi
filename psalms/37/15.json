@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Gươm của chúng sẽ đâm vào lòng chính chúng, và cung của chúng sẽ bị bẻ gãy.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "gươm của chúng"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "sẽ đâm vào"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "lòng của chúng"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "và cung của chúng"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "sẽ bị bẻ gãy"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:06.241868756Z",
+  "model": "glm-5.3"
+}

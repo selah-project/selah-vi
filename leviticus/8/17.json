@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 8:17",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và ⟨את⟩ con bò đực, và ⟨את⟩ da nó, và ⟨את⟩ thịt nó, và ⟨את⟩ phân nó, ông đốt trong lửa, ở ngoài trại quân, như Yahweh đã phán dặn ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con bò đực"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "con bò đực"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "da nó"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "da nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "thịt nó"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "thịt nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "phân nó"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "phân nó"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "đốt"
+    },
+    {
+      "surface": "באש",
+      "gloss": "trong lửa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ở ngoài"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "trại quân"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "đã phán dặn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-19T02:41:38.070155419Z",
+  "model": "glm-5.3"
+}

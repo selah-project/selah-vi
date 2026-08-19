@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Hãy đứng dậy, hãy đi đến Ninhevê, ⟨⟨את⟩⟩ thành phố lớn đó, và hãy hô lên chống lại nó, vì sự ác của chúng đã lên lên trước mặt Ta.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Hãy đứng dậy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hãy đi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninhevê"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "thành phố"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "lớn đó"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "và hãy hô lên"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "chống lại nó"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "đã lên lên"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "sự ác của chúng"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    }
+  ],
+  "timestamp": "2026-08-19T04:48:25.326831159Z",
+  "model": "glm-5.3"
+}

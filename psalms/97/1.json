@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 97,
+  "translation": "Yahweh ⟨đã⟩ lên ngôi trị vì; đất hãy nhảy múa reo vui; các hải đảo đông đảo hãy mừng rỡ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "đã lên ngôi trị vì"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "hãy nhảy múa reo vui"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "hãy mừng rỡ"
+    },
+    {
+      "surface": "איים",
+      "gloss": "các hải đảo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "đông đảo"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:25.127832814Z",
+  "model": "glm-5.3"
+}

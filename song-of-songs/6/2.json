@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 6:2",
+  "book": "song-of-songs",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Người yêu tôi đã xuống vườn của chàng, đến các luống cây thơm, để chăn dắt giữa các vườn và để hái hoa bách hợp.",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "người yêu tôi"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "đã xuống"
+    },
+    {
+      "surface": "לגנו",
+      "gloss": "đến vườn của chàng"
+    },
+    {
+      "surface": "לערוגות",
+      "gloss": "đến các luống"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "cây thơm"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "để chăn dắt"
+    },
+    {
+      "surface": "בגנים",
+      "gloss": "giữa các vườn"
+    },
+    {
+      "surface": "וללקט",
+      "gloss": "và để hái"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "hoa bách hợp"
+    }
+  ],
+  "timestamp": "2026-08-19T05:28:51.868573498Z",
+  "model": "glm-5.3"
+}

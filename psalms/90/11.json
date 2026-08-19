@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 90,
+  "translation": "Ai biết ⟨sức mạnh⟩ của cơn nostril giận Ngài, và theo sự kính sợ ⟨mình⟩ Ngài, cơn lôi đình Ngài?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "biết"
+    },
+    {
+      "surface": "עז",
+      "gloss": "sức mạnh"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "cơn giận Ngài"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "và theo sự kính sợ Ngài"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "cơn lôi đình Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:59.658670868Z",
+  "model": "glm-5.3"
+}

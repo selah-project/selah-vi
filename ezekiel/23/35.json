@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 23:35",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Vì vậy, thế này Adonai Yahweh phán: vì ngươi đã quên ta và đã ném ta ra sau lưng ngươi, thì cả ngươi cũng hãy mang điều đồi bại của ngươi và ⟨את⟩ sự dâm loạn của ngươi.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "vì vậy"
+    },
+    {
+      "surface": "כה",
+      "gloss": "thế này"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "phán"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יען",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "ngươi đã quên"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ta",
+      "marks": "ta"
+    },
+    {
+      "surface": "ותשליכי",
+      "gloss": "và ngươi đã ném"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ta",
+      "marks": "ta"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ra sau"
+    },
+    {
+      "surface": "גוך",
+      "gloss": "lưng ngươi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "thì cả"
+    },
+    {
+      "surface": "את",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "שאי",
+      "gloss": "hãy mang"
+    },
+    {
+      "surface": "זמתך",
+      "gloss": "điều đồi bại của ngươi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sự dâm loạn của ngươi"
+    },
+    {
+      "surface": "תזנותיך",
+      "gloss": "sự dâm loạn của ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:37:07.854869399Z",
+  "model": "glm-5.3"
+}

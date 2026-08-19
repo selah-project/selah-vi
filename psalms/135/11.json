@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 135,
+  "translation": "Đến Sichon vua của HaEmori, và đến Og vua của HaBashan, và đến mọi vương quốc của Kenaan.",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "đến Sichon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "của HaEmori"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "và đến Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "của HaBashan"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "và đến mọi"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "vương quốc"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:00.546527107Z",
+  "model": "glm-5.3"
+}

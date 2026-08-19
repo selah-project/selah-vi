@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Và người nào đi vào ngôi nhà trong mọi ngày nó bị đóng kín — ⟨את⟩ nó — thì sẽ ô uế đến buổi chiều.",
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "và người đi vào"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vào"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ngôi nhà"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ngày của"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "việc đóng kín"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nó",
+      "marks": "ngôi nhà bị đóng"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "sẽ ô uế"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "buổi chiều"
+    }
+  ],
+  "timestamp": "2026-08-19T02:44:19.974845958Z",
+  "model": "glm-5.3"
+}

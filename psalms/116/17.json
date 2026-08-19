@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 116,
+  "translation": "Cho Ngài tôi sẽ giết tế lễ tạ ơn, và trong danh Yahweh tôi sẽ kêu cầu.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "cho Ngài"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "tôi sẽ giết (tế)"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "con vật tế lễ"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "tạ ơn"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "và trong danh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "tôi sẽ kêu cầu"
+    }
+  ],
+  "timestamp": "2026-08-19T06:19:12.068963698Z",
+  "model": "glm-5.3"
+}

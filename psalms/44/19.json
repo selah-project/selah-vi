@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 44:19",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Không lùi lại phía sau lòng chúng con, và bước chúng con không lệch khỏi đường lối của Ngài.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "נסוג",
+      "gloss": "lùi lại"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "phía sau"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "lòng chúng con"
+    },
+    {
+      "surface": "ותט",
+      "gloss": "và lệch"
+    },
+    {
+      "surface": "אשרינו",
+      "gloss": "bước chúng con"
+    },
+    {
+      "surface": "מני",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "ארחך",
+      "gloss": "đường lối của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:13.608414724Z",
+  "model": "glm-5.3"
+}

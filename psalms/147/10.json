@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 147,
+  "translation": "Ngài không ưa thích nơi sức mạnh của con ngựa, không vui thích nơi ống chân của con người.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "nơi sức mạnh của"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "con ngựa"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "Ngài ưa thích"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "nơi ống chân của"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "con người"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "Ngài vui thích"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:17.183861392Z",
+  "model": "glm-5.3"
+}

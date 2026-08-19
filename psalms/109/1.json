@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 109,
+  "translation": "Cho đốc trưởng, của David, thánh thi. Elohim của sự ngợi khen tôi, xin đừng lặng im.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "cho đốc trưởng"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "của David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "thánh thi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "sự ngợi khen tôi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "xin đừng"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "lặng im"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:00.837048124Z",
+  "model": "glm-5.3"
+}

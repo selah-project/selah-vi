@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 4:14",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Trong ngày ấy Yahweh đã làm cho Yehoshua được tôn vinh trước mắt toàn thể Yisra'el, và họ kính sợ ⟨את⟩ ông, như họ đã kính sợ ⟨את⟩ Moshe, mọi ngày đời ông.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "trong ngày"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ấy"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "đã làm cho được tôn vinh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "trước mắt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "và họ kính sợ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ông",
+      "marks": "ông (Yehoshua)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "đã kính sợ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "đời ông"
+    }
+  ],
+  "timestamp": "2026-08-19T03:15:22.382757678Z",
+  "model": "glm-5.3"
+}

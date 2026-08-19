@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 91,
+  "translation": "Vì chính ngươi, Yahweh, ⟨là⟩ nơi nương náu của ta; Elyon, ngươi đã đặt ⟨là⟩ chỗ ở của ngươi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "chính ngươi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "nơi nương náu của ta"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon (Đấng Tối Cao)"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "ngươi đã đặt"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "chỗ ở của ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:26.528604255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Và Moshe sẽ đến gần một mình đến với Yahweh, còn họ thì không được đến gần; và dân thì không được lên cùng ngài.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "và sẽ đến gần"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "một mình"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến với"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והם",
+      "gloss": "còn họ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "được đến gần"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "và dân"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "được lên"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "cùng ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T02:33:49.807516158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Này là những kỳ đã định của Yahweh, các cuộc hội thánh thánh, mà các ngươi sẽ tuyên bố chúng ⟨את⟩ tại kỳ đã định của chúng.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "này là"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "những kỳ đã định"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "các cuộc hội thánh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "thánh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "các ngươi sẽ tuyên bố"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chúng (tại kỳ của chúng)"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "tại kỳ đã định của chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:46:48.579203215Z",
+  "model": "glm-5.3"
+}

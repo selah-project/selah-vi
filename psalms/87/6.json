@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 87,
+  "translation": "Yahweh sẽ kể đếm, khi ghi chép các dân: 'Người này đã được sinh ra tại đó.' Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "sẽ kể đếm"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "khi ghi chép"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "các dân"
+    },
+    {
+      "surface": "זה",
+      "gloss": "người này"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "đã được sinh ra"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tại đó"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:28.293176337Z",
+  "model": "glm-5.3"
+}

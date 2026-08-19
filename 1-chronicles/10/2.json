@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Và người Philistín bám sát sau Shaúl và sau các con trai ông; người Philistín đánh ⟨את⟩ Yonatan và ⟨את⟩ Avinadav và ⟨את⟩ Malki-Shúa, các con trai của Shaúl.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "và bám sát"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "người Philistín"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sau"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "và sau"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "các con trai ông"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "và đánh"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "người Philistín"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Avinadav"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Malki-Shúa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Shúa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "các con trai"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    }
+  ],
+  "timestamp": "2026-08-19T05:49:39.001972002Z",
+  "model": "glm-5.3"
+}

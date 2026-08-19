@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 27:12",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Kẻ khôn ngoan thấy⟨⟨⟩⟩ điều tai họa và ẩn mình; kẻ ngu ngơ đi qua và bị phạt.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "kẻ khôn ngoan"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "thấy"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "điều tai họa"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "ẩn mình"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "kẻ ngu ngơ"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "đi qua"
+    },
+    {
+      "surface": "נענשו",
+      "gloss": "bị phạt"
+    }
+  ],
+  "timestamp": "2026-08-19T06:20:01.089247028Z",
+  "model": "glm-5.3"
+}

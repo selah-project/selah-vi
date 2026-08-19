@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 7:8",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Và ⟨את⟩ bốn cỗ xe cùng ⟨את⟩ tám con bò, người ban cho con cháu Merari, theo khả năng phục vụ của họ, dưới tay Itamar con trai Aharon thầy tế lễ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "bốn cỗ xe"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "bốn"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "cỗ xe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "tám con bò"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "tám"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "con bò"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "người ban"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "cho con cháu"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "theo khả năng"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "phục vụ của họ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dưới tay"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "thầy tế lễ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:53:50.186682875Z",
+  "model": "glm-5.3"
+}

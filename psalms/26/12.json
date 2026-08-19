@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 26:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Chân tôi đã đứng vững nơi đất bằng phẳng; giữa các hội chúng tôi sẽ chúc phước Yahweh.",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "chân tôi"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "đã đứng vững"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "nơi đất bằng phẳng"
+    },
+    {
+      "surface": "במקהלים",
+      "gloss": "giữa các hội chúng"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "tôi sẽ chúc phước"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:33.150661875Z",
+  "model": "glm-5.3"
+}

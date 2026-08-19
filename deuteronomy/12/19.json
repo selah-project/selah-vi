@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Hãy tự giữ mình, kẻo ngươi bỏ rơi ⟨את⟩ người Levi, mọi ngày của ngươi, trên đất của ngươi.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "hãy tự giữ mình"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngươi"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kẻo"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "ngươi bỏ rơi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người Levi"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "người Levi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ngày của ngươi"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "đất của ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:08:12.873347740Z",
+  "model": "glm-5.3"
+}

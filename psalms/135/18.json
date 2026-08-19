@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 135,
+  "translation": "Như chúng, sẽ thành như vậy những kẻ làm chúng; mọi kẻ tin cậy vào chúng 〈cũng vậy〉.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "như chúng"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "sẽ thành"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "những kẻ làm chúng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kẻ"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "tin cậy"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "vào chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T06:19:07.982634622Z",
+  "model": "glm-5.3"
+}

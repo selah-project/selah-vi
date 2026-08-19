@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Và nữ vương của Shva thấy ⟨את⟩ toàn bộ sự khôn ngoan của Shlomoh, và ⟨את⟩ ngôi nhà mà ông đã xây.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "và thấy"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "nữ vương"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "của Shva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toàn bộ sự khôn ngoan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn bộ"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "sự khôn ngoan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "của Shlomoh"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "và ngôi nhà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ông đã xây"
+    }
+  ],
+  "timestamp": "2026-08-19T03:50:21.787662144Z",
+  "model": "glm-5.3"
+}

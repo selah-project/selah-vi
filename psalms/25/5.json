@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 25:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Hãy dẫn tôi trong sự chân thật của Ngài, và dạy tôi; vì Ngài là Elohim của sự cứu giúp của tôi; ⟨את⟩ Ngài tôi đã trông đợi suốt cả ngày.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "hãy dẫn tôi"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "trong sự chân thật của Ngài"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "và dạy tôi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "sự cứu giúp của tôi"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "Ngài"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "tôi đã trông đợi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "suốt cả"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngày"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:44.592999624Z",
+  "model": "glm-5.3"
+}

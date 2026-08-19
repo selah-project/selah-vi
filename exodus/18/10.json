@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 18:10",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Và Yitro nói: Đáng chúc phúc là Yahweh, Đấng đã giải thoát ⟨אתכם⟩ các ngươi khỏi tay Mitsrayim và khỏi tay Paroh, Đấng đã giải thoát ⟨את⟩ dân khỏi dưới tay Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "đáng chúc phúc"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Đấng"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "đã giải thoát"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "khỏi tay"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "và khỏi tay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Đấng"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "đã giải thoát"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "khỏi dưới"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tay"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T02:32:06.798832376Z",
+  "model": "glm-5.3"
+}

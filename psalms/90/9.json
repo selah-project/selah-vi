@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 90:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 90,
+  "translation": "Vì mọi ngày của chúng con đều qua đi trong cơn giận Ngài; chúng con hao mòn các năm mình như ⟨một tiếng thở dài⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ngày của chúng con"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "đều qua đi"
+    },
+    {
+      "surface": "בעברתך",
+      "gloss": "trong cơn giận Ngài"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "chúng con hao mòn"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "các năm mình"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "như"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "⟨một tiếng thở dài⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:59.658247671Z",
+  "model": "glm-5.3"
+}

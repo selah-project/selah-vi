@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Từ đất đó Ashshur đã ra đi, và xây ⟨את⟩ Ninveh, và ⟨את⟩ Rechovot-ir, và ⟨את⟩ Kalach —",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "đó"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "đã ra đi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "và xây"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ninveh"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninveh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Rechovot-ir"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rechovot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "của thành"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Kalach"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalach"
+    }
+  ],
+  "timestamp": "2026-08-19T00:53:35.252151730Z",
+  "model": "glm-5.3"
+}

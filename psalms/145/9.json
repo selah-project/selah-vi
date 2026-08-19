@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 145,
+  "translation": "Yahweh ⟨là⟩ tốt lành với mọi người, và sự thương xót của Ngài ⟨là⟩ trên mọi công việc của Ngài.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "tốt lành"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "với mọi người"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "và sự thương xót của Ngài"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "công việc của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:59.610501538Z",
+  "model": "glm-5.3"
+}

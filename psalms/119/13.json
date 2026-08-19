@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Với môi miệng mình, tôi đã kể lại mọi phán quyết ⟨từ⟩ miệng Ngài.",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "với môi miệng mình"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "tôi đã kể lại"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "phán quyết"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "miệng Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:23.321780959Z",
+  "model": "glm-5.3"
+}

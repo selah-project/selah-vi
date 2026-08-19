@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và những người ấy kinh sợ ⟨את⟩ Yahweh một sự kinh sợ lớn, và họ dâng sinh tế cho Yahweh, và khấn nguyện những lời khấn.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "và họ kinh sợ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "những người ấy"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "sự kinh sợ"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "lớn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "và họ dâng sinh tế"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sinh tế"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "cho Yahweh"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "và họ khấn nguyện"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "những lời khấn"
+    }
+  ],
+  "timestamp": "2026-08-19T04:48:45.394960763Z",
+  "model": "glm-5.3"
+}

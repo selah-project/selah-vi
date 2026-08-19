@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Và ta sẽ ban phước cho những kẻ ban phước cho ngươi, và kẻ rủa sả ngươi ta sẽ rủa sả; và mọi họ tộc trên đất sẽ nhờ ngươi mà được ban phước.",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "và-ta-sẽ-ban-phước"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "những-kẻ-ban-phước-cho-ngươi"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "và-kẻ-rủa-sả-ngươi"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "ta-sẽ-rủa-sả"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "và-sẽ-được-ban-phước"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nhờ-ngươi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "họ-tộc"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "trên-đất"
+    }
+  ],
+  "timestamp": "2026-08-19T00:56:13.166771772Z",
+  "model": "glm-5.3"
+}

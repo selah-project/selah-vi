@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Cớ sao Yahweh đứng ⟨ở⟩ xa, che giấu mình ⟨trong⟩ những lúc khốn cùng?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "cớ sao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ngươi đứng"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "ở xa"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "che giấu"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "trong những lúc"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "khốn cùng"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:18.331333783Z",
+  "model": "glm-5.3"
+}

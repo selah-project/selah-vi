@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và một người đàn ông đi từ nhà Lê-vi, và lấy ⟨את⟩ một con gái của Lê-vi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "và đi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "một người đàn ông"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "từ nhà"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lê-vi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "và lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "một con gái của Lê-vi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "con gái"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lê-vi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:27:48.389612746Z",
+  "model": "glm-5.3"
+}

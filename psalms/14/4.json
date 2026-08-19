@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Há tất cả những kẻ làm điều gian ác岂 không biết, những kẻ ăn dân ta như ăn bánh, Yahweh họ không kêu cầu?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "há... không"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "biết"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "những kẻ làm"
+    },
+    {
+      "surface": "און",
+      "gloss": "điều gian ác"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "những kẻ ăn"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "dân ta"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "đã ăn"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bánh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "kêu cầu"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:23.951991039Z",
+  "model": "glm-5.3"
+}

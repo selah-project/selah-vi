@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 63,
+  "translation": "Vì Ngài đã là sự giúp đỡ cho tôi, và trong bóng cánh Ngài tôi sẽ reo vui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "היית",
+      "gloss": "Ngài đã là"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "sự giúp đỡ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "và trong bóng"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "cánh của Ngài"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "tôi sẽ reo vui"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:44.624740067Z",
+  "model": "glm-5.3"
+}

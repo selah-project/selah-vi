@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 44:23",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Vâng, vì cớ Ngài chúng tôi bị giết suốt cả ngày, chúng tôi bị kể như chiên dành cho sự giết meat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vâng, vì"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "vì cớ Ngài"
+    },
+    {
+      "surface": "הרגנו",
+      "gloss": "chúng tôi bị giết"
+    },
+    {
+      "surface": "כל",
+      "gloss": "suốt cả"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "chúng tôi bị kể như"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "chiên"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "đàn chiên bị đem đi giết"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:03.341919567Z",
+  "model": "glm-5.3"
+}

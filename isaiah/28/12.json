@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 28:12",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Đấng đã phán cùng họ rằng: Đây là sự nghỉ ngơi — hãy cho kẻ mệt mỏi được nghỉ, và đây là sự dưỡng yên; nhưng họ đã không muốn nghe.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "đấng mà"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "đã phán"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "cùng họ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "đây là"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "sự nghỉ ngơi"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "hãy cho nghỉ"
+    },
+    {
+      "surface": "לעיף",
+      "gloss": "kẻ mệt mỏi"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "và đây là"
+    },
+    {
+      "surface": "המרגעה",
+      "gloss": "sự dưỡng yên"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nhưng không"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "đã muốn"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "nghe"
+    }
+  ],
+  "timestamp": "2026-08-19T04:08:35.462450593Z",
+  "model": "glm-5.3"
+}

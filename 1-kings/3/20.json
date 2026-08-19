@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 3:20",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Nàng dậy giữa đêm, lấy ⟨את⟩ con trai tôi từ bên cạnh tôi — trong khi nữ tì của ngài đang ngủ — và đặt nó vào lòng nàng; còn ⟨את⟩ con trai chết của nàng thì nàng đặt vào lòng tôi.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "dậy"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "đêm"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con trai tôi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con trai tôi"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "từ bên cạnh tôi"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "nữ tì của ngài"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "đang ngủ"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "đặt nó nằm"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "vào lòng nàng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "con trai chết của nàng"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "con trai của nàng"
+    },
+    {
+      "surface": "המת",
+      "gloss": "chết"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "nàng đặt nằm"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "vào lòng tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:47:12.755218278Z",
+  "model": "glm-5.3"
+}

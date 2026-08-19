@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 9:10",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Còn ⟨את⟩ mỡ, ⟨את⟩ hai quả thận, và ⟨את⟩ thùy gan, từ con sinh tế chuộc tội, thì ông đốt lên làm khói thơm trên bàn thờ, như Yahweh đã phán dặn ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mỡ"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mỡ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hai quả thận"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "hai quả thận"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "thùy gan"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "thùy gan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "gan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "con sinh tế chuộc tội"
+    },
+    {
+      "surface": "הקטיר",
+      "gloss": "ông đốt lên làm khói thơm"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "trên bàn thờ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "đã phán dặn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-19T02:41:39.920933413Z",
+  "model": "glm-5.3"
+}

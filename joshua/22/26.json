@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 22:26",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Và chúng tôi nói: hãy làm cho chúng tôi, xin, việc xây ⟨את⟩ bàn thờ — không phải để thiêu tế và không phải để sát tế.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "và chúng tôi nói"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "hãy làm"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xin"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "cho chúng tôi"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "để xây"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bàn thờ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "לעולה",
+      "gloss": "để thiêu tế"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "để sát tế"
+    }
+  ],
+  "timestamp": "2026-08-19T03:21:16.793692976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 18:16",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Vì khi có việc gì xảy đến cùng tôi, tôi phán xét giữa người nọ với người lân cận của mình, và tôi làm cho họ biết ⟨את⟩ các thánh lệ của Elohim và ⟨את⟩ các giáo luật của Ngài.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "có"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho họ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "việc"
+    },
+    {
+      "surface": "בא",
+      "gloss": "xảy đến"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cùng tôi"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "và tôi phán xét"
+    },
+    {
+      "surface": "בין",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người nọ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "với"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "người lân cận của mình"
+    },
+    {
+      "surface": "והודעתי",
+      "gloss": "và tôi làm cho biết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các thánh lệ"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "các thánh lệ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "của Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các giáo luật của Ngài"
+    },
+    {
+      "surface": "תורתיו",
+      "gloss": "các giáo luật của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T02:32:10.454456550Z",
+  "model": "glm-5.3"
+}

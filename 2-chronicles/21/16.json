@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 21:16",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Và Yahweh đánh thức lên nghịch cùng Yehoram ⟨את⟩ thần khí của người Plishtim và của người Ảrập, những kẻ ở cạnh người Kushim",
+  "tokens": [
+    {
+      "surface": "ויער",
+      "gloss": "và đánh thức"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "nghịch cùng"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thần khí của người Plishtim và người Ảrập"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "thần khí"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "của người Plishtim"
+    },
+    {
+      "surface": "והערבים",
+      "gloss": "và của người Ảrập"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "những kẻ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ở cạnh"
+    },
+    {
+      "surface": "יד",
+      "gloss": "bên"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "người Kushim"
+    }
+  ],
+  "timestamp": "2026-08-19T05:58:29.956887679Z",
+  "model": "glm-5.3"
+}

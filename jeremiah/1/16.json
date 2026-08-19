@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 1:16",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và Ta sẽ phán các luật lệ của Ta ⟨với⟩ ⟨את⟩ chúng nó về mọi điều dữ của chúng, vì chúng đã bỏ Ta, và đã đốt hương cho các elohim khác, và đã cúi lạy trước công việc của tay mình.",
+  "tokens": [
+    {
+      "surface": "ודברתי",
+      "gloss": "và Ta sẽ phán"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "các luật lệ của Ta"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ chúng nó",
+      "marks": "chúng nó (dân Yehudah)"
+    },
+    {
+      "surface": "על",
+      "gloss": "về"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "điều dữ của chúng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "chúng đã bỏ Ta"
+    },
+    {
+      "surface": "ויקטרו",
+      "gloss": "và đã đốt hương"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "cho các elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "khác"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "và đã cúi lạy"
+    },
+    {
+      "surface": "למעשי",
+      "gloss": "trước công việc của"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "tay mình"
+    }
+  ],
+  "timestamp": "2026-08-19T04:17:06.926152844Z",
+  "model": "glm-5.3"
+}

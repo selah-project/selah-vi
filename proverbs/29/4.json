@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 29:4",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Vua cầm quyền công lý làm đất vững đứng, nhưng kẻ nhận lễ vật triều cống thì phá đổ nó.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "công lý"
+    },
+    {
+      "surface": "יעמיד",
+      "gloss": "làm... vững đứng"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "nhưng kẻ"
+    },
+    {
+      "surface": "תרומות",
+      "gloss": "lễ vật triều cống"
+    },
+    {
+      "surface": "יהרסנה",
+      "gloss": "phá đổ nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:19:16.608184968Z",
+  "model": "glm-5.3"
+}

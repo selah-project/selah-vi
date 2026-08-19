@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 8:7",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "và Naaman, và Achiya, và Gera — ⟨chính⟩ ông là người đã lưu đày họ — và ⟨ông⟩ sinh ra ⟨את⟩ Uzza và ⟨את⟩ Achichud.",
+  "tokens": [
+    {
+      "surface": "ונעמן",
+      "gloss": "và Naaman"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "và Achiya"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "và Gera"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chính ông"
+    },
+    {
+      "surface": "הגלם",
+      "gloss": "đã lưu đày họ"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "và đã sinh ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uzza"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uzza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Achichud"
+    },
+    {
+      "surface": "אחיחד",
+      "gloss": "Achichud"
+    }
+  ],
+  "timestamp": "2026-08-19T05:48:45.246688390Z",
+  "model": "glm-5.3"
+}

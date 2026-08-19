@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 19:20",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Với da tôi và với thịt tôi xương tôi đã dính chặt, và tôi thoát ⟨chỉ⟩ với da răng mình.",
+  "tokens": [
+    {
+      "surface": "בעורי",
+      "gloss": "với da tôi"
+    },
+    {
+      "surface": "ובבשרי",
+      "gloss": "và với thịt tôi"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "đã dính chặt"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "xương tôi"
+    },
+    {
+      "surface": "ואתמלטה",
+      "gloss": "và tôi thoát"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "với da"
+    },
+    {
+      "surface": "שני",
+      "gloss": "răng tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:23:45.003146773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 10:27",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Và vua đã đặt ⟨את⟩ bạc ở Yerushalayim như đá, và ⟨את⟩ gỗ tuyết tùng ông đã cho như cây sung dại ở vùng đồng thấp, thật nhiều.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "và đã cho"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bạc"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "bạc"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ở Yerushalayim"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "như đá"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gỗ tuyết tùng"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "gỗ tuyết tùng"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "đã cho"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "như cây sung dại"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "ở vùng đồng thấp"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "thật nhiều"
+    }
+  ],
+  "timestamp": "2026-08-19T03:50:24.602416401Z",
+  "model": "glm-5.3"
+}

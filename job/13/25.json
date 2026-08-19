@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Lá bị gió cuốn, Ngài làm khiếp sợ? và ⟨את⟩ rơm khô Ngài đuổi theo?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "lá"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "bị gió cuốn"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "Ngài làm khiếp sợ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rơm khô"
+    },
+    {
+      "surface": "קש",
+      "gloss": "rơm"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "khô"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "Ngài đuổi theo"
+    }
+  ],
+  "timestamp": "2026-08-19T05:22:37.760433433Z",
+  "model": "glm-5.3"
+}

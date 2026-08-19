@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Họ phá đổ ⟨את⟩ trụ thần của Baal, và phá đổ ⟨את⟩ đền Baal, rồi biến nó thành nhà tiêu cho đến ngày nay.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "và phá đổ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trụ thần của Baal"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "trụ thần"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "của Baal"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "và phá đổ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đền Baal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "đền"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "của Baal"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "và biến nó thành"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "nhà tiêu\/nơi xả uế"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngày nay"
+    }
+  ],
+  "timestamp": "2026-08-19T03:58:27.011555483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 10:20",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Và mười hai sư tử đứng đó trên sáu bậc, bên này và bên này; chưa từng được làm như vậy cho mọi vương quốc nào.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "và hai"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mười"
+    },
+    {
+      "surface": "אריים",
+      "gloss": "sư tử"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "đứng"
+    },
+    {
+      "surface": "שם",
+      "gloss": "đó"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sáu"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "bậc"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "bên này"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "và bên này"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chưa từng"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "được làm"
+    },
+    {
+      "surface": "כן",
+      "gloss": "như vậy"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "cho mọi"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "vương quốc"
+    }
+  ],
+  "timestamp": "2026-08-19T03:50:30.382775606Z",
+  "model": "glm-5.3"
+}

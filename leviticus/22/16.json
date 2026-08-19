@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 22:16",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "và làm cho chúng nó mang ⟨את⟩ tội lầm của sự phạm lỗi, khi chúng nó ăn ⟨את⟩ các vật thánh của mình; vì chính Ta là Yahweh, ⟨Đấng⟩ thánh hóa chúng nó.",
+  "tokens": [
+    {
+      "surface": "והשיאו",
+      "gloss": "và làm cho mang"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "tội lầm"
+    },
+    {
+      "surface": "עון",
+      "gloss": "tội lầm"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "của sự phạm lỗi"
+    },
+    {
+      "surface": "באכלם",
+      "gloss": "khi chúng nó ăn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các vật thánh của mình"
+    },
+    {
+      "surface": "קדשיהם",
+      "gloss": "các vật thánh của mình"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אני",
+      "gloss": "chính Ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "thánh hóa chúng nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:46:28.655166877Z",
+  "model": "glm-5.3"
+}

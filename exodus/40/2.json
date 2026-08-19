@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Vào ngày đầu tháng thứ nhất, ngày một của tháng, ngươi phải dựng lên ⟨את⟩ Trại Tạm của Lều Hội Mạc.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "vào ngày"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "tháng"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "thứ nhất"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ngày một"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "của tháng"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "dựng lên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Trại Tạm của Lều Hội Mạc"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Trại Tạm"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Lều"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Hội Mạc"
+    }
+  ],
+  "timestamp": "2026-08-19T02:39:45.907869925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Đến Mitsrajim chúng tôi đã trao bàn tay, đến Ashshur, để được no đủ bánh.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "chúng tôi đã trao"
+    },
+    {
+      "surface": "יד",
+      "gloss": "bàn tay"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "để được no đủ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bánh"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:11.784462699Z",
+  "model": "glm-5.3"
+}

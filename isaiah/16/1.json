@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Hãy gửi ⟨את⟩ con chiên đực ⟨את⟩ kẻ cai trị đất, từ Sela đến hoang mạc, đến núi của con gái Tzion.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "Hãy gửi"
+    },
+    {
+      "surface": "כר",
+      "gloss": "con chiên đực"
+    },
+    {
+      "surface": "משל",
+      "gloss": "kẻ cai trị"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "từ Sela"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "đến hoang mạc"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "הר",
+      "gloss": "núi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "con gái"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    }
+  ],
+  "timestamp": "2026-08-19T04:07:24.023405604Z",
+  "model": "glm-5.3"
+}

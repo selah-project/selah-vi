@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 11:2",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Phải chăng ⟨nhiều⟩ lời thì không được đáp lại, và người ⟨đầy⟩ môi miệng sẽ ⟨được⟩ xưng là công bình?",
+  "tokens": [
+    {
+      "surface": "הרב",
+      "gloss": "sự đông đảo"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "lời"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "được đáp"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "và nếu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "đôi môi"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "được xưng công bình"
+    }
+  ],
+  "timestamp": "2026-08-19T05:22:40.307316120Z",
+  "model": "glm-5.3"
+}

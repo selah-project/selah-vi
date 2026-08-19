@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và Moshe nói với HaElohim: Tôi là ai, rằng tôi sẽ đi đến với Paroh, và rằng tôi sẽ đưa ra ⟨את⟩ con cái Yisrael khỏi Mitzrayim?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và người nói"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "tôi sẽ đi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến với"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "và rằng"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "tôi sẽ đưa ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con cái Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "khỏi Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T02:27:51.738798735Z",
+  "model": "glm-5.3"
+}

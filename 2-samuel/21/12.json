@@ -1,0 +1,138 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 21:12",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "David đi và lấy ⟨את⟩ xương của Sha'ul và ⟨את⟩ xương của Yehonatan con trai ông, từ ⟨את⟩ nơi dân Yavesh Gil'ad, những kẻ đã ăn trộm chúng từ quảng trường Beit-Shan, nơi người Pelishtim đã treo chúng ở đó, vào ngày người Pelishtim đánh giết ⟨את⟩ Sha'ul tại Gilboa.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "và đi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "và lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xương của Sha'ul"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "xương"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "xương của Yehonatan"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "xương"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "con trai ông"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "từ ⟨את⟩",
+      "marks": "dân Yavesh Gil'ad"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "dân của"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gil'ad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "những kẻ"
+    },
+    {
+      "surface": "גנבו",
+      "gloss": "đã ăn trộm"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ chúng",
+      "marks": "chúng (các xương)"
+    },
+    {
+      "surface": "מרחב",
+      "gloss": "từ quảng trường"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Shan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nơi"
+    },
+    {
+      "surface": "תלום",
+      "gloss": "đã treo chúng"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ở đó"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "người Pelishtim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "vào ngày"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "đánh giết"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "người Pelishtim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sha'ul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "tại Gilboa"
+    }
+  ],
+  "timestamp": "2026-08-19T03:44:58.110885622Z",
+  "model": "glm-5.3"
+}

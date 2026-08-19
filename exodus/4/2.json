@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và Yahweh phán với ⟨ ông ⟩: Cái gì đó trong tay ngươi? Và ⟨ ông ⟩ nói: Một cây gậy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và phán"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "với ông"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "cái gì này"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "trong tay ngươi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "cây gậy"
+    }
+  ],
+  "timestamp": "2026-08-19T02:28:52.012937634Z",
+  "model": "glm-5.3"
+}

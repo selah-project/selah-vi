@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 63,
+  "translation": "Còn chúng, những kẻ tìm mạng sống tôi để hủy diệt, sẽ đi xuống nơi sâu nhất của đất.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "còn chúng"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "để hủy diệt"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "những kẻ tìm"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mạng sống tôi"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "sẽ đi xuống"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "nơi sâu nhất"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "của đất"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:15.436725316Z",
+  "model": "glm-5.3"
+}

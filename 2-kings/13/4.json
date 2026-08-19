@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Và Yehoachaz dịu ⟨את⟩ mặt của Yahweh, và Yahweh lắng nghe hắn, vì Ngài thấy ⟨את⟩ cơn khốn khổ của Yisrael, vì vua của Aram đã圧 đặt họ.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "và làm dịu \/ nài xin"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoachaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mặt của Yahweh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt của"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "và lắng nghe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tới hắn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cơn khốn khổ của Yisrael"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "cơn khốn khổ (sự bóp nghẹt)"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "đã bóp nghẹt"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "họ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-19T03:59:48.271786585Z",
+  "model": "glm-5.3"
+}

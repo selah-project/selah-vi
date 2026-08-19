@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 5:8",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Và lúa mạch và rơm cho ngựa và cho la nhanh, họ đem đến nơi mà ⟨nơi ấy⟩ sẽ có ⟨có⟩ người tại đó, mỗi người theo phận sự của mình.",
+  "tokens": [
+    {
+      "surface": "והשערים",
+      "gloss": "và lúa mạch"
+    },
+    {
+      "surface": "והתבן",
+      "gloss": "và rơm"
+    },
+    {
+      "surface": "לסוסים",
+      "gloss": "cho ngựa"
+    },
+    {
+      "surface": "ולרכש",
+      "gloss": "và cho la nhanh"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "họ đem đến"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "nơi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sẽ có"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tại đó"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "theo phận sự của mình"
+    }
+  ],
+  "timestamp": "2026-08-19T03:48:24.173365470Z",
+  "model": "glm-5.3"
+}

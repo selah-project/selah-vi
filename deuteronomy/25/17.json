@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Hãy nhớ ⟨את⟩ điều mà Amalek đã làm cho ngươi trên đường, khi các ngươi ra khỏi Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Hãy nhớ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "điều"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngươi"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "trên đường"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "khi các ngươi ra"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "khỏi Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T03:11:14.790963277Z",
+  "model": "glm-5.3"
+}

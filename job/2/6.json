@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và Yahweh phán cùng ha-satan: Này, nó ở trong tay ngươi; chỉ ⟨את⟩ mạng sống của nó hãy giữ gìn.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Và phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cùng"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ha-satan"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "Này"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "trong tay ngươi"
+    },
+    {
+      "surface": "אך",
+      "gloss": "chỉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mạng sống của nó"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "mạng sống của nó"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "hãy giữ gìn"
+    }
+  ],
+  "timestamp": "2026-08-19T06:20:18.776159752Z",
+  "model": "glm-5.3"
+}

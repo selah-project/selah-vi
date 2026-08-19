@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Yahweh, xin đừng để tôi phải xấu hổ, vì tôi đã kêu cầu Ngài; hãy để kẻ ác bị xấu hổ, hãy để chúng im lặng ⟨đến⟩ Sheol.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "xin đừng"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "tôi bị xấu hổ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "tôi đã kêu cầu Ngài"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "chúng bị xấu hổ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "hãy để im lặng"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "⟨đến⟩ Sheol"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:42.222629030Z",
+  "model": "glm-5.3"
+}

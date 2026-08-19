@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 36:20",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 36,
+  "translation": "Đây là con cháu của Seir người Hori, dân cư của đất: Lotan, Shoval, Tzivon, và Anah.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "đây là"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cháu của"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "người Hori"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "dân cư của"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Lotan"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "và Shoval"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "và Tzivon"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "và Anah"
+    }
+  ],
+  "timestamp": "2026-08-19T01:21:30.655410917Z",
+  "model": "glm-5.3"
+}

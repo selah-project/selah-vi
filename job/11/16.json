@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 11:16",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Vì ngươi sẽ quên nỗi khổ nhọc, sẽ nhớ nó như nước đã chảy qua.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "nỗi khổ nhọc"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ngươi sẽ quên"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "như nước"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "đã chảy qua"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "ngươi sẽ nhớ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:22:35.925283834Z",
+  "model": "glm-5.3"
+}

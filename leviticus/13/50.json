@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Và thầy tế lễ sẽ xem xét ⟨את⟩ vết thương, và sẽ nhốt kín ⟨את⟩ vết thương bảy ngày.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "và sẽ xem xét"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "thầy tế lễ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vết thương"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "vết thương"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "và sẽ nhốt kín"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vết thương"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "vết thương"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "bảy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ngày"
+    }
+  ],
+  "timestamp": "2026-08-19T02:43:32.417743962Z",
+  "model": "glm-5.3"
+}

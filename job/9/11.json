@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 9:11",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Này, Ngài đi ngang qua tôi mà tôi không thấy; Ngài lướt qua, và tôi không nhận ra Ngài.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "này"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "đi ngang qua"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "qua tôi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mà không"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "tôi thấy"
+    },
+    {
+      "surface": "ויחלף",
+      "gloss": "Ngài lướt qua"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "tôi nhận ra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:21:34.724991439Z",
+  "model": "glm-5.3"
+}

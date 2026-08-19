@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Trong đồng cỏ xanh tươi ⟨Ngài⟩ cho tôi nằm nghỉ; bên dòng nước yên tĩnh ⟨Ngài⟩ dẫn dắt tôi.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "trong đồng cỏ"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "xanh tươi"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "cho tôi nằm nghỉ"
+    },
+    {
+      "surface": "על",
+      "gloss": "bên"
+    },
+    {
+      "surface": "מי",
+      "gloss": "dòng nước"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "yên tĩnh"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "dẫn dắt tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:17.752825807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Và khi vương quốc ⟨đã⟩ vững chắc trong tay ông, ông đánh ⟨את⟩ các tôi tớ của mình, là những kẻ đã đánh ⟨את⟩ vua cha của ông.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "và xảy ra"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "khi"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "vững chắc"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "vương quốc"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "trong tay ông"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ông đánh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các tôi tớ của ông"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "các tôi tớ của ông"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "những kẻ đánh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vua"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "cha của ông"
+    }
+  ],
+  "timestamp": "2026-08-19T03:59:31.220484913Z",
+  "model": "glm-5.3"
+}

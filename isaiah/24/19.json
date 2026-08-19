@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 24:19",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Tan vỡ, hoàn toàn tan vỡ ⟨là⟩ đất; nứt toác, hoàn toàn nứt toác đất; lắc lư, hoàn toàn lắc lư đất.",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "tan vỡ"
+    },
+    {
+      "surface": "התרעעה",
+      "gloss": "hoàn toàn tan vỡ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "פור",
+      "gloss": "nứt toác"
+    },
+    {
+      "surface": "התפוררה",
+      "gloss": "hoàn toàn nứt toác"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "מוט",
+      "gloss": "lắc lư"
+    },
+    {
+      "surface": "התמוטטה",
+      "gloss": "hoàn toàn lắc lư"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T04:08:12.900299201Z",
+  "model": "glm-5.3"
+}

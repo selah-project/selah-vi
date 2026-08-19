@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 127,
+  "translation": "Như mũi tên trong tay dũng sĩ, thế ⟨là⟩ con trai của thời thanh xuân.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "như mũi tên"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "trong tay"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "dũng sĩ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "thế"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "của thời thanh xuân"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:56.161053875Z",
+  "model": "glm-5.3"
+}

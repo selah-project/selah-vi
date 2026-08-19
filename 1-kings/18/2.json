@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 18:2",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Và Eliyahu đi để tỏ mình ra với Achav; còn nạn đói ⟨was⟩ khắc nghiệt trong Shomron.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "và-đi"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "để-tỏ-mình-ra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến-với"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "còn-nạn-đói"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "khắc-nghiệt"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "trong-Shomron"
+    }
+  ],
+  "timestamp": "2026-08-19T03:53:24.609537902Z",
+  "model": "glm-5.3"
+}

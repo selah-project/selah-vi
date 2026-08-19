@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 20:2",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Và ⟨sẽ có⟩ khi các ngươi đến gần trận mạc, thì thầy tế lễ sẽ tiến lại và nói với dân sự.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "và sẽ có"
+    },
+    {
+      "surface": "כקרבכם",
+      "gloss": "khi các ngươi đến gần"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "trận mạc"
+    },
+    {
+      "surface": "ונגש",
+      "gloss": "và tiến lại"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "thầy tế lễ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    }
+  ],
+  "timestamp": "2026-08-19T03:10:12.585140870Z",
+  "model": "glm-5.3"
+}

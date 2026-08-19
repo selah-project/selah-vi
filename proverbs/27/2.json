@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Người lạ hãy ca ngợi ngươi, chứ không phải miệng ngươi; người ngoại bang, chứ không phải môi ngươi.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "hãy ca ngợi ngươi"
+    },
+    {
+      "surface": "זר",
+      "gloss": "người lạ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "chứ không"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "miệng ngươi"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "người ngoại bang"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và đừng"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "môi ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:19:21.939933464Z",
+  "model": "glm-5.3"
+}

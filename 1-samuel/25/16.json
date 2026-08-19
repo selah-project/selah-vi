@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 25:16",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Họ như tường thành bao quanh chúng tôi, cả ban đêm lẫn ban ngày, suốt mọi ngày chúng tôi ở với họ chăn giữ đàn chiên.",
+  "tokens": [
+    {
+      "surface": "חומה",
+      "gloss": "tường thành"
+    },
+    {
+      "surface": "היו",
+      "gloss": "họ đã là"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "cho chúng tôi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cả"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ban đêm"
+    },
+    {
+      "surface": "גם",
+      "gloss": "lẫn"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ban ngày"
+    },
+    {
+      "surface": "כל",
+      "gloss": "suốt"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mọi ngày"
+    },
+    {
+      "surface": "היותנו",
+      "gloss": "chúng tôi ở"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "với họ"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "chăn giữ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "đàn chiên"
+    }
+  ],
+  "timestamp": "2026-08-19T03:37:04.500582673Z",
+  "model": "glm-5.3"
+}

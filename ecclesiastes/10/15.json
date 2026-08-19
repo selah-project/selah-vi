@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Sự lao khổ của những kẻ ngu dại làm mệt mỏi ⟨chúng nó⟩; ⟨hắn⟩ không biết đường đi đến thành.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "sự lao khổ"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "của những kẻ ngu dại"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "làm mệt mỏi chúng nó"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vì rằng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "biết"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "đi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "thành"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:19.004442251Z",
+  "model": "glm-5.3"
+}

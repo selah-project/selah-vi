@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 30:15",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Người giàu không được đóng nhiều hơn, người nghèo không được đóng ít hơn nửa shekel, để dâng ⟨את⟩ lễ tiến dâng của Yahweh, làm sự chuộc tội cho các linh hồn các ngươi.",
+  "tokens": [
+    {
+      "surface": "העשיר",
+      "gloss": "người giàu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "được nhiều hơn"
+    },
+    {
+      "surface": "והדל",
+      "gloss": "và người nghèo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ימעיט",
+      "gloss": "được ít hơn"
+    },
+    {
+      "surface": "ממחצית",
+      "gloss": "hơn nửa"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "shekel"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "để dâng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lễ tiến dâng của Yahweh"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "lễ tiến dâng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "làm sự chuộc tội"
+    },
+    {
+      "surface": "על",
+      "gloss": "cho"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "các linh hồn các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:36:27.917445918Z",
+  "model": "glm-5.3"
+}

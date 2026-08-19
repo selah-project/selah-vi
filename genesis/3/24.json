@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 3:24",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và ⟨Ngài⟩ đã đuổi ⟨את⟩ con người ra, và cho ⟨את⟩ các cherub ở phía đông vườn Eden, và ⟨את⟩ lưỡi lửa của thanh gươm cứ xoay chuyển, để canh giữ ⟨את⟩ con đường của cây sự sống.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "và đã đuổi ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con người"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "con người"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "và cho ở"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ở phía đông"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "tại vườn"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các cherub"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "các cherub"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "lưỡi lửa"
+    },
+    {
+      "surface": "להט",
+      "gloss": "lưỡi lửa"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "của thanh gươm"
+    },
+    {
+      "surface": "המתהפכת",
+      "gloss": "cứ xoay chuyển"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "để canh giữ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con đường"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "con đường"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "cây"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "sự sống"
+    }
+  ],
+  "timestamp": "2026-08-19T00:47:35.321371926Z",
+  "model": "glm-5.3"
+}

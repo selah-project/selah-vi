@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Cả mọi ngày ⟨anh ta⟩ cũng ăn trong bóng tối, và phiền muộn nhiều, cùng bệnh tật ⟨anh ta⟩ và cơn thịnh nộ.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "cả... cũng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ngày của anh ta"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "trong bóng tối"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ăn"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "và phiền muộn"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "nhiều"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "và bệnh tật anh ta"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "và cơn thịnh nộ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:14.279822887Z",
+  "model": "glm-5.3"
+}

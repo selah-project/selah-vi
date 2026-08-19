@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 85,
+  "translation": "Chắc chắn ⟨sự⟩ cứu-israel của Ngài gần kẻ kính sợ Ngài, để vinh-quang dwelling trong đất chúng ta.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "chắc chắn"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "gần"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "kẻ kính sợ Ngài"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "sự cứu của Ngài"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "để dwelling"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "vinh-quang"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "trong đất chúng ta"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:14.834396867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Vì Yahweh biết ⟨את⟩ con đường của người công chính, nhưng con đường của kẻ ác sẽ diệt vong.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "biết"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "con đường"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "của người công chính"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "và con đường"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "của kẻ ác"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "sẽ diệt vong"
+    }
+  ],
+  "timestamp": "2026-08-19T04:54:36.292787899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "El của tôi, El của tôi, sao Ngài bỏ tôi, xa khỏi sự cứu của tôi, ⟨là⟩ lời tiếng gầm của tôi?",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El của tôi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El của tôi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "sao"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "Ngài đã bỏ tôi"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "xa"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "khỏi sự cứu của tôi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "lời"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "tiếng gầm của tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:09.440257299Z",
+  "model": "glm-5.3"
+}

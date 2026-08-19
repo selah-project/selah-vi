@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 24:4",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Và Moshe chép ⟨את⟩ mọi lời của Yahweh, và dậy sớm vào buổi sáng, và xây một bàn thờ dưới núi, và mười hai trụ đá cho mười hai chi phái của Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "và chép"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi lời của Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "lời"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "của Yahweh"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "và dậy sớm"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "vào buổi sáng"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "và xây"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "một bàn thờ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dưới"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "núi"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "và mười hai"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "trụ"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "trụ đá"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "cho mười hai"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "chi phái"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "các chi phái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "của Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T02:33:49.807896121Z",
+  "model": "glm-5.3"
+}

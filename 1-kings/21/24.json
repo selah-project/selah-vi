@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Kẻ nào thuộc Achav chết trong thành, chó sẽ ăn; và kẻ chết trong đồng, chim trời sẽ ăn.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "kẻ chết"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "thuộc Achav"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "trong thành"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "sẽ ăn"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "chó"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "và kẻ chết"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "trong đồng"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "sẽ ăn"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "chim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "trời"
+    }
+  ],
+  "timestamp": "2026-08-19T03:53:44.310950742Z",
+  "model": "glm-5.3"
+}

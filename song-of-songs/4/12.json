@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 4:12",
+  "book": "song-of-songs",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Một khu vườn khóa kín là em, chị của tôi, cô dâu tôi; suối khóa kín, nguồn nước được niêm ⟨seal⟩ kín.",
+  "tokens": [
+    {
+      "surface": "גן",
+      "gloss": "khu vườn"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "khóa kín"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "chị của tôi"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "cô dâu tôi"
+    },
+    {
+      "surface": "גל",
+      "gloss": "suối nước"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "khóa kín"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "nguồn nước"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "niêm phong"
+    }
+  ],
+  "timestamp": "2026-08-19T06:20:51.705854305Z",
+  "model": "glm-5.3"
+}

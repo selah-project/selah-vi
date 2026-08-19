@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Chớ试探 ⟨את⟩ Yahweh Elohim các ngươi, như các ngươi đã试探 tại Massah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "các ngươi thử thách"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim các ngươi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "các ngươi đã thử thách"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "tại Massah"
+    }
+  ],
+  "timestamp": "2026-08-19T03:05:58.645724077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Và nhà tiệc ngươi chớ vào, để ngồi với ⟨את⟩ họ, để ăn và để uống.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "và nhà"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "tiệc"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ngươi vào"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "để ngồi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "họ"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "để ăn"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "và để uống"
+    }
+  ],
+  "timestamp": "2026-08-19T04:20:40.361467697Z",
+  "model": "glm-5.3"
+}

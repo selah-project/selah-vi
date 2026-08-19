@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 13:5",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Và ⟨cái⟩ bàn thờ bị xé rách, và tro đổ ra khỏi bàn thờ, theo dấu kỳ mà người của Elohim đã ban ra bằng lời Yahweh.",
+  "tokens": [
+    {
+      "surface": "והמזבח",
+      "gloss": "và bàn thờ"
+    },
+    {
+      "surface": "נקרע",
+      "gloss": "bị xé rách"
+    },
+    {
+      "surface": "וישפך",
+      "gloss": "và đổ ra"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "tro"
+    },
+    {
+      "surface": "מן",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "כמופת",
+      "gloss": "theo dấu kỳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "đã ban"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "của Elohim"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "bằng lời"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T03:51:54.734419273Z",
+  "model": "glm-5.3"
+}

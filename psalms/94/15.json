@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 94,
+  "translation": "Vì việc xét xử sẽ quay về ⟨với⟩ sự công chính, và sau nó, tất cả những người ngay thẳng trong lòng.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Vì"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sự công chính"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "sẽ quay về"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "việc xét xử"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "và sau nó"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "những người ngay thẳng"
+    },
+    {
+      "surface": "לב",
+      "gloss": "trong lòng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:34.653902034Z",
+  "model": "glm-5.3"
+}

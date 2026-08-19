@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 10:25",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Vì còn một chút, rất ít, và cơn thịnh nộ sẽ chấm dứt, và cơn giận của Ta trên sự hủy diệt của chúng nó.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Vì"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "còn"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "một chút"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "rất ít"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "và sẽ chấm dứt"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "cơn thịnh nộ"
+    },
+    {
+      "surface": "ואפי",
+      "gloss": "và cơn giận của Ta"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "תבליתם",
+      "gloss": "sự hủy diệt của chúng nó"
+    }
+  ],
+  "timestamp": "2026-08-19T06:12:04.789019762Z",
+  "model": "glm-5.3"
+}

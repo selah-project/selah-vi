@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Vì chính Ngài là Đấng đưa ⟨tôi⟩ ra khỏi womb; ⟨Ngài⟩ làm ⟨tôi⟩ tin cậy ngay trên ngực mẹ ⟨tôi⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Vì"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "chính Ngài"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "đưa ra khỏi womb"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "khởi từ bụng mẹ"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "làm tôi tin cậy"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngay trên"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ngực mẹ"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "của mẹ tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:03.916043559Z",
+  "model": "glm-5.3"
+}

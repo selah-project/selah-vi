@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Sẽ xảy ra rằng khi người Mitsrajim thấy ⟨את⟩ ⟨bà⟩, họ sẽ nói: 'Đây là vợ ⟨anh ta⟩'; rồi họ sẽ giết ⟨את⟩ tôi, còn ⟨את⟩ ⟨bà⟩ họ sẽ cho sống.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "sẽ xảy ra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng khi"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "họ thấy"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "⟨bà⟩"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "người Mitsrajim"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "và họ sẽ nói"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vợ ⟨anh ta⟩"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "đây là"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "và họ sẽ giết"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "tôi"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "⟨את⟩",
+      "marks": "⟨bà⟩"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "họ sẽ cho sống"
+    }
+  ],
+  "timestamp": "2026-08-19T00:55:03.337751624Z",
+  "model": "glm-5.3"
+}

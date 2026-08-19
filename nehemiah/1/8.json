@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 1:8",
+  "book": "nehemiah",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Xin hãy nhớ ⟨את⟩ lời mà Ngài đã truyền cho Moshe, tôi tớ của Ngài, rằng: Nếu các ngươi phản bội, ta sẽ tan tán ⟨אתכם⟩ giữa các dân tộc.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "hãy nhớ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lời"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lời"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "Ngài đã truyền"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tôi tớ của Ngài"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "các ngươi"
+    },
+    {
+      "surface": "תמעלו",
+      "gloss": "phản bội"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אפיץ",
+      "gloss": "sẽ tan tán"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "giữa các dân tộc"
+    }
+  ],
+  "timestamp": "2026-08-19T05:43:12.352669764Z",
+  "model": "glm-5.3"
+}

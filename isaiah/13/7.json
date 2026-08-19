@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 13:7",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Vì vậy mọi bàn tay sẽ rũ xuống, và вся lòng người phàm sẽ tan chảy.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vậy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "bàn tay"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "sẽ rũ xuống"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "lòng"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "người phàm"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "sẽ tan chảy"
+    }
+  ],
+  "timestamp": "2026-08-19T04:05:51.700944035Z",
+  "model": "glm-5.3"
+}

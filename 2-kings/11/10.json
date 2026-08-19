@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và thầy tế lễ giao cho các viên chỉ huy trưởng trăm ⟨את⟩ cây giáo và ⟨את⟩ các khiên của vua David, những vật ở trong nhà Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "và giao cho"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "thầy tế lễ"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "cho các viên chỉ huy"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "trưởng trăm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cây giáo"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "cây giáo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các khiên"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "các khiên"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "những vật"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "của vua"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ở"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "trong nhà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T03:58:13.969603427Z",
+  "model": "glm-5.3"
+}

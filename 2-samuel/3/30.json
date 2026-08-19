@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 3:30",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và Yoav cùng Avishai anh em ông đã giết Avner, vì ông đã giết ⟨את⟩ Asahel anh em họ tại Giv'on, trong cuộc chiến.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "và Yoav"
+    },
+    {
+      "surface": "ואבישי",
+      "gloss": "cùng Avishai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "anh em ông"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "đã giết"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "המית",
+      "gloss": "ông đã giết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asahel"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Asahel"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "anh em họ"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "tại Giv'on"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "trong cuộc chiến"
+    }
+  ],
+  "timestamp": "2026-08-19T03:39:45.695683642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Và kẻ nguyền rủa cha mình hay mẹ mình thì chắc chắn bị xử tử.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "và-nguyền-rủa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "cha-mình"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "hay-mẹ-mình"
+    },
+    {
+      "surface": "מות",
+      "gloss": "chết"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "chắc-chắn-bị-xử-tử"
+    }
+  ],
+  "timestamp": "2026-08-19T02:33:24.283755486Z",
+  "model": "glm-5.3"
+}

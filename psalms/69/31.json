@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 69:31",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 69,
+  "translation": "Tôi sẽ ngợi khen danh Elohim bằng bài ca, và tôi sẽ tôn Ngài lên cùng với sự tạ ơn.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "tôi sẽ ngợi khen"
+    },
+    {
+      "surface": "שם",
+      "gloss": "danh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "bằng bài ca"
+    },
+    {
+      "surface": "ואגדלנו",
+      "gloss": "và tôi sẽ tôn Ngài lên"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "cùng với sự tạ ơn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:56.417893239Z",
+  "model": "glm-5.3"
+}

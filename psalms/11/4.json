@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Yahweh — trong cung thánh của Ngài; Yahweh — trên trời là ngai của Ngài; mắt Ngài nhìn xem, mí mắt Ngài thử luyện con cái loài người.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "trong cung"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "thánh của Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "trên trời"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ngai của Ngài"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "mắt Ngài"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "nhìn xem"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "mí mắt Ngài"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "thử luyện"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "loài người"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:09.819808532Z",
+  "model": "glm-5.3"
+}

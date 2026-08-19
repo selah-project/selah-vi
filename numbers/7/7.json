@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "⟨את⟩ hai cỗ xe và ⟨את⟩ bốn con bò, người ban cho con cháu Gershon, theo khả năng phục vụ của họ.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hai cỗ xe"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "hai"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "cỗ xe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "bốn con bò"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "bốn"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "con bò"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "người ban"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "cho con cháu"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gershon"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "theo khả năng"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "phục vụ của họ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:53:50.186515387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Và chúng ta đã lấy ⟨את⟩ đất của họ, và ban nó làm sản nghiệp cho dòng Reuven, cho dòng Gad, và cho nửa chi tộc Menasheh.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "và chúng ta đã lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đất của họ"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "đất của họ"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "và ban nó"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "làm sản nghiệp"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "cho dòng Reuven"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "và cho dòng Gad"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "và cho nửa"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "chi tộc"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "của Menasheh"
+    }
+  ],
+  "timestamp": "2026-08-19T03:12:43.529740975Z",
+  "model": "glm-5.3"
+}

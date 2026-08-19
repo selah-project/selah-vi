@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Chúa của tôi có hỏi ⟨את⟩ tôi tớ của ngài rằng: Các ngươi có cha hay anh em không?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "chúa của tôi"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "có hỏi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tôi tớ của ngài"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "tôi tớ của ngài"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "היש",
+      "gloss": "có có không"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "của các ngươi"
+    },
+    {
+      "surface": "אב",
+      "gloss": "cha"
+    },
+    {
+      "surface": "או",
+      "gloss": "hay"
+    },
+    {
+      "surface": "אח",
+      "gloss": "anh em"
+    }
+  ],
+  "timestamp": "2026-08-19T02:24:48.696286812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 35,
+  "translation": "⟨את⟩ các mành treo của sân, ⟨את⟩ các trụ của nó và ⟨את⟩ các chân đế của nó, và ⟨את⟩ bức màn che của cổng sân;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các mành treo của sân"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "các mành treo"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "của sân"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các trụ của nó"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "các trụ của nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các chân đế của nó"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "các chân đế của nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "bức màn che của cổng sân"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "bức màn che"
+    },
+    {
+      "surface": "שער",
+      "gloss": "cổng"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "của sân"
+    }
+  ],
+  "timestamp": "2026-08-19T02:36:58.094949381Z",
+  "model": "glm-5.3"
+}

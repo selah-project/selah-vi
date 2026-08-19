@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 7:10",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "⟨Hắn⟩ sẽ không quay về nhà mình nữa, và chỗ của hắn sẽ không nhận ra hắn nữa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "quay về"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nữa"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "nhà mình"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "nhận ra hắn"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nữa"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "chỗ của hắn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:21:13.615384238Z",
+  "model": "glm-5.3"
+}

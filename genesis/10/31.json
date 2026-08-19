@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Những người này là con trai của Shem, theo gia tộc của họ, theo tiếng nói của họ, trong đất của họ, theo dân tộc của họ.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Những người này"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con trai của"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "theo gia tộc của họ"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "theo tiếng nói của họ"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "trong đất của họ"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "theo dân tộc của họ"
+    }
+  ],
+  "timestamp": "2026-08-19T00:53:33.771954223Z",
+  "model": "glm-5.3"
+}

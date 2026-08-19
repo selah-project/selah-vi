@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 4:2",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và ông làm ⟨את⟩ Biển bằng kim loại đúc, mười amma từ mép này đến mép kia, tròn xung quanh, và cao năm amma, và một dây dây ba mươi amma quấn ⟨את nó⟩ quanh.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "và ông làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Biển"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Biển"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "bằng kim loại đúc"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mười"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "theo amma"
+    },
+    {
+      "surface": "משפתו",
+      "gloss": "từ mép của nó"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "mép của nó"
+    },
+    {
+      "surface": "עגול",
+      "gloss": "tròn"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "xung quanh"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "và năm"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "theo amma"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "cao của nó"
+    },
+    {
+      "surface": "וקו",
+      "gloss": "và một sợi dây"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ba mươi"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "theo amma"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "quấn quanh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את nó⟩",
+      "marks": "nó (Biển)"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "xung quanh"
+    }
+  ],
+  "timestamp": "2026-08-19T05:54:58.446122576Z",
+  "model": "glm-5.3"
+}

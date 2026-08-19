@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 38,
+  "translation": "Tôi bị cong queo, tôi cúi sụp xuống hết mức, suốt ngày tôi đi trong u tối than khóc.",
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "tôi bị cong queo"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "tôi cúi sụp xuống"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hết mức"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "vô cùng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "suốt"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "u tối than khóc"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "tôi đi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:25.300620987Z",
+  "model": "glm-5.3"
+}

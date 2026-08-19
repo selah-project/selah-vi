@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Mọi dòng suối chảy về biển, nhưng biển không hề đầy; đến nơi các dòng suối chảy, ở đó chúng quay lại để chảy tiếp.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "dòng suối"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "đi\/ chảy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "về"
+    },
+    {
+      "surface": "הים",
+      "gloss": "biển"
+    },
+    {
+      "surface": "והים",
+      "gloss": "và biển"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "không hề"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "đầy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "nơi"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "mà các dòng suối"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "chảy"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ở đó"
+    },
+    {
+      "surface": "הם",
+      "gloss": "chúng"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "quay lại"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "để chảy"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:31.306915578Z",
+  "model": "glm-5.3"
+}

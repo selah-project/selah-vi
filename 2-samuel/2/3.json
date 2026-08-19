@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 2:3",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và những người của ⟨ông⟩, những kẻ ở với ⟨ông⟩, Davíd đã đưa lên, mỗi người với nhà của mình; và họ định cư trong các thành của Chevron.",
+  "tokens": [
+    {
+      "surface": "ואנשיו",
+      "gloss": "và những người của ông"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "những kẻ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ở với ông"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "đã đưa lên"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíd"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mỗi người"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "với nhà của mình"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "và họ định cư"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "trong các thành"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    }
+  ],
+  "timestamp": "2026-08-19T03:38:51.599356522Z",
+  "model": "glm-5.3"
+}

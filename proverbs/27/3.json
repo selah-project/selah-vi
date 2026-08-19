@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Nặng là đá, và cồng kềnh là cát, nhưng cơn giận của kẻ dại còn nặng hơn cả hai.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "nặng"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "là đá"
+    },
+    {
+      "surface": "ונטל",
+      "gloss": "và cồng kềnh"
+    },
+    {
+      "surface": "החול",
+      "gloss": "là cát"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "nhưng cơn giận"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "của kẻ dại"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "nặng"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "hơn cả hai"
+    }
+  ],
+  "timestamp": "2026-08-19T05:19:21.940074299Z",
+  "model": "glm-5.3"
+}

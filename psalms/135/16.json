@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 135,
+  "translation": "Miệng chúng có, nhưng không nói; mắt chúng có, nhưng không thấy.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "miệng"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chúng có"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nhưng không"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "nói"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "mắt"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chúng có"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nhưng không"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "thấy"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:11.911898714Z",
+  "model": "glm-5.3"
+}

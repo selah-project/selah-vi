@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 23:5",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Khi mắt ngươi hướng về nó — nó đã không còn; vì ⟨nó⟩ sẽ tự làm lấy cho mình cánh, như chim ưng bay về phía các tầng trời.",
+  "tokens": [
+    {
+      "surface": "התעוף",
+      "gloss": "khi ngươi hướng về"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "mắt ngươi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nó"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "và nó không còn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "làm"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "sẽ làm"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho mình"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "cánh"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "như chim ưng"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "và bay"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "các tầng trời"
+    }
+  ],
+  "timestamp": "2026-08-19T06:19:48.895268614Z",
+  "model": "glm-5.3"
+}

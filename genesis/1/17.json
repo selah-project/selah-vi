@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và Elohim đã đặt ⟨אתם⟩ chúng trong vòm-lồng ⟨các⟩ tầng trời, để soi-sáng trên đất,",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "và đã-đặt"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "chúng (các nguồn sáng)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "trong vòm-lồng"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "các tầng trời"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "để soi-sáng"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T00:45:31.045688675Z",
+  "model": "glm-5.3"
+}

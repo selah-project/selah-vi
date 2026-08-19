@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 20:25",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Bẫy cho con người là khi vội nói 'Đó là vật thánh', và sau lời khấn nguyện mới đi xét lại.",
+  "tokens": [
+    {
+      "surface": "מוקש",
+      "gloss": "bẫy"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "con người"
+    },
+    {
+      "surface": "ילע",
+      "gloss": "vội nói"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "vật thánh"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "và sau"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "lời khấn nguyện"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "đi xét lại"
+    }
+  ],
+  "timestamp": "2026-08-19T05:17:48.974105725Z",
+  "model": "glm-5.3"
+}

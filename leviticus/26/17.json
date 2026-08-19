@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 26:17",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Ta sẽ đặt mặt Ta chống lại các ngươi, và các ngươi sẽ bị đánh ngã trước mặt kẻ thù nghịch các ngươi; những kẻ ghét các ngươi sẽ cai trị các ngươi, và các ngươi sẽ trốn chạy mà không ai đuổi bắt ⟨את⟩ các ngươi.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Ta sẽ đặt"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt Ta"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "chống lại các ngươi"
+    },
+    {
+      "surface": "ונגפתם",
+      "gloss": "và các ngươi sẽ bị đánh ngã"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "kẻ thù nghịch các ngươi"
+    },
+    {
+      "surface": "ורדו",
+      "gloss": "và sẽ cai trị"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "các ngươi"
+    },
+    {
+      "surface": "שנאיכם",
+      "gloss": "những kẻ ghét các ngươi"
+    },
+    {
+      "surface": "ונסתם",
+      "gloss": "và các ngươi sẽ trốn chạy"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mà không có"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "ai đuổi bắt"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:48:26.258068139Z",
+  "model": "glm-5.3"
+}

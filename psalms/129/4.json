@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 129,
+  "translation": "Yahweh ⟨là⟩ công bình, Ngài đã chặt đứt các sợi dây của kẻ ác.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "công bình"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "đã chặt đứt"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "các sợi dây"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "của kẻ ác"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:46.760464250Z",
+  "model": "glm-5.3"
+}

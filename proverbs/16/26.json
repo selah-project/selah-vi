@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 16:26",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Một người ⟨hồn⟩ lao động, lao động cho chính mình, vì miệng mình thúc ép nó.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "hồn"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "lao động"
+    },
+    {
+      "surface": "עמלה",
+      "gloss": "lao động"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho anh ta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אכף",
+      "gloss": "thúc ép"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "trên nó"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "miệng của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:16:57.400547375Z",
+  "model": "glm-5.3"
+}

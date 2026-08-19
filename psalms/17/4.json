@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 17:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Về các việc làm của loài người, bởi lời từ đôi môi Ngài, tôi đã giữ mình khỏi các lối của kẻ bạo hành.",
+  "tokens": [
+    {
+      "surface": "לפעלות",
+      "gloss": "về các việc làm"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "loài người"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "bởi lời"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "đôi môi Ngài"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "đã giữ"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "các lối"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "kẻ bạo hành"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:22.907423104Z",
+  "model": "glm-5.3"
+}

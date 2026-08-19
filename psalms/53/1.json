@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 53,
+  "translation": "Cho người chỉ huy đàn ca, theo điệu «Machalath», một bài maschil ⟨của⟩ David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "cho người chỉ huy đàn ca"
+    },
+    {
+      "surface": "על",
+      "gloss": "theo điệu"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Machalath"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "một bài maschil (thi ca dạy dỗ)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "⟨của⟩ David"
+    }
+  ],
+  "timestamp": "2026-08-19T06:37:58.773881175Z",
+  "model": "glm-5.3"
+}

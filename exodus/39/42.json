@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 39,
+  "translation": "Theo mọi điều mà Yahweh đã phán dặn ⟨את⟩ Moshe, thì như vậy các con trai Yisrael đã làm ⟨את⟩ toàn bộ công việc.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "theo mọi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "điều mà"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "đã phán dặn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "thì như vậy"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "בני",
+      "gloss": "các con trai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toàn bộ công việc"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn bộ"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "công việc"
+    }
+  ],
+  "timestamp": "2026-08-19T02:39:14.551322258Z",
+  "model": "glm-5.3"
+}

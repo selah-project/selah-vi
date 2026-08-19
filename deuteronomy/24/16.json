@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Cha mẹ đừng bị giết vì con cái, và con cái đừng bị giết vì cha mẹ; mỗi người sẽ bị giết vì tội của chính mình.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "bị giết"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "cha mẹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "và con cái"
+    },
+    {
+      "surface": "לא",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "bị giết"
+    },
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "cha mẹ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mỗi người"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "trong tội của mình"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "sẽ bị giết"
+    }
+  ],
+  "timestamp": "2026-08-19T03:11:25.761762498Z",
+  "model": "glm-5.3"
+}

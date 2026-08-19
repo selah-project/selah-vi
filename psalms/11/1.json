@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Cho người chỉ huy ca đàn. Của David. Nơi Yahweh tôi nương ẩn; sao các ngươi nói với linh hồn tôi: Hãy trốn lên núi như chim!",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "cho người chỉ huy ca đàn"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "của David"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "nơi Yahweh"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "tôi nương ẩn"
+    },
+    {
+      "surface": "איך",
+      "gloss": "sao"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "các ngươi nói"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "với linh hồn tôi"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "hãy trốn"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "núi của các ngươi"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "chim"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:09.819189179Z",
+  "model": "glm-5.3"
+}

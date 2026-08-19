@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 34,
+  "translation": "Ngài canh giữ toàn thể xương cốt của người; một trong chúng không gãy.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "canh giữ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "xương cốt của người"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "một"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "trong chúng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "bị gãy"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:27.403882400Z",
+  "model": "glm-5.3"
+}

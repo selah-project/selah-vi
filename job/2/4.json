@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "HaSatan trả lời ⟨את⟩ Yahweh và nói: Da đổi lấy da, và tất cả điều gì người có, y sẽ lấy đổi lấy mạng sống mình.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "và trả lời"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "HaSatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "עור",
+      "gloss": "da"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "đổi lấy"
+    },
+    {
+      "surface": "עור",
+      "gloss": "da"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và tất cả"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "điều gì"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "người có"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "y sẽ lấy"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "đổi lấy"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "mạng sống mình"
+    }
+  ],
+  "timestamp": "2026-08-19T05:20:50.082030356Z",
+  "model": "glm-5.3"
+}

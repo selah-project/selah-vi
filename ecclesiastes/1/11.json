@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Không có sự ghi nhớ cho ⟨các⟩ người thuở trước; và ⟨cũng⟩ cho ⟨các⟩ người sau sẽ đến, sẽ không có sự ghi nhớ cho họ cùng với ⟨các⟩ người sẽ đến sau cùng.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "sự ghi nhớ"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "cho các người thuở trước"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "và cũng"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "cho các người sau"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "sẽ đến"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sẽ có"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho họ"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "sự ghi nhớ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cùng với"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "những người sẽ đến"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "sau cùng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:08.915648547Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 133,
+  "translation": "Như sương của Chermon mà đọng xuống trên núi của Tsiyon, vì ở đó Yahweh đã truyền lệnh ⟨את⟩ phước lành — sự sống cho đến đời đời",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "Như sương"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "của Chermon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "mà đọng xuống"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "núi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "của Tsiyon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ở đó"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "đã truyền lệnh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phước lành"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "phước lành"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "sự sống"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "đời đời"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:09.609836879Z",
+  "model": "glm-5.3"
+}

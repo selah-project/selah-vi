@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và số ngày của Terach ⟨là⟩ hai trăm lẻ năm, và Terach chết tại Charan.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "và chúng là"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "số ngày của"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terach"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "năm"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "năm (số nhiều)"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "và hai trăm"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "năm"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "và chết"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terach"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "tại Charan"
+    }
+  ],
+  "timestamp": "2026-08-19T00:56:57.192334931Z",
+  "model": "glm-5.3"
+}

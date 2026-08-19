@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Và vua nói: Chắc chắn phải chết, Achimelek, ngươi và cả nhà cha ngươi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "מות",
+      "gloss": "chết"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ngươi sẽ chết"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achimelek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và cả"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "cha ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:35:56.239830403Z",
+  "model": "glm-5.3"
+}

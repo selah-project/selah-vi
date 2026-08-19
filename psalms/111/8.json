@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 111,
+  "translation": "Chúng ⟨được⟩ nâng đỡ đời đời, muôn thuở; ⟨chúng⟩ được làm nên trong chân thật và ngay thẳng.",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "được nâng đỡ"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "đời đời"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "muôn thuở"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "được làm nên"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "trong chân thật"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "và ngay thẳng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:32.785062079Z",
+  "model": "glm-5.3"
+}

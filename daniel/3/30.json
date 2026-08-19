@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 3:30",
+  "book": "daniel",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Khi ấy vua khiến Shadrach, Meshach và Abed-Nego được thăng tiến trong tỉnh Babylon.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "khi ấy"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "vua"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "thăng tiến"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "Shadrach"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Meshach"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "và Abed"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Nego"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "trong tỉnh"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylon"
+    }
+  ],
+  "timestamp": "2026-08-19T05:36:56.717318830Z",
+  "model": "glm-5.3"
+}

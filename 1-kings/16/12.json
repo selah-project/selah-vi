@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Và Zimri diệt ⟨את⟩ toàn thể nhà Baasha, theo lời Yahweh, mà Ngài đã phán cùng Baasha qua tay Yehu đấng tiên tri.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "đã diệt"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toàn thể nhà Baasha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "theo lời"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "đã phán"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cùng"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "qua tay"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "đấng tiên tri"
+    }
+  ],
+  "timestamp": "2026-08-19T03:52:43.030253164Z",
+  "model": "glm-5.3"
+}

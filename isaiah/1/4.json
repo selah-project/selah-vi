@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Khốn thay, dân tộc phạm tội, dân tộc nặng đầy sự gian ác, dòng giống của kẻ làm điều dữ, con cái hủy hoại! Chúng đã bỏ ⟨את⟩ Yahweh, đã khinh miệt ⟨את⟩ Đấng Thánh của Yisrael, đã quay lưng đi lui.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "khốn thay"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "dân tộc"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "phạm tội"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dân tộc"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "nặng đầy"
+    },
+    {
+      "surface": "עון",
+      "gloss": "sự gian ác"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "dòng giống"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "của kẻ làm điều dữ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "hủy hoại"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "đã bỏ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "đã khinh miệt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Đấng Thánh của Yisrael"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Đấng Thánh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "của Yisrael"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "đã quay đi"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "lui lại phía sau"
+    }
+  ],
+  "timestamp": "2026-08-19T04:03:37.888651421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 69:33",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 69,
+  "translation": "Những kẻ khiêm nhường đã thấy và vui mừng; hỡi những kẻ tìm kiếm Elohim, lòng các ngươi hãy sống.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "đã thấy"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "những kẻ khiêm nhường"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "và vui mừng"
+    },
+    {
+      "surface": "דרשי",
+      "gloss": "những kẻ tìm kiếm"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "hãy sống"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "lòng các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:22.675248842Z",
+  "model": "glm-5.3"
+}

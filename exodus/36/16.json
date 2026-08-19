@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 36,
+  "translation": "Và người nối ⟨את⟩ năm tấm màn ra riêng, và ⟨את⟩ sáu tấm màn ra riêng.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "và người nối"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "năm tấm màn"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "năm"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "tấm màn"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ra riêng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "sáu tấm màn"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sáu"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "tấm màn"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ra riêng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:38:37.657671376Z",
+  "model": "glm-5.3"
+}

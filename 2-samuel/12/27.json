@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 12:27",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Và Yoav sai các sứ giả đến với David và nói: Ta đã đánh trận chống Rabbat, cũng đã chiếm lấy ⟨את⟩ thành của nước.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "và sai"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "các sứ giả"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến với"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "נלחמתי",
+      "gloss": "ta đã đánh trận"
+    },
+    {
+      "surface": "ברבה",
+      "gloss": "chống Rabbat"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cũng"
+    },
+    {
+      "surface": "לכדתי",
+      "gloss": "đã chiếm lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thành"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "thành"
+    },
+    {
+      "surface": "המים",
+      "gloss": "của nước"
+    }
+  ],
+  "timestamp": "2026-08-19T03:41:40.292525988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 35,
+  "translation": "Chúng trả lại cho tôi điều ác thay vì điều lành, sự mất mát cho linh hồn tôi.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "chúng trả lại cho tôi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "điều ác"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thay vì"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "điều lành"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "sự mất mát"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "cho linh hồn tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:20.910368863Z",
+  "model": "glm-5.3"
+}

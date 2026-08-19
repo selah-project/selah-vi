@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 135,
+  "translation": "Và ban đất của chúng làm sản nghiệp, sản nghiệp cho Yisrael, dân sự của Ngài.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "và ban"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "đất của chúng"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "sản nghiệp"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "sản nghiệp"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "cho Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "dân sự của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:00.546679184Z",
+  "model": "glm-5.3"
+}

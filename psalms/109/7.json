@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 109,
+  "translation": "Khi ⟨hắn⟩ bị xét xử, hắn sẽ ra ⟨với⟩ tội lỗi, và lời cầu nguyện của hắn sẽ thành ⟨thành⟩ tội lỗi.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "khi hắn bị xét xử"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "hắn sẽ ra"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "tội lỗi"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "và lời cầu nguyện của hắn"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sẽ thành"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "thành tội lỗi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:32.607287140Z",
+  "model": "glm-5.3"
+}

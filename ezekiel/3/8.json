@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Này, ta đã làm ⟨את⟩ mặt ngươi cứng ngang mặt chúng, và ⟨את⟩ trán ngươi cứng ngang trán chúng.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "này"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ta đã làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mặt ngươi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "mặt ngươi"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "cứng"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "ngang với"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "mặt chúng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "trán ngươi"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "trán ngươi"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "cứng"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "ngang với"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "trán chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:31:44.537677638Z",
+  "model": "glm-5.3"
+}

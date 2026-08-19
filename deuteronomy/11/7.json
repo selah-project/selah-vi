@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Vì chính mắt các ngươi đã thấy ⟨את⟩ mọi công việc vĩ đại của Yahweh mà Ngài đã làm",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "mắt các ngươi"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "đã thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi công việc"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "công việc"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "vĩ đại"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Ngài đã làm"
+    }
+  ],
+  "timestamp": "2026-08-19T03:07:36.450951124Z",
+  "model": "glm-5.3"
+}

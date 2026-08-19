@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Bốn góc nó sẽ là, gấp đôi; một sải tay dài của nó, và một sải tay rộng của nó.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "bốn góc"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sẽ là"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "gấp đôi"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "một sải tay"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dài của nó"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "và một sải tay"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "rộng của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:35:10.950386826Z",
+  "model": "glm-5.3"
+}

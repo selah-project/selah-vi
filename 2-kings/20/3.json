@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 20:3",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Ôi, Yahweh, xin hãy nhớ ⟨את⟩ điều mà tôi đã bước đi trước mặt Ngài trong chân thật và với tấm lòng trọn vẹn, và điều tốt trong mắt Ngài tôi đã làm. Và Chizkiyahu khóc lớn tiếng.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "ôi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "hãy nhớ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "điều mà tôi đã bước đi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "điều mà"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "tôi đã bước đi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "trước mặt Ngài"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "trong chân thật"
+    },
+    {
+      "surface": "ובלבב",
+      "gloss": "và với tấm lòng"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "trọn vẹn"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "và điều tốt"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "trong mắt Ngài"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "tôi đã làm"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "và đã khóc"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "khóc"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lớn"
+    }
+  ],
+  "timestamp": "2026-08-19T04:02:07.286475427Z",
+  "model": "glm-5.3"
+}

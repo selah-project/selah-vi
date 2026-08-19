@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 72:15",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 72,
+  "translation": "Người sẽ sống, và sẽ ban cho Người vàng của Sheba; người ta sẽ cầu nguyện cho Người luôn luôn, suốt ngày sẽ chúc phúc Người.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "và sẽ sống"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "và sẽ ban"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho Người"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "từ vàng"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "và sẽ cầu nguyện"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "cho Người"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "luôn luôn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "suốt"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "יברכנהו",
+      "gloss": "sẽ chúc phúc Người"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:46.777833513Z",
+  "model": "glm-5.3"
+}

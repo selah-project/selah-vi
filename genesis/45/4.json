@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 45,
+  "translation": "Và Yosef nói với các anh em mình: Hãy lại gần tôi, xin các anh. Và họ lại gần. Và ông nói: Tôi là Yosef, em của các anh, mà các anh đã bán ⟨את⟩ tôi xuống Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "các anh em mình"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "hãy lại gần"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xin các anh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tới tôi"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "và họ lại gần"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và ông nói"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi là"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "em của các anh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "các anh đã bán"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "tôi"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "xuống Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T02:26:27.510188806Z",
+  "model": "glm-5.3"
+}

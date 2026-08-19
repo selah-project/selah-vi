@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 145,
+  "translation": "Mọi công việc của Ngài sẽ cảm tạ Ngài, Yahweh, và các kẻ tin kính của Ngài sẽ ban phước cho Ngài.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "sẽ cảm tạ Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "công việc của Ngài"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "và các kẻ tin kính của Ngài"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "sẽ ban phước cho Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:59.610768570Z",
+  "model": "glm-5.3"
+}

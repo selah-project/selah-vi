@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Và ⟨anh⟩ nói: Tôi đang tìm ⟨את⟩ các anh em tôi; xin chỉ cho tôi, họ đang chăn chiên ở đâu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các anh em tôi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "các anh em tôi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "đang tìm"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "xin chỉ cho"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nhờ \/ xin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ở đâu"
+    },
+    {
+      "surface": "הם",
+      "gloss": "họ"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "đang chăn chiên"
+    }
+  ],
+  "timestamp": "2026-08-19T02:23:08.187428680Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Bà đến với mẹ chồng, ⟨mẹ chồng⟩ nói: Ngươi là ai, con gái ta? Bà kể cho ⟨mẹ⟩ ⟨את⟩ tất cả những gì người đàn ông đã làm cho mình.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "và bà đến"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "mẹ chồng bà"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "và ⟨bà⟩ nói"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "את",
+      "gloss": "ngươi là"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "con gái ta"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "và bà kể"
+    },
+    {
+      "surface": "לה",
+      "gloss": "cho ⟨mẹ⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "những gì"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "לה",
+      "gloss": "cho mình"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "người đàn ông"
+    }
+  ],
+  "timestamp": "2026-08-19T05:30:10.284402477Z",
+  "model": "glm-5.3"
+}

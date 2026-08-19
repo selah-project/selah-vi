@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Xin ban ơn lành cho tôi tớ Ngài, để tôi được sống và gìn giữ lời Ngài.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "ban ơn lành cho"
+    },
+    {
+      "surface": "על",
+      "gloss": "cho \/ trên"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tôi tớ của Ngài"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "tôi sẽ sống"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "và tôi sẽ gìn giữ"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "lời của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:31.559575672Z",
+  "model": "glm-5.3"
+}

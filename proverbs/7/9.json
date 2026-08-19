@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 7:9",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Trong lúc chạng vạng, trong buổi chiều của ngày, trong con ngươi của đêm và bóng tối.",
+  "tokens": [
+    {
+      "surface": "בנשף",
+      "gloss": "trong lúc chạng vạng"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "trong buổi chiều"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "trong con ngươi của"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "đêm"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "và bóng tối"
+    }
+  ],
+  "timestamp": "2026-08-19T05:14:55.972234394Z",
+  "model": "glm-5.3"
+}

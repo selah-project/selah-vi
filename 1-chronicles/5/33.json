@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Merajoth sinh ⟨את⟩ Amarjah, và Amarjah sinh ⟨את⟩ Achituv.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "Merajoth"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amarjah"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarjah"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "và Amarjah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achituv"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Achituv"
+    }
+  ],
+  "timestamp": "2026-08-19T05:47:49.748932591Z",
+  "model": "glm-5.3"
+}

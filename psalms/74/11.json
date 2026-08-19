@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 74,
+  "translation": "Vì sao Ngài rút tay Ngài lại, cả tay hữu Ngài, từ giữa lòng Ngài? Hãy đưa ra, hầu ⟨is⟩ tiêu diệt!",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "vì sao"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "Ngài rút lại"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tay Ngài"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "cả tay hữu Ngài"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "từ giữa"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "lòng Ngài"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "tiêu diệt"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:17.355030188Z",
+  "model": "glm-5.3"
+}

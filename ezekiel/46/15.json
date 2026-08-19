@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 46,
+  "translation": "Và họ hãy làm ⟨את⟩ chiên con, và ⟨את⟩ của lễ chay, và ⟨את⟩ dầu, sáng sáng — của lễ thiêu liên tục.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "và họ hãy làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiên con"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "chiên con"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "của lễ chay"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "của lễ chay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "dầu"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "dầu"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "vào buổi sáng"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "vào buổi sáng"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "của lễ thiêu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "liên tục"
+    }
+  ],
+  "timestamp": "2026-08-19T04:43:22.879396539Z",
+  "model": "glm-5.3"
+}

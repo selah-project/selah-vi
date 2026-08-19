@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 115,
+  "translation": "Tay chúng, nhưng không sờ; chân chúng, nhưng không đi; họ không lên tiếng trong cổ họng mình.",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "tay chúng"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nhưng không"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "sờ"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "chân chúng"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nhưng không"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "đi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "lên tiếng"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "trong cổ họng mình"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:49.203647301Z",
+  "model": "glm-5.3"
+}

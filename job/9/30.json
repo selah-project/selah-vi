@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 9:30",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Nếu tôi tắm mình bằng tuyết, và rửa tay mình bằng tro tán,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "התרחצתי",
+      "gloss": "tôi tắm mình"
+    },
+    {
+      "surface": "במו",
+      "gloss": "bằng"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "tuyết"
+    },
+    {
+      "surface": "והזכותי",
+      "gloss": "và tôi làm sạch"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "bằng chất tẩy"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "lòng bàn tay tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:21:51.134437422Z",
+  "model": "glm-5.3"
+}

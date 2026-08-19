@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 108,
+  "translation": "Moav ⟨là⟩ nồi rửa của tôi; lên Edom tôi ném sandal tôi; lên Peleshet tôi hô lên chiến thắng.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "nồi"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "rửa của tôi"
+    },
+    {
+      "surface": "על",
+      "gloss": "lên"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "tôi ném"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "sandal tôi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lên"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleshet"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "tôi hô lên chiến thắng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:20.279430078Z",
+  "model": "glm-5.3"
+}

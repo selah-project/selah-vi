@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 44:3",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Vì sự ác của chúng mà chúng đã làm, chọc giận Ta, đi đốt hương, thờ phượng các elohim khác mà chúng không hề biết — chính chúng, các ngươi, và tổ phụ các ngươi.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "vì"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "sự ác của chúng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "chúng đã làm"
+    },
+    {
+      "surface": "להכעסני",
+      "gloss": "để chọc giận Ta"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "đi"
+    },
+    {
+      "surface": "לקטר",
+      "gloss": "đốt hương"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "thờ phượng"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "các elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "khác"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không hề"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "chúng biết"
+    },
+    {
+      "surface": "המה",
+      "gloss": "chính chúng"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "các ngươi"
+    },
+    {
+      "surface": "ואבתיכם",
+      "gloss": "và tổ phụ các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:28:45.557770036Z",
+  "model": "glm-5.3"
+}

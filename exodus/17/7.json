@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 17:7",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Và ⟨he⟩ đặt tên nơi đó là Massah, và Merivah, vì ⟨sự⟩ tranh cãi của ⟨các⟩ con trai Yitsra-el, và vì họ đã thử thách ⟨את⟩ Yahweh, rằng: Yahweh có ⟨is⟩ giữa chúng ta hay không?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "và gọi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tên"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "nơi đó"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "Massah"
+    },
+    {
+      "surface": "ומריבה",
+      "gloss": "và Merivah"
+    },
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "sự tranh cãi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "các con trai của"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yitsra-el"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "và vì"
+    },
+    {
+      "surface": "נסתם",
+      "gloss": "họ đã thử thách"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "היש",
+      "gloss": "có … không"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקרבנו",
+      "gloss": "giữa chúng ta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hay"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không"
+    }
+  ],
+  "timestamp": "2026-08-19T02:32:31.645799818Z",
+  "model": "glm-5.3"
+}

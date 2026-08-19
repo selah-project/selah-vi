@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Barak nói với nàng: nếu ngươi đi với ta thì ta sẽ đi; còn nếu ngươi không đi với ta thì ta sẽ không đi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Barak nói — và người nói"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "với nàng"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "ngươi đi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "với ta"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "thì ta sẽ đi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "còn nếu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "ngươi đi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "với ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "thì không"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ta sẽ đi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:07:32.797990146Z",
+  "model": "glm-5.3"
+}

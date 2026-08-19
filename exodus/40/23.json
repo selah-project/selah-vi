@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 40:23",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Và ⟨ông⟩ xếp lên trên đó hàng bánh trình diện trước mặt Yahweh, như Yahweh đã phán dặn ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "và xếp"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "trên đó"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "hàng xắp xếp"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bánh"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "phán dặn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-19T02:39:19.081575348Z",
+  "model": "glm-5.3"
+}

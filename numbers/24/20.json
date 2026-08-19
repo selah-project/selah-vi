@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 24:20",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Và ngài nhìn thấy ⟨את⟩ Amalek, rồi ngươi nhấc lên lời ngụ ngôn của mình và nói: Khởi đầu của các dân tộc ⟨là⟩ Amalek, và cuối cùng của nó ⟨là⟩ tận số diệt vong.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "và ngài nhìn thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "rồi nhấc lên"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "lời ngụ ngôn của mình"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "khởi đầu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "các dân tộc"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "và cuối cùng của nó"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "tận số"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "diệt vong"
+    }
+  ],
+  "timestamp": "2026-08-19T03:00:41.982495048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 1:7",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và ông nói với họ: dáng vẻ gì ⟨của⟩ người đàn ông kia, người đã đi lên đón các ngươi và đã nói với các ngươi ⟨את⟩ những lời này?",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "và ông-nói"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "với họ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dáng-vẻ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "người-đàn-ông-kia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "đã-đi-lên"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "đón các-ngươi"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "và đã-nói"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "với các-ngươi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "những lời này"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "những-lời"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "này"
+    }
+  ],
+  "timestamp": "2026-08-19T03:56:09.540995565Z",
+  "model": "glm-5.3"
+}

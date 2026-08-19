@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và Cham, cha của Kenaan, thấy ⟨את⟩ sự lõa thể của cha mình, và báo cho hai anh em mình ở ngoài.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "và thấy"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "cha của"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sự lõa thể của cha mình"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "sự lõa thể"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "cha của ông"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "và báo cho"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "cho hai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "anh em của ông"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ở ngoài"
+    }
+  ],
+  "timestamp": "2026-08-19T00:50:00.029939610Z",
+  "model": "glm-5.3"
+}

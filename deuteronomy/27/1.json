@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 27:1",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Và Moshe cùng các trưởng lão của Yisrael đã truyền lệnh ⟨את⟩ dân, rằng: Hãy giữ ⟨את⟩ toàn bộ điều răn mà ta truyền cho ⟨את⟩ các ngươi hôm nay.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "đã truyền lệnh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "cùng các trưởng lão của"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "hãy giữ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toàn bộ điều răn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn bộ"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "điều răn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "truyền"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ các ngươi",
+      "marks": "hôm nay"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hôm nay"
+    }
+  ],
+  "timestamp": "2026-08-19T03:11:37.214141054Z",
+  "model": "glm-5.3"
+}

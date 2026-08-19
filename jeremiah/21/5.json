@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 21:5",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Và chính ta sẽ chiến đấu nghịch cùng các ngươi ⟨את⟩ bằng bàn tay đưa ra và bằng cánh tay mạnh mẽ, với cơn thịnh nộ, với cơn căm hờn, và với sự giận dữ lớn lao.",
+  "tokens": [
+    {
+      "surface": "ונלחמתי",
+      "gloss": "và ta sẽ chiến đấu nghịch cùng"
+    },
+    {
+      "surface": "אני",
+      "gloss": "chính ta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ các ngươi",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bằng bàn tay"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "đưa ra"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "và bằng cánh tay"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "mạnh mẽ"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "với cơn thịnh nộ"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "với cơn căm hờn"
+    },
+    {
+      "surface": "ובקצף",
+      "gloss": "và với sự giận dữ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lớn lao"
+    }
+  ],
+  "timestamp": "2026-08-19T04:22:12.232830540Z",
+  "model": "glm-5.3"
+}

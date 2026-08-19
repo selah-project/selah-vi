@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 166,
+  "ref": "psalms 119:166",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Tôi đã trông đợi sự cứu của Ngài, Yahweh, và các mệnh lệnh của Ngài tôi đã làm.",
+  "tokens": [
+    {
+      "surface": "שברתי",
+      "gloss": "tôi đã trông đợi"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "cho sự cứu của Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומצותיך",
+      "gloss": "và các mệnh lệnh của Ngài"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "tôi đã làm"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:20.082068661Z",
+  "model": "glm-5.3"
+}

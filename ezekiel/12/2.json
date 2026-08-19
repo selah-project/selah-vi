@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 12:2",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Hỡi con người, ngươi đang ở giữa nhà phản nghịch; chúng có mắt để xem mà không xem, có tai để nghe mà không nghe; vì chúng là nhà phản nghịch.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "con"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "người"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "phản nghịch"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "đang-ở"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "mắt"
+    },
+    {
+      "surface": "להם",
+      "gloss": "có (chúng)"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "để-xem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mà-không"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "xem"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "tai"
+    },
+    {
+      "surface": "להם",
+      "gloss": "có (chúng)"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "để-nghe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mà-không"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nghe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "phản nghịch"
+    },
+    {
+      "surface": "הם",
+      "gloss": "chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:33:51.863035969Z",
+  "model": "glm-5.3"
+}

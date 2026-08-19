@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 14:10",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Lòng biết ⟨את⟩ nỗi đắng của chính nó, và người lạ không chia sẻ được niềm vui của nó.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "lòng"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "biết"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "nỗi đắng"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "của chính nó (nguồn sống nó)"
+    },
+    {
+      "surface": "ובשמחתו",
+      "gloss": "và trong niềm vui của nó"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יתערב",
+      "gloss": "chia sẻ lẫn vào"
+    },
+    {
+      "surface": "זר",
+      "gloss": "người lạ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:15:59.678123180Z",
+  "model": "glm-5.3"
+}

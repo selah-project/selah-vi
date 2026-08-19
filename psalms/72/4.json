@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 72,
+  "translation": "Ngài sẽ xét xử những người nghèo khổ của dân, cứu con cháu những người thiếu thốn, và nghiền nát kẻ áp bức.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "Ngài sẽ xét xử"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "những người nghèo khổ của"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "cứu"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "con cháu của"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "người thiếu thốn"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "và nghiền nát"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "kẻ áp bức"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:00.585834719Z",
+  "model": "glm-5.3"
+}

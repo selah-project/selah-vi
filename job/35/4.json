@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 35,
+  "translation": "Tôi sẽ trả lời ngươi những lời, và ⟨את⟩ bạn hữu của ngươi cùng với ngươi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "sẽ trả lời ngươi"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "những lời"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bạn hữu của ngươi"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "bạn hữu của ngươi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "cùng với ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:26:44.437101824Z",
+  "model": "glm-5.3"
+}

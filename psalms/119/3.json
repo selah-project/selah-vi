@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Thật, họ không làm điều bất công, trong đường lối của Ngài họ đã đi.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "thật"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "họ làm"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "điều bất công"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "trong đường lối của Ngài"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "họ đã đi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:38.853057839Z",
+  "model": "glm-5.3"
+}

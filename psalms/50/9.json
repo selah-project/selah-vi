@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 50,
+  "translation": "Ta sẽ không lấy bò từ nhà ngươi, hay dê đực từ chuồng ngươi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "Ta-sẽ-lấy"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "từ-nhà-ngươi"
+    },
+    {
+      "surface": "פר",
+      "gloss": "bò"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "từ-chuồng-ngươi"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "dê-đực"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:27.706944287Z",
+  "model": "glm-5.3"
+}

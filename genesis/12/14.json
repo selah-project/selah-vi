@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 12:14",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Xảy ra, khi Avram đến Mitsrayim, những người Mitsrayim thấy ⟨את⟩ người đàn bà, rằng nàng đẹp lắm.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "xảy ra"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "khi đến"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "và thấy"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "những người Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người đàn bà"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "người đàn bà"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "đẹp"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nàng"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "lắm"
+    }
+  ],
+  "timestamp": "2026-08-19T02:23:49.442189158Z",
+  "model": "glm-5.3"
+}

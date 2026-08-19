@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 36:5",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 36,
+  "translation": "Và Yirmeyahu ra lệnh cho ⟨את⟩ Barukh, rằng: Ta bị giam giữ, không thể vào nhà Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "và-ra lệnh"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Barukh"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Barukh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "bị giam giữ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "có thể"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "vào"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T04:26:08.091793257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Một lần tôi đã nói, và tôi sẽ không đáp lại; hai lần, nhưng tôi sẽ không thêm nữa.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "một lần"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "tôi đã nói"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "tôi đáp lại"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "và hai lần"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "tôi thêm nữa"
+    }
+  ],
+  "timestamp": "2026-08-19T05:27:45.201116522Z",
+  "model": "glm-5.3"
+}

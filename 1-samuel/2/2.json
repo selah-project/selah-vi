@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Không có Đấng thánh nào như Yahweh, vì không có ⟨ai⟩ ngoài Ngài, và không có Đá tảng nào như Elohim của chúng ta.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "không-có"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Đấng-thánh"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "như-Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không-có"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "ngoài-Ngài"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "và-không-có"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Đá-tảng"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "như-Elohim-của-chúng-ta"
+    }
+  ],
+  "timestamp": "2026-08-19T03:29:41.365402809Z",
+  "model": "glm-5.3"
+}

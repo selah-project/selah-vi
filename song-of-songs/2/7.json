@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 2:7",
+  "book": "song-of-songs",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Tôi đã khiến các con gái Yerushalayim thề — ⟨את⟩ các con — bằng loài hươu nao hay bằng các con hươu cái đồng nội, rằng: đừng đánh thức, đừng đánh stir dậy ⟨את⟩ tình yêu, cho đến khi nó muốn.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "tôi đã khiến thề"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ các con",
+      "marks": "các con gái Yerushalayim"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "các con gái"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "bằng loài hươu nao"
+    },
+    {
+      "surface": "או",
+      "gloss": "hay"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "bằng các con hươu cái"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "đồng nội"
+    },
+    {
+      "surface": "אם",
+      "gloss": "rằng đừng"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "các con đánh thức"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "và đừng"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "các con đánh stir dậy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tình yêu"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "tình yêu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến khi"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "nó muốn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:29:06.272605236Z",
+  "model": "glm-5.3"
+}

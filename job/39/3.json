@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 39:3",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 39,
+  "translation": "Chúng quỳ xuống, con của chúng vỡ lòng, chúng trút cơn đau đớn của mình ra.",
+  "tokens": [
+    {
+      "surface": "תכרענה",
+      "gloss": "chúng quỳ xuống"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "con của chúng"
+    },
+    {
+      "surface": "תפלחנה",
+      "gloss": "chúng vỡ lòng"
+    },
+    {
+      "surface": "חבליהם",
+      "gloss": "cơn đau đớn của chúng"
+    },
+    {
+      "surface": "תשלחנה",
+      "gloss": "chúng trút ra"
+    }
+  ],
+  "timestamp": "2026-08-19T05:28:05.803455707Z",
+  "model": "glm-5.3"
+}

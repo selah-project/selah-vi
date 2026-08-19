@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và Yahweh đã làm việc ⟨את⟩ này ngày hôm sau; và mọi gia súc của Mitzrayim đều chết, còn trong gia súc của con cái Yisrael thì không chết một con nào.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "và đã làm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "việc"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "việc"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ngày hôm sau"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "và đã chết"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "gia súc"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "của Mitzrayim"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "còn trong gia súc"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "מת",
+      "gloss": "chết"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "một con nào"
+    }
+  ],
+  "timestamp": "2026-08-19T02:29:31.500868951Z",
+  "model": "glm-5.3"
+}

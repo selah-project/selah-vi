@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 18:23",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Vì mọi phán quyết của Ngài ở trước mặt tôi, và các luật lệ của Ngài tôi không xoay khỏi mình tôi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "phán quyết của Ngài"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "ở trước mặt tôi"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "và các luật lệ của Ngài"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "tôi xoay đi"
+    },
+    {
+      "surface": "מני",
+      "gloss": "khỏi mình tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:33.547793790Z",
+  "model": "glm-5.3"
+}

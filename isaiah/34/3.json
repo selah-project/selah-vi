@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 34:3",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 34,
+  "translation": "Và những kẻ bị giết của chúng sẽ bị ném ra, và xác chết của chúng sẽ bốc mùi hôi thối lên, và các núi sẽ tan chảy vì máu của chúng.",
+  "tokens": [
+    {
+      "surface": "וחלליהם",
+      "gloss": "và những kẻ bị giết của chúng"
+    },
+    {
+      "surface": "ישלכו",
+      "gloss": "sẽ bị ném ra"
+    },
+    {
+      "surface": "ופגריהם",
+      "gloss": "và xác chết của chúng"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "sẽ bốc lên"
+    },
+    {
+      "surface": "באשם",
+      "gloss": "mùi hôi thối"
+    },
+    {
+      "surface": "ונמסו",
+      "gloss": "và sẽ tan chảy"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "các núi"
+    },
+    {
+      "surface": "מדמם",
+      "gloss": "vì máu của chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:09:56.270454244Z",
+  "model": "glm-5.3"
+}

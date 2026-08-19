@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Khi các ngươi gặt ⟨את⟩ mùa gặt của đất mình, ngươi chớ gặt sạch mép ruộng của ngươi, và hạt rơi của mùa gặt ngươi chớ nhặt.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "khi các ngươi gặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mùa gặt"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "mùa gặt"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "của đất mình"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "gặt sạch \/ tận cùng"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "mép \/ góc"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "ruộng của ngươi"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "để gặt"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "và hạt rơi"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "của mùa gặt ngươi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "nhặt"
+    }
+  ],
+  "timestamp": "2026-08-19T02:45:05.500576925Z",
+  "model": "glm-5.3"
+}

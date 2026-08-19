@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Và mười người thanh niên mang vũ khí của Yoav quay lại, đánh ⟨את⟩ Avshalom và giết hắn.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "và họ quay lại"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "mười"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "người thanh niên"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "mang"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "vũ khí"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "của Yoav"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "và đánh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "và giết hắn"
+    }
+  ],
+  "timestamp": "2026-08-19T03:43:50.809116321Z",
+  "model": "glm-5.3"
+}

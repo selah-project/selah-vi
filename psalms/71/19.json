@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 71,
+  "translation": "Và sự công chính của Ngài, Elohim ơi, ⟨đạt⟩ đến tận trời cao; Ngài đã làm những việc lớn lao — Elohim, ai giống như Ngài?",
+  "tokens": [
+    {
+      "surface": "וצדקתך",
+      "gloss": "và sự công chính của Ngài"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến tận"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "trời cao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ngài là Đấng mà"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "những việc lớn lao"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "giống như Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:34.319525298Z",
+  "model": "glm-5.3"
+}

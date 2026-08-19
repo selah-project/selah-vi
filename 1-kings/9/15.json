@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 9:15",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và đây là chuyện của thứ lệ mà vua Shlomo đã áp đặt, để xây ⟨את⟩ nhà Yahweh, và ⟨את⟩ nhà của ông, và ⟨את⟩ Millo, và ⟨את⟩ tường Yerushalayim, và ⟨את⟩ Chatzor, và ⟨את⟩ Megiddo, và ⟨את⟩ Gezer.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Và đây là"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "chuyện"
+    },
+    {
+      "surface": "המס",
+      "gloss": "thứ lệ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "đã áp đặt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "để xây"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhà Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "nhà của ông"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nhà của ông"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Millo"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "tường Yerushalayim"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "tường"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Chatzor"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "Chatzor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Megiddo"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "Megiddo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-08-19T06:09:57.024280346Z",
+  "model": "glm-5.3"
+}

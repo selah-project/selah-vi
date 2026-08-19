@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Còn Ta, Ta đã lập vua của Ta trên Tsiyon, núi thánh của Ta.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "còn Ta"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "Ta đã lập"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "vua của Ta"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "הר",
+      "gloss": "núi"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "thánh của Ta"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:08.698199994Z",
+  "model": "glm-5.3"
+}

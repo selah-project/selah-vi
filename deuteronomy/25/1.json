@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Khi có tranh tụng giữa những người, và họ đến trước ⟨את⟩ phiên tòa, thì họ sẽ xét xử: họ phải tuyên ⟨את⟩ người công bình là công bình, và tuyên ⟨את⟩ kẻ ác là có tội.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "khi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "có"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "tranh tụng"
+    },
+    {
+      "surface": "בין",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "những người"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "và họ đến"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tới"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "phiên tòa"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "thì họ sẽ xét xử"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "họ phải tuyên công bình"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người công bình"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "người công bình"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "và tuyên có tội"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kẻ ác"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "kẻ ác"
+    }
+  ],
+  "timestamp": "2026-08-19T03:11:09.760110871Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 69:17",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 69,
+  "translation": "Hãy đáp lời con, Yahweh, vì lòng nhân từ của Ngài ⟨là⟩ tốt; theo sự dồi dào lòng thương xót của Ngài, hãy quay mặt về phía con.",
+  "tokens": [
+    {
+      "surface": "ענני",
+      "gloss": "hãy đáp lời con"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tốt"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "lòng nhân từ của Ngài"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "theo sự dồi dào"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "lòng thương xót của Ngài"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "hãy quay"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "về phía con"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:38.532153935Z",
+  "model": "glm-5.3"
+}

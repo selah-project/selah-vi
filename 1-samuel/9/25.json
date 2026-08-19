@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 9:25",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và họ xuống từ ⟨bomas|bama⟩ nơi cao về thành, và ⟨Samuel|Shemuël⟩ nói chuyện với Shaul trên nóc nhà.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "và họ xuống"
+    },
+    {
+      "surface": "מהבמה",
+      "gloss": "từ nơi cao (bama)"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "về thành"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "và ⟨Samuel|Shemuël⟩ nói chuyện"
+    },
+    {
+      "surface": "עם",
+      "gloss": "với"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "nóc nhà"
+    }
+  ],
+  "timestamp": "2026-08-19T03:31:47.962010784Z",
+  "model": "glm-5.3"
+}

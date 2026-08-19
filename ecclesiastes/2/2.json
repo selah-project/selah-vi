@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Về sự cười, tôi đã nói: ⟨nó⟩ điên dại; và về sự vui mừng: nó làm gì ⟨đây⟩?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "về sự cười"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "tôi đã nói"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "điên dại"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "và về sự vui mừng"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨đây⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nó làm"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:41.081042799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 120,
+  "translation": "Tôi ⟨là⟩ người của sự bình an; còn khi tôi nói, họ ⟨lại⟩ muốn chiến tranh.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sự bình an"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "còn khi"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "tôi nói"
+    },
+    {
+      "surface": "המה",
+      "gloss": "họ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "⟨muốn⟩ chiến tranh"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:31.181469269Z",
+  "model": "glm-5.3"
+}

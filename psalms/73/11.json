@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 73,
+  "translation": "Và chúng nói: Làm sao El biết? và ⟨liệu⟩ có sự thông biết ⟨nơi⟩ Elyon không?",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "và chúng nói"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "làm sao"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "biết"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "và ⟨liệu⟩ có"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "sự thông biết"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "⟨nơi⟩ Elyon"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:36.926366297Z",
+  "model": "glm-5.3"
+}

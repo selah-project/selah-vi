@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 137,
+  "translation": "Hỡi con gái Bavel, kẻ bị tàn phá, phúc thay kẻ trả lại cho ngươi ⟨את⟩ phần ngươi đã làm cho chúng tôi.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "con gái"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "kẻ bị tàn phá"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "phúc thay"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "kẻ trả lại"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngươi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phần báo đáp của ngươi"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "phần báo đáp ngươi"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "ngươi đã làm"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "cho chúng tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:46.850379585Z",
+  "model": "glm-5.3"
+}

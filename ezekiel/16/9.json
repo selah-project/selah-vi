@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 16:9",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Ta đã rửa ngươi trong nước, và Ta đã rửa trôi máu ngươi khỏi trên ngươi, và Ta đã xức dầu cho ngươi.",
+  "tokens": [
+    {
+      "surface": "וארחצך",
+      "gloss": "và-Ta-đã-rửa-ngươi"
+    },
+    {
+      "surface": "במים",
+      "gloss": "trong-nước"
+    },
+    {
+      "surface": "ואשטף",
+      "gloss": "và-Ta-đã-rửa-trôi"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "máu-ngươi"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "khỏi-trên-ngươi"
+    },
+    {
+      "surface": "ואסכך",
+      "gloss": "và-Ta-đã-xức-dầu-cho-ngươi"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "bằng-dầu"
+    }
+  ],
+  "timestamp": "2026-08-19T04:34:39.746230426Z",
+  "model": "glm-5.3"
+}

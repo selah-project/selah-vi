@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Nếu trong lúc đục tường kẻ trộm bị bắt gặp, và bị đánh đến chết, thì không có huyết-trách ⟨vì⟩ hắn.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Nếu"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "trong lúc đục tường"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "bị bắt gặp"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "kẻ trộm"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "và bị đánh"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "và chết"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho hắn"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "huyết-trách"
+    }
+  ],
+  "timestamp": "2026-08-19T02:33:59.827060083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Ngài viết trong thư rằng: Hãy đặt ⟨את⟩ Uriya vào đối mặt trước trận chiến mạnh nhất, và các ngươi hãy lùi lại khỏi sau người, để người bị đánh và chết.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "và đã viết"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "trong thư"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "hãy đặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriya"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "מול",
+      "gloss": "đối diện"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt trước"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "của trận chiến"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "mạnh nhất"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "và các ngươi hãy lùi lại"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "khỏi sau người"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "và bị đánh"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "và chết"
+    }
+  ],
+  "timestamp": "2026-08-19T03:41:28.528044789Z",
+  "model": "glm-5.3"
+}

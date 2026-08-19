@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Vì họ là đầy tớ của Ta, ⟨những kẻ⟩ Ta đã đưa ra ⟨את⟩ họ khỏi đất Mitsrayim; họ không được bán theo kiểu bán đầy tớ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "đầy tớ của Ta"
+    },
+    {
+      "surface": "הם",
+      "gloss": "chính họ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨những kẻ⟩"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "Ta đã đưa ra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "họ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "khỏi đất"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "được bán"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "theo kiểu bán"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "đầy tớ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:48:04.240481394Z",
+  "model": "glm-5.3"
+}

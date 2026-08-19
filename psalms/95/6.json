@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 95,
+  "translation": "Hãy đến, chúng ta phủ phục và quỳ xuống, chúng ta quì gối trước mặt Yahweh, Đấng đã dựng nên chúng ta.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "hãy đến"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "chúng ta phủ phục"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "và quỳ xuống"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "chúng ta quì gối"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "Đấng đã dựng nên chúng ta"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:33.904678684Z",
+  "model": "glm-5.3"
+}

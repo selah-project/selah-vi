@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Nhưng nếu người ấy phá hủy, xóa bỏ ⟨אתם⟩ sau khi nghe, thì người ấy sẽ mang ⟨את⟩ tội lỗi của nàng.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Nhưng nếu"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "phá hủy"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "xóa bỏ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chúng (các lời khấn và ràng buộc)"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sau khi"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "người ấy nghe"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "thì người ấy sẽ mang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tội lỗi của nàng"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "tội lỗi của nàng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:02:18.231382785Z",
+  "model": "glm-5.3"
+}

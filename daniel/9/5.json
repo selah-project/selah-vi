@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 9:5",
+  "book": "daniel",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Chúng con đã phạm tội, đã làm điều vô lại, đã làm điều ác, đã nổi loạn, và đã xoay đi khỏi các điều răn của Ngài và khỏi các luật lệ của Ngài.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "chúng con đã phạm tội"
+    },
+    {
+      "surface": "ועוינו",
+      "gloss": "và đã làm điều vô lại"
+    },
+    {
+      "surface": "והרשענו",
+      "gloss": "và đã làm điều ác"
+    },
+    {
+      "surface": "ומרדנו",
+      "gloss": "và đã nổi loạn"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "và đã xoay đi"
+    },
+    {
+      "surface": "ממצותך",
+      "gloss": "khỏi các điều răn của Ngài"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "và khỏi các luật lệ của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:39:03.243276539Z",
+  "model": "glm-5.3"
+}

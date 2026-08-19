@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Lời con nói, xin lắng nghe, Yahweh; hãy hiểu thấu tiếng thao thức của con.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "lời con nói"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "xin lắng nghe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "hãy hiểu thấu"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "tiếng thao thức của con"
+    }
+  ],
+  "timestamp": "2026-08-19T04:55:13.758066792Z",
+  "model": "glm-5.3"
+}

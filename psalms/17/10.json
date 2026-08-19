@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Mỡ của chúng ⟨đã⟩ khép lại, miệng của chúng nói với kiêu ngạo.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "mỡ của chúng"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "đã khép lại"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "miệng của chúng"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "nói"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "với kiêu ngạo"
+    }
+  ],
+  "timestamp": "2026-08-19T04:55:58.643881652Z",
+  "model": "glm-5.3"
+}

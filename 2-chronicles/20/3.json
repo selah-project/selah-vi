@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 20:3",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Yehoshafat sợ hãi, và hướng ⟨את⟩ mặt mình để tìm kiếm Yahweh, và ông loan báo một cuộc kiêng ăn trên toàn Yehuda.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "và sợ hãi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "và hướng"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mặt mình"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mặt mình"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "để tìm kiếm"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "và ông loan báo"
+    },
+    {
+      "surface": "צום",
+      "gloss": "cuộc kiêng ăn"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-19T05:58:07.841483512Z",
+  "model": "glm-5.3"
+}

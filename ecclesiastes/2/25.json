@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Vì ai sẽ ăn, và ai sẽ hưởng, ngoài ⟨ta⟩?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "sẽ ăn"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "và ai"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "sẽ hưởng"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "ngoài"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "khỏi ⟨ta⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:19.046025745Z",
+  "model": "glm-5.3"
+}

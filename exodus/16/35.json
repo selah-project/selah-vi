@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 16:35",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Và con cái Yisrael đã ăn ⟨את⟩ man bốn mươi năm, cho đến khi họ đến xứ có người ở; ⟨את⟩ man họ đã ăn, cho đến khi họ đến tận biên giới xứ Kenaan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "và con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "đã ăn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "man"
+    },
+    {
+      "surface": "המן",
+      "gloss": "man"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "bốn mươi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "năm"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến khi"
+    },
+    {
+      "surface": "באם",
+      "gloss": "họ đến"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vào"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "xứ"
+    },
+    {
+      "surface": "נושבת",
+      "gloss": "có người ở"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "man"
+    },
+    {
+      "surface": "המן",
+      "gloss": "man"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "đã ăn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến khi"
+    },
+    {
+      "surface": "באם",
+      "gloss": "họ đến"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tới"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "tận biên giới"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "xứ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-19T02:31:55.694882274Z",
+  "model": "glm-5.3"
+}

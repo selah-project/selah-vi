@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 89,
+  "translation": "Chính ⟨את⟩người ấy sẽ kêu lên cùng Ta: Cha của tôi ⟨את⟩Ngài, El của tôi và Núi-đá cứu rỗi của tôi.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "chính người ấy"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "sẽ kêu lên cùng tôi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Cha của tôi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩Ngài (thầy) phán bảo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El của tôi"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "và Núi-đá"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "cứu rỗi của tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:38.430114521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 19:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Các tầng trời kể lại vinh hiển của El, và nền vòm rao báo việc tay Ngài làm.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "các tầng trời"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "kể lại"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "vinh hiển"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "và việc làm"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "tay Ngài"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "rao báo"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "nền vòm"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:08.106365318Z",
+  "model": "glm-5.3"
+}

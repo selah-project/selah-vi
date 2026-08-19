@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 17:3",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Và người trả lại ⟨את⟩ một nghìn một trăm số bạc cho mẹ mình; và mẹ người nói: «Quả thật ta đã thánh hóa ⟨את⟩ số bạc này cho Yahweh, từ tay ta, cho con ta, để làm tượng khắc và tượng đúc; và bây giờ ta trả nó lại cho con.»",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "và người trả lại"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "một nghìn một trăm số bạc"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "một nghìn"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "và một trăm"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "số bạc"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "cho mẹ mình"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "và bà nói"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mẹ người"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "quả thật thánh hóa"
+    },
+    {
+      "surface": "הקדשתי",
+      "gloss": "ta đã thánh hóa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "số bạc"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "số bạc"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "cho Yahweh"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "từ tay ta"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "cho con ta"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "để làm"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "tượng khắc"
+    },
+    {
+      "surface": "ומסכה",
+      "gloss": "và tượng đúc"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "và bây giờ"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "ta trả nó lại"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho con"
+    }
+  ],
+  "timestamp": "2026-08-19T03:27:35.111498195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 5:5",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Các núi chảy tan ra trước mặt Yahweh — nầy, Sinai — trước mặt Yahweh, Elohim của Yisrael.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "các núi"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "chảy tan ra"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nầy"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T03:23:09.722881187Z",
+  "model": "glm-5.3"
+}

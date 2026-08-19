@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và bốn mươi khuỷu là ⟨the⟩ nhà — ⟨nó⟩ là ⟨the⟩ đại điện ở phía trước.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "và bốn mươi"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "khuỷu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "là"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ngôi nhà"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "đại điện"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ở phía trước"
+    }
+  ],
+  "timestamp": "2026-08-19T03:48:31.367535466Z",
+  "model": "glm-5.3"
+}

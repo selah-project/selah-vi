@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 32:16",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Và tôi đã chờ đợi, vì chúng không nói, vì chúng đứng lặng, không đáp nữa.",
+  "tokens": [
+    {
+      "surface": "והוחלתי",
+      "gloss": "và tôi đã chờ đợi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "chúng nói"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "chúng đứng lặng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "đáp"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nữa"
+    }
+  ],
+  "timestamp": "2026-08-19T05:26:13.731267299Z",
+  "model": "glm-5.3"
+}

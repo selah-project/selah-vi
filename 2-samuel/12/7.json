@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 12:7",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Natan nói với David: Chính ngươi ⟨là⟩ người đó. Khá thay, Yahweh Elohim của Yisrael phán: Ta đã xức dầu cho ngươi làm vua trên Yisrael, và Ta đã giải cứu ngươi khỏi tay Sha’ul.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "đã nói"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "người đó"
+    },
+    {
+      "surface": "כה",
+      "gloss": "khá thay"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "משחתיך",
+      "gloss": "đã xức dầu ngươi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "làm vua"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "và Ta"
+    },
+    {
+      "surface": "הצלתיך",
+      "gloss": "đã giải cứu ngươi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "khỏi tay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha’ul"
+    }
+  ],
+  "timestamp": "2026-08-19T06:08:38.790515245Z",
+  "model": "glm-5.3"
+}

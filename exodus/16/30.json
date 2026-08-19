@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Và dân sự đã nghỉ ngơi vào ngày thứ bảy.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "và đã nghỉ ngơi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "vào ngày"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "thứ bảy"
+    }
+  ],
+  "timestamp": "2026-08-19T02:31:47.887563593Z",
+  "model": "glm-5.3"
+}

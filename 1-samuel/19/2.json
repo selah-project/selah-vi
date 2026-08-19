@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 19:2",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Và Yonatan báo cho David, rằng: 'Sha-ul cha tôi đang tìm giết ngươi; vậy bây giờ, xin hãy canh giữ mình vào buổi sáng, và hãy ở trong chỗ ẩn nấp, và hãy ẩn mình đi.'",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "báo"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "cho David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "đang tìm"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "cha tôi"
+    },
+    {
+      "surface": "להמיתך",
+      "gloss": "giết ngươi"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "vậy bây giờ"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "hãy canh giữ mình"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xin"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "vào buổi sáng"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "và hãy ở"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "trong chỗ ẩn nấp"
+    },
+    {
+      "surface": "ונחבאת",
+      "gloss": "và hãy ẩn mình"
+    }
+  ],
+  "timestamp": "2026-08-19T03:35:29.657780060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 98,
+  "translation": "Hãy reo hò cho Yahweh, toàn thể ⟨cái⟩ đất; hãy bật ra tiếng hò reo và hãy nhảy múa ca và hãy đàn hát.",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "hãy reo hò"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "cho Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "cái đất"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "hãy bật ra tiếng hò reo"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "và hãy nhảy múa ca"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "và hãy đàn hát"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:41.679522162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 58,
+  "translation": "Không, trong lòng các ngươi nặn sự gian ác; trên đất các ngươi cân đo bạo lực của tay mình.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "không"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "trong lòng"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "sự gian ác"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "các ngươi nặn ra"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trên đất"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "bạo lực"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "của tay mình"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "các ngươi cân đo"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:04.220775645Z",
+  "model": "glm-5.3"
+}

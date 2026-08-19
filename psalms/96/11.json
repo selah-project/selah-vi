@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 96,
+  "translation": "Các tầng trời hãy mừng vui, và đất hãy hoan hỉ; biển hãy gầm vang, cùng mọi vật đầy dẫy của nó.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "hãy mừng vui"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "các tầng trời"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "và hãy hoan hỉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "hãy gầm vang"
+    },
+    {
+      "surface": "הים",
+      "gloss": "biển"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "cùng sự đầy dẫy của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:13.742496500Z",
+  "model": "glm-5.3"
+}

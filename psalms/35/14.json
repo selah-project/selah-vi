@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 35,
+  "translation": "Như với một người bạn, như với một anh em đối với tôi, tôi đã đi lại; như người tang chế ⟨cho⟩ mẹ, tôi đã uốn mình sầu muộn.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "như với một người bạn"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "như với một anh em"
+    },
+    {
+      "surface": "לי",
+      "gloss": "đối với tôi"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "tôi đã đi lại"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "như người tang chế"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨cho⟩ mẹ"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "sầu muộn"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "tôi đã uốn mình"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:48.716389901Z",
+  "model": "glm-5.3"
+}

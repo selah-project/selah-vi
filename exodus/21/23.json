@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Nhưng nếu có tổn hại, thì ngươi phải trả ⟨את⟩ mạng sống thay cho mạng sống.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "nhưng nếu"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "tổn hại"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "có"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "thì ngươi phải trả"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mạng sống"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thay cho"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mạng sống"
+    }
+  ],
+  "timestamp": "2026-08-19T02:33:19.028984202Z",
+  "model": "glm-5.3"
+}

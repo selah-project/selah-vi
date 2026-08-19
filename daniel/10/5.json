@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 10:5",
+  "book": "daniel",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Tôi nhấc lên ⟨את⟩ mắt mình và nhìn, và kìa một người mặc áo vải gai, và thắt lưng mình bằng vàng ròng của Uphaz.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "tôi nhấc lên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mắt mình"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mắt mình"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "và nhìn"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "và kìa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "một người"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "một"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "mặc"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "áo vải gai"
+    },
+    {
+      "surface": "ומתניו",
+      "gloss": "và thắt lưng mình"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "thắt"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "bằng vàng"
+    },
+    {
+      "surface": "אופז",
+      "gloss": "Uphaz"
+    }
+  ],
+  "timestamp": "2026-08-19T05:39:27.566025890Z",
+  "model": "glm-5.3"
+}

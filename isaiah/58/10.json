@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 58:10",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 58,
+  "translation": "và ngươi sẽ dốc hết linh hồn mình cho kẻ đói, và làm no lòng người bị áp bức, thì ánh sáng ngươi sẽ soi trong bóng tối, và tối tăm ngươi sẽ như giữa trưa.",
+  "tokens": [
+    {
+      "surface": "ותפק",
+      "gloss": "và ngươi sẽ đổ ra"
+    },
+    {
+      "surface": "לרעב",
+      "gloss": "cho kẻ đói"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "linh hồn ngươi"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "và linh hồn"
+    },
+    {
+      "surface": "נענה",
+      "gloss": "bị áp bức"
+    },
+    {
+      "surface": "תשביע",
+      "gloss": "ngươi làm no"
+    },
+    {
+      "surface": "וזרח",
+      "gloss": "thì sẽ chiếu sáng"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "trong bóng tối"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "ánh sáng ngươi"
+    },
+    {
+      "surface": "ואפלתך",
+      "gloss": "và tối tăm ngươi"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "như giữa trưa"
+    }
+  ],
+  "timestamp": "2026-08-19T04:15:39.529795Z",
+  "model": "glm-5.3"
+}

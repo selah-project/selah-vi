@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "và ⟨את⟩ những kẻ lùi bước khỏi sau Yahweh, và những kẻ không tìm kiếm ⟨את⟩ Yahweh và không cầu hỏi Ngài",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "những kẻ lùi bước"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "những kẻ lùi bước"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "khỏi sau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "và những kẻ mà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "đã tìm kiếm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "cầu hỏi Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T04:51:15.269834721Z",
+  "model": "glm-5.3"
+}

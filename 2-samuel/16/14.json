@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Và vua cùng toàn thể dân ⟨את⟩-với ông, mệt mỏi, đã đến; và được nghỉ ngơi tại đó.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "đã đến"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và toàn thể"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "là kẻ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ với ông",
+      "marks": "toàn thể dân"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "mệt mỏi"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "và được nghỉ ngơi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tại đó"
+    }
+  ],
+  "timestamp": "2026-08-19T03:44:10.351018612Z",
+  "model": "glm-5.3"
+}

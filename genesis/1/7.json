@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và Elohim làm ra ⟨את⟩ vòm trời, và Ngài phân cách giữa ⟨các⟩ nước ở dưới vòm trời với giữa ⟨các⟩ nước ở trên vòm trời; và điều đó thành như vậy.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "và làm ra"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vòm trời"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "vòm trời"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "và phân cách"
+    },
+    {
+      "surface": "בין",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "các nước"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ở dưới"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "vòm trời"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "với giữa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "các nước"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ở trên"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "vòm trời"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "và thành"
+    },
+    {
+      "surface": "כן",
+      "gloss": "như vậy"
+    }
+  ],
+  "timestamp": "2026-08-19T00:46:28.452796655Z",
+  "model": "glm-5.3"
+}

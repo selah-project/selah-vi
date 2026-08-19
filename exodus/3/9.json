@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và giờ đây, kìa, tiếng kêu cứu của con cái Yisrael đã đến với ta; và ta cũng đã thấy ⟨את⟩ sự áp bức mà người Mitzrayim đang gây áp bức lên ⟨את⟩ họ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "và giờ đây"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kìa"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "tiếng kêu cứu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "באה",
+      "gloss": "đã đến"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "đến với ta"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "và cũng"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ta đã thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sự áp bức"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "sự áp bức"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "người Mitzrayim"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "đang gây áp bức"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ họ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:27:51.738276052Z",
+  "model": "glm-5.3"
+}

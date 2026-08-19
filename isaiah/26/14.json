@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 26:14",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Kẻ chết, không sống lại; bóng ma (refaim) không đứng dậy; vì thế Ngài đã đến phạt và hủy diệt họ, và làm mọi ký ức về họ biến mất.",
+  "tokens": [
+    {
+      "surface": "מתים",
+      "gloss": "kẻ chết"
+    },
+    {
+      "surface": "בל",
+      "gloss": "không"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "sống lại"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "bóng ma"
+    },
+    {
+      "surface": "בל",
+      "gloss": "không"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "đứng dậy"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "vì thế"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "Ngài đã đến phạt"
+    },
+    {
+      "surface": "ותשמידם",
+      "gloss": "và hủy diệt họ"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "và làm biến mất"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ký ức"
+    },
+    {
+      "surface": "למו",
+      "gloss": "của họ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:07:52.092063956Z",
+  "model": "glm-5.3"
+}

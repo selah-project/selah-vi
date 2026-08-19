@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Vì vậy mọi luật lệ ⟨của Ng⟩, về mọi sự, tôi coi là ngay thẳng; mọi con đường dối trá tôi đều ghét.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vì vậy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "luật lệ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "tôi coi ngay thẳng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "con đường"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dối trá"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "tôi đã ghét"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:20.848640313Z",
+  "model": "glm-5.3"
+}

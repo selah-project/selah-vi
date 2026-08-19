@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Hãy nhớ ⟨את⟩ điều mà Yahweh Elohim của ngươi đã làm cho Miryam, trên đường, khi các ngươi ra khỏi Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Hãy nhớ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "điều"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim của ngươi"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "cho Miryam"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "trên đường"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "khi các ngươi ra"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "khỏi Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T03:10:57.926437793Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 50,
+  "translation": "Ngươi ngồi nói xấu ⟨את⟩ anh ngươi, ngươi gièm pha con của mẹ ngươi.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "ngươi ngồi"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "chống lại anh ngươi"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ngươi nói"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "về con"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "của mẹ ngươi"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ngươi đưa ra"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "sự gièm pha"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:37.060066552Z",
+  "model": "glm-5.3"
+}

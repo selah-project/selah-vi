@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 6:10",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và Đavid không muốn chuyển ⟨את⟩ hòm của Yahweh đến với mình, về thành Đavid; nên Đavid chuyển nó sang nhà Oved-Edom người Gath.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "muốn"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Đavid"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "chuyển"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "đến với mình"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hòm"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "hòm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "về"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "thành"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Đavid"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "nên ông chuyển nó"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Đavid"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "người Gath"
+    }
+  ],
+  "timestamp": "2026-08-19T03:40:35.822087968Z",
+  "model": "glm-5.3"
+}

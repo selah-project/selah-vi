@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 11:17",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và Eber sống, sau khi sinh ⟨את⟩ Peleg, ba mươi năm và bốn trăm năm, và sinh con trai và con gái.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "và sống"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eber"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sau khi"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peleg"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ba mươi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "năm"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "và bốn"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "trăm"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "năm"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "và sinh"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "và con gái"
+    }
+  ],
+  "timestamp": "2026-08-19T00:54:38.307013573Z",
+  "model": "glm-5.3"
+}

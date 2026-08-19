@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 56,
+  "translation": "Trong Elohim con đã tin cậy; con sẽ không sợ — con người có thể làm gì cho con?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "trong Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "con đã tin cậy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "con sẽ sợ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "có thể làm"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "con người"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho con"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:53.607070666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 59,
+  "translation": "Này, tay của Yahweh không bị rút ngắn, đến nỗi không cứu được; và tai của Ngài không nặng nề, đến nỗi không nghe được.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Này"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "bị rút ngắn"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "không cứu được"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "nặng nề"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "tai của Ngài"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "không nghe được"
+    }
+  ],
+  "timestamp": "2026-08-19T04:15:19.750272310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Và Lea nói: Phúc来了May mắn! và nàng gọi ⟨את⟩ tên ông là Gad.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "may mắn"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "và gọi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tên ông"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "tên ông"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    }
+  ],
+  "timestamp": "2026-08-19T01:10:58.688096490Z",
+  "model": "glm-5.3"
+}

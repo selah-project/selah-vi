@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Và Ivtzan chết, và được chôn tại Beit-Lechem.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "và chết"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ivtzan"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "và được chôn"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "tại"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Beit-Lechem"
+    }
+  ],
+  "timestamp": "2026-08-19T03:25:39.593907828Z",
+  "model": "glm-5.3"
+}

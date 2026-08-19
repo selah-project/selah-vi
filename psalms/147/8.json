@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 147,
+  "translation": "⟨Đấng⟩ phủ che các tầng trời bằng mây, ⟨Đấng⟩ chuẩn bị mưa cho đất, ⟨Đấng⟩ làm mọc cỏ trên các núi.",
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "⟨Đấng⟩ phủ che"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "các tầng trời"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "bằng mây"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "⟨Đấng⟩ chuẩn bị"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "cho đất"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "mưa"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "⟨Đấng⟩ làm mọc"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "các núi"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "cỏ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:40.798344458Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 24:16",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Và vinh quang ⟨của⟩ Yahweh ngự trên núi Sinai, và đám mây che phủ nó sáu ngày; và ⟨Ngài⟩ kêu Moshe trong ngày thứ bảy, từ giữa đám mây.",
+  "tokens": [
+    {
+      "surface": "וישכן",
+      "gloss": "ngự"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "vinh quang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "הר",
+      "gloss": "núi"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "che phủ nó"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "đám mây"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "sáu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "kêu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "trong ngày"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "thứ bảy"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "từ giữa"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "đám mây"
+    }
+  ],
+  "timestamp": "2026-08-19T02:33:44.777214958Z",
+  "model": "glm-5.3"
+}

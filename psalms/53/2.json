@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 53,
+  "translation": "Kẻ dại dột đã nói trong lòng nó: \"Không có Elohim.\" Chúng đã làm hư hỏng và làm điều gớm ghiếc ⟨את⟩ sự ác; không có ai làm điều tốt.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "đã nói"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "kẻ dại dột"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "trong lòng nó"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "chúng đã làm hư hỏng"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "và đã làm gớm ghiếc"
+    },
+    {
+      "surface": "עול",
+      "gloss": "sự ác"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "người làm"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "điều tốt"
+    }
+  ],
+  "timestamp": "2026-08-19T06:38:05.223417582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 53,
+  "translation": "Tất cả ⟨đều⟩ đã lùi bước, cùng nhau ⟨đã⟩ trở nên ô uế; không có ai làm điều tốt, không, chẳng một ai.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "סג",
+      "gloss": "đã lùi bước"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "cùng nhau"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "trở nên ô uế"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ai làm"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "điều tốt"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không"
+    },
+    {
+      "surface": "גם",
+      "gloss": "chẳng"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "một ai"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:54.196707168Z",
+  "model": "glm-5.3"
+}

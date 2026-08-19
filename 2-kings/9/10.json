@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và ⟨את⟩ Izevel loài chó sẽ ăn tại phần đất của Yizre'el, và không ai chôn cất. Và chàng trai mở cửa và bỏ chạy.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Izevel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevel"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "sẽ ăn"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "loài chó"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "tại phần đất của"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizre'el"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "và không ai"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "chôn cất"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "và mở"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "cửa"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "và bỏ chạy"
+    }
+  ],
+  "timestamp": "2026-08-19T03:57:52.503156708Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 52,
+  "translation": "Khi Doeg người Edom đến, báo cho Shaul và nói với ⟨ông⟩: David đã đến nhà Achimelech.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "khi đến"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "Doeg"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "người Edom"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "và báo cho"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "לו",
+      "gloss": "với ⟨ông⟩"
+    },
+    {
+      "surface": "בא",
+      "gloss": "đã đến"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achimelech"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:34.693526854Z",
+  "model": "glm-5.3"
+}

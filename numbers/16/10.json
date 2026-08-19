@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "và Ngài đã đưa ⟨את⟩ ngươi cùng ⟨את⟩ tất cả anh em ngươi, con cái Levi, đến gần Ngài, và các ngươi còn tìm kiếm cả chức tế phẩm?",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "và đã đưa đến gần"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ngươi",
+      "marks": "ngươi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "tất cả anh em ngươi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "anh em ngươi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ cùng với ngươi"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "và các ngươi tìm kiếm"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cả"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "chức tế phẩm"
+    }
+  ],
+  "timestamp": "2026-08-19T02:57:45.095144731Z",
+  "model": "glm-5.3"
+}

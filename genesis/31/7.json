@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 31:7",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Và cha các nàng đã lừa dối tôi, và đã đổi ⟨את⟩ tiền công của tôi mười lần; nhưng Elohim không cho phép ông làm hại tôi.",
+  "tokens": [
+    {
+      "surface": "ואביכן",
+      "gloss": "và cha các nàng"
+    },
+    {
+      "surface": "התל",
+      "gloss": "đã lừa dối"
+    },
+    {
+      "surface": "בי",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "והחלף",
+      "gloss": "và đã đổi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiền công của tôi"
+    },
+    {
+      "surface": "משכרתי",
+      "gloss": "tiền công của tôi"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "mười"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "lần"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nhưng không"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "cho phép"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "làm hại"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "với tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T01:17:22.534924480Z",
+  "model": "glm-5.3"
+}

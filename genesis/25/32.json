@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Esav nói: Này, tôi sắp chết rồi, vậy quyền con trưởng nam này làm gì cho tôi?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "này"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "đang đi"
+    },
+    {
+      "surface": "למות",
+      "gloss": "để chết"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "và để làm gì"
+    },
+    {
+      "surface": "זה",
+      "gloss": "này"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "quyền con trưởng nam"
+    }
+  ],
+  "timestamp": "2026-08-19T01:08:50.169833455Z",
+  "model": "glm-5.3"
+}

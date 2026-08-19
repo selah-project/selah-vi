@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 109,
+  "translation": "Còn Ngài, Yahweh Adonai, hãy làm ⟨את⟩ với con vì cớ Danh Ngài; vì lòng nhân từ Ngài tốt lành — hãy giải cứu con.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Còn Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hãy làm"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "với con"
+    },
+    {
+      "surface": "למען",
+      "gloss": "vì cớ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Danh Ngài"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tốt lành"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "lòng nhân từ Ngài"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "hãy giải cứu con"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:37.591935901Z",
+  "model": "glm-5.3"
+}

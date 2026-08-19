@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 6:10",
+  "book": "esther",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Vua nói với Haman: hãy nhanh chóng lấy ⟨את⟩ áo choàng và ⟨את⟩ con ngựa, như ngươi đã nói, và hãy làm như vậy cho Mordecai người Yehudi đang ngồi ở cổng vua; chớ để rơi một điều nào khỏi mọi điều ngươi đã nói.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và vua nói"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "với Haman"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "hãy nhanh chóng"
+    },
+    {
+      "surface": "קח",
+      "gloss": "hãy lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "áo choàng"
+    },
+    {
+      "surface": "הלבוש",
+      "gloss": "áo choàng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con ngựa"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "con ngựa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ngươi đã nói"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "và hãy làm"
+    },
+    {
+      "surface": "כן",
+      "gloss": "như vậy"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "cho Mordecai"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "người Yehudi"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "đang ngồi"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ở cổng"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "để rơi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "một điều"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "khỏi mọi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ngươi đã nói"
+    }
+  ],
+  "timestamp": "2026-08-19T05:35:38.070054597Z",
+  "model": "glm-5.3"
+}

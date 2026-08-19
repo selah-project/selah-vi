@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 43:2",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 43,
+  "translation": "Khi ngươi đi ngang qua ⟨את⟩ nước — Ta ở cùng ngươi; và qua các sông, chúng sẽ không nhấn chìm ngươi; khi ngươi đi trong lửa, ngươi sẽ không bị phỏng, và ngọn lửa sẽ không thiêu đốt nơi ngươi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "khi"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "ngươi đi ngang qua"
+    },
+    {
+      "surface": "במים",
+      "gloss": "trong nước"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ cùng ngươi",
+      "marks": "Ta ở cùng ngươi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "và trong các sông"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ישטפוך",
+      "gloss": "chúng sẽ nhấn chìm ngươi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "khi"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ngươi đi"
+    },
+    {
+      "surface": "במו",
+      "gloss": "trong"
+    },
+    {
+      "surface": "אש",
+      "gloss": "lửa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תכוה",
+      "gloss": "ngươi sẽ bị phỏng"
+    },
+    {
+      "surface": "ולהבה",
+      "gloss": "và ngọn lửa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "sẽ thiêu đốt"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nơi ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:12:33.271138752Z",
+  "model": "glm-5.3"
+}

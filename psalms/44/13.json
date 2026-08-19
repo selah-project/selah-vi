@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Ngươi bán dân của Ngài mà không được ⟨gì⟩ ⟨và⟩ không làm giàu thêm ⟨gì⟩ bởi giá bán của họ.",
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "Ngươi bán"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dân của Ngài"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "không có"
+    },
+    {
+      "surface": "הון",
+      "gloss": "của cải"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "làm tăng thêm"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "bởi giá bán của họ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:57.778026742Z",
+  "model": "glm-5.3"
+}

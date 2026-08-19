@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Tất cả ⟨là⟩ con trai của David, ngoài ra con trai của các nàng hầu, và Tamar em gái của họ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con trai của"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "ngoài ra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con trai của"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "các nàng hầu"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "và Tamar"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "em gái của họ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:47:17.054858140Z",
+  "model": "glm-5.3"
+}

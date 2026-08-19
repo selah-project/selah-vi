@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 51,
+  "translation": "Cho đấng điều khiển ⟨⟨thánh nhạc⟩⟩ — thánh thi của David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "cho đấng điều khiển"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "thánh thi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "của David"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:55.460176916Z",
+  "model": "glm-5.3"
+}

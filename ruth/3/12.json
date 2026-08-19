@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và bây giờ, dù thật là vậy, rằng tôi là người chuộc, nhưng cũng có một người chuộc gần hơn tôi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "và bây giờ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "thật vậy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dù"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "người chuộc"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "nhưng cũng"
+    },
+    {
+      "surface": "יש",
+      "gloss": "có"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "người chuộc"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "gần"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "hơn tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:29:59.162054139Z",
+  "model": "glm-5.3"
+}

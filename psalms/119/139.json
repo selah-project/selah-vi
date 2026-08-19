@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Sự nhiệt thành của tôi đã tiêu hao tôi, vì các kẻ thù nghịch tôi đã quên lời của Ngài.",
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "đã tiêu hao tôi"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "sự nhiệt thành của tôi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "đã quên"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "lời của Ngài"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "các kẻ thù nghịch tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:01.988846574Z",
+  "model": "glm-5.3"
+}

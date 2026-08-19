@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Bấy giờ dân của xứ làm nhũn rã tay của dân Yehudah, và làm cho họ kinh hoảng để xây dựng.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bấy giờ xảy đến"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "của xứ"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "làm nhũn rã"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tay"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "và làm kinh hoảng"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "họ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "để xây dựng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:41:47.738127857Z",
+  "model": "glm-5.3"
+}

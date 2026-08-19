@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Và Ta sẽ xúi Mitsrajim chống Mitsrajim, và chúng sẽ đánh nhau, mỗi người với anh mình, và mỗi người với bạn mình; thành với thành, vương quốc với vương quốc.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "và Ta sẽ xúi chống"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "chống Mitsrajim"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "và chúng sẽ đánh nhau"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mỗi người"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "với anh mình"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "và mỗi người"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "với bạn mình"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "thành"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "với thành"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "vương quốc"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "với vương quốc"
+    }
+  ],
+  "timestamp": "2026-08-19T04:07:33.559353703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 28:11",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Người giàu khôn ngoan trong mắt mình, nhưng người nghèo hiểu biết sẽ xuyên xét nó.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "khôn ngoan"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "trong mắt của mình"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "giàu"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "nhưng người nghèo"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "hiểu biết"
+    },
+    {
+      "surface": "יחקרנו",
+      "gloss": "sẽ xuyên xét nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:19:40.868063870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "psalms 119:86",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Mọi mệnh lệnh của Ngài ⟨là⟩ trung tín; với sự dối trá chúng đã đuổi bắt tôi — xin giúp tôi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "mệnh lệnh của Ngài"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "trung tín"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "với sự dối trá"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "chúng đã đuổi bắt tôi"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "xin giúp tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:55.711921658Z",
+  "model": "glm-5.3"
+}

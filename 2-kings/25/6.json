@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Và họ bắt ⟨את⟩ vua, và đưa ông lên đến vua Bavel tại Rivlah; và họ tuyên ⟨את⟩ cùng ông ⟨về⟩ án phán.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "và họ bắt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vua"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "và họ đưa lên"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ông"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Rivlah"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "và họ nói"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ cùng"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "án phán"
+    }
+  ],
+  "timestamp": "2026-08-19T04:03:16.967902048Z",
+  "model": "glm-5.3"
+}

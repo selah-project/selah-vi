@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 32:10",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Và tôi viết trong sách, và tôi niêm phong, và tôi cho các chứng nhân làm chứng, và tôi cân bạc trên cán cân.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "và tôi viết"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "trong sách"
+    },
+    {
+      "surface": "ואחתם",
+      "gloss": "và tôi niêm phong"
+    },
+    {
+      "surface": "ואעד",
+      "gloss": "và tôi khiến làm chứng"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "các chứng nhân"
+    },
+    {
+      "surface": "ואשקל",
+      "gloss": "và tôi cân"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "bạc"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "trên cán cân"
+    }
+  ],
+  "timestamp": "2026-08-19T04:24:52.096160209Z",
+  "model": "glm-5.3"
+}

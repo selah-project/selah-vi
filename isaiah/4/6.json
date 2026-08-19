@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và một lều tạm sẽ có làm bóng mát ban ngày khỏi nóng bức, và làm nơi nương náu và làm nơi ẩn nấp khỏi bão và khỏi mưa.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "và lều tạm"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sẽ có"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "làm bóng mát"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ban ngày"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "khỏi nóng bức"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "và làm nơi nương náu"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "và làm nơi ẩn nấp"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "khỏi bão"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "và khỏi mưa"
+    }
+  ],
+  "timestamp": "2026-08-19T04:04:14.917233944Z",
+  "model": "glm-5.3"
+}

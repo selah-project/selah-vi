@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Shaul nhìn thấy ⟨את⟩ trại quân của người Philistines, thì sợ hãi, và lòng ông run rẩy dữ dội.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nhìn thấy"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trại quân của người Philistines"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "trại quân"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "người Philistines"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "thì sợ"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "và run rẩy"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "lòng ông"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "dữ dội"
+    }
+  ],
+  "timestamp": "2026-08-19T03:38:01.499233383Z",
+  "model": "glm-5.3"
+}

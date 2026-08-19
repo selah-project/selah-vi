@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 39:7",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 39,
+  "translation": "Và ông đặt ⟨אתם⟩ lên vai áo êphốt — những viên đá kỷ niệm cho con trai Yisrael, như Yahweh đã phán dặn ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "và ông đặt"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "lên vai áo êphốt"
+    },
+    {
+      "surface": "על",
+      "gloss": "lên"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "vai"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "của áo êphốt"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "các viên đá"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "kỷ niệm"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "cho con trai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "đã phán dặn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-19T02:38:50.884255564Z",
+  "model": "glm-5.3"
+}

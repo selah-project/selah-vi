@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 64,
+  "translation": "Hãy nghe, Elohim, tiếng tôi trong nỗi thao thức; từ sự kinh hoàng của kẻ thù, xin giữ gìn mạng sống tôi.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "hãy nghe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "tiếng tôi"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "trong nỗi thao thức tôi"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "từ sự kinh hoàng"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "của kẻ thù"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "ngươi sẽ giữ gìn"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mạng sống tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:33.291227615Z",
+  "model": "glm-5.3"
+}

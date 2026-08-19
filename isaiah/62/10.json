@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 62:10",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 62,
+  "translation": "Hãy đi qua, hãy đi qua trong các cổng; hãy dọn đường cho ⟨the⟩ dân; hãy đắp lên, hãy đắp lên ⟨the⟩ đại-lộ; hãy dẹp sạch đá; hãy dựng cờ hiệu trên các dân-tộc.",
+  "tokens": [
+    {
+      "surface": "עברו",
+      "gloss": "hãy đi qua"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "hãy đi qua"
+    },
+    {
+      "surface": "בשערים",
+      "gloss": "trong các cổng"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "hãy dọn"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "đường"
+    },
+    {
+      "surface": "העם",
+      "gloss": "của dân"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "hãy đắp lên"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "hãy đắp lên"
+    },
+    {
+      "surface": "המסלה",
+      "gloss": "đại-lộ"
+    },
+    {
+      "surface": "סקלו",
+      "gloss": "hãy dẹp sạch"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "khỏi đá"
+    },
+    {
+      "surface": "הרימו",
+      "gloss": "hãy dựng lên"
+    },
+    {
+      "surface": "נס",
+      "gloss": "cờ hiệu"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "các dân-tộc"
+    }
+  ],
+  "timestamp": "2026-08-19T04:15:32.133428916Z",
+  "model": "glm-5.3"
+}

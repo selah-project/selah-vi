@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 35,
+  "translation": "⟨את⟩ Hòm Bia, và ⟨את⟩ các đòn khiêng của nó, ⟨את⟩ nắp chuộc tội, và ⟨את⟩ bức màn ngăn của màn che",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hòm Bia"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Hòm Bia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các đòn khiêng của nó"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "các đòn khiêng của nó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nắp chuộc tội"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "nắp chuộc tội"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "bức màn ngăn"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "bức màn ngăn"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "của màn che"
+    }
+  ],
+  "timestamp": "2026-08-19T02:36:43.791236825Z",
+  "model": "glm-5.3"
+}

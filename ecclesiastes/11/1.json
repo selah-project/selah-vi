@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Hãy gởi bánh của ngươi trên mặt nước, vì trong số nhiều ngày ngươi sẽ tìm thấy nó.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Hãy gởi"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "bánh của ngươi"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt"
+    },
+    {
+      "surface": "המים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "trong số nhiều"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "ngươi sẽ tìm thấy nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:48.849341514Z",
+  "model": "glm-5.3"
+}

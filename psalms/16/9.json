@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 16:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Vì vậy tim tôi vui mừng, và vinh hiển tôi hớn hở; cả xác thịt tôi cũng ngụ nơi an toàn.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "vì vậy"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "vui mừng"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "tim tôi"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "và hớn hở"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "vinh hiển tôi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "cả"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "xác thịt tôi"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "ngụ"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "nơi an toàn"
+    }
+  ],
+  "timestamp": "2026-08-19T04:55:46.869647159Z",
+  "model": "glm-5.3"
+}

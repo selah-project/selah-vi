@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "psalms 119:82",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Mắt tôi đã mòn mỏi vì lời Ngài, để nói rằng: Bao giờ Ngài sẽ an ủi tôi?",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "đã mòn mỏi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mắt tôi"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "vì lời Ngài"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "để nói rằng"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "bao giờ"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "Ngài sẽ an ủi tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:53.761111357Z",
+  "model": "glm-5.3"
+}

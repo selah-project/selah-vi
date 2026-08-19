@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 27:19",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "và ngươi sẽ cho ⟨את⟩ ông đứng trước Elazar tư tế, và trước toàn hội chúng, và ngươi sẽ truyền lệnh ⟨את⟩ ông trước mắt họ.",
+  "tokens": [
+    {
+      "surface": "והעמדת",
+      "gloss": "và ngươi sẽ cho đứng"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ông (Yehoshua)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "tư tế"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "và trước"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "hội chúng"
+    },
+    {
+      "surface": "וצויתה",
+      "gloss": "và ngươi sẽ truyền lệnh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ông (Yehoshua)"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "trước mắt họ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:01:53.936941123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Chúng nó sẽ là điều gớm ghiếc cho các ngươi; về thịt của chúng, các ngươi chớ ăn, và ⟨את⟩ xác chết của chúng các ngươi phải coi là gớm ghiếc.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "và điều gớm ghiếc"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "sẽ là"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho các ngươi"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "từ thịt của chúng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ăn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "xác chết của chúng"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "xác chết của chúng"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "phải coi là gớm ghiếc"
+    }
+  ],
+  "timestamp": "2026-08-19T06:04:13.231045795Z",
+  "model": "glm-5.3"
+}

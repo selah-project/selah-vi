@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 36,
+  "translation": "Sấm phán của tội phản nghịch đến kẻ ác, trong lòng tôi ⟨là⟩: không có sự kinh sợ Elohim trước mắt nó.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "sấm phán"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "tội phản nghịch"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "đến kẻ ác"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "trong"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "lòng tôi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "sự kinh sợ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "trước"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "mắt nó"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:54.014050556Z",
+  "model": "glm-5.3"
+}

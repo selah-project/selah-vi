@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 140,
+  "translation": "Cho đốc ca. Thánh thi của David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "cho đốc ca"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "thánh thi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "của David"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:57.508109248Z",
+  "model": "glm-5.3"
+}

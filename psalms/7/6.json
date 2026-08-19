@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Thì kẻ thù hãy đuổi bắt ⟨את⟩ linh hồn tôi, và hãy kịp theo, và hãy giày đạp xuống đất sự sống tôi, và sự vinh hiển của tôi hãy ở luôn trong bụi. Selah.",
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "hãy đuổi bắt"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "kẻ thù"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "linh hồn tôi"
+    },
+    {
+      "surface": "וישג",
+      "gloss": "và hãy kịp theo"
+    },
+    {
+      "surface": "וירמס",
+      "gloss": "và hãy giày đạp"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "xuống đất"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "sự sống tôi"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "và sự vinh hiển tôi"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "trong bụi"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "hãy ở luôn"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:33.745003366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Ông xét xử ⟨את⟩ Yisrael hai mươi ba năm; rồi ông chết và được chôn tại Shamir.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "và xét xử"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "hai mươi"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "và ba"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "năm"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "và chết"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "và được chôn"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "tại Shamir"
+    }
+  ],
+  "timestamp": "2026-08-19T03:24:32.092429677Z",
+  "model": "glm-5.3"
+}

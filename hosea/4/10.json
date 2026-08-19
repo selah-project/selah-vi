@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và chúng sẽ ăn mà không no; chúng đã dâm loạn mà không sinh đa; vì ⟨את⟩ Yahweh chúng đã bỏ, để giữ ⟨sự vâng lời⟩.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "và chúng sẽ ăn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mà không"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "được no"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "chúng đã dâm loạn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mà không"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "sinh đa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "chúng đã bỏ"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "để giữ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:44:09.528036033Z",
+  "model": "glm-5.3"
+}

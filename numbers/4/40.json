@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 4:40",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và những người được kiểm điểm của họ, theo các gia tộc họ, theo nhà cha ông họ, là hai nghìn sáu trăm ba mươi.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Và đã có"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "những người được kiểm điểm của họ"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "theo các gia tộc họ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "theo nhà"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "cha ông họ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "hai nghìn"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "và sáu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "trăm"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "và ba mươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:52:30.952138998Z",
+  "model": "glm-5.3"
+}

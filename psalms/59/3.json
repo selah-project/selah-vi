@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 59:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 59,
+  "translation": "Hãy cứu tôi khỏi những kẻ làm điều vô giá trị, và khỏi những người bloody hãy giải cứu tôi.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "hãy cứu tôi"
+    },
+    {
+      "surface": "מפעלי",
+      "gloss": "khỏi những kẻ làm"
+    },
+    {
+      "surface": "און",
+      "gloss": "điều vô giá trị ( aven )"
+    },
+    {
+      "surface": "ומאנשי",
+      "gloss": "và khỏi những người"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "đẫm máu"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "hãy giải cứu tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:58.013301905Z",
+  "model": "glm-5.3"
+}

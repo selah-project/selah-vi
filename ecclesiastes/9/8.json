@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Trong mọi lúc, y phục ngươi hãy luôn ⟨là⟩ trắng, và dầu trên đầu ngươi chớ để thiếu.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "trong mọi"
+    },
+    {
+      "surface": "עת",
+      "gloss": "lúc"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "hãy luôn là"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "y phục ngươi"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "trắng"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "và dầu"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "đầu ngươi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "để thiếu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:58.207886213Z",
+  "model": "glm-5.3"
+}

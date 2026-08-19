@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 1:20",
+  "book": "ruth",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Bà nói với các bà ấy: Đừng gọi tôi là Naomi; hãy gọi tôi là Mara, vì Shaddai đã làm cho tôi đắng cực kỳ.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "bà nói"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "với các bà ấy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תקראנה",
+      "gloss": "gọi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "hãy gọi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "מרא",
+      "gloss": "Mara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "המר",
+      "gloss": "đã làm đắng"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cực kỳ"
+    }
+  ],
+  "timestamp": "2026-08-19T06:20:43.956819676Z",
+  "model": "glm-5.3"
+}

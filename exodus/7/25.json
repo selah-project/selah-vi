@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Và bảy ngày được trọn qua, sau khi Yahweh đánh ⟨את⟩ sông Nil.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "được trọn qua"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "bảy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sau khi"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "đánh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sông Nil"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "sông Nil"
+    }
+  ],
+  "timestamp": "2026-08-19T02:29:00.594040373Z",
+  "model": "glm-5.3"
+}

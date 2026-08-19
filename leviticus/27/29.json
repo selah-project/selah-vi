@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Mọi vật bị tuyên cherem, cái bị con người tuyên cherem, thì không được chuộc lại — ⟨nó⟩ chắc chắn phải chết.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "vật bị tuyên cherem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "bị tuyên cherem"
+    },
+    {
+      "surface": "מן",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "con người"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "được chuộc lại"
+    },
+    {
+      "surface": "מות",
+      "gloss": "chết"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "chắc chắn phải chết"
+    }
+  ],
+  "timestamp": "2026-08-19T02:51:24.325262411Z",
+  "model": "glm-5.3"
+}

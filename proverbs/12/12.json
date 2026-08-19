@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Kẻ ác ham muốn lưới của bọn ác, nhưng rễ của người công bình sinh ra trái.",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "ham muốn"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "lưới"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "của bọn ác"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "còn rễ của"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "người công bình"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "sinh ra"
+    }
+  ],
+  "timestamp": "2026-08-19T05:16:01.802270438Z",
+  "model": "glm-5.3"
+}

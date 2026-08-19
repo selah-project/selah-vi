@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 2:29",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và tên của vợ của Avishur ⟨là⟩ Avihail, và nàng đã sinh cho hắn ⟨את⟩ Achban và ⟨את⟩ Molid.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "và tên"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vợ"
+    },
+    {
+      "surface": "אבישור",
+      "gloss": "Avishur"
+    },
+    {
+      "surface": "אביהיל",
+      "gloss": "Avihail"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "và nàng đã sinh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho hắn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achban"
+    },
+    {
+      "surface": "אחבן",
+      "gloss": "Achban"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Molid"
+    },
+    {
+      "surface": "מוליד",
+      "gloss": "Molid"
+    }
+  ],
+  "timestamp": "2026-08-19T05:46:56.507749572Z",
+  "model": "glm-5.3"
+}

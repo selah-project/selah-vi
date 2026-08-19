@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 71,
+  "translation": "Tôi sẽ đến trong những quyền năng của Adonai Yahweh; tôi sẽ nhắc sự công chính của ⟨Ngài⟩ — chỉ một mình Ngài.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "tôi sẽ đến"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "trong những quyền năng"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "tôi sẽ nhắc"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "sự công chính của Ngài"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "chỉ một mình Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:37.152273950Z",
+  "model": "glm-5.3"
+}

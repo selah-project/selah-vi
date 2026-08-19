@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và Yoav sai người đi, và tường trình cho David ⟨את⟩ mọi việc của cuộc chiến.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "và-sai-người-đi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "và-tường-trình"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "cho-David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi việc của cuộc chiến"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "việc"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "của-cuộc-chiến"
+    }
+  ],
+  "timestamp": "2026-08-19T03:41:27.193561463Z",
+  "model": "glm-5.3"
+}

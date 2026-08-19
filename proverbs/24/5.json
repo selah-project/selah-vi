@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Người khôn ngoan ⟨is⟩ mạnh trong sức mạnh, và người tri thức ⟨is⟩ tăng thêm sức lực.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "người (đàn ông)"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "khôn ngoan"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "trong sức mạnh"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "và người"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tri thức"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "tăng thêm sức"
+    },
+    {
+      "surface": "כח",
+      "gloss": "sức lực"
+    }
+  ],
+  "timestamp": "2026-08-19T05:18:32.004177010Z",
+  "model": "glm-5.3"
+}

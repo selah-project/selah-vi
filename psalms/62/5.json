@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 62,
+  "translation": "Chỉ để hạ người khỏi địa vị, chúng mưu tính; chúng vui thích điều dối trá; miệng chúng chúc phúc, nhưng trong lòng chúng chúng rủa sả. Selah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "chỉ"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "địa vị cao của người"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "chúng mưu tính"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "để lật hạ"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "chúng vui thích"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "sự dối trá"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "trong miệng người"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "chúng chúc phúc"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "và trong lòng chúng"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "chúng rủa sả"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:32.906260881Z",
+  "model": "glm-5.3"
+}

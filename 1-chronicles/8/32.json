@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 8:32",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và Miklot sinh ⟨את⟩ Shim'ah; và cả họ, đối diện anh em mình, cư ngụ tại Yerushalayim cùng với anh em mình.",
+  "tokens": [
+    {
+      "surface": "ומקלות",
+      "gloss": "và Miklot"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "đã sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shim'ah"
+    },
+    {
+      "surface": "שמאה",
+      "gloss": "Shim'ah"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "và cả"
+    },
+    {
+      "surface": "המה",
+      "gloss": "họ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "đối diện"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "anh em mình (lần một)"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "đã cư ngụ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "tại Yerushalayim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cùng với"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "anh em mình (lần hai)"
+    }
+  ],
+  "timestamp": "2026-08-19T05:48:37.642269133Z",
+  "model": "glm-5.3"
+}

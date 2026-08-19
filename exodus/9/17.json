@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 9:17",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Vẫn còn ngươi ngạo mện trên dân ta, để không thả chúng đi?",
+  "tokens": [
+    {
+      "surface": "עודך",
+      "gloss": "vẫn còn ngươi"
+    },
+    {
+      "surface": "מסתולל",
+      "gloss": "ngạo mện"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "trên dân ta"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "để không"
+    },
+    {
+      "surface": "שלחם",
+      "gloss": "thả chúng đi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:29:58.605522404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 4:22",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "thì các ngươi hãy cho ⟨את⟩ con cái mình biết, rằng: Trên đất khô, Yisra'el đã qua ⟨את⟩ sông Yarden này.",
+  "tokens": [
+    {
+      "surface": "והודעתם",
+      "gloss": "thì các ngươi hãy cho biết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con cái mình"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "con cái mình"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "trên đất khô"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "đã qua"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sông Yarden này"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sông Yarden"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    }
+  ],
+  "timestamp": "2026-08-19T03:15:39.647003947Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Họ lấy ⟨את⟩ muội than của lò, và đứng trước mặt Paroh; và Moshe rắc ⟨את⟩ nó về phía trời, và có mụn nhọt mủ phồng mọc lên trên người và trên súc vật.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "và họ lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muội than"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "muội than"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "của lò"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "và đứng"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "và rắc"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nó (muội than)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "về phía trời"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "và có"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "mụn nhọt"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "mủ phồng"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "mọc lên"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "trên người"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "và trên súc vật"
+    }
+  ],
+  "timestamp": "2026-08-19T02:29:34.681303486Z",
+  "model": "glm-5.3"
+}

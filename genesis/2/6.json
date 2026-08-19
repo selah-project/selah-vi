@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và ⟨sương⟩ lên từ đất và tưới ⟨את⟩ toàn bộ mặt đất.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "và sương"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "lên"
+    },
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "và tưới"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toàn bộ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn bộ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T00:45:45.454723198Z",
+  "model": "glm-5.3"
+}

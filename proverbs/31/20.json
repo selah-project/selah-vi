@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 31:20",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Bàn tay nàng mở ra cho người nghèo, và tay nàng đưa ra cho người thiếu thốn.",
+  "tokens": [
+    {
+      "surface": "כפה",
+      "gloss": "bàn tay nàng"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "mở ra"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "cho người nghèo"
+    },
+    {
+      "surface": "וידיה",
+      "gloss": "và tay nàng"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "đưa ra"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "cho người thiếu thốn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:19:56.792887030Z",
+  "model": "glm-5.3"
+}

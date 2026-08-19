@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Hãy phục vụ ⟨את⟩ Yahweh với sự kính sợ, và hãy vui mừng trong sự run rẩy.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "hãy phục vụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "với sự kính sợ"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "và hãy vui mừng"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "trong sự run rẩy"
+    }
+  ],
+  "timestamp": "2026-08-19T04:54:43.514961689Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 112,
+  "translation": "Tốt lành ⟨là⟩ người nhân từ và cho vay; ⟨người ấy⟩ sắp đặt việc mình trong sự công bình.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "tốt lành"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "nhân từ"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "và cho vay"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "sắp đặt \/ duy trì"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "việc mình"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "trong sự công bình"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:47.881076952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 12:14",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": " song, vì bằng việc này anh đã khinh miệt ⟨את⟩ kẻ thù của Yahweh, thì đứa con trai sinh ra cho anh cũng chắc chắn sẽ chết.\"",
+  "tokens": [
+    {
+      "surface": "אפס",
+      "gloss": "song"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "khinh miệt"
+    },
+    {
+      "surface": "נאצת",
+      "gloss": "anh đã khinh miệt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kẻ thù của Yahweh"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "kẻ thù"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "bằng việc"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cũng"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "đứa con trai"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "đã sinh ra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho anh"
+    },
+    {
+      "surface": "מות",
+      "gloss": "chắc chắn chết"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "sẽ chết"
+    }
+  ],
+  "timestamp": "2026-08-19T03:41:43.688904745Z",
+  "model": "glm-5.3"
+}

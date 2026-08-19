@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 2:6",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và đạo binh của nó, và số được kiểm đếm của nó: bốn vạn năm nghìn và bốn trăm.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "và đạo binh của nó"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "và số được kiểm đếm của nó"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "bốn"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "và năm mươi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "nghìn"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "và bốn"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "trăm"
+    }
+  ],
+  "timestamp": "2026-08-19T02:51:47.571530576Z",
+  "model": "glm-5.3"
+}

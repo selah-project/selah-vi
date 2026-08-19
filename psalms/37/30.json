@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Miệng người công chính sẽ suy ngẫm sự khôn ngoan, và lưỡi ⟨của ông⟩ sẽ nói ra sự công lý.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "miệng"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "người công chính"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "sẽ suy ngẫm"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "sự khôn ngoan"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "và lưỡi của ông"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "sẽ nói"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sự công lý"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:22.364822394Z",
+  "model": "glm-5.3"
+}

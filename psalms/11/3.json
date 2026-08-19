@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Khi nền móng ⟨bị⟩ phá đổ, người công bình ⟨còn⟩ làm được gì?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "khi"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "nền móng"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "⟨bị⟩ phá đổ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "người công bình"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "⟨còn⟩ làm"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:09.819653539Z",
+  "model": "glm-5.3"
+}

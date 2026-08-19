@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 109,
+  "translation": "Đầu gối tôi chồm hổng vì kiêng ăn, và thịt tôi hao mòn mất ⟨chất⟩ mỡ.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "đầu gối tôi"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "chồm hổng"
+    },
+    {
+      "surface": "מצום",
+      "gloss": "vì kiêng ăn"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "và thịt tôi"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "hao mòn"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "mỡ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:37.592452220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Và họ sẽ lấy ⟨את⟩ vàng, ⟨את⟩ xanh-tím, ⟨את⟩ đỏ-tím, ⟨את⟩ con sâu đỏ son, và ⟨את⟩ lanh mịn.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "và họ"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "sẽ lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vàng"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "vàng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "xanh-tím"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "xanh-tím"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "đỏ-tím"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "đỏ-tím"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con sâu đỏ son"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "con sâu"
+    },
+    {
+      "surface": "השני",
+      "gloss": "đỏ son"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "lanh mịn"
+    },
+    {
+      "surface": "השש",
+      "gloss": "lanh mịn"
+    }
+  ],
+  "timestamp": "2026-08-19T06:03:54.553487239Z",
+  "model": "glm-5.3"
+}

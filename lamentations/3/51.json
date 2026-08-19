@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "lamentations 3:51",
+  "book": "lamentations",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Mắt tôi làm đau linh hồn tôi, vì tất cả các con gái thành tôi.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "mắt tôi"
+    },
+    {
+      "surface": "עוללה",
+      "gloss": "làm đau"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "linh hồn tôi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "vì tất cả"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "các con gái"
+    },
+    {
+      "surface": "עירי",
+      "gloss": "thành tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:30:52.511807224Z",
+  "model": "glm-5.3"
+}

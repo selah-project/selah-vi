@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 5:6",
+  "book": "zechariah",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Và tôi nói: Nó là gì? Và ⟨ngài⟩ nói: Đây là chiếc ephah đang đi ra. Và ⟨ngài⟩ nói: Đây là con mắt của chúng trên khắp đất.",
+  "tokens": [
+    {
+      "surface": "ו אמר",
+      "gloss": "và tôi nói"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "היא",
+      "gloss": "nó là"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và ⟨ngài⟩ nói"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "đây là"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "chiếc ephah"
+    },
+    {
+      "surface": "היוצאת",
+      "gloss": "đang đi ra"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và ⟨ngài⟩ nói"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "đây là"
+    },
+    {
+      "surface": "עינם",
+      "gloss": "con mắt của chúng"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "trên khắp"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T04:52:55.215102258Z",
+  "model": "glm-5.3"
+}

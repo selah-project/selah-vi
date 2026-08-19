@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 29:3",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Và ngươi sẽ đặt ⟨את⟩ chúng trên một cái giỏ, và ngươi sẽ dâng ⟨את⟩ chúng trong giỏ, cùng ⟨את⟩ con bò tơ và ⟨את⟩ hai con chiên đực.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "và ngươi sẽ đặt"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "chúng"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "סל",
+      "gloss": "cái giỏ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "một"
+    },
+    {
+      "surface": "והקרבת",
+      "gloss": "và ngươi sẽ dâng"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chúng"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "trong giỏ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con bò tơ"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "con bò tơ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "hai con chiên đực"
+    },
+    {
+      "surface": "שני",
+      "gloss": "hai"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "con chiên đực"
+    }
+  ],
+  "timestamp": "2026-08-19T02:36:10.264749040Z",
+  "model": "glm-5.3"
+}

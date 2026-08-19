@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 27:17",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Đừng nghe họ; hãy phục dịch ⟨את⟩ vua Babilon và hãy sống; vì sao thành này nên hoang tàn?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "nghe"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "họ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "hãy phục dịch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vua Babilon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilon"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "và hãy sống"
+    },
+    {
+      "surface": "למה",
+      "gloss": "vì sao"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "nên trở thành"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "thành"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "này"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "hoang tàn"
+    }
+  ],
+  "timestamp": "2026-08-19T04:23:45.392468247Z",
+  "model": "glm-5.3"
+}

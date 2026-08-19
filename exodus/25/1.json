@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 25:1",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Và Yahweh phán với Moshe, rằng:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "và phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:34:03.266025908Z",
+  "model": "glm-5.3"
+}

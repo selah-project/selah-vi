@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 11:14",
+  "book": "zechariah",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Rồi tôi chặt đứt ⟨את⟩ cây gậy thứ hai của tôi, ⟨את⟩ 'Các sợi dây ràng buộc', để hủy bỏ ⟨את⟩ tình anh em giữa Yehudah và giữa Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ואגדע",
+      "gloss": "rồi tôi chặt đứt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cây gậy thứ hai của tôi"
+    },
+    {
+      "surface": "מקלי",
+      "gloss": "cây gậy của tôi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "thứ hai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "'Các sợi dây ràng buộc'"
+    },
+    {
+      "surface": "החבלים",
+      "gloss": "'Các sợi dây ràng buộc'"
+    },
+    {
+      "surface": "להפר",
+      "gloss": "để hủy bỏ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tình anh em"
+    },
+    {
+      "surface": "האחוה",
+      "gloss": "tình anh em"
+    },
+    {
+      "surface": "בין",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "và giữa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-19T04:53:59.222355134Z",
+  "model": "glm-5.3"
+}

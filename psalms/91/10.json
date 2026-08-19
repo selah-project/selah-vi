@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 91,
+  "translation": "Không điều dữ sẽ xảy đến cho ngươi, và tai vạ sẽ không đến gần trại của ngươi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "sẽ xảy đến"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "cho ngươi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "điều dữ"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "và tai vạ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "sẽ đến gần"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "trại của ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:26.528847279Z",
+  "model": "glm-5.3"
+}

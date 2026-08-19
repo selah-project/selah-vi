@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Hãy ban ơn cho con, Yahweh, vì con ⟨đã⟩ kiệt sức; hãy chữa con, Yahweh, vì xương cốt con ⟨đã⟩ rúng động.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "hãy ban ơn cho con"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "kiệt sức"
+    },
+    {
+      "surface": "אני",
+      "gloss": "con"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "hãy chữa con"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "đã rung động"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "xương cốt con"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:22.931680617Z",
+  "model": "glm-5.3"
+}

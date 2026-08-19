@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Và các ngươi sẽ đuổi theo ⟨את⟩ kẻ thù của các ngươi, và họ sẽ ngã trước mặt các ngươi bởi gươm.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "và các ngươi sẽ đuổi theo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kẻ thù của các ngươi"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "kẻ thù của các ngươi"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "và họ sẽ ngã"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "trước mặt các ngươi"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "bởi gươm"
+    }
+  ],
+  "timestamp": "2026-08-19T02:48:13.930275400Z",
+  "model": "glm-5.3"
+}

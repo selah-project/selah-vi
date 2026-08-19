@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 34,
+  "translation": "Và Yahweh ngự xuống trong đám mây, và đứng tại đó với ông, và cất tiếng hô trong Danh Yahweh.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "và ngự xuống"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "trong đám mây"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "và đứng"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "với ông"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tại đó"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "và cất tiếng hô"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "trong Danh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:37:32.578458220Z",
+  "model": "glm-5.3"
+}

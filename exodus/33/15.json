@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 33,
+  "translation": "Và ông phán với Ngài: \"Nếu nhan mặt Ngài không đi, thì đừng đưa chúng tôi lên từ nơi này.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và ông phán"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "với Ngài"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nhan mặt của Ngài"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "đang đi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "Ngài đưa chúng tôi lên"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "từ nơi này"
+    }
+  ],
+  "timestamp": "2026-08-19T02:37:28.067374286Z",
+  "model": "glm-5.3"
+}

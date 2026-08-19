@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 112,
+  "translation": "Tin dữ ⟨người ấy⟩ sẽ không sợ; tim ⟨người ấy⟩ vững vàng, tin cậy vào Yahweh.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "tin tức"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "dữ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "sẽ sợ"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "vững vàng"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "tim người ấy"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "tin cậy"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "vào Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:47.881403971Z",
+  "model": "glm-5.3"
+}

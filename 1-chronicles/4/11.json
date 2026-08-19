@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và Khluv, anh của Shukhah, sinh ⟨את⟩ Mekhir; ông là cha của Eshton.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "và Khluv"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "anh của"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "Shukhah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mekhir"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "Mekhir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ông"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "cha của"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "Eshton"
+    }
+  ],
+  "timestamp": "2026-08-19T05:47:51.127824978Z",
+  "model": "glm-5.3"
+}

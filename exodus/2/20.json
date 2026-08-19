@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và ông nói với các con gái mình: Hắn ở đâu? Sao các con bỏ ⟨את⟩ người kia vậy? Hãy mời hắn đến để hắn ăn bánh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và ông nói"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "các con gái ông"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "và hắn ở đâu"
+    },
+    {
+      "surface": "למה",
+      "gloss": "tại sao"
+    },
+    {
+      "surface": "זה",
+      "gloss": "này"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "các con bỏ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người kia"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "người kia"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "hãy mời"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hắn"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "để hắn ăn"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bánh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:27:31.264128297Z",
+  "model": "glm-5.3"
+}

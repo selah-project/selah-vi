@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 9:7",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và Người phán với họ: Hãy làm ô uế ⟨את⟩ ngôi nhà, và hãy làm đầy ⟨את⟩ các sân bằng người bị giết; hãy đi ra. Vậy họ đi ra và đánh trong thành.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và Người phán"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "với họ"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "hãy làm ô uế"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngôi nhà"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ngôi nhà"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "và hãy làm đầy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các sân"
+    },
+    {
+      "surface": "החצרות",
+      "gloss": "các sân"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "người bị giết"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "hãy đi ra"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "vậy họ đi ra"
+    },
+    {
+      "surface": "והכו",
+      "gloss": "và đánh"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "trong thành"
+    }
+  ],
+  "timestamp": "2026-08-19T04:33:52.157330563Z",
+  "model": "glm-5.3"
+}

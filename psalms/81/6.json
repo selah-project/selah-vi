@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 81,
+  "translation": "Một chứng nghị nơi Yosef Ngài đã đặt nó, khi ⟨Người⟩ ra đi qua đất Mitsrayim: ngôn ngữ không-ta-biết, ta nghe.",
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "chứng nghị"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "nơi Yosef"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Ngài đã đặt nó"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "khi ra đi của Người"
+    },
+    {
+      "surface": "על",
+      "gloss": "qua \/ trên"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ngôn ngữ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ta biết"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ta nghe"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:15.324950385Z",
+  "model": "glm-5.3"
+}

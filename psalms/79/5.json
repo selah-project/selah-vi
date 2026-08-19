@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 79,
+  "translation": "Đến bao lâu, Yahweh? Ngài sẽ giận mãi mãi sao? Sự ghen tương của Ngài sẽ cháy như lửa sao?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "מה",
+      "gloss": "bao lâu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "Ngài sẽ giận"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "mãi mãi"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "sẽ cháy"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "như"
+    },
+    {
+      "surface": "אש",
+      "gloss": "lửa"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "sự ghen tương của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:56.951887250Z",
+  "model": "glm-5.3"
+}

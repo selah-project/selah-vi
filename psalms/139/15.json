@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 139,
+  "translation": "Xương cốt tôi không bị che giấu khỏi Ngài, khi tôi được làm nên trong nơi kín ẩn, được thêu dệt dưới lòng đất sâu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "bị che giấu"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "xương cốt tôi"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "khỏi Ngài"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "khi"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "tôi được làm nên"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "trong nơi kín ẩn"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "được thêu dệt"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "dưới lòng sâu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:53.427991858Z",
+  "model": "glm-5.3"
+}

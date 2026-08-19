@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "David nghe tin, bèn sai ⟨את⟩ Yoav và ⟨את⟩ toàn thể đạo quân những dũng sĩ.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nghe tin"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "bèn sai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "toàn thể đạo quân"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "đạo quân"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "những dũng sĩ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:51:55.013526018Z",
+  "model": "glm-5.3"
+}

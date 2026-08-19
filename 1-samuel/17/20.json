@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 17:20",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "David thức dậy sớm vào buổi sáng, phó ⟨את⟩ đàn chiên cho người giữ, và vác đồ rồi đi, như Yishai đã dặn ông; ông đến vòng vây, và quân lực ⟨đang⟩ kéo ra đến hàng trận và hô hào chiến trận.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "thức dậy sớm"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "vào buổi sáng"
+    },
+    {
+      "surface": "ויטש",
+      "gloss": "và phó lại"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đàn chiên"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "đàn chiên"
+    },
+    {
+      "surface": "על",
+      "gloss": "cho"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "người giữ"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "và vác"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "và đi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "đã dặn ông"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "và đến"
+    },
+    {
+      "surface": "המעגלה",
+      "gloss": "vòng vây"
+    },
+    {
+      "surface": "והחיל",
+      "gloss": "và quân lực"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "kéo ra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "hàng trận"
+    },
+    {
+      "surface": "והרעו",
+      "gloss": "và hô hào"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "chiến trận"
+    }
+  ],
+  "timestamp": "2026-08-19T03:34:15.105457001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 2:13",
+  "book": "habakkuk",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Há chẳng phải — nầy — từ ⟨את⟩ Yahweh Sevaot, mà các dân sẽ mỏi mệt vì lửa, và các nước chỉ vì hư không mà kiệt sức?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "há chẳng phải"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "nầy"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "từ ⟨את⟩",
+      "marks": "Yahweh Sevaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sevaot (các đạo binh)"
+    },
+    {
+      "surface": "וייגעו",
+      "gloss": "và sẽ mỏi mệt"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "các dân"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "chỉ để cho"
+    },
+    {
+      "surface": "אש",
+      "gloss": "lửa"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "và các nước"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "chỉ vì"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "hư không"
+    },
+    {
+      "surface": "ייעפו",
+      "gloss": "kiệt sức"
+    }
+  ],
+  "timestamp": "2026-08-19T04:50:51.518077467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Bây giờ hãy đứng dậy và hãy đi qua cho các ngươi ⟨את⟩ suối Zared; và chúng tôi đã đi qua ⟨את⟩ suối Zared.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "bây giờ"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "hãy đứng dậy"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "và hãy đi qua"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho các ngươi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suối Zared"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "suối"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zared"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "và chúng tôi đã đi qua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suối Zared"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "suối"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zared"
+    }
+  ],
+  "timestamp": "2026-08-19T03:04:36.654935525Z",
+  "model": "glm-5.3"
+}

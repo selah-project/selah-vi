@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Sức tôi khô héo như mảnh gốm, và lưỡi tôi dính chặt vào quai hàm, và Ngài đặt tôi vào bụi của sự chết.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "khô héo"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "như mảnh gốm"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "sức của tôi"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "và lưỡi của tôi"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "dính chặt"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "vào quai hàm tôi"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "và vào bụi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "của sự chết"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "Ngài đặt tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:13.858792227Z",
+  "model": "glm-5.3"
+}

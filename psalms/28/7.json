@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Yahweh ⟨là⟩ sức mạnh tôi và khiên tôi; trong Ngài lòng tôi tin cậy, và tôi đã được giúp, nên lòng tôi hớn hở, và bằng bài hát tôi tôi cảm tạ Ngài.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "sức mạnh tôi"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "và khiên tôi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "trong Ngài"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "tin cậy"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "lòng tôi"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "và tôi đã được giúp"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "và hớn hở"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "lòng tôi"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "và bằng bài hát tôi"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "tôi cảm tạ Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:56.749190635Z",
+  "model": "glm-5.3"
+}

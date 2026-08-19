@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 3:24",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Vì trước bữa ăn của mình, tiếng thở dài của tôi cứ đến, và tiếng gầm của tôi tuôn trào như nước.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "bữa ăn của mình"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "tiếng thở dài của tôi"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "cứ đến"
+    },
+    {
+      "surface": "ויתכו",
+      "gloss": "và tuôn trào"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "như nước"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "tiếng gầm của tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:20:14.638187474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Vì kẻ gian ác đã khoe khoang về điều ước ao của linh hồn nó, và kẻ tham lợi chúc phước — ⟨hắn⟩ khinh miệt Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "khoe khoang"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kẻ gian ác"
+    },
+    {
+      "surface": "על",
+      "gloss": "về"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "điều ước ao"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "linh hồn nó"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "và kẻ tham lợi"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "chúc phước"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "khinh miệt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:44.192355169Z",
+  "model": "glm-5.3"
+}

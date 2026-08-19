@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 82,
+  "translation": "Tôi đã phán: Các ngươi là elohim, và là con trai của Elyon, tất cả các ngươi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Tôi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "đã phán"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "các ngươi là"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "và con trai của"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "tất cả các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:31.784685737Z",
+  "model": "glm-5.3"
+}

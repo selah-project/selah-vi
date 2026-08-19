@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 34:12",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 34,
+  "translation": "Quý tộc nó — và không có ai ở đó — sẽ kêu xưng vương quốc; và tất cả thủ lĩnh nó sẽ thành hư không.",
+  "tokens": [
+    {
+      "surface": "חריה",
+      "gloss": "quý tộc nó"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "và không có"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ở đó"
+    },
+    {
+      "surface": "מלוכה",
+      "gloss": "vương quốc"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "sẽ kêu xưng"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và tất cả"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "thủ lĩnh nó"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "sẽ thành"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "hư không"
+    }
+  ],
+  "timestamp": "2026-08-19T04:10:24.257692916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 30:26",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Hãy giao ⟨את⟩ các vợ của tôi và ⟨את⟩ các con của tôi, mà tôi đã hầu việc ngươi ⟨אתך⟩ vì họ, và tôi sẽ đi; vì ngươi biết ⟨את⟩ sự hầu việc của tôi mà tôi đã hầu việc ngươi.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "hãy giao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các vợ của tôi"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "các vợ của tôi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các con của tôi"
+    },
+    {
+      "surface": "ילדי",
+      "gloss": "các con của tôi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "tôi đã hầu việc"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩",
+      "marks": "vì họ (בהן)"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "vì họ"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "và tôi sẽ đi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "biết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sự hầu việc của tôi"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "sự hầu việc của tôi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "tôi đã hầu việc ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T01:14:24.853428247Z",
+  "model": "glm-5.3"
+}

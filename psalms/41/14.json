@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 41,
+  "translation": "Ngợi kích Yahweh, Elohim của Yisrael, từ đời đời và đến đời đời. A-men, và a-men.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ngợi kịch"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "từ đời đời"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "và đến"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "đời đời"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "a-men"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "và a-men"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:18.699388274Z",
+  "model": "glm-5.3"
+}

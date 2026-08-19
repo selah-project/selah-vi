@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 39:9",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 39,
+  "translation": "Vuông vức ⟨nó⟩ đã hiện hữu, gấp đôi ⟨họ⟩ đã làm ⟨את⟩ Hoshen; một sải ngón tay chiều dài của nó và một sải ngón tay chiều rộng của nó, gấp đôi.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "vuông vức"
+    },
+    {
+      "surface": "היה",
+      "gloss": "đã hiện hữu"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "gấp đôi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "⟨họ⟩ đã làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hoshen"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "Hoshen"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "một sải ngón tay"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "chiều dài của nó"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "và một sải ngón tay"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "chiều rộng của nó"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "gấp đôi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:38:18.417678636Z",
+  "model": "glm-5.3"
+}

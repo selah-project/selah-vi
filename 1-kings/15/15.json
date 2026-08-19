@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Ông đem ⟨את⟩ các vật thánh của cha mình và các vật mình đã thánh hóa vào nhà của Yahweh: bạc, vàng và các器vật.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ông đem vào"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các vật thánh của cha mình"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "các vật thánh của"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "cha mình"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "và các vật mình đã thánh hóa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà của"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "bạc"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "vàng"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "và các器vật"
+    }
+  ],
+  "timestamp": "2026-08-19T03:52:42.431226055Z",
+  "model": "glm-5.3"
+}

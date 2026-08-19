@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và các thuật sĩ làm y như vậy bằng thuật bí mật của họ, và họ khiến ⟨את⟩ các con ếch nổi lên trên đất Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "và làm"
+    },
+    {
+      "surface": "כן",
+      "gloss": "y như vậy"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "các thuật sĩ"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "bằng thuật bí mật của họ"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "và khiến nổi lên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các con ếch"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "các con ếch"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T02:29:23.323210772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và ngươi phải yêu ⟨את⟩ Yahweh Elohim của ngươi, bằng hết lòng ngươi, bằng hết sinh mạng ngươi, và bằng hết sức mạnh ngươi.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "và ngươi phải yêu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Elohim của ngươi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim của ngươi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bằng hết"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "lòng ngươi"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "và bằng hết"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "sinh mạng ngươi"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "và bằng hết"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "sức mạnh ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:05:37.176124285Z",
+  "model": "glm-5.3"
+}

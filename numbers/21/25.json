@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 21:25",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Yisrael đã chiếm ⟨את⟩ tất cả các thành này, và Yisrael ở trong mọi thành của người Emori, tại Cheshbon và mọi làng của nó.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "đã chiếm"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả các thành này"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "các thành"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "này"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "và ở"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "trong mọi"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "thành"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "của người Emori"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "tại Cheshbon"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "và trong mọi"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "làng của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:59:04.318719688Z",
+  "model": "glm-5.3"
+}

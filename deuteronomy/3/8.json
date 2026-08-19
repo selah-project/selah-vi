@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và chúng tôi đã chiếm ⟨את⟩ đất đó, vào lúc bấy giờ, khỏi tay hai vua của người Emori, ở bên kia Yardén, từ suối Arnon đến núi Chermon.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "và chúng tôi đã chiếm"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "vào lúc"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "bấy giờ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đất đó"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "khỏi tay"
+    },
+    {
+      "surface": "שני",
+      "gloss": "hai"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "vua của"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "người Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "là (nơi)"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ở bên kia"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardén"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "từ suối"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "הר",
+      "gloss": "núi"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Chermon"
+    }
+  ],
+  "timestamp": "2026-08-19T03:04:24.540853153Z",
+  "model": "glm-5.3"
+}

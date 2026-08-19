@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 47,
+  "translation": "Ngài sẽ thu phục các dân tộc dưới chúng ta, và các nước dưới chân chúng ta.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "Ngài sẽ thu phục"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "các dân tộc"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "dưới chúng ta"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "và các nước"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dưới"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "chân chúng ta"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:32.935686788Z",
+  "model": "glm-5.3"
+}

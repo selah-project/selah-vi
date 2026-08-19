@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 19:1",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Va Sha-ul nói với Yonatan con trai mình, và với tất cả tôi tớ của mình, để giết ⟨את⟩ David; còn Yonatan con trai Sha-ul rất vui thích trong David.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "con trai mình"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và với"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "tôi tớ của mình"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "để giết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "còn Yonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "vui thích"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "trong David"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "rất"
+    }
+  ],
+  "timestamp": "2026-08-19T03:35:29.657511986Z",
+  "model": "glm-5.3"
+}

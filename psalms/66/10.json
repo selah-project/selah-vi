@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 66,
+  "translation": "Vì Ngài đã thử nghiệm chúng ta, Elohim đã tinh luyện chúng ta như tinh luyện bạc.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "Ngài đã thử nghiệm chúng ta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "Ngài đã tinh luyện chúng ta"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "như tinh luyện"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "bạc"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:41.208786274Z",
+  "model": "glm-5.3"
+}

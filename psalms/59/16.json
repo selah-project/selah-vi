@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 59,
+  "translation": "Chúng lững thững kiếm ăn; nếu chúng không được no, thì chúng gầm gừ suốt đêm.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "chúng (nhấn mạnh)"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "lững thững đi"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "kiếm ăn"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "được no"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "thì chúng gầm gừ suốt đêm"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:55.454179184Z",
+  "model": "glm-5.3"
+}

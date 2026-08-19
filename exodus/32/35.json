@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Và Yahweh đánh phạt ⟨את⟩ dân sự, vì họ đã làm ⟨את⟩ con bê con mà Aharon đã làm.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "và-đánh phạt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân sự"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "họ đã làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con bê con"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "con bê con"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-19T02:36:43.548732548Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 38,
+  "translation": "Và ông làm ⟨את⟩ sân: về phía nam, hướng nam, mành của sân bằng vải gai mảnh xe, một trăm amma.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "và ông làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sân"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "sân"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "về phía"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "nam"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "hướng nam"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "mành của"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "sân"
+    },
+    {
+      "surface": "שש",
+      "gloss": "vải gai mảnh"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "xe"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "một trăm"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "amma"
+    }
+  ],
+  "timestamp": "2026-08-19T02:38:13.087226382Z",
+  "model": "glm-5.3"
+}

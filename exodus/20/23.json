@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Các ngươi chớ làm ⟨את⟩ với Ta: các thần bằng bạc và các thần bằng vàng, các ngươi chớ làm cho mình.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "làm"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ với Ta"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "các thần"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "bằng bạc"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "và các thần"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bằng vàng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "làm"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho mình"
+    }
+  ],
+  "timestamp": "2026-08-19T02:32:33.371963903Z",
+  "model": "glm-5.3"
+}

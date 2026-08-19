@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Từ các giới răn của Ngài tôi nhận thức hiểu biết, vì vậy tôi ghét mọi con đường dối trá.",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "từ các giới răn của Ngài"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "tôi nhận thức hiểu biết"
+    },
+    {
+      "surface": "על",
+      "gloss": "vì vậy (trên)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ở đó"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "tôi ghét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "con đường"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dối trá"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:01.835180972Z",
+  "model": "glm-5.3"
+}

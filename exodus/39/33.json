@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 39,
+  "translation": "Và họ đem ⟨את⟩ đền tạm đến với Moshe: ⟨את⟩ trại và ⟨את⟩ mọi đồ dùng của nó, các móc của nó, các ván của nó, các thanh ngang của nó, các cột của nó, và các đế của nó.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "và họ đem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đền tạm"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "đền tạm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến với"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trại"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "trại"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "mọi đồ dùng của nó"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "đồ dùng của nó"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "các móc của nó"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "các ván của nó"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "các thanh ngang của nó"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "và các cột của nó"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "và các đế của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:39:16.258855494Z",
+  "model": "glm-5.3"
+}

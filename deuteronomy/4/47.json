@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "deuteronomy 4:47",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và họ chiếm hữu ⟨את⟩ đất của ông cùng ⟨את⟩ đất của Og, vua xứ Bashan, hai vua của người Emori, ở bên kia sông Yarden, về hướng mặt trời mọc.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "và họ chiếm hữu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đất của ông"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "đất của ông"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "đất của Og"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "xứ Bashan"
+    },
+    {
+      "surface": "שני",
+      "gloss": "hai"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "vua của"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "người Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "là những kẻ"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ở bên kia"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sông Yarden"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "về phía đông"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "mặt trời (mọc)"
+    }
+  ],
+  "timestamp": "2026-08-19T06:06:11.111368859Z",
+  "model": "glm-5.3"
+}

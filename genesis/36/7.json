@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 36:7",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 36,
+  "translation": "Vì tài sản của họ đã quá nhiều đến mức không thể ở chung nhau, và đất tạm trú của họ không thể mang nổi ⟨את⟩ họ, vì ⟨vì⟩ sự súc vật của họ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "היה",
+      "gloss": "đã là"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "tài sản của họ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "quá nhiều"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "hơn là ở"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "chung nhau"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "có thể"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "מגוריהם",
+      "gloss": "tạm trú của họ"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "để mang"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "họ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vì"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "súc vật của họ"
+    }
+  ],
+  "timestamp": "2026-08-19T01:22:26.552653633Z",
+  "model": "glm-5.3"
+}

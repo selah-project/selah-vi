@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 7:2",
+  "book": "hosea",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Chúng không nói với lòng mình rằng mọi điều ác của chúng Ta đã nhớ; giờ đây các việc làm của chúng đã vây quanh chúng, chúng ⟨đứng⟩ đối diện trước nhan Ta.",
+  "tokens": [
+    {
+      "surface": "ובל",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "chúng nói"
+    },
+    {
+      "surface": "ללבבם",
+      "gloss": "với lòng mình"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "điều ác của chúng"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "Ta đã nhớ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "giờ đây"
+    },
+    {
+      "surface": "סבבום",
+      "gloss": "đã vây quanh chúng"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "các việc làm của chúng"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "đối diện"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nhan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "chúng đã ở"
+    }
+  ],
+  "timestamp": "2026-08-19T04:44:55.047062263Z",
+  "model": "glm-5.3"
+}

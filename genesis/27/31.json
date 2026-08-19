@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 27:31",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Hắn cũng làm các món ngon, và đem đến cho cha mình; hắn nói với cha mình: Cha tôi hãy đứng dậy, và hãy ăn món săn được của con trai cha, để linh hồn cha chúc phước cho con.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "và hắn làm"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cũng"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hắn"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "các món ngon"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "và đem đến"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "cho cha mình"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "với cha mình"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "hãy đứng dậy"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "cha tôi"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "và hãy ăn"
+    },
+    {
+      "surface": "מציד",
+      "gloss": "món săn được"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "của con trai"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "để"
+    },
+    {
+      "surface": "תברכני",
+      "gloss": "chúc phước cho con"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "linh hồn ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T01:13:28.488674099Z",
+  "model": "glm-5.3"
+}

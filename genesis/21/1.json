@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Và Yahweh đã thăm viếng ⟨את⟩ Sarah, như Ngài đã phán; và Yahweh đã làm cho Sarah, như Ngài đã nói.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Và Yahweh"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "đã thăm viếng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarah"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "đã phán"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "và đã làm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "cho Sarah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "đã nói"
+    }
+  ],
+  "timestamp": "2026-08-19T01:03:03.240753976Z",
+  "model": "glm-5.3"
+}

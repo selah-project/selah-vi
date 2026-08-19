@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và ⟨את⟩ con ram ông cắt ra từng khúc; và Moshe làm khói lên ⟨את⟩ cái đầu, và ⟨את⟩ các khúc, và ⟨את⟩ mỡ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con ram"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "con ram"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "cắt ra từng khúc"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "thành các khúc của nó"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "và làm khói lên"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cái đầu"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "cái đầu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các khúc"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "các khúc"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "mỡ"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "mỡ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:41:38.070903669Z",
+  "model": "glm-5.3"
+}

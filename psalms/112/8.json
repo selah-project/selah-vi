@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 112,
+  "translation": "Tim ⟨người ấy⟩ được nâng đỡ, ⟨người ấy⟩ sẽ không sợ, cho đến khi ⟨người ấy⟩ thấy ⟨điều mình mong⟩ trên kẻ thù nghịch mình.",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "được nâng đỡ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "tim người ấy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "sẽ sợ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến khi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "khi"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "thấy"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "kẻ thù nghịch mình"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:47.881516471Z",
+  "model": "glm-5.3"
+}

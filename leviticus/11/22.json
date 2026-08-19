@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 11:22",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "⟨את⟩ Trong số chúng, các ngươi được ăn ⟨את⟩ con châu chấu theo giống nó, và ⟨את⟩ con deo sỏi theo giống nó, và ⟨את⟩ con dế theo giống nó, và ⟨את⟩ con ve theo giống nó.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trong số chúng"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "trong số chúng"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "từ chúng"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "các ngươi được ăn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con châu chấu"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "con châu chấu"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "theo giống nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con deo sỏi"
+    },
+    {
+      "surface": "הסלעם",
+      "gloss": "con deo sỏi"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "theo giống nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con dế"
+    },
+    {
+      "surface": "החרגל",
+      "gloss": "con dế"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "theo giống nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con ve"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "con ve"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "theo giống nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:41:43.714149628Z",
+  "model": "glm-5.3"
+}

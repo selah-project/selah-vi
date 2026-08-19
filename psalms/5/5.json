@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Vì Ngài không phải ⟨là⟩ El vui thích sự gian ác; điều dữ sẽ không cư ngụ cùng Ngài.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "vui thích"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sự gian ác"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "sẽ cư ngụ cùng"
+    },
+    {
+      "surface": "רע",
+      "gloss": "điều dữ"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:22.742190977Z",
+  "model": "glm-5.3"
+}

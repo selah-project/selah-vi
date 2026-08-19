@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và Elohim gọi ánh sáng là Ngày, và tối tăm ⟨Người⟩ gọi là Đêm; và ⟨có⟩ buổi chiều và ⟨có⟩ buổi sáng — ngày thứ nhất.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "và gọi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ánh sáng"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Ngày"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "và tối tăm"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "gọi"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "Đêm"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "và ⟨có⟩"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "buổi chiều"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "và ⟨có⟩"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "buổi sáng"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "một"
+    }
+  ],
+  "timestamp": "2026-08-19T00:45:26.153503508Z",
+  "model": "glm-5.3"
+}

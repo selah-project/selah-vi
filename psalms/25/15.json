@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Mắt tôi luôn hướng về Yahweh, vì chính ⟨h⟩Ngài sẽ rút chân tôi ra khỏi lưới.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "mắt tôi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "luôn luôn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "về"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chính Ngài"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "sẽ rút ra"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "khỏi lưới"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "chân tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:37:52.670548906Z",
+  "model": "glm-5.3"
+}

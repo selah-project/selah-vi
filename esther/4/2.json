@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và ⟨he⟩ đi đến tận trước cổng của vua, vì không được phép vào cổng của vua trong bộ mặc vải sacking.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "và đi đến"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tận"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước"
+    },
+    {
+      "surface": "שער",
+      "gloss": "cổng"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "của vua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không (được phép)"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "đi vào"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vào"
+    },
+    {
+      "surface": "שער",
+      "gloss": "cổng"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "của vua"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "trong bộ mặc"
+    },
+    {
+      "surface": "שק",
+      "gloss": "vải sacking"
+    }
+  ],
+  "timestamp": "2026-08-19T05:35:12.878371431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 53,
+  "translation": "Và ⟨người ta⟩ đặt ⟨את⟩ kẻ ác làm mộ phần của Ngài, và ⟨את⟩ người giàu trong cái chết của mình; vì chẳng bạo động Ngài đã làm, và chẳng có dối trá trong miệng Ngài.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "và đã đặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kẻ ác"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "mộ phần của mình"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người giàu"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "người giàu"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "trong cái chết của mình"
+    },
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chẳng"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "bạo động"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và chẳng"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "dối trá"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "trong miệng Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T04:14:22.673002323Z",
+  "model": "glm-5.3"
+}

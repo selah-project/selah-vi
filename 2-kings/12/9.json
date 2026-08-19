@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Và các thầy tế lễ đồng ý không lấy bạc từ ⟨את⟩ dân, và không sửa chữa ⟨את⟩ chỗ hư hại của đền.",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "và đồng ý"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "các thầy tế lễ"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "để không"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "lấy"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "bạc"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "từ ⟨את⟩",
+      "marks": "dân"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "và để không"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "sửa chữa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chỗ hư hại"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "chỗ hư hại"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "của đền"
+    }
+  ],
+  "timestamp": "2026-08-19T03:59:29.759185526Z",
+  "model": "glm-5.3"
+}

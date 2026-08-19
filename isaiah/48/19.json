@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 48:19",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 48,
+  "translation": "Thì huyết của ngươi đắ như cốt, con cháu từ lòng ngươi như hạt của nó; danh của nó không bị chặt đứt, không bị tiêu diệt khỏi trước mặt Ta.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "thì đắ"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "như cốt"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "huyết của ngươi"
+    },
+    {
+      "surface": "וצאצאי",
+      "gloss": "và con cháu"
+    },
+    {
+      "surface": "מעיך",
+      "gloss": "từ lòng ngươi"
+    },
+    {
+      "surface": "כמעתיו",
+      "gloss": "như hạt của nó"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "bị chặt đứt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "ישמד",
+      "gloss": "bị tiêu diệt"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "danh của nó"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "khỏi trước mặt (Ta)"
+    }
+  ],
+  "timestamp": "2026-08-19T04:13:49.800345203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 95,
+  "translation": "Mà ta đã thề trong cơn giận của ta: “Nếu chúng có vào ⟨vào⟩ nơi nghỉ ngơi của ta!”",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ta đã thề"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "trong cơn giận của ta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "chúng có vào"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨vào⟩"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "nơi nghỉ ngơi của ta"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:14.676775223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Và đối với mọi người chết, người không vào; vì cha mình và vì mẹ mình, người không làm ô uế mình.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "và đối với"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "người (linh hồn)"
+    },
+    {
+      "surface": "מת",
+      "gloss": "chết"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "người vào"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "vì cha mình"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "và vì mẹ mình"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "người làm ô uế"
+    }
+  ],
+  "timestamp": "2026-08-19T06:04:50.603386517Z",
+  "model": "glm-5.3"
+}

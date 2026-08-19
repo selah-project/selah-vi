@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 6:1",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và nó xảy ra, khi con người bắt đầu đông đảo trên mặt đất, và các con gái được sinh ra cho họ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "xảy ra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "khi"
+    },
+    {
+      "surface": "החל",
+      "gloss": "bắt đầu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "con người"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "đông đảo"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "đất"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "và các con gái"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "được sinh ra"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho họ"
+    }
+  ],
+  "timestamp": "2026-08-19T00:53:21.766895485Z",
+  "model": "glm-5.3"
+}

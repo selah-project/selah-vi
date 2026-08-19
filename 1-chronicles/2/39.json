@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Va Azaryah sinh ra ⟨את⟩ Chelets, va Chelets sinh ra ⟨את⟩ Elasah.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "va Azaryah"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "sinh ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chelets"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Chelets"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "va Chelets"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "sinh ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elasah"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Elasah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:47:05.307809693Z",
+  "model": "glm-5.3"
+}

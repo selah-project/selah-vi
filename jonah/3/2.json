@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Hãy đứng dậy, hãy đi đến Ninve, ⟨the⟩ thành phố lớn, và hãy rao giảng cho ⟨את⟩ bản rao giảng mà Ta đang nói với ngươi.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "hãy đứng dậy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hãy đi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninve"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "thành phố"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "lớn"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "và hãy rao giảng"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "cho nó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bản rao giảng"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "bản rao giảng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "đang nói"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "với ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:48:46.632114375Z",
+  "model": "glm-5.3"
+}

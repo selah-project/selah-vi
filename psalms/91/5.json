@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 91,
+  "translation": "Ngươi sẽ không sợ sự kinh khủng ban đêm, mũi tên bay ban ngày,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ngươi sẽ sợ"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "sự kinh khủng"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ban đêm"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "mũi tên"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "bay"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ban ngày"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:00.443984715Z",
+  "model": "glm-5.3"
+}

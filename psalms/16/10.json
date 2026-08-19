@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Vì Ngài sẽ không bỏ linh hồn tôi cho Sheol, sẽ không cho người kính mến Ngài thấy hư hoại.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "sẽ bỏ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "linh hồn tôi"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "cho Sheol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "sẽ cho"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "người kính mến Ngài"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "thấy"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "hư hoại"
+    }
+  ],
+  "timestamp": "2026-08-19T04:55:46.869957927Z",
+  "model": "glm-5.3"
+}

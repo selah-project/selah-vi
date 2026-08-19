@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-chronicles 24:24",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Vì với ít người mà đạo binh của Aram đến, nhưng Yahweh đã trao vào tay chúng một đạo binh đông vô cùng, vì chúng đã bỏ ⟨את⟩ Yahweh Elohim của tổ phụ chúng; và với ⟨את⟩ Yoash chúng đã thi hành án phạt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "במצער",
+      "gloss": "với ít người"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "(người)"
+    },
+    {
+      "surface": "באו",
+      "gloss": "đã đến"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "đạo binh của"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "và Yahweh"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "đã trao"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "vào tay chúng"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "đạo binh"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "đông"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "vô cùng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "chúng đã bỏ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "tổ phụ chúng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Yoash"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "chúng đã làm"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "án phạt"
+    }
+  ],
+  "timestamp": "2026-08-19T05:59:36.986348975Z",
+  "model": "glm-5.3"
+}

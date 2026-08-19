@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 62,
+  "translation": "Chỉ nơi Elohim ⟨là⟩ sự lặng thinh của linh hồn tôi; từ Ngài ⟨là⟩ sự cứu rỗi của tôi.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "chỉ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nơi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "sự lặng thinh"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "linh hồn tôi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "từ Ngài"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "sự cứu rỗi của tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:45.414902004Z",
+  "model": "glm-5.3"
+}

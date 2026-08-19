@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 3:26",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "và các bức rèm của sân, và ⟨את⟩ màn che lối vào của sân — thứ ở trên Mishkan và trên bàn thờ, chung quanh — và ⟨את⟩ dây buộc của nó, cho mọi việc phục vụ của nó.",
+  "tokens": [
+    {
+      "surface": "וקלעי",
+      "gloss": "và các bức rèm"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "của sân"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "màn che lối vào của sân"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "màn che"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "lối vào"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "của sân"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "thứ mà"
+    },
+    {
+      "surface": "על",
+      "gloss": "ở trên"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "và trên"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "chung quanh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dây buộc của nó"
+    },
+    {
+      "surface": "מיתריו",
+      "gloss": "dây buộc của nó"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "cho mọi"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "việc phục vụ của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:52:26.252872484Z",
+  "model": "glm-5.3"
+}

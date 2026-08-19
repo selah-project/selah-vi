@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Và ngươi sẽ làm nó thành hương xông, một thứ pha chế, công việc của người pha chế, được muối lại, tinh khiết, thánh.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "và ngươi sẽ làm"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hương xông"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "hương xông"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "thứ pha chế"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "công việc"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "của người pha chế"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "được muối lại"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tinh khiết"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "thánh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:36:14.572194355Z",
+  "model": "glm-5.3"
+}

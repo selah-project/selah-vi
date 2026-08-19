@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 23:8",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Này, về phía trước tôi bước đi — nhưng Ngài không ở đó; và về phía sau — nhưng tôi không nhận biết Ngài.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "này"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "về phía trước"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "tôi bước đi"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "và Ngài không ở đó"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "và về phía sau"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "tôi nhận biết"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:24:45.957604447Z",
+  "model": "glm-5.3"
+}

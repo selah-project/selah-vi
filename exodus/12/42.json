@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 12:42",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Đêm canh giữ là ⟨đêm⟩ thuộc về Yahweh, để đưa họ ra khỏi xứ Mitsrayim; đó là đêm này ⟨thuộc⟩ Yahweh, ⟨đêm⟩ canh giữ cho mọi con cái Yisrael, cho các thế hệ của họ.",
+  "tokens": [
+    {
+      "surface": "ליל",
+      "gloss": "đêm"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "canh giữ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "là"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "thuộc về Yahweh"
+    },
+    {
+      "surface": "להוציאם",
+      "gloss": "để đưa họ ra"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "khỏi xứ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "đó là"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "đêm"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "thuộc Yahweh"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "canh giữ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "cho mọi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "cho các thế hệ của họ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:30:40.329785762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Kẻ chăn nuôi tro, lòng bị dối gạt đã kéo hắn lệch đi, và hắn không thể giải cứu ⟨את⟩ sinh mạng mình, và không nói: Chẳng phải là dối trá trong tay phải của tôi sao?",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "kẻ chăn nuôi"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "tro"
+    },
+    {
+      "surface": "לב",
+      "gloss": "lòng"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "bị dối gạt"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "đã kéo hắn lệch đi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "hắn giải cứu được"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinh mạng mình"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sinh mạng mình"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "chẳng phải"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dối trá"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "trong tay phải của tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:12:57.899734285Z",
+  "model": "glm-5.3"
+}

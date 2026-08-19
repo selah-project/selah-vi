@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 25:6",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "dầu cho ánh đèn, hương liệu cho dầu xức dedication, và cho hương thơm của các thứ gia vị",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "dầu"
+    },
+    {
+      "surface": "למאר",
+      "gloss": "cho ánh đèn"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "hương liệu"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "cho dầu"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "xức dedication"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "và cho hương"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "của các thứ gia vị"
+    }
+  ],
+  "timestamp": "2026-08-19T02:34:11.654922084Z",
+  "model": "glm-5.3"
+}

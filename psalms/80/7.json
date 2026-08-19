@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 80:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 80,
+  "translation": "⟨Ngài⟩ đặt chúng tôi thành vật tranh chấp cho những người lân cận chúng tôi, và kẻ thù chúng tôi nhạo báng ⟨chúng tôi⟩.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "⟨Ngài⟩ đặt chúng tôi"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "vật tranh chấp"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "cho những người lân cận chúng tôi"
+    },
+    {
+      "surface": "ואיבינו",
+      "gloss": "và kẻ thù chúng tôi"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "nhạo báng"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨chúng tôi⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:22.428199695Z",
+  "model": "glm-5.3"
+}

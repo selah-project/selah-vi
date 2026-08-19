@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 107:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 107,
+  "translation": "Thì Ngài đã hạ họ xuống bằng sự khốn khổ trong lòng họ; họ vấp ngã, và không có ai giúp đỡ.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "thì Ngài đã hạ xuống"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "bằng sự khốn khổ"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "lòng họ"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "họ vấp ngã"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "và không có"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "ai giúp đỡ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:56.862790690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 60:12",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 60,
+  "translation": "Vì dân tộc và vương quốc nào không phục vụ ngươi sẽ bị diệt vong; và các dân tộc ấy sẽ bị hủy hoại tan tành.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "dân tộc"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "và vương quốc"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nào"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יעבדוך",
+      "gloss": "phục vụ ngươi"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "sẽ bị diệt vong"
+    },
+    {
+      "surface": "והגוים",
+      "gloss": "và các dân tộc ấy"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "hủy hoại"
+    },
+    {
+      "surface": "יחרבו",
+      "gloss": "sẽ tan tành"
+    }
+  ],
+  "timestamp": "2026-08-19T04:15:23.851854271Z",
+  "model": "glm-5.3"
+}

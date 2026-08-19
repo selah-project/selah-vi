@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 42:2",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 42,
+  "translation": "Người nói: Này, ta đã nghe rằng có lúa mì trong Mitzrayim; hãy xuống đó, mua cho chúng ta từ nơi ấy, để chúng ta sống và không chết.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Người nói"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Này"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ta đã nghe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "יש",
+      "gloss": "có"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "lúa mì"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "trong Mitzrayim"
+    },
+    {
+      "surface": "רדו",
+      "gloss": "hãy xuống"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "đó"
+    },
+    {
+      "surface": "ושברו",
+      "gloss": "mua"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "cho chúng ta"
+    },
+    {
+      "surface": "משם",
+      "gloss": "từ nơi ấy"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "chúng ta sống"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "không"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "chết"
+    }
+  ],
+  "timestamp": "2026-08-19T02:24:36.730414274Z",
+  "model": "glm-5.3"
+}

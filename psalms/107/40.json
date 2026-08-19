@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 107:40",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 107,
+  "translation": "Đấng đổ sự khinh bỉ xuống trên các bậc quí nhân, và khiến họ lạc lối trong hoang vu không có đường lối.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Đấng đổ"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "sự khinh bỉ"
+    },
+    {
+      "surface": "על",
+      "gloss": "xuống trên"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "các bậc quí nhân"
+    },
+    {
+      "surface": "ויתעם",
+      "gloss": "và khiến họ lạc lối"
+    },
+    {
+      "surface": "בתהו",
+      "gloss": "trong hoang vu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "đường lối"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:19.676740242Z",
+  "model": "glm-5.3"
+}

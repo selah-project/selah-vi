@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Và từ dòng giống ngươi, ngươi chớ đưa cho ⟨את⟩ qua đến Molek, và chớ làm ô uế ⟨את⟩ danh Elohim của ngươi; ta ⟨là⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "và từ dòng giống ngươi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ngươi đưa"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "để cho qua"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "đến Molek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và chớ"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "ngươi làm ô uế"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "danh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "danh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim của ngươi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:45:14.166850056Z",
+  "model": "glm-5.3"
+}

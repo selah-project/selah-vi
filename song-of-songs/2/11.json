@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 2:11",
+  "book": "song-of-songs",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Vì kìa, mùa đông đã qua, cơn mưa đã hết, đã đi mất rồi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kìa"
+    },
+    {
+      "surface": "הסתו",
+      "gloss": "mùa đông"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "đã qua"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "cơn mưa"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "đã hết"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "đã đi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mất rồi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:28:33.854916759Z",
+  "model": "glm-5.3"
+}

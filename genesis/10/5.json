@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 10:5",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Từ những người này, các hải đảo của các dân tộc được phân tách trong xứ của họ, mỗi người theo tiếng của mình, theo gia tộc của họ, trong dân tộc của họ.",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "từ những người này"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "được phân tách"
+    },
+    {
+      "surface": "איי",
+      "gloss": "các hải đảo"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "của các dân tộc"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "trong xứ của họ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mỗi người"
+    },
+    {
+      "surface": "ללשנו",
+      "gloss": "theo tiếng của mình"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "theo gia tộc của họ"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "trong dân tộc của họ"
+    }
+  ],
+  "timestamp": "2026-08-19T00:51:06.184903045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 11:27",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và đây là dòng dõi của Terach: Terach sinh ⟨את⟩ Avram, ⟨את⟩ Nachor, và ⟨את⟩ Haran; và Haran sinh ⟨את⟩ Lot.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "và đây là"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "dòng dõi"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terach"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terach"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "và Haran"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    }
+  ],
+  "timestamp": "2026-08-19T00:55:20.370930742Z",
+  "model": "glm-5.3"
+}

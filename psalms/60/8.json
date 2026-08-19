@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 60,
+  "translation": "Elohim đã phán trong sự thánh của Ngài: Ta sẽ nhảy mừng, Ta sẽ phân chia Shkhem, và đo thung lũng Sukkot.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "đã phán"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "trong sự thánh của Ngài"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "Ta sẽ nhảy mừng"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "Ta sẽ phân chia"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shkhem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "và thung lũng"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "Ta sẽ đo"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:28.543431344Z",
+  "model": "glm-5.3"
+}

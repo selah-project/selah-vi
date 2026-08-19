@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 1:11",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Nhưng xin hãy giơ tay ngươi ra, và chạm đến mọi thứ của nó; nếu nó không rủa sả ngươi ngay trước mặt ngươi!",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "nhưng"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "hãy giơ ra"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xin"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tay ngươi"
+    },
+    {
+      "surface": "וגע",
+      "gloss": "và chạm đến"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mọi thứ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "לו",
+      "gloss": "của nó"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngay trước"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "mặt ngươi"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "nó sẽ rủa sả ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:20:29.567898898Z",
+  "model": "glm-5.3"
+}

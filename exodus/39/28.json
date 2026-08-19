@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 39,
+  "translation": "Và ⟨את⟩ chiếc khăn đội đầu bằng vải gai mịn, và ⟨את⟩ các mũ trang sức bằng vải gai mịn, và ⟨את⟩ quần đùi bằng vải gai, vải sợi xe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "chiếc khăn đội đầu"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "chiếc khăn đội đầu"
+    },
+    {
+      "surface": "שש",
+      "gloss": "vải gai mịn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các mũ trang sức"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "các mũ trang sức"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "các mũ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "vải gai mịn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "quần đùi"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "quần đùi"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "vải gai"
+    },
+    {
+      "surface": "שש",
+      "gloss": "vải gai mịn"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "sợi xe"
+    }
+  ],
+  "timestamp": "2026-08-19T02:39:19.628067271Z",
+  "model": "glm-5.3"
+}

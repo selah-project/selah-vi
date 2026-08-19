@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 19:12",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Và sau trận động đất, một đám lửa — không phải trong đám lửa ⟨là⟩ Yahweh; và sau đám lửa, một tiếng thì thầm mong manh.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "và sau"
+    },
+    {
+      "surface": "הרעש",
+      "gloss": "trận động đất"
+    },
+    {
+      "surface": "אש",
+      "gloss": "một đám lửa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "באש",
+      "gloss": "trong đám lửa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "và sau"
+    },
+    {
+      "surface": "האש",
+      "gloss": "đám lửa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "một tiếng"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "thì thầm"
+    },
+    {
+      "surface": "דקה",
+      "gloss": "mong manh"
+    }
+  ],
+  "timestamp": "2026-08-19T03:54:09.593326870Z",
+  "model": "glm-5.3"
+}

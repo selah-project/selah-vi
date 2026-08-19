@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 8:1",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và Yahweh phán với Moshe, rằng:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "và-phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:41:16.785091620Z",
+  "model": "glm-5.3"
+}

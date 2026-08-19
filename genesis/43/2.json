@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 43:2",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 43,
+  "translation": "Xảy ra là khi họ ăn hết ⟨את⟩ lúa mì mà họ đã đem từ Mitzrayim, thì cha của họ nói với họ: Hãy quay lại, mua cho chúng ta ít lương thực.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "xảy ra là"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "khi"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "họ ăn hết"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "để ăn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lúa mì"
+    },
+    {
+      "surface": "השבר",
+      "gloss": "lúa mì"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "họ đã đem"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "từ Mitzrayim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "với họ"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "cha của họ"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "hãy quay lại"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "hãy mua"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "cho chúng ta"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ít"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "lương thực"
+    }
+  ],
+  "timestamp": "2026-08-19T02:24:40.219887590Z",
+  "model": "glm-5.3"
+}

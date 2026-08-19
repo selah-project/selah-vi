@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 9:16",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và tôi đã nói: sự khôn ngoan ⟨là⟩ tốt hơn sức mạnh; nhưng sự khôn ngoan của người nghèo bị khinh miệt, và lời của người ấy không được nghe.",
+  "tokens": [
+    {
+      "surface": "ואמרתי",
+      "gloss": "và tôi đã nói"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "tốt hơn"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "sự khôn ngoan"
+    },
+    {
+      "surface": "מגבורה",
+      "gloss": "hơn sức mạnh"
+    },
+    {
+      "surface": "וחכמת",
+      "gloss": "và sự khôn ngoan của"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "người nghèo"
+    },
+    {
+      "surface": "בזויה",
+      "gloss": "bị khinh miệt"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "và lời của người ấy"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "không"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "được nghe"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:50.293469808Z",
+  "model": "glm-5.3"
+}

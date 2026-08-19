@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 78,
+  "translation": "Nhưng họ đã thử thách và đã nổi loạn chống ⟨את⟩ Elohim Elyon, và các chứng cứ của Ngài họ đã không gìn giữ.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "và họ đã thử thách"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "và đã nổi loạn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim Elyon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "và các chứng cứ của Ngài"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "họ đã gìn giữ"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:55.010918345Z",
+  "model": "glm-5.3"
+}

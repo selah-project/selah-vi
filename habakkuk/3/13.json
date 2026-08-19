@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 3:13",
+  "book": "habakkuk",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Ngươi đã ra đi để cứu dân ngươi, để cứu ⟨את⟩ đấng Mashíach của ngươi; Ngươi đã đập nát đầu nhà kẻ ác, lột trần ⟨từ⟩ nền móng cho đến cổ. Selah.",
+  "tokens": [
+    {
+      "surface": "יצאת",
+      "gloss": "ngươi đã ra đi"
+    },
+    {
+      "surface": "לישע",
+      "gloss": "để cứu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dân ngươi"
+    },
+    {
+      "surface": "לישע",
+      "gloss": "để cứu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đấng Mashíach của ngươi"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "đấng Mashíach của ngươi"
+    },
+    {
+      "surface": "מחצת",
+      "gloss": "ngươi đã đập nát"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "đầu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "⟨từ⟩ nhà"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "lột trần"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "nền móng"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "cổ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T04:50:58.751800303Z",
+  "model": "glm-5.3"
+}

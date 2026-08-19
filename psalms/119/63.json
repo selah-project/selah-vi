@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Tôi là bạn đồng hành của tất cả những kẻ kính sợ Ngài, và của những người gìn giữ các mạng lệnh của Ngài.",
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "bạn đồng hành"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "của tất cả"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "những kẻ"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "kính sợ Ngài"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "và của những người gìn giữ"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "các mạng lệnh của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:35.016127208Z",
+  "model": "glm-5.3"
+}

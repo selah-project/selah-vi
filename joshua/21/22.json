@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 21:22",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "và ⟨את⟩ Kibtsajim cùng đất chung của nó, và ⟨את⟩ Beit-Choron cùng đất chung của nó — bốn thành.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Kibtsajim"
+    },
+    {
+      "surface": "קבצים",
+      "gloss": "Kibtsajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "đất chung của nó"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "đất chung của nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Beit-Choron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "Choron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "đất chung của nó"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "đất chung của nó"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "thành"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "bốn"
+    }
+  ],
+  "timestamp": "2026-08-19T06:32:36.850608346Z",
+  "model": "glm-5.3"
+}

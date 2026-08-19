@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 5:3",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Adam sống được một trăm ba mươi năm, và sinh con theo hình tượng mình, theo ảnh mẫu mình, và đặt tên con là Shet.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "và người sống"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ba mươi"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "và một trăm"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "năm"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "và sinh con"
+    },
+    {
+      "surface": "בדמותו",
+      "gloss": "theo hình tượng mình"
+    },
+    {
+      "surface": "כצלמו",
+      "gloss": "theo ảnh mẫu mình"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "và đặt tên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tên con"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "tên con"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    }
+  ],
+  "timestamp": "2026-08-19T00:49:09.275718908Z",
+  "model": "glm-5.3"
+}

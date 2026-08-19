@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Và sẽ xảy ra, từ suối ngươi sẽ uống, và ⟨את⟩ những con quạ Ta đã truyền lệnh nuôi ngươi tại đó.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "và sẽ xảy ra"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "từ suối"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "ngươi sẽ uống"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "những con quạ"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "những con quạ"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "Ta đã truyền lệnh"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "nuôi ngươi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tại đó"
+    }
+  ],
+  "timestamp": "2026-08-19T03:52:50.079363947Z",
+  "model": "glm-5.3"
+}

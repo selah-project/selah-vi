@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Vì sao có đầu gối đón trước tôi, và vì sao có vú, để tôi bú?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "vì sao"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "đón trước tôi"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "đầu gối"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "và vì sao"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "vú"
+    },
+    {
+      "surface": "כי",
+      "gloss": "để"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "tôi bú"
+    }
+  ],
+  "timestamp": "2026-08-19T05:20:19.618993593Z",
+  "model": "glm-5.3"
+}

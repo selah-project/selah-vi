@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Như vầy Yahweh phán: Cũng như thế, Ta sẽ làm hư ⟨את⟩ sự kiêu căng của Yehudah và ⟨את⟩ sự kiêu căng lớn lao của Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "như vầy"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "cũng như thế"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "Ta sẽ làm hư"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sự kiêu căng của Yehudah"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "sự kiêu căng"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "sự kiêu căng lớn lao của Yerushalayim"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "sự kiêu căng"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "lớn lao"
+    }
+  ],
+  "timestamp": "2026-08-19T04:20:37.306415383Z",
+  "model": "glm-5.3"
+}

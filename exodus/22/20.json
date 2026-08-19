@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Và khách ngoại kiều ngươi không được ức hiếp, và không được áp bức người, vì các ngươi từng là khách ngoại kiều trong đất Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "và khách ngoại kiều"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "ngươi ức hiếp"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "ngươi áp bức người"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "khách ngoại kiều"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "các ngươi từng là"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trong đất"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-19T02:33:44.309747503Z",
+  "model": "glm-5.3"
+}

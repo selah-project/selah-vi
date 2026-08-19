@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 21:11",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Và nếu ba điều này người ấy không làm cho nàng, thì nàng sẽ ra đi không công, không có bạc.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "và nếu"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "điều này"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "người ấy làm"
+    },
+    {
+      "surface": "לה",
+      "gloss": "cho nàng"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "thì nàng ra đi"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "không công"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "bạc"
+    }
+  ],
+  "timestamp": "2026-08-19T02:33:06.127722174Z",
+  "model": "glm-5.3"
+}

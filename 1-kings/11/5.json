@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 11:5",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và Shelomah đi theo Ashtoret, thần ⟨của⟩ người Tsidon, và theo Malkam, vật gớm ghiếc của người Ammon.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "và đi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "theo sau"
+    },
+    {
+      "surface": "עשתרת",
+      "gloss": "Ashtoret"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "thần của"
+    },
+    {
+      "surface": "צדנים",
+      "gloss": "người Tsidon"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "và theo sau"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Malkam"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "vật gớm ghiếc"
+    },
+    {
+      "surface": "עמנים",
+      "gloss": "của người Ammon"
+    }
+  ],
+  "timestamp": "2026-08-19T03:50:41.031140180Z",
+  "model": "glm-5.3"
+}

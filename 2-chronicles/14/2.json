@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Người đã dời đi ⟨את⟩ các bàn thờ của người ngoại bang và các nơi cao, đã đập vỡ ⟨את⟩ các trụ đứng, và đã chặt phá ⟨את⟩ các cây Asherah.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "đã dời đi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các bàn thờ"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "các bàn thờ"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "của người ngoại bang"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "và các nơi cao"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "đã đập vỡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các trụ đứng"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "các trụ đứng"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "đã chặt phá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các cây Asherah"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "các cây Asherah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:56:47.888139635Z",
+  "model": "glm-5.3"
+}

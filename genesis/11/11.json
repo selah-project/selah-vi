@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 11:11",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Shem sống sau khi sinh ⟨את⟩ Arpakhshad năm trăm năm, và sinh các con trai và các con gái.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "và đã sống"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sau khi"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ông sinh ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakhshad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakhshad"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "năm"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "trăm"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "năm"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "và đã sinh"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "các con trai"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "và các con gái"
+    }
+  ],
+  "timestamp": "2026-08-19T00:54:03.982487652Z",
+  "model": "glm-5.3"
+}

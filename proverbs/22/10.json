@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Đuổi kẻ nhạo báng đi, thì cãi tranh sẽ đi ra, và tranh kiện cùng sự sỉ nhục sẽ ngừng.",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "đuổi đi"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "kẻ nhạo báng"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "và sẽ đi ra"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "cãi tranh"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "và sẽ ngừng"
+    },
+    {
+      "surface": "דין",
+      "gloss": "tranh kiện"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "và sự sỉ nhục"
+    }
+  ],
+  "timestamp": "2026-08-19T05:17:44.280929646Z",
+  "model": "glm-5.3"
+}

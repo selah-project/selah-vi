@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Và khi họ nghe ⟨את⟩ Torah, họ tách mọi dân tộc hỗn hợp khỏi Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "và xảy ra"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "khi họ nghe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Torah"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "họ tách"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "dân tộc hỗn hợp"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "khỏi Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T05:46:26.807748374Z",
+  "model": "glm-5.3"
+}

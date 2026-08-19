@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Kẻ ăn nó sẽ mang lấy sự gian ác của mình, vì ⟨hắn⟩ đã làm ô uế ⟨את⟩ điều thánh của Yahweh; và linh hồn ấy sẽ bị cắt bỏ khỏi dân sự mình.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "và kẻ ăn nó"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "sự gian ác của hắn"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "sẽ mang lấy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "điều thánh của Yahweh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "điều thánh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "đã làm ô uế"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "và sẽ bị cắt bỏ"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "linh hồn ấy"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ấy"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "khỏi dân sự mình"
+    }
+  ],
+  "timestamp": "2026-08-19T02:45:31.459371918Z",
+  "model": "glm-5.3"
+}

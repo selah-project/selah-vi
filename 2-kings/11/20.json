@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và toàn thể dân của đất mừng rỡ, và thành được yên tĩnh; còn ⟨את⟩ Athalyahu họ đã giết bằng gươm tại nhà vua.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "và đã mừng rỡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "của đất"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "và thành"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "được yên tĩnh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Athalyahu"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Athalyahu"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "họ đã giết"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "bằng gươm"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    }
+  ],
+  "timestamp": "2026-08-19T03:59:16.104012626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 147,
+  "translation": "Đấng xây dựng Yerushalayim ⟨là⟩ Yahweh; những kẻ bị dồn đuổi của Yisrael, Ngài sẽ quy tụ lại.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "Đấng xây dựng"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "những kẻ bị dồn đuổi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "sẽ quy tụ"
+    }
+  ],
+  "timestamp": "2026-08-19T06:19:15.363818722Z",
+  "model": "glm-5.3"
+}

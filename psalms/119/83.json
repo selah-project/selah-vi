@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 83,
+  "ref": "psalms 119:83",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Vì tôi đã nên như da bọc trong khói, ⟨nhưng⟩ các luật lệ của Ngài tôi không quên.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "tôi đã nên"
+    },
+    {
+      "surface": "כנאד",
+      "gloss": "như da bọc"
+    },
+    {
+      "surface": "בקיטור",
+      "gloss": "trong khói"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "các luật lệ của Ngài"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "tôi quên"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:53.761331637Z",
+  "model": "glm-5.3"
+}

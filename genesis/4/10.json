@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và ⟨Ngài⟩ phán: Ngươi đã làm gì? Tiếng của máu anh ngươi đang kêu van cùng tôi từ ⟨đất⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và-phán"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ngươi-đã-làm"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tiếng"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "máu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "anh-ngươi"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "đang-kêu-van"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cùng-tôi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "⟨đất⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T00:46:42.777534949Z",
+  "model": "glm-5.3"
+}

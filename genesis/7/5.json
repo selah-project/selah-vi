@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Và Noach đã làm theo mọi điều mà Yahweh đã phán dạy ông.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "theo mọi điều"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "đã phán dạy ông"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T00:50:27.613866267Z",
+  "model": "glm-5.3"
+}

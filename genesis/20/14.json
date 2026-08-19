@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 20:14",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Và Avimelech lấy chiên và bò, tôi tớ trai và tớ gái, và ban cho Avraham; và ông trả lại cho ông ⟨את⟩ Sarah vợ ông.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "và lấy"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "chiên"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "và bò"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "và tôi tớ trai"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "và tớ gái"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "và ban"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "cho Avraham"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "và trả lại"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho ông"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarah"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vợ ông"
+    }
+  ],
+  "timestamp": "2026-08-19T01:04:13.103939944Z",
+  "model": "glm-5.3"
+}

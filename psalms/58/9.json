@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 58,
+  "translation": "Như ốc sên tan chảy mà nó đi, như thai sinh non của người đàn bà, chúng không thấy mặt trời.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "như"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "ốc sên"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "tan chảy"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "mà đi"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "thai sinh non"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "của người đàn bà"
+    },
+    {
+      "surface": "בל",
+      "gloss": "không"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "thấy"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "mặt trời"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:58.741697621Z",
+  "model": "glm-5.3"
+}

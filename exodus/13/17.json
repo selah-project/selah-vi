@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 13:17",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Va nó xảy ra, khi Paroh tha ⟨את⟩ dân, thì Elohim không dẫn dân theo con đường đất của người Pelishti, vì nó gần; vì Elohim đã nói: e rằng dân sẽ hối tiếc khi thấy chiến tranh, và họ trở lại Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "va xảy ra"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "khi tha"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "dẫn"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "con đường"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "của người Pelishti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "gần"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "đã nói"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "e rằng"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "sẽ hối tiếc"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "khi thấy"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "chiến tranh"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "và trở lại"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "về Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T02:31:22.002970314Z",
+  "model": "glm-5.3"
+}

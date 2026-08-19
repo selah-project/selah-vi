@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 20:27",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Một người nam hay người nữ, khi trong họ có linh đồng hay thầy phù thủy, thì bị xử tử; người ta ném đá ⟨את⟩ họ; máu của họ ⟨đảy⟩ trên chính họ.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "một người nam"
+    },
+    {
+      "surface": "או",
+      "gloss": "hay"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "người nữ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "khi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "có"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "trong họ"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "linh đồng"
+    },
+    {
+      "surface": "או",
+      "gloss": "hay"
+    },
+    {
+      "surface": "ידעני",
+      "gloss": "thầy phù thủy"
+    },
+    {
+      "surface": "מות",
+      "gloss": "chết"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "bị xử tử"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "bằng đá"
+    },
+    {
+      "surface": "ירגמו",
+      "gloss": "người ta ném đá"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "họ"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "máu của họ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "trên chính họ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:45:59.400255182Z",
+  "model": "glm-5.3"
+}

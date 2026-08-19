@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 30:11",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Họ gặp một người Ai Cập trong đồng, đem ⟨את⟩ anh ta đến cùng Đavid, cho anh ta bánh và anh ta ăn, và họ cho anh ta uống nước.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "họ gặp"
+    },
+    {
+      "surface": "איש",
+      "gloss": "một người"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Ai Cập"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "trong đồng"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "và đem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "anh ta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "cùng Đavid"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "và cho"
+    },
+    {
+      "surface": "לו",
+      "gloss": "anh ta"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bánh"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "và anh ta ăn"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "và họ cho anh ta uống"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    }
+  ],
+  "timestamp": "2026-08-19T03:37:35.000368086Z",
+  "model": "glm-5.3"
+}

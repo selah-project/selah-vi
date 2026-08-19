@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Vì danh Yahweh tôi sẽ xưng hô; hãy qui sự vĩ đại cho Elohim của chúng ta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שם",
+      "gloss": "danh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "tôi sẽ xưng hô"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "hãy qui"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "sự vĩ đại"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "cho Elohim của chúng ta"
+    }
+  ],
+  "timestamp": "2026-08-19T03:13:53.256248594Z",
+  "model": "glm-5.3"
+}

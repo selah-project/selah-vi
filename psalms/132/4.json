@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 132,
+  "translation": "nếu tôi ban giấc ngủ cho mắt tôi, cho mi mắt chợp đầu —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "tôi ban"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "giấc ngủ"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "cho mắt tôi"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "cho mi mắt"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "chợp đầu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:12.139469832Z",
+  "model": "glm-5.3"
+}

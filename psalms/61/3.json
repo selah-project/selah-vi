@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 61,
+  "translation": "Từ cuối đất con kêu xin cùng Ngài; khi lòng con mệt mỏi chìm ngập, từ tảng đá cao hơn con, Ngài dẫn dắt con.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "từ cuối"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "cùng Ngài"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "con kêu xin"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "khi chìm ngập"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "lòng con"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "trên tảng đá"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "cao"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "hơn con"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "Ngài dẫn dắt con"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:31.285672683Z",
+  "model": "glm-5.3"
+}

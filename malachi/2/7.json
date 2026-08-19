@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "malachi 2:7",
+  "book": "malachi",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Vì môi của tư tế giữ gìn tri thức, và Torah người ta tìm kiếm từ miệng ông; vì sứ giả của Yahweh các đạo binh — chính là ông.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "môi của"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "tư tế"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "giữ gìn"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tri thức"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "và Torah"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "người ta tìm kiếm"
+    },
+    {
+      "surface": "מפיהו",
+      "gloss": "từ miệng ông"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "sứ giả của"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "các đạo binh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chính là ông"
+    }
+  ],
+  "timestamp": "2026-08-19T04:54:24.360046242Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và Yehudah lên, và Yahweh trao ⟨את⟩ người Kenaan và người Perizzi vào tay chúng; chúng đánh bại chúng tại Bezek — mười ngàn người.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "và lên"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "và trao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người Kenaan (và người Perizzi)"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "người Kenaan"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "và người Perizzi"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "vào tay chúng"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "và chúng đánh bại chúng"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "tại Bezek"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "mười"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ngàn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    }
+  ],
+  "timestamp": "2026-08-19T03:21:56.737184660Z",
+  "model": "glm-5.3"
+}

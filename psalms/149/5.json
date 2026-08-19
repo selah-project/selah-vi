@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 149,
+  "translation": "Các kẻ thinh khiết sẽ nhảy múa trong vinh quang, họ sẽ reo hớn hở trên giường của mình.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "sẽ nhảy múa"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "các kẻ thinh khiết"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "trong vinh quang"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "họ sẽ reo hớn hở"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "giường của mình"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:25.020967254Z",
+  "model": "glm-5.3"
+}

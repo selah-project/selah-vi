@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 118:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 118,
+  "translation": "Chúng vây quanh tôi như bầy ong; chúng tắt ngóm như lửa gai; trong danh Yahweh, quả thật ta sẽ chặt diệt chúng.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "chúng vây quanh tôi"
+    },
+    {
+      "surface": "כדבורים",
+      "gloss": "như bầy ong"
+    },
+    {
+      "surface": "דעכו",
+      "gloss": "chúng tắt ngóm"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "như lửa"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "gai"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "trong danh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quả thật"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "ta sẽ chặt diệt chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:21.886566108Z",
+  "model": "glm-5.3"
+}

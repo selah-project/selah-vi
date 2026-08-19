@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 48,
+  "translation": "Này, Ta đã luyện lọc ngươi, nhưng không phải bằng bạc; Ta đã chọn ngươi trong lò của sự khốn khổ.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "này"
+    },
+    {
+      "surface": "צרפתיך",
+      "gloss": "Ta đã luyện lọc ngươi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nhưng không"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "bằng bạc"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "Ta đã chọn ngươi"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "trong lò"
+    },
+    {
+      "surface": "עני",
+      "gloss": "của sự khốn khổ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:13:10.954356911Z",
+  "model": "glm-5.3"
+}

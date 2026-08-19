@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 66,
+  "translation": "⟨Đấng⟩ đặt linh hồn ⟨của⟩ chúng ta trong sự sống, và không cho chân ⟨của⟩ chúng ta xiêu lệch.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "⟨Đấng⟩ đặt"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "linh hồn chúng ta"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "trong sự sống"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "cho"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "xiêu lệch"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "chân chúng ta"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:41.208516807Z",
+  "model": "glm-5.3"
+}

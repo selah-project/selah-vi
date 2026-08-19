@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Avraham cầu nguyện cùng Elohim, và Elohim chữa lành ⟨את⟩ Avimelekh, và ⟨את⟩ vợ ông, và các nàng hầu của ông, và họ sinh con.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "và cầu nguyện"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cùng"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "và chữa lành"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelekh"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "vợ ông"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vợ ông"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "và các nàng hầu của ông"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "và họ sinh con"
+    }
+  ],
+  "timestamp": "2026-08-19T01:01:46.924859483Z",
+  "model": "glm-5.3"
+}

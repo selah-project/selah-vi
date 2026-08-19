@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Yahweh, Ngài đã đưa linh hồn tôi lên khỏi Sh'ol, Ngài đã làm tôi sống, khỏi những kẻ đi xuống hố.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "Ngài đã đưa lên"
+    },
+    {
+      "surface": "מן",
+      "gloss": "khỏi, từ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sh'ol"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "linh hồn tôi, sinh mạng tôi"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "Ngài đã làm tôi sống"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "khỏi những kẻ đi xuống"
+    },
+    {
+      "surface": "בור",
+      "gloss": "hố"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:59.456137579Z",
+  "model": "glm-5.3"
+}

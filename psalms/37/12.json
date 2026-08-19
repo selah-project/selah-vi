@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Kẻ ác mưu toan chống người công chính, và nghiến răng ⟨nó⟩ ⟨nhìn⟩ nó.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "mưu toan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "chống người công chính"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "và nghiến"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨nhìn⟩ nó"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "răng ⟨nó⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:42.456114604Z",
+  "model": "glm-5.3"
+}

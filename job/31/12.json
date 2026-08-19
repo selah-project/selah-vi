@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 31:12",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Vì nó ⟨là⟩ lửa, thiêu rụi cho đến Avaddon, và trên hết mùa màng của tôi nó bén rễ nhổ tận gốc",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אש",
+      "gloss": "lửa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "nó"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "אבדון",
+      "gloss": "Avaddon"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "thiêu rụi (ăn nuốt)"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "và trên hết"
+    },
+    {
+      "surface": "תבואתי",
+      "gloss": "mùa màng của tôi"
+    },
+    {
+      "surface": "תשרש",
+      "gloss": "bén rễ nhổ tận gốc"
+    }
+  ],
+  "timestamp": "2026-08-19T05:25:42.743922805Z",
+  "model": "glm-5.3"
+}

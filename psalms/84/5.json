@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 84,
+  "translation": "Phước thay những người ngụ trong nhà Ngài, ⟨họ⟩ sẽ không ngừng ngợi khen Ngài. Selah.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "phước thay"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "những người ngụ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "trong nhà Ngài"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "không ngừng"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "ngợi khen Ngài"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:49.638340444Z",
+  "model": "glm-5.3"
+}

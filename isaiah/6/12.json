@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và Yahweh đã dời ⟨את⟩ con người đi xa, và sự bị bỏ hoang thật lớn giữa lòng đất.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "và đã dời đi xa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con người"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "con người"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "và thật lớn"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "sự bị bỏ hoang"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "giữa lòng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T04:04:38.572807676Z",
+  "model": "glm-5.3"
+}

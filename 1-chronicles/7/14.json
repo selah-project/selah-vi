@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 7:14",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Con cái của Menashe: Asriel, người ⟨mà⟩ nàng đã sinh; và nàng hầu người Aram của hắn đã sinh ⟨את⟩ Machir, cha của Gilad.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "אשריאל",
+      "gloss": "Asriel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨mà⟩"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "nàng đã sinh"
+    },
+    {
+      "surface": "פילגשו",
+      "gloss": "nàng hầu của hắn"
+    },
+    {
+      "surface": "הארמיה",
+      "gloss": "người Aram"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "đã sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Machir"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Machir"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "cha của"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-08-19T05:48:51.128795998Z",
+  "model": "glm-5.3"
+}

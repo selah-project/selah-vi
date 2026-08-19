@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 5:1",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Và Yahweh phán cùng Moshe, rằng:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cùng"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:54:12.033573440Z",
+  "model": "glm-5.3"
+}

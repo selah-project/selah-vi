@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 3:5",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và con cái Yisra'el cứ ngụ giữa người Kena'an, người Chitti, người Emori, người Perizzi, người Chivvi, và người Yevusi.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "và con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ngụ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "người Kena'an"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "người Chitti"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "và người Emori"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "và người Perizzi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "và người Chivvi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "và người Yevusi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:22:38.999373660Z",
+  "model": "glm-5.3"
+}

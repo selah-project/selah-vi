@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Kẻ kiêu ngạo đã đào hố nhốt tôi — điều ⟨không⟩ theo Torah của Ngài.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "đã đào hố"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nhốt tôi"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "kẻ kiêu ngạo"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "hố (bẫy)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "điều mà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "theo Torah của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:55.711706647Z",
+  "model": "glm-5.3"
+}

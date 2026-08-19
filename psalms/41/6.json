@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 41,
+  "translation": "Các kẻ thù tôi nói điều xấu về tôi: bao giờ hắn chết và danh hắn mất đi?",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "các kẻ thù tôi"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "nói"
+    },
+    {
+      "surface": "רע",
+      "gloss": "điều xấu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "về tôi"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "bao giờ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "hắn chết"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "và mất đi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "danh hắn"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:53.052915281Z",
+  "model": "glm-5.3"
+}

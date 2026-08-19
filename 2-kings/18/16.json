@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 18:16",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Lúc bấy giờ Chizkiyah chặt ⟨את⟩ các cánh cửa đền của Yahweh và ⟨את⟩ các trụ mà Chizkiyah vua Yehudah đã bọc, và trao chúng cho vua Ashshur.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "vào lúc"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "bấy giờ"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "đã chặt"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizkiyah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các cánh cửa"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "các cánh cửa"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "đền của"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các trụ"
+    },
+    {
+      "surface": "האמנות",
+      "gloss": "các trụ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "đã bọc"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizkiyah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "và trao chúng"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "cho vua"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    }
+  ],
+  "timestamp": "2026-08-19T04:00:58.224964145Z",
+  "model": "glm-5.3"
+}

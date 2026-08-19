@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 9:9",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Các con trai của Aharon đem ⟨את⟩ máu đến cho ông; ông nhúng ngón tay vào máu, đặt trên các sừng của bàn thờ, và ⟨את⟩ phần máu còn lại ông đổ ra chân đế của bàn thờ.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "đem đến"
+    },
+    {
+      "surface": "בני",
+      "gloss": "các con trai của"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "máu"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "máu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "đến cho ông"
+    },
+    {
+      "surface": "ויטבל",
+      "gloss": "và ông nhúng"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "ngón tay của ông"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "vào máu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "và đặt"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "các sừng"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "của bàn thờ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "máu"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "máu"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "ông đổ ra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ra"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "chân đế"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "của bàn thờ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:41:39.920536884Z",
+  "model": "glm-5.3"
+}

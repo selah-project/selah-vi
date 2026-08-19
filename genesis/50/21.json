@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 50:21",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 50,
+  "translation": "Và giờ đây đừng sợ: tôi sẽ nuôi dưỡng ⟨אתכם⟩ và ⟨את⟩ con trẻ các ngươi. Và ông đã an ủi họ và nói lên lòng họ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "và giờ đây"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "sợ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "אכלכל",
+      "gloss": "sẽ nuôi dưỡng"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "con trẻ các ngươi"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "con trẻ các ngươi"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "và đã an ủi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "họ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "và đã nói"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "lòng họ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:27:39.395249025Z",
+  "model": "glm-5.3"
+}

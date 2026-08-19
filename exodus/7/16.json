@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 7:16",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Và ngươi hãy nói với người: Yahweh, Elohim của người Hípri, đã sai tôi đến ngươi, phán rằng: Hãy buông tha ⟨את⟩ dân Ta, để họ phục vụ Ta trong đồng vắng; và kìa, ngươi đã không nghe cho đến nay.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "và ngươi hãy nói"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "với người"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "người Hípri"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "đã sai tôi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "đến ngươi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "phán rằng"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "hãy buông tha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân Ta"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "dân Ta"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "để họ phục vụ Ta"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "trong đồng vắng"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "và kìa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ngươi đã nghe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "כה",
+      "gloss": "nay"
+    }
+  ],
+  "timestamp": "2026-08-19T02:29:02.065573488Z",
+  "model": "glm-5.3"
+}

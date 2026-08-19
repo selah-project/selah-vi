@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 18:12",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Vì mọi kẻ làm ⟨את⟩ những việc này là sự gớm ghiếc đối với Yahweh, và vì những sự gớm ghiếc này mà Yahweh Elohim của ngươi đuổi chúng nó khỏi mặt ngươi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "sự gớm ghiếc"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi kẻ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "làm"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "những việc này"
+    },
+    {
+      "surface": "ובגלל",
+      "gloss": "và vì"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "những sự golem gớm ghiếc"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "này"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim của ngươi"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "đuổi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "chúng nó"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "khỏi mặt ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:09:24.786436043Z",
+  "model": "glm-5.3"
+}

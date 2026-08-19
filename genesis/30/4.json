@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Bà cho người ⟨את⟩ Bilhah nữ tỳ mình làm vợ, và Yaakov vào với nàng.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "bà cho"
+    },
+    {
+      "surface": "לו",
+      "gloss": "người"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilhah"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilhah"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "nữ tỳ mình"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "làm vợ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "và vào"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "với nàng"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-19T01:14:26.793269161Z",
+  "model": "glm-5.3"
+}

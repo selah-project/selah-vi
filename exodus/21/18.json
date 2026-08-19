@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 21:18",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Và nếu những người đàn ông tranh cãi với nhau, và một người đánh ⟨את⟩ bạn mình bằng đá hay bằng nắm đấm, và ⟨nạn nhân⟩ không chết nhưng ngã phải nằm giường —",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "và-nếu"
+    },
+    {
+      "surface": "יריבן",
+      "gloss": "tranh-cãi"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "những-người-đàn-ông"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "và-đánh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "một-người"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bạn mình"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "bạn-mình"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "bằng-đá"
+    },
+    {
+      "surface": "או",
+      "gloss": "hay"
+    },
+    {
+      "surface": "באגרף",
+      "gloss": "bằng-nắm-đấm"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và-không"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "chết"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "và-ngã"
+    },
+    {
+      "surface": "למשכב",
+      "gloss": "phải-nằm-giường"
+    }
+  ],
+  "timestamp": "2026-08-19T02:33:24.284190968Z",
+  "model": "glm-5.3"
+}

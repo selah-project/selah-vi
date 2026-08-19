@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 114,
+  "ref": "psalms 119:114",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Nơi ẩn náu của ta và khiên che của ta ⟨là⟩ Ngài; vào lời Ngài ta đã trông đợi.",
+  "tokens": [
+    {
+      "surface": "סתרי",
+      "gloss": "nơi ẩn náu của ta"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "và khiên che của ta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "vào lời Ngài"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "ta đã trông đợi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:19:05.940218044Z",
+  "model": "glm-5.3"
+}

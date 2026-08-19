@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Hãy băng qua xứ ngươi như dòng sông, hỡi con gái Tarshish; không còn ⟨sự⟩ ràng buộc nữa.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "hãy băng qua"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "xứ ngươi"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "như dòng sông"
+    },
+    {
+      "surface": "בת",
+      "gloss": "con gái"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không còn"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "sự ràng buộc"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nữa"
+    }
+  ],
+  "timestamp": "2026-08-19T04:07:58.318630810Z",
+  "model": "glm-5.3"
+}

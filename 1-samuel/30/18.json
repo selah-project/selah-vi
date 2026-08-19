@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Đavid lấy lại ⟨את⟩ tất cả mà Amalek đã chiếm, và ⟨את⟩ hai người vợ của mình Đavid đã cứu.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "và cứu lấy lại"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Đavid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả mà Amalek đã chiếm"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "đã chiếm"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "hai người vợ của ông"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "hai"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "người vợ của ông"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "đã cứu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Đavid"
+    }
+  ],
+  "timestamp": "2026-08-19T03:37:53.573791504Z",
+  "model": "glm-5.3"
+}

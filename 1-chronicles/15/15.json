@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 15:15",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Và con cháu Lê-vi vác ⟨את⟩ hòm của ⟨ה⟩ Elohim, như Moshe đã truyền theo lời Yahweh, trên vai họ với các đòn khiêng trên đó.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "vác"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cháu"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lê-vi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hòm của Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "hòm"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "của Elohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "đã truyền"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "theo lời"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכתפם",
+      "gloss": "trên vai họ"
+    },
+    {
+      "surface": "במטות",
+      "gloss": "với các đòn khiêng"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "trên đó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:50:46.085104754Z",
+  "model": "glm-5.3"
+}

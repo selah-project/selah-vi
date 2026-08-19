@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 4:15",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và các trưởng lão của hội chúng sẽ đặt ⟨את⟩ tay mình trên đầu con bò đực trước mặt Yahweh, và người ta sẽ giết con bò đực ⟨את⟩ trước mặt Yahweh.",
+  "tokens": [
+    {
+      "surface": "וסמכו",
+      "gloss": "và sẽ đặt"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "các trưởng lão"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "của hội chúng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tay mình"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "tay mình"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "đầu"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "con bò đực"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "và người ta sẽ giết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con bò đực"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "con bò đực"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:40:24.646134312Z",
+  "model": "glm-5.3"
+}

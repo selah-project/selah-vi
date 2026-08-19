@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và chúng bị chất thành đống, đống chồng chất ⟨את⟩ chúng, và đất bốc mùi thối.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "và bị chất thành đống"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chúng (các con ếch)"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "đống chồng chất"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "đống chồng chất"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "và bốc mùi thối"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T02:29:29.689561025Z",
+  "model": "glm-5.3"
+}

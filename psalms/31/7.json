@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Tôi đã ghét những kẻ giữ-thần-hư không-gian-dối, còn tôi thì tin cậy vào Yahweh.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "tôi-đã-ghét"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "những-kẻ-canh-giữ"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "hư-không"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "gian-dối"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "còn-tôi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vào"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "tôi-tin-cậy"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:42.112793057Z",
+  "model": "glm-5.3"
+}

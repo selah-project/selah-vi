@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 20:1",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Và Avraham khởi hành từ đó về đất phía nam, và ở giữa Kadesh và giữa Shur, và ngụ ở Gerar.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "và khởi hành"
+    },
+    {
+      "surface": "משם",
+      "gloss": "từ đó"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "về đất"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "phía nam"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "và ở lại"
+    },
+    {
+      "surface": "בין",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "và giữa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shur"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "và ngụ"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "ở Gerar"
+    }
+  ],
+  "timestamp": "2026-08-19T01:04:58.627393966Z",
+  "model": "glm-5.3"
+}

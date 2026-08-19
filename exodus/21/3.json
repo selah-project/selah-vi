@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Nếu nó vào một mình, thì nó sẽ ra đi một mình; nếu nó là chồng của một người đàn bà, thì vợ của nó sẽ ra đi cùng nó.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Nếu"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "một mình"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "nó vào"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "một mình"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "nó sẽ ra đi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "là chồng"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "của một người đàn bà"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "thì sẽ ra đi"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vợ của nó"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "cùng nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:32:37.803356002Z",
+  "model": "glm-5.3"
+}

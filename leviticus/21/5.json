@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 21:5",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Chúng nó sẽ không cạo một chỗ hói trên đầu mình, và mép râu mình chúng nó sẽ không cạo, và trên thịt mình chúng nó sẽ không rạch một vết rạch.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יקרחה",
+      "gloss": "sẽ cạo-hói"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "chỗ hói"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "trên đầu mình"
+    },
+    {
+      "surface": "ופאת",
+      "gloss": "và mép"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "râu mình"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "sẽ cạo"
+    },
+    {
+      "surface": "ובבשרם",
+      "gloss": "và trên thịt mình"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ישרטו",
+      "gloss": "sẽ rạch"
+    },
+    {
+      "surface": "שרטת",
+      "gloss": "một vết rạch"
+    }
+  ],
+  "timestamp": "2026-08-19T02:46:34.459051498Z",
+  "model": "glm-5.3"
+}

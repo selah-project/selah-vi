@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Vâng, nếu ngươi kêu xin sự thông sáng, và cất tiếng mình lên vì sự hiểu biết,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vâng, nếu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "sự thông sáng"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ngươi kêu xin"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "vì sự hiểu biết"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ngươi cất lên"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "tiếng mình"
+    }
+  ],
+  "timestamp": "2026-08-19T06:19:04.005125871Z",
+  "model": "glm-5.3"
+}

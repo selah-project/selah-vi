@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 7:16",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Tôi ghê tởm ⟨nó⟩; tôi sẽ không sống đời đời; hãy buông tha tôi, vì ngày tháng của tôi là hư không.",
+  "tokens": [
+    {
+      "surface": "מאסתי",
+      "gloss": "tôi ghê tởm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "đời đời"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "tôi sẽ sống"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "hãy buông tha"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hư không"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ngày tháng của tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:21:16.453903558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 59,
+  "translation": "Xin đừng giết chúng, kẻo dân Ngài quên; xin làm chúng lung lay bằng quyền năng Ngài, và xin hạ chúng xuống, Adonai, khiên che của chúng ta.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "xin đừng"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "giết chúng"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kẻo"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "quên"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "dân Ngài"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "làm chúng lung lay"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "bằng quyền năng Ngài"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "và hạ chúng xuống"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "khiên che của chúng ta"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:52.800072862Z",
+  "model": "glm-5.3"
+}

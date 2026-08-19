@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Moshe xuống từ núi đến cùng dân sự, và thánh hóa ⟨את⟩ dân sự; họ giặt quần áo mình.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "và xuống"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "núi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến cùng"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "và thánh hóa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân sự"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "và họ giặt"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "quần áo mình"
+    }
+  ],
+  "timestamp": "2026-08-19T02:32:16.967526664Z",
+  "model": "glm-5.3"
+}

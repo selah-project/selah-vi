@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 34,
+  "translation": "Sư tử con thiếu thốn và chịu đói; nhưng những người tìm kiếm Yahweh sẽ không thiếu điều gì tốt lành.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "sư tử con"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "thiếu thốn"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "và chịu đói"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "nhưng những người tìm kiếm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "thiếu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "điều gì"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tốt lành"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:28.613558308Z",
+  "model": "glm-5.3"
+}

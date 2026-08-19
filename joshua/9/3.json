@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Còn dân cư của Giv'on nghe điều ⟨את⟩ mà Yehoshua đã làm cho Yericho và cho Ay.",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "còn dân cư của"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Giv'on"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nghe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "điều mà Yehoshua đã làm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "cho Yericho"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "và cho Ay"
+    }
+  ],
+  "timestamp": "2026-08-19T03:17:39.854876160Z",
+  "model": "glm-5.3"
+}

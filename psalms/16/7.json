@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Con sẽ chúc phước ⟨את⟩ Yahweh, Đấng đã khuyên dạy con; phải, cả trong những đêm, thận con sửa dạy con.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "con sẽ chúc phước"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Đấng mà"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "đã khuyên dạy con"
+    },
+    {
+      "surface": "אף",
+      "gloss": "phải"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "đêm (số nhiều)"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "sửa dạy con"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "thận của con"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:02.933682549Z",
+  "model": "glm-5.3"
+}

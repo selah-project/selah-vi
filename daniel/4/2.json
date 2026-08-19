@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 4:2",
+  "book": "daniel",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Một giấc mộng tôi đã thấy, và nó làm tôi kinh sợ; và những suy tưởng trên giường tôi, và những khải tượng của đầu tôi, đã làm tôi hoảng hốt.",
+  "tokens": [
+    {
+      "surface": "חלם",
+      "gloss": "một giấc mộng"
+    },
+    {
+      "surface": "חזית",
+      "gloss": "tôi đã thấy"
+    },
+    {
+      "surface": "וידחלנני",
+      "gloss": "và nó làm tôi kinh sợ"
+    },
+    {
+      "surface": "והרהרין",
+      "gloss": "và những suy tưởng"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "giường tôi"
+    },
+    {
+      "surface": "וחזוי",
+      "gloss": "và những khải tượng"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "của đầu tôi"
+    },
+    {
+      "surface": "יבהלנני",
+      "gloss": "đã làm tôi hoảng hốt"
+    }
+  ],
+  "timestamp": "2026-08-19T05:37:41.810557061Z",
+  "model": "glm-5.3"
+}

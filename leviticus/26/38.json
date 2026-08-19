@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Và các ngươi sẽ bị diệt mất giữa các dân tộc, và đất của kẻ thù các ngươi sẽ ăn nuốt ⟨את⟩ các ngươi.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "và các ngươi sẽ bị diệt mất"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "giữa các dân tộc"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "và sẽ ăn nuốt"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "của kẻ thù các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:51:06.901656513Z",
+  "model": "glm-5.3"
+}

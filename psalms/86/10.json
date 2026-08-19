@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 86,
+  "translation": "Vì ngươi ⟨là⟩ Đấng vĩ đại và làm các việc lạ lùng, ngươi ⟨là⟩ Elohim, một mình ngươi thôi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "vĩ đại"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "và làm"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "việc lạ lùng"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "một mình ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:09.637896396Z",
+  "model": "glm-5.3"
+}

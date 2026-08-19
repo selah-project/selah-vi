@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 146,
+  "translation": "Đấng làm công lý cho những người bị áp bức, ban bread — ban bánh mì cho那些 người đói; Yahweh mở dây cho những kẻ bị trói.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Đấng làm"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "công lý"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "cho những người bị áp bức"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ban"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bánh mì"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "cho những kẻ đói"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "mở dây cho"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "những kẻ bị trói"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:46.935285445Z",
+  "model": "glm-5.3"
+}

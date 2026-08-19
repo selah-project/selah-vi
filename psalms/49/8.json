@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 49,
+  "translation": "Một anh em — không ai có thể chuộc lại được; ⟨một⟩ người không thể dâng cho Elohim giá chuộc mình.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "một anh em"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "có thể chuộc"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "chuộc lại"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "có thể dâng"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "cho Elohim"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "giá chuộc mình"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:44.741080017Z",
+  "model": "glm-5.3"
+}

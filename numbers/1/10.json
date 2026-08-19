@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Cho con cái của Yosef: cho Efrayim, Elishama con trai của Ammihud; cho Menashe, Gamliel con trai của Pedatzur.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "cho con cái của"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "cho Efrayim"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elishama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai của"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Ammihud"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "cho Menashe"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Gamliel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai của"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "Pedatzur"
+    }
+  ],
+  "timestamp": "2026-08-19T02:51:34.019619771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "David nghe trong đồng vắng rằng Naval đang xén lông ⟨את⟩ đàn chiên của mình.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "và nghe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "trong đồng vắng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "đang xén lông"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Naval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đàn chiên của mình"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "đàn chiên của ông"
+    }
+  ],
+  "timestamp": "2026-08-19T03:36:31.293405916Z",
+  "model": "glm-5.3"
+}

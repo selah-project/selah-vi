@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 34:17",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 34,
+  "translation": "Đây là tên của những người sẽ phân sản nghiệp cho các ngươi ⟨את⟩ đất: Elazar thầy tế lễ, và Yehoshua con của Nun.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "đây là"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "tên"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "của những người"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "sẽ phân sản nghiệp"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho các ngươi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đất"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "thầy tế lễ"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "và Yehoshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con của"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nun"
+    }
+  ],
+  "timestamp": "2026-08-19T03:03:40.144931618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 19:8",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Ravshakeh trở về, thấy vua Ashshur đang đánh ⟨את⟩… chống Libnah, vì ⟨hắn⟩ đã nghe rằng ⟨vua⟩ đã rút khỏi Lakhish.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "và-trở-về"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "shakeh"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "và-thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vua Ashshur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "đang-đánh"
+    },
+    {
+      "surface": "על",
+      "gloss": "chống"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libnah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hắn-đã-nghe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "đã-rút-đi"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "khỏi-Lakhish"
+    }
+  ],
+  "timestamp": "2026-08-19T06:10:58.578727330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Khi ngươi canh tác ⟨את⟩ ⟨đất⟩, nó sẽ không còn cấp sức mạnh của nó cho ngươi; kiếp lang thang và lưu lạc ngươi sẽ ⟨là⟩ trên đất.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "khi"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "ngươi-canh-tác"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨đất⟩"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "⟨đất⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "còn-nữa"
+    },
+    {
+      "surface": "תת",
+      "gloss": "cấp"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "sức-mạnh-của-nó"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho-ngươi"
+    },
+    {
+      "surface": "נע",
+      "gloss": "lang-thang"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "và-lưu-lạc"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ngươi-sẽ-⟨là⟩"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trên-đất"
+    }
+  ],
+  "timestamp": "2026-08-19T00:46:42.777933048Z",
+  "model": "glm-5.3"
+}

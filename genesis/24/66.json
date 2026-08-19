@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Và người đầy tớ kể lại cho Yitschak ⟨את⟩ tất cả mọi việc mà ông đã làm.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "và kể lại"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "người đầy tớ"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "cho Yitschak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả mọi việc"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mọi việc"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ông đã làm"
+    }
+  ],
+  "timestamp": "2026-08-19T01:06:39.325046194Z",
+  "model": "glm-5.3"
+}

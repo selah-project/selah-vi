@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Một talent vàng tinh khiết người ta đã làm ⟨את⟩ nó và ⟨את⟩ tất cả các đồ dùng của nó.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "một talent"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "vàng"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tinh khiết"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "người ta đã làm"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả các đồ dùng của nó"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "các đồ dùng của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:37:53.889204008Z",
+  "model": "glm-5.3"
+}

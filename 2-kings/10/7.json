@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 10:7",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Xảy ra khi thư đến với họ, họ bắt ⟨את⟩ các con trai của vua, và giết bảy mươi người; họ đặt ⟨את⟩ đầu họ vào các giỏ, và gửi đến người, tại Yizreel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "xảy ra"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "khi đến"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "thư"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "đến với họ"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "họ đã bắt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các con trai của vua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "các con trai của"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "họ đã giết"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "bảy mươi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "họ đã đặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đầu họ"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "đầu của họ"
+    },
+    {
+      "surface": "בדודים",
+      "gloss": "vào các giỏ"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "và họ đã gửi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "đến người"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-08-19T03:58:57.929120745Z",
+  "model": "glm-5.3"
+}

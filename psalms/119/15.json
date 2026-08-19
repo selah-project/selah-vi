@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 119:15",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Trong các mạng lệnh của Ngài tôi sẽ suy gẫm, và tôi sẽ chiêm ngưỡng các nẻo đường của Ngài.",
+  "tokens": [
+    {
+      "surface": "בפקדיך",
+      "gloss": "trong các mạng lệnh của Ngài"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "tôi sẽ suy gẫm"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "và tôi sẽ chiêm ngưỡng"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "các nẻo đường của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:23.322107367Z",
+  "model": "glm-5.3"
+}

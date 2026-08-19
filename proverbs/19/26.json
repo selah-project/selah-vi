@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 19:26",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Kẻ tàn phá cha, đuổi mẹ đi ⟨rời xa⟩, là con trai gây xấu hổ và mang điều sỉ nhục.",
+  "tokens": [
+    {
+      "surface": "משדד",
+      "gloss": "kẻ tàn phá"
+    },
+    {
+      "surface": "אב",
+      "gloss": "cha"
+    },
+    {
+      "surface": "יבריח",
+      "gloss": "đuổi đi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mẹ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "gây xấu hổ"
+    },
+    {
+      "surface": "ומחפיר",
+      "gloss": "và mang điều sỉ nhục"
+    }
+  ],
+  "timestamp": "2026-08-19T05:17:33.272663517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 21:17",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Kẻ thiếu thốn ⟨là⟩ kẻ yêu thích niềm vui; kẻ yêu thích rượu và dầu sẽ không trở nên giàu có.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "kẻ"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "thiếu thốn"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "yêu thích"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "niềm vui"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "yêu thích"
+    },
+    {
+      "surface": "יין",
+      "gloss": "rượu"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "và dầu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יעשיר",
+      "gloss": "sẽ trở nên giàu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:18:02.881818747Z",
+  "model": "glm-5.3"
+}

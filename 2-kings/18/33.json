@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 18:33",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Has the delivering of the gods of the nations delivered — each ⟨את⟩ his land — from the hand of the king of Ashur?",
+  "tokens": [
+    {
+      "surface": "ההצל",
+      "gloss": "has the delivering"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "delivered"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "the gods of"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "the nations"
+    },
+    {
+      "surface": "איש",
+      "gloss": "each"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "his land"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "his land"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "from the hand of"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "the king of"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-08-19T04:00:57.682321326Z",
+  "model": "glm-5.3"
+}

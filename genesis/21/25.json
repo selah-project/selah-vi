@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 21:25",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Và Avraham quở trách ⟨את⟩ Avimelech về việc giếng nước mà các tôi tớ của Avimelech đã cướp đoạt.",
+  "tokens": [
+    {
+      "surface": "והוכח",
+      "gloss": "và quở trách"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelech"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    },
+    {
+      "surface": "על",
+      "gloss": "về"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "việc"
+    },
+    {
+      "surface": "באר",
+      "gloss": "giếng"
+    },
+    {
+      "surface": "המים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "גזלו",
+      "gloss": "đã cướp đoạt"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "các tôi tớ của"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelech"
+    }
+  ],
+  "timestamp": "2026-08-19T01:02:12.326680365Z",
+  "model": "glm-5.3"
+}

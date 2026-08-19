@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Các ngươi không được làm sự bất công trong phép xét đoán, trong đo lường, trong cân nặng, và trong đo dung.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không được"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "các ngươi làm"
+    },
+    {
+      "surface": "עול",
+      "gloss": "sự bất công"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "trong phép xét đoán"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "trong đo lường"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "trong cân nặng"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "và trong đo dung"
+    }
+  ],
+  "timestamp": "2026-08-19T02:45:59.609348760Z",
+  "model": "glm-5.3"
+}

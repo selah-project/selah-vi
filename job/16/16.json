@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 16:16",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Mặt tôi đỏ rực vì khóc, và trên mi mắt tôi là ⟨bóng⟩ của sự chết.",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "mặt tôi"
+    },
+    {
+      "surface": "חמרמרה",
+      "gloss": "đỏ rực"
+    },
+    {
+      "surface": "מני",
+      "gloss": "vì"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "khóc"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "và trên"
+    },
+    {
+      "surface": "עפעפי",
+      "gloss": "mi mắt tôi"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "bóng của sự chết"
+    }
+  ],
+  "timestamp": "2026-08-19T05:23:38.306907068Z",
+  "model": "glm-5.3"
+}

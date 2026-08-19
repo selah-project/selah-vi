@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 80:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 80,
+  "translation": "Elohim của các đạo binh, xin ⟨người⟩ quy hồi chúng tôi, và làm cho mặt Ngài chiếu sáng, và chúng tôi sẽ được cứu.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "của các đạo binh"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "xin quy hồi chúng tôi"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "và làm cho... chiếu sáng"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "mặt Ngài"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "và chúng tôi sẽ được cứu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:22.428315741Z",
+  "model": "glm-5.3"
+}

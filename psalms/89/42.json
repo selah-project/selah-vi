@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 89,
+  "translation": "Mọi kẻ đi ngang qua đường cướp phá hắn; hắn đã thành điều sỉ nhục cho những người láng giềng mình.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "cướp phá hắn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "kẻ đi ngang qua"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "đường"
+    },
+    {
+      "surface": "היה",
+      "gloss": "hắn đã thành"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "điều sỉ nhục"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "cho láng giềng của hắn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:34.169351585Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 42:32",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 42,
+  "translation": "Chúng tôi là mười hai anh em, con của cha chúng tôi; một người không còn, và người út hôm nay ở ⟨את⟩ cha chúng tôi trong đất Kenaan.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "hai"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mười"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "chúng tôi"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "anh em"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con của"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "cha chúng tôi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "một người"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "không còn"
+    },
+    {
+      "surface": "והקטן",
+      "gloss": "và người út"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hôm nay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cha chúng tôi"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "cha chúng tôi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trong đất"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-19T02:24:55.018660077Z",
+  "model": "glm-5.3"
+}

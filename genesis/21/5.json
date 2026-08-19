@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Và Avraham ⟨là⟩ con một trăm tuổi khi ⟨את⟩ Yitschak con trai ông sinh ra cho ông.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "và Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "một trăm"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuổi"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "khi sinh ra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho ông"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "con trai ông"
+    }
+  ],
+  "timestamp": "2026-08-19T01:01:59.035163347Z",
+  "model": "glm-5.3"
+}

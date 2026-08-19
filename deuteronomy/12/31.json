@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 12:31",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Ngươi chớ làm như vậy đối với Yahweh Elohim ngươi, vì mọi điều gớm ghiếc mà Yahweh ghét, họ đã làm cho các thần của họ; vì họ còn đốt ⟨את⟩ con trai mình và ⟨את⟩ con gái mình trong lửa cho các thần của họ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "làm"
+    },
+    {
+      "surface": "כן",
+      "gloss": "như vậy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "đối với Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ngươi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "điều gớm ghiếc"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ghét"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "họ đã làm"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "cho các thần của họ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "גם",
+      "gloss": "còn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con trai mình"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "con trai mình"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con gái mình"
+    },
+    {
+      "surface": "בנתיהם",
+      "gloss": "con gái mình"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "họ đốt"
+    },
+    {
+      "surface": "באש",
+      "gloss": "trong lửa"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "cho các thần của họ"
+    }
+  ],
+  "timestamp": "2026-08-19T06:06:03.406349095Z",
+  "model": "glm-5.3"
+}

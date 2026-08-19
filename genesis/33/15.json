@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 33:15",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 33,
+  "translation": "Và Esav nói: Xin hãy để ⟨את⟩ một số người trong dân sự đang ở ⟨את⟩ với tôi lại cùng ngài. Và người ấy nói: Cớ sao chuyện này? Nguyện tôi tìm được ơn trước mắt chúa tôi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và Esav nói"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אציגה",
+      "gloss": "xin hãy đặt lại"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xin"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "cùng ngài"
+    },
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ với tôi",
+      "marks": "với tôi (giới từ eth H854, kèm tân ngữ dân sự)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và người ấy nói"
+    },
+    {
+      "surface": "למה",
+      "gloss": "cớ sao"
+    },
+    {
+      "surface": "זה",
+      "gloss": "chuyện này"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "tôi tìm được"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ơn"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "trước mắt"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "chúa tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T01:18:42.353618845Z",
+  "model": "glm-5.3"
+}

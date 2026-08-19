@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Làm sao tôi ⟨có thể⟩ gánh một mình gánh nặng của các ngươi, và của các ngươi, và tranh tụng của các ngươi?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "làm sao"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "tôi gánh"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "một mình"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "gánh nặng của các ngươi"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "và của các ngươi"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "và tranh tụng của các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:05:52.056945583Z",
+  "model": "glm-5.3"
+}

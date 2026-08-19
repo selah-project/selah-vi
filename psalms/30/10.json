@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "⟨Có⟩ gì được trong máu tôi, khi tôi xuống hố sâu? Bụi đất sẽ ca ngợi Ngài sao? Nó sẽ rao báo ⟨sự⟩ chân thật của Ngài sao?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "được lợi"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "trong máu tôi"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "khi tôi xuống"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "hố sâu"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "sẽ ca ngợi Ngài sao"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "bụi đất"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "sẽ rao báo sao"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "chân thật của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:38.094140157Z",
+  "model": "glm-5.3"
+}

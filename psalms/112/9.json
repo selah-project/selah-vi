@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 112,
+  "translation": "Người ấy đã rải rộng, đã ban cho những kẻ nghèo khó; sự công chính của người đứng vững đến đời đời; sừng của người sẽ được nhấc cao trong vinh dự.",
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "đã rải rộng"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "đã ban"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "cho những kẻ nghèo khó"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "sự công chính của người"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "đứng vững"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "đến đời đời"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "sừng của người"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "sẽ được nhấc cao"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "trong vinh dự"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:24.613720696Z",
+  "model": "glm-5.3"
+}

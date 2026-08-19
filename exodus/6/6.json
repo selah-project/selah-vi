@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 6:6",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Vì vậy, hãy nói với con cái Yisrael: 'Tôi là Yahweh, và tôi sẽ đưa ⟨את⟩-các ngươi ra khỏi dưới gánh nặng của Mitsrayim, và tôi sẽ giải cứu ⟨את⟩-các ngươi khỏi sự lao dịch của chúng, và tôi sẽ cứu chuộc ⟨את⟩-các ngươi bằng cánh tay duỗi ra và bằng các phán xét lớn lao.'",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "vì vậy"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hãy nói"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "với con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "và tôi sẽ đưa ra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-các ngươi",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "khỏi dưới"
+    },
+    {
+      "surface": "סבלת",
+      "gloss": "gánh nặng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "והצלתי",
+      "gloss": "và tôi sẽ giải cứu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-các ngươi",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "מעבדתם",
+      "gloss": "khỏi sự lao dịch của chúng"
+    },
+    {
+      "surface": "וגאלתי",
+      "gloss": "và tôi sẽ cứu chuộc"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-các ngươi",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "bằng cánh tay"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "duỗi ra"
+    },
+    {
+      "surface": "ובשפטים",
+      "gloss": "và bằng các phán xét"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "lớn lao"
+    }
+  ],
+  "timestamp": "2026-08-19T02:29:02.877980946Z",
+  "model": "glm-5.3"
+}

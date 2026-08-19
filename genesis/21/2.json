@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 21:2",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Và Sarah đã thụ thai và đã sinh cho Avraham một con trai, vào tuổi già của ông, vào thời kỳ định mà Elohim đã phán ⟨את⟩ với ông.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "và đã thụ thai"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "và đã sinh"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "cho Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "một con trai"
+    },
+    {
+      "surface": "לזקניו",
+      "gloss": "vào tuổi già của ông"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "vào thời kỳ định"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "đã phán"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ với ông",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T01:03:03.241027281Z",
+  "model": "glm-5.3"
+}

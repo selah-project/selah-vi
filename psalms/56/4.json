@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 56,
+  "translation": "Ngày tôi sợ, tôi — vào ⟨nơi⟩ Ngài tôi nương náu.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "tôi sợ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "vào Ngài"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "tôi nương náu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:50.994271087Z",
+  "model": "glm-5.3"
+}

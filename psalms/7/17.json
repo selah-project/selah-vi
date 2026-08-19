@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Sự lao khổ của hắn sẽ quay về trên đầu hắn, và trên đỉnh đầu hắn sự bạo hành của hắn sẽ giáng xuống.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "sẽ quay về"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "sự lao khổ của hắn"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "trên đầu hắn"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "và trên"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "đỉnh đầu hắn"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "sự bạo hành của hắn"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "sẽ giáng xuống"
+    }
+  ],
+  "timestamp": "2026-08-19T04:54:38.936852127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 28:24",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Kẻ cướp cha mình và mẹ mình, và nói: 'Không có lỗi phạm', — kẻ đó là bạn đồng hành của một người hủy hoại.",
+  "tokens": [
+    {
+      "surface": "גוזל",
+      "gloss": "kẻ cướp"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "cha mình"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "và mẹ mình"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "lỗi phạm"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "bạn đồng hành"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kẻ đó là"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "của một người"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "hủy hoại"
+    }
+  ],
+  "timestamp": "2026-08-19T05:19:29.765418578Z",
+  "model": "glm-5.3"
+}

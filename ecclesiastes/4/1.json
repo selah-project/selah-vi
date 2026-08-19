@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 4:1",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Rồi tôi quay lại, tôi thấy ⟨את⟩ mọi sự áp bức được làm ra dưới mặt trời, và kìa, nước mắt của những người bị áp bức, mà họ không có người an ủi; và từ tay những kẻ áp bức họ ⟨là⟩ quyền lực, mà họ không có người an ủi.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "tôi quay lại"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "và thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi sự áp bức"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "העשקים",
+      "gloss": "sự áp bức"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "נעשים",
+      "gloss": "được làm ra"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dưới"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "mặt trời"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "và kìa"
+    },
+    {
+      "surface": "דמעת",
+      "gloss": "nước mắt"
+    },
+    {
+      "surface": "העשקים",
+      "gloss": "của những người bị áp bức"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mà không có"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho họ"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "người an ủi"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "và từ tay"
+    },
+    {
+      "surface": "עשקיהם",
+      "gloss": "những kẻ áp bức họ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "quyền lực"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mà không có"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho họ"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "người an ủi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:01.623767633Z",
+  "model": "glm-5.3"
+}

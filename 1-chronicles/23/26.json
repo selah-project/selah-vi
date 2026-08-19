@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 23:26",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Và cũng đối với người Levì, không còn phải vác ⟨את⟩ Trại tạm và ⟨את⟩ tất cả đồ dùng của nó cho việc phục vụ nó nữa.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "và cũng"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "đối với người Levì"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không còn"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "phải vác"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Trại tạm"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Trại tạm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "tất cả đồ dùng của nó"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "đồ dùng của nó"
+    },
+    {
+      "surface": "לעבדתו",
+      "gloss": "cho việc phục vụ nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:52:33.576464173Z",
+  "model": "glm-5.3"
+}

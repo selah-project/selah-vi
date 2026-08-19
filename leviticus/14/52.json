@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "leviticus 14:52",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Và người ấy sẽ tẩy sạch ⟨את⟩ ngôi nhà bằng máu con chim, và bằng nước sống, và bằng con chim sống, và bằng gỗ bá hương, và bằng cỏ khổ-dzier, và bằng chỉ đỏ điều.",
+  "tokens": [
+    {
+      "surface": "וחטא",
+      "gloss": "và sẽ tẩy sạch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngôi nhà"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ngôi nhà"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "bằng máu"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "con chim"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "và bằng nước"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "sống"
+    },
+    {
+      "surface": "ובצפר",
+      "gloss": "và bằng con chim"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "sống"
+    },
+    {
+      "surface": "ובעץ",
+      "gloss": "và bằng gỗ"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "bá hương"
+    },
+    {
+      "surface": "ובאזב",
+      "gloss": "và bằng cỏ khổ-dzier"
+    },
+    {
+      "surface": "ובשני",
+      "gloss": "và bằng đỏ điều"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "của con sỉ"
+    }
+  ],
+  "timestamp": "2026-08-19T06:04:26.362044040Z",
+  "model": "glm-5.3"
+}

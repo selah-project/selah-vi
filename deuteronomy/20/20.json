@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 20:20",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Chỉ cây nào ngươi biết rằng nó không phải là cây ăn trái, thì ⟨את⟩ nó ngươi hủy hoại và chém xuống; và ngươi xây đồn lũy chống thành đang giao tranh với ngươi, cho đến khi ngươi hạ được nó.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "chỉ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "cây"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ngươi biết"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "cây"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "ăn trái"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó là"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nó",
+      "marks": "ngươi hủy hoại"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "ngươi hủy hoại"
+    },
+    {
+      "surface": "וכרת",
+      "gloss": "và chém xuống"
+    },
+    {
+      "surface": "ובנית",
+      "gloss": "và ngươi xây"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "đồn lũy vây hãm"
+    },
+    {
+      "surface": "על",
+      "gloss": "chống"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "thành"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "đang làm"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "với ngươi"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "cuộc giao tranh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến khi"
+    },
+    {
+      "surface": "רדתה",
+      "gloss": "ngươi hạ được nó"
+    }
+  ],
+  "timestamp": "2026-08-19T03:10:33.369106303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Vì Ngài là núi đá và pháo đài của con; và vì cớ danh Ngài, Ngài hãy dẫn dắt con và dẫn đường con.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "núi đá của con"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "và pháo đài của con"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "và vì cớ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "danh Ngài"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "Ngài hãy dẫn con"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "và dẫn đường con"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:59.574758534Z",
+  "model": "glm-5.3"
+}

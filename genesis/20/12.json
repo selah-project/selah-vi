@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 20:12",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Và thật, nàng cũng là em gái tôi — con gái của cha tôi, nhưng không phải con gái của mẹ tôi; và nàng đã trở thành vợ tôi.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "và cũng"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "thật"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "em gái tôi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "con gái"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "cha tôi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨là⟩ nàng"
+    },
+    {
+      "surface": "אך",
+      "gloss": "nhưng chỉ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "בת",
+      "gloss": "con gái"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mẹ tôi"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "và đã trở thành"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "làm vợ"
+    }
+  ],
+  "timestamp": "2026-08-19T01:02:52.087796199Z",
+  "model": "glm-5.3"
+}

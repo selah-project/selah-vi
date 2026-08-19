@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 147,
+  "translation": "Người ném băng ra như những mẩu bánh; trước sự lạnh của Ngài, ai mà đứng nổi?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "ném ra"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "băng của Ngài"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "như những mẩu bánh"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "sự lạnh của Ngài"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "đứng nổi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:31.355879659Z",
+  "model": "glm-5.3"
+}

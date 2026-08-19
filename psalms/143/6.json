@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 143,
+  "translation": "Tôi dang rộng tay mình hướng về Ngài, linh hồn tôi như đất khô kiệt trước mặt Ngài. Selah.",
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "tôi dang rộng"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tay mình"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "hướng về Ngài"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "linh hồn tôi"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "như đất"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "khô kiệt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vì Ngài \/ trước mặt Ngài"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:13.451475715Z",
+  "model": "glm-5.3"
+}

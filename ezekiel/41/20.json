@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 41:20",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 41,
+  "translation": "Từ đất cho đến khoảng trên cửa, các keruvim và các cây chà là ⟨được⟩ chạm khắc, và trên tường ⟨của⟩ cung điện.",
+  "tokens": [
+    {
+      "surface": "מהארץ",
+      "gloss": "từ đất"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "khoảng trên"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "cửa"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "các keruvim"
+    },
+    {
+      "surface": "והתמרים",
+      "gloss": "và các cây chà là"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "được làm"
+    },
+    {
+      "surface": "וקיר",
+      "gloss": "và tường"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "cung điện"
+    }
+  ],
+  "timestamp": "2026-08-19T04:41:55.350991625Z",
+  "model": "glm-5.3"
+}

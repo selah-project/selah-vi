@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Và ông lấy họ, đưa họ qua ⟨את⟩ con suối, và đưa qua ⟨את⟩ mọi thứ thuộc về mình.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "và lấy họ"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "và đưa họ qua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con suối"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "con suối"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "và đưa qua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi thứ thuộc về mình"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mọi thứ mà"
+    },
+    {
+      "surface": "לו",
+      "gloss": "thuộc về ông"
+    }
+  ],
+  "timestamp": "2026-08-19T01:15:52.358459457Z",
+  "model": "glm-5.3"
+}

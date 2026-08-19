@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Và Ta sẽ sai ⟨את⟩ con ong bò ra trước mặt ngươi, và nó sẽ đuổi ⟨את⟩ người Khiv, ⟨את⟩ người Kenaan, và ⟨את⟩ người Khit ra khỏi trước mặt ngươi.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "và Ta sẽ sai đi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con ong bò"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "con ong bò"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "trước mặt ngươi"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "và nó sẽ đuổi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người Khiv"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "người Khiv"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người Kenaan"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "người Kenaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người Khit"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "người Khit"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "khỏi trước mặt ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:04:02.887907825Z",
+  "model": "glm-5.3"
+}

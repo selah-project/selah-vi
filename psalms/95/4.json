@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 95,
+  "translation": "Kẻ mà trong tay ngài ⟨là⟩ những nơi sâu thẳm của đất, và những đỉnh cao của núi thuộc về ngài.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kẻ mà"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "trong tay ngài"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "những nơi sâu thẳm"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "của đất"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "và những đỉnh cao"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "của núi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "thuộc về ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:23.507749810Z",
+  "model": "glm-5.3"
+}

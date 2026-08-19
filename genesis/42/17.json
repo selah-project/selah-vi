@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 42,
+  "translation": "Và ông gom ⟨את⟩ họ vào nơi giam giữ ba ngày.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "và ông gom"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "họ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vào"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "nơi giam giữ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ngày"
+    }
+  ],
+  "timestamp": "2026-08-19T02:24:23.998734138Z",
+  "model": "glm-5.3"
+}

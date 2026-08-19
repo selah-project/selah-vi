@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 34:4",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 34,
+  "translation": "Và toàn đạo binh của các tầng trời sẽ tan rã, và các tầng trời sẽ cuộn lại như cuốn sách, và toàn đạo binh của chúng sẽ héo tàn, như lá héo từ cây nho, và như trái vả rụng khỏi cây vả.",
+  "tokens": [
+    {
+      "surface": "ונמקו",
+      "gloss": "và sẽ tan rã"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "đạo binh"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "của các tầng trời"
+    },
+    {
+      "surface": "ונגלו",
+      "gloss": "và sẽ cuộn lại"
+    },
+    {
+      "surface": "כספר",
+      "gloss": "như cuốn sách"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "các tầng trời"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và toàn"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "đạo binh của chúng"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "sẽ héo tàn"
+    },
+    {
+      "surface": "כנבל",
+      "gloss": "như héo"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "lá"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "từ cây nho"
+    },
+    {
+      "surface": "וכנבלת",
+      "gloss": "và như rụng"
+    },
+    {
+      "surface": "מתאנה",
+      "gloss": "khỏi cây vả"
+    }
+  ],
+  "timestamp": "2026-08-19T04:09:56.270631421Z",
+  "model": "glm-5.3"
+}

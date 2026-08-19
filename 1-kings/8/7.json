@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 8:7",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Vì các keruvim dang cánh về phía chỗ của aron, và các keruvim che phủ ⟨את⟩ aron và ⟨את⟩ các đòn của nó từ phía trên.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "các keruvim"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "dang ra"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "cánh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "về phía"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "chỗ của"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "ויסכו",
+      "gloss": "và che phủ"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "các keruvim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aron"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "và trên"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "các đòn của nó"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "từ phía trên"
+    }
+  ],
+  "timestamp": "2026-08-19T06:09:44.325701900Z",
+  "model": "glm-5.3"
+}

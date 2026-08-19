@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Kẻ giàu cai trị người nghèo, và kẻ vay nợ ⟨là⟩ tôi tớ của người cho vay.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "kẻ giàu"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "trên người nghèo"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "cai trị"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "và là tôi tớ"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "kẻ vay nợ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "của người"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "cho vay"
+    }
+  ],
+  "timestamp": "2026-08-19T05:17:59.880451008Z",
+  "model": "glm-5.3"
+}

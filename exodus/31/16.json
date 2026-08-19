@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Con cái Yisra'el phải giữ ⟨את⟩ Shabbat, để làm ⟨את⟩ Shabbat cho các thế hệ mình — giao ước vĩnh viễn.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "phải giữ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabbat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "để làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabbat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "cho các thế hệ mình"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "giao ước"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vĩnh viễn"
+    }
+  ],
+  "timestamp": "2026-08-19T02:36:06.810577061Z",
+  "model": "glm-5.3"
+}

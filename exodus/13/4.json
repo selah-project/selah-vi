@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Hôm nay các ngươi đang ra đi, trong tháng Ha'aviv.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "hôm-nay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "các-ngươi"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "đang-ra-đi"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "trong-tháng"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Ha'aviv"
+    }
+  ],
+  "timestamp": "2026-08-19T02:31:13.648022884Z",
+  "model": "glm-5.3"
+}

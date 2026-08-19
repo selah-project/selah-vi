@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 6:7",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Người ấy nói: Hãy nhấc nó lên cho ngươi. Anh ta đưa tay ra và lấy nó.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "hãy nhấc lên"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngươi"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "anh ta đưa ra"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tay mình"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "và lấy nó"
+    }
+  ],
+  "timestamp": "2026-08-19T03:56:25.224998019Z",
+  "model": "glm-5.3"
+}

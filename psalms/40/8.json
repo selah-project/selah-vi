@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Bấy giờ con nói: Này, con đã đến; trong cuộn sách đã viết về con.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "bấy giờ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "con nói"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "này"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "con đã đến"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "trong cuộn"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "sách"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "đã viết"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "về con"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:01.841266037Z",
+  "model": "glm-5.3"
+}

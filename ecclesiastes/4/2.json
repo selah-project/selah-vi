@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và tôi ngợi khen ⟨את⟩ những người chết đã chết rồi, hơn ⟨các⟩ người sống, là những kẻ còn sống đến nay.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "và tôi ngợi khen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "những người chết"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "những người chết"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "đã rồi"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "chết"
+    },
+    {
+      "surface": "מן",
+      "gloss": "hơn"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "người sống"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "là những kẻ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "họ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "còn sống"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "đến nay"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:01.624059147Z",
+  "model": "glm-5.3"
+}

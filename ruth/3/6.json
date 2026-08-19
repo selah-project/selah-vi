@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và nàng xuống ⟨⟨את⟩⟩ sân giặt, và làm theo mọi điều mà mẹ chồng nàng đã dặn.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "và nàng xuống"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "sân giặt"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "và nàng làm"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "theo mọi điều"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "đã dặn"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "mẹ chồng nàng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:30:05.508188439Z",
+  "model": "glm-5.3"
+}

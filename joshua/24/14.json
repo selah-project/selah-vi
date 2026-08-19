@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 24:14",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Vậy bây giờ, hãy kính sợ ⟨את⟩ Yahweh và hãy phục sự ⟨את⟩ Ngài trong trọn vẹn và trong chân thật; hãy dẹp bỏ ⟨את⟩ các elohim mà tổ phụ các ngươi đã phục sự ở bên kia sông và ở Mitzrayim, và hãy phục sự ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "vậy bây giờ"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "hãy kính sợ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "và hãy phục sự"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ Ngài",
+      "marks": "Ngài (phục sự trong trọn vẹn)"
+    },
+    {
+      "surface": "בתמים",
+      "gloss": "trong trọn vẹn"
+    },
+    {
+      "surface": "ובאמת",
+      "gloss": "và trong chân thật"
+    },
+    {
+      "surface": "והסירו",
+      "gloss": "và hãy dẹp bỏ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "các elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "đã phục sự"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "tổ phụ các ngươi"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ở bên kia"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "con sông"
+    },
+    {
+      "surface": "ובמצרים",
+      "gloss": "và ở Mitzrayim"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "và hãy phục sự"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T03:21:52.336537993Z",
+  "model": "glm-5.3"
+}

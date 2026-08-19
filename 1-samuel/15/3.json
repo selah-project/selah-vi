@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 15:3",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Bây giờ hãy đi đánh ⟨את⟩ Amalek, và các ngươi hãy tận diệt ⟨את⟩ tất cả những gì thuộc về nó; đừng thương xót nó, nhưng hãy giết từ đàn ông đến đàn bà, từ trẻ nhỏ đến con đang bú, từ bò đến chiên, từ lạc đà đến lừa.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "bây giờ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hãy đi"
+    },
+    {
+      "surface": "והכיתה",
+      "gloss": "và hãy đánh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "והחרמתם",
+      "gloss": "và hãy tận diệt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả những gì thuộc về nó"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "những gì"
+    },
+    {
+      "surface": "לו",
+      "gloss": "thuộc về nó"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và đừng"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "thương xót"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nó"
+    },
+    {
+      "surface": "והמתה",
+      "gloss": "và hãy giết"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "từ đàn ông"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "đàn bà"
+    },
+    {
+      "surface": "מעלל",
+      "gloss": "từ trẻ nhỏ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "và đến"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "con đang bú"
+    },
+    {
+      "surface": "משור",
+      "gloss": "từ bò"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "và đến"
+    },
+    {
+      "surface": "שה",
+      "gloss": "chiên"
+    },
+    {
+      "surface": "מגמל",
+      "gloss": "từ lạc đà"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "và đến"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "lừa"
+    }
+  ],
+  "timestamp": "2026-08-19T03:33:55.987097160Z",
+  "model": "glm-5.3"
+}

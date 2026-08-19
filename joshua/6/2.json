@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 6:2",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và Yahweh phán với Yehoshua: Hãy nhìn, Ta đã trao vào tay ngươi ⟨את⟩ Yericho và ⟨את⟩ vua của nó, các chiến binh dũng mãnh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và Ngài phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "hãy nhìn"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Ta đã trao"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "vào tay ngươi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yericho"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yericho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "vua của nó"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "vua của nó"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "các chiến binh"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "dũng mãnh"
+    }
+  ],
+  "timestamp": "2026-08-19T06:06:30.164815352Z",
+  "model": "glm-5.3"
+}

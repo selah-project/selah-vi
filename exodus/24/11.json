@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 24:11",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Và đối với các vị quý tộc của con cái Yisrael, Ngài không giơ ⟨ra⟩ tay mình; và họ chiêm ngưỡng ⟨את⟩ Elohim, và họ ăn và họ uống.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "và đối với"
+    },
+    {
+      "surface": "אצילי",
+      "gloss": "các vị quý tộc"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "giơ ra"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tay mình"
+    },
+    {
+      "surface": "ויחזו",
+      "gloss": "và họ chiêm ngưỡng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "và họ ăn"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "và họ uống"
+    }
+  ],
+  "timestamp": "2026-08-19T02:34:02.471967667Z",
+  "model": "glm-5.3"
+}

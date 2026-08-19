@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 42,
+  "translation": "Và họ không biết rằng Yosef đang nghe, vì ⟨có⟩ người thông dịch ở giữa họ.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "và họ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "biết"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "đang nghe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "người thông dịch"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "ở giữa họ"
+    }
+  ],
+  "timestamp": "2026-08-19T06:03:06.169277654Z",
+  "model": "glm-5.3"
+}

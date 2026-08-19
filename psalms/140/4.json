@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 140,
+  "translation": " Lưỡi họ sắc như rắn; nọc độc của rắn hổ dưới môi họ. Selah.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "đã mài sắc"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "lưỡi họ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "như"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "rắn"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "nọc độc của"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "rắn hổ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dưới"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "môi họ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:57.508653262Z",
+  "model": "glm-5.3"
+}

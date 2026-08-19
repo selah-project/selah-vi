@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 15:19",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "⟨את⟩ người Qenit, và ⟨את⟩ người Qenizit, và ⟨את⟩ người Qadmonit,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người Qenit"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "người Qenit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người Qenizit"
+    },
+    {
+      "surface": "הקנזי",
+      "gloss": "người Qenizit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người Qadmonit"
+    },
+    {
+      "surface": "הקדמני",
+      "gloss": "người Qadmonit"
+    }
+  ],
+  "timestamp": "2026-08-19T00:57:36.326773272Z",
+  "model": "glm-5.3"
+}

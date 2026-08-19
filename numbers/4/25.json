@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 4:25",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và chúng sẽ khiêng ⟨את⟩ các mành trại hội, ⟨את⟩ trại hội với áo che của nó và áo che datachash ở phía trên nó, và ⟨את⟩ bức màn nơi cửa vào của trại hội.",
+  "tokens": [
+    {
+      "surface": "ונשאו",
+      "gloss": "và chúng sẽ khiêng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các mành trại hội"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "các mành"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "trại"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "trại hội"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "trại"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "hội"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "áo che của nó"
+    },
+    {
+      "surface": "ומכסה",
+      "gloss": "và áo che"
+    },
+    {
+      "surface": "התחש",
+      "gloss": "da-tachash"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "trên nó"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "phía trên"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "bức màn nơi cửa"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "bức màn"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "cửa vào"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "trại"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "hội"
+    }
+  ],
+  "timestamp": "2026-08-19T02:53:07.249109451Z",
+  "model": "glm-5.3"
+}

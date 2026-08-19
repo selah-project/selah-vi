@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 81:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 81,
+  "translation": "Nhưng dân Ta không nghe tiếng Ta, và Yisrael không chịu thuận theo Ta.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "nhưng không"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nghe"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "dân Ta"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "tiếng Ta"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "và Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "chịu thuận theo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Ta"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:14.400448706Z",
+  "model": "glm-5.3"
+}

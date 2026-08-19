@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 125,
+  "translation": "Xin làm ơn, Yahweh, cho những người lành, và cho những kẻ ngay thẳng trong lòng họ.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Xin làm ơn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "cho những người lành"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "và cho những kẻ ngay thẳng"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "trong lòng họ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:58.140292071Z",
+  "model": "glm-5.3"
+}

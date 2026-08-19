@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 79,
+  "translation": "Vì chúng đã ăn thiệt ⟨את⟩ Yaakov, và ⟨את⟩ nơi ở của ông chúng đã biến thành hoang tàn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "đã ăn thiệt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "nơi ở của ông"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "nơi ở của ông"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "chúng đã biến thành hoang tàn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:56.952295668Z",
+  "model": "glm-5.3"
+}

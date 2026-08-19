@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 55,
+  "translation": "Hãy chăm chú vào tôi và đáp lời tôi; tôi rao la trong nỗi buồn rầu của tôi và rên xiết.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "hãy chăm chú"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vào tôi"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "và đáp lời tôi"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "tôi rao la \/ tôi nao núng"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "trong nỗi buồn rầu của tôi"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "và rên xiết"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:41.336593192Z",
+  "model": "glm-5.3"
+}

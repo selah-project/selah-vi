@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 13:15",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Shemuël đứng dậy và lên từ Gilgal đến Giv'at Binyamin; Shaül điểm kiểm ⟨את⟩ dân chúng đang ở với mình, khoảng sáu trăm người.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "đứng dậy"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "và lên"
+    },
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Giv'at"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "và điểm kiểm"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaül"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân chúng"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân chúng"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "đang ở"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "với mình"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "khoảng sáu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "trăm"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    }
+  ],
+  "timestamp": "2026-08-19T03:32:11.506542795Z",
+  "model": "glm-5.3"
+}

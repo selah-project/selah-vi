@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 79,
+  "translation": "Chúng ta đã trở thành sự sỉ nhục cho các neighbors của mình, trò cười nhạo và chế giễu cho những kẻ chung quanh chúng ta.",
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "chúng ta đã trở thành"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "sự sỉ nhục"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "cho các kẻ láng giềng của chúng ta"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "trò cười nhạo"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "và chế giễu"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "cho những kẻ chung quanh chúng ta"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:50.816255843Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Hãy kiểm điểm số đầu con cái Gershon, cả họ nữa, theo nhà cha họ, theo họ hàng họ.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "kiểm điểm số đầu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "số đầu (con cái Gershon)"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "đầu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gershon"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cả"
+    },
+    {
+      "surface": "הם",
+      "gloss": "họ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "theo nhà"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "cha họ"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "theo họ hàng họ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:52:59.784318122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "genesis 24:64",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Rivkah ngước mắt lên và thấy ⟨את⟩ Yitschak, rồi nàng trút mình xuống khỏi con lạc đà.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "và-nàng-nhấc-lên"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivkah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mắt của nàng"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "mắt-của-nàng"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "và-thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "và-nàng-xuống\/trút-mình"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "khỏi-trên"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "con-lạc-đà"
+    }
+  ],
+  "timestamp": "2026-08-19T01:07:49.302598286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 146,
+  "translation": "Đấng làm các tầng trời và đất, ⟨את⟩ biển và ⟨את⟩ mọi vật ở trong chúng; Đấng gìn giữ sự chân thật đến muôn đời.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Đấng làm"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "các tầng trời"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "và đất"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biển"
+    },
+    {
+      "surface": "הים",
+      "gloss": "biển"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "mọi vật ở trong chúng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi vật"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟕mà⟕"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ở trong chúng"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "Đấng gìn giữ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sự chân thật"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "đến muôn đời"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:46.935144971Z",
+  "model": "glm-5.3"
+}

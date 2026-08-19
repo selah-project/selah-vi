@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Shaul triệu tập ⟨את⟩ toàn thể dân chúng ra trận, để xuống Keilah, vây hãm Đavid và thuộc hạ của ông.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "triệu tập"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toàn thể dân chúng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân chúng"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ra trận"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "để xuống"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilah"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "vây hãm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Đavid"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "thuộc hạ của ông"
+    }
+  ],
+  "timestamp": "2026-08-19T03:36:17.047345302Z",
+  "model": "glm-5.3"
+}

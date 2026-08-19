@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 16:13",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Và người sẽ đặt ⟨את⟩ hương lên lửa, trước mặt Yahweh, để mây của hương phủ ⟨את⟩ nắp chuộc tội đang ở trên ⟨את⟩ lời chứng, và người sẽ không chết.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "và người sẽ đặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hương"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "hương"
+    },
+    {
+      "surface": "על",
+      "gloss": "lên"
+    },
+    {
+      "surface": "האש",
+      "gloss": "lửa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "và... sẽ phủ"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "mây"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "của hương"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nắp chuộc tội"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "nắp chuộc tội"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "đang ở"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "lời chứng"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và... không"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "chết"
+    }
+  ],
+  "timestamp": "2026-08-19T02:45:14.783034203Z",
+  "model": "glm-5.3"
+}

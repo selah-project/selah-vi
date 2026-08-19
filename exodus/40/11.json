@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Ngươi sẽ xức ⟨את⟩ cái chậu cùng ⟨את⟩ chân đế của nó, và ngươi sẽ thánh hóa nó ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "và ngươi sẽ xức"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cái chậu"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "cái chậu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "cùng ⟨את⟩",
+      "marks": "chân đế của nó"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "chân đế của nó"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "và ngươi sẽ thánh hóa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "nó (cái chậu)"
+    }
+  ],
+  "timestamp": "2026-08-19T02:39:31.981002649Z",
+  "model": "glm-5.3"
+}

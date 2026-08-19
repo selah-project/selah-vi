@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 12:20",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "David đứng dậy khỏi mặt đất, tắm rửa, xức dầu, thay áo xống, rồi vào nhà Yahweh và phủ phục thờ phượng; sau đó ông về nhà mình, và khi ông hỏi, họ dọn bánh cho ông, và ông ăn.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "thì đứng dậy"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "khỏi mặt đất"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "và tắm rửa"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "và xức dầu"
+    },
+    {
+      "surface": "ויחלף",
+      "gloss": "và thay"
+    },
+    {
+      "surface": "שמלתו",
+      "gloss": "áo xống mình"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "rồi vào"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "và phủ phục thờ phượng"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "rồi đi đến"
+    },
+    {
+      "surface": "אל",
+      "gloss": "về"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nhà mình"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "và hỏi"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "họ dọn"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho ông"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bánh"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "và ông ăn"
+    }
+  ],
+  "timestamp": "2026-08-19T03:41:51.387753162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 26:12",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Yahweh, Ngài sẽ thiết lập bình an cho chúng con, vì chính mọi việc của chúng con Ngài đã làm cho chúng con.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשפת",
+      "gloss": "Ngài sẽ thiết lập"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "bình an"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "cho chúng con"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "גם",
+      "gloss": "chính"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "מעשינו",
+      "gloss": "việc của chúng con"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "Ngài đã làm"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "cho chúng con"
+    }
+  ],
+  "timestamp": "2026-08-19T04:07:54.993958646Z",
+  "model": "glm-5.3"
+}

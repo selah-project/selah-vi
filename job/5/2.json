@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 5:2",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Vì cơn giận giết kẻ ngu dại, và ghen tị làm chết kẻ cả tin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "kẻ ngu dại"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "giết"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "cơn giận"
+    },
+    {
+      "surface": "ופתה",
+      "gloss": "và kẻ cả tin"
+    },
+    {
+      "surface": "תמית",
+      "gloss": "làm chết"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "ghen tị"
+    }
+  ],
+  "timestamp": "2026-08-19T05:20:44.193598583Z",
+  "model": "glm-5.3"
+}

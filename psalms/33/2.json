@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 33,
+  "translation": "Hãy cảm tạ Yahweh bằng đàn cithara, bằng đàn nevel mười dây; hãy gảy đàn ngợi kẽnh ⟨cho⟩ Ngài.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "hãy cảm tạ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "bằng đàn cithara"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "bằng đàn nevel"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "mười dây"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "hãy gảy đàn ngợi kẽnh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:01.363465120Z",
+  "model": "glm-5.3"
+}

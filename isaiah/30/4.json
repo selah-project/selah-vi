@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Vì các quan trưởng của ⟨họ⟩ đã ở tại Tsoan, và các sứ giả của ⟨họ⟩ đã đến Chanes.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "היו",
+      "gloss": "đã ở"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "tại Tsoan"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "các quan trưởng của họ"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "và các sứ giả của họ"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "Chanes"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "đã đến"
+    }
+  ],
+  "timestamp": "2026-08-19T04:09:40.445446977Z",
+  "model": "glm-5.3"
+}

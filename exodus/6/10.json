@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 6:10",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Vậy Yahweh phán với Moshe, rằng:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "vậy phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:28:23.318305347Z",
+  "model": "glm-5.3"
+}

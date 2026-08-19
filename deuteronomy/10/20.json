@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 10:20",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "⟨את⟩ Yahweh Elohim của ngươi, ngươi hãy kính sợ; ⟨את⟩ Ngài, ngươi hãy phục sự; và hãy gắn bó với ⟨Ngài⟩; và nhân danh Ngài, ngươi hãy thề.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Elohim của ngươi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim của ngươi"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ngươi hãy kính sợ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ Ngài",
+      "marks": "phục sự"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "ngươi hãy phục sự"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "và với ⟨Ngài⟩"
+    },
+    {
+      "surface": "תדבק",
+      "gloss": "ngươi hãy gắn bó"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "và nhân danh Ngài"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ngươi hãy thề"
+    }
+  ],
+  "timestamp": "2026-08-19T03:07:18.415511014Z",
+  "model": "glm-5.3"
+}

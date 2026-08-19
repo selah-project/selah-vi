@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 119:53",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Cơn phẫn nộ bừng bừng đã nắm giữ tôi, vì những kẻ ác, những kẻ bỏ rơi Torah của Ngài.",
+  "tokens": [
+    {
+      "surface": "זלעפה",
+      "gloss": "cơn phẫn nộ bừng bừng"
+    },
+    {
+      "surface": "אחזתני",
+      "gloss": "đã nắm giữ tôi"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "vì những kẻ ác"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "những kẻ bỏ rơi"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Torah của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:46.497733325Z",
+  "model": "glm-5.3"
+}

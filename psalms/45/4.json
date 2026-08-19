@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 45,
+  "translation": "Hãy thắt gươm ngươi trên đùi, hỡi dũng sĩ, sự oai nghiêm và sự vinh quáng của ngươi.",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "hãy thắt"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "gươm ngươi"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "đùi"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "hỡi dũng sĩ"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "sự oai nghiêm của ngươi"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "và sự vinh quáng của ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:48.521357677Z",
+  "model": "glm-5.3"
+}

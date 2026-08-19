@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 42,
+  "translation": "Elohim của ta, trên mình ta linh hồn ta ⟨bị⟩ nao núng; vì vậy ta nhớ ⟨về⟩ Ngài, từ đất Yarden, và các Chermonim, từ núi Mitsar.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của ta"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "trên mình"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "linh hồn ta"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "nao núng"
+    },
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vậy"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "ta nhớ Ngài"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "từ đất"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "và các Chermonim"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "từ núi"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Mitsar"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:16.665888611Z",
+  "model": "glm-5.3"
+}

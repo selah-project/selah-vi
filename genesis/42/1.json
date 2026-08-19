@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 42,
+  "translation": "Yaakov thấy rằng có lúa mì trong Mitzrayim, Yaakov nói với các con trai mình: Sao các ngươi cứ nhìn nhau?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "thấy"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "יש",
+      "gloss": "có"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "lúa mì"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "trong Mitzrayim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "với các con trai mình"
+    },
+    {
+      "surface": "למה",
+      "gloss": "sao"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "nhìn nhau"
+    }
+  ],
+  "timestamp": "2026-08-19T02:24:36.730139686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 128,
+  "translation": "Nguyện Yahweh ban phước cho ngươi từ Tsiyon, và ngươi sẽ thấy điều tốt lành của Yerushalayim, mọi ngày đời sống của ngươi.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "Nguyện ban-phước cho-ngươi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "từ Tsiyon"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "và ngươi sẽ thấy"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "trong điều tốt lành"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "của Yerushalayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "đời sống của ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:39.604220381Z",
+  "model": "glm-5.3"
+}

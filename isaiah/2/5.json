@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Hỡi nhà Yaakov, hãy đến, và chúng ta hãy đi trong ánh sáng của Yahweh.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "hỡi nhà"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "hãy đến"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "và chúng ta hãy đi"
+    },
+    {
+      "surface": "באור",
+      "gloss": "trong ánh sáng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "của Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T06:11:08.579970902Z",
+  "model": "glm-5.3"
+}

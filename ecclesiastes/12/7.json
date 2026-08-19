@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Và bụi trở về trên đất như nó vốn vậy, và thần khí trở về với Elohim là Đấng đã ban nó.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "và trở về"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "bụi"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "như nó vốn vậy"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "và thần khí"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "trở về"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "là Đấng"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "đã ban nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:34:16.678492422Z",
+  "model": "glm-5.3"
+}

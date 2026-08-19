@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và Nachor sống hai mươi chín năm, và sinh ⟨את⟩ Terach.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "và sống"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachor"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "chín"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "và hai mươi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "năm"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "và sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terach"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terach"
+    }
+  ],
+  "timestamp": "2026-08-19T00:54:12.629740141Z",
+  "model": "glm-5.3"
+}

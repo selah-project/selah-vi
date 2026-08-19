@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 22:9",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Chúng nó sẽ giữ ⟨את⟩ sự canh giữ của Ta, và không mang trên nó tội lỗi, và chết trong nó, vì chúng làm ô uế nó; Ta là Yahweh, Đấng làm thánh chúng nó.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "chúng sẽ giữ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sự canh giữ của Ta"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "sự canh giữ của Ta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "mang"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "trên nó"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "tội lỗi"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "và chết"
+    },
+    {
+      "surface": "בו",
+      "gloss": "trong nó"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "יחללהו",
+      "gloss": "làm ô uế nó"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "làm thánh chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:46:15.586066182Z",
+  "model": "glm-5.3"
+}

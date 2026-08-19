@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 26:10",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Đấng vĩ đại ⟨đã⟩ hình thành mọi sự, ⟨Ngài⟩ trả công cho kẻ dại dột, và trả công cho những kẻ qua lại.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "Đấng vĩ đại"
+    },
+    {
+      "surface": "מחולל",
+      "gloss": "hình thành"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi sự"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "và trả công"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "kẻ dại dột"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "và trả công"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "những kẻ qua lại"
+    }
+  ],
+  "timestamp": "2026-08-19T05:18:51.688171272Z",
+  "model": "glm-5.3"
+}

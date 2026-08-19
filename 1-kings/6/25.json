@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 6:25",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và mười cubit ⟨là⟩ kerub thứ hai; một số đo và một hình dạng cho cả hai kerubim.",
+  "tokens": [
+    {
+      "surface": "ועשר",
+      "gloss": "và mười"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "kerub"
+    },
+    {
+      "surface": "השני",
+      "gloss": "thứ hai"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "số đo"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "một"
+    },
+    {
+      "surface": "וקצב",
+      "gloss": "và hình dạng"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "một"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "cho hai"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerubim"
+    }
+  ],
+  "timestamp": "2026-08-19T03:48:50.145502270Z",
+  "model": "glm-5.3"
+}

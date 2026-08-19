@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 4:12",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "David truyền lệnh ⟨את⟩ các người trẻ tuổi, và họ giết hai người ấy, chặt ⟨את⟩ tay họ và ⟨את⟩ chân họ, treo bên hồ nước tại Chebron; còn ⟨את⟩ đầu của Ish-Boshet thì họ lấy đi và chôn trong mộ Avner tại Chebron.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "đã truyền lệnh"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các người trẻ tuổi"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "các người trẻ tuổi"
+    },
+    {
+      "surface": "ויהרגום",
+      "gloss": "và họ giết họ"
+    },
+    {
+      "surface": "ויקצצו",
+      "gloss": "và họ chặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tay họ"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "tay họ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "chân họ"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "chân họ"
+    },
+    {
+      "surface": "ויתלו",
+      "gloss": "và họ treo"
+    },
+    {
+      "surface": "על",
+      "gloss": "bên trên"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "hồ nước"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "tại Chebron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "đầu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "đầu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Ish-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "-Boshet"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "họ lấy"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "và họ chôn"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "trong mộ"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "tại Chebron"
+    }
+  ],
+  "timestamp": "2026-08-19T03:39:56.383849537Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 6:4",
+  "book": "esther",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và vua nói: ai ở trong sân? còn Haman thì vừa vào sân ngoài nhà của vua, để nói với vua rằng hãy treo Mordecai ⟨את⟩ lên cây gỗ mà hắn đã sửa soạn cho hắn.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và vua nói"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "ở trong sân"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "còn Haman"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vừa vào"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "đến sân"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "của vua"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "bên ngoài"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "để nói"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "với vua"
+    },
+    {
+      "surface": "לתלות",
+      "gloss": "hãy treo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordecai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordecai"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "cây gỗ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "hắn đã sửa soạn"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho hắn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:35:24.228602799Z",
+  "model": "glm-5.3"
+}

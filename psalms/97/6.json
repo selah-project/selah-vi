@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 97,
+  "translation": "⟨Các⟩ tầng trời đã tỏ ra sự công bình của Ngài, và mọi dân tộc đã thấy vinh quang của Ngài.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "đã tỏ ra"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "các tầng trời"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "sự công bình của Ngài"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "và đã thấy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "dân tộc"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "vinh quang của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:20.887954176Z",
+  "model": "glm-5.3"
+}

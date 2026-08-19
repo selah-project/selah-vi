@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 91,
+  "translation": "Hắn sẽ kêu cứu cùng Ta, và Ta sẽ đáp lời hắn; Ta, chính Ta, ở cùng hắn trong cơn khốn khó; Ta sẽ cứu hắn và tôn vinh hắn.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "hắn sẽ kêu cứu cùng Ta"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "và Ta sẽ đáp lời hắn"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ở cùng hắn"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "trong cơn khốn khó"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "Ta sẽ cứu hắn"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "và tôn vinh hắn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:01.248059989Z",
+  "model": "glm-5.3"
+}

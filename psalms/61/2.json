@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 61,
+  "translation": "Xin nghe, hỡi Elohim, tiếng kêu van của con; xin lắng nghe lời cầu nguyện của con.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "xin nghe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "tiếng kêu van của con"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "xin lắng nghe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "lời cầu nguyện của con"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:31.285465338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 97,
+  "translation": "Các núi như sáp tan chảy, từ trước mặt Yahweh, từ trước mặt Adonai của cả trái đất.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "các núi"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "như sáp"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "tan chảy"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "từ trước mặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "từ trước mặt"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cả"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "trái đất"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:20.887717764Z",
+  "model": "glm-5.3"
+}

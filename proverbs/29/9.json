@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Người khôn ngoan tranh luận ⟨với⟩ ⟨את⟩ kẻ ngu dại, và ⟨người ấy⟩ nổi giận và ⟨người ấy⟩ cười, và không có sự bình yên.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "khôn ngoan"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "tranh luận"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kẻ ngu dại"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kẻ"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "ngu dại"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "và nổi giận"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "và cười"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "và không có"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "sự bình yên"
+    }
+  ],
+  "timestamp": "2026-08-19T05:19:18.243417547Z",
+  "model": "glm-5.3"
+}

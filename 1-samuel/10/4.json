@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Họ sẽ chào hỏi anh bình an và cho anh hai ổ bánh mì; anh sẽ nhận từ tay họ.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "và họ sẽ hỏi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anh"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "về sự bình an"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "và họ sẽ cho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anh"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "hai"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ổ bánh mì"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "và anh sẽ nhận"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "từ tay họ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:32:11.117238223Z",
+  "model": "glm-5.3"
+}

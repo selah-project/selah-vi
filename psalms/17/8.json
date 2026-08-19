@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Hãy giữ tôi như con ngươi của mắt, trong bóng cánh Ngài hãy che giấu tôi.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "hãy giữ tôi"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "như con ngươi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "con gái của"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mắt"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "trong bóng"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "cánh của Ngài"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "hãy che giấu tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:20.722093307Z",
+  "model": "glm-5.3"
+}

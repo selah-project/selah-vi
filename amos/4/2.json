@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 4:2",
+  "book": "amos",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Adonai Yahweh đã thề bởi sự thánh của Ngài: Này, kìa, những ngày đang đến trên các ngươi, và ⟨người⟩ sẽ đem các ngươi đi ⟨את⟩ bằng dây thoát, và phần còn lại của các ngươi bằng nồi cá.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "đã thề"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "bởi sự thánh của Ngài"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "này, kìa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "những ngày"
+    },
+    {
+      "surface": "באים",
+      "gloss": "đang đến"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "trên các ngươi"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "và sẽ đem đi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "các ngươi (đem đi bằng dây thoát)"
+    },
+    {
+      "surface": "בצנות",
+      "gloss": "bằng dây thoát"
+    },
+    {
+      "surface": "ואחריתכן",
+      "gloss": "và phần còn lại của các ngươi"
+    },
+    {
+      "surface": "בסירות",
+      "gloss": "bằng nồi"
+    },
+    {
+      "surface": "דוגה",
+      "gloss": "cá"
+    }
+  ],
+  "timestamp": "2026-08-19T04:47:29.734940826Z",
+  "model": "glm-5.3"
+}

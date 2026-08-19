@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 38,
+  "translation": "Còn tôi, như kẻ điếc, không nghe; và như kẻ câm, miệng ⟨hắn⟩ không mở ra.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "còn tôi"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "như kẻ điếc"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "tôi nghe"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "và như kẻ câm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "mở ra"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "miệng hắn"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:41.620197838Z",
+  "model": "glm-5.3"
+}

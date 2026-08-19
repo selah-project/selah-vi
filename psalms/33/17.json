@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 33,
+  "translation": "Điều hư dối ⟨là⟩ con ngựa cho ⟨sự⟩ cứu giúp, và bởi sự đông đảo sức mạnh của nó sẽ không thoát được.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "điều hư dối"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "con ngựa"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "cho sự cứu giúp"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "và bởi sự đông đảo"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "sức mạnh của nó"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "sẽ thoát"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:29.275460304Z",
+  "model": "glm-5.3"
+}

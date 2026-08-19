@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Và đây là những thứ mà các ngươi không được ăn trong số chúng: đại bàng, chim ó mào, và chim cắt trắng.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "và đây"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "các ngươi ăn"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "trong số chúng"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "đại bàng"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "chim ó mào"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "và chim cắt trắng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:07:53.753823618Z",
+  "model": "glm-5.3"
+}

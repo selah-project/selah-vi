@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Thấy trước mắt tốt hơn sự lưu lạc của נפש — điều này cũng là hư không và sự rượt bắt gió.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "tốt hơn"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "sự thấy"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "mắt"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "sự lưu lạc"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "נפש (hơi thở\/sự sống)"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cũng"
+    },
+    {
+      "surface": "זה",
+      "gloss": "điều này"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hư không"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "và sự rượt bắt"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "gió"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:27.813693478Z",
+  "model": "glm-5.3"
+}

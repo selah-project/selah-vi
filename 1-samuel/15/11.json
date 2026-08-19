@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 15:11",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Ta hối tiếc vì đã lập ⟨את⟩ Shaul làm vua, vì hắn đã quay lưng khỏi theo Ta, và ⟨את⟩ lời của Ta hắn không thi hành. Shemuel nổi giận, và hắn kêu khóc đến Yahweh suốt cả đêm.",
+  "tokens": [
+    {
+      "surface": "נחמתי",
+      "gloss": "Ta hối tiếc"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "המלכתי",
+      "gloss": "đã lập làm vua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "làm vua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שב",
+      "gloss": "đã quay lưng"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "khỏi theo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "lời của Ta"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "lời của Ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "thi hành"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "và nổi giận"
+    },
+    {
+      "surface": "לשמואל",
+      "gloss": "trong Shemuel"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "và hắn kêu khóc"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "suốt cả"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "đêm"
+    }
+  ],
+  "timestamp": "2026-08-19T03:33:25.759549433Z",
+  "model": "glm-5.3"
+}

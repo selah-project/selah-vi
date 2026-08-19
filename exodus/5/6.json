@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 5:6",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Trong ngày đó Paroh ra lệnh cho ⟨את⟩ các cai đốc dân và ⟨את⟩ các quan trưởng của họ, rằng:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "và ra lệnh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "trong ngày"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "đó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các cai đốc dân"
+    },
+    {
+      "surface": "הנגשים",
+      "gloss": "các cai đốc"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các quan trưởng của họ"
+    },
+    {
+      "surface": "שטריו",
+      "gloss": "các quan trưởng của ông"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:28:22.527246404Z",
+  "model": "glm-5.3"
+}

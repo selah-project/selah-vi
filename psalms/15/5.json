@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 15:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Bạc của mình anh không cho vay lấy lời, và hối lộ chống người vô tội anh không nhận; người làm những điều này sẽ không bao giờ bị lung lay, cho đến đời đời.",
+  "tokens": [
+    {
+      "surface": "כספו",
+      "gloss": "bạc của mình"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "cho"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "lấy lời (lãi)"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "và hối lộ"
+    },
+    {
+      "surface": "על",
+      "gloss": "chống \/ trên"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "người vô tội"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nhận"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "người làm"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "những điều này"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "bị lung lay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "đến đời đời"
+    }
+  ],
+  "timestamp": "2026-08-19T04:55:46.744050656Z",
+  "model": "glm-5.3"
+}

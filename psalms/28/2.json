@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Nghe tiếng khẩn cầu của tôi, khi tôi kêu van cùng Ngài, khi tôi giơ tay lên về phía đền thờ thánh của Ngài.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "nghe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tiếng"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "khẩn cầu của tôi"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "khi tôi kêu van"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "cùng Ngài"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "khi tôi giơ lên"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tay tôi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "về phía"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "đền thờ"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "thánh của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:13.381073237Z",
+  "model": "glm-5.3"
+}

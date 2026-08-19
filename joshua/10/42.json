@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Và ⟨את⟩ tất cả các vua này cùng ⟨את⟩ đất của họ, Yehoshua đã chiếm lấy trong một lần, vì Yahweh Elohim của Yisrael chiến đấu cho Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả các vua này"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "các vua"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "này"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "đất của họ"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "đất của họ"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "đã chiếm lấy"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "lần"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "một"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "chiến đấu"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "cho Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T03:18:00.319546724Z",
+  "model": "glm-5.3"
+}

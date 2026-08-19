@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 85,
+  "translation": "Tình-covenant và sự chân-thật đã gặp nhau; sự công-bình và sự bình-an đã hôn nhau.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "tình-covenant"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "và sự chân-thật"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "đã gặp nhau"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sự công-bình"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "và sự bình-an"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "đã hôn nhau"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:14.834539646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 20:10",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Và Moshe và Aharon tập hợp ⟨את⟩ hội chúng trước mặt tảng đá, và ông nói với họ: Hãy nghe nay, hỡi những kẻ phản nghịch, phải chăng từ tảng đá này chúng tôi sẽ đem nước ra cho các ngươi?",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "và đã tập hợp"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "và Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hội chúng"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "hội chúng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "tảng đá"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và đã nói"
+    },
+    {
+      "surface": "להם",
+      "gloss": "với họ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hãy nghe"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nay"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "những kẻ phản nghịch"
+    },
+    {
+      "surface": "המן",
+      "gloss": "phải chăng từ"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "tảng đá"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "נוציא",
+      "gloss": "chúng tôi sẽ đem ra"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho các ngươi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    }
+  ],
+  "timestamp": "2026-08-19T02:58:59.679403644Z",
+  "model": "glm-5.3"
+}

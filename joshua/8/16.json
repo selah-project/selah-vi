@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 8:16",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và toàn thể dân sự trong thành được tập họp lại để đuổi theo họ; và họ đuổi theo Yehoshua, và bị lôi kéo ra khỏi thành.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "và được tập họp lại"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "trong thành"
+    },
+    {
+      "surface": "לרדף",
+      "gloss": "để đuổi theo"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "theo họ"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "và họ đuổi theo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "theo"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "וינתקו",
+      "gloss": "và bị lôi kéo ra"
+    },
+    {
+      "surface": "מן",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "thành"
+    }
+  ],
+  "timestamp": "2026-08-19T03:17:01.601185722Z",
+  "model": "glm-5.3"
+}

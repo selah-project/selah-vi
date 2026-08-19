@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Và ông nói: Con yêu mến Ngài, Yahweh, sức mạnh của con.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và ông nói"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "con yêu mến Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "sức mạnh của con"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:38.858258309Z",
+  "model": "glm-5.3"
+}

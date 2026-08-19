@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 8:2",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Hãy đem ⟨את⟩ Aharon và ⟨את⟩ các con trai ông ⟨את⟩ cùng với mình, cùng ⟨את⟩ các áo xống, ⟨את⟩ dầu xức, ⟨את⟩ con bò tơ của sinh tế chuộc tội, ⟨את⟩ hai con chiên đực, và ⟨את⟩ giỏ bánh không men.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "hãy đem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các con trai ông"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "các con trai ông"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ cùng với mình"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "cùng ⟨את⟩",
+      "marks": "các áo xống"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "các áo xống"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "dầu xức"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "dầu"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "xức"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con bò tơ"
+    },
+    {
+      "surface": "פר",
+      "gloss": "con bò tơ"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "của sự chuộc tội"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "hai con chiên đực"
+    },
+    {
+      "surface": "שני",
+      "gloss": "hai"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "con chiên đực"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "giỏ"
+    },
+    {
+      "surface": "סל",
+      "gloss": "giỏ"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "bánh không men"
+    }
+  ],
+  "timestamp": "2026-08-19T02:41:16.785576282Z",
+  "model": "glm-5.3"
+}

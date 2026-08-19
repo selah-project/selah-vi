@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Với hết lòng tôi, tôi đã tìm kiếm Ngài; xin đừng để tôi lạc xa khỏi các điều răn của Ngài.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "với hết"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "lòng tôi"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "tôi đã tìm kiếm Ngài"
+    },
+    {
+      "surface": "אל",
+      "gloss": "xin đừng"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "để tôi lạc"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "khỏi các điều răn của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:51.082754734Z",
+  "model": "glm-5.3"
+}

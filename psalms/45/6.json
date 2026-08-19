@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 45,
+  "translation": "Mũi tên của ngươi sắc bén — các dân ⟨sẽ⟩ ngã dưới chân ngươi — chúng cắm vào lòng kẻ thù của vua.",
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "mũi tên của ngươi"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "sắc bén"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "các dân"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "dưới ngươi"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "sẽ ngã"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "vào lòng"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "kẻ thù của"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:05.289325203Z",
+  "model": "glm-5.3"
+}

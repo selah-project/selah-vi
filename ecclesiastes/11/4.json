@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Kẻ canh gió sẽ không gieo, và kẻ nhìn các mây sẽ không gặt.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "kẻ canh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "gió"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "sẽ gieo"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "và kẻ nhìn"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "các mây"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "sẽ gặt"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:48.849915163Z",
+  "model": "glm-5.3"
+}

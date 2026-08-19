@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 37:14",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Kẻ ác đã rút gươm ra và giương cung của chúng, để hạ kẻ nghèo khó và người thiếu thốn, để giết người đi đường ngay thẳng.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "gươm"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "đã rút ra"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "và giương"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "cung của chúng"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "để hạ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kẻ nghèo khó"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "và người thiếu thốn"
+    },
+    {
+      "surface": "לטבוח",
+      "gloss": "để giết"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "người ngay thẳng"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "(trong) đường lối"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:06.241720678Z",
+  "model": "glm-5.3"
+}

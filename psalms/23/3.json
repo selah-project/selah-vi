@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "⟨Ngài⟩ làm cho linh hồn tôi được phục hồi; ⟨Ngài⟩ dẫn tôi trên lối ngay lẽ phải, vì cớ Danh Ngài.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "linh hồn tôi"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "được phục hồi"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "dẫn tôi"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "trên lối"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ngay lẽ phải"
+    },
+    {
+      "surface": "למען",
+      "gloss": "vì cớ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Danh Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:17.752946662Z",
+  "model": "glm-5.3"
+}

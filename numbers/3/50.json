@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Từ ⟨את⟩ các con trưởng nam của Yisrael, ⟨⟩người⟨⟩ lấy ⟨את⟩ số bạc: một nghìn ba trăm sáu mươi lăm, theo siếc-ken ⟨của⟩ nơi thánh.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "từ ⟨את⟩"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "con trưởng nam"
+    },
+    {
+      "surface": "בני",
+      "gloss": "các con của"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "số bạc"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "số bạc"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "năm"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "và sáu mươi"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "và ba"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "trăm"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "và một nghìn"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "theo siếc-ken"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "của nơi thánh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:52:14.916097060Z",
+  "model": "glm-5.3"
+}

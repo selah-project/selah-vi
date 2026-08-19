@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Vì ai là Eloah ngoài Yahweh? Và ai là Đá Vững ngoài Elohim của chúng tôi?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "ngoài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "và ai"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Đá Vững"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "ngoài"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim của chúng tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:33.761974205Z",
+  "model": "glm-5.3"
+}

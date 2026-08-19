@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Và ngươi hãy lấy ⟨את⟩ hai viên đá shoham, và khắc lên trên chúng các tên của con cái Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "và ngươi hãy lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hai viên đá shoham"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "hai"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "viên đá"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "và ngươi hãy khắc"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "trên chúng"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "các tên"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-19T02:34:48.018809849Z",
+  "model": "glm-5.3"
+}

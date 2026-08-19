@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Cho đốc ca, với đàn dây, thánh ca của David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "cho đốc ca"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "với đàn dây"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "thánh ca"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "của David"
+    }
+  ],
+  "timestamp": "2026-08-19T04:54:53.644803214Z",
+  "model": "glm-5.3"
+}

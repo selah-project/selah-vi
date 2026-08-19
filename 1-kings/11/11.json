@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 11:11",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và Yahweh phán với Shlomoh: Vì điều này đã xảy ra với ngươi, và ngươi không giữ giao ước Ta và luật lệ Ta, điều Ta đã truyền trên ngươi, chắc chắn Ta sẽ xé ⟨את⟩ vương quốc khỏi ngươi và ban nó cho tôi tớ ngươi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "với Shlomoh"
+    },
+    {
+      "surface": "יען",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "đã xảy ra"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "điều này"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "với ngươi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "ngươi đã giữ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "giao ước Ta"
+    },
+    {
+      "surface": "וחקתי",
+      "gloss": "và luật lệ Ta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "Ta đã truyền"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "trên ngươi"
+    },
+    {
+      "surface": "קרע",
+      "gloss": "chắc chắn xé"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "Ta sẽ xé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vương quốc"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "vương quốc"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "khỏi ngươi"
+    },
+    {
+      "surface": "ונתתיה",
+      "gloss": "và ban nó"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "cho tôi tớ ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:50:55.397016829Z",
+  "model": "glm-5.3"
+}

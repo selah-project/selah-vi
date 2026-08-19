@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 4:9",
+  "book": "ruth",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và Boaz nói với các trưởng lão và với toàn thể dân sự: Các ngươi là chứng nhân hôm nay, rằng tôi đã mua ⟨את⟩ tất cả những gì thuộc về Elimelech, và ⟨את⟩ tất cả những gì thuộc về Kilion và Machlon, từ tay Naomi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và-nói"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "לזקנים",
+      "gloss": "với-các-trưởng-lão"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và-toàn-thể"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân-sự"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "chứng-nhân"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "các-ngươi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hôm-nay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "tôi-đã-mua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả những gì thuộc về Elimelech"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất-cả"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "những-gì"
+    },
+    {
+      "surface": "לאלימלך",
+      "gloss": "thuộc-Elimelech"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và-⟨את⟩",
+      "marks": "tất cả những gì thuộc về Kilion và Machlon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất-cả"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "những-gì"
+    },
+    {
+      "surface": "לכליון",
+      "gloss": "thuộc-Kilion"
+    },
+    {
+      "surface": "ומחלון",
+      "gloss": "và-Machlon"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "từ-tay"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:30:47.344883835Z",
+  "model": "glm-5.3"
+}

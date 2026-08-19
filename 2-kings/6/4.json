@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và ngài đi ⟨את⟩ cùng họ, và họ đến đến sông Yarden, và chặt ⟨את⟩ các cây gỗ.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "và ngài đi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ cùng họ"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "và họ đến"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "đến sông Yarden"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "và chặt"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "các cây gỗ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:57:03.980269457Z",
+  "model": "glm-5.3"
+}

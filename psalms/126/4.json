@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 126,
+  "translation": "Xin quay lại ⟨את⟩ nỗi lưu đày của chúng tôi, hỡi Yahweh, như dòng suối trong vùng Negev.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "hãy quay lại"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nỗi lưu đày của chúng tôi"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "nỗi lưu đày của chúng tôi"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "như những dòng suối"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "trong vùng Negev"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:03.650514900Z",
+  "model": "glm-5.3"
+}

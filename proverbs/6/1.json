@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 6:1",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Hỡi con ta, nếu con đã làm bảo lãnh cho người bạn của con, đã đánh tay với người lạ,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "hỡi con ta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "ערבת",
+      "gloss": "con đã làm bảo lãnh"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "cho người bạn của con"
+    },
+    {
+      "surface": "תקעת",
+      "gloss": "con đã đánh"
+    },
+    {
+      "surface": "לזר",
+      "gloss": "với người lạ"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "bàn tay con"
+    }
+  ],
+  "timestamp": "2026-08-19T05:14:50.454531067Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 1:2",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và ông ⟨có⟩ hai vợ: tên một người ⟨là⟩ Channah, và tên người thứ hai ⟨là⟩ Peninnah; và Peninnah ⟨có⟩ con cái, còn Channah không có con cái.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "và cho ông"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "hai"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "người vợ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tên"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "một"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Channah"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "và tên"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "người thứ hai"
+    },
+    {
+      "surface": "פננה",
+      "gloss": "Peninnah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "và có"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "cho Peninnah"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ולחנה",
+      "gloss": "còn cho Channah"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "con cái"
+    }
+  ],
+  "timestamp": "2026-08-19T03:29:19.865302050Z",
+  "model": "glm-5.3"
+}

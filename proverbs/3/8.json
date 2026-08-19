@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 3:8",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Sự chữa lành sẽ đến cho rốn ngươi, và sự nhuần thấm cho xương ngươi.",
+  "tokens": [
+    {
+      "surface": "רפאות",
+      "gloss": "sự chữa lành"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "sẽ là"
+    },
+    {
+      "surface": "לשרך",
+      "gloss": "cho rốn ngươi"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "và sự nhuần thấm"
+    },
+    {
+      "surface": "לעצמותיך",
+      "gloss": "cho xương ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:57.088860009Z",
+  "model": "glm-5.3"
+}

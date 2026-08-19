@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 10:24",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Pharaoh gọi Moshe và nói: Hãy đi, hãy phụng sự ⟨את⟩ Yahweh; chỉ ⟨vậy⟩ chiên và bò của các ngươi phải ở lại; cả trẻ nhỏ của các ngươi cũng đi với các ngươi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "và gọi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaoh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cùng"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "hãy đi"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "hãy phụng sự"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רק",
+      "gloss": "chỉ"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "chiên các ngươi"
+    },
+    {
+      "surface": "ובקרכם",
+      "gloss": "và bò các ngươi"
+    },
+    {
+      "surface": "יצג",
+      "gloss": "phải ở lại"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cả"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "trẻ nhỏ các ngươi"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "cũng đi"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "với các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:30:03.325916007Z",
+  "model": "glm-5.3"
+}

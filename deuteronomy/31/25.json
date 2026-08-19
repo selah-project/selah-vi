@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Moshê đã truyền lệnh ⟨את⟩ các người Lêvi, những người khiêng hòm giao ước của Yahweh, rằng:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "đã truyền lệnh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các người Lêvi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "các người Lêvi"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "những người khiêng"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "hòm"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "giao ước"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:14:02.311698663Z",
+  "model": "glm-5.3"
+}

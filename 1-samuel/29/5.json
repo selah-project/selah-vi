@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 29:5",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Há chẳng phải đây là David, mà người ta đáp lại cho chàng trong các vũ điệu, rằng: Sha'ul đã đánh trong hàng nghìn của ông, còn David trong hàng vạn của chàng?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "há chẳng phải"
+    },
+    {
+      "surface": "זה",
+      "gloss": "đây"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "họ đáp lại"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho chàng"
+    },
+    {
+      "surface": "במחלות",
+      "gloss": "trong các vũ điệu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "đã đánh"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "באלפיו",
+      "gloss": "trong hàng nghìn của ông"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "còn David"
+    },
+    {
+      "surface": "ברבבתו",
+      "gloss": "trong hàng vạn của chàng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:38:28.517718830Z",
+  "model": "glm-5.3"
+}

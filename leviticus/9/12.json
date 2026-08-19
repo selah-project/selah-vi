@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 9:12",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Rồi ông giết ⟨את⟩ con sinh tế thiêu; các con trai của Aharon đem ⟨את⟩ máu đến cho ông, và ông hắt nó lên khắp xung quanh bàn thờ.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "rồi ông giết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con sinh tế thiêu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "con sinh tế thiêu"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "và đem đến"
+    },
+    {
+      "surface": "בני",
+      "gloss": "các con trai của"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "đến cho ông"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "máu"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "máu"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "và ông hắt nó"
+    },
+    {
+      "surface": "על",
+      "gloss": "lên"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "khắp xung quanh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:41:39.921288249Z",
+  "model": "glm-5.3"
+}

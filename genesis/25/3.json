@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Và Yokshan sinh ⟨את⟩ Sheva và ⟨את⟩ Dedan; còn con cái của Dedan ⟨là⟩ Ashurim và Letushim và Leummim.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "và Yokshan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Dedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "và con cái của"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "là"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "Ashurim"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "và Letushim"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "và Leummim"
+    }
+  ],
+  "timestamp": "2026-08-19T02:23:34.715503789Z",
+  "model": "glm-5.3"
+}

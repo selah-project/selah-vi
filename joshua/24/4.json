@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Và ta đã ban cho Yitschak ⟨את⟩ Yaakov và ⟨את⟩ Esav, và ta đã ban cho Esav ⟨את⟩ núi Seir làm sở hữu; còn Yaakov và các con trai ông thì xuống Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "và ta đã ban"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "cho Yitschak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "và ta đã ban"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "cho Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "núi Seir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "núi"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "để chiếm hữu"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ nó",
+      "marks": "nó (núi Seir)"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "còn Yaakov"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "và các con trai ông"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "đã xuống"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T03:22:19.354343218Z",
+  "model": "glm-5.3"
+}

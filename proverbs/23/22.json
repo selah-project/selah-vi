@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 23:22",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Hãy lắng nghe cha ngươi, ⟨người⟩ đã sinh ra ngươi; và chớ khinh miệt khi mẹ ngươi già yếu.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "hãy lắng nghe"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "cha ngươi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨người⟩"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "đã sinh ra ngươi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và chớ"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "khinh miệt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "khi"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "già yếu"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mẹ ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:18:17.844245712Z",
+  "model": "glm-5.3"
+}

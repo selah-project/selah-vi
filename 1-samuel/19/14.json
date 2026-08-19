@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Và Sha-ul sai các sứ giả đi bắt ⟨את⟩ David, bà nói: Ông ấy đang bệnh.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "và sai"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "các sứ giả"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "để bắt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "và bà nói"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "bệnh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ông ấy"
+    }
+  ],
+  "timestamp": "2026-08-19T03:34:56.420539377Z",
+  "model": "glm-5.3"
+}

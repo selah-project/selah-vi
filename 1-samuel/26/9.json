@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 26:9",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Và David nói với Avishai: Đừng hủy hoại hắn, vì ai đã giơ tay đến Đấng Meshíach của Yahweh mà ⟨sẽ⟩ được vô tội?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Avishai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תשחיתהו",
+      "gloss": "hủy hoại hắn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "đã giơ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tay ông"
+    },
+    {
+      "surface": "במשיח",
+      "gloss": "đến Đấng Meshíach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "và được vô tội"
+    }
+  ],
+  "timestamp": "2026-08-19T03:37:37.401750716Z",
+  "model": "glm-5.3"
+}

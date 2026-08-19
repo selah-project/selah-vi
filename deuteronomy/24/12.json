@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Và nếu người ấy là người nghèo, ngươi đừng nằm giữ đồ cầm của người ấy.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Và nếu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nghèo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "là"
+    },
+    {
+      "surface": "לא",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ngươi nằm giữ"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "đồ cầm của người ấy"
+    }
+  ],
+  "timestamp": "2026-08-19T03:10:57.927027078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 122,
+  "translation": "Vì cớ anh em tôi và bạn hữu tôi, tôi sẽ nói naw: sự bình an trong ngươi.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "vì cớ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "anh em tôi"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "và bạn hữu tôi"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "tôi sẽ nói"
+    },
+    {
+      "surface": "נא",
+      "gloss": "naw"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sự bình an"
+    },
+    {
+      "surface": "בך",
+      "gloss": "trong ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:44.557341047Z",
+  "model": "glm-5.3"
+}

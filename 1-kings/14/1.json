@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Vào lúc đó, Aviyah con trai của Yarov'am bị bệnh.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "vào lúc"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "đó"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "bị bệnh"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Aviyah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai của"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarov'am"
+    }
+  ],
+  "timestamp": "2026-08-19T03:51:55.755627836Z",
+  "model": "glm-5.3"
+}

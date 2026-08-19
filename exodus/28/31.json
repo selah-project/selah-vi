@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Và ngươi sẽ làm ⟨את⟩ áo choàng của ha-ephod toàn là màu xanh tím.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "và ngươi sẽ làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "áo choàng"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "áo choàng"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "của ha-ephod"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "toàn là"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "màu xanh tím"
+    }
+  ],
+  "timestamp": "2026-08-19T02:35:29.037417662Z",
+  "model": "glm-5.3"
+}

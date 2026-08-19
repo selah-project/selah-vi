@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 19:5",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Và người ta sẽ thiêu con bê cái ⟨את⟩ trước mắt ông — ⟨את⟩ da của nó, và ⟨את⟩ thịt của nó, và ⟨את⟩ máu của nó; cùng với phân của nó, người ta sẽ thiêu.",
+  "tokens": [
+    {
+      "surface": "ושרף",
+      "gloss": "và sẽ thiêu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con bê cái"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "con bê cái"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "trước mắt ông"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "da của nó"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "da của nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "thịt của nó"
+    },
+    {
+      "surface": "בשרה",
+      "gloss": "thịt của nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "máu của nó"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "máu của nó"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên \/ cùng với"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "phân của nó"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "sẽ thiêu"
+    }
+  ],
+  "timestamp": "2026-08-19T02:58:44.919688782Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 14:21",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Vua Sedom nói với Avram: Hãy giao cho tôi ⟨את⟩ các mạng sống, còn ⟨את⟩ tài sản thì hãy lấy cho ngươi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "תן",
+      "gloss": "hãy giao"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "⟨את⟩ các mạng sống",
+      "marks": "các mạng sống"
+    },
+    {
+      "surface": "והרכש",
+      "gloss": "còn tài sản",
+      "marks": "tài sản"
+    },
+    {
+      "surface": "קח",
+      "gloss": "hãy lấy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:03:29.224709830Z",
+  "model": "glm-5.3"
+}

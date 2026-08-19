@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Và người Philistine đã lấy ⟨את⟩ aron của ha-Elohim, đã đem nó vào ⟨את⟩ nhà của Dagon, và đã đặt nó ở ⟨את⟩ bên cạnh Dagon.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "và đã lấy"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "người Philistine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aron — chiếc rương"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "của ha-Elohim"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "và đã đem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nó",
+      "marks": "nó (aron)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "của Dagon"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "và đã đặt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nó",
+      "marks": "nó (aron)"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "bên cạnh"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    }
+  ],
+  "timestamp": "2026-08-19T03:30:41.325916521Z",
+  "model": "glm-5.3"
+}

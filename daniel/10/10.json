@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 10:10",
+  "book": "daniel",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Và kìa, một bàn tay chạm vào tôi, và nó làm tôi rung đặt trên đầu gối mình và trên lòng bàn tay mình.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "và kìa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "bàn tay"
+    },
+    {
+      "surface": "נגעה",
+      "gloss": "chạm"
+    },
+    {
+      "surface": "בי",
+      "gloss": "vào tôi"
+    },
+    {
+      "surface": "ותניעני",
+      "gloss": "và nó làm tôi rung"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "đầu gối mình"
+    },
+    {
+      "surface": "וכפות",
+      "gloss": "và lòng bàn tay"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "của tay mình"
+    }
+  ],
+  "timestamp": "2026-08-19T05:38:37.109111096Z",
+  "model": "glm-5.3"
+}

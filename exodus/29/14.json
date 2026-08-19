@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 29:14",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Còn ⟨את⟩ thịt con bò, và ⟨את⟩ da nó, và ⟨את⟩ phẩn nó, ngươi sẽ đốt trong lửa, ở ngoài trại — nó là lễ chuộc tội.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "còn ⟨את⟩",
+      "marks": "thịt con bò"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "thịt"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "con bò"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "da nó"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "da nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "phẩn nó"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "phẩn nó"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "ngươi sẽ đốt"
+    },
+    {
+      "surface": "באש",
+      "gloss": "trong lửa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ở ngoài"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "trại"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "lễ chuộc tội"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó là"
+    }
+  ],
+  "timestamp": "2026-08-19T02:35:34.790744276Z",
+  "model": "glm-5.3"
+}

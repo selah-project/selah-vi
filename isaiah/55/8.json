@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 55,
+  "translation": "Vì suy tưởng của Ta không ⟨là⟩ suy tưởng của các ngươi, và đường lối của các ngươi không ⟨là⟩ đường lối của Ta, sấm phán của Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "suy tưởng của Ta"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "suy tưởng của các ngươi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "đường lối của các ngươi"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "đường lối của Ta"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sấm phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "của Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T04:14:09.831293673Z",
+  "model": "glm-5.3"
+}

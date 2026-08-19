@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 8:16",
+  "book": "daniel",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và tôi nghe tiếng của một người ở giữa Ulai, và người kêu lên và phán: Gavriel, hãy làm cho kẻ này hiểu ⟨את⟩ khải tượng.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "và tôi nghe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tiếng"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "của một người"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ở giữa"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "Ulai"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "và kêu lên"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và phán"
+    },
+    {
+      "surface": "גבריאל",
+      "gloss": "Gavriel"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "hãy làm hiểu"
+    },
+    {
+      "surface": "להלז",
+      "gloss": "cho kẻ này"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khải tượng"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "khải tượng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:38:37.443096103Z",
+  "model": "glm-5.3"
+}

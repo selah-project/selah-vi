@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Vua Yisrael ra đi, đánh ⟨את⟩ ngựa và ⟨את⟩ xe chiến, và giáng vào Aram một đòn đánh lớn.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ra đi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "đánh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngựa"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "ngựa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "xe chiến"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "xe chiến"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "giáng đòn"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "vào Aram"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "đòn đánh"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "lớn"
+    }
+  ],
+  "timestamp": "2026-08-19T06:10:32.368942142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 104,
+  "translation": "⟨Đấng⟩ đoái nhìn đất, và đất run rẩy; ⟨Ngài⟩ chạm đến núi non, và chúng bốc khói.",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "Đấng đoái nhìn"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "đến đất"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "và đất run rẩy"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "chạm đến"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "núi non"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "và chúng bốc khói"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:30.340676893Z",
+  "model": "glm-5.3"
+}

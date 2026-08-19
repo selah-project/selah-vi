@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 22:7",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Nếu kẻ trộm không bị tìm thấy, thì chủ nhà sẽ được đưa đến gần Elohim, xem ⟨hắn⟩ có giơ tay mình đến công việc của người thân ⟨mình⟩ hay không.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "bị tìm thấy"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "kẻ trộm"
+    },
+    {
+      "surface": "ונקרב",
+      "gloss": "và được đưa đến gần"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "chủ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "có... hay không"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "giơ ra"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tay mình"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "đến công việc"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "của người thân mình"
+    }
+  ],
+  "timestamp": "2026-08-19T02:33:57.652556292Z",
+  "model": "glm-5.3"
+}

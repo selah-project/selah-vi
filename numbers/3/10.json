@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Còn ⟨את⟩ Aharon và ⟨את⟩ con trai ông, ngươi sẽ bổ nhiệm, và họ sẽ gìn giữ ⟨את⟩ chức tế lễ của mình; người ngoài đến gần sẽ bị xử tử.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Và ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con trai ông"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "con trai ông"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "ngươi sẽ bổ nhiệm"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "và họ sẽ gìn giữ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chức tế lễ của họ"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "chức tế lễ của họ"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "và người ngoài"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "kẻ đến gần"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "sẽ bị xử tử"
+    }
+  ],
+  "timestamp": "2026-08-19T02:52:39.774895773Z",
+  "model": "glm-5.3"
+}

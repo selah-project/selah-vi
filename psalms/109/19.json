@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 109:19",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 109,
+  "translation": "Nguyện nó thành cho ⟨anh ta⟩ như áo che ⟨mình⟩, và như đai lưng ⟨anh ta⟩ thắt luôn luôn.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "nguyện nó thành"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho anh ta"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "như áo"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "mình che"
+    },
+    {
+      "surface": "ולמזח",
+      "gloss": "và như đai lưng"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "luôn luôn"
+    },
+    {
+      "surface": "יחגרה",
+      "gloss": "anh ta thắt nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:53.769192222Z",
+  "model": "glm-5.3"
+}

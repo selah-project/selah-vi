@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 121,
+  "translation": "Bài hát ⟨của⟩ các bước lên. Tôi nâng mắt mình về ⟨các⟩ núi non — từ nơi nào sự giúp đỡ tôi sẽ đến?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Bài hát"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "các bước lên"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "tôi nâng"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mắt mình"
+    },
+    {
+      "surface": "אל",
+      "gloss": "về"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "các núi non"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "từ nơi nào"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "sẽ đến"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "sự giúp đỡ tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:30.732803131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 7:8",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Mắt kẻ nhìn tôi sẽ không thấy tôi nữa; mắt ngài hướng về tôi, và tôi không còn.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תשורני",
+      "gloss": "thấy tôi"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mắt"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "kẻ nhìn tôi"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "mắt ngài"
+    },
+    {
+      "surface": "בי",
+      "gloss": "về tôi"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "và tôi không còn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:21:38.067802121Z",
+  "model": "glm-5.3"
+}

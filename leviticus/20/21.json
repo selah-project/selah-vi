@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 20:21",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Và một người mà lấy ⟨את⟩ vợ của anh mình — đó là sự ô uế; ⟨hắn⟩ đã phơi bày sự trần trụi của anh mình; chúng nó sẽ không con cái.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "và một người"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vợ của anh mình"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vợ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "của anh mình"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "sự ô uế"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "đó là"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "sự trần trụi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "của anh mình"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "đã phơi bày"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "không con cái"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "chúng sẽ là"
+    }
+  ],
+  "timestamp": "2026-08-19T02:46:51.793828454Z",
+  "model": "glm-5.3"
+}

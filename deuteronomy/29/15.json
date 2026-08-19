@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Vì các ngươi đã biết ⟨את⟩ điều chúng ta đã ở trong đất Mitzrayim, và ⟨את⟩ điều chúng ta đã đi qua giữa lòng các dân tộc mà các ngươi đã đi qua",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "các ngươi"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "đã biết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "điều chúng ta đã ở trong đất Mitzrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "điều mà"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "chúng ta đã ở"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trong đất"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "điều chúng ta đã đi qua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "điều mà"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "chúng ta đã đi qua"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "giữa lòng"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "các dân tộc"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "các ngươi đã đi qua"
+    }
+  ],
+  "timestamp": "2026-08-19T03:12:47.327965192Z",
+  "model": "glm-5.3"
+}

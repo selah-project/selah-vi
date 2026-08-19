@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 32:8",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Cha ông các ngươi đã làm như vậy, khi ta sai ⟨אתם⟩ chúng nó từ Kadesh-Barnea đi để\/do thám ⟨את⟩ đất.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "như vậy"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "cha ông các ngươi"
+    },
+    {
+      "surface": "בשלחי",
+      "gloss": "khi ta sai"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chúng nó (các thám tử)"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "từ Kadesh"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "đi xem\/do thám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đất"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T03:02:58.053563537Z",
+  "model": "glm-5.3"
+}

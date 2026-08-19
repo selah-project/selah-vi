@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 11:3",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và Yahweh ban ⟨את⟩ ơn của dân sự trước mắt người Mitzrayim; cũng người Moshe rất lớn trong đất Mitzrayim, trước mắt các tôi tớ của Paroh và trước mắt của dân sự.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "và ban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ơn của dân sự"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ơn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "của dân sự"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "trước mắt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "người Mitzrayim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cũng"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "người"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "rất lớn"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "vô cùng"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trong đất"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "trước mắt"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "các tôi tớ của"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "và trước mắt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    }
+  ],
+  "timestamp": "2026-08-19T02:30:23.134500714Z",
+  "model": "glm-5.3"
+}

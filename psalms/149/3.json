@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 149,
+  "translation": "Hãy ngợi kợi danh của Ngài trong vòng múa, với trống con và đàn cầm hãy gảy đàn ca cho Ngài.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "hãy ngợi kợi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "danh của Ngài"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "trong vòng múa"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "với trống con"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "và đàn cầm"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "hãy gảy đàn ca"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:22.918999589Z",
+  "model": "glm-5.3"
+}

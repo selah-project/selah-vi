@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và xảy ra vào cuối bốn mươi ngày, Noach mở ⟨את⟩ cửa sổ của chiếc tàu mà ông đã làm.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Và xảy ra"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "vào cuối"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "bốn mươi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "ông mở"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cửa sổ"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "cửa sổ"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "của chiếc tàu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ông đã làm"
+    }
+  ],
+  "timestamp": "2026-08-19T00:52:55.105262319Z",
+  "model": "glm-5.3"
+}

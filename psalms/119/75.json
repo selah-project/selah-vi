@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Con biết, Yahweh, rằng các phán quyết của Ngài là công bình, và trong sự thành tín Ngài đã làm con khổ.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "con biết"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "công bình"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "các phán quyết của Ngài"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "và trong sự thành tín"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "Ngài đã làm con khổ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:57.187922875Z",
+  "model": "glm-5.3"
+}

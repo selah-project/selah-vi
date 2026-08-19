@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 97,
+  "translation": "Hỡi những kẻ yêu mến Yahweh, hãy ghét điều ác; Ngài gìn giữ các linh hồn của các tín đồ trung tín Ngài, cứu họ khỏi tay kẻ ác.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "những kẻ yêu mến"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "hãy ghét"
+    },
+    {
+      "surface": "רע",
+      "gloss": "điều ác"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "gìn giữ"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "các linh hồn"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "các tín đồ trung tín của Ngài"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "khỏi tay"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "cứu họ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:20.313012270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Còn tôi, trong sự tinh toàn tôi sẽ đi; xin cứu chuộc tôi và ban ơn cho tôi.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "còn tôi"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "trong sự tinh toàn"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "tôi sẽ đi"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "xin cứu chuộc tôi"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "và ban ơn cho tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:33.150532704Z",
+  "model": "glm-5.3"
+}

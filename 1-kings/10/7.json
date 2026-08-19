@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 10:7",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Tôi đã không tin các-lời cho đến khi tôi đến, và mắt tôi đã thấy, và nầy, một-nửa đã không được kể cho tôi — ngài đã thêm khôn-ngoan và phước lành cho điều tai-nghe mà tôi đã nghe",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "tôi đã tin"
+    },
+    {
+      "surface": "לדברים",
+      "gloss": "các-lời"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến khi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "tôi đến"
+    },
+    {
+      "surface": "ותראינה",
+      "gloss": "và đã thấy"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mắt tôi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "và nầy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "được kể"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "một-nửa"
+    },
+    {
+      "surface": "הוספת",
+      "gloss": "ngài đã thêm"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "khôn-ngoan"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "và phước-lành"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cho"
+    },
+    {
+      "surface": "השמועה",
+      "gloss": "điều tai-nghe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "tôi đã nghe"
+    }
+  ],
+  "timestamp": "2026-08-19T03:50:22.716128491Z",
+  "model": "glm-5.3"
+}

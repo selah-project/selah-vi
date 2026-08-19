@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 56,
+  "translation": "Những kẻ thù nghịch tôi thở dốc muốn nuốt tôi suốt ngày, vì đông đúc kẻ đánh nhau với tôi từ nơi cao.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "thở dốc muốn nuốt"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "những kẻ thù nghịch tôi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "suốt"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "đông đúc"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "kẻ đánh nhau"
+    },
+    {
+      "surface": "לי",
+      "gloss": "với tôi"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "từ nơi cao"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:50.994153497Z",
+  "model": "glm-5.3"
+}

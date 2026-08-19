@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Yahweh, Elohim của các tổ phụ các ngươi, xin thêm cho các ngài ⟨như⟩ các ngươi đang có, gấp ngàn lần, và ban phước cho ⟨את⟩ các ngươi, như Ngài đã phán với các ngươi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "các tổ phụ các ngươi"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "xin thêm"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "cho các ngươi"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "như các ngươi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ngàn"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "lần"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "và ban phước"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "đã phán"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "với các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:05:52.056699645Z",
+  "model": "glm-5.3"
+}

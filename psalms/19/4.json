@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Không có lời nói và không có ngôn từ, không được nghe tiếng của chúng.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "lời nói"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "và không có"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ngôn từ"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "không"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "được nghe"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "tiếng của chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:08.106668158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 42,
+  "translation": "Tôi sẽ nói với El, Đá của tôi: Sao Ngài đã quên tôi? Sao tôi đi u sầu dưới sự áp bức của kẻ thù?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "tôi sẽ nói"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "với El"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "Đá của tôi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "sao"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "Ngài đã quên tôi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "sao"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "u sầu"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "tôi đi"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "dưới sự áp bức"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "của kẻ thù"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:59.163695508Z",
+  "model": "glm-5.3"
+}

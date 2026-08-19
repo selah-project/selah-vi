@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 22:18",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Ngài giải cứu tôi khỏi kẻ thù của tôi hùng mạnh, khỏi những kẻ ghét tôi, vì chúng đã mạnh hơn tôi.",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "Ngài giải cứu tôi"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "khỏi kẻ thù của tôi"
+    },
+    {
+      "surface": "עז",
+      "gloss": "hùng mạnh"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "khỏi những kẻ ghét tôi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "chúng đã mạnh"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "hơn tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:44:53.222398265Z",
+  "model": "glm-5.3"
+}

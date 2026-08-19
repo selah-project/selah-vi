@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 147,
+  "translation": "Ngài sai phán lời của Ngài ra thì chúng tan chảy; Ngài thổi gió của Ngài, các dòng nước chảy.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "sai phán"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "lời của Ngài"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "thì chúng tan chảy"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "Ngài thổi"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "gió của Ngài"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "chảy"
+    },
+    {
+      "surface": "מים",
+      "gloss": "các dòng nước"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:31.356108717Z",
+  "model": "glm-5.3"
+}

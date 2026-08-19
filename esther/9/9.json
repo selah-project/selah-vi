@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 9:9",
+  "book": "esther",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "và ⟨את⟩ Parmashta, và ⟨את⟩ Arisai, và ⟨את⟩ Aridai, và ⟨את⟩ Vayezata.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Parmashta"
+    },
+    {
+      "surface": "פרמשתא",
+      "gloss": "Parmashta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Arisai"
+    },
+    {
+      "surface": "אריסי",
+      "gloss": "Arisai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Aridai"
+    },
+    {
+      "surface": "ארדי",
+      "gloss": "Aridai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Vayezata"
+    },
+    {
+      "surface": "ויזתא",
+      "gloss": "Vayezata"
+    }
+  ],
+  "timestamp": "2026-08-19T05:35:42.983788744Z",
+  "model": "glm-5.3"
+}

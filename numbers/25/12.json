@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Vì vậy, hãy nói: Này, Ta ban cho hắn ⟨את⟩ giao ước của Ta — sự bình an.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "vì vậy"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hãy nói"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "này, Ta"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ban"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho hắn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "giao ước của Ta"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "giao ước của Ta"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sự bình an"
+    }
+  ],
+  "timestamp": "2026-08-19T06:05:28.963322363Z",
+  "model": "glm-5.3"
+}

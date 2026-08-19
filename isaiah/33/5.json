@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 33:5",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 33,
+  "translation": "Đấng Cao Cấp là Yahweh, vì ⟨Ngài⟩ ngự nơi cao nhất; Ngài đã làm đầy Tsiyon bằng sự công phán và sự công chính.",
+  "tokens": [
+    {
+      "surface": "נשגב",
+      "gloss": "được tôn cao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ngự"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "nơi cao nhất"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "làm đầy"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sự công phán"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "và sự công chính"
+    }
+  ],
+  "timestamp": "2026-08-19T04:09:22.561985412Z",
+  "model": "glm-5.3"
+}

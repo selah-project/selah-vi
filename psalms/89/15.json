@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 89,
+  "translation": "Công lý và phán xét ⟨là⟩ nền của ngai Ngài; sự nhân từ và chân thật đi trước nhan Ngài.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "công lý"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "và phán xét"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "nền"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "của ngai Ngài"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "sự nhân từ"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "và chân thật"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "đi trước"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nhan Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:29.841184572Z",
+  "model": "glm-5.3"
+}

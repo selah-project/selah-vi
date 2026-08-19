@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 102,
+  "translation": "Ngài đã làm suy yếu sức lực tôi trên con đường, Ngài đã rút ngắn các ngày của tôi.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Ngài đã làm suy yếu"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "trên con đường"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "sức lực của"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "đã rút ngắn"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "các ngày của tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:58.821859336Z",
+  "model": "glm-5.3"
+}

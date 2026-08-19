@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 120,
+  "translation": "Cái gì sẽ ⟨được⟩ ban cho ngươi, và cái gì sẽ ⟨được⟩ thêm cho ngươi, hỡi lưỡi lừa gạt?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "cái gì"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "sẽ ban"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngươi"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "và cái gì"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "sẽ thêm"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngươi"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lưỡi"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "lừa gạt"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:36.787631328Z",
+  "model": "glm-5.3"
+}

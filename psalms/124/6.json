@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 124:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 124,
+  "translation": "Đáng chúc tụng Yahweh, Đấng đã không giao chúng ta làm con mồi cho răng ⟨của⟩ chúng nó.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "đáng chúc tụng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "đã không"
+    },
+    {
+      "surface": "נתננו",
+      "gloss": "giao chúng ta"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "làm con mồi"
+    },
+    {
+      "surface": "לשניהם",
+      "gloss": "cho răng chúng nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:59.400965756Z",
+  "model": "glm-5.3"
+}

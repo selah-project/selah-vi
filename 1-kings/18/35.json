@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Và nước chảy quanh bàn thờ, và ⟨את⟩ mương rãnh cũng đầy nước.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "và chảy đi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "quanh"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "và cả"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mương rãnh"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "mương rãnh"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "đầy"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    }
+  ],
+  "timestamp": "2026-08-19T03:53:44.935570822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Ngày qua ngày tuôn trào lời nói, và đêm qua đêm bày tỏ sự hiểu biết.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "qua ngày"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "tuôn trào"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "lời nói"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "và đêm"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "qua đêm"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "bày tỏ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "sự hiểu biết"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:08.106513767Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 14:16",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Vì vua sẽ nghe, để cứu ⟨את⟩ tớ nữ ông khỏi tay người kia, kẻ muốn tiêu diệt ⟨את⟩ tôi và ⟨את⟩ con tôi khỏi cơ nghiệp của Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "sẽ nghe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "để cứu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tớ nữ ông"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "tớ nữ ông"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "khỏi tay"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "người kia"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "muốn tiêu diệt"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ tôi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con tôi"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "cùng nhau"
+    },
+    {
+      "surface": "מנחלת",
+      "gloss": "khỏi cơ nghiệp"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T03:42:13.555606228Z",
+  "model": "glm-5.3"
+}

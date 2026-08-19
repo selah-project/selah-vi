@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 14:5",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Và người ta báo cho vua Mitsrajim rằng dân sự đã trốn chạy, thì lòng của Paroh và các tôi tớ ông trở lại với dân sự, và họ nói: Điều này chúng ta đã làm gì, mà đã thả ⟨את⟩ Yisrael ra khỏi việc phục dịch chúng ta?",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "và người ta báo"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "cho vua"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "đã trốn chạy"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "và đã trở lại"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "lòng"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "của Paroh"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "và các tôi tớ ông"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "và họ nói"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "điều này"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "chúng ta đã làm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mà"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "chúng ta đã thả"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מעבדנו",
+      "gloss": "khỏi việc phục dịch chúng ta"
+    }
+  ],
+  "timestamp": "2026-08-19T02:30:55.984806713Z",
+  "model": "glm-5.3"
+}

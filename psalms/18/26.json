@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Với người nhân từ, Ngài tỏ mình nhân từ; với người trọn vẹn, Ngài tỏ mình trọn vẹn.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "với"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "người nhân từ"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "tỏ mình nhân từ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "với"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "người"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "trọn vẹn"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "tỏ mình trọn vẹn"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:38.433535987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Yahweh ôi, hãy nhớ điều gì ⟨đã⟩ xảy đến cho chúng con; hãy ngắm nhìn và xem ⟨את⟩ sự sỉ nhục của chúng con.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "hãy nhớ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "điều gì"
+    },
+    {
+      "surface": "היה",
+      "gloss": "đã xảy ra"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "cho chúng con"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "hãy ngắm nhìn"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "và hãy xem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sự sỉ nhục của chúng con"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "sự sỉ nhục của chúng con"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:04.320730253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Moshe thấy ⟨את⟩ dân sự rằng ⟨họ⟩ lỏng lẻo, vì Aharon đã buông lỏng ⟨họ⟩ thành điều sỉ nhục giữa những kẻ chống đối họ.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "đã thấy"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân sự"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "lỏng lẻo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨họ⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "đã buông lỏng"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "thành điều sỉ nhục"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "giữa những kẻ chống đối họ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:37:14.517890717Z",
+  "model": "glm-5.3"
+}

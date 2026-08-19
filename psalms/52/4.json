@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 52,
+  "translation": "Lưỡi ngươi mưu tính sự hủy hoại, như dao cạo mài sắc, làm ⟨kẻ⟩ dối trá.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "sự hủy hoại"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "mưu tính"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "lưỡi ngươi"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "như dao cạo"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "mài sắc"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "làm"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "dối trá"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:34.693778966Z",
+  "model": "glm-5.3"
+}

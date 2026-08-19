@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Hãy làm cho ngươi một chiếc thùng bằng gỗ gopher; bằng các khoang ngươi hãy làm ⟨את⟩ chiếc thùng, và ngươi hãy trát ⟨את⟩ nó bằng hắc-in bên trong và bên ngoài.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "hãy làm"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngươi"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "chiếc thùng"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "bằng gỗ"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "gopher"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "các khoang"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ngươi hãy làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiếc thùng"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "chiếc thùng"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "và ngươi hãy trát"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nó (bằng hắc-in bên trong)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "bên trong"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "và bên ngoài"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "bằng hắc-in"
+    }
+  ],
+  "timestamp": "2026-08-19T02:23:41.195677627Z",
+  "model": "glm-5.3"
+}

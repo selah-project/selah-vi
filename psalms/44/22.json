@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Há Elohim không thấu khảo điều này? Vì ⟨את⟩… vì chính Ngài biết ⟨các⟩ điều kín ẩn của lòng.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "há… không"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "thấu khảo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "điều này"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chính Ngài"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "biết"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "các điều kín ẩn"
+    },
+    {
+      "surface": "לב",
+      "gloss": "của lòng"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:02.440664247Z",
+  "model": "glm-5.3"
+}

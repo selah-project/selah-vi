@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 3:7",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Một thì xé rách, và một thì khâu lại; một thì im lặng, và một thì lên tiếng.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "một thì"
+    },
+    {
+      "surface": "לקרוע",
+      "gloss": "xé rách"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "và một thì"
+    },
+    {
+      "surface": "לתפור",
+      "gloss": "khâu lại"
+    },
+    {
+      "surface": "עת",
+      "gloss": "một thì"
+    },
+    {
+      "surface": "לחשות",
+      "gloss": "im lặng"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "và một thì"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "lên tiếng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:17.252839747Z",
+  "model": "glm-5.3"
+}

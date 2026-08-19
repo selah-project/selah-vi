@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 37:35",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Tôi đã thấy kẻ ác hung bạo, và nó vươn mình như cây bản địa xanh tươi.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "tôi-đã-thấy"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kẻ-ác"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "hung-bạo"
+    },
+    {
+      "surface": "ומתערה",
+      "gloss": "và-nó-vươn-mình"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "như-cây-bản-địa"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "xanh-tươi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:27.115626673Z",
+  "model": "glm-5.3"
+}

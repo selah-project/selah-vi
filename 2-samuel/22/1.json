@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Đavid nói cùng Yahweh ⟨את⟩ lời của bài ca này, vào ngày Yahweh đã cứu ⟨את⟩ ông khỏi tay mọi kẻ thù của ông và khỏi tay Shaúl.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "nói cùng"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Đavid"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "cùng Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lời của bài ca này"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "lời"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "bài ca"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "này"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "vào ngày"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "đã cứu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ông",
+      "marks": "ông (Đavid)"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "khỏi tay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "kẻ thù của ông"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "và khỏi tay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    }
+  ],
+  "timestamp": "2026-08-19T03:44:49.277097052Z",
+  "model": "glm-5.3"
+}

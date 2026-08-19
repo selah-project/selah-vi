@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 2:6",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và ⟨nàng⟩ mở ra và thấy ⟨את⟩ đứa trẻ, và kìa, một bé trai đang khóc; và ⟨nàng⟩ thương xót nó, và nói: Từ con cái của người Hípri nầy.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "và-nàng-mở"
+    },
+    {
+      "surface": "ותראהו",
+      "gloss": "và-nàng-thấy-nó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đứa trẻ"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "đứa trẻ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "và-kìa"
+    },
+    {
+      "surface": "נער",
+      "gloss": "bé trai"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "đang-khóc"
+    },
+    {
+      "surface": "ותחמל",
+      "gloss": "và-nàng-thương-xót"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "trên-nó"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "và-nàng-nói"
+    },
+    {
+      "surface": "מילדי",
+      "gloss": "từ-con-cái"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "của-người-Hípri"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nầy"
+    }
+  ],
+  "timestamp": "2026-08-19T02:27:30.125452888Z",
+  "model": "glm-5.3"
+}

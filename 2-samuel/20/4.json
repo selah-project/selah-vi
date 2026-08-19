@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Và vua nói với Amasa: Hãy triệu tập cho ta ⟨את⟩ người Yehuda trong ba ngày, rồi ngươi hãy đứng tại đây.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "hãy triệu tập"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người Yehuda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "rồi ngươi"
+    },
+    {
+      "surface": "פה",
+      "gloss": "tại đây"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "hãy đứng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:44:52.317656316Z",
+  "model": "glm-5.3"
+}

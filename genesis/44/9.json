@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 44:9",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Kẻ nào trong số tôi tớ của ngài mà nó được tìm thấy ⟨אתו⟩ thì nó sẽ chết, và cả chúng tôi nữa sẽ trở thành nô lệ cho chúa của ngài.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kẻ nào"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "được tìm thấy"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "nó (vật bị tìm thấy)"
+    },
+    {
+      "surface": "מעבדיך",
+      "gloss": "trong số tôi tớ của ngài"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "thì nó sẽ chết"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "và cả"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "chúng tôi"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "sẽ trở thành"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "cho chúa của ngài"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "làm nô lệ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:25:11.598913017Z",
+  "model": "glm-5.3"
+}

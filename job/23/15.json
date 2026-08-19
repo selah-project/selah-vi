@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 23:15",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Vì cớ đó, trước mặt Ngài tôi kinh hoảng; tôi suy gẫy, và tôi sợ hãi vì Ngài.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "vì cớ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "đó"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "trước mặt Ngài"
+    },
+    {
+      "surface": "אבהל",
+      "gloss": "tôi kinh hoảng"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "tôi suy gẫy"
+    },
+    {
+      "surface": "ואפחד",
+      "gloss": "và tôi sợ hãi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "vì Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:24:22.852701540Z",
+  "model": "glm-5.3"
+}

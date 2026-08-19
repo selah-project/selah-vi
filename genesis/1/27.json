@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và Elohim sáng tạo ⟨את⟩ con người theo hình ảnh Ngài; theo hình ảnh Elohim Ngài đã sáng tạo ⟨אתו⟩; nam và nữ Ngài đã sáng tạo ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "và sáng tạo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con người"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "con người"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "theo hình ảnh Ngài"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "theo hình ảnh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "đã sáng tạo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "hắn"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nam"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "và nữ"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "đã sáng tạo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T00:47:11.380315969Z",
+  "model": "glm-5.3"
+}

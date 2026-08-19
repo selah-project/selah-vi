@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Các ngươi hãy giữ các điều răn của Ta và làm ⟨את⟩ chúng: Ta là Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "các ngươi hãy giữ"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "các điều răn của Ta"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "và làm"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chúng (các điều răn)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:46:37.056863797Z",
+  "model": "glm-5.3"
+}

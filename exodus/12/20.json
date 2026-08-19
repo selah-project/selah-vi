@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Mọi điều có men, các ngươi đừng ăn; trong mọi nơi các ngươi ở, các ngươi hãy ăn bánh không men.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "điều có men"
+    },
+    {
+      "surface": "לא",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "các ngươi ăn"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "trong mọi"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "nơi các ngươi ở"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "các ngươi hãy ăn"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "bánh không men"
+    }
+  ],
+  "timestamp": "2026-08-19T02:30:29.634260904Z",
+  "model": "glm-5.3"
+}

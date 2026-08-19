@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Bị rủa sả ⟨là⟩ ngươi trong thành, và bị rủa sả ⟨là⟩ ngươi ngoài đồng.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "bị rủa sả"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "trong thành"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "và bị rủa sả"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ngoài đồng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:12:07.076448505Z",
+  "model": "glm-5.3"
+}

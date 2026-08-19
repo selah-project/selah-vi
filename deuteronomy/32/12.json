@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Yahweh một mình hướng dẫn hắn, và không có với hắn thần nào ngoại bang.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "một mình (riêng biệt)"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "hướng dẫn hắn"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "và không có"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "với hắn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "thần"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ngoại bang"
+    }
+  ],
+  "timestamp": "2026-08-19T03:13:51.230231466Z",
+  "model": "glm-5.3"
+}

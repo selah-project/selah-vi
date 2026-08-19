@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Họ mang ra ⟨את⟩ các trụ thần của đền Baal và đốt chúng.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "và mang ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các trụ thần"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "các trụ thần"
+    },
+    {
+      "surface": "בית",
+      "gloss": "đền"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "của Baal"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "và đốt chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:58:27.011431871Z",
+  "model": "glm-5.3"
+}

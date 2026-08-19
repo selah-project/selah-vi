@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 14:40",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Và vị tư tế sẽ truyền lệnh, và họ sẽ rút ra ⟨את⟩ những viên đá mà trong chúng có vết thương, và họ sẽ ném ⟨את⟩ chúng ra ngoài thành, đến một nơi ô uế.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "và sẽ truyền lệnh"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "vị tư tế"
+    },
+    {
+      "surface": "וחלצו",
+      "gloss": "và họ sẽ rút ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "những viên đá"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "những viên đá"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "trong chúng"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "vết thương"
+    },
+    {
+      "surface": "והשליכו",
+      "gloss": "và họ sẽ ném"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩ chúng",
+      "marks": "chúng (những viên đá)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "phía ngoài"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "của thành"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "nơi"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ô uế"
+    }
+  ],
+  "timestamp": "2026-08-19T02:43:51.725989490Z",
+  "model": "glm-5.3"
+}

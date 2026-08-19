@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "mọi chim thanh sạch, các ngươi hãy ăn",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "chim"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "thanh sạch"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "các ngươi hãy ăn"
+    }
+  ],
+  "timestamp": "2026-08-19T03:08:17.954306743Z",
+  "model": "glm-5.3"
+}

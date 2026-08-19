@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và Yahweh Elohim đã kêu gọi ⟨את⟩-người kia? — không: Yahweh Elohim đã gọi adam, và Ngài phán cùng anh: “Anh đang ở đâu?”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "đã gọi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến với"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "người (adam)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và phán"
+    },
+    {
+      "surface": "לו",
+      "gloss": "với anh"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "ở đâu?"
+    }
+  ],
+  "timestamp": "2026-08-19T00:46:10.902291091Z",
+  "model": "glm-5.3"
+}

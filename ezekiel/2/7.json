@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 2:7",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Ngươi hãy nói ⟨את⟩ lời của Ta với chúng, dù chúng nghe hay dù chúng từ chối, vì chúng là nhà phản nghịch.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "ngươi hãy nói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lời của Ta"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "lời của Ta"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "với chúng"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dù"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "chúng nghe"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "hay dù"
+    },
+    {
+      "surface": "יחדלו",
+      "gloss": "chúng từ chối"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "phản nghịch"
+    },
+    {
+      "surface": "המה",
+      "gloss": "chúng là"
+    }
+  ],
+  "timestamp": "2026-08-19T04:31:33.626807260Z",
+  "model": "glm-5.3"
+}

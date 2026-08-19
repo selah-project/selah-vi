@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 46,
+  "translation": "Các dân tộc náo động, các vương quốc lung lay; ⟨khi⟩ Ngài cất tiếng, đất tan chảy.",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "náo động"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "các dân tộc"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "lung lay"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "các vương quốc"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "cất"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "với tiếng của Ngài"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "tan chảy"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:34.413906151Z",
+  "model": "glm-5.3"
+}

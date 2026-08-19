@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và Boaz sinh ⟨את⟩ Oved; và Oved sinh ⟨את⟩ Yishai.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "và Boaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "và Oved"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishai"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    }
+  ],
+  "timestamp": "2026-08-19T05:47:05.264214598Z",
+  "model": "glm-5.3"
+}

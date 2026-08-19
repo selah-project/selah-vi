@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Sáng hôm sau Moshe ngồi xuống để xét xử ⟨את⟩ dân sự, và dân sự đứng quanh Moshe từ buổi sáng đến buổi chiều tối.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "xảy ra"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "sáng hôm sau"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "và ngồi xuống"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "để xét xử"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân sự"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "và đứng"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "על",
+      "gloss": "quanh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "buổi sáng"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "buổi chiều tối"
+    }
+  ],
+  "timestamp": "2026-08-19T02:32:10.453497874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Sự đau thương của chúng sẽ nhân lên, chúng chạy gấp theo ⟨các thần⟩ khác; con sẽ không rót lễ quán của chúng bằng máu, và con sẽ không nhắc ⟨את⟩ các tên của chúng trên môi con.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "sẽ nhân lên"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "sự đau thương của chúng"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sau\/ theo"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "chúng chạy gấp"
+    },
+    {
+      "surface": "בל",
+      "gloss": "không"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "con sẽ rót"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "lễ quán của chúng"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "bằng máu"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "và không"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "con sẽ nhấc lên\/nhắc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các tên của chúng"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "các tên của chúng"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "môi con"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:20.530605834Z",
+  "model": "glm-5.3"
+}

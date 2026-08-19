@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Duy chỉ thịt, trong sinh-khí của nó — máu của nó — các ngươi chớ ăn.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "duy chỉ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "thịt"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "trong sinh-khí của nó"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "máu của nó"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "các ngươi ăn"
+    }
+  ],
+  "timestamp": "2026-08-19T02:24:01.828083178Z",
+  "model": "glm-5.3"
+}

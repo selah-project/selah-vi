@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Người đánh ⟨את⟩ Moáp, và Moáp trở thành tôi tớ cho Daviđ, mang cống phẩm.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "người đánh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moáp"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moáp"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "trở thành"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moáp"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "tôi tớ"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "cho Daviđ"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "mang"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "cống phẩm"
+    }
+  ],
+  "timestamp": "2026-08-19T05:51:04.993492397Z",
+  "model": "glm-5.3"
+}

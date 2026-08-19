@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 18:41",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Còn kẻ thù của tôi, Ngài đã cho tôi ⟨gáy⟩ chúng; còn những kẻ ghét tôi, tôi sẽ tận diệt chúng.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "còn kẻ thù của tôi"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "Ngài đã cho"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "gáy"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "còn những kẻ ghét tôi"
+    },
+    {
+      "surface": "אצמיתם",
+      "gloss": "tôi sẽ tận diệt chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:44.742184105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 3:16",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Hãy đi, và hãy tập hợp ⟨את⟩ các trưởng lão của Yisra'el, và ngươi sẽ nói với chúng: 'Yahweh, Elohim của tổ phụ các ngươi, đã hiện ra với tôi — Elohim của Avraham, Yitschak, và Yaakov — mà phán: Chắc chắn Ta đã thăm các ngươi ⟨אתכם⟩ và ⟨את⟩ điều đã làm cho các ngươi trong Mitzrayim.'",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "hãy đi"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "và hãy tập hợp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các trưởng lão"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "các trưởng lão"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "của Yisra'el"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "và ngươi sẽ nói"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "với chúng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "tổ phụ các ngươi"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "đã hiện ra"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "với tôi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "và Yaakov"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mà phán"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "chắc chắn"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "Ta đã thăm"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "điều đã làm cho các ngươi"
+    },
+    {
+      "surface": "העשוי",
+      "gloss": "điều đã làm"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho các ngươi"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "trong Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T02:28:07.617435532Z",
+  "model": "glm-5.3"
+}

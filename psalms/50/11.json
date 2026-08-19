@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 50,
+  "translation": "Ta biết mọi chim ⟨của⟩ núi, và loài động vật của đồng ruộng ở cùng Ta.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Ta-biết"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "chim"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "núi"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "và-loài-động-vật"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "của-đồng-ruộng"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ở-cùng-Ta"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:27.707369736Z",
+  "model": "glm-5.3"
+}

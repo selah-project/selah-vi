@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 20:11",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Vì sáu ngày Yahweh đã làm ⟨את⟩ các tầng trời và ⟨את⟩ đất, ⟨את⟩ biển và ⟨את⟩ mọi vật ở trong chúng, và Ngài nghỉ ngơi vào ngày thứ bảy; vì vậy Yahweh đã phước cho ⟨את⟩ ngày Sa-bát và thánh hóa nó.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "sáu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "đã-làm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các tầng trời"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "các-tầng-trời"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và-⟨את⟩",
+      "marks": "đất"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biển"
+    },
+    {
+      "surface": "הים",
+      "gloss": "biển"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và-⟨את⟩",
+      "marks": "mọi vật"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi-vật"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "בם",
+      "gloss": "trong-chúng"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "và-Ngài-nghỉ-ngơi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "vào-ngày"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "thứ-bảy"
+    },
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vậy"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "đã-phước-cho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngày Sa-bát"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sa-bát"
+    },
+    {
+      "surface": "ויקדשהו",
+      "gloss": "và-thánh-hóa-nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:32:39.065455947Z",
+  "model": "glm-5.3"
+}

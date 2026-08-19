@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 18:13",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Từ sự rực sáng trước mặt Ngài, các đám mây dày của Ngài đi qua — mưa đá và than hồng lửa.",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "từ sự rực sáng"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "trước mặt Ngài"
+    },
+    {
+      "surface": "עביו",
+      "gloss": "các đám mây dày của Ngài"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "đã đi qua"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "mưa đá"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "và than hồng"
+    },
+    {
+      "surface": "אש",
+      "gloss": "lửa"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:42.000221715Z",
+  "model": "glm-5.3"
+}

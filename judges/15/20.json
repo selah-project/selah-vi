@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 15:20",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Và người xét xử ⟨את⟩ Yisrael trong những ngày của người Plishtim hai mươi năm.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "và người xét xử"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "trong những ngày"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "của người Plishtim"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "hai mươi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "năm"
+    }
+  ],
+  "timestamp": "2026-08-19T03:26:44.345724785Z",
+  "model": "glm-5.3"
+}

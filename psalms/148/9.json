@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 148,
+  "translation": "Các núi và mọi đồi nhỏ, cây trái và mọi cây bá hương",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "các núi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "đồi nhỏ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "cây"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "trái"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cây bá hương"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:31.815688358Z",
+  "model": "glm-5.3"
+}

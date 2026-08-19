@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 41:41",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 41,
+  "translation": "Paroh nói với Yosef: Hãy xem, ta đã đặt ⟨את⟩ ngươi trên toàn xứ Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "hãy xem"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ta đã đặt"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ngươi"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "xứ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T02:24:45.629856479Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Vị kohen sẽ truyền lệnh, và người ta sẽ giết ⟨את⟩ con chim kia — con thứ nhất — vào trong ch đồ gốm, trên nước sống.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "sẽ truyền lệnh"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "vị kohen"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "và sẽ giết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con chim kia"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "con chim kia"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "con thứ nhất"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vào trong"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "chậu"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "gốm"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "sống"
+    }
+  ],
+  "timestamp": "2026-08-19T02:44:38.304216456Z",
+  "model": "glm-5.3"
+}

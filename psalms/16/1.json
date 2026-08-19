@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Bài khắc của David. Hãy giữ gìn con, El, vì con nương nấp nơi Ngài.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "bài khắc"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "của David"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "hãy giữ gìn con"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "con nương nấp"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nơi Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:20.530075285Z",
+  "model": "glm-5.3"
+}

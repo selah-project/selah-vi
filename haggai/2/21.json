@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Hãy nói với Zerubbabel, tổng trấn của Yehudah, rằng: Ta đang làm rung ⟨את⟩ các tầng trời và ⟨את⟩ đất.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "hãy nói"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubbabel"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "tổng trấn"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "đang làm rung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các tầng trời"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "các tầng trời"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "đất"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T04:51:13.246707352Z",
+  "model": "glm-5.3"
+}

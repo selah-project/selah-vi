@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Danh tốt hơn dầu thơm tốt, và ngày chết hơn ngày sinh ra.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "tốt"
+    },
+    {
+      "surface": "שם",
+      "gloss": "danh"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "hơn dầu thơm"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tốt"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "và ngày"
+    },
+    {
+      "surface": "המות",
+      "gloss": "chết"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "hơn ngày"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "sinh ra"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:31.634546215Z",
+  "model": "glm-5.3"
+}

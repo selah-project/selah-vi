@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 143,
+  "translation": "Xin mau đáp lời tôi, Yahweh, thần trí tôi hao mòn; xin đừng giấu mặt Ngài khỏi tôi, kẻo tôi nên như kẻ đi xuống hầm sâu.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "mau"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "đáp lời tôi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "hao mòn"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "thần trí tôi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "giấu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "mặt Ngài"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "khỏi tôi"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "kẻo tôi nên như"
+    },
+    {
+      "surface": "עם",
+      "gloss": "với"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "kẻ đi xuống"
+    },
+    {
+      "surface": "בור",
+      "gloss": "hầm sâu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:13.451635909Z",
+  "model": "glm-5.3"
+}

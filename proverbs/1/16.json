@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Vì chân của chúng chạy hướng đến điều ác, và chúng vội vàng để đổ máu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "chân của chúng"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "đến điều ác"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "chạy"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "và chúng vội vàng"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "để đổ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "máu"
+    }
+  ],
+  "timestamp": "2026-08-19T06:19:15.994479461Z",
+  "model": "glm-5.3"
+}

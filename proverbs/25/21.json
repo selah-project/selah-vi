@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Nếu kẻ ghét ngươi đói, hãy cho nó ăn bánh; và nếu nó khát, hãy cho nó uống nước.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "đói"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "kẻ ghét ngươi"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "hãy cho nó ăn"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bánh"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "và nếu"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "khát"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "hãy cho nó uống"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    }
+  ],
+  "timestamp": "2026-08-19T05:18:48.458686864Z",
+  "model": "glm-5.3"
+}

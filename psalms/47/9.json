@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 47,
+  "translation": "Elohim đã lên ngôi trị vì trên các dân tộc, Elohim ngự trên ngai thánh của Ngài.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "đã lên ngôi trị vì"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "các dân tộc"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ngự"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "thánh của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:15.307397974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 103,
+  "translation": "Không mãi mãi Ngài tranh chấp, và không đến đời đời Ngài giữ ⟨sự giận⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "mãi mãi"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "Ngài tranh chấp"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "đến đời đời"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "Ngài giữ ⟨sự giận⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:54.498289839Z",
+  "model": "glm-5.3"
+}

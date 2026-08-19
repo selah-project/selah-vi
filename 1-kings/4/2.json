@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 4:2",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và đây là những quan trưởng của ông: Azaryahu con trai Tsadok, vị thầy tế lễ.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "và đây là"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "các quan trưởng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "לו",
+      "gloss": "của ông"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "Azaryahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "vị thầy tế lễ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:47:46.031946452Z",
+  "model": "glm-5.3"
+}

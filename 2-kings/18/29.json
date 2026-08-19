@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 18:29",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Như vua đã nói: Chizkiyahu đừng để lừa dối các ngươi, vì hắn không thể cứu ⟨את⟩ các ngươi khỏi tay vua.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "như vậy"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "đã nói"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "ישיא",
+      "gloss": "lừa dối"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "các ngươi"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "có thể"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "cứu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "khỏi tay hắn"
+    }
+  ],
+  "timestamp": "2026-08-19T04:01:25.946797160Z",
+  "model": "glm-5.3"
+}

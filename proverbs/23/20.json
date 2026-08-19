@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Đừng ⟨hãy⟩ ở giữa những kẻ say sưa rượu, giữa những kẻ tham ăn thịt, cho chính chúng.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Đừng"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "hãy ở"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "giữa những kẻ uống"
+    },
+    {
+      "surface": "יין",
+      "gloss": "rượu"
+    },
+    {
+      "surface": "בזללי",
+      "gloss": "giữa những kẻ tham ăn"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "thịt"
+    },
+    {
+      "surface": "למו",
+      "gloss": "cho chính chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:18:34.080307555Z",
+  "model": "glm-5.3"
+}

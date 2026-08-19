@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 33,
+  "translation": "Yahweh làm triệt tiêu mưu kế của các nước ngoại; Ngài làm thất bại các toan tính của các dân.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "làm triệt tiêu"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "mưu kế của"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "các nước ngoại"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "làm thất bại"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "các toan tính"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "của các dân"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:29.697176947Z",
+  "model": "glm-5.3"
+}

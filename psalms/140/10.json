@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 140,
+  "translation": "Đầu ⟨của⟩ những kẻ vây quanh tôi — sự tai họa ⟨từ⟩ môi miệng của chúng nó sẽ phủ lên chúng nó.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "đầu của"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "những kẻ vây quanh tôi"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "sự tai họa"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "môi miệng của chúng nó"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "sẽ phủ lên chúng nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:49.057714917Z",
+  "model": "glm-5.3"
+}

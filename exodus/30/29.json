@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 30:29",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Ngươi sẽ thánh hóa ⟨אתם⟩ chúng, và chúng sẽ nên thánh các thánh; mọi điều chạm đến chúng sẽ nên thánh.",
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "và ngươi sẽ thánh hóa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chúng"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "và chúng sẽ là"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "thánh"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "các thánh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "điều chạm đến"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "chúng"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "sẽ nên thánh"
+    }
+  ],
+  "timestamp": "2026-08-19T06:03:47.551422048Z",
+  "model": "glm-5.3"
+}

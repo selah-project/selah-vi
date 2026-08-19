@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Và nàng gọi tên cậu là Yosef, mà nói: Yahweh sẽ thêm cho tôi một con trai khác.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "và nàng gọi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tên cậu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "tên cậu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mà nói"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "sẽ thêm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "một con trai"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "khác"
+    }
+  ],
+  "timestamp": "2026-08-19T01:11:08.983529670Z",
+  "model": "glm-5.3"
+}

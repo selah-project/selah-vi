@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 13:5",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Và người Philistim tập hợp để giao chiến với Yisrael: ba mươi nghìn chiến xa, sáu nghìn kỵ binh, và dân đông như cát trên bờ biển về sự đông đảo; họ lên đóng trại tại Mikhmas, phía đông Beit-Aven.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "và người Philistim"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "tập hợp"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "để giao chiến"
+    },
+    {
+      "surface": "עם",
+      "gloss": "với"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ba mươi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "nghìn"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "chiến xa"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "và sáu"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "nghìn"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "kỵ binh"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "và dân"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "như cát"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "bờ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "biển"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "về sự đông đảo"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "và họ lên"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "và đóng trại"
+    },
+    {
+      "surface": "במכמש",
+      "gloss": "tại Mikhmas"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "phía đông"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "און",
+      "gloss": "-Aven"
+    }
+  ],
+  "timestamp": "2026-08-19T03:31:46.672207696Z",
+  "model": "glm-5.3"
+}

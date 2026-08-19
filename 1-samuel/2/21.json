@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 2:21",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Vì Yahweh đã thăm ⟨את⟩ Channah,她就 thụ thai và sinh ba con trai và hai con gái; và cậu bé Shmuel lớn lên cùng Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "đã thăm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Channah"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Channah"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "và bà thụ thai"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "và bà sinh"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "và hai"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "con gái"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "và lớn lên"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "cậu bé"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cùng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T03:29:37.510355427Z",
+  "model": "glm-5.3"
+}

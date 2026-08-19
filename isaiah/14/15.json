@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Nhưng ngươi sẽ bị đẩy xuống đến Sheol, đến tận đáy hố sâu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "nhưng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "ngươi sẽ bị đẩy xuống"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "tận đáy"
+    },
+    {
+      "surface": "בור",
+      "gloss": "hố sâu"
+    }
+  ],
+  "timestamp": "2026-08-19T04:06:21.130444006Z",
+  "model": "glm-5.3"
+}

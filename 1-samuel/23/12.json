@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Và David nói: Các chủ nhân Keilah có nộp ⟨את⟩ tôi và ⟨את⟩ các người của tôi vào tay Shaól không? Và Yahweh phán: Họ sẽ nộp.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "họ có nộp"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "các chủ nhân"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilah"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "tôi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "các người của tôi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "các người của tôi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "vào tay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "họ sẽ nộp"
+    }
+  ],
+  "timestamp": "2026-08-19T03:36:29.663931892Z",
+  "model": "glm-5.3"
+}

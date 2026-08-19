@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Vua nói với người đàn bà: «Hãy về nhà ngươi, và ta sẽ truyền lệnh về ngươi.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "người đàn bà"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "hãy đi"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "về nhà ngươi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "và ta"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "sẽ truyền lệnh"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "về ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:42:35.819648353Z",
+  "model": "glm-5.3"
+}

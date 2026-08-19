@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 113,
+  "translation": "Từ nơi mặt trời mọc đến nơi nó lặn, danh Yahweh được ca ngợi.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "từ nơi mọc (hướng đông)"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "mặt trời"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "nơi lặn của nó (hoàng hôn, hướng tây)"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "được ca ngợi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "danh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:38.124789779Z",
+  "model": "glm-5.3"
+}

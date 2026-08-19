@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Và Mikayhu nói: Yahweh hằng sống, rằng điều Yahweh phán với tôi — ⟨את⟩ điều đó tôi sẽ nói.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và ⟨ông⟩ nói"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikayhu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "hằng sống"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "điều đó"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "với tôi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "tôi sẽ nói"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "tôi sẽ nói"
+    }
+  ],
+  "timestamp": "2026-08-19T03:55:25.868538302Z",
+  "model": "glm-5.3"
+}

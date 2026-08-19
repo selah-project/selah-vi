@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 17:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Tôi — tôi kêu cầu Ngài, vì Ngài sẽ đáp tôi, El; xin nghiêng tai Ngài về tôi, nghe lời tôi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "tôi kêu cầu Ngài"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "Ngài đáp tôi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הט",
+      "gloss": "nghiêng"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "tai Ngài"
+    },
+    {
+      "surface": "לי",
+      "gloss": "về tôi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nghe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "lời tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:20.721851924Z",
+  "model": "glm-5.3"
+}

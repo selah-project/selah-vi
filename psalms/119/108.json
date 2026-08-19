@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 108,
+  "ref": "psalms 119:108",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Xin hài lòng, Yahweh ôi, với các lễ vật tự nguyện từ miệng tôi, và dạy tôi các phán quyết của Ngài.",
+  "tokens": [
+    {
+      "surface": "נדבות",
+      "gloss": "các lễ vật tự nguyện"
+    },
+    {
+      "surface": "פי",
+      "gloss": "miệng tôi"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "xin hài lòng"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ôi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "và các phán quyết của Ngài"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "dạy tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:53.284131799Z",
+  "model": "glm-5.3"
+}

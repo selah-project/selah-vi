@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Vì các ngươi đã nói: 'Yahweh đã dựng lên cho chúng ta các tiên tri tại Bavel.'",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Vì"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "các ngươi đã nói"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "đã dựng lên"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "cho chúng ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "các tiên tri"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "tại Bavel"
+    }
+  ],
+  "timestamp": "2026-08-19T06:13:51.856525322Z",
+  "model": "glm-5.3"
+}

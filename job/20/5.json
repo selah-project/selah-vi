@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 20:5",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Vì tiếng reo vui của các kẻ ác ⟨là⟩ từ gần, và niềm vui của kẻ giả hình chỉ đến một khoảnh khắc.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "רננת",
+      "gloss": "tiếng reo vui"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "các kẻ ác"
+    },
+    {
+      "surface": "מקרוב",
+      "gloss": "từ gần"
+    },
+    {
+      "surface": "ושמחת",
+      "gloss": "và niềm vui"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "kẻ giả hình"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "đến"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "một khoảnh khắc"
+    }
+  ],
+  "timestamp": "2026-08-19T05:24:02.224521942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 135,
+  "translation": "⟨họ⟩ là những người đứng trong nhà Yahweh, trong các sân của nhà Elohim của chúng ta.",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "đang đứng"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "trong nhà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "trong các sân"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim của chúng ta"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:20.853498683Z",
+  "model": "glm-5.3"
+}

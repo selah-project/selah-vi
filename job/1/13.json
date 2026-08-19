@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 1:13",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Xảy ra ⟨the⟩ một ngày, các con trai ông và các con gái ông đang ăn và uống rượu trong nhà người anh cả của chúng",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "xảy ra"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "và các con trai ông"
+    },
+    {
+      "surface": "ובנתיו",
+      "gloss": "và các con gái ông"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "đang ăn"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "và đang uống"
+    },
+    {
+      "surface": "יין",
+      "gloss": "rượu"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "trong nhà"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "anh của chúng"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "người con cả"
+    }
+  ],
+  "timestamp": "2026-08-19T05:20:38.598064065Z",
+  "model": "glm-5.3"
+}

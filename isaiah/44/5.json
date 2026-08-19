@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 44:5",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Kẻ này sẽ nói: «Tôi thuộc về Yahweh», và kẻ kia sẽ xưng mình bằng danh Yaakov; kẻ khác sẽ viết trên tay mình: «Thuộc về Yahweh», và lấy danh Yitsrael mà tự xưng.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "kẻ này"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sẽ nói"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "thuộc về Yahweh"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "và kẻ kia"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "sẽ xưng"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "bằng danh"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "và kẻ khác"
+    },
+    {
+      "surface": "יכתב",
+      "gloss": "sẽ viết"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tay mình"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "thuộc về Yahweh"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "và bằng danh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yitsrael"
+    },
+    {
+      "surface": "יכנה",
+      "gloss": "sẽ tự xưng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:12:35.890047911Z",
+  "model": "glm-5.3"
+}

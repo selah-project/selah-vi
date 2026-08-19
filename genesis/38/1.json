@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 38:1",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 38,
+  "translation": "Xảy ra vào lúc đó, Yehudah xuống khỏi ⟨את⟩ các anh em mình, và rẽ đến với một người Adulam, tên hắn là Chirah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "xảy ra"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "vào lúc"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "đó"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "và xuống"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "các anh em mình"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "các anh em mình"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "và rẻ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "איש",
+      "gloss": "một người"
+    },
+    {
+      "surface": "עדלמי",
+      "gloss": "Adulam"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "và tên hắn"
+    },
+    {
+      "surface": "חירה",
+      "gloss": "Chirah"
+    }
+  ],
+  "timestamp": "2026-08-19T01:26:20.302906396Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 47:1",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 47,
+  "translation": "Đó là lời của Yahweh đã đến với Yirmeyahu vị tiên tri, về người Pelishtim, trước khi Paroh đánh ⟨את⟩ Azzah.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "đó là"
+    },
+    {
+      "surface": "היה",
+      "gloss": "đã đến"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lời"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến với"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "vị tiên tri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "về"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "người Pelishtim"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "trước khi"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "đánh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azzah"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzah"
+    }
+  ],
+  "timestamp": "2026-08-19T04:28:17.811447056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 45,
+  "translation": "Lòng tôi trào dâng ⟨một⟩ lời tốt đẹp; tôi nói: việc tôi làm ⟨là⟩ về ⟨vị⟩ vua; lưỡi tôi ⟨là⟩ bút của người chép nhanh.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "trào dâng"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "lòng tôi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lời"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tốt đẹp"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tôi nói"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "việc tôi làm"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "về vị vua"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "lưỡi tôi"
+    },
+    {
+      "surface": "עט",
+      "gloss": "bút"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "người chép"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "nhanh"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:48.521019348Z",
+  "model": "glm-5.3"
+}

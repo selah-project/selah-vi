@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 3:3",
+  "book": "song-of-songs",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Những người canh gác đi rảo quanh trong thành đã gặp tôi: ⟨את⟩ đấng mà linh hồn tôi yêu, các ngài có thấy chăng?",
+  "tokens": [
+    {
+      "surface": "מצאוני",
+      "gloss": "đã gặp tôi"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "những người canh gác"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "đi rảo quanh"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "trong thành"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đấng mà linh hồn tôi yêu"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "đấng mà"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "linh hồn tôi"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "các ngài có thấy chăng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:29:08.354679803Z",
+  "model": "glm-5.3"
+}

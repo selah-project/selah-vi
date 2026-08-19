@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 12:9",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Thật tốt kẻ bị khinh rẻ mà có đầy tớ phục vụ mình, hơn kẻ tự tôn mình mà thiếu bánh.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "tốt"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "bị khinh rẻ"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "và có đầy tớ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho mình"
+    },
+    {
+      "surface": "ממתכבד",
+      "gloss": "hơn kẻ tự tôn mình"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "và thiếu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bánh"
+    }
+  ],
+  "timestamp": "2026-08-19T05:16:01.801757946Z",
+  "model": "glm-5.3"
+}

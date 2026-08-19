@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và Amminadav sinh ⟨את⟩ Nachshon, và Nachshon sinh ⟨את⟩ Salmon.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "và Amminadav"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachshon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nachshon"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "và Nachshon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salmon"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salmon"
+    }
+  ],
+  "timestamp": "2026-08-19T05:29:37.699803663Z",
+  "model": "glm-5.3"
+}

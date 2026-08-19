@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Thì các trưởng lão của thành đó sẽ bắt ⟨את⟩ người đàn ông ấy và trừng phạt ⟨אתו⟩ hắn.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "và họ sẽ bắt"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "các trưởng lão"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "của thành"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "đó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người đàn ông ấy"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "người đàn ông ấy"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "và họ sẽ trừng phạt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "hắn"
+    }
+  ],
+  "timestamp": "2026-08-19T03:10:23.067932005Z",
+  "model": "glm-5.3"
+}

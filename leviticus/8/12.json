@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 8:12",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Người đổ từ dầu xức lên đầu Aharon, và xức ⟨את⟩ ông, để thánh hóa ông.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "và người đổ"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "từ dầu"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "xức"
+    },
+    {
+      "surface": "על",
+      "gloss": "lên"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "đầu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "và người xức"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ông"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "để thánh hóa ông"
+    }
+  ],
+  "timestamp": "2026-08-19T02:41:04.287484189Z",
+  "model": "glm-5.3"
+}

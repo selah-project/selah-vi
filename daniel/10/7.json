@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "daniel 10:7",
+  "book": "daniel",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Và tôi — tôi Daniel — một mình đã thấy ⟨את⟩ khải tượng; còn những người ở với tôi không thấy ⟨את⟩ khải tượng, nhưng sự run rẩy lớn đã giáng xuống trên họ, nên họ bỏ chạy để ẩn mình.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "và tôi đã thấy"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "một mình"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khải tượng"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "khải tượng"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "và những người"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ở"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "với tôi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khải tượng"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "khải tượng"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "nhưng"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "sự run rẩy"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "lớn"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "giáng xuống"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "trên họ"
+    },
+    {
+      "surface": "ויברחו",
+      "gloss": "nên họ bỏ chạy"
+    },
+    {
+      "surface": "בהחבא",
+      "gloss": "để ẩn mình"
+    }
+  ],
+  "timestamp": "2026-08-19T05:39:27.566500522Z",
+  "model": "glm-5.3"
+}

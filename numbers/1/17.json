@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và Moshe cùng Aharon lấy ⟨את⟩ những người này, những kẻ được chỉ định bằng danh,",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "đã lấy"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "và Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "những người này"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "những người"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "này"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "được chỉ định"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "bằng danh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:52:14.309822898Z",
+  "model": "glm-5.3"
+}

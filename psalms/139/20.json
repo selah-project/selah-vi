@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 139,
+  "translation": "Những kẻ nhắc ⟨đến⟩ Ngài để mưu đồ xấu, nâng ⟨Danh⟩ Ngài lên vì sự hư không, các kẻ thù nghịch của Ngài.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "những kẻ mà"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "nhắc ⟨đến⟩ Ngài"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "để mưu đồ xấu"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nâng lên"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "vì sự hư không"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "các kẻ thù nghịch của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T06:19:20.082955320Z",
+  "model": "glm-5.3"
+}

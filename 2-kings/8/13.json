@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 8:13",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và Chazael nói: Tôi tờ của ngài là ⟨את⟩ con chó mà dám làm sự lớn lao này sao? Và Elisha nói: Yahweh đã cho tôi thấy ⟨את⟩ ngài làm vua trên Aram.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "Chazael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tôi tớ của ngài"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "con chó"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "sẽ làm"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sự việc"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "lớn lao"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "đã cho tôi thấy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ngài (làm vua)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-19T06:10:37.916415489Z",
+  "model": "glm-5.3"
+}

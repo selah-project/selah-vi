@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Tốt hơn ⟨là⟩ sự quở trách công khai, hơn ⟨là⟩ tình yêu thương được che giấu.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "tốt hơn"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "sự quở trách"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "công khai"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "hơn tình yêu thương"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "được che giấu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:19:24.774099183Z",
+  "model": "glm-5.3"
+}

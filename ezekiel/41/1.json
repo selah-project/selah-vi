@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 41:1",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 41,
+  "translation": "Và ngài đem tôi vào ⟨את⟩ đền thờ, và ngài đo ⟨את⟩ các trụ, sáu cubit bề rộng từ bên này, và sáu cubit bề rộng từ bên kia — bề rộng của ⟨the⟩ trại.",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "và ngài đem tôi vào"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vào"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "đền thờ"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "và ngài đo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các trụ"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "các trụ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sáu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "bề rộng"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "từ bên này"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "và sáu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "bề rộng"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "từ bên kia"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "bề rộng"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "của trại"
+    }
+  ],
+  "timestamp": "2026-08-19T04:41:58.633710004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 115,
+  "translation": "Không phải ⟨là⟩ những kẻ chết sẽ ngợi khen Yah, và không phải mọi kẻ đi xuống sự im lặng.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "những kẻ chết"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "sẽ ngợi khen"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "kẻ đi xuống"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "sự im lặng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:08.856120996Z",
+  "model": "glm-5.3"
+}

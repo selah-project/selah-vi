@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 49:18",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 49,
+  "translation": "Vì ⟨khi⟩ chết, hắn sẽ không mang theo ⟨את⟩ tất cả; vinh quang của hắn sẽ không đi xuống theo hắn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "khi chết của hắn"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "sẽ mang theo"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "⟨את⟩ tất cả"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "sẽ đi xuống"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "theo hắn"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "vinh quang của hắn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:51.145562986Z",
+  "model": "glm-5.3"
+}

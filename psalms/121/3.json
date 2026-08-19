@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 121,
+  "translation": "Nguyện Đấng giữ ⟨bạn⟩ đừng cho chân ⟨bạn⟩ lung lay; Nguyện Đấng canh giữ ⟨bạn⟩ đừng buồn ngủ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nguyện đừng"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "để cho"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "lung lay"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "chân bạn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nguyện đừng"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "buồn ngủ"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "Đấng canh giữ bạn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:30.733217020Z",
+  "model": "glm-5.3"
+}

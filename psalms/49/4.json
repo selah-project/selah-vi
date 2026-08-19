@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 49,
+  "translation": "Miệng tôi sẽ nói những điều khôn ngoan, và sự suy niệm trong lòng tôi ⟨là⟩ sự thông sáng.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "miệng tôi"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "sẽ nói"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "những điều khôn ngoan"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "và sự suy niệm"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "trong lòng tôi"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "sự thông sáng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:56.087910168Z",
+  "model": "glm-5.3"
+}

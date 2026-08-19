@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 43,
+  "translation": "Chính Ta, chính Ta ⟨là⟩ Yahweh, và ngoài Ta không có Đấng cứu.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "chính Ta"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "chính Ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "và không có"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "ngoài Ta"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "Đấng cứu"
+    }
+  ],
+  "timestamp": "2026-08-19T04:12:02.566904767Z",
+  "model": "glm-5.3"
+}

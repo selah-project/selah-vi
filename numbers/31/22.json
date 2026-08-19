@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Duy ⟨את⟩ vàng, ⟨את⟩ bạc, ⟨את⟩ đồng, ⟨את⟩ sắt, ⟨את⟩ thiếc, và ⟨את⟩ chì",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "duy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vàng"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "vàng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "bạc"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "bạc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đồng"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "đồng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sắt"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "sắt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thiếc"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "thiếc"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "chì"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "chì"
+    }
+  ],
+  "timestamp": "2026-08-19T03:02:24.979646015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 50:21",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 50,
+  "translation": "These things bạn đã làm, và Ta đã im lặng; bạn tưởng rằng Ta giống như bạn; Ta sẽ quở trách bạn và sắp đặt ⟨trước mặt mắt bạn⟩.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "những điều này"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "bạn đã làm"
+    },
+    {
+      "surface": "והחרשתי",
+      "gloss": "và Ta đã im lặng"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "bạn tưởng"
+    },
+    {
+      "surface": "היות",
+      "gloss": "rằng ⟨là⟩"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Ta-là"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "như bạn"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "Ta sẽ quở trách bạn"
+    },
+    {
+      "surface": "ואערכה",
+      "gloss": "và sắp đặt"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "trước mắt bạn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:45.708347607Z",
+  "model": "glm-5.3"
+}

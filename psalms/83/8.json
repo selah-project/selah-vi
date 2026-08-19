@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 83,
+  "translation": "Gval, và Ammon, và Amalek, Pleshet cùng với dân cư của Tzor.",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Gval"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "và Ammon"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "và Amalek"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pleshet"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cùng với"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "dân cư của"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tzor"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:38.459109266Z",
+  "model": "glm-5.3"
+}

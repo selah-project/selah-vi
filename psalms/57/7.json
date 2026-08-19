@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 57:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 57,
+  "translation": "Lưới chúng đã giương trước bước chân tôi; hồn tôi bị bẻ cong; chúng đã đào hố trước mặt tôi; chính chúng đã ngã vào giữa nó. Selah.",
+  "tokens": [
+    {
+      "surface": "רשת",
+      "gloss": "lưới"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "chúng đã giương"
+    },
+    {
+      "surface": "לפעמי",
+      "gloss": "trước bước chân tôi"
+    },
+    {
+      "surface": "כפף",
+      "gloss": "đã bẻ cong"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "hồn tôi"
+    },
+    {
+      "surface": "כרו",
+      "gloss": "chúng đã đào"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt tôi"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "hố"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "chúng đã ngã"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "vào giữa nó"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:10.641851652Z",
+  "model": "glm-5.3"
+}

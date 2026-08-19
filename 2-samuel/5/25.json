@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Và Dawid làm y như vậy, đúng như Yahweh đã phán dặn ngài; và ngài đánh ⟨את⟩ người Philistít, từ Giv'а đến khi ngươi đến Gezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "và làm"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כן",
+      "gloss": "y như vậy"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "đúng như"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "đã phán dặn ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "và đánh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người Philistít"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "người Philistít"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "từ Giv'a"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến khi"
+    },
+    {
+      "surface": "באך",
+      "gloss": "ngươi đến"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-08-19T03:39:54.627258425Z",
+  "model": "glm-5.3"
+}

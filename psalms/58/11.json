@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 58,
+  "translation": "Người công chính sẽ vui mừng khi thấy sự báo thù; bàn chân ⟨anh ta⟩ sẽ rửa trong máu kẻ ác.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "sẽ vui mừng"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "người công chính"
+    },
+    {
+      "surface": "כי",
+      "gloss": "khi"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "thấy"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "sự báo thù"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "bước chân của anh ta"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "sẽ rửa"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "trong máu"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "kẻ ác"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:52.399068066Z",
+  "model": "glm-5.3"
+}

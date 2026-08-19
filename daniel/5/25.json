@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Và đây là dòng chữ đã được khắc: MENE, MENE, TEKEL, UPARSIN.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "và đây là"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "dòng chữ"
+    },
+    {
+      "surface": "די",
+      "gloss": "mà"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "đã được khắc"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "MENE"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "MENE"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "TEKEL"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "UPARSIN"
+    }
+  ],
+  "timestamp": "2026-08-19T05:37:09.681097829Z",
+  "model": "glm-5.3"
+}

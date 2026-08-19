@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 80,
+  "translation": "Nó vươn cành của mình tới biển, và tới dòng sông, những chồi non của nó.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "nó vươn ra"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "cành ngọn của nó"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tới"
+    },
+    {
+      "surface": "ים",
+      "gloss": "biển"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và tới"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "dòng sông"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "những chồi non của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:14.657845479Z",
+  "model": "glm-5.3"
+}

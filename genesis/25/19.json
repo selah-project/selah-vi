@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Và đây là dòng dõi của Yitschak, con của Avraham: Avraham sinh ⟨את⟩ Yitschak.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "và đây là"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "dòng dõi"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "của Yitschak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con của"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "đã sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    }
+  ],
+  "timestamp": "2026-08-19T01:08:35.902815070Z",
+  "model": "glm-5.3"
+}

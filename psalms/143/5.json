@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 143,
+  "translation": "Tôi nhớ lại những ngày từ xưa, tôi suy gẫm về mọi việc Ngài làm, về công việc của tay Ngài tôi hồi tưởng.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "tôi nhớ lại"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "những ngày"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "từ xưa"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "tôi suy gẫm"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "về mọi"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "việc Ngài làm"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "về công việc của"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "tay Ngài"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "tôi hồi tưởng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:13.451273660Z",
+  "model": "glm-5.3"
+}

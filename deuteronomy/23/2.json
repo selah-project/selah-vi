@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Không được vào hội của Yahweh: người bị thương nghiền nát dương vật, và người bị cắt cụt bộ phận đổ ra.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "được vào"
+    },
+    {
+      "surface": "פצוע",
+      "gloss": "bị thương (bị nứt) ở"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "dập nát (tinh hoàn)"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "và bị cắt cụt"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "bộ phận đổ ra (dương vật)"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "vào hội của"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T03:11:07.924542681Z",
+  "model": "glm-5.3"
+}

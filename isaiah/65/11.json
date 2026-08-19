@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 65:11",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 65,
+  "translation": "Còn các ngươi là kẻ bỏ Yahweh, kẻ quên ⟨את⟩ núi thánh của Ta, kẻ xếp bàn cho Gad, và kẻ rót đầy cho Meni rượu pha.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "còn các ngươi"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "kẻ bỏ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "השכחים",
+      "gloss": "kẻ quên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "núi thánh của Ta"
+    },
+    {
+      "surface": "הר",
+      "gloss": "núi"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "thánh của Ta"
+    },
+    {
+      "surface": "הערכים",
+      "gloss": "kẻ xếp"
+    },
+    {
+      "surface": "לגד",
+      "gloss": "cho Gad"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "bàn"
+    },
+    {
+      "surface": "והממלאים",
+      "gloss": "và kẻ rót đầy"
+    },
+    {
+      "surface": "למני",
+      "gloss": "cho Meni"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "rượu pha"
+    }
+  ],
+  "timestamp": "2026-08-19T04:16:41.422365269Z",
+  "model": "glm-5.3"
+}

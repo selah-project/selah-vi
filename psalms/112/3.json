@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 112,
+  "translation": "Của cải và sự giàu có ⟨sẽ ở⟩ trong nhà ⟨ông⟩, và sự công bình ⟨của ông⟩ đứng vững mãi mãi.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "của cải"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "và sự giàu có"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "trong nhà của ông"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "và sự công bình của ông"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "đứng vững"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "mãi mãi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:47.060063613Z",
+  "model": "glm-5.3"
+}

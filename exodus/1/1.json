@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và đây là những tên của các con trai Yisrael đang vào Mitsrayim: ⟨את⟩ Yaakov, mỗi người và nhà của mình, đã vào.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Và đây là"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "những tên"
+    },
+    {
+      "surface": "בני",
+      "gloss": "các con trai của"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "đang vào"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mỗi người"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "và nhà của mình"
+    },
+    {
+      "surface": "באו",
+      "gloss": "đã vào"
+    }
+  ],
+  "timestamp": "2026-08-19T02:27:32.285213223Z",
+  "model": "glm-5.3"
+}

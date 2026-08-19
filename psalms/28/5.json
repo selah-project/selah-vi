@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Vì chúng không hiểu đến công việc của Yahweh và đến việc làm tay Ngài — Ngài sẽ phá hủy chúng và không xây chúng lại.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "chúng hiểu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "công việc"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và đến"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "việc làm"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "tay Ngài"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "Ngài sẽ phá hủy chúng"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "xây chúng lại"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:56.748817549Z",
+  "model": "glm-5.3"
+}

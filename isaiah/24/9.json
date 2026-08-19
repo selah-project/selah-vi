@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Với tiếng hát, không ai uống rượu vang; đồ uống mạnh đã trở nên đắng cho những người uống nó.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "với tiếng hát"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "họ uống"
+    },
+    {
+      "surface": "יין",
+      "gloss": "rượu vang"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "đã trở nên đắng"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "đồ uống mạnh"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "cho những người uống nó"
+    }
+  ],
+  "timestamp": "2026-08-19T06:11:58.834229396Z",
+  "model": "glm-5.3"
+}

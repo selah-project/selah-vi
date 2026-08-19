@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 103,
+  "translation": "Vì như cao các tầng trời trên đất, ⟨vậy⟩ sự nhân từ của Ngài thắng vượt trên những kẻ kính sợ Ngài.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "như cao"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "các tầng trời"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "thắng vượt"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sự nhân từ của Ngài"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "những kẻ kính sợ Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:54.498758946Z",
+  "model": "glm-5.3"
+}

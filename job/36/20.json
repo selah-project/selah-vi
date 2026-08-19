@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 36:20",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 36,
+  "translation": "Đừng khao khát ⟨את⟩ đêm, để dân chúng bị cất đi khỏi chỗ của chúng.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תשאף",
+      "gloss": "ngươi khao khát"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "⟨את⟩ đêm"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "để bị cất đi"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "dân chúng"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "khỏi chỗ của chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:27:22.044697018Z",
+  "model": "glm-5.3"
+}

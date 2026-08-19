@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 23:23",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Sự chân thật, hãy mua lấy, và chớ bán đi — khôn ngoan, giáo huấn, và thông sáng.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "sự chân thật"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "hãy mua lấy"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và chớ"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "bán đi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "khôn ngoan"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "và giáo huấn"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "và thông sáng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:18:17.844418741Z",
+  "model": "glm-5.3"
+}

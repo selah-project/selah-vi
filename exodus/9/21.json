@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Còn ai không đặt lòng mình vào lời Yahweh, thì bỏ ⟨את⟩ tôi tớ mình và ⟨את⟩ súc vật mình ngoài đồng.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "còn ai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "שם",
+      "gloss": "đặt"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "lòng mình"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vào"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lời"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "thì bỏ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tôi tớ mình"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "tôi tớ mình"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "súc vật mình"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "súc vật mình"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ngoài đồng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:29:44.400051673Z",
+  "model": "glm-5.3"
+}

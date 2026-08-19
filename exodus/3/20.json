@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 3:20",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và Ta sẽ giơ ra ⟨את⟩ tay Ta, và Ta sẽ đánh ⟨את⟩ Mitsrayim bởi mọi sự lạ lùng của Ta mà Ta sẽ làm giữa nó; và sau đó ông sẽ cho ⟨את⟩ các ngươi ra đi.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "và Ta sẽ giơ ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tay Ta"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tay Ta"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "và Ta sẽ đánh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bởi mọi"
+    },
+    {
+      "surface": "נפלאותי",
+      "gloss": "sự lạ lùng của Ta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "Ta sẽ làm"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "giữa nó"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "và sau"
+    },
+    {
+      "surface": "כן",
+      "gloss": "đó"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ông sẽ cho đi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:28:28.998068052Z",
+  "model": "glm-5.3"
+}

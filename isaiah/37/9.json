@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 37:9",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Và ⟨người⟩ nghe nói về Tirhakah, vua của Kush, rằng: Người đã ra đi để giao chiến ⟨את⟩ ngươi; và ⟨người⟩ nghe, và sai các sứ giả đến với Chizkiyahu, rằng:",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "và ⟨người⟩ nghe"
+    },
+    {
+      "surface": "על",
+      "gloss": "về"
+    },
+    {
+      "surface": "תרהקה",
+      "gloss": "Tirhakah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "đã ra đi"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "để giao chiến"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ngươi",
+      "marks": "để giao chiến với ngươi"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "và ⟨người⟩ nghe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "và sai"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "các sứ giả"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến với"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:10:26.939002616Z",
+  "model": "glm-5.3"
+}

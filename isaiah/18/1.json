@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Khốn cho đất của tiếng vỗ cánh rì rào, vốn ở bên kia các sông của Kush.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Khốn cho"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "tiếng vỗ cánh rì rào"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "các cánh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vốn"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "bên kia"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "các sông của"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    }
+  ],
+  "timestamp": "2026-08-19T04:07:32.191494193Z",
+  "model": "glm-5.3"
+}

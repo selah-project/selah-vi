@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 59,
+  "translation": "Còn Ngài, Yahweh, sẽ cười nhạo chúng; Ngài sẽ chế giễu mọi dân nước.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "còn Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "sẽ cười"
+    },
+    {
+      "surface": "למו",
+      "gloss": "chúng"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "sẽ chế giễu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "dân nước"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:52.799374270Z",
+  "model": "glm-5.3"
+}

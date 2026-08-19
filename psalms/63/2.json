@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 63,
+  "translation": "Elohim ơi, El của tôi, ⟨là⟩ Ngài; con tìm kiếm Ngài từ sớm; linh hồn ⟨nephesh⟩ con khát Ngài, thân xác con mong mỏi Ngài, trong đất khô hạn và mệt nhoài, không có nước.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El của tôi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨là⟩ Ngài"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "con tìm kiếm Ngài từ sớm"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "khát"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "linh hồn ⟨nephesh⟩ con"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "mong mỏi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "thân xác con"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trong đất"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "khô hạn"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "và mệt nhoài"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "không có"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:46.012032521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Kẻ gian ác, theo sự ngạo mạn của gương mặt nó, sẽ không tìm kiếm: \"Không có Elohim\" — ⟨đó là⟩ mọi mưu đồ của nó.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "kẻ gian ác"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "theo sự ngạo mạn"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "của mũi\/gương mặt nó"
+    },
+    {
+      "surface": "בל",
+      "gloss": "không"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "tìm kiếm"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "mưu đồ của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:44.192636318Z",
+  "model": "glm-5.3"
+}

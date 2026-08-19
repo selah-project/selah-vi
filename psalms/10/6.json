@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Anh ta nói trong lòng mình: 'Ta sẽ không bao giờ nao chuyển; trải qua thế hệ này sang thế hệ khác, ta sẽ không ⟨gặp⟩ điều ác.'",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "anh ta nói"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "trong lòng mình"
+    },
+    {
+      "surface": "בל",
+      "gloss": "không bao giờ"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ta nao chuyển"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "qua thế hệ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "và thế hệ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "trong điều ác"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:13.642056774Z",
+  "model": "glm-5.3"
+}

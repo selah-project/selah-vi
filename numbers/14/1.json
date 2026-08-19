@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Và cả hội chúng nhấc lên ⟨את⟩ tiếng mình, và dân chúng khóc trong đêm đó.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "và nhấc lên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cả"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "hội chúng"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "và cho ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiếng mình"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "tiếng mình"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "và khóc"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân chúng"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "trong đêm"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "đó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:56:44.168553201Z",
+  "model": "glm-5.3"
+}

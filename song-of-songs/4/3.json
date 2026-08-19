@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 4:3",
+  "book": "song-of-songs",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Như sợi chỉ điều son là môi ngươi, và lời nói ngươi xinh đẹp; như múi lựu chia đôi là thái dương ngươi, sau tấm mạng che ngươi.",
+  "tokens": [
+    {
+      "surface": "כחוט",
+      "gloss": "như sợi chỉ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "điều son"
+    },
+    {
+      "surface": "שפתתיך",
+      "gloss": "môi ngươi"
+    },
+    {
+      "surface": "ומדבריך",
+      "gloss": "và lời nói ngươi"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "xinh đẹp"
+    },
+    {
+      "surface": "כפלח",
+      "gloss": "như múi chia đôi"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "lựu"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "thái dương ngươi"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "sau"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "tấm mạng che ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:29:13.076554930Z",
+  "model": "glm-5.3"
+}

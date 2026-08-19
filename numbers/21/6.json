@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 21:6",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Và Yahweh đã sai ⟨את⟩ những con rắn-lửa vào giữa dân sự, và chúng cắn ⟨את⟩ dân sự; và rất nhiều dân thuộc Yisrael đã chết.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "đã-sai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "vào-giữa-dân-sự"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "những con rắn-lửa"
+    },
+    {
+      "surface": "הנחשים",
+      "gloss": "những-con-rắn"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "lửa"
+    },
+    {
+      "surface": "וינשכו",
+      "gloss": "và-chúng-đã-cắn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân-sự"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân-sự"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "và-đã-chết"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "רב",
+      "gloss": "rất-nhiều"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "thuộc-Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T02:59:48.814956916Z",
+  "model": "glm-5.3"
+}

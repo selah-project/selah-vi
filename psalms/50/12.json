@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 50,
+  "translation": "Nếu Ta đói, Ta sẽ không nói với ngươi; vì của Ta là thế gian và sự đầy tràn của nó.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "Ta-đói"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Ta-sẽ-nói"
+    },
+    {
+      "surface": "לך",
+      "gloss": "với-ngươi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לי",
+      "gloss": "của-Ta"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "thế-gian"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "và-sự-đầy-tràn-của-nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:27.707504609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 25:27",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Ngang với viền, các vòng sẽ ⟨nằm⟩ — làm chỗ cho các cây đòn ⟪để⟫ ⟪vác⟫ ⟪cái⟫ bàn.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "ngang với"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "viền"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "sẽ là"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "các vòng"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "cho chỗ"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "cho các cây đòn"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "để vác"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cái bàn"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "cái bàn"
+    }
+  ],
+  "timestamp": "2026-08-19T02:34:22.484303720Z",
+  "model": "glm-5.3"
+}

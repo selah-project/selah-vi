@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 86,
+  "translation": "Lời cầu nguyện của Dawid. Yahweh hãy nghiêng tai Ngài, đáp lại con, vì con nghèo khó và thiếu thốn, con là ⟨thế⟩.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "lời cầu nguyện"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "của Dawid"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "hãy nghiêng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "tai Ngài"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "đáp lại con"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nghèo khó"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "và thiếu thốn"
+    },
+    {
+      "surface": "אני",
+      "gloss": "con là"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:39.617274031Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 94,
+  "translation": "Chiếc ngai của sự tàn hại — kẻ định hình ra gian ác bằng luật định — liệu ⟨nó⟩ sẽ kết hiệp với Ngài chăng?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "liệu sẽ kết hiệp với Ngài chăng"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "chiếc ngai"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "sự tàn hại"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "định hình ra"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "gian ác"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "trên"
+    },
+    {
+      "surface": "חק",
+      "gloss": "luật định"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:23.766270368Z",
+  "model": "glm-5.3"
+}

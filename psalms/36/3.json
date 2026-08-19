@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 36,
+  "translation": "Vì nó tự làm cho êm dịu trong mắt nó, để tìm ra tội ác của nó, để ghét.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "nó tự làm cho êm dịu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "cho chính nó"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "trong mắt nó"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "để tìm ra"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "tội ác của nó"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "để ghét"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:54.014204566Z",
+  "model": "glm-5.3"
+}

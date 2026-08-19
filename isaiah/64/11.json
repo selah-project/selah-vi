@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 64:11",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 64,
+  "translation": "Này những điều này, Yahweh kiềm chế sao? Im lặng và hành hạ chúng ta quá mức?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "này đối với"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "những điều này"
+    },
+    {
+      "surface": "תתאפק",
+      "gloss": "Ngài kiềm chế"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "im lặng"
+    },
+    {
+      "surface": "ותעננו",
+      "gloss": "và hành hạ chúng ta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến mức"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "quá mức"
+    }
+  ],
+  "timestamp": "2026-08-19T04:15:23.322816937Z",
+  "model": "glm-5.3"
+}

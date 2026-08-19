@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 24:20",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Nếu các ngươi bỏ ⟨את⟩ Yahweh và phụng sự các thần lạ, thì Ngài sẽ quay lại và làm điều dữ cho các ngươi, và hủy diệt ⟨את⟩ các ngươi, sau khi Ngài đã làm điều lành cho các ngươi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "các ngươi bỏ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "và phụng sự"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "các elohim"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "lạ"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "và Ngài sẽ quay lại"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "và làm điều dữ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho các ngươi"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "và hủy diệt"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sau khi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "Ngài đã làm điều lành"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:22:37.155911721Z",
+  "model": "glm-5.3"
+}

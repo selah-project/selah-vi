@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 114,
+  "translation": "Khi Yisra'el ra khỏi Mitsrayim, nhà Yaakov khỏi dân nói ngoại ngữ,",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "khi ra đi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "khỏi Mitsrayim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "khỏi dân"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "nói ngoại ngữ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:00.762317353Z",
+  "model": "glm-5.3"
+}

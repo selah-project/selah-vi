@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 15:14",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Nhưng ⟨את⟩ dân tộc mà chúng nó sẽ phục役, chính Ta sẽ xét đoán; và sau đó chúng nó sẽ ra đi với tài sản rất lớn.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "nhưng cũng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân tộc"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "dân tộc"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "יעבדו",
+      "gloss": "chúng nó sẽ phục役"
+    },
+    {
+      "surface": "דן",
+      "gloss": "sẽ xét đoán"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "chính Ta"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "và sau"
+    },
+    {
+      "surface": "כן",
+      "gloss": "đó"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "chúng nó sẽ ra đi"
+    },
+    {
+      "surface": "ברכש",
+      "gloss": "với tài sản"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "rất lớn"
+    }
+  ],
+  "timestamp": "2026-08-19T00:57:56.064491083Z",
+  "model": "glm-5.3"
+}

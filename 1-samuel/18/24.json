@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 18:24",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Các tôi tớ của Shaun báo cho người ấy rằng: David đã nói theo những lời này.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "và báo"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "các tôi tớ của"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho người ấy"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "theo những lời"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "này"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "đã nói"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-19T03:34:20.785593172Z",
+  "model": "glm-5.3"
+}

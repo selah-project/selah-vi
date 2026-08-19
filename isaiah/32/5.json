@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Kẻ hèn kia sẽ không còn được gọi là rộng lượng, và đối với kẻ keo kiệt sẽ không nói ⟨rằng⟩ sang trọng.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "sẽ-được-gọi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "còn-nữa"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "cho-kẻ-hèn"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "rộng-lượng"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "và-cho-kẻ-keo-kiệt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sẽ-nói"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "sang-trọng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:09:54.269368542Z",
+  "model": "glm-5.3"
+}

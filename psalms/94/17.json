@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 94:17",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 94,
+  "translation": "Nếu không có Yahweh trợ giúp ⟨את⟩ tôi, thì linh hồn tôi đã gần như cư ngụ trong sự im lặng.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "nếu không"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "sự trợ giúp"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "gần như"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "đã cư ngụ"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "sự im lặng"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "linh hồn tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:23.765803155Z",
+  "model": "glm-5.3"
+}

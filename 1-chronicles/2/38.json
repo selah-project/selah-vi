@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Va Oved sinh ra ⟨את⟩ Yehu, va Yehu sinh ra ⟨את⟩ Azaryah.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "va Oved"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "sinh ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "va Yehu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "sinh ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azaryah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaryah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:47:05.307678647Z",
+  "model": "glm-5.3"
+}

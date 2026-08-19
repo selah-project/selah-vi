@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 22:31",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Một dòng hậu sẽ phụng sự Ngài; sẽ được kể lại cho Adonai, cho dòng đời sau.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "dòng hậu"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "sẽ phụng sự Ngài"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "sẽ được kể lại"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "cho Adonai"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "cho dòng đời"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:29.511269795Z",
+  "model": "glm-5.3"
+}

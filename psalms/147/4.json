@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 147,
+  "translation": "⟨Ngài⟩ định số lượng cho các ngôi sao, cho tất cả chúng ⟨ngài⟩ gọi tên.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "đếm\/định lượng"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "số lượng"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "cho các ngôi sao"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "cho tất cả chúng"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "những cái tên"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "⟨ngài⟩ gọi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:19:09.080175013Z",
+  "model": "glm-5.3"
+}

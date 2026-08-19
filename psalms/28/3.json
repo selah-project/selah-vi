@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Đừng kéo tôi đi cùng kẻ ác, và cùng những kẻ làm điều gian ác, những kẻ nói bình an với bạn hữu mình, nhưng gian độc trong lòng họ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "kéo tôi đi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cùng"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "và cùng"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "những kẻ làm"
+    },
+    {
+      "surface": "און",
+      "gloss": "điều gian ác"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "những kẻ nói"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "bình an"
+    },
+    {
+      "surface": "עם",
+      "gloss": "với"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "bạn hữu của họ"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "nhưng gian độc"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "trong lòng họ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:13.381237356Z",
+  "model": "glm-5.3"
+}

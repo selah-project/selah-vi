@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 11:18",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Kẻ ác làm công việc dối trá, còn kẻ gieo sự công chính ⟨thu⟩ phần thưởng ⟨chắc⟩ thật.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "làm"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "công việc"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dối trá"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "còn kẻ gieo"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "sự công chính"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "phần thưởng"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "thật"
+    }
+  ],
+  "timestamp": "2026-08-19T05:15:54.477793614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 21:18",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Vì bất kỳ người nào mà trong người có tật thì đừng đến gần: người mù, hoặc què, hoặc sẹo mũi dính, hoặc có chi dư dạng.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bất kỳ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "בו",
+      "gloss": "trong người"
+    },
+    {
+      "surface": "מום",
+      "gloss": "tật"
+    },
+    {
+      "surface": "לא",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "đến gần"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "עור",
+      "gloss": "mù"
+    },
+    {
+      "surface": "או",
+      "gloss": "hoặc"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "què"
+    },
+    {
+      "surface": "או",
+      "gloss": "hoặc"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "sẹo mũi dính"
+    },
+    {
+      "surface": "או",
+      "gloss": "hoặc"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "có chi dư dạng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:46:27.530580049Z",
+  "model": "glm-5.3"
+}

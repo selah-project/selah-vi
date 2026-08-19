@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Rồi Yehoshua cho ⟨את⟩ dân sự ra về, mỗi người đến cơ nghiệp của mình.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "và cho ra về"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân sự"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mỗi người"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "đến cơ nghiệp của mình"
+    }
+  ],
+  "timestamp": "2026-08-19T03:21:33.341646122Z",
+  "model": "glm-5.3"
+}

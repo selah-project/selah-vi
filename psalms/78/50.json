@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 78,
+  "translation": "Ngài dọn một lối cho cơn giận của Ngài; Ngài không giữ họ khỏi chết, mà đã phó sinh mạng của họ cho bệnh dịch.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "dọn phẳng"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "một lối mòn"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "cho cơn giận của Ngài"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "giữ lại"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "khỏi sự chết"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "hồn sống của họ"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "và sinh mạng của họ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "cho bệnh dịch"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "đã phó thác"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:04.000090575Z",
+  "model": "glm-5.3"
+}

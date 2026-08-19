@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 40:11",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Người đã đo ⟨את⟩ bề ngang lối vào của cổng: mười khubits; chiều dài của cổng: mười ba khubits.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "đã đo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bề ngang lối vào của cổng"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "bề ngang"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "lối vào"
+    },
+    {
+      "surface": "השער",
+      "gloss": "của cổng"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mười"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "khubits"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "chiều dài"
+    },
+    {
+      "surface": "השער",
+      "gloss": "của cổng"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "ba"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "mười"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "khubits"
+    }
+  ],
+  "timestamp": "2026-08-19T04:41:52.341125092Z",
+  "model": "glm-5.3"
+}

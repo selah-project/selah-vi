@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 37:25",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Người làm ⟨את⟩ bàn thờ hương bằng gỗ keo שטים: dài một ammah, rộng một ammah, hình vuông, cao hai ammah; các sừng của nó được làm từ chính nó.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Người làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bàn thờ hương"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "của hương"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "gỗ của"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "keo שטים"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "một ammah"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dài của nó"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "và một ammah"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "rộng của nó"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "hình vuông"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "và hai ammah"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "cao của nó"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "từ nó"
+    },
+    {
+      "surface": "היו",
+      "gloss": "là"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "các sừng của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:38:28.852349607Z",
+  "model": "glm-5.3"
+}

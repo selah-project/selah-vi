@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Nguyện mặt Ngài chiếu sáng trên tôi tớ Ngài, và dạy con ⟨את⟩ các luật lệ của Ngài.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "mặt Ngài"
+    },
+    {
+      "surface": "האר",
+      "gloss": "nguyện chiếu sáng"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "trên tôi tớ Ngài"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "và dạy con"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các luật lệ của Ngài"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "các luật lệ của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:05.616533447Z",
+  "model": "glm-5.3"
+}

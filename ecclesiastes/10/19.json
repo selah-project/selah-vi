@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 10:19",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Vì tiệc tùng người ta làm bánh mì, và rượu làm cho sự sống vui mừng; còn bạc vàng thì đáp ứng ⟨את⟩ mọi sự.",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "vì tiếng cười"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "người ta làm"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bánh mì"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "và rượu"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "làm cho vui mừng"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "sự sống"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "còn bạc vàng"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "đáp ứng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi sự"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "mọi sự"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:34.980652032Z",
+  "model": "glm-5.3"
+}

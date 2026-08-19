@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 83,
+  "translation": "Cả Ashshur cũng liên kết với chúng; chúng đã thành cánh tay cho con cháu Lot. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "cũng"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "liên kết"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "với chúng"
+    },
+    {
+      "surface": "היו",
+      "gloss": "đã thành"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "cánh tay"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "cho con cháu"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:39.937548248Z",
+  "model": "glm-5.3"
+}

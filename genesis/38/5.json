@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 38,
+  "translation": "Bà lại thêm và sinh một con trai, và bà gọi tên ông ⟨את⟩ là Shelah; và Yehudah ⟨ở⟩ tại Chezib khi bà sinh ⟨אתו⟩ ông.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "bà thêm"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nữa\/lại"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "và sinh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "và gọi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tên ông"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "tên ông"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Shelah"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "và ⟨ông⟩ ở"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "tại Chezib"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "khi bà sinh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ông"
+    }
+  ],
+  "timestamp": "2026-08-19T01:24:43.769383497Z",
+  "model": "glm-5.3"
+}

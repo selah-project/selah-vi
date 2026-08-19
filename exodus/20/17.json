@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 20:17",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Ngươi chớ ham muốn nhà của kẻ lân cận ngươi; ngươi chớ ham muốn vợ của kẻ lân cận ngươi, cùng tôi trai của người, tớ gái của người, bò của người, lừa của người, và mọi vật gì thuộc về kẻ lân cận ngươi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "ham muốn"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "của kẻ lân cận ngươi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "ham muốn"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vợ"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "của kẻ lân cận ngươi"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "cùng tôi trai của người"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "tớ gái của người"
+    },
+    {
+      "surface": "ושורו",
+      "gloss": "bò của người"
+    },
+    {
+      "surface": "וחמרו",
+      "gloss": "lừa của người"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vật gì"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "thuộc về kẻ lân cận ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:32:21.793247910Z",
+  "model": "glm-5.3"
+}

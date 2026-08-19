@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 36:9",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 36,
+  "translation": "Còn làm sao ngươi đánh lui được ⟨את⟩ mặt của một viên tổng trấn nhỏ nhất trong các đầy tớ của chúa ta, mà ngươi còn cậy vào Mitzrayim để lấy chiến xa và kỵ binh?",
+  "tokens": [
+    {
+      "surface": "ואיך",
+      "gloss": "còn làm sao"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "ngươi đánh lui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mặt của một viên tổng trấn"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "viên tổng trấn"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "một"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "trong các đầy tớ của"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "chúa ta"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "nhỏ nhất"
+    },
+    {
+      "surface": "ותבטח",
+      "gloss": "mà ngươi tin cậy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngươi"
+    },
+    {
+      "surface": "על",
+      "gloss": "vào"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "để lấy chiến xa"
+    },
+    {
+      "surface": "ולפרשים",
+      "gloss": "và kỵ binh"
+    }
+  ],
+  "timestamp": "2026-08-19T04:11:21.359339787Z",
+  "model": "glm-5.3"
+}

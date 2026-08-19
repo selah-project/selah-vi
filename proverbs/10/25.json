@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 10:25",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Như cơn bão cuốn qua thì kẻ gian ác không còn, nhưng người công chính ⟨là⟩ nền móng muôn đời.",
+  "tokens": [
+    {
+      "surface": "כעבור",
+      "gloss": "như sự đi qua"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "cơn bão"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "và không còn"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kẻ gian ác"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "còn người công chính"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "nền móng"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "muôn đời"
+    }
+  ],
+  "timestamp": "2026-08-19T05:15:46.942735767Z",
+  "model": "glm-5.3"
+}

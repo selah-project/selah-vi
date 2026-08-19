@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 29:19",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Và ngươi hãy lấy ⟨את⟩ con cừu đực thứ hai, và Aharon cùng các con trai ông hãy đặt ⟨את⟩ tay mình lên trên đầu con cừu đực.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "và ngươi hãy lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con cừu đực thứ hai"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "con cừu đực"
+    },
+    {
+      "surface": "השני",
+      "gloss": "thứ hai"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "và hãy áp"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "và các con trai ông"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tay mình"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "tay của họ"
+    },
+    {
+      "surface": "על",
+      "gloss": "lên trên"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "đầu"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "con cừu đực"
+    }
+  ],
+  "timestamp": "2026-08-19T02:36:26.406745481Z",
+  "model": "glm-5.3"
+}

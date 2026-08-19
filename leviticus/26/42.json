@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "thì Ta sẽ nhớ ⟨את⟩ giao ước Ta với Yaakov, và cả ⟨את⟩ giao ước Ta với Yitschak, và cả ⟨את⟩ giao ước Ta với Avraham Ta sẽ nhớ; và đất, Ta sẽ nhớ.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "và Ta sẽ nhớ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "giao ước Ta"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "giao ước Ta"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "và cả"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "giao ước Ta"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "giao ước Ta"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "và cả"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "giao ước Ta"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "giao ước Ta"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "Ta sẽ nhớ"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "và đất"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "Ta sẽ nhớ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:51:25.326929751Z",
+  "model": "glm-5.3"
+}

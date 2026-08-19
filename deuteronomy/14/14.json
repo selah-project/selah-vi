@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "và ⟨את⟩ mọi quạ theo loài của nó",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mọi quạ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "quạ"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "theo loài của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T03:08:05.522807978Z",
+  "model": "glm-5.3"
+}

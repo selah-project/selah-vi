@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "thì nó sẽ cạo mình, nhưng ⟨את⟩ vảy bệnh nó sẽ không cạo; và thầy tế lễ sẽ giam ⟨את⟩ vảy bệnh đó bảy ngày lần thứ hai.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "thì nó sẽ cạo mình"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vảy bệnh"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "vảy bệnh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "sẽ cạo"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "và sẽ giam"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "thầy tế lễ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vảy bệnh đó"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "vảy bệnh"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "bảy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "lần thứ hai"
+    }
+  ],
+  "timestamp": "2026-08-19T02:43:25.044012937Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 102,
+  "translation": "Tôi nói: El của tôi ơi, xin đừng đem tôi đi lên giữa phần nửa ngày-life của tôi; qua các dòng dõi ⟨là⟩ các năm của Ngài.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "tôi nói"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El của tôi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "xin đừng"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "đem tôi đi lên"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "giữa phần nửa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ngày-life của tôi"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "qua dòng-dõi"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "các dòng-dõi"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "các năm của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:29.188103535Z",
+  "model": "glm-5.3"
+}

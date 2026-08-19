@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 9:18",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Này, vào giờ này ngày mai Ta sẽ làm mưa xuống mưa đá rất nặng, thứ mà chưa từng có như thế trong đất Mitzrayim, từ ngày nó được lập cho đến bây giờ.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "này, Ta đây"
+    },
+    {
+      "surface": "ממטיר",
+      "gloss": "làm mưa xuống"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "vào giờ này"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ngày mai"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "mưa đá"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "nặng"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "rất"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "היה",
+      "gloss": "đã có"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "như thế"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "trong đất Mitzrayim"
+    },
+    {
+      "surface": "למן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "הוסדה",
+      "gloss": "nó được lập"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "bây giờ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:29:58.605874754Z",
+  "model": "glm-5.3"
+}

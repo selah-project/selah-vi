@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Ở trên Ngài ⟨tôi⟩ đã bị ném xuống từ lúc trong womb; từ bụng mẹ ⟨tôi⟩ — El của ⟨tôi⟩ chính là Ngài.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Ở trên Ngài"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "tôi đã bị ném xuống"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "từ lúc trong womb"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "từ bụng mẹ"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "của tôi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El của tôi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "chính là Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:03.916187972Z",
+  "model": "glm-5.3"
+}

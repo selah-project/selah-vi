@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 3:5",
+  "book": "song-of-songs",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Tôi đã khiến các ngươi thề, hỡi các con gái Yerushalayim, bởi các con nai dâng hay là bởi các con hươu của đồng ruộng: chớ đánh thức, và chớ khuấy động ⟨את⟩ tình yêu, cho đến chừng nào ⟨nó⟩ ước muốn.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "tôi-đã-khiến-thề"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-các-ngươi",
+      "marks": "các con gái Yerushalayim"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "các-con-gái"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "bởi-các-con-nai-dưng"
+    },
+    {
+      "surface": "או",
+      "gloss": "hay-là"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "bởi-các-con-hươu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "của-đồng-ruộng"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "các-ngươi-đánh-thức"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "và-nếu"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "các-ngươi-khuấy-động"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tình yêu"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "tình-yêu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho-đến-khi"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "nó-ước-muốn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:29:09.249572281Z",
+  "model": "glm-5.3"
+}

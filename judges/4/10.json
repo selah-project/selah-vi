@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 4:10",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và Baraq triệu tập ⟨את⟩ Zevulun và ⟨את⟩ Naphtali tại Qedesh, và ông lên đường với mười nghìn người theo chân mình; và Devorah lên đường với ông.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "và ông triệu tập"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Baraq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zevulun"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zevulun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Naphtali"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naphtali"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "Qedesh"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "và ông lên đường"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "theo chân mình"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "mười"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "nghìn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "và nàng lên đường"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "với ông"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Devorah"
+    }
+  ],
+  "timestamp": "2026-08-19T03:23:05.941741591Z",
+  "model": "glm-5.3"
+}

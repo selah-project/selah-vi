@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 37:6",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Và người nói với họ: Hãy nghe ○này○, chiêm bao này mà tôi đã mơ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và người nói"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "với họ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hãy nghe"
+    },
+    {
+      "surface": "נא",
+      "gloss": "này"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "chiêm bao"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "tôi đã mơ"
+    }
+  ],
+  "timestamp": "2026-08-19T01:24:00.806689288Z",
+  "model": "glm-5.3"
+}

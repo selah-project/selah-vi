@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 89,
+  "translation": "Tôi đã cắt ⟨giao ước⟩ với kẻ Ta chọn lựa, tôi đã thề với Davíd, tôi tớ của Ta.",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "tôi đã cắt"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "giao ước"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "với kẻ Ta chọn lựa"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "tôi đã thề"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "với Davíd"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "i tớ của Ta"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:13.614002761Z",
+  "model": "glm-5.3"
+}

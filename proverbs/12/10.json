@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Người công bình biết đến sinh linh của súc vật mình, còn lòng thương xót của kẻ ác thì tàn bạo.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "biết"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "người công bình"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sinh linh"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "súc vật của mình"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "còn lòng thương xót của"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "tàn bạo"
+    }
+  ],
+  "timestamp": "2026-08-19T05:16:01.801988917Z",
+  "model": "glm-5.3"
+}

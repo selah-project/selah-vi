@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "⟨את⟩ cú nhỏ, và ⟨את⟩ cú lớn, và cú sừng",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cú nhỏ"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "cú nhỏ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "cú lớn"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "cú lớn"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "và cú sừng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:08:05.523163795Z",
+  "model": "glm-5.3"
+}

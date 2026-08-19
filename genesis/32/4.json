@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 32:4",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Và Yaakov sai các sứ giả đi trước mình đến với Esav, anh của ông, đến đất Seir, vùng đồng ruộng của Edom.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "và sai"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "các sứ giả"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "đi trước mình"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến với"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "anh của ông"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "đến đất"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "vùng đồng ruộng"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "của Edom"
+    }
+  ],
+  "timestamp": "2026-08-19T01:17:36.053343148Z",
+  "model": "glm-5.3"
+}

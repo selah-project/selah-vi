@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "và người ta đã cho họ ⟨את⟩ Chebron trong đất của Yehudah, và ⟨את⟩ các đất trống quanh nó.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "và người ta đã cho"
+    },
+    {
+      "surface": "להם",
+      "gloss": "họ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chebron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chebron"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trong đất của"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các đất trống của nó"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "các đất trống của nó"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "quanh nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:48:19.415442181Z",
+  "model": "glm-5.3"
+}

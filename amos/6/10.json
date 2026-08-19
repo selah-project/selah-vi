@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 6:10",
+  "book": "amos",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Người thân của hắn sẽ khiêng hắn lên, kẻ hỏa thiêu hắn, để đưa xương ra khỏi nhà; và người ấy sẽ nói với kẻ ở trong góc sâu của nhà: Còn ai với ngươi không? Và kẻ ấy sẽ nói: Không còn. Và người ấy sẽ nói: Im lặng! Vì chẳng được nhắc đến danh Yahweh.",
+  "tokens": [
+    {
+      "surface": "ונשאו",
+      "gloss": "và sẽ khiêng lên"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "người thân của hắn"
+    },
+    {
+      "surface": "ומסרפו",
+      "gloss": "và kẻ hỏa thiêu hắn"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "để đưa ra"
+    },
+    {
+      "surface": "עצמים",
+      "gloss": "xương"
+    },
+    {
+      "surface": "מן",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "với kẻ"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "trong góc sâu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "của nhà"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "còn"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "với ngươi"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "không còn"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "הס",
+      "gloss": "im lặng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "được nhắc đến"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "danh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T04:47:49.348647310Z",
+  "model": "glm-5.3"
+}

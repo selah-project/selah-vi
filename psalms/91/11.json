@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 91,
+  "translation": "Vì các thiên sứ của Ngài, Ngài sẽ ra lệnh ⟨về⟩ ngươi, để giữ gìn ngươi trong mọi con đường của ngươi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Vì"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "các thiên sứ của Ngài"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "sẽ ra lệnh"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨về⟩ ngươi"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "để giữ gìn ngươi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "trong mọi"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "con đường của ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:38:10.078411669Z",
+  "model": "glm-5.3"
+}

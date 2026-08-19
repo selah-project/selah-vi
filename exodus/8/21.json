@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Paroh bèn gọi ⟨אל⟩ Moshe và Aharon, và nói: Hãy đi, hãy tế lễ cho Elohim của các ngươi trong đất.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "bèn gọi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨אל⟩ với"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "và Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "hãy đi"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "hãy tế lễ"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "cho Elohim của các ngươi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trong đất"
+    }
+  ],
+  "timestamp": "2026-08-19T02:29:33.097957915Z",
+  "model": "glm-5.3"
+}

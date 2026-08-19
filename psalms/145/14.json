@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 145,
+  "translation": "Yahweh nâng đỡ mọi kẻ ngã xuống, và dựng đứng mọi kẻ cong cúi.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "nâng đỡ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "kẻ ngã xuống"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "và dựng đứng"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "kẻ cong cúi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:24.964021819Z",
+  "model": "glm-5.3"
+}

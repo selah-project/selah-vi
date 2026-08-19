@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và Adah sinh ra ⟨את⟩ Yaval; chính ⟨người⟩ ⟨là⟩ cha của những kẻ sống trong trại và ⟨nuôi⟩ súc vật.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "và sinh ra"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaval"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Yaval"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chính người"
+    },
+    {
+      "surface": "היה",
+      "gloss": "là"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "cha của"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sống trong"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "trại"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "và súc vật"
+    }
+  ],
+  "timestamp": "2026-08-19T00:48:42.985424215Z",
+  "model": "glm-5.3"
+}

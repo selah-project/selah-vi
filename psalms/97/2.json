@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 97,
+  "translation": "Mây mù và tối tăm bao quanh ⟨Ngài⟩; sự công bình và án phán ⟨là⟩ nền ngai của ⟨Ngài⟩.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "mây mù"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "và tối tăm"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "bao quanh Ngài"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sự công bình"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "và án phán"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "nền"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ngai của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:25.128051471Z",
+  "model": "glm-5.3"
+}

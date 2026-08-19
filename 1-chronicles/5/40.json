@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "và Azaryah sinh ⟨את⟩ Serayah, và Serayah sinh ⟨את⟩ Yehotsadak.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "và Azaryah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "đã sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serayah"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serayah"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "và Serayah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "đã sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehotsadak"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Yehotsadak"
+    }
+  ],
+  "timestamp": "2026-08-19T05:47:31.467551364Z",
+  "model": "glm-5.3"
+}

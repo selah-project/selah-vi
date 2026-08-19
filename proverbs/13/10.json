@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Chỉ bằng kiêu ngạo mới sinh tranh cãi, nhưng với ⟨את⟩ những người bàn tính ⟨là⟩ sự khôn ngoan.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "chỉ"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "bằng kiêu ngạo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "sinh ra"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "tranh cãi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "những người bàn tính"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "những người bàn tính"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "sự khôn ngoan"
+    }
+  ],
+  "timestamp": "2026-08-19T05:15:51.174230999Z",
+  "model": "glm-5.3"
+}

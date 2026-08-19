@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 14:10",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Vua nói: \"Ai nói với ngươi điều gì, hãy đem nó đến cùng ta, và nó sẽ không thêm nữa động đến ngươi.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "người nói"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "với ngươi"
+    },
+    {
+      "surface": "והבאתו",
+      "gloss": "hãy đem nó"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "đến cùng ta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "sẽ thêm"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nữa"
+    },
+    {
+      "surface": "לגעת",
+      "gloss": "động đến"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:41:49.468711913Z",
+  "model": "glm-5.3"
+}

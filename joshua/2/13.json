@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 2:13",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "và hãy giữ cho sống ⟨את⟩ cha tôi, và ⟨את⟩ mẹ tôi, và ⟨את⟩ các anh em tôi, và ⟨את⟩ các chị em tôi, và ⟨את⟩ tất cả những gì thuộc về họ; và hãy giải cứu ⟨את⟩ mạng sống chúng tôi khỏi sự chết.",
+  "tokens": [
+    {
+      "surface": "והחיתם",
+      "gloss": "và hãy giữ cho sống"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cha tôi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "cha tôi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "mẹ tôi"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mẹ tôi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các anh em tôi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "các anh em tôi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các chị em tôi"
+    },
+    {
+      "surface": "אחותי",
+      "gloss": "các chị em tôi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "tất cả những gì thuộc về họ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "những gì"
+    },
+    {
+      "surface": "להם",
+      "gloss": "thuộc về họ"
+    },
+    {
+      "surface": "והצלתם",
+      "gloss": "và hãy giải cứu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mạng sống chúng tôi"
+    },
+    {
+      "surface": "נפשתינו",
+      "gloss": "mạng sống chúng tôi"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "khỏi sự chết"
+    }
+  ],
+  "timestamp": "2026-08-19T03:15:52.890605670Z",
+  "model": "glm-5.3"
+}

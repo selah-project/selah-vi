@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Kẻ chăn chiên đông đảo đã hủy hoại vườn nho của tôi, đã giày đạp ⟨את⟩ phần đất của tôi; chúng đã biến ⟨את⟩ phần đất yêu quí của tôi thành hoang địa điêu tàn.",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "kẻ chăn chiên"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "đông đảo"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "đã hủy hoại"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "vườn nho của tôi"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "đã giày đạp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phần đất của tôi"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "phần đất của tôi"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "đã biến cho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phần đất yêu quí"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "phần đất"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "yêu quí của tôi"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "thành hoang địa"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "điêu tàn"
+    }
+  ],
+  "timestamp": "2026-08-19T04:19:53.941477690Z",
+  "model": "glm-5.3"
+}

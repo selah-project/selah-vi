@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 32:3",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Và ông bàn nghị với các quan tướng của mình và các dũng sĩ của mình để lấp ⟨את⟩ nước của các suối ở ngoài thành, và họ giúp ông.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "và bàn nghị"
+    },
+    {
+      "surface": "עם",
+      "gloss": "với"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "các quan tướng của mình"
+    },
+    {
+      "surface": "וגבריו",
+      "gloss": "và các dũng sĩ của mình"
+    },
+    {
+      "surface": "לסתום",
+      "gloss": "để lấp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nước của các suối"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "nước của"
+    },
+    {
+      "surface": "העינות",
+      "gloss": "các suối"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ở ngoài"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "thành"
+    },
+    {
+      "surface": "ויעזרוהו",
+      "gloss": "và họ giúp ông"
+    }
+  ],
+  "timestamp": "2026-08-19T06:01:31.109450945Z",
+  "model": "glm-5.3"
+}

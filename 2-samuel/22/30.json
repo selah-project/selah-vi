@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 22:30",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Vì nhờ Ngài con chạy xuyên qua đạo quân; nhờ Elohim của con con nhảy qua tường.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "nhờ Ngài"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "con chạy xuyên qua"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "đạo quân"
+    },
+    {
+      "surface": "באלהי",
+      "gloss": "nhờ Elohim của con"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "con nhảy qua"
+    },
+    {
+      "surface": "שור",
+      "gloss": "tường"
+    }
+  ],
+  "timestamp": "2026-08-19T03:45:42.421041408Z",
+  "model": "glm-5.3"
+}

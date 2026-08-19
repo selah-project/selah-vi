@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Và đây là luật về của lễ tội lỗi: nó là thánh của các thứ thánh.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "và đây"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "luật"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "của lễ tội lỗi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "thánh"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "các thứ thánh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:40:59.761249097Z",
+  "model": "glm-5.3"
+}

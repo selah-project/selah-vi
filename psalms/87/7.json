@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 87,
+  "translation": "Và những người ca hát như những người múa nhảy ⟨sẽ nói⟩: 'Mọi suối nguồn của tôi ở trong Ngươi.'",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "và những người ca hát"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "như những người múa nhảy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "suối nguồn của tôi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ở trong Ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:28.293316551Z",
+  "model": "glm-5.3"
+}

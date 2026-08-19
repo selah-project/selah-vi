@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Mọi ngày nó nằm hoang vu nó sẽ nghỉ ngơi ⟨את⟩ điều mà nó đã không được nghỉ trong các ngày sa-bát của các ngươi, khi các ngươi cư ngụ trên nó.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "nằm hoang vu"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "sẽ nghỉ ngơi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "điều mà nó đã không được nghỉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "điều mà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "đã nghỉ"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "trong các ngày sa-bát của các ngươi"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "khi các ngươi cư ngụ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "trên nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:51:11.479242488Z",
+  "model": "glm-5.3"
+}

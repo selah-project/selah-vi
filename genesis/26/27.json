@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 26:27",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Và Yitschak nói với họ: Vì sao các ngươi đến với tôi, trong khi các ngươi đã ghét ⟨את⟩ tôi và đã đuổi tôi khỏi với ⟨את⟩ các ngươi?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "với họ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "vì sao"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "các ngươi đến"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "với tôi"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "và các ngươi"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "đã ghét"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "tôi"
+    },
+    {
+      "surface": "ותשלחוני",
+      "gloss": "và đã đuổi tôi"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "khỏi với ⟨את⟩ các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T01:08:20.453947631Z",
+  "model": "glm-5.3"
+}

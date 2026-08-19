@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 16:31",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Và nhà Yisrael đã gọi tên nó là man; nó như hạt ngò, trắng, và vị của nó như bánh mỏng với mật ong.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "và đã gọi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tên nó"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "tên nó"
+    },
+    {
+      "surface": "מן",
+      "gloss": "man"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "và nó"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "như hạt"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ngò"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "trắng"
+    },
+    {
+      "surface": "וטעמו",
+      "gloss": "và vị của nó"
+    },
+    {
+      "surface": "כצפיחת",
+      "gloss": "như bánh mỏng"
+    },
+    {
+      "surface": "בדבש",
+      "gloss": "với mật ong"
+    }
+  ],
+  "timestamp": "2026-08-19T02:31:47.887760669Z",
+  "model": "glm-5.3"
+}

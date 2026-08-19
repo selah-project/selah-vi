@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Và các ngươi sẽ tìm kiếm ⟨את⟩ tôi, và sẽ tìm thấy, vì các ngươi tìm kiếm tôi bằng cả lòng của các ngươi.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "và các ngươi sẽ tìm kiếm"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ tôi",
+      "marks": "tôi"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "và các ngươi sẽ tìm thấy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "các ngươi tìm kiếm tôi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bằng cả"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "lòng của các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:14:06.648099487Z",
+  "model": "glm-5.3"
+}

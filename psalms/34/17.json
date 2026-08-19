@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 34:17",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 34,
+  "translation": "Mặt của Yahweh ⟨là⟩ chống against những kẻ làm điều ác, để cắt đứt ký ức của chúng khỏi đất.",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "mặt của"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "những kẻ làm"
+    },
+    {
+      "surface": "רע",
+      "gloss": "điều ác"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "để cắt đứt"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "khỏi đất"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ký ức của chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:28.867443702Z",
+  "model": "glm-5.3"
+}

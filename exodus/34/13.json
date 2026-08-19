@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 34,
+  "translation": "Vì ⟨את⟩ bàn thờ của chúng nó các ngươi sẽ phá đổ, và ⟨את⟩ trụ thần của chúng nó các ngươi sẽ đập vỡ, và ⟨את⟩ cây thờ Asherah của chúng nó các ngươi sẽ chặt đi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bàn thờ của chúng nó"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "bàn thờ của chúng nó"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "các ngươi sẽ phá đổ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "trụ thần của chúng nó"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "trụ thần của chúng nó"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "các ngươi sẽ đập vỡ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "cây thờ Asherah của chúng nó"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "cây thờ Asherah của chúng nó"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "các ngươi sẽ chặt đi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:37:09.152885615Z",
+  "model": "glm-5.3"
+}

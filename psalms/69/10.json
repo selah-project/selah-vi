@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 69,
+  "translation": "Vì sự nóng giận ⟨sốt⟩ vì nhà ngươi đã ngấu nghiến tôi, và những lời sỉ nhục của kẻ sỉ nhục ngươi đã rơi xuống trên tôi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "sự ghen tương"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nhà ngươi"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "đã ăn nuốt tôi"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "và những lời sỉ nhục"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "của kẻ sỉ nhục ngươi"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "đã rơi xuống"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "trên tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:06.328907143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Nếu trong các luật lệ của Ta các ngươi đi, và ⟨את⟩ các điều răn của Ta các ngươi giữ, và các ngươi làm ⟨אתם⟩ chúng",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "trong các luật lệ của Ta"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "các ngươi đi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các điều răn của Ta"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "các điều răn của Ta"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "các ngươi giữ"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "và các ngươi làm"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "chúng (các điều răn)"
+    }
+  ],
+  "timestamp": "2026-08-19T02:48:30.645198812Z",
+  "model": "glm-5.3"
+}

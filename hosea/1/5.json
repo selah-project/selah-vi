@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và sẽ xảy ra trong ngày ấy: Ta sẽ bẻ gãy ⟨את⟩ cung của Yisra'el trong thung lũng Yizre'el.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "và sẽ xảy ra"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "trong ngày"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ấy"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "ta sẽ bẻ gãy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cung của Yisra'el"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "cung"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "trong thung lũng"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizre'el"
+    }
+  ],
+  "timestamp": "2026-08-19T04:44:28.809498830Z",
+  "model": "glm-5.3"
+}

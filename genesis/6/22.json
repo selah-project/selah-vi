@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và Noach làm theo mọi điều mà Elohim đã truyền lệnh ⟨את⟩ ông; như vậy ⟨ông⟩ đã làm.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "và ông làm"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "theo mọi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "đã truyền lệnh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ông (Noach)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "như vậy"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "đã làm"
+    }
+  ],
+  "timestamp": "2026-08-19T00:49:28.648384440Z",
+  "model": "glm-5.3"
+}

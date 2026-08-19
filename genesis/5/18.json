@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 5:18",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Và Yered sống hai và sáu mươi năm, và một trăm năm, rồi sinh ⟨את⟩ Chanokh.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "và sống"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Yered"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "hai"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "và sáu mươi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "năm"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "và một trăm"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "năm"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "rồi sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chanokh"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanokh"
+    }
+  ],
+  "timestamp": "2026-08-19T00:49:18.808335406Z",
+  "model": "glm-5.3"
+}

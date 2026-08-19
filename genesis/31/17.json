@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Yaakov đứng dậy, và đặt ⟨את⟩ các con trai mình cùng ⟨את⟩ các vợ mình lên lưng lạc đà.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "đứng dậy"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "và đặt lên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các con trai mình"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "các con trai mình"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các vợ mình"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "các vợ mình"
+    },
+    {
+      "surface": "על",
+      "gloss": "lên trên"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "những con lạc đà"
+    }
+  ],
+  "timestamp": "2026-08-19T02:23:19.877273802Z",
+  "model": "glm-5.3"
+}

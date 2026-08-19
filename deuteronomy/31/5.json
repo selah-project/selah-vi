@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 31:5",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Và Yahweh sẽ giao chúng nó trước mặt các ngươi, và các ngươi sẽ làm cho chúng nó theo toàn điều răn mà ta đã truyền cho các ngươi.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "và-sẽ-giao-họ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "trước-mặt-các-ngươi"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "và-các-ngươi-sẽ-làm"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho-chúng-nó"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "theo-toàn-thể"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "điều-răn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ta-đã-truyền"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩các-ngươi",
+      "marks": "các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:14:27.382914603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "genesis 24:57",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Và họ nói: Hãy gọi thiếu nữ, và chúng ta sẽ hỏi ⟨את⟩ miệng nàng.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "và họ nói"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "hãy gọi"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "thiếu nữ"
+    },
+    {
+      "surface": "ונשאלה",
+      "gloss": "và chúng ta sẽ hỏi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miệng nàng"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "miệng nàng"
+    }
+  ],
+  "timestamp": "2026-08-19T01:06:11.339769060Z",
+  "model": "glm-5.3"
+}

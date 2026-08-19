@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Dù tôi đi trong trũng bóng tử, tôi sẽ không sợ điều ác, vì chính Ngài ở cùng tôi; cây trượng của Ngài và cây gậy của Ngài, chính chúng an ủi tôi.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "dù"
+    },
+    {
+      "surface": "כי",
+      "gloss": "khi"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "tôi đi"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "trong trũng"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "bóng tử"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "tôi sợ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "điều ác"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "chính Ngài"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ở cùng tôi"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "cây trượng của Ngài"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "và cây gậy của Ngài"
+    },
+    {
+      "surface": "המה",
+      "gloss": "chính chúng"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "an ủi tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:17.753092315Z",
+  "model": "glm-5.3"
+}

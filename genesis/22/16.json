@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 22:16",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "và phán: 'Phải, Ta đã thề — sấm ngôn của Yahweh — vì ngươi đã làm ⟨את⟩ việc này và không giữ lại ⟨את⟩ con trai ngươi, ⟨את⟩ đứa con duy nhất của ngươi.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và phán"
+    },
+    {
+      "surface": "בי",
+      "gloss": "phải (nhân danh Ta)"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "Ta đã thề"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sấm ngôn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "יען",
+      "gloss": "bởi vì"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ngươi đã làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "việc này"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "việc"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "giữ lại"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con trai ngươi"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "con trai ngươi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đứa con duy nhất của ngươi"
+    },
+    {
+      "surface": "יחידך",
+      "gloss": "đứa con duy nhất của ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T01:05:18.060366609Z",
+  "model": "glm-5.3"
+}

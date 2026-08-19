@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 9:15",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Dù tôi ⟨có⟩ công bình, tôi cũng không dám đáp lời, nhưng đối với Đấng xử kiện tôi, tôi chỉ khẩn cầu而已.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "⟨Đấng mà⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dù"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "tôi công bình"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "tôi đáp lời"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "đối với Đấng xử kiện tôi"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "tôi khẩn cầu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:21:50.463605073Z",
+  "model": "glm-5.3"
+}

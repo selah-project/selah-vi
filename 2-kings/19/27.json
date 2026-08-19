@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 19:27",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Còn Ta biết ngươi ngồi xuống, ra đi, và đi vào, và ⟨את⟩ cơn thịnh nộ của ngươi chống против Ta.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "và sự ngồi của ngươi"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "và sự ra đi của ngươi"
+    },
+    {
+      "surface": "ובאך",
+      "gloss": "và sự đi vào của ngươi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "Ta biết"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "cơn thịnh nộ của ngươi"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "sự thịnh nộ của ngươi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "đến với Ta"
+    }
+  ],
+  "timestamp": "2026-08-19T04:01:49.404725590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 119:65",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Tốt Ngài đã làm với tôi tớ Ngài, Yahweh, theo lời Ngài.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "tốt"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "Ngài đã làm"
+    },
+    {
+      "surface": "עם",
+      "gloss": "với"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tôi tớ Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "theo lời Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:45.368842332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Chính ⟨את⟩ Ngài họ đã kêu cứu và được thoát; nơi Ngài họ đã tin cậy và không hổ thẹn.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "chính ⟨את⟩ Ngài"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "họ đã kêu cứu"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "và được thoát"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nơi Ngài"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "họ đã tin cậy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "hổ thẹn"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:57.065190652Z",
+  "model": "glm-5.3"
+}

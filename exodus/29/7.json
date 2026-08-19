@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Ngươi sẽ lấy ⟨את⟩ dầu xức, đổ trên đầu người, và xức cho ⟨אתו⟩ người.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ngươi sẽ lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dầu xức"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "dầu"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "xức"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "và đổ"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "đầu người"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "và xức cho"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "người (Aharon)"
+    }
+  ],
+  "timestamp": "2026-08-19T02:35:31.692554403Z",
+  "model": "glm-5.3"
+}

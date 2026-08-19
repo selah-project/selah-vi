@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Ngươi đặt chúng tôi thành câu chuyện ví von giữa các dân tộc, thành sự lắc đầu giữa các quốc gia.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Ngươi đặt chúng tôi"
+    },
+    {
+      "surface": "משל",
+      "gloss": "câu chuyện ví von"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "giữa các dân tộc"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "sự lắc (đầu)"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "đầu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "giữa các"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "quốc gia"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:57.778413385Z",
+  "model": "glm-5.3"
+}

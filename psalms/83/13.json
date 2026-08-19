@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 83,
+  "translation": "Họ đã nói: Hãy chiếm lấy cho chúng ta ⟨את⟩ những đồng cỏ của Elohim.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "những kẻ mà"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "đã nói"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "hãy chiếm lấy"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "cho chúng ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "những đồng cỏ của Elohim"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "những đồng cỏ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:45.141996013Z",
+  "model": "glm-5.3"
+}

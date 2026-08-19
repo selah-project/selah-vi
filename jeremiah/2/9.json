@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 2:9",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Vì vậy Ta còn sẽ tranh luận với ⟨את⟩ các ngươi, sấm ngôn của Yahweh, và với ⟨את⟩ con cháu các ngươi Ta sẽ tranh luận.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "vì vậy"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "còn"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "Ta sẽ tranh luận"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ với các ngươi",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sấm ngôn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con cháu các ngươi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con của"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "con cái các ngươi"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "Ta sẽ tranh luận"
+    }
+  ],
+  "timestamp": "2026-08-19T04:16:21.347253995Z",
+  "model": "glm-5.3"
+}

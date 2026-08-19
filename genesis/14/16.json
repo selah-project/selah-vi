@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Và ông đem lại ⟨את⟩ tất cả tài sản, và cả ⟨את⟩ Lot anh mình cùng tài sản của anh — ông đã đem lại — và cả ⟨את⟩ các phụ nữ và ⟨את⟩ dân sự.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "và đã đem lại"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả tài sản"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "tài sản"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "và cả"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "anh của mình"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "và tài sản của anh"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "đã đem lại"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "và cả"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các phụ nữ"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "các phụ nữ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dân sự"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    }
+  ],
+  "timestamp": "2026-08-19T00:55:53.578410726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Và David chiếm lấy ⟨את⟩ pháo đài Tzion — đó là thành của David.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "và chiếm lấy"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pháo đài Tzion"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "pháo đài"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "היא",
+      "gloss": "đó là"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "thành"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "của David"
+    }
+  ],
+  "timestamp": "2026-08-19T03:39:42.324288477Z",
+  "model": "glm-5.3"
+}

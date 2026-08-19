@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Tôi nằm xuống và ngủ, tôi thức dậy, vì Yahweh nâng đỡ tôi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "đã nằm xuống"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "và ngủ"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "tôi thức dậy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "nâng đỡ tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:55:02.419393420Z",
+  "model": "glm-5.3"
+}

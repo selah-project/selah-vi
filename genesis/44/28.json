@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 44:28",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Và một người ⟨את⟩-của-tôi đã đi khỏi, và tôi nói: chắc chắn bị xé nát, xé nát rồi, và tôi không thấy ⟨את⟩-yêu-từ đó cho đến nay.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "và đã đi ra"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "người-một"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ khỏi-tôi",
+      "marks": "người-một"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "và tôi nói"
+    },
+    {
+      "surface": "אך",
+      "gloss": "chắc chắn"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "bị xé nát"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "xé nát"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "tôi thấy nó"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "nay"
+    }
+  ],
+  "timestamp": "2026-08-19T06:31:45.616892892Z",
+  "model": "glm-5.3"
+}

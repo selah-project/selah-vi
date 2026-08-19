@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Các quan tướng của Pharaoh thấy ⟨את⟩ nàng và tán dương nàng trước Pharaoh, và người đàn bà bị đem vào nhà Pharaoh.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "và thấy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nàng"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "các quan tướng"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaoh"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "và tán dương"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nàng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến trước"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaoh"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "và bị đem"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "người đàn bà"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaoh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:23:49.442406964Z",
+  "model": "glm-5.3"
+}

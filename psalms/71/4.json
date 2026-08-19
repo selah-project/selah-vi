@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 71,
+  "translation": "Elohim của con ơi, xin cứu thoát con khỏi tay kẻ ác, khỏi bàn tay kẻ hành động bất chính và bạo tàn.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của con ơi"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "xin cứu thoát con"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "khỏi tay"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "khỏi bàn tay"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "kẻ hành động bất chính"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "và bạo tàn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:43.574787439Z",
+  "model": "glm-5.3"
+}

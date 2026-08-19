@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Vì ngày và đêm tay Ngài nặng trĩu trên tôi; sức sống tôi trở thành như sương khô của mùa hạ. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "và đêm"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "nặng trĩu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "trên tôi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tay Ngài"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "trở thành"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "như sương khô"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "trong sự hạn hán"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "mùa hạ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:03.414222347Z",
+  "model": "glm-5.3"
+}

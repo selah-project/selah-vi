@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "vì Yahweh Elohim của các ngươi là Đấng đi cùng các ngươi, để chiến đấu cho các ngươi chống kẻ thù nghịch của các ngươi, để cứu ⟨את⟩ các ngươi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim của các ngươi"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "là Đấng đi"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "cùng các ngươi"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "để chiến đấu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho các ngươi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "chống"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "kẻ thù nghịch của các ngươi"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "để cứu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:10:12.585474703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 25:5",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Và đạo quân Kasdim đuổi theo vua, và họ bắt kịp ⟨את⟩ ông tại đồng bằng Yericho; và toàn thể quân lực của ông bị tan tác khỏi ông.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "và họ đuổi theo"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "đạo quân"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdim"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sau"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "וישגו",
+      "gloss": "và họ bắt kịp"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ông"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "tại đồng bằng"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yericho"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và toàn thể"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "quân lực của ông"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "bị tan tác"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "khỏi ông"
+    }
+  ],
+  "timestamp": "2026-08-19T04:03:16.967709100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "một dân tộc hăng hái mặt mày, không tôn trọng diện mạo người già, và không thương xót kẻ trẻ.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "một dân tộc"
+    },
+    {
+      "surface": "עז",
+      "gloss": "hăng hái"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "mặt mày"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "tôn trọng"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "diện mạo"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "người già"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "và kẻ trẻ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "thương xót"
+    }
+  ],
+  "timestamp": "2026-08-19T03:12:41.556403247Z",
+  "model": "glm-5.3"
+}

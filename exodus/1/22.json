@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 1:22",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và Paroh ra lệnh cho toàn dân của ngài, rằng: mọi con trai sinh ra, hãy ném xuống sông; còn mọi con gái, hãy cho sống.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "và ra lệnh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "cho toàn"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "dân của ngài"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "sinh ra"
+    },
+    {
+      "surface": "היארה",
+      "gloss": "xuống sông"
+    },
+    {
+      "surface": "תשליכהו",
+      "gloss": "hãy ném nó"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "còn mọi"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "con gái"
+    },
+    {
+      "surface": "תחיון",
+      "gloss": "hãy cho sống"
+    }
+  ],
+  "timestamp": "2026-08-19T02:26:53.527236922Z",
+  "model": "glm-5.3"
+}

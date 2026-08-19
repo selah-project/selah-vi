@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "và ⟨את⟩ toàn thể hội chúng, hãy tập họp tại cửa lều hội kiến.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "toàn thể hội chúng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "hội chúng"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "hãy tập họp"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tại"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "cửa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "lều"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "hội kiến"
+    }
+  ],
+  "timestamp": "2026-08-19T02:41:16.785761436Z",
+  "model": "glm-5.3"
+}

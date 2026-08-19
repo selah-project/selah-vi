@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 15:20",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Và Miryam nữ tiên tri, chị của Aharon, cầm ⟨את⟩ trống trong tay mình; và tất cả phụ nữ đi ra theo bà với trống và với múa.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "và-cầm"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miryam"
+    },
+    {
+      "surface": "הנביאה",
+      "gloss": "nữ-tiên-tri"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "chị-của"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trống"
+    },
+    {
+      "surface": "התף",
+      "gloss": "trống"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "trong-tay-mình"
+    },
+    {
+      "surface": "ותצאן",
+      "gloss": "và-họ-đi-ra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất-cả"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "phụ-nữ"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "theo-bà"
+    },
+    {
+      "surface": "בתפים",
+      "gloss": "với-trống"
+    },
+    {
+      "surface": "ובמחלת",
+      "gloss": "và-với-múa"
+    }
+  ],
+  "timestamp": "2026-08-19T02:31:29.528569778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 21:8",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Và con cái Yisrael đã ban cho người Levi ⟨את⟩ các thành này và ⟨את⟩ đất ngoại vi của chúng, như Yahweh đã truyền phán bằng tay Moshe, bằng cách bắt thăm.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "và đã ban"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "cho người Levi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các thành này"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "các thành"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "này"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "đất ngoại vi của chúng"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "đất ngoại vi của chúng"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "đã truyền phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bằng tay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "bằng cách bắt thăm"
+    }
+  ],
+  "timestamp": "2026-08-19T03:20:36.881915426Z",
+  "model": "glm-5.3"
+}

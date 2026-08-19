@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Và ngươi hãy dựng ⟨את⟩ Đền Tạm theo khuôn mẫu của nó, mà ngươi đã được thấy trên núi.",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "và ngươi hãy dựng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Đền Tạm"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Đền Tạm"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "theo khuôn mẫu của nó"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "ngươi đã được thấy"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "trên núi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:34:50.172960063Z",
+  "model": "glm-5.3"
+}

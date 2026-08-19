@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Elohim nghe ⟨את⟩ tiếng rên siết của họ, Elohim nhớ ⟨את⟩ giao ước của Ngài — ⟨את⟩ Avraham, ⟨את⟩ Yitschak, và ⟨את⟩ Yaakov.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "và nghe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiếng rên siết của họ"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "tiếng rên siết của họ"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "và nhớ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "giao ước của Ngài"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "giao ước của Ngài"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-19T02:27:34.144934043Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Vậy bây giờ hãy đi, và chính ta sẽ ở cùng miệng ngươi, và ta sẽ dạy ngươi điều ngươi phải nói.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "vậy bây giờ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hãy đi"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "và chính ta"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "sẽ ở"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cùng"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "miệng ngươi"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "và sẽ dạy ngươi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "điều mà"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ngươi nói"
+    }
+  ],
+  "timestamp": "2026-08-19T02:28:42.564152928Z",
+  "model": "glm-5.3"
+}

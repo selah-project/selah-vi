@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và ⟨את⟩ tháp Penuel ông đã phá đổ, và ông giết ⟨את⟩ những người đàn ông của thành.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tháp Penuel"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "tháp"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "phá đổ"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "và ông giết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "những người đàn ông của thành"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "những người đàn ông của"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "thành"
+    }
+  ],
+  "timestamp": "2026-08-19T03:25:04.984491152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 16:3",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Này, Ta sẽ thiêu tiêu sau lưng Baasha và sau lưng nhà của nó, và Ta sẽ đặt ⟨את⟩ nhà ngươi như nhà của Yaroveam con của Nevat.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "này, Ta ở đây"
+    },
+    {
+      "surface": "מבעיר",
+      "gloss": "Ta sẽ thiêu tiêu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sau lưng"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "và sau lưng"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nhà của nó"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "và Ta sẽ đặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhà ngươi"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nhà ngươi"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "như nhà của"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaroveam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con của"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    }
+  ],
+  "timestamp": "2026-08-19T03:53:06.454021657Z",
+  "model": "glm-5.3"
+}

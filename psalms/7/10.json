@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 7:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Xin hãy chấm dứt điều ác của kẻ ác, và hãy làm vững người công chính; ⟨và⟩ Đấng xét thấu lòng và trái thận là Elohim công chính, ⟨Đấng⟩ soi xét lòng và trái thận.",
+  "tokens": [
+    {
+      "surface": "יגמר",
+      "gloss": "xin hãy chấm dứt"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xin"
+    },
+    {
+      "surface": "רע",
+      "gloss": "điều ác"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "của kẻ ác"
+    },
+    {
+      "surface": "ותכונן",
+      "gloss": "và hãy làm vững"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "người công chính"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "và soi xét"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "lòng"
+    },
+    {
+      "surface": "וכליות",
+      "gloss": "và trái thận"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "công chính"
+    }
+  ],
+  "timestamp": "2026-08-19T04:54:44.042391608Z",
+  "model": "glm-5.3"
+}

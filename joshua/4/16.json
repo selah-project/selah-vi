@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Hãy truyền lệnh cho ⟨את⟩ các thầy tế lễ, những người khiêng hòm giao ước, rằng họ hãy lên khỏi sông Yarden.",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "hãy truyền lệnh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các thầy tế lễ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "các thầy tế lễ"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "những người khiêng"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "hòm"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "giao ước\/làm chứng"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "rằng họ hãy lên"
+    },
+    {
+      "surface": "מן",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sông Yarden"
+    }
+  ],
+  "timestamp": "2026-08-19T03:15:22.383020098Z",
+  "model": "glm-5.3"
+}

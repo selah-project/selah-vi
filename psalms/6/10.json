@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Yahweh đã nghe lời khẩn cầu của tôi; Yahweh sẽ nhận lời cầu nguyện của tôi.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "đã nghe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "lời khẩn cầu của tôi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "lời cầu nguyện của tôi"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "sẽ nhận"
+    }
+  ],
+  "timestamp": "2026-08-19T04:54:38.128412061Z",
+  "model": "glm-5.3"
+}

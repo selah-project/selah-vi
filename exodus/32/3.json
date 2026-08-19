@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Và toàn thể dân sự tháo ⟨את⟩ những chiếc khuyên vàng đeo trên tai mình, và đem đến cho Aharon.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "và đã tự tháo ra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "những chiếc khuyên vàng"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "những chiếc khuyên"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "vàng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "trên tai họ"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "và đã đem đến"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến với"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-19T02:36:29.507029224Z",
+  "model": "glm-5.3"
+}

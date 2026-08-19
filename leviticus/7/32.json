@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Và ⟨את⟩ chân phải các ngươi phải cho làm lễ dâng cho thầy tế lễ, từ các hy sinh bình an của các ngươi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "chân phải"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "chân"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "phải"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "các ngươi phải cho"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "lễ dâng"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "cho thầy tế lễ"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "từ các hy sinh"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "bình an của các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:40:58.938500311Z",
+  "model": "glm-5.3"
+}

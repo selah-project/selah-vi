@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và ta sẽ hạ nhục ⟨את⟩ dòng dõi David vì điều nầy, nhưng không phải mọi ngày.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "và ta sẽ hạ nhục"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dòng dõi David"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "dòng dõi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למען",
+      "gloss": "vì"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "điều nầy"
+    },
+    {
+      "surface": "אך",
+      "gloss": "nhưng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ngày"
+    }
+  ],
+  "timestamp": "2026-08-19T03:51:18.505028779Z",
+  "model": "glm-5.3"
+}

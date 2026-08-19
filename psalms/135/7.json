@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 135,
+  "translation": "Đấng làm cho hơi nước bay lên từ tận cùng đất, làm sấm chớp cho mưa, đấng đưa gió ra khỏi các kho tàng của Ngài.",
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "làm cho bay lên"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "hơi nước"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "từ tận cùng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "sấm chớp"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "cho mưa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "làm"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "đưa ra"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "gió"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "khỏi các kho tàng của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:12.309990966Z",
+  "model": "glm-5.3"
+}

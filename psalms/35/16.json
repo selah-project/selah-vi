@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 35:16",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 35,
+  "translation": "Giữa những kẻ đạo đức giả, những kẻ nhạo báng tiệc tùng, nghiến răng chúng nó chống lại tôi.",
+  "tokens": [
+    {
+      "surface": "בחנפי",
+      "gloss": "giữa những kẻ đạo đức giả"
+    },
+    {
+      "surface": "לעגי",
+      "gloss": "những kẻ nhạo báng"
+    },
+    {
+      "surface": "מעוג",
+      "gloss": "tiệc tùng"
+    },
+    {
+      "surface": "חרק",
+      "gloss": "nghiến"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "chống lại tôi"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "răng chúng nó"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:48.716671530Z",
+  "model": "glm-5.3"
+}

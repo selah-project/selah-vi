@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 149,
+  "translation": "Để làm sự báo thù giữa các dân ngoại, sự quở trách giữa các nước.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "để làm"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "sự báo thù"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "giữa các dân ngoại"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "sự quở trách"
+    },
+    {
+      "surface": "בל",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "các nước"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:25.021335514Z",
+  "model": "glm-5.3"
+}

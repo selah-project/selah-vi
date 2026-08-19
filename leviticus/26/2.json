@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "⟨את⟩ các ngày sabát của Ta các ngươi hãy giữ, và thánh điện của Ta các ngươi hãy kính sợ: Ta ⟨là⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các ngày sabát của Ta"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "các ngày sabát của Ta"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "các ngươi hãy giữ"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "và thánh điện của Ta"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "các ngươi hãy kính sợ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:48:30.645020994Z",
+  "model": "glm-5.3"
+}

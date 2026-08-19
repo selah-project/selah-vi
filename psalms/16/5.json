@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Yahweh ⟨là⟩ phần chia của con và chén của con; chính Ngài nâng đỡ số phần của con.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "phần chia"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "phần của con"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "và chén của con"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "chính Ngài"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "nâng đỡ"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "số phần của con"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:02.933157921Z",
+  "model": "glm-5.3"
+}

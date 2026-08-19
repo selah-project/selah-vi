@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 16:24",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Và sẽ rửa ⟨את⟩ thân thể mình trong nước tại nơi thánh, và sẽ mặc ⟨את⟩ các áo mình, và sẽ ra, và sẽ làm ⟨את⟩ của lễ thiêu của mình và ⟨את⟩ của lễ thiêu của dân, và sẽ đền tội cho mình và cho dân.",
+  "tokens": [
+    {
+      "surface": "ורחץ",
+      "gloss": "và sẽ rửa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thân thể mình"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "thân thể mình"
+    },
+    {
+      "surface": "במים",
+      "gloss": "trong nước"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "tại nơi"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "thánh"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "và sẽ mặc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các áo mình"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "các áo mình"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "và sẽ ra"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "và sẽ làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "của lễ thiêu của mình"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "của lễ thiêu của mình"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "của lễ thiêu của dân"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "của lễ thiêu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "của dân"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "và sẽ đền tội"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "cho mình"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "và cho"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    }
+  ],
+  "timestamp": "2026-08-19T02:45:31.012408901Z",
+  "model": "glm-5.3"
+}

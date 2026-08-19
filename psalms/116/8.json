@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 116,
+  "translation": "Vì Ngài ⟨đã⟩ cứu ⟨את⟩ hồn tôi khỏi sự chết, ⟨את⟩ mắt tôi khỏi dòng lệ, ⟨את⟩ chân tôi khỏi vấp ngã.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Vì"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "⟨đã⟩ cứu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "hồn tôi"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "khỏi sự chết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mắt tôi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mắt tôi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "dòng lệ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chân tôi"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "chân tôi"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "khỏi vấp ngã"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:24.598869362Z",
+  "model": "glm-5.3"
+}

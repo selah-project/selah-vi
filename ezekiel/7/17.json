@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 7:17",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Mọi tay đều rũ xuống, và mọi đầu gối đều đi thành nước.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "tay"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "rũ xuống"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "đầu gối"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "đi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    }
+  ],
+  "timestamp": "2026-08-19T04:32:39.058909368Z",
+  "model": "glm-5.3"
+}

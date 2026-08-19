@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 35,
+  "translation": "Vì chúng không nói chuyện bình an, nhưng trên những người hiền lành của đất, những lời gian dối chúng mưu toan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "bình an"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "chúng nói"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "trên"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "những người hiền lành"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "của đất"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "những lời"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "gian dối"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "chúng mưu toan"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:53.479859356Z",
+  "model": "glm-5.3"
+}

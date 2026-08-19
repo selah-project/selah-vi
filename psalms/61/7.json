@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 61,
+  "translation": "Thêm ngày cho ngày của vua, thêm các năm ông như thế hệ này đến thế hệ kia.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "על",
+      "gloss": "thêm lên"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ngày của"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "ngươi thêm"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "các năm của ông"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "như"
+    },
+    {
+      "surface": "דר",
+      "gloss": "thế hệ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "và thế hệ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:44.019815230Z",
+  "model": "glm-5.3"
+}

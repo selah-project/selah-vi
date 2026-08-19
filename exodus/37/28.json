@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 37:28",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Người làm ⟨את⟩ các đòn khiêng bằng gỗ keo שטים, và phủ ⟨את⟩ chúng bằng vàng.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Người làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các đòn khiêng"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "các đòn khiêng"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "gỗ của"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "keo שטים"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "và người phủ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ chúng",
+      "marks": "chúng (các đòn khiêng)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bằng vàng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:38:28.853116458Z",
+  "model": "glm-5.3"
+}

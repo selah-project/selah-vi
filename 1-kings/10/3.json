@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Và Shlomoh giải thích cho bà ⟨את⟩ mọi câu hỏi của bà; không có điều gì bị che giấu khỏi vị vua mà ông không giải thích cho bà.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "và giải thích"
+    },
+    {
+      "surface": "לה",
+      "gloss": "cho bà"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi câu hỏi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "câu hỏi của bà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "היה",
+      "gloss": "có"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "điều gì"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "bị che giấu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vị vua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "giải thích"
+    },
+    {
+      "surface": "לה",
+      "gloss": "cho bà"
+    }
+  ],
+  "timestamp": "2026-08-19T03:50:21.787532691Z",
+  "model": "glm-5.3"
+}

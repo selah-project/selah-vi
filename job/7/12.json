@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Tôi ⟨là⟩ biển, hay là thủy quái, mà Ngài đặt canh giữ trên tôi?",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "biển"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hay là"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "thủy quái"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mà"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "Ngài đặt"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "trên tôi"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "canh giữ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:21:13.615714865Z",
+  "model": "glm-5.3"
+}

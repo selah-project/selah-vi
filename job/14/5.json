@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 14:5",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Nếu các ngày của người ⟨đã⟩ định rồi, số các tháng của người ⟨את⟩ ở với Ngài, Ngài đã đặt giới hạn của người, và nó sẽ không vượt qua.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "đã định"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "các ngày của người"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "số"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "các tháng của người"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ở với Ngài",
+      "marks": "ở với Ngài"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "giới hạn của người"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "Ngài đã đặt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "sẽ vượt qua"
+    }
+  ],
+  "timestamp": "2026-08-19T05:22:48.476400239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Chính chúng ta đã phạm phép và đã nổi loạn — Ngài ⟨là⟩ Đấng đã không tha thứ.",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "chính chúng ta"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "đã phạm phép"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "và đã nổi loạn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "đã tha thứ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:30:57.805900949Z",
+  "model": "glm-5.3"
+}

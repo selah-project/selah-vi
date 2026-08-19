@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-kings 11:34",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và ta sẽ không lấy ⟨את⟩ toàn vương quốc khỏi tay y, vì ta sẽ đặt y làm thủ lãnh mọi ngày đời của y, vì cớ David tôi tớ ta, mà ta đã chọn ⟨את⟩người, người đã giữ các điều răn ta và các luật lệ ta.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "ta sẽ lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toàn vương quốc"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "vương quốc"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "khỏi tay y"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "làm thủ lãnh"
+    },
+    {
+      "surface": "אשתנו",
+      "gloss": "ta sẽ đặt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "đời của y"
+    },
+    {
+      "surface": "למען",
+      "gloss": "vì cớ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "tôi tớ ta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ta đã chọn"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ người",
+      "marks": "người (David)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "người"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "đã giữ"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "các điều răn ta"
+    },
+    {
+      "surface": "וחקתי",
+      "gloss": "và các luật lệ ta"
+    }
+  ],
+  "timestamp": "2026-08-19T03:51:13.083631373Z",
+  "model": "glm-5.3"
+}

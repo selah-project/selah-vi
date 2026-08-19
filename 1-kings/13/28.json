@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 13:28",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Người đi và tìm thấy ⟨את⟩ xác chết của người bị ném xuống giữa đường, còn con lừa và con sư tử đứng bên cạnh xác chết; sư tử không ăn ⟨את⟩ xác chết và không xé ⟨את⟩ con lừa.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "đi"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "tìm thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xác chết của người"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "xác chết của người"
+    },
+    {
+      "surface": "משלכת",
+      "gloss": "bị ném xuống"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "giữa đường"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "và con lừa"
+    },
+    {
+      "surface": "והאריה",
+      "gloss": "và con sư tử"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "đứng"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "bên cạnh"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "xác chết"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ăn"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "con sư tử"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xác chết"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "xác chết"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "xé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con lừa"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "con lừa"
+    }
+  ],
+  "timestamp": "2026-08-19T06:10:01.666685420Z",
+  "model": "glm-5.3"
+}

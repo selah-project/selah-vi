@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Và con trai của Cham: Kush, và Mitzrayim, và Put, và Kena'an.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "và con trai của"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "và Mitzrayim"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "và Put"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "và Kena'an"
+    }
+  ],
+  "timestamp": "2026-08-19T00:51:06.185275595Z",
+  "model": "glm-5.3"
+}

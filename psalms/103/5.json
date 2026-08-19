@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 103:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 103,
+  "translation": "Đấng làm thỏa mãn ⟨את⟩ điều tốt cho miệng ngươi, tuổi trẻ ngươi được đổi mới như chim bằng.",
+  "tokens": [
+    {
+      "surface": "המשביע",
+      "gloss": "Đấng làm thỏa mãn"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "với điều tốt"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "trang sức của ngươi (miệng ngươi)"
+    },
+    {
+      "surface": "תתחדש",
+      "gloss": "được đổi mới"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "như chim bằng"
+    },
+    {
+      "surface": "נעוריכי",
+      "gloss": "tuổi trẻ của ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:00.708969528Z",
+  "model": "glm-5.3"
+}

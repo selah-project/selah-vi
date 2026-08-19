@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 75,
+  "translation": "Chúng tôi tạ ơn Ngài, hỡi Elohim, chúng tôi tạ ơn, vì Danh Ngài ⟨thì⟩ gần; người ta kể lại các việc lạ lùng của Ngài.",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "chúng tôi tạ ơn"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "chúng tôi tạ ơn"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "và gần"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Danh Ngài"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "người ta kể lại"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "các việc lạ lùng của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:37.785339480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Bài ca của các bài ca, cái thuộc về Shlomo.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "bài ca"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "của các bài ca"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cái mà"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "thuộc về Shlomo"
+    }
+  ],
+  "timestamp": "2026-08-19T05:28:42.415014659Z",
+  "model": "glm-5.3"
+}

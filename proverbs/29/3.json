@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 29:3",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Người yêu khôn ngoan làm cha mình vui mừng, nhưng kẻ giao du với kỹ nữ thì hủy hoại của cải.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "yêu"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "khôn ngoan"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "làm... vui mừng"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "cha mình"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "nhưng kẻ giao du với"
+    },
+    {
+      "surface": "זונות",
+      "gloss": "kỹ nữ"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "hủy hoại"
+    },
+    {
+      "surface": "הון",
+      "gloss": "của cải"
+    }
+  ],
+  "timestamp": "2026-08-19T05:19:16.608035575Z",
+  "model": "glm-5.3"
+}

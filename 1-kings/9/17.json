@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và Shelomoh đã xây ⟨את⟩ Gazzer và ⟨את⟩ Beit-Choron dưới.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "và đã xây"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gazzer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gazzer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Beit-Choron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Choron"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "dưới"
+    }
+  ],
+  "timestamp": "2026-08-19T03:50:40.224363326Z",
+  "model": "glm-5.3"
+}

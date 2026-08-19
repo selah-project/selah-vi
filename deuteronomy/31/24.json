@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Và xảy đến, khi Moshe viết xong ⟨את⟩ các lời của Torah này vào trong sách, cho đến khi hoàn tất.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "và xảy đến"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "khi viết xong"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "viết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các lời của Torah này"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "các lời"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "này"
+    },
+    {
+      "surface": "על",
+      "gloss": "vào trong"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "sách"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến khi"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "hoàn tất"
+    }
+  ],
+  "timestamp": "2026-08-19T03:14:32.864319841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 34:35",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 34,
+  "translation": "Và con cái Yisrael nhìn thấy ⟨את⟩ mặt Moshe, rằng da mặt Moshe phát tia sáng; và Moshe đắp lại ⟨את⟩ tấm màn che trên mặt mình cho đến khi ông vào để phán bảo ⟨את⟩ Ngài.",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "và nhìn thấy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mặt Moshe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "phát tia sáng"
+    },
+    {
+      "surface": "עור",
+      "gloss": "da"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "và đắp lại"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tấm màn che"
+    },
+    {
+      "surface": "המסוה",
+      "gloss": "tấm màn che"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mặt mình"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến khi"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ông vào"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "để phán bảo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T02:37:15.529205682Z",
+  "model": "glm-5.3"
+}

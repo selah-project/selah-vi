@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "thì cơn thịnh nộ của Ta sẽ bừng lên, và Ta sẽ giết ⟨אתכם⟩ các ngươi bằng gươm, và các vợ của các ngươi sẽ thành quả phụ, con cái các ngươi thành trẻ mồ côi.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "và sẽ bừng lên"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "cơn thịnh nộ của Ta"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "và Ta sẽ giết"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩ các ngươi",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "bằng gươm"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "và sẽ thành"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "các vợ của các ngươi"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "quả phụ"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "và con cái các ngươi"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "trẻ mồ côi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:33:26.226572553Z",
+  "model": "glm-5.3"
+}

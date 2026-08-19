@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Vua che ⟨את⟩ mặt mình lại, và vua cất tiếng khóc lớn: Hỡi con trai tôi, Avshalom! Hỡi Avshalom, con trai tôi, con trai tôi!",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "và vua"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "che lại"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mặt mình"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mặt mình"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "và cất tiếng khóc"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tiếng"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lớn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con trai tôi"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con trai tôi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con trai tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:45:02.822571638Z",
+  "model": "glm-5.3"
+}

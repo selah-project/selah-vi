@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 3:21",
+  "book": "lamentations",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Điều này tôi đưa lại vào lòng mình, vì vậy tôi trông mong.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "điều này"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "tôi đưa lại"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vào"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "lòng mình"
+    },
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vậy"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "tôi trông mong"
+    }
+  ],
+  "timestamp": "2026-08-19T05:30:59.108678425Z",
+  "model": "glm-5.3"
+}

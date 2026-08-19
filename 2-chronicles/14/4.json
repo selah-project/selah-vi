@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 14:4",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Người đã dời đi khỏi mọi thành của Yehudah ⟨את⟩ các nơi cao và ⟨את⟩ các hình tượng mặt trời; và vương quốc được yên tịnh trước mặt người.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "đã dời đi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "khỏi mọi"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "thành của"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các nơi cao"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "các nơi cao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "các hình tượng mặt trời"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "các hình tượng mặt trời"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "và được yên tịsh"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "vương quốc"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "trước mặt người"
+    }
+  ],
+  "timestamp": "2026-08-19T05:56:47.888507997Z",
+  "model": "glm-5.3"
+}

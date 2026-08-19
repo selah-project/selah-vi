@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 109,
+  "translation": "Đây là phần việc của kẻ tố cáo tôi, từ phía ⟨את⟩ Yahweh, và của những kẻ nói điều ácAgainst linh hồn tôi.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "đây là"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "phần việc"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "của kẻ tố cáo tôi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "từ phía ⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "và của những kẻ nói"
+    },
+    {
+      "surface": "רע",
+      "gloss": "điều ác"
+    },
+    {
+      "surface": "על",
+      "gloss": "chống lại"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "linh hồn tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:53.769314771Z",
+  "model": "glm-5.3"
+}

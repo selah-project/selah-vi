@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Và người đo ⟨את⟩ hành lang của cổng, từ phía nhà, một sậy.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "và người đo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hành lang của cổng"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "hành lang"
+    },
+    {
+      "surface": "השער",
+      "gloss": "của cổng"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "từ phía nhà"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "một sậy"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "một"
+    }
+  ],
+  "timestamp": "2026-08-19T04:42:12.916018325Z",
+  "model": "glm-5.3"
+}

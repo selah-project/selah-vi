@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Nơi Ngài tổ phụ chúng tôi đã tin cậy; họ đã tin cậy, và Ngài đã giải cứu họ.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "nơi Ngài"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "đã tin cậy"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "tổ phụ chúng tôi"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "đã tin cậy"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "và Ngài đã giải cứu họ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:57.064986031Z",
+  "model": "glm-5.3"
+}

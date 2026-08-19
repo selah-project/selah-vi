@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 49:16",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 49,
+  "translation": "Chắc chắn Elohim sẽ chuộc mạng sống tôi khỏi tay Sheol, vì Ngài sẽ tiếp nhận tôi. Selah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "chắc chắn"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "sẽ chuộc"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mạng sống tôi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "khỏi tay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "Ngài sẽ tiếp nhận tôi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:00.686258025Z",
+  "model": "glm-5.3"
+}

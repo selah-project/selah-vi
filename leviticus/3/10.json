@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 3:10",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và ⟨את⟩ hai quả thận, và ⟨את⟩ lớp mỡ ở trên chúng, vốn ở trên hai bên hông, và ⟨את⟩ thùy gan phía trên gan — nó sẽ lìa ra cùng với hai quả thận.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hai quả thận"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "hai"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "quả thận"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lớp mỡ"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lớp mỡ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "ở trên chúng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "על",
+      "gloss": "ở trên"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "hai bên hông"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "thùy gan"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "thùy gan"
+    },
+    {
+      "surface": "על",
+      "gloss": "phía trên"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "gan"
+    },
+    {
+      "surface": "על",
+      "gloss": "cùng với"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "quả thận"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "nó sẽ lìa nó ra"
+    }
+  ],
+  "timestamp": "2026-08-19T02:39:33.048503730Z",
+  "model": "glm-5.3"
+}

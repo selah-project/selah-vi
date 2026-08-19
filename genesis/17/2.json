@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Ta sẽ lập giao ước của Ta giữa Ta với ngươi, và Ta sẽ làm ngươi sinh sản ⟨את⟩ vô cùng vô số.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Ta sẽ lập"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "giao ước của Ta"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "giữa Ta"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "với ngươi"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "và Ta sẽ làm sinh sản"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "ngươi"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "vô cùng"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "vô số"
+    }
+  ],
+  "timestamp": "2026-08-19T01:00:53.103890050Z",
+  "model": "glm-5.3"
+}

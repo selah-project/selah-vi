@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 1:9",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và Elohim phán: Hãy để ⟨các⟩ nước dưới ⟨các⟩ tầng trời tụ lại về một nơi, và hãy để đất khô xuất hiện; và điều đó thành như vậy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và phán"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "hãy tụ lại"
+    },
+    {
+      "surface": "המים",
+      "gloss": "các nước"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "dưới"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "các tầng trời"
+    },
+    {
+      "surface": "אל",
+      "gloss": "về"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "nơi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "một"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "và hãy xuất hiện"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "đất khô"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "và thành"
+    },
+    {
+      "surface": "כן",
+      "gloss": "như vậy"
+    }
+  ],
+  "timestamp": "2026-08-19T00:46:28.453135378Z",
+  "model": "glm-5.3"
+}

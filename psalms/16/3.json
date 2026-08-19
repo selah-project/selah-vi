@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 16:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Với các thánh徒 ở trong đất — họ là những bậc tôn quý, mọi sự vui thích của con ở nơi họ.",
+  "tokens": [
+    {
+      "surface": "לקדושים",
+      "gloss": "với các thánh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ở trong đất"
+    },
+    {
+      "surface": "המה",
+      "gloss": "họ là"
+    },
+    {
+      "surface": "ואדירי",
+      "gloss": "và những bậc tôn quý"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "sự vui thích của con"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ở nơi họ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:20.530431042Z",
+  "model": "glm-5.3"
+}

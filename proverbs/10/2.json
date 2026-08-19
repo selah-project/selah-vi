@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Kho tàng của sự ác không mang lại lợi ích, nhưng sự công bình cứu ⟨khỏi⟩ chết.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "mang lại lợi ích"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "kho tàng"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "của sự ác"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "nhưng sự công bình"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "cứu"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "khỏi chết"
+    }
+  ],
+  "timestamp": "2026-08-19T05:15:48.625154036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 68:32",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 68,
+  "translation": "Các vị quý tộc sẽ đến từ Mitsrayim; Kush sẽ vội vàng giơ đôi tay mình đến Elohim.",
+  "tokens": [
+    {
+      "surface": "יאתיו",
+      "gloss": "sẽ-đến"
+    },
+    {
+      "surface": "חשמנים",
+      "gloss": "các-vị-quý-tộc"
+    },
+    {
+      "surface": "מני",
+      "gloss": "từ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "תריץ",
+      "gloss": "sẽ-vội-vàng"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "đôi-tay-của-nàng"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "đến-Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:33.382194125Z",
+  "model": "glm-5.3"
+}

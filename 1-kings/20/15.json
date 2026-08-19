@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 20:15",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Và người điểm số ⟨את⟩ các thanh niên của các thủ lãnh các vùng, và chúng là hai trăm ba mươi hai; và sau họ, người điểm số ⟨את⟩ toàn dân, mọi con cái Yisra'el, bảy ngàn.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "và người điểm số"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các thanh niên của các thủ lĩnh các vùng"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "các thanh niên của"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "các thủ lãnh"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "các vùng"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "và chúng là"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "hai trăm"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "hai"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "và ba mươi"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "và sau họ"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "người điểm số"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toàn dân"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái của"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "bảy"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ngàn"
+    }
+  ],
+  "timestamp": "2026-08-19T03:54:23.664364708Z",
+  "model": "glm-5.3"
+}

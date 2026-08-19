@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 26:2",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Như chim sẻ bay lượn, như nhạn bay vọt, vậy lời nguyền vô cớ sẽ không đến.",
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "như chim sẻ"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "bay lượn"
+    },
+    {
+      "surface": "כדרור",
+      "gloss": "như nhạn"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "bay vọt"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vậy"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "lời nguyền"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "vô cớ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "đến"
+    }
+  ],
+  "timestamp": "2026-08-19T05:19:01.737026083Z",
+  "model": "glm-5.3"
+}

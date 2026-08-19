@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 29:33",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Và chúng sẽ ăn ⟨אתם⟩ những điều mà đã được chuộc tội bằng chúng, để đầy tay chúng, để thánh hóa ⟨אתם⟩; còn người lạ thì không được ăn, vì chúng là điều thánh.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "và chúng sẽ ăn"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "những điều (món ăn chuộc tội)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "được chuộc tội"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "bằng chúng"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "để đầy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tay của họ"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "tay họ"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "để thánh hóa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chúng (Aharon và các con trai)"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "còn người lạ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "được ăn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "điều thánh"
+    },
+    {
+      "surface": "הם",
+      "gloss": "là chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:35:54.523328968Z",
+  "model": "glm-5.3"
+}

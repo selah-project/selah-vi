@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 20:13",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Và người đàn ông nào nằm với ⟨את⟩ con trai, như chỗ nằm với phụ nữ — cả hai đã làm điều gớm ghiếc — chắc chắn sẽ bị xử tử; máu của chúng ⟨là⟩ trên chúng.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "và người đàn ông"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "nằm với"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con trai"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "con trai (nam)"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "chỗ nằm của"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "phụ nữ"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "điều gớm ghiếc"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "cả hai"
+    },
+    {
+      "surface": "מות",
+      "gloss": "chết"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "sẽ bị xử tử"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "máu của chúng"
+    },
+    {
+      "surface": "בם",
+      "gloss": "trên chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:47:00.585786852Z",
+  "model": "glm-5.3"
+}

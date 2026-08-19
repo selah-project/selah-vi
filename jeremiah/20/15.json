@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 20:15",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Chúc dữ cho ⟨the⟩ người đã báo tin cho cha tôi, để nói rằng: 'Một con trai trai đã sinh ra cho ngươi', làm cho ông vui mừng hết mực!",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "chúc dữ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "người"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "đã báo tin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cha tôi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "cha tôi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "để nói"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "đã sinh"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngươi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "trai"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "làm vui mừng"
+    },
+    {
+      "surface": "שמחהו",
+      "gloss": "làm ông ấy vui mừng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:21:51.112531055Z",
+  "model": "glm-5.3"
+}

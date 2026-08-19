@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Và Yahweh giáng ⟨את⟩ Paroh những tai ương lớn và ⟨את⟩ nhà hắn, vì cớ Sarai, vợ của Avram.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "và đã giáng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "những tai ương"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "lớn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "nhà hắn"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nhà hắn"
+    },
+    {
+      "surface": "על",
+      "gloss": "vì cớ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "chuyện"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vợ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    }
+  ],
+  "timestamp": "2026-08-19T00:56:10.101449652Z",
+  "model": "glm-5.3"
+}

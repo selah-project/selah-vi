@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Lời của Lemu'el, vua — một gánh nặng ⟨mà⟩ mẹ người đã dạy dỗ ⟨hắn⟩.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "lời của"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Lemu'el"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "משא",
+      "gloss": "gánh nặng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟬mà⟭"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "đã dạy dỗ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mẹ người"
+    }
+  ],
+  "timestamp": "2026-08-19T05:19:53.339026107Z",
+  "model": "glm-5.3"
+}

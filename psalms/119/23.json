@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Dẫu các quan trưởng cũng ngồi ⟨và⟩ nói chống tôi, tôi tớ của Ngài vẫn suy gẫm trong các luật lệ của Ngài.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "dẫu… cũng"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ngồi"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "các quan trưởng"
+    },
+    {
+      "surface": "בי",
+      "gloss": "chống tôi"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "nói"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tôi tớ của Ngài"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "suy gẫm"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "trong các luật lệ của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:48.060611574Z",
+  "model": "glm-5.3"
+}

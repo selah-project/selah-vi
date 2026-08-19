@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 15:3",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Avshalom nói với người ấy: Kìa, việc của ngươi là tốt và chính đáng, nhưng không có ai nghe ngươi ⟨את⟩ từ phía vua.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "với người ấy"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "kìa, hãy xem"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "việc của ngươi"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "tốt"
+    },
+    {
+      "surface": "ונכחים",
+      "gloss": "và chính đáng"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "và nghe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngươi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "vua"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    }
+  ],
+  "timestamp": "2026-08-19T03:43:01.686574540Z",
+  "model": "glm-5.3"
+}

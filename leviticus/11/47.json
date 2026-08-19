@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 11:47",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "để phân biệt giữa điều ô uế và điều tinh sạch, giữa sinh vật được ăn và sinh vật không được ăn.",
+  "tokens": [
+    {
+      "surface": "להבדיל",
+      "gloss": "để phân biệt"
+    },
+    {
+      "surface": "בין",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "điều ô uế"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "và giữa"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "điều tinh sạch"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "và giữa"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "sinh vật"
+    },
+    {
+      "surface": "הנאכלת",
+      "gloss": "được ăn"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "và giữa"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "sinh vật"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "được ăn"
+    }
+  ],
+  "timestamp": "2026-08-19T02:41:56.930531673Z",
+  "model": "glm-5.3"
+}

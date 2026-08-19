@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 25:4",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "và xanh trời, và tím, và đỏ điều (tơ worms), và vải gai mịn, và lông dê.",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "và xanh trời"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "và tím"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "và sâu (đỏ điều)"
+    },
+    {
+      "surface": "שני",
+      "gloss": "đỏ điều"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "và vải gai mịn"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "và lông dê"
+    }
+  ],
+  "timestamp": "2026-08-19T02:34:03.266728383Z",
+  "model": "glm-5.3"
+}

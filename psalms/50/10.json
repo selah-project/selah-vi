@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 50,
+  "translation": "Vì của Ta là mọi thú ⟨của⟩ rừng, thú vật trên núi ⟨của⟩ ngàn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לי",
+      "gloss": "của-Ta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "פר",
+      "gloss": "bò"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "thú-của"
+    },
+    {
+      "surface": "יער",
+      "gloss": "rừng"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "thú-vật"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "trên-núi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ngàn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:27.707232709Z",
+  "model": "glm-5.3"
+}

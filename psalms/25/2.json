@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Elohim của tôi, trong Ngài tôi đã tin cậy; nguyện tôi đừng phải hổ thẹn; nguyện kẻ thù tôi đừng rejoiced−nhạo báng tôi.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của tôi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "trong Ngài"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "tôi đã tin cậy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nguyện đừng"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "tôi phải hổ thẹn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nguyện đừng"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "nhạo báng"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "kẻ thù tôi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:57.230956202Z",
+  "model": "glm-5.3"
+}

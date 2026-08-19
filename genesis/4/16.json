@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và Kayin đi ra khỏi trước mặt Yahweh, và định cư trong đất Nod, về phía đông của Eden.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "và đi ra"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "khỏi trước mặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "và định cư"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trong đất"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "Nod"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "về phía đông"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    }
+  ],
+  "timestamp": "2026-08-19T00:47:50.905753588Z",
+  "model": "glm-5.3"
+}

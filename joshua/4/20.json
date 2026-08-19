@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 4:20",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và ⟨את⟩ mười hai hòn đá này, mà chúng đã lấy từ sông Yarden, Yehoshua dựng lên tại Gilgal.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "mười hai hòn đá này"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "hai"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "mười"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "hòn đá"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "này"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "chúng đã lấy"
+    },
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sông Yarden"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "dựng lên"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "tại Gilgal"
+    }
+  ],
+  "timestamp": "2026-08-19T03:15:28.808147717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 11:7",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và Yiftach nói với các trưởng lão Gilad: Há không phải ⟨את⟩ là các ngươi đã ghét tôi và đuổi tôi khỏi nhà cha tôi? Vậy cớ sao bây giờ các ngươi đến với tôi khi các ngươi khốn khổ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftach"
+    },
+    {
+      "surface": "לזקני",
+      "gloss": "với các trưởng lão"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "há không"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "các ngươi"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "đã ghét"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ tôi",
+      "marks": "tôi (tân ngữ của 'đã ghét')"
+    },
+    {
+      "surface": "ותגרשוני",
+      "gloss": "và đuổi tôi"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "khỏi nhà"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "cha tôi"
+    },
+    {
+      "surface": "ומדוע",
+      "gloss": "vậy cớ sao"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "các ngươi đến"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "đến với tôi"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "bây giờ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "khi"
+    },
+    {
+      "surface": "צר",
+      "gloss": "khốn khổ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:26:05.033014021Z",
+  "model": "glm-5.3"
+}

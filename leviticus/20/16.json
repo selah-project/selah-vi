@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Và người phụ nữ nào đến gần bất kỳ con thú nào để giao hợp ⟨את⟩ với nó — ngươi phải giết ⟨את⟩ người phụ nữ và ⟨את⟩ con thú; chắc chắn chúng sẽ bị xử tử, máu của chúng ⟨là⟩ trên chúng.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "và người phụ nữ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "đến gần"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bất kỳ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "con thú"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "để giao hợp"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nó (con thú)"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "và ngươi phải giết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người phụ nữ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "người phụ nữ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con thú"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "con thú"
+    },
+    {
+      "surface": "מות",
+      "gloss": "chết"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "sẽ bị xử tử"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "máu của chúng"
+    },
+    {
+      "surface": "בם",
+      "gloss": "trên chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:47:00.586432748Z",
+  "model": "glm-5.3"
+}

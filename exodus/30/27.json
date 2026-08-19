@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 30:27",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Và ⟨את⟩ cái bàn cùng ⟨את⟩ mọi dụng cụ của nó, và ⟨את⟩ chân đèn cùng ⟨את⟩ các dụng cụ của nó, và ⟨את⟩ bàn thờ hương.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "cái bàn"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "cái bàn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "mọi dụng cụ của nó"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "dụng cụ của nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "chân đèn"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "chân đèn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các dụng cụ của nó"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "các dụng cụ của nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "bàn thờ hương"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "hương"
+    }
+  ],
+  "timestamp": "2026-08-19T02:35:56.452547608Z",
+  "model": "glm-5.3"
+}

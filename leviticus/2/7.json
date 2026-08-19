@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và nếu lễ vật của ngươi là lễ minh-cha nấu trong nồi, thì nó được làm bằng bột mịn với dầu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Và nếu"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "lễ minh-cha của"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "nồi nấu"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "lễ vật của ngươi"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "bột mịn"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "với dầu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "được làm"
+    }
+  ],
+  "timestamp": "2026-08-19T02:39:41.078275171Z",
+  "model": "glm-5.3"
+}

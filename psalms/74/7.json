@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 74,
+  "translation": "Họ đã phóng lửa vào thánh điện của Ngài; xuống tận đất, họ đã làm ô uế đền tạm Danh Ngài.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "họ đã phóng"
+    },
+    {
+      "surface": "באש",
+      "gloss": "lửa vào"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "thánh điện của Ngài"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "xuống tận đất"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "họ đã làm ô uế"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "đền tạm"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Danh Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:23.047015207Z",
+  "model": "glm-5.3"
+}

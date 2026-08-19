@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Nếu ngươi hà hiếp thật sự ⟨אתו⟩ hắn — quả thật nếu hắn kêu cầu cùng Ta, thì Ta sẽ nghe chắc chắn tiếng kêu cầu của hắn;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "hà hiếp thật sự"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ngươi hà hiếp"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩ hắn",
+      "marks": "hắn (quả phụ hoặc trẻ mồ côi)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quả thật"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "kêu cầu (chắc chắn)"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "hắn kêu cầu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cùng Ta"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nghe chắc chắn"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "Ta sẽ nghe"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "tiếng kêu cầu của hắn"
+    }
+  ],
+  "timestamp": "2026-08-19T02:33:26.226385968Z",
+  "model": "glm-5.3"
+}

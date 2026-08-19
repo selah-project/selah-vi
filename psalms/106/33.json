@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 106,
+  "translation": "Vì họ đã chọc giận ⟨את⟩ tinh thần của ngài, và ngài nói vội vàng môi miệng mình.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "họ đã chọc giận"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tinh thần của ngài"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "tinh thần của ngài"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "và ngài nói vội vàng"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "môi miệng mình"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:50.540564810Z",
+  "model": "glm-5.3"
+}

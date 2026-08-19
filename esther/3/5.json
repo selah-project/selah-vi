@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 3:5",
+  "book": "esther",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và Haman thấy rằng Mordekhai không quỳ gối và không sấp mình trước mặt ông, thì Haman đầy cơn giận_data.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "và thấy"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhai"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "quỳ gối"
+    },
+    {
+      "surface": "ומשתחוה",
+      "gloss": "và sấp mình"
+    },
+    {
+      "surface": "לו",
+      "gloss": "trước ông"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "thì đầy"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "cơn nóng giận"
+    }
+  ],
+  "timestamp": "2026-08-19T05:35:36.339784861Z",
+  "model": "glm-5.3"
+}

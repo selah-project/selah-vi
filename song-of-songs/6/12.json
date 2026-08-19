@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 6:12",
+  "book": "song-of-songs",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Tôi đã không biết, linh hồn tôi đã đặt tôi ⟨trên⟩ các cỗ xe của dân tôi, ông quí tộc.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "tôi đã biết"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "linh hồn tôi"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "đã đặt tôi"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "các cỗ xe"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "của dân tôi"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "quí tộc"
+    }
+  ],
+  "timestamp": "2026-08-19T05:28:40.599712807Z",
+  "model": "glm-5.3"
+}

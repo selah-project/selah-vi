@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 13:29",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Và khi một người đàn ông hay một người đàn bà có ⟨את⟩ vết thương nổi lên trên đầu mình hay trong râu,",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Và một người đàn ông"
+    },
+    {
+      "surface": "או",
+      "gloss": "hay"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "một người đàn bà"
+    },
+    {
+      "surface": "כי",
+      "gloss": "khi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "có"
+    },
+    {
+      "surface": "בו",
+      "gloss": "trong mình"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "vết thương"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "trên đầu"
+    },
+    {
+      "surface": "או",
+      "gloss": "hay"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "trong râu"
+    }
+  ],
+  "timestamp": "2026-08-19T02:44:01.261709313Z",
+  "model": "glm-5.3"
+}

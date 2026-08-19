@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 77,
+  "translation": "Ngài đã chuộc bằng cánh tay dân sự của Ngài, con cái Yaakov và Yosef. Selah.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "Ngài đã chuộc"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "bằng cánh tay"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dân sự của Ngài"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "và Yosef"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:40.964784884Z",
+  "model": "glm-5.3"
+}

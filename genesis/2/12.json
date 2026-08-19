@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và vàng của xứ đó là tốt; ở đó có nhựa bdellium và đá shoham.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "và vàng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "của xứ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "đó"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "là tốt"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ở đó"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "nhựa bdellium"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "và đá"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "shoham"
+    }
+  ],
+  "timestamp": "2026-08-19T00:46:01.274643857Z",
+  "model": "glm-5.3"
+}

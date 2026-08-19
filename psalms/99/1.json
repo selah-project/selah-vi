@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 99,
+  "translation": "Yahweh đã trị vì — các dân tộc run rẩy; Đấng ngự trên các cherub — đất chuyển động.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "đã trị vì"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "run rẩy"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "các dân tộc"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ngự"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "các cherub"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "chuyển động"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:54.576207975Z",
+  "model": "glm-5.3"
+}

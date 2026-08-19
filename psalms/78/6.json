@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 78,
+  "translation": "Để dòng đời sau biết đến, con cái sẽ sinh ra, sẽ đứng dậy và kể lại cho con cái mình.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "để rằng"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "biết"
+    },
+    {
+      "surface": "דור",
+      "gloss": "dòng đời"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "sau"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "sẽ sinh ra"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "sẽ đứng dậy"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "và kể lại"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "cho con cái mình"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:58.227383930Z",
+  "model": "glm-5.3"
+}

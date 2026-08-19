@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Khi kẻ thù tôi quay lùi lại, chúng vấp ngã và灭亡 khỏi trước mặt Ngài.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "khi quay lại"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "kẻ thù tôi"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "lùi về đằng sau"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "chúng vấp ngã"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "và bị hủy diệt"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "khỏi trước mặt Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:06.397230407Z",
+  "model": "glm-5.3"
+}

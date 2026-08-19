@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "⟨את⟩ lều của kỳ hội, và ⟨את⟩ chiếc hòm để làm chứng, và ⟨את⟩ cái nắp chuộc tội ở trên nó, và ⟨את⟩ mọi dụng cụ của ⟨את⟩ lều.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lều của kỳ hội"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "lều"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "của kỳ hội"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "chiếc hòm"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "chiếc hòm"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "để làm chứng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "cái nắp chuộc tội"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "cái nắp chuộc tội"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ở trên nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "mọi dụng cụ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "dụng cụ"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "của lều"
+    }
+  ],
+  "timestamp": "2026-08-19T02:36:17.851470311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 100,
+  "translation": "Hãy phục sự ⟨את⟩ Yahweh với sự vui mừng; hãy vào trước mặt Ngài với tiếng ca reo.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "hãy phục sự"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "với sự vui mừng"
+    },
+    {
+      "surface": "באו",
+      "gloss": "hãy vào"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "trước mặt Ngài"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "với tiếng ca reo"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:05.839810459Z",
+  "model": "glm-5.3"
+}

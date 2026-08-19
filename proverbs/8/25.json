@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 8:25",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Trước khi các núi chưa bị chìm xuống, trước các đồi, ta đã được sinh ra.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "trước khi"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "các núi"
+    },
+    {
+      "surface": "הטבעו",
+      "gloss": "bị chìm xuống"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "các đồi"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "ta đã được sinh ra"
+    }
+  ],
+  "timestamp": "2026-08-19T05:15:28.471239558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Vì kẻ ác sẽ灭亡 diệt vong, và kẻ thù của Yahweh như sự quý báu của chiên đực — chúng sẽ hết; như khói chúng sẽ tan hết.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Vì"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "sẽ diệt vong"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "và kẻ thù của"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "như sự quý báu của"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "chiên đực"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "chúng sẽ hết"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "như khói"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "chúng sẽ tan hết"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:10.111688602Z",
+  "model": "glm-5.3"
+}

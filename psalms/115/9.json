@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 115,
+  "translation": "Hỡi Yisra'el, hãy nương náu nơi Yahweh; Ngài ⟨là⟩ sự trợ giúp và khiên che của họ.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "hỡi Yisra'el"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "hãy nương náu tin cậy"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "nơi Yahweh"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "sự trợ giúp của họ"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "và khiên che của họ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ngài là"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:36.811204156Z",
+  "model": "glm-5.3"
+}

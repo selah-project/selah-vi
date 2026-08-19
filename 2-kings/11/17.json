@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 11:17",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và Yehoyada cắt ⟨את⟩ giao ước giữa Yahweh, giữa vua và giữa dân, để nên dân cho Yahweh, và giữa vua và giữa dân.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "và đã cắt"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "giao ước"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "giao ước"
+    },
+    {
+      "surface": "בין",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "và giữa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "và giữa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "để nên"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "cho Yahweh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "và giữa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "và giữa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    }
+  ],
+  "timestamp": "2026-08-19T03:59:16.103193103Z",
+  "model": "glm-5.3"
+}

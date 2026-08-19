@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 106:13",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 106,
+  "translation": "Chúng vội quên các việc Ngài làm, không chờ ⟨để⟩ nghe kế Ngài bàn.",
+  "tokens": [
+    {
+      "surface": "מהרו",
+      "gloss": "vội"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "quên"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "các việc Ngài làm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "chờ"
+    },
+    {
+      "surface": "לעצתו",
+      "gloss": "kế Ngài bàn"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:29.650582404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 8:15",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và người nói: Đáng chúc phúc thay Yahweh, Elohim của Yisraél, Đấng đã phảng bởi miệng Ngài ⟨את⟩ ⟨với⟩ David cha tôi, và đã làm trọn bởi tay Ngài, phảng rằng:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và người nói"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "đáng chúc phúc thay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraél"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Đấng"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "đã phảng"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "bởi miệng Ngài"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨với⟩",
+      "marks": "David cha tôi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "cha tôi"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "và bởi tay Ngài"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "đã làm trọn"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "phảng rằng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:49:42.050738467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 22:2",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Phải chăng ⟨vì⟩ El mà người mạnh mẽ có lợi, hay vì sự thông sáng mà có lợi cho chính ⟨hắn⟩?",
+  "tokens": [
+    {
+      "surface": "הלאל",
+      "gloss": "phải chăng vì El"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "có lợi"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "người mạnh mẽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hay vì"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "có lợi"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "cho chính hắn"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "sự thông sáng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:24:35.807494814Z",
+  "model": "glm-5.3"
+}

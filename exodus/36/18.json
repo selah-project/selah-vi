@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 36:18",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 36,
+  "translation": "Và người làm năm mươi móc đồng để nối ⟨את⟩ chiếc trại, cho nó nên một.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "và người làm"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "móc"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "đồng"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "năm mươi"
+    },
+    {
+      "surface": "לחבר",
+      "gloss": "để nối"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiếc trại"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "chiếc trại"
+    },
+    {
+      "surface": "להית",
+      "gloss": "cho nên"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "một"
+    }
+  ],
+  "timestamp": "2026-08-19T02:38:49.000300600Z",
+  "model": "glm-5.3"
+}

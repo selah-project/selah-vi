@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 34,
+  "translation": "và ⟨את⟩ toàn đất Naftali, và ⟨את⟩ đất Ephraim và Menashe, và ⟨את⟩ toàn đất Yehudah, cho đến biển phía sau.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "toàn đất Naftali"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "đất Ephraim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ephraim"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "và Menashe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "toàn đất Yehudah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "הים",
+      "gloss": "biển"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "phía sau"
+    }
+  ],
+  "timestamp": "2026-08-19T03:14:43.551720118Z",
+  "model": "glm-5.3"
+}

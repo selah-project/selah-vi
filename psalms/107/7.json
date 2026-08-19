@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 107,
+  "translation": "Và Ngài dẫn họ đi trong con đường thẳng, để đi đến một thành cư trú.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "và Ngài dẫn họ đi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "trong con đường"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "thẳng"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "để đi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "một thành"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "cư trú"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:08.322464401Z",
+  "model": "glm-5.3"
+}

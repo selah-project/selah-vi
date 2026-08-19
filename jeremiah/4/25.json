@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 4:25",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Tôi đã nhìn, và kìa, ⟨không có⟩ con người, và mọi loài chim của các tầng trời đã bay đi.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "tôi đã nhìn"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "và kìa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "con người"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "loài chim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "của các tầng trời"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "đã bay đi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:18:19.095563734Z",
+  "model": "glm-5.3"
+}

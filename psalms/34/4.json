@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 34,
+  "translation": "Hãy tôn cao Yahweh ⟨את⟩ cùng tôi, và chúng ta sẽ suy tôn danh Ngài chung một.",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "hãy tôn cao"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ cùng tôi"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "và chúng ta sẽ suy tôn"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "danh Ngài"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "chung một"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:42.289260181Z",
+  "model": "glm-5.3"
+}

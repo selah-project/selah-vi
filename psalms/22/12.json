@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Xin đừng xa ⟨khỏi⟩ tôi, vì cơn hiểm nghèo ⟨đã⟩ gần kề, vì không có ai giúp đỡ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Xin đừng"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "xa"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "khỏi tôi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "cơn hiểm nghèo"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "gần kề"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "ai giúp đỡ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:03.916332254Z",
+  "model": "glm-5.3"
+}

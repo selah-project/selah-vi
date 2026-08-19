@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 107:26",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 107,
+  "translation": "Chúng lên đến các tầng trời, xuống đến các vực sâu; sinh khí của chúng tan chảy vì gian nan.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "chúng lên"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "các tầng trời"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "xuống"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "các vực sâu"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "sinh khí của chúng"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "vì gian nan"
+    },
+    {
+      "surface": "תתמוגג",
+      "gloss": "tan chảy"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:42.957664847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 138,
+  "translation": "Vì Yahweh ⟨là⟩ Đấng cao cả, nhưng Ngài đoái đến kẻ khiêm huyền; còn kẻ kiêu ngạo, Ngài nhận biết từ đàng xa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "רם",
+      "gloss": "cao cả"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "và kẻ khiêm huyền"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "Ngài đoái đến (thấy)"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "và kẻ kiêu ngạo"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "từ đàng xa"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "Ngài nhận biết"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:01.492107028Z",
+  "model": "glm-5.3"
+}

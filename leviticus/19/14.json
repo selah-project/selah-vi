@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 19:14",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Chớ nguyền rủa người điếc, và trước mặt người mù chớ đặt vật gây vấp ngã; hãy kính sợ Elohim của ngươi, ta là Yahweh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "nguyền rủa"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "người điếc"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "và trước mặt"
+    },
+    {
+      "surface": "עור",
+      "gloss": "người mù"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "đặt"
+    },
+    {
+      "surface": "מכשל",
+      "gloss": "vật gây vấp ngã"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "và hãy kính sợ"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohim của ngươi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:45:28.739197001Z",
+  "model": "glm-5.3"
+}

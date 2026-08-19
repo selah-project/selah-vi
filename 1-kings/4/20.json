@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 4:20",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Yehudah và Yisrael ⟨đông đảo⟩, như cát mà ở trên biển, về sự đông đảo; ⟨họ⟩ ăn, uống, và vui mừng.",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "và Yisrael"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "⟨đông đảo⟩"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "như cát"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "על",
+      "gloss": "ở trên"
+    },
+    {
+      "surface": "הים",
+      "gloss": "biển"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "về sự đông đảo"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "ăn"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "và uống"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "và vui mừng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:47:34.347749805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 140,
+  "translation": "Xin đừng ban, Yahweh, điều kẻ dữ mong muốn; âm mưu của nó đừng cho thành tựu, e rằng chúng nó tự cao lên. Selah.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "điều mong muốn của"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kẻ dữ"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "âm mưu của nó"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "cho thành tựu"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "chúng nó tự cao lên"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:49.057496220Z",
+  "model": "glm-5.3"
+}

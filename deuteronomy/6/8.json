@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 6:8",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và ngươi phải buộc chúng làm dấu trên tay ngươi, và chúng phải làm bùa trán giữa hai mắt ngươi.",
+  "tokens": [
+    {
+      "surface": "וקשרתם",
+      "gloss": "và ngươi phải buộc chúng"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "làm dấu"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tay ngươi"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "và chúng phải làm"
+    },
+    {
+      "surface": "לטטפת",
+      "gloss": "bùa trán"
+    },
+    {
+      "surface": "בין",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "hai mắt ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:05:37.176752916Z",
+  "model": "glm-5.3"
+}

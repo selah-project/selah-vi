@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 116,
+  "translation": "Vì Ngài đã nghiêng tai ⟨mình⟩ về phía tôi, và trong các ngày ⟨của⟩ tôi tôi sẽ kêu cầu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "Ngài đã nghiêng"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "tai của Ngài"
+    },
+    {
+      "surface": "לי",
+      "gloss": "về phía tôi"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "và trong các ngày của tôi"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "tôi sẽ kêu cầu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:28.527770116Z",
+  "model": "glm-5.3"
+}

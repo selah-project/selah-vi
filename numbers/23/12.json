@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Ông đáp và nói: Điều ⟨את⟩ mà Yahweh đặt vào miệng tôi, chẳng phải điều ấy ⟨אתו⟩ tôi phải cẩn trọng mà nói sao?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "và đáp"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "chẳng phải… sao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "điều mà Yahweh đặt vào miệng tôi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "đặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "vào miệng tôi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "điều ấy (tôi cẩn trọng mà nói)"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "tôi cẩn trọng giữ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "để nói"
+    }
+  ],
+  "timestamp": "2026-08-19T02:59:57.197670147Z",
+  "model": "glm-5.3"
+}

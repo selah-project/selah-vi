@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 94,
+  "translation": "Vì Yahweh sẽ không bỏ dân của Ngài, và cơ nghiệp của Ngài, Ngài sẽ không từ bỏ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "sẽ bỏ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "dân của Ngài"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "và cơ nghiệp của Ngài"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "sẽ từ bỏ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:34.653786819Z",
+  "model": "glm-5.3"
+}

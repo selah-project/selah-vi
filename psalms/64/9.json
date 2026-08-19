@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 64:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 64,
+  "translation": "Chúng làm cho hắn vấp ngã; lưỡi của chính chúng chống lại chúng, mọi kẻ thấy đều lắc đầu.",
+  "tokens": [
+    {
+      "surface": "ויכשילוהו",
+      "gloss": "chúng làm cho hắn vấp ngã"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "chống lại chúng"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "lưỡi của chúng"
+    },
+    {
+      "surface": "יתנדדו",
+      "gloss": "lắc (đầu)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "kẻ thấy"
+    },
+    {
+      "surface": "בם",
+      "gloss": "chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:11.930247698Z",
+  "model": "glm-5.3"
+}

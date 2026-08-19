@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 12:8",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "trên núi, tại đất thấp, tại Arava, tại các sườn dốc, tại đồng vắng, và tại Neghev — người Chitti, người Emori, người Ken拾lỗi",
+  "tokens": [
+    {
+      "surface": "בהר",
+      "gloss": "trên núi"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "và tại đất thấp"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "và tại Arava"
+    },
+    {
+      "surface": "ובאשדות",
+      "gloss": "và tại các sườn dốc"
+    },
+    {
+      "surface": "ובמדבר",
+      "gloss": "và tại đồng vắng"
+    },
+    {
+      "surface": "ובנגב",
+      "gloss": "và tại Neghev"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "người Chitti"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "người Emori"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "và người Kenanismi"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "người Perizzi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "người Chivvi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "và người Yevusi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:18:51.152415161Z",
+  "model": "glm-5.3"
+}

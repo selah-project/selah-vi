@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 12:3",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Hãy nói với toàn hội chúng Yisrael, rằng: Mùng mười của tháng này, mỗi người hãy lấy cho mình một con chiên theo nhà của các cha, một con chiên cho mỗi nhà.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "hãy nói"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "hội chúng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "בעשר",
+      "gloss": "mùng mười"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "của tháng"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "hãy lấy"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho mình"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mỗi người"
+    },
+    {
+      "surface": "שה",
+      "gloss": "con chiên"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "cho nhà"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "của các cha"
+    },
+    {
+      "surface": "שה",
+      "gloss": "con chiên"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "cho nhà"
+    }
+  ],
+  "timestamp": "2026-08-19T02:30:11.948861311Z",
+  "model": "glm-5.3"
+}

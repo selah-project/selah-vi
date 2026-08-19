@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 62,
+  "translation": "Chỉ Ngài ⟨là⟩ đá tảng của tôi và sự cứu rỗi của tôi, ập núi cao của tôi; tôi sẽ không lung lay.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "chỉ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "đá tảng của tôi"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "và sự cứu rỗi của tôi"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "nơi cao trú của tôi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "tôi sẽ lung lay"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:32.906563170Z",
+  "model": "glm-5.3"
+}

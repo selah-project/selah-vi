@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 64,
+  "translation": "Để bắn trong nơi kín đáo người trọn vẹn; đột ngột họ bắn ⟨vào⟩ người ấy, và không sợ hãi.",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "để bắn"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "trong nơi kín đáo"
+    },
+    {
+      "surface": "תם",
+      "gloss": "người trọn vẹn"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "đột ngột"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "họ bắn ⟨vào⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "sợ hãi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:43.782852060Z",
+  "model": "glm-5.3"
+}

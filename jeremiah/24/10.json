@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Ta sẽ sai đến giữa họ ⟨את⟩ gươm, ⟨את⟩ nạn đói, và ⟨את⟩ ôn dịch, cho đến khi chúng bị tận diệt khỏi mặt ⟨the⟩ đất mà Ta đã ban cho chúng và cho tổ phụ chúng.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Ta sẽ sai"
+    },
+    {
+      "surface": "בם",
+      "gloss": "đến giữa họ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gươm"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "gươm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nạn đói"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "nạn đói"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "ôn dịch"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ôn dịch"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến khi"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "bị tận diệt"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "khỏi mặt"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "đất"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Ta đã ban"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho chúng"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "và cho tổ phụ chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:22:31.813510650Z",
+  "model": "glm-5.3"
+}

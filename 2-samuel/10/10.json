@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Còn ⟨את⟩ phần dân còn lại, ông giao vào tay Avshai em ông; nó bày trận đón đánh con cái Ammon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "phần dân còn lại"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "phần còn lại"
+    },
+    {
+      "surface": "העם",
+      "gloss": "của dân"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ông giao"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "vào tay"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "Avshai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "em ông"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "và nó bày trận"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "đón đánh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    }
+  ],
+  "timestamp": "2026-08-19T03:40:35.103219394Z",
+  "model": "glm-5.3"
+}

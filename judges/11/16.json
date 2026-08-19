@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 11:16",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "vì khi chúng lên từ Mitzrayim, Yisrael đi trong hoang mạc đến Biển Súp, và đến tại Kadesh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "בעלותם",
+      "gloss": "khi chúng lên"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "từ Mitzrayim"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "và đi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "trong hoang mạc"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Biển"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Súp (sậy)"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "và đến tại"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "Kadesh"
+    }
+  ],
+  "timestamp": "2026-08-19T03:25:50.231951252Z",
+  "model": "glm-5.3"
+}

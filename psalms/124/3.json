@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 124:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 124,
+  "translation": "thì khi ấy chúng đã nuốt sống chúng ta, khi cơn giận của chúng bừng cháy lên chống chúng ta;",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "thì khi ấy"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "sống"
+    },
+    {
+      "surface": "בלעונו",
+      "gloss": "chúng đã nuốt chúng ta"
+    },
+    {
+      "surface": "בחרות",
+      "gloss": "khi bừng cháy"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "cơn giận của chúng"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "chống chúng ta"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:56.814892732Z",
+  "model": "glm-5.3"
+}

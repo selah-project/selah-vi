@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 102,
+  "translation": "Khi các dân tộc được nhóm lại chung với nhau, và các vương quốc, để phụng sự ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "khi được nhóm lại"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "các dân tộc"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "chung với nhau"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "và các vương quốc"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "để phụng sự"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:58.821704814Z",
+  "model": "glm-5.3"
+}

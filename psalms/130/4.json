@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 130,
+  "translation": "Vì nơi Ngài có sự tha thứ, để ⟨người ta⟩ kính sợ Ngài.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nơi Ngài \/ với Ngài"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "sự tha thứ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "để"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "⟨người ta⟩ kính sợ Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:01.629897830Z",
+  "model": "glm-5.3"
+}

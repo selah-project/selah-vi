@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 121,
+  "translation": "Sự giúp đỡ tôi ⟨thì⟩ từ nơi Yahweh, Đấng làm ⟨các⟩ tầng trời và đất.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "sự giúp đỡ tôi"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "từ nơi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Đấng làm"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "các tầng trời"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "và đất"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:30.733065844Z",
+  "model": "glm-5.3"
+}

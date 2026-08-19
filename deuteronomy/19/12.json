@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "thì các trưởng lão thành của hắn phải sai người đi, và bắt ⟨את⟩ hắn từ đó, và giao ⟨את⟩ hắn vào tay người chuộc máu, và hắn phải chết.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "và họ sai đi"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "các trưởng lão"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "thành của hắn"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "và bắt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hắn"
+    },
+    {
+      "surface": "משם",
+      "gloss": "từ đó"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "và giao"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hắn"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "vào tay"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "người chuộc"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "máu"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "và chết"
+    }
+  ],
+  "timestamp": "2026-08-19T03:09:34.166851827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 38,
+  "translation": "Và điều ⟨anh ta⟩ làm ⟨là⟩ xấu trong mắt Yahweh, nên ⟨Ngài⟩ cũng giết cả anh ta ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "và xấu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "trong mắt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "điều mà"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "anh ta làm"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "và Ngài làm chết"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cũng"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "anh ta (Onan)"
+    }
+  ],
+  "timestamp": "2026-08-19T01:26:00.430154418Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Điều ⟨đã⟩ từng có, ⟨nó⟩ chính là điều sẽ có; và điều ⟨đã⟩ từng được làm, ⟨nó⟩ chính là điều sẽ được làm; và không có điều gì mới dưới mặt trời.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "điều"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "đã từng có"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨nó⟩"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "sẽ có"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "và điều"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "đã từng được làm"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨nó⟩"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "sẽ được làm"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "và không có"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gì"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mới"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dưới"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "mặt trời"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:08.915167849Z",
+  "model": "glm-5.3"
+}

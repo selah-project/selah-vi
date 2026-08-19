@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 37:2",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Và người bọc nó bằng vàng tinh khiết, phía trong và phía ngoài; và người làm cho nó một vành vàng chung quanh.",
+  "tokens": [
+    {
+      "surface": "ויצפהו",
+      "gloss": "và bọc nó"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "vàng"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tinh khiết"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "từ phía trong"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "và từ phía ngoài"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "và làm"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho nó"
+    },
+    {
+      "surface": "זר",
+      "gloss": "vành"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "vàng"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "chung quanh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:38:31.513223831Z",
+  "model": "glm-5.3"
+}

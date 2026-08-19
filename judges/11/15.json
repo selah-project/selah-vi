@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "và nói với vua: Như vầy Yiphtakh nói: Yisrael không chiếm ⟨את⟩ đất của Moav, và ⟨את⟩ đất của con cháu Ammon.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "לו",
+      "gloss": "với vua"
+    },
+    {
+      "surface": "כה",
+      "gloss": "như vầy"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiphtakh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "chiếm"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đất của Moav"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "đất của con cháu Ammon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cháu"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    }
+  ],
+  "timestamp": "2026-08-19T03:25:50.231792532Z",
+  "model": "glm-5.3"
+}

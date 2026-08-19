@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Có gì là lợi cho kẻ làm việc trong điều mình đang nhọc nhằn?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "lợi"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "kẻ làm việc"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "trong điều mà"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "mình"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "nhọc nhằn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:24.989527552Z",
+  "model": "glm-5.3"
+}

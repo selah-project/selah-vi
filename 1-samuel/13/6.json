@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 13:6",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Và người Yisrael thấy mình bị ép vào chỗ hẹp, vì dân bị hành hạ, thì dân trốn trong hang động, trong bụi rậm, trong kẽ đá, trong hốc núi, và trong hầm.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "và mỗi người"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "thấy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "צר",
+      "gloss": "bị ép vào chỗ hẹp"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho mình"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "bị hành hạ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "ויתחבאו",
+      "gloss": "nên đã trốn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "במערות",
+      "gloss": "trong hang động"
+    },
+    {
+      "surface": "ובחוחים",
+      "gloss": "trong bụi rậm"
+    },
+    {
+      "surface": "ובסלעים",
+      "gloss": "trong kẽ đá"
+    },
+    {
+      "surface": "ובצרחים",
+      "gloss": "trong hốc núi"
+    },
+    {
+      "surface": "ובברות",
+      "gloss": "và trong hầm"
+    }
+  ],
+  "timestamp": "2026-08-19T03:31:46.672488475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Xương gãy thay cho xương gãy, mắt thay cho mắt, răng thay cho răng; như ⟨hắn⟩ đã gây thương tật nơi một người, thì như vậy sẽ được trả lại nơi ⟨hắn⟩.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "xương gãy"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thay cho"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "xương gãy"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mắt"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thay cho"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mắt"
+    },
+    {
+      "surface": "שן",
+      "gloss": "răng"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thay cho"
+    },
+    {
+      "surface": "שן",
+      "gloss": "răng"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "đã gây"
+    },
+    {
+      "surface": "מום",
+      "gloss": "thương tật"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "nơi một người"
+    },
+    {
+      "surface": "כן",
+      "gloss": "thì như vậy"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "sẽ được trả lại"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nơi hắn"
+    }
+  ],
+  "timestamp": "2026-08-19T02:47:24.206616174Z",
+  "model": "glm-5.3"
+}

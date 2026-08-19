@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 48,
+  "translation": "Và Yisrael nhìn thấy ⟨את⟩ các con trai của Yosef, và người nói: Những ai đây?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "và nhìn thấy"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các con trai của Yosef"
+    },
+    {
+      "surface": "בני",
+      "gloss": "các con trai"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "của Yosef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và người nói"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "những này"
+    }
+  ],
+  "timestamp": "2026-08-19T02:26:07.350914367Z",
+  "model": "glm-5.3"
+}

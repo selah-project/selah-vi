@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 19:1",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Tốt hơn ⟨là⟩ người nghèo đi trong sự toàn vẹn của mình, hơn ⟨là⟩ kẻ môi môi-twisted và ⟨là⟩ kẻ dại dột.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "tốt"
+    },
+    {
+      "surface": "רש",
+      "gloss": "người nghèo"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "đi"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "trong sự toàn vẹn của mình"
+    },
+    {
+      "surface": "מעקש",
+      "gloss": "kẻ cong vặn (môi)"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "môi của hắn"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "và ⟨hắn⟩"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "kẻ dại dột"
+    }
+  ],
+  "timestamp": "2026-08-19T05:17:25.241324048Z",
+  "model": "glm-5.3"
+}

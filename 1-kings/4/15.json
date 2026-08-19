@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Achimaát, tại Naftali; cả ông ấy cũng đã cưới ⟨את⟩ Basmat con gái Shlomo làm vợ.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Achimaát"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "tại Naftali"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cả"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ông ấy"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "đã cưới"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Basmat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Basmat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "con gái"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "làm vợ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:47:26.759204171Z",
+  "model": "glm-5.3"
+}

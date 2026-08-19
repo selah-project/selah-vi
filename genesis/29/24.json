@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Lavan cho nàng ⟨את⟩ Zilpa nữ tỳ của ông — cho Lea con gái ông — làm nữ tỳ.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "đã cho"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "cho nàng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zilpa nữ tỳ của ông"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpa"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "nữ tỳ của ông"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "cho Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "con gái ông"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "làm nữ tỳ"
+    }
+  ],
+  "timestamp": "2026-08-19T01:11:58.121932402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và bởi Chushim hắn sinh ⟨את⟩ Avituv và ⟨את⟩ Elpaal.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "và bởi Chushim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "hắn sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avituv"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "Avituv"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Elpaal"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaal"
+    }
+  ],
+  "timestamp": "2026-08-19T05:48:23.695602934Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 16:23",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Và Aharon sẽ vào đến lều hội kiến, và sẽ lột bỏ ⟨את⟩ các áo vải bố mà mình đã mặc khi vào nơi thánh, và sẽ để chúng lại đó.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "và sẽ vào"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "lều"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "hội kiến"
+    },
+    {
+      "surface": "ופשט",
+      "gloss": "và sẽ lột bỏ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các áo vải bố"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "các áo"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "vải bố"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "đã mặc"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "khi vào"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "nơi thánh"
+    },
+    {
+      "surface": "והניחם",
+      "gloss": "và sẽ để chúng"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ở đó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:45:31.012207767Z",
+  "model": "glm-5.3"
+}

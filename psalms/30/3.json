@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Yahweh Elohim của tôi, tôi đã kêu cứu đến Ngài, và Ngài đã chữa lành tôi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của tôi"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "tôi đã kêu cứu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "đến Ngài"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "và Ngài đã chữa lành tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:59.455973750Z",
+  "model": "glm-5.3"
+}

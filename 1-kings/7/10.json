@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Và nền là đá quý, đá lớn, đá mười ama và đá tám ama.",
+  "tokens": [
+    {
+      "surface": "ומיסד",
+      "gloss": "và nền"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "đá"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "quý"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "đá"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "lớn"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "đá"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mười"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "và đá"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "tám"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    }
+  ],
+  "timestamp": "2026-08-19T03:48:44.247846272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 23:13",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Chớ ngừng giữ con trẻ khỏi sự sửa trị; khi ngươi đánh nó bằng roi, nó sẽ không chết.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "ngừng giữ"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "khỏi con trẻ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "sự sửa trị"
+    },
+    {
+      "surface": "כי",
+      "gloss": "khi"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "ngươi đánh nó"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "bằng roi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "nó chết"
+    }
+  ],
+  "timestamp": "2026-08-19T05:18:22.956452932Z",
+  "model": "glm-5.3"
+}

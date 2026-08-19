@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 113,
+  "translation": "Nguyện danh Yahweh được ca ngợi, từ nay cho đến mãi mãi.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "nguyện được"
+    },
+    {
+      "surface": "שם",
+      "gloss": "danh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "ca ngợi"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "từ nay"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mãi mãi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:38.124574989Z",
+  "model": "glm-5.3"
+}

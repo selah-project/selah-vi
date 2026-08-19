@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 40:12",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Ai đã đo nước trong lòng bàn tay mình, và đo các tầng trời bằng một sải tay, và gom hết bụi đất trong một cái đo, và cân các núi trên cán cân, các đồi trên Thiên Bình?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "đã đo"
+    },
+    {
+      "surface": "בשעלו",
+      "gloss": "trong lòng bàn tay mình"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "và các tầng trời"
+    },
+    {
+      "surface": "בזרת",
+      "gloss": "bằng một sải tay"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "đã đo định"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và hết thảy"
+    },
+    {
+      "surface": "בשלש",
+      "gloss": "trong một cái đo"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "bụi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "của đất"
+    },
+    {
+      "surface": "ושקל",
+      "gloss": "và đã cân"
+    },
+    {
+      "surface": "בפלס",
+      "gloss": "trên cán cân"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "các núi"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "và các đồi"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "trên Thiên Bình"
+    }
+  ],
+  "timestamp": "2026-08-19T04:11:44.832890345Z",
+  "model": "glm-5.3"
+}

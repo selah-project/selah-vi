@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Aharon nói ⟨את⟩ mọi lời mà Yahweh đã phán cùng Moshe, và ⟨người⟩ làm các dấu lạ trước mắt dân chúng.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi lời"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "lời"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cùng"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "và ⟨người⟩ làm"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "các dấu lạ"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "trước mắt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:28:20.212058717Z",
+  "model": "glm-5.3"
+}

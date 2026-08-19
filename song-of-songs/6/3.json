@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Tôi ⟨thuộc về⟩ người yêu tôi, và người yêu tôi ⟨thuộc về⟩ tôi; ⟨chàng⟩ chăn dắt giữa hoa bách hợp.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "⟨thuộc về⟩ người yêu tôi"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "và người yêu tôi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨thuộc về⟩ tôi"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "chăn dắt"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "giữa hoa bách hợp"
+    }
+  ],
+  "timestamp": "2026-08-19T05:28:51.868826643Z",
+  "model": "glm-5.3"
+}

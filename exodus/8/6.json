@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và ⟨người⟩ nói: Đến ngày mai. Và ⟨người⟩ nói: Theo lời ngươi, để ngươi biết rằng không có ai như Yahweh Elohim của chúng ta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và ⟨người⟩ nói"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "đến ngày mai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và ⟨người⟩ nói"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "theo lời ngươi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "để"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ngươi biết"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có ai"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "như Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim của chúng ta"
+    }
+  ],
+  "timestamp": "2026-08-19T02:29:24.071880159Z",
+  "model": "glm-5.3"
+}

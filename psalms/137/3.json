@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 137:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 137,
+  "translation": "Vì ở đó kẻ dẫn chúng tôi đi đày hỏi chúng tôi lời bài hát, và kẻ hành hạ chúng tôi ⟨đòi⟩ niềm vui mừng, rằng: 'Hãy hát cho chúng tôi một bài hát của Tsiyon.'",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ở đó"
+    },
+    {
+      "surface": "שאלונו",
+      "gloss": "hỏi chúng tôi"
+    },
+    {
+      "surface": "שובינו",
+      "gloss": "kẻ dẫn chúng tôi đi đày"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "lời"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "bài hát"
+    },
+    {
+      "surface": "ותוללינו",
+      "gloss": "và kẻ hành hạ chúng tôi"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "niềm vui mừng"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "hãy hát"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "cho chúng tôi"
+    },
+    {
+      "surface": "משיר",
+      "gloss": "một bài hát của"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:35.844855881Z",
+  "model": "glm-5.3"
+}

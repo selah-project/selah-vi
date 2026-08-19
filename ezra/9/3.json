@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 9:3",
+  "book": "ezra",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và khi tôi nghe ⟨את⟩ lời này, tôi xé ⟨את⟩ áo mình và áo choàng mình, và tôi nhổ tóc của đầu mình và râu mình, và tôi ngồi kinh hoàng.",
+  "tokens": [
+    {
+      "surface": "וכשמעי",
+      "gloss": "và khi tôi nghe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lời này"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lời"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "קרעתי",
+      "gloss": "tôi xé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "áo mình"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "áo mình"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "và áo choàng mình"
+    },
+    {
+      "surface": "ואמרטה",
+      "gloss": "và tôi nhổ"
+    },
+    {
+      "surface": "משער",
+      "gloss": "khỏi tóc của"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "đầu mình"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "và râu mình"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "và tôi ngồi"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "kinh hoàng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:43:01.615758751Z",
+  "model": "glm-5.3"
+}

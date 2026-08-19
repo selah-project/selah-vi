@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 12:5",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Và Avram mang ⟨את⟩ Sarai vợ mình, và ⟨את⟩ Lot con trai anh mình, và ⟨את⟩ tất cả tài sản họ đã tích lũy, và ⟨את⟩ những sinh mạng họ đã làm nên ở Charan; và họ ra đi để đến đất Kenaan, và họ vào đất Kenaan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "và mang"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarai"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vợ mình"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "anh mình"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "tất cả tài sản họ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "tài sản họ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "đã tích lũy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "những sinh mạng"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "những sinh mạng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "đã làm nên"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "ở Charan"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "và họ ra đi"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "để đến"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "đất"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "và họ vào"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "đất"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-19T00:57:04.307082723Z",
+  "model": "glm-5.3"
+}

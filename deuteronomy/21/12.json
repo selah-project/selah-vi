@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 21:12",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "thì ngươi đem nàng vào giữa nhà ngươi, và nàng sẽ cạo ⟨את⟩ đầu nàng và làm ⟨את⟩ móng tay nàng",
+  "tokens": [
+    {
+      "surface": "והבאתה",
+      "gloss": "thì ngươi đem nàng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vào"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nhà ngươi"
+    },
+    {
+      "surface": "וגלחה",
+      "gloss": "và nàng cạo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đầu nàng"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "đầu nàng"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "và nàng làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "móng tay nàng"
+    },
+    {
+      "surface": "צפרניה",
+      "gloss": "móng tay nàng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:09:51.907936465Z",
+  "model": "glm-5.3"
+}

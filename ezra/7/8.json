@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 7:8",
+  "book": "ezra",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Và ⟨người⟩ đến Yerushalayim vào tháng thứ năm — ấy là năm thứ bảy của vị vua.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "và đã đến"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "vào tháng"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "thứ năm"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ấy là"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "năm"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "thứ bảy"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "của vị vua"
+    }
+  ],
+  "timestamp": "2026-08-19T05:41:47.979847793Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Yahweh đánh phạt ⟨את⟩ người Kush trước mặt Asa và trước mặt Yehudah, và người Kush bỏ chạy.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "và đánh phạt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người Kush"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "người Kush"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "và trước mặt"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "và bỏ chạy"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "người Kush"
+    }
+  ],
+  "timestamp": "2026-08-19T05:57:01.861413593Z",
+  "model": "glm-5.3"
+}

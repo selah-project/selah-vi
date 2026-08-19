@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "mà Ngài đã cắt lập với ⟨את⟩ Avraham, và lời thề của Ngài cho Yitschak.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "đã cắt lập"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "và lời thề của Ngài"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "cho Yitschak"
+    }
+  ],
+  "timestamp": "2026-08-19T05:50:50.776871687Z",
+  "model": "glm-5.3"
+}

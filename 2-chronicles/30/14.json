@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 30:14",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Họ trỗi dậy và dời bỏ ⟨את⟩ các bàn thờ ở trong Yerushalayim; ⟨את⟩ mọi bàn thờ xông hương họ đem đi và ném xuống khe suối Kidron.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "trỗi dậy"
+    },
+    {
+      "surface": "ויסירו",
+      "gloss": "dời bỏ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các bàn thờ"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "các bàn thờ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ở Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mọi bàn thờ xông hương"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "המקטרות",
+      "gloss": "bàn thờ xông hương"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "đem đi"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "ném xuống"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "xuống khe suối"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidron"
+    }
+  ],
+  "timestamp": "2026-08-19T06:00:39.401371606Z",
+  "model": "glm-5.3"
+}

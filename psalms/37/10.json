@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Và chỉ còn chút nữa, kẻ ác ⟨sẽ⟩ không còn; ngươi nhìn xét nơi nó ở, và nó không tồn tại.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "và còn"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "chút nữa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "và không còn"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "ngươi nhìn xét"
+    },
+    {
+      "surface": "על",
+      "gloss": "tại"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "nơi nó ở"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "và nó không tồn tại"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:42.455880718Z",
+  "model": "glm-5.3"
+}

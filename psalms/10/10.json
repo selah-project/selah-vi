@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Hắn co mình rạp xuống, và ⟨các kẻ⟩ khốn khổ ngã gục bởi sức mạnh của hắn.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "và hắn đè bẹp"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "hắn rạp xuống"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "và ngã gục"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "bởi sức mạnh của hắn"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "các kẻ khốn khổ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:55:49.889679882Z",
+  "model": "glm-5.3"
+}

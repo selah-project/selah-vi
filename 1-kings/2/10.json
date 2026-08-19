@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và David nằm xuống với các tổ phụ mình, và được chôn cất trong thành của David.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "và nằm xuống"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עם",
+      "gloss": "với"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "các tổ phụ mình"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "và được chôn cất"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "trong thành"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "của David"
+    }
+  ],
+  "timestamp": "2026-08-19T03:47:01.110425341Z",
+  "model": "glm-5.3"
+}

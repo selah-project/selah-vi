@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 88,
+  "translation": "Nguyện lời cầu-nguyện tôi đến trước mặt Ngài; nghiêng tai Ngài đến tiếng la-cầu tôi.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "hãy đến"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "trước mặt Ngài"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "lời cầu-nguyện tôi"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "hãy nghiêng"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "tai Ngài"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "đến tiếng la-cầu tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:37.728639548Z",
+  "model": "glm-5.3"
+}

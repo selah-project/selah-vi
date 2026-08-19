@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Yahweh ⟨là⟩ sức mạnh cho ⟨họ⟩, và ⟨là⟩ thành lũy cứu về Đấng chịu xức dầu của Ngài — chính Ngài ⟨là⟩ vậy.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "sức mạnh"
+    },
+    {
+      "surface": "למו",
+      "gloss": "cho ⟨họ⟩"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "và thành lũy"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "cứu"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Đấng chịu xức dầu của Ngài"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chính Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:56.749299437Z",
+  "model": "glm-5.3"
+}

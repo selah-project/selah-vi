@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 21:13",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Và cho con trai của Aharon, thầy tế lễ, họ đã cho ⟨את⟩ thành phố tỵ nạn cho kẻ giết người, ⟨את⟩ Chevron cùng đất chung của nó, và ⟨את⟩ Livnah cùng đất chung của nó.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "và cho con trai của"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "thầy tế lễ"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "họ đã cho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thành phố tỵ nạn cho kẻ giết người"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "thành phố"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "tỵ nạn"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "của kẻ giết người"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "đất chung của nó"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "đất chung của nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Livnah"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livnah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "đất chung của nó"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "đất chung của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T03:20:47.820769631Z",
+  "model": "glm-5.3"
+}

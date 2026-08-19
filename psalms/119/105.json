@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Ngọn đèn cho chân tôi ⟨là⟩ lời của Ngài, và ánh sáng cho lối đi của tôi.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "ngọn đèn"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "cho chân tôi"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "lời của Ngài"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "và ánh sáng"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "cho lối đi của tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:53.283573388Z",
+  "model": "glm-5.3"
+}

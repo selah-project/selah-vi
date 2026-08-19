@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 11:16",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Người nữ có ơn duyên giữ được sự tôn quý, còn những kẻ hung bạo chỉ giữ được của cải.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "người nữ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "có ơn duyên"
+    },
+    {
+      "surface": "תתמך",
+      "gloss": "giữ được"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "sự tôn quý"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "còn những kẻ hung bạo"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "chỉ giữ được"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "của cải"
+    }
+  ],
+  "timestamp": "2026-08-19T05:16:07.536505600Z",
+  "model": "glm-5.3"
+}

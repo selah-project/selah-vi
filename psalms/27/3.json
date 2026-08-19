@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Nếu một đạo binh đóng trại chống lại tôi, lòng tôi sẽ không sợ; nếu chiến tranh nổi lên chống lại tôi, trong điều này tôi tin cậy.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "đóng trại"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "chống lại tôi"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "một đạo binh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "sẽ sợ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "lòng tôi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "nổi lên"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "chống lại tôi"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "chiến tranh"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "trong điều này"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "tin cậy"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:16.518870196Z",
+  "model": "glm-5.3"
+}

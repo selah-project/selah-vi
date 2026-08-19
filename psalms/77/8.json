@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 77,
+  "translation": "Adonai có ruồng bỏ đến muôn đời, và không còn muốn ban ơn nữa chăng?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "đến muôn đời"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "ruồng bỏ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "còn thêm"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "muốn ban ơn"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nữa"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:21.209801715Z",
+  "model": "glm-5.3"
+}

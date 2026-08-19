@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 38,
+  "translation": "Và nàng thụ thai nữa, và sinh một con trai, và nàng gọi ⟨את⟩ tên nó là Onan.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "và nàng thụ thai"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nữa"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "và sinh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "và nàng gọi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tên nó"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "tên nó"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onan"
+    }
+  ],
+  "timestamp": "2026-08-19T01:26:20.303577210Z",
+  "model": "glm-5.3"
+}

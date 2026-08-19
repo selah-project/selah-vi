@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 10:10",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Chẳng phải Ngài đã đổ con ra như sữa, và làm con đông lại như pho mát sao?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "chẳng phải… sao"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "như sữa"
+    },
+    {
+      "surface": "תתיכני",
+      "gloss": "Ngài đã đổ con ra"
+    },
+    {
+      "surface": "וכגבנה",
+      "gloss": "và như pho mát"
+    },
+    {
+      "surface": "תקפיאני",
+      "gloss": "làm con đông lại"
+    }
+  ],
+  "timestamp": "2026-08-19T05:22:04.982051031Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Trong lòng tôi tôi đã cất giống lời phán của Ngài, để không phạm tội với Ngài.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "trong lòng tôi"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "tôi đã cất giấu"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "lời phán của Ngài"
+    },
+    {
+      "surface": "למען",
+      "gloss": "để"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "phạm tội"
+    },
+    {
+      "surface": "לך",
+      "gloss": "với Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:51.082921239Z",
+  "model": "glm-5.3"
+}

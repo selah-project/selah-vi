@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 60,
+  "translation": "Ai sẽ đưa ta đến thành trì vững chắc? Ai sẽ dẫn ta đến Edom?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "sẽ đưa ta"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "thành"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "trì vững"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "sẽ dẫn ta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:15.916285696Z",
+  "model": "glm-5.3"
+}

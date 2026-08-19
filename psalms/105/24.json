@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 105,
+  "translation": "Ngài làm ⟨את⟩ dân sự Ngài sinh sôi rất nhiều, và làm họ mạnh hơn kẻ thù của họ.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "làm sinh sôi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân sự Ngài"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "dân sự Ngài"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "rất nhiều"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "làm họ mạnh hơn"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "kẻ thù của họ"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:39.590156133Z",
+  "model": "glm-5.3"
+}

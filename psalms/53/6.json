@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 53:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 53,
+  "translation": "Ở đó họ kinh sợ ⟨⟨một⟩⟩ cơn kinh hoàng — không có cơn kinh hoàng nào; vì Elohim đã rải tán xương kẻ vây hãm ngươi. Ngươi đã làm chúng nó xấu hổ, vì Elohim đã bỏ chúng nó.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "ở đó"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "họ kinh sợ"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "cơn kinh hoàng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "היה",
+      "gloss": "có"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "cơn kinh hoàng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פזר",
+      "gloss": "đã rải tán"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "xương"
+    },
+    {
+      "surface": "חנך",
+      "gloss": "kẻ vây hãm ngươi"
+    },
+    {
+      "surface": "הבשתה",
+      "gloss": "ngươi đã làm xấu hổ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מאסם",
+      "gloss": "đã bỏ chúng nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:27.789991912Z",
+  "model": "glm-5.3"
+}

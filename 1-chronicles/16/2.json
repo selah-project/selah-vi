@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Và David hoàn tất việc dâng lễ toàn thiêu và các lễ hòa bình, và chúc phước ⟨את⟩ dân sự trong Danh Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "và hoàn tất"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "việc dâng"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "lễ toàn thiêu"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "và các lễ hòa bình"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "và chúc phước"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân sự"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "trong Danh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T05:50:38.238392570Z",
+  "model": "glm-5.3"
+}

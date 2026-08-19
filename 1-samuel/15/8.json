@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Người bắt ⟨את⟩ Agag vua Amalek sống, còn ⟨את⟩ toàn thể dân sự thì người đặt dưới lưỡi gươm tận diệt.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "và bắt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag vua Amalek"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "חי",
+      "gloss": "sống"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "toàn thể dân sự"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "thì đặt dưới lưỡi gươm tận diệt"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "lưỡi của"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "gươm"
+    }
+  ],
+  "timestamp": "2026-08-19T03:33:13.965169473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 31:25",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Và Lavan đã đuổi kịp ⟨את⟩ Yaakov — còn Yaakov đã cắm trại ⟨את⟩ lều mình trên núi, và Lavan đã cắm trại ⟨את⟩ anh em mình trên núi Gil'ad.",
+  "tokens": [
+    {
+      "surface": "וישג",
+      "gloss": "đã đuổi kịp"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "và Yaakov"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "đã cắm (trại)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lều mình"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "lều mình"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "trên núi"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "và Lavan"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "đã cắm (trại)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anh em mình"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "anh em mình"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "trên núi"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gil'ad"
+    }
+  ],
+  "timestamp": "2026-08-19T01:17:11.406501488Z",
+  "model": "glm-5.3"
+}

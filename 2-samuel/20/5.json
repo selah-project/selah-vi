@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Vậy Amasa đi để triệu tập ⟨את⟩ Yehudah, nhưng ⟨hắn⟩ trễ quá kỳ hạn mà ⟨người ta⟩ đã định cho ⟨hắn⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Vậy-đi"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "để-triệu-tập"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "nhưng-trễ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "quá-khỏi"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "kỳ-hạn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "đã-định-cho"
+    }
+  ],
+  "timestamp": "2026-08-19T03:45:28.446046129Z",
+  "model": "glm-5.3"
+}

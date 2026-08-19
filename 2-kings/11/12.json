@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 11:12",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và ông đưa ra ⟨את⟩ con trai của vua, đặt trên cậu ⟨את⟩ vương miện và ⟨את]] điều chứng, họ lập cậu làm vua và xức dầu cho cậu; họ vỗ tay và nói: Vua muôn năm!",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "và ông đưa ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con trai của vua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "của vua"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "và đặt"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "trên cậu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vương miện"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "vương miện"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "điều chứng"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "điều chứng"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "họ lập làm vua"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "cậu"
+    },
+    {
+      "surface": "וימשחהו",
+      "gloss": "và xức dầu cho cậu"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "họ vỗ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "tay"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "muôn năm"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    }
+  ],
+  "timestamp": "2026-08-19T03:58:13.969938753Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và Yahweh đã tôn cao ⟨את⟩ các kẻ thù nghịch của Retsin lên trên nó, và ⟨את⟩ kẻ thù của nó Người khiến hợp lại chống nó.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "và đã tôn cao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các kẻ thù nghịch của Retsin"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "các kẻ thù nghịch"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "của Retsin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lên trên nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "kẻ thù của nó"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "kẻ thù của nó"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "Người khiến hợp lại chống nó"
+    }
+  ],
+  "timestamp": "2026-08-19T04:05:13.800079002Z",
+  "model": "glm-5.3"
+}

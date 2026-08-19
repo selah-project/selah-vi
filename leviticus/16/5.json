@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Và từ ⟨את⟩ hội chúng con cái Yisrael anh sẽ lấy hai con dê đực làm sinh tế chuộc tội, và một con chiên đực làm sinh tế thiêu.",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "và từ ⟨את⟩",
+      "marks": "hội chúng con cái Yisrael"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "hội chúng"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "sẽ lấy"
+    },
+    {
+      "surface": "שני",
+      "gloss": "hai"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "dê đực"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "của dìa dê"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "cho sinh tế chuộc tội"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "và chiên đực"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "một"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "cho sinh tế thiêu"
+    }
+  ],
+  "timestamp": "2026-08-19T06:04:21.542142289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 44:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Nhờ Ngài chúng tôi húc đổ kẻ thù nghịch ⟨của mình⟩; nhân Danh Ngài chúng tôi giẫm lên những kẻ nổi dậy chống chúng tôi.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "nhờ Ngài"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "kẻ thù nghịch chúng ta"
+    },
+    {
+      "surface": "ננגח",
+      "gloss": "chúng tôi húc đổ"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "nhân Danh Ngài"
+    },
+    {
+      "surface": "נבוס",
+      "gloss": "chúng tôi giẫm"
+    },
+    {
+      "surface": "קמינו",
+      "gloss": "kẻ nổi dậy chống chúng ta"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:05.607744845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Yahweh ôi, kẻ nghịch cùng con sao đông thế! Nhiều kẻ nổi lên chống con!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sao… thế"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "đông lên"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "kẻ nghịch cùng con"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nhiều"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "nổi lên"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "chống con"
+    }
+  ],
+  "timestamp": "2026-08-19T04:55:00.623521248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 41:16",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 41,
+  "translation": "Yosef đáp ⟨את⟩ Paroh rằng: Ngoài tôi ra, Elohim sẽ đáp ⟨את⟩ sự bình an của Paroh.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "và đáp"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "ngoài... ra"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "sẽ đáp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sự bình an của Paroh"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sự bình an"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "của Paroh"
+    }
+  ],
+  "timestamp": "2026-08-19T01:29:00.254373111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 145,
+  "translation": "Sự ngợi khen của Yahweh, miệng tôi sẽ nói ra, và mọi xác thịt sẽ chúc phúc danh thánh của Ngài, cho đến đời đời và mãi mãi.",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "sự ngợi khen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "sẽ nói ra"
+    },
+    {
+      "surface": "פי",
+      "gloss": "miệng tôi"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "và sẽ chúc phúc"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "xác thịt"
+    },
+    {
+      "surface": "שם",
+      "gloss": "danh"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "thánh của Ngài"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "cho đến đời đời"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "và mãi mãi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:10.340154866Z",
+  "model": "glm-5.3"
+}

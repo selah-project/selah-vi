@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 19:2",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Và người ta báo cho Yoav: Này, vua đang khóc và thương tiếc Avshalom.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "và được báo"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "cho Yoav"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "này"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "đang khóc"
+    },
+    {
+      "surface": "ויתאבל",
+      "gloss": "và thương tiếc"
+    },
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    }
+  ],
+  "timestamp": "2026-08-19T03:44:34.379551618Z",
+  "model": "glm-5.3"
+}

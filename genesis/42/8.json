@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 42,
+  "translation": "Và Yosef nhận ra ⟨את⟩ các anh em mình, còn họ thì không nhận ra ⟨người⟩.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "và nhận ra"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các anh em mình"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "các anh em mình"
+    },
+    {
+      "surface": "והם",
+      "gloss": "còn họ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "nhận ra ⟨người⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T06:31:30.076632948Z",
+  "model": "glm-5.3"
+}

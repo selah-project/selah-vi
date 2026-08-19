@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 43:31",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 43,
+  "translation": "Người rửa mặt, đi ra, kiềm chế mình, và nói: Hãy dọn bánh.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "rửa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mặt người"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "đi ra"
+    },
+    {
+      "surface": "ויתאפק",
+      "gloss": "kiềm chế mình"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "hãy dọn"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bánh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:24:28.713799217Z",
+  "model": "glm-5.3"
+}

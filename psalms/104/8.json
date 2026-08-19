@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 104,
+  "translation": "Chúng lên các núi, xuống các thung lũng, đến nơi mà Ngài đã lập cho chúng.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "chúng lên"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "các núi"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "xuống"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "các thung lũng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "nơi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "mà"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "Ngài đã lập"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:19.629412464Z",
+  "model": "glm-5.3"
+}

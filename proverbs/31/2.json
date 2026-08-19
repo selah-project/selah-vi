@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Ơ ⟨kìa⟩, con trai tôi? Và gì, con trai của bụng tôi? Và gì, con trai của các lời khấn nguyện tôi?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "gì\/ơ"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "con trai tôi"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "và gì"
+    },
+    {
+      "surface": "בר",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "của bụng tôi"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "và gì"
+    },
+    {
+      "surface": "בר",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "của lời khấn nguyện tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:19:53.339287999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 3:18",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Cùng nhau những tù nhân được bình an, không nghe tiếng của kẻ áp bức.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "cùng nhau"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "những tù nhân"
+    },
+    {
+      "surface": "שאננו",
+      "gloss": "được bình an"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nghe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tiếng"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "kẻ áp bức"
+    }
+  ],
+  "timestamp": "2026-08-19T05:20:25.000135672Z",
+  "model": "glm-5.3"
+}

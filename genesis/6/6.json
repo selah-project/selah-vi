@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và Yahweh hối tiếc ⟨vì⟩ đã làm ⟨את⟩ con người trên đất, và Ngài buồn thảm trong lòng ⟨của⟩ mình.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "và hối tiếc"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con người"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "con người"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trên đất"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "và buồn thảm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vào trong"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "lòng"
+    }
+  ],
+  "timestamp": "2026-08-19T00:51:23.269730396Z",
+  "model": "glm-5.3"
+}

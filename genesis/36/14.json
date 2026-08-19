@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 36:14",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 36,
+  "translation": "Và đây là con cái của Oholivamah, con gái của Anah, con gái của Tzivon, vợ của Esav; và nàng đã sinh cho Esav ⟨את⟩ Yeish, và ⟨את⟩ Yaalam, và ⟨את⟩ Korach.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "và đây là"
+    },
+    {
+      "surface": "היו",
+      "gloss": "đã là"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Oholivamah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "con gái"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Anah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "con gái"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Tzivon"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vợ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "và nàng đã sinh"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "cho Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeish"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeish"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Yaalam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Yaalam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Korach"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    }
+  ],
+  "timestamp": "2026-08-19T02:23:42.117565169Z",
+  "model": "glm-5.3"
+}

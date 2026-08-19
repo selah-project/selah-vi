@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 105,
+  "translation": "Israel đã vào Mitsrajim, và Yaakov đã ở như khách trong đất của Cham.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "đã vào"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "và Yaakov"
+    },
+    {
+      "surface": "גר",
+      "gloss": "ở như khách"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trong đất"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:39.589921204Z",
+  "model": "glm-5.3"
+}

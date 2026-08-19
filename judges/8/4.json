@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 8:4",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và Gideon đến phía Yarden, đang qua sông, ông và ba trăm người ⟨את⟩ cùng ông, mệt mỏi mà vẫn đuổi theo.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "và đến"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideon"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "phía Yarden"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "đang qua sông"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ông"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "và ba"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "trăm"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "người"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ cùng",
+      "marks": "ông (Gideon)"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "mệt mỏi"
+    },
+    {
+      "surface": "ורדפים",
+      "gloss": "mà vẫn đuổi theo"
+    }
+  ],
+  "timestamp": "2026-08-19T03:25:15.512241922Z",
+  "model": "glm-5.3"
+}

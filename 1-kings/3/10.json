@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và lời nói đó đẹp mắt Adonai, vì Shelomoh đã cầu xin ⟨את⟩ lời này.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "và đẹp mắt"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lời nói đó"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "trong mắt"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "đã cầu xin"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lời này"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lời"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    }
+  ],
+  "timestamp": "2026-08-19T03:47:29.682261086Z",
+  "model": "glm-5.3"
+}

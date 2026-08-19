@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 89,
+  "translation": "Vì ⟨he⟩ là sự vinh quang của sức mạnh chúng ta — ⟨את⟩, và trong sự đẹp lòng của Ngài sừng chúng ta được nhấc lên.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "sự vinh-quang"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "sức-mạnh của-họ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ngài-là"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "và trong sự đẹp-lòng của-Ngài"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "Ngài nhấc-lên"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": "sừng của-chúng-ta"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:17.780047048Z",
+  "model": "glm-5.3"
+}

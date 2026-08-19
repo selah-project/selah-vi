@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 119:48",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Và tôi sẽ giơ ⟨các⟩ bàn tay mình lên ⟨đến⟩ các điều răn của Ngài, mà tôi đã yêu mến, và tôi sẽ suy gẫm trong các luật lệ của Ngài.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "và tôi sẽ giơ lên"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "bàn tay mình"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "các điều răn của Ngài"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "tôi đã yêu mến"
+    },
+    {
+      "surface": "ואשיחה",
+      "gloss": "và tôi sẽ suy gẫm"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "trong các luật lệ của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:40.720798955Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 41:52",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 41,
+  "translation": "Và ⟨את⟩ tên đứa thứ hai ông gọi là Efrayim, vì Elohim đã làm tôi kết quả trong xứ khốn khổ của tôi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "tên"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tên"
+    },
+    {
+      "surface": "השני",
+      "gloss": "đứa thứ hai"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ông gọi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "הפרני",
+      "gloss": "đã làm tôi kết quả"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trong xứ"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "khốn khổ của tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:24:27.509167017Z",
+  "model": "glm-5.3"
+}

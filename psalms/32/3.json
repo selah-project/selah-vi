@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Khi tôi nín lặng, xương cốt tôi mòn mỏi, qua tiếng gầm rú của tôi suốt ⟨cả⟩ ngày.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "khi"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "tôi nín lặng"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "mòn mỏi"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "xương cốt tôi"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "qua tiếng gầm rú của tôi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "suốt cả"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngày"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:03.414051705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Đừng cày bằng bò và bằng lừa chung với nhau.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ngươi cày"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "bằng bò"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "và bằng lừa"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "chung với nhau"
+    }
+  ],
+  "timestamp": "2026-08-19T03:09:24.602815859Z",
+  "model": "glm-5.3"
+}

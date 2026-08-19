@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 4:25",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Tsipporah lấy một mảnh đá lửa, cắt ⟨את⟩ da quy đầu của con trai mình, chạm nó đến chân người, và nói: Quả thật, chồng máu ngài là đối với tôi.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "bà lấy"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tsipporah"
+    },
+    {
+      "surface": "צר",
+      "gloss": "đá lửa"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "và cắt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "da quy đầu"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "da quy đầu"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "của con trai mình"
+    },
+    {
+      "surface": "ותגע",
+      "gloss": "và chạm"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "đến chân người"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quả thật"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "chồng"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "máu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngài là"
+    },
+    {
+      "surface": "לי",
+      "gloss": "đối với tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:28:48.224801635Z",
+  "model": "glm-5.3"
+}

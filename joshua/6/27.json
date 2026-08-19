@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 6:27",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và Yahweh ở cùng ⟨את⟩ Yehoshua, và tiếng tăm ⟨của ông⟩ vang khắp cả đất.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "và đã ở"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ (ở cùng)",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "và đã vang"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "tiếng tăm của ông"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "khắp cả"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T03:15:32.621519506Z",
+  "model": "glm-5.3"
+}

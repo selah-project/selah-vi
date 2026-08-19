@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Và toàn thể dân sự thấy ⟨את⟩ các tiếng sấm, và ⟨את⟩ các ngọn đuốc lửa, và ⟨את⟩ tiếng kèn, và ⟨את⟩ núi khói nghi ngút; dân sự thấy thì run rẩy và đứng xa xa.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "và toàn thể"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các tiếng sấm"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "các tiếng sấm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "các ngọn đuốc lửa"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "các ngọn đuốc lửa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tiếng kèn"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tiếng"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "của kèn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "núi"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "núi"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "khói nghi ngút"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "và thấy"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "thì run rẩy"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "và đứng"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "xa xa"
+    }
+  ],
+  "timestamp": "2026-08-19T02:32:21.793571594Z",
+  "model": "glm-5.3"
+}

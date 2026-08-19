@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Còn ⟨את⟩ thịt và ⟨את⟩ da thì ông đốt trong lửa, ở ngoài trại quân.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "thịt"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "thịt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "da"
+    },
+    {
+      "surface": "העור",
+      "gloss": "da"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "đốt"
+    },
+    {
+      "surface": "באש",
+      "gloss": "trong lửa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ở ngoài"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "trại quân"
+    }
+  ],
+  "timestamp": "2026-08-19T02:41:39.921130480Z",
+  "model": "glm-5.3"
+}

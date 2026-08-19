@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "thì Ngài sẽ nghe từ ⟨các tầng trời⟩ lời cầu nguyện của chúng và ⟨את⟩ lời khẩn cầu của chúng, và sẽ làm ⟨את⟩ công lý cho chúng.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "thì Ngài sẽ nghe"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨từ các tầng trời⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lời cầu nguyện của chúng"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "lời cầu nguyện của chúng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lời khẩn cầu của chúng"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "lời khẩn cầu của chúng"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "và sẽ làm"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "công lý của chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:50:16.287898166Z",
+  "model": "glm-5.3"
+}

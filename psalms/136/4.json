@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 136,
+  "translation": "Đấng ⟨là⟩ Đấng làm các việc lạ lùng lớn lao, một mình Ngài, vì sự nhân từ của Ngài tồn tại đến muôn đời.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Đấng làm"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "các việc lạ lùng"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "lớn lao"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "một mình Ngài"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "đến muôn đời"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sự nhân từ của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:22.498202784Z",
+  "model": "glm-5.3"
+}

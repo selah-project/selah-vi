@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 122,
+  "translation": "Hãy cầu xin sự bình an cho Yerushalayim; nguyện được an nghỉ, những người yêu mến ngươi.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "hãy cầu xin"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sự bình an"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "được an nghỉ"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "những người yêu mến ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:44.557073464Z",
+  "model": "glm-5.3"
+}

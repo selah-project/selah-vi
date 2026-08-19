@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Và người đầy tớ đặt ⟨את⟩ tay mình dưới đùi Avraham, chủ của mình, và thề với người ấy về việc này.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "và đặt"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "người đầy tớ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tay mình"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tay mình"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dưới"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "đùi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "chủ của mình"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "và thề"
+    },
+    {
+      "surface": "לו",
+      "gloss": "với người ấy"
+    },
+    {
+      "surface": "על",
+      "gloss": "về"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "việc"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    }
+  ],
+  "timestamp": "2026-08-19T01:04:47.894203117Z",
+  "model": "glm-5.3"
+}

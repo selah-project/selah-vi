@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Và nó sỉ nhục ⟨את⟩ Yisrael, thì Yehonatan con của Shim'i, anh của David, đã đánh nó.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "và nó sỉ nhục"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "thì đánh nó"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con của"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shim'i"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "anh của"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-19T03:44:05.955138582Z",
+  "model": "glm-5.3"
+}

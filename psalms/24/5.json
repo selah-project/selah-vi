@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Người ấy sẽ nhấc nhận ⟨את⟩ phước lành từ Yahweh, và sự công bình từ Elohim của sự cứu giúp mình.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "sẽ nhấc nhận"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "phước lành"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "từ ⟨את⟩",
+      "marks": "phước lành"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "và sự công bình"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "từ Elohim của"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "sự cứu giúp của mình"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:34.223655747Z",
+  "model": "glm-5.3"
+}

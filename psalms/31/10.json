@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Xin ban ơn cho tôi, Yahweh, vì tôi đang bị bó hẹp; mắt tôi, linh hồn ⟨nephesh⟩ tôi và bụng tôi đã hao mòn vì cơn gắt giận.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "xin ban ơn cho tôi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "צר",
+      "gloss": "bị bó hẹp"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "đã hao mòn"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "vì cơn gắt giận"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mắt tôi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "linh hồn ⟨nephesh⟩ tôi"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "và bụng tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:44.868607767Z",
+  "model": "glm-5.3"
+}

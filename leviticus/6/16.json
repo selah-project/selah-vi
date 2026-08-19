@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và mọi lễ bánh của thầy tế lễ phải toàn vẹn ⟨⟨is⟩]; nó sẽ không được ăn.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "lễ bánh"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "của thầy tế lễ"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "toàn vẹn"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "phải là"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "sẽ được ăn"
+    }
+  ],
+  "timestamp": "2026-08-19T02:41:09.090556452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 4:14",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và Eli nghe ⟨את⟩ tiếng la khóc, và nói: Tiếng ồn ào này là gì? Và người kia vội vàng đến và báo cho Eli.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "và nghe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiếng la khóc"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tiếng"
+    },
+    {
+      "surface": "הצעקה",
+      "gloss": "la khóc"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tiếng"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "ồn ào"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "và người kia"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "vội vàng"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "đến"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "và báo"
+    },
+    {
+      "surface": "לעלי",
+      "gloss": "cho Eli"
+    }
+  ],
+  "timestamp": "2026-08-19T03:31:01.745947436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 39:24",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 39,
+  "translation": "Theo sự ô uế của họ và theo các sự vi phạm của họ, Ta đã xử với ⟨את⟩ chúng, và Ta đã giấu mặt Ta khỏi họ.",
+  "tokens": [
+    {
+      "surface": "כטמאתם",
+      "gloss": "theo sự ô uế của họ"
+    },
+    {
+      "surface": "וכפשעיהם",
+      "gloss": "và theo các sự vi phạm của họ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "Ta đã làm"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "họ (đối tượng bị xử)"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "và Ta đã giấu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt của Ta"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "khỏi họ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:41:12.818932209Z",
+  "model": "glm-5.3"
+}

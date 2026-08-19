@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 10:5",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Và họ đến gần, và khiêng họ trong áo khoác của họ ra ngoài trại quân, như Moshe đã phán.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "và họ đến gần"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "và khiêng họ"
+    },
+    {
+      "surface": "בכתנתם",
+      "gloss": "trong áo khoác của họ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "bên ngoài"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "trại quân"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "đã phán"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-19T02:42:00.805728341Z",
+  "model": "glm-5.3"
+}

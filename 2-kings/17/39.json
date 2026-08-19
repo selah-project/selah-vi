@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-kings 17:39",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Chỉ ⟨את⟩ Yahweh Elohim của các ngươi các ngươi phải sợ; và chính Ngài sẽ cứu ⟨את⟩ các ngươi khỏi tay mọi kẻ thù của các ngươi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chỉ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "duy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim của các ngươi"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "các ngươi phải sợ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "và chính Ngài"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "sẽ cứu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ các ngươi",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "khỏi tay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "kẻ thù của các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:00:26.422654349Z",
+  "model": "glm-5.3"
+}

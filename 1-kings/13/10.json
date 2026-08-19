@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Và ⟨ông⟩ đi theo con đường khác, và không quay lại theo con đường mà ⟨ông⟩ đã đi đến Beit-El.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "và ông đi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "theo con đường"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "khác"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "שב",
+      "gloss": "quay lại"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "theo con đường"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ông đã đi đến"
+    },
+    {
+      "surface": "בה",
+      "gloss": "trong nó"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-El"
+    }
+  ],
+  "timestamp": "2026-08-19T03:51:24.077183180Z",
+  "model": "glm-5.3"
+}

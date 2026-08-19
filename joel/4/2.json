@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 4:2",
+  "book": "joel",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Ta sẽ tập hợp ⟨את⟩ mọi dân tộc và đem chúng xuống đến thung lũng Yehoshafat; Ta sẽ xét xử với chúng tại đó, vì dân Ta và cơ nghiệp Ta Yisrael, mà chúng đã tan lạc giữa các dân, và ⟨את⟩ đất của Ta chúng đã chia cắt.",
+  "tokens": [
+    {
+      "surface": "וקבצתי",
+      "gloss": "Ta sẽ tập hợp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi dân tộc"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "dân tộc"
+    },
+    {
+      "surface": "והורדתים",
+      "gloss": "đem chúng xuống"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "thung lũng"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "ונשפטתי",
+      "gloss": "Ta sẽ xét xử"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "với chúng"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tại đó"
+    },
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "dân Ta"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "cơ nghiệp Ta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "פזרו",
+      "gloss": "chúng đã tan lạc"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "giữa các dân"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "đất của Ta"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "đất của Ta"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "chúng đã chia cắt"
+    }
+  ],
+  "timestamp": "2026-08-19T04:47:01.799944405Z",
+  "model": "glm-5.3"
+}

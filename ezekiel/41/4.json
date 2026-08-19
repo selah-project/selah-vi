@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 41:4",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 41,
+  "translation": "Và ngài đo ⟨את⟩ chiều dài của nó hai mươi cubit, và bề rộng hai mươi cubit, trước mặt ⟨the⟩ đền thờ; và ngài phán cùng tôi: Này là Nơi Thánh của các Nơi Thánh.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "và ngài đo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiều dài của nó"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "chiều dài của nó"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "hai mươi"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "và bề rộng"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "hai mươi"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "trước"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt của"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "đền thờ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và ngài phán"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cùng tôi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "này"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Nơi Thánh"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "của các Nơi Thánh"
+    }
+  ],
+  "timestamp": "2026-08-19T04:41:58.634321764Z",
+  "model": "glm-5.3"
+}

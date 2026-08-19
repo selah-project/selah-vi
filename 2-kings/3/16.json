@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 3:16",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Ông nói: Yahweh phán như sau: Hãy làm con wadi này thành hố, hố này đầy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ông nói"
+    },
+    {
+      "surface": "כה",
+      "gloss": "như sau"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hãy làm"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "con wadi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "hố"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "hố đầy"
+    }
+  ],
+  "timestamp": "2026-08-19T03:55:50.628201652Z",
+  "model": "glm-5.3"
+}

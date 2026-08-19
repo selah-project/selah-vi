@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 11:9",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và Ta sẽ đem ⟨את⟩các ngươi ra khỏi giữa nó, và Ta sẽ đặt ⟨את⟩các ngươi vào tay những người lạ, và Ta sẽ thi hành các phán quyết nơi các ngươi.",
+  "tokens": [
+    {
+      "surface": "והוצאתי",
+      "gloss": "và Ta sẽ đem ra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩các ngươi",
+      "marks": "các ngươi (tân ngữ của 'đem ra')"
+    },
+    {
+      "surface": "מתוכה",
+      "gloss": "khỏi giữa nó"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "và Ta sẽ đặt"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩các ngươi",
+      "marks": "các ngươi (tân ngữ của 'đặt')"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "vào tay"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "những người lạ"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "và Ta sẽ làm"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "nơi các ngươi"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "các phán quyết"
+    }
+  ],
+  "timestamp": "2026-08-19T04:33:25.772907666Z",
+  "model": "glm-5.3"
+}

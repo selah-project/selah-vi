@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 13:6",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Sự công chính canh giữ ⟨con đường của⟩ người toàn vẹn, còn sự gian ác lật đổ tội lỗi.",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "sự công chính"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "canh giữ"
+    },
+    {
+      "surface": "תם",
+      "gloss": "người toàn vẹn"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "con đường"
+    },
+    {
+      "surface": "ורשעה",
+      "gloss": "còn sự gian ác"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "lật đổ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "tội lỗi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:15:55.444871822Z",
+  "model": "glm-5.3"
+}

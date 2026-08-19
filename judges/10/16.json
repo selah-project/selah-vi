@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Và họ dẹp bỏ ⟨את⟩ các elohim ngoại bang khỏi giữa mình, và hầu việc ⟨את⟩ Yahweh; và linh hồn Ngài khốn khổ vì sự cơ cực của Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "và họ dẹp bỏ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các elohim ngoại bang"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "các elohim"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "ngoại bang"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "khỏi giữa mình"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "và hầu việc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "và khốn khổ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "linh hồn Ngài"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "vì sự cơ cực"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "của Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T03:24:29.751839704Z",
+  "model": "glm-5.3"
+}

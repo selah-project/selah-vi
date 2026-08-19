@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Avraham đã ban ⟨את⟩ tất cả những gì thuộc về mình cho Yitschak.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "đã ban"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả những gì thuộc về mình"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "những gì"
+    },
+    {
+      "surface": "לו",
+      "gloss": "thuộc về mình"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "cho Yitschak"
+    }
+  ],
+  "timestamp": "2026-08-19T01:08:00.805972212Z",
+  "model": "glm-5.3"
+}

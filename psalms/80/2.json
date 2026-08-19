@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 80:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 80,
+  "translation": "Hỡi Đấng chăn-dắt Yisraël, xin lắng-nghe! Đấng dẫn-dắt Yosef như đàn chiên, Đấng ngự giữa ⟨các⟩ keruvim, xin chiếu-toả!",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "đấng chăn-dắt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraël"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "xin lắng-nghe"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "đấng dẫn-dắt"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "như đàn chiên"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "đấng ngự"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "các keruvim"
+    },
+    {
+      "surface": "הופיעה",
+      "gloss": "xin chiếu-toả"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:31.091938348Z",
+  "model": "glm-5.3"
+}

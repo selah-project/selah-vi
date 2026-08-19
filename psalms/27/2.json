@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Khi kẻ làm ác đến gần tôi để ăn ⟨את⟩ thịt tôi — kẻ khó chịu tôi và kẻ thù nghịch tôi với tôi — chính ⟨họ⟩ đã vấp ngã và sụp đổ.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "khi đến gần"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "vào tôi"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "kẻ làm ác"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "để ăn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thịt tôi"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "thịt tôi"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "kẻ khó chịu tôi"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "và kẻ thù nghịch tôi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "với tôi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "chính họ"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "đã vấp ngã"
+    },
+    {
+      "surface": "וינפלו",
+      "gloss": "và đã sụp đổ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:16.518733881Z",
+  "model": "glm-5.3"
+}

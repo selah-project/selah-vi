@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và Athaljah nghe ⟨את⟩ tiếng của-cận-vệ ⟨cùng⟩ dân, và-bà-đến đến-nơi-dân, nhà Yahweh.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "và-bà-nghe"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Athaljah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiếng"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tiếng"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "của-cận-vệ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "và-bà-đến-vào"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến-nơi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T03:58:48.050055840Z",
+  "model": "glm-5.3"
+}

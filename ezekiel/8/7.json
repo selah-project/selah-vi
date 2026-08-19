@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Người đưa ⟨את⟩ tôi đến lối vào của sân; tôi nhìn, và kìa, một lỗ-hổng trong bức-tường.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "đưa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "tôi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "lối vào"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "của sân"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "tôi nhìn"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "và kìa"
+    },
+    {
+      "surface": "חר",
+      "gloss": "lỗ hổng"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "một"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "trong bức tường"
+    }
+  ],
+  "timestamp": "2026-08-19T04:32:36.271771765Z",
+  "model": "glm-5.3"
+}

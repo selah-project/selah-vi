@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 144,
+  "translation": "Của David. Đáng chúc phúc là Yahweh, vầng đá của tôi, Đấng dạy tay tôi ⟨cho⟩ chiến trận, ngón tay tôi ⟨cho⟩ giao chiến.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Của David"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "đáng chúc phúc"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "vầng đá của tôi"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "Đấng dạy"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tay tôi"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "cho chiến trận"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "ngón tay tôi"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "cho giao chiến"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:03.260102283Z",
+  "model": "glm-5.3"
+}

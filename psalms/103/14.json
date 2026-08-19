@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 103,
+  "translation": "Vì ⟨ngài⟩ biết hình thể chúng ta, nhớ rằng chúng ta chỉ là bụi đất.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ngài"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "biết"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "hình thể chúng ta"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "nhớ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "bụi đất"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "chúng ta"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:52.546734102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 106,
+  "translation": "Ngài đã thấy cơn khốn khổ của họ, khi Ngài nghe ⟨את⟩ tiếng kêu cứu của họ.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "và Ngài đã thấy"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "cơn khốn khổ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "của họ"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "khi Ngài nghe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiếng kêu cứu của họ"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "tiếng kêu cứu của họ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:59.230706945Z",
+  "model": "glm-5.3"
+}

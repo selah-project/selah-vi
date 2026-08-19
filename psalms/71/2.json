@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 71,
+  "translation": "Trong sự công chính của Ngài, xin Ngài giải cứu con và cứu thoát con; nghiêng tai Ngài về phía con và cứu con.",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "trong sự công chính của Ngài"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "xin Ngài giải cứu con"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "và cứu thoát con"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "nghiêng"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "về phía con"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "tai Ngài"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "và cứu con"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:43.574502733Z",
+  "model": "glm-5.3"
+}

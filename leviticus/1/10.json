@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và nếu lễ vật của người ấy từ đàn chiên — hoặc từ chiên con, hoặc từ dê — làm sinh tế thiêu, thì phải dâng một con đực không tì vết.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "và nếu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "đàn chiên (gia súc nhỏ)"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "lễ vật của người ấy"
+    },
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "chiên con"
+    },
+    {
+      "surface": "או",
+      "gloss": "hoặc"
+    },
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "dê"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "làm sinh tế thiêu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "con đực"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "hoàn hảo, không tì vết"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "phải dâng nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:39:57.447097263Z",
+  "model": "glm-5.3"
+}

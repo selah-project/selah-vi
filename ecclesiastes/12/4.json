@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "và các cánh cửa đóng lại ngoài phố, khi tiếng cối xay nhỏ dần, và kẻ ấy thức dậy vì tiếng chim, và mọi con gái của tiếng hát đều lặng đi.",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "và đóng lại"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "các cánh cửa"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "ngoài phố"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "khi nhỏ dần"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tiếng"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "cối xay"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "và thức dậy"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "vì tiếng"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "chim"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "và lặng đi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "con gái"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "của tiếng hát"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:58.401123577Z",
+  "model": "glm-5.3"
+}

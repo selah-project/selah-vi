@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 108:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 108,
+  "translation": "Elohim đã phán trong sự thánh của Ngài: Tôi sẽ nhảy mừng, tôi sẽ chia phần Shkhem, và thung lũng Sukkot tôi sẽ đo đạc.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "đã phán"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "trong sự thánh của Ngài"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "tôi sẽ nhảy mừng"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "tôi sẽ chia phần"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shkhem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "và thung lũng"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "tôi sẽ đo đạc"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:32.497489764Z",
+  "model": "glm-5.3"
+}

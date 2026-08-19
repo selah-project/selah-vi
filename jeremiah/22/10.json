@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 22:10",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Chớ khóc cho kẻ chết, và chớ than khóc cho nó; hãy khóc, hãy khóc cho kẻ ra đi, vì nó sẽ không quay lại nữa, và sẽ không thấy đất nơi nó sinh ra.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "các ngươi khóc"
+    },
+    {
+      "surface": "למת",
+      "gloss": "cho kẻ chết"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và chớ"
+    },
+    {
+      "surface": "תנדו",
+      "gloss": "các ngươi than khóc"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho nó"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "hãy khóc"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "hãy khóc"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "cho kẻ ra đi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "nó sẽ quay lại"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nữa"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "và thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đất"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "nơi nó sinh ra"
+    }
+  ],
+  "timestamp": "2026-08-19T04:21:50.817520689Z",
+  "model": "glm-5.3"
+}

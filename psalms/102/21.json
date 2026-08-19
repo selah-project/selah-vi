@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 102:21",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 102,
+  "translation": "Để nghe tiếng kêu van của kẻ bị giam, để mở khóa cho con cái của sự chết.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "để nghe"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "tiếng kêu van"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "kẻ bị giam"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "để mở khóa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái của"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "sự chết"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:58.821273522Z",
+  "model": "glm-5.3"
+}

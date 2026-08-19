@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 14:3",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Và David lấy thêm các vợ tại Yerushalayim, và David sinh thêm các con trai và các con gái.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "và lấy"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "thêm"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "các vợ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "tại Yerushalayim"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "và sinh"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "thêm"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "các con trai"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "và các con gái"
+    }
+  ],
+  "timestamp": "2026-08-19T05:50:30.305523665Z",
+  "model": "glm-5.3"
+}

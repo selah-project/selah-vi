@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 5:5",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Và sẽ xảy ra khi ⟨he⟩ mắc lỗi về một trong các điều này, thì ⟨he⟩ sẽ xưng tội điều mà ⟨he⟩ đã phạm về điều đó.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "và sẽ xảy ra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "khi"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "mắc lỗi"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "về một"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "trong các điều này"
+    },
+    {
+      "surface": "והתודה",
+      "gloss": "thì sẽ xưng tội"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "điều mà"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "đã phạm"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "về điều đó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:41:19.881944536Z",
+  "model": "glm-5.3"
+}

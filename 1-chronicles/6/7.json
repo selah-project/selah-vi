@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 6:7",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Con cái của Kehat: Aminadav con trai ông, Korach con trai ông, Assir con trai ông.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadav"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "con trai ông"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "con trai ông"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "Assir"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "con trai ông"
+    }
+  ],
+  "timestamp": "2026-08-19T05:48:05.579893908Z",
+  "model": "glm-5.3"
+}

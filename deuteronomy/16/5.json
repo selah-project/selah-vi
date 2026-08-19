@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Không thể giết tế ⟨את⟩ lễ Vượt Qua trong một trong các cổng của ngươi, mà Yahweh Elohim ngươi ban cho ngươi;",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "ngươi-có-thể"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "để-giết-tế"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lễ Vượt Qua"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "lễ-Vượt-Qua"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "trong-một"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "các-cổng-của-ngươi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ngươi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ban"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho-ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:09:08.915662616Z",
+  "model": "glm-5.3"
+}

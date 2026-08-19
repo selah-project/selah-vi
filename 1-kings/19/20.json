@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 19:20",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Ông bỏ ⟨את⟩ đàn bò và chạy theo Eliyahu, và nói: Xin cho tôi hôn cha tôi và mẹ tôi, rồi tôi sẽ đi theo ngài. Người nói với ông: Hãy đi, hãy trở lại, vì tôi đã làm gì cho anh?",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "và ông bỏ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đàn bò"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "đàn bò"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "và chạy"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "theo"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אשקה",
+      "gloss": "tôi sẽ hôn"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xin"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "cha tôi"
+    },
+    {
+      "surface": "ולאמי",
+      "gloss": "và mẹ tôi"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "rồi tôi sẽ đi"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "theo ngài"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và người nói"
+    },
+    {
+      "surface": "לו",
+      "gloss": "với ông"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hãy đi"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "hãy trở lại"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "tôi đã làm"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho anh"
+    }
+  ],
+  "timestamp": "2026-08-19T03:54:28.932065389Z",
+  "model": "glm-5.3"
+}

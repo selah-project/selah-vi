@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và đất ⟨là⟩ hoang vu và trống rỗng, và tối tăm trên mặt vực thẳm, và Thần của Elohim lượn lờ trên mặt nước.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "và đất"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨là⟩"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "hoang vu"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "và trống rỗng"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "và tối tăm"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "vực thẳm"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "và Thần"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "của Elohim"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "lượn lờ"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt"
+    },
+    {
+      "surface": "המים",
+      "gloss": "nước"
+    }
+  ],
+  "timestamp": "2026-08-19T00:45:26.152853454Z",
+  "model": "glm-5.3"
+}

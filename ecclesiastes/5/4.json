@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Tốt hơn là ngươi đừng khấn, hơn là khấn mà không trả.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "tốt hơn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "việc mà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "ngươi khấn"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "hơn là khấn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mà không"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "ngươi trả"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:00.811543997Z",
+  "model": "glm-5.3"
+}

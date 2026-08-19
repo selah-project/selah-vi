@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và ⟨את⟩ con thỏ rừng, vì nó nhả lại thức ăn nhai nhưng móng không chẻ ra — nó ô uế đối với các ngươi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "con thỏ rừng"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "con thỏ rừng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "nó nhả lại"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "thức ăn nhai"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "và móng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "đã chẻ ra"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "ô uế"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "đối với các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:42:33.359708994Z",
+  "model": "glm-5.3"
+}

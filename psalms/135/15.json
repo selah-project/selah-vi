@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 135,
+  "translation": "Các hình tượng của các dân ngoại ⟨là⟩ bạc và vàng, công việc của tay loài người.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "các hình tượng"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "của các dân ngoại"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "bạc"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "và vàng"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "công việc"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "của tay"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "loài người"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:11.911775984Z",
+  "model": "glm-5.3"
+}

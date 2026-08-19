@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 15:10",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Và có lời của Yahweh đến với Shemuel, phán rằng:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "và có"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lời"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến với"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "phán rằng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:33:25.759365133Z",
+  "model": "glm-5.3"
+}

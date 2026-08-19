@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 5:1",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Và mọi chi tộc của Yisrael đều đến với David tại Chebron, và họ nói rằng: Này, chúng tôi là xương ⟨của⟩ anh và thịt ⟨của⟩ anh, chính chúng tôi.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "và-came-đã-đến"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "chi tộc"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến với"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "tại Chebron"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "và-họ-nói"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "הננו",
+      "gloss": "này"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "xương của anh"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "và thịt của anh"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "chính chúng tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:39:51.601542896Z",
+  "model": "glm-5.3"
+}

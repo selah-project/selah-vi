@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và Eli nói với ⟨nàng⟩: Đến bao lâu ⟨bà⟩ còn say? Hãy cất ⟨את⟩ rượu của ⟨bà⟩ khỏi mình ⟨bà⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Và nói"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "với ⟨nàng⟩"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Đến"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "bao lâu"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "⟨bà⟩ còn say"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "Hãy cất"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rượu của ⟨bà⟩"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "rượu của ⟨bà⟩"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "khỏi mình ⟨bà⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T03:28:57.478113622Z",
+  "model": "glm-5.3"
+}

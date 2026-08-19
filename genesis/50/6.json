@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 50,
+  "translation": "Và Pharaoh nói: Hãy lên, và chôn ⟨את⟩ cha ngươi, như người đã khiến ngươi thề.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và người nói"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaoh"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "hãy lên"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "và hãy chôn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cha ngươi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "cha ngươi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "người đã khiến ngươi thề"
+    }
+  ],
+  "timestamp": "2026-08-19T02:27:10.974206238Z",
+  "model": "glm-5.3"
+}

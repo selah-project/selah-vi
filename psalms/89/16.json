@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 89,
+  "translation": "Phước thay ⟨là⟩ dân biết tiếng reo hò, Yahweh; trong ánh sáng nhan Ngài họ bước đi.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "phước thay"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "biết"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "tiếng reo hò"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "באור",
+      "gloss": "trong ánh sáng"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "nhan Ngài"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "họ bước đi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:29.841319226Z",
+  "model": "glm-5.3"
+}

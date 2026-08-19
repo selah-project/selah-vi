@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 20:4",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Cũng vậy, vua của Ashshur sẽ dẫn đi ⟨את⟩ những tù binh của Mitsrayim và ⟨את⟩ những kẻ bị lưu đày của Kush, người trẻ và người già, trần trụi và chân không, với mông trần lộ — sự lõa lồ của Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "cũng vậy"
+    },
+    {
+      "surface": "ינהג",
+      "gloss": "sẽ dẫn đi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "của Ashshur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "những tù binh của Mitsrayim"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "những tù binh"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "của Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "những kẻ bị lưu đày của Kush"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "những kẻ bị lưu đày"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "của Kush"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "người trẻ"
+    },
+    {
+      "surface": "וזקנים",
+      "gloss": "và người già"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "trần trụi"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "và chân không"
+    },
+    {
+      "surface": "וחשופי",
+      "gloss": "với... trần lộ"
+    },
+    {
+      "surface": "שת",
+      "gloss": "mông"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "sự lõa lồ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "của Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T04:07:45.360176910Z",
+  "model": "glm-5.3"
+}

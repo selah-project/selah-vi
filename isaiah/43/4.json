@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 43:4",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 43,
+  "translation": "Vì ngươi quý giá trong mắt Ta, ngươi được tôn trọng, và Ta đã yêu ngươi; nên Ta sẽ cho loài người thay cho ngươi, và các dân tộc thay cho sinh mạng ngươi.",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "vì rằng"
+    },
+    {
+      "surface": "יקרת",
+      "gloss": "ngươi quý giá"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "trong mắt Ta"
+    },
+    {
+      "surface": "נכבדת",
+      "gloss": "ngươi được tôn trọng"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "và Ta"
+    },
+    {
+      "surface": "אהבתיך",
+      "gloss": "đã yêu ngươi"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "và Ta sẽ cho"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "loài người"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "thay cho ngươi"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "và các dân tộc"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thay cho"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "sinh mạng ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:12:33.271454019Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 27:18",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Người làm cho kẻ mù lòa lạc lối trên đường sẽ bị rút sủa — và toàn thể dân sự sẽ nói: A-men.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "bị rút sủa"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "kẻ làm cho lạc lối"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kẻ mù"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "trên đường"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "và sẽ nói"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "A-men"
+    }
+  ],
+  "timestamp": "2026-08-19T06:06:12.608396673Z",
+  "model": "glm-5.3"
+}

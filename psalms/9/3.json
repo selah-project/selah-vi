@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Tôi sẽ vui mừng và hoan lạc trong Ngài, tôi sẽ đàn hát danh Ngài, hỡi Đấng Tối Cao.",
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "tôi sẽ vui mừng"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "và hoan lạc"
+    },
+    {
+      "surface": "בך",
+      "gloss": "trong Ngài"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "tôi sẽ đàn hát"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "danh Ngài"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Đấng Tối Cao"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:06.397095443Z",
+  "model": "glm-5.3"
+}

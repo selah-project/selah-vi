@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 142,
+  "translation": "Khi linh hồn tôi ngã ngửa bên trong mình, còn Ngài — Ngài biết lối tôi đi; trên con đường này tôi bước, chúng đã giấu bẫy cho tôi.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "khi ngã ngửa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "bên trên tôi"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "linh hồn tôi"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "còn Ngài"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "Ngài biết"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "lối tôi đi"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "trên con đường"
+    },
+    {
+      "surface": "זו",
+      "gloss": "này"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "tôi bước"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "chúng đã giấu"
+    },
+    {
+      "surface": "פח",
+      "gloss": "bẫy lưới"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:32.925216509Z",
+  "model": "glm-5.3"
+}

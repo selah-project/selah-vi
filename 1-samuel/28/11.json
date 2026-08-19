@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Người đàn bà nói: ⟨את⟩ ai tôi sẽ khiến lên cho ông? Người nói: Ngươi hãy khiến ⟨את⟩ Shemu'el lên cho tôi.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "và người nói"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "người đàn bà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ai"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "tôi sẽ khiến lên"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ông"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và người nói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemu'el"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemu'el"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "hãy khiến lên"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:37:32.884844366Z",
+  "model": "glm-5.3"
+}

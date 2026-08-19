@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Và Ngài đưa tôi ra ⟨את⟩ đến nơi rộng rãi; Ngài giải thoát tôi, vì Ngài ưa thích tôi.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "và Ngài đưa ra"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "đến nơi rộng rãi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "tôi"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "Ngài giải thoát tôi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "Ngài ưa thích"
+    },
+    {
+      "surface": "בי",
+      "gloss": "tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:44:53.222704875Z",
+  "model": "glm-5.3"
+}

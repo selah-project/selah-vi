@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 16:15",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Và Avshalom cùng toàn thể dân, mỗi người Yisrael, đã vào Yerushalayim; và Achitofel ⟨את⟩-với ông.",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "và Avshalom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và toàn thể"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mỗi người"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "באו",
+      "gloss": "đã vào"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואחיתפל",
+      "gloss": "và Achitofel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ với ông",
+      "marks": "Achitofel"
+    }
+  ],
+  "timestamp": "2026-08-19T03:44:10.351137966Z",
+  "model": "glm-5.3"
+}

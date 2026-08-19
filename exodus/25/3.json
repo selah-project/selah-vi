@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Và đây là sự dâng hiến mà các ngươi sẽ lấy từ ⟨את⟩ họ: vàng, và bạc, và đồng.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "và đây là"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "sự dâng hiến"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "các ngươi sẽ lấy"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "từ ⟨את⟩ họ",
+      "marks": "họ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "vàng"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "và bạc"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "và đồng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:34:03.266565444Z",
+  "model": "glm-5.3"
+}

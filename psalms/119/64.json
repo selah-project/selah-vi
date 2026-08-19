@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 119:64",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Chesed của Ngài, Yahweh, đã đầy ⟨את⟩ đất; các luật lệ của Ngài, xin dạy tôi.",
+  "tokens": [
+    {
+      "surface": "חסדך",
+      "gloss": "Chesed của Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "đã đầy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨את⟩ đất"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "các luật lệ của Ngài"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "xin dạy tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:35.016271991Z",
+  "model": "glm-5.3"
+}

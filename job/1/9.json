@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 1:9",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và hasatan trả lời Yahweh ⟨את⟩ và nói: Phải chăng vô cớ Iyov kính sợ Elohim?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "và trả lời"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "hasatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "החנם",
+      "gloss": "phải chăng vô cớ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "kính sợ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T05:20:29.567417917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 135,
+  "translation": "Mọi điều Yahweh muốn, Ngài đã làm, trong các tầng trời và trên đất, trong các biển và mọi vực sâu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mọi điều"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "muốn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "trong các tầng trời"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "và trên đất"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "trong các biển"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "vực sâu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:12.309803650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 3:21",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Tôi dậy lúc ban mai cho con tôi bú — kìa, nó ⟨đã⟩ chết; tôi ngắm-nhìn nó kỹ vào buổi sáng, và kìa, nó không phải là con tôi, đứa mà tôi đã sinh ra.",
+  "tokens": [
+    {
+      "surface": "ואקם",
+      "gloss": "tôi dậy"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "lúc ban mai"
+    },
+    {
+      "surface": "להיניק",
+      "gloss": "để cho bú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con tôi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con tôi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "và kìa"
+    },
+    {
+      "surface": "מת",
+      "gloss": "đã chết"
+    },
+    {
+      "surface": "ואתבונן",
+      "gloss": "tôi ngắm-nhìn kỹ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vào nó"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "vào buổi sáng"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "và kìa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "היה",
+      "gloss": "là"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con tôi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "tôi đã sinh ra"
+    }
+  ],
+  "timestamp": "2026-08-19T06:09:34.178678478Z",
+  "model": "glm-5.3"
+}

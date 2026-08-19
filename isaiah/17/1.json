@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 17:1",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Gánh nặng về Dammesek. Này, Dammesek bị dời bỏ, không còn ⟨là⟩ thành phố, và nó sẽ thành đống gạch vụn hoang tàn.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "gánh nặng"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dammesek"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "này"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dammesek"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "bị dời bỏ"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "khỏi thành"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "và nó sẽ thành"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "đống gạch vụn"
+    },
+    {
+      "surface": "מפלה",
+      "gloss": "hoang tàn"
+    }
+  ],
+  "timestamp": "2026-08-19T04:07:12.709426486Z",
+  "model": "glm-5.3"
+}

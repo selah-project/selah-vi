@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 34,
+  "translation": "Sự dữ giết kẻ ác, và kẻ ghét người công chính bị xử tội.",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "giết"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "sự dữ"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "và kẻ ghét"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "người công chính"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "bị xử tội"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:27.404180110Z",
+  "model": "glm-5.3"
+}

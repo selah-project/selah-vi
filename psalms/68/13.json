@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 68,
+  "translation": "Các vua của các đạo binh chạy trốn, chạy trốn, và nàng ở nhà chia chiến lợi phẩm.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "các vua"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "các đạo binh"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "chạy trốn"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "chạy trốn"
+    },
+    {
+      "surface": "ונות",
+      "gloss": "và nàng ở"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "chia"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "chiến lợi phẩm"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:14.166768873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Và Lavan nói: Tốt hơn là ta cho ⟨את⟩ nàng cho ngài, hơn là cho ⟨את⟩ nàng cho người đàn ông khác; hãy ở lại với ta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tốt"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "ta cho"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nàng (Rachel)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngài"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "hơn là cho"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nàng (Rachel)"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "cho người đàn ông"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "khác"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "hãy ở lại"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "với ta"
+    }
+  ],
+  "timestamp": "2026-08-19T01:12:19.797942513Z",
+  "model": "glm-5.3"
+}

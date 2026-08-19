@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 10:9",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Xin hãy nhớ rằng Ngài đã làm con như đất sét, và Ngài sẽ đưa con trở lại thành bụi đất.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "hãy nhớ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "כחמר",
+      "gloss": "như đất sét"
+    },
+    {
+      "surface": "עשיתני",
+      "gloss": "Ngài đã làm con"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và đến"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "bụi đất"
+    },
+    {
+      "surface": "תשיבני",
+      "gloss": "Ngài đưa con trở lại"
+    }
+  ],
+  "timestamp": "2026-08-19T05:22:04.981822504Z",
+  "model": "glm-5.3"
+}

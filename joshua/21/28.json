@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 21:28",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Và từ chi tộc Yissaskhar: ⟨את⟩ Kishyon với đất trống của nó, ⟨את⟩ Daberath với đất trống của nó.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "và từ chi tộc"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskhar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kishyon"
+    },
+    {
+      "surface": "קשיון",
+      "gloss": "Kishyon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "đất trống của nó"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "đất trống của nó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daberath"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Daberath"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "đất trống của nó"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "đất trống của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T03:20:47.450972865Z",
+  "model": "glm-5.3"
+}

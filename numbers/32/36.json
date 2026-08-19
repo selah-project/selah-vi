@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 32:36",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "và ⟨את⟩ Beit Nimra, và ⟨את⟩ Beit Haran — các thành có tường luỹ, và các chuồng chiên.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Beit Nimra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "נמרה",
+      "gloss": "Nimra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Beit Haran"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "các thành"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "có tường luỹ"
+    },
+    {
+      "surface": "וגדרת",
+      "gloss": "và các chuồng"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "chiên"
+    }
+  ],
+  "timestamp": "2026-08-19T03:02:57.860612223Z",
+  "model": "glm-5.3"
+}

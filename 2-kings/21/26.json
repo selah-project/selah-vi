@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 21:26",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Và người ta chôn ⟨את⟩ ông trong mộ phần của ông, trong vườn của Uzza; và Yoshiyahu con trai ông làm vua thay cho ông.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "và người ta chôn"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ông"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "trong mộ phần của ông"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "trong vườn"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uzza"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "và ... làm vua"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "con trai ông"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "thay cho ông"
+    }
+  ],
+  "timestamp": "2026-08-19T04:01:33.007332107Z",
+  "model": "glm-5.3"
+}

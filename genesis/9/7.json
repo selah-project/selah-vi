@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Còn các ngươi, hãy sinh nhiều và hãy thêm đa, hãy sinh sôi đầy trên đất, và hãy thêm đa trên nó.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Còn các ngươi"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "hãy sinh nhiều"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "và hãy thêm đa"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "hãy sinh sôi đầy"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trên đất"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "và hãy thêm đa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "trên nó"
+    }
+  ],
+  "timestamp": "2026-08-19T00:49:42.984729152Z",
+  "model": "glm-5.3"
+}

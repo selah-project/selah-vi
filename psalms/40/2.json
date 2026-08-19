@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Tôi đã trông đợi, đã trông đợi Yahweh, và Ngài nghiêng mình về phía tôi, và nghe tiếng kêu cầu của tôi.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "trông đợi"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "tôi đã trông đợi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "và Ngài nghiêng mình"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "về phía tôi"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "và Ngài nghe"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "tiếng kêu cầu của tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:39.054082114Z",
+  "model": "glm-5.3"
+}

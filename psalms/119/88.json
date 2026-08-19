@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 88,
+  "ref": "psalms 119:88",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Theo ḥesed của Ngài, xin làm tôi sống lại, để tôi gìn giữ lời chứng của miệng Ngài.",
+  "tokens": [
+    {
+      "surface": "כחסדך",
+      "gloss": "theo ḥesed của Ngài"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "xin làm tôi sống lại"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "và tôi sẽ gìn giữ"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "lời chứng"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "của miệng Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:55.712184311Z",
+  "model": "glm-5.3"
+}

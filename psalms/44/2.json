@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Elohim ơi, bằng tai mình chúng tôi đã nghe, tổ phụ chúng tôi đã kể lại cho chúng tôi ⟨⟨về⟩⟩ công việc Ngài đã làm trong ngày của họ, trong ngày xưa.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "bằng tai mình"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "chúng tôi đã nghe"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "tổ phụ chúng tôi"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "đã kể lại"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "cho chúng tôi"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "công việc"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "Ngài đã làm"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "trong ngày của họ"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "trong ngày"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "xưa"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:13.369911787Z",
+  "model": "glm-5.3"
+}

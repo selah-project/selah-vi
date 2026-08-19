@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 22:3",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Kẻ khôn khéo thấy ⟨⟨sự⟩⟩ hiểm họa và ẩn mình; còn những kẻ ngây thơ đi qua và bị phạt.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "kẻ khôn khéo"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "thấy"
+    },
+    {
+      "surface": "רעה",
+      "gloss": " hiểm họa"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "và ẩn mình"
+    },
+    {
+      "surface": "ופתיים",
+      "gloss": "còn những kẻ ngây thơ"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "đi qua"
+    },
+    {
+      "surface": "ונענשו",
+      "gloss": "và bị phạt"
+    }
+  ],
+  "timestamp": "2026-08-19T06:19:41.311858683Z",
+  "model": "glm-5.3"
+}

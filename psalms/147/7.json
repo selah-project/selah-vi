@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 147,
+  "translation": "Hãy đáp trả cho Yahweh bằng sự tạ ơn; hãy gảy đàn ca cho Elohim chúng ta bằng đàn cầm.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "hãy đáp trả"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "cho Yahweh"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "bằng sự tạ ơn"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "hãy gảy đàn ca"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "cho Elohim chúng ta"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "bằng đàn cầm"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:40.798201077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Cạnh các cổng thành, tại lối vào ⟨của⟩ thành phố, nơi cửa ra vào, ⟨nàng⟩ cất tiếng hô lên.",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "cạnh, bên"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "các cổng"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "tại miệng, lối vào"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "thành"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "nơi vào"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "các cửa ra vào"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "cất tiếng hô lên (nàng)"
+    }
+  ],
+  "timestamp": "2026-08-19T05:15:34.453079133Z",
+  "model": "glm-5.3"
+}

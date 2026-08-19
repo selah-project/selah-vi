@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 3:17",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và Ta đã phán: Ta sẽ đưa ⟨את⟩ các ngươi lên khỏi cảnh khổ của Mitsrayim, đến đất của người Kena'an, và người Chitti, và người Emori, và người Perizzi, và người Chivi, và người Yevusi, đến đất chảy sữa và mật ong.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "và Ta đã phán"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "Ta sẽ đưa lên"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "khỏi cảnh khổ của"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "của người Kena'an"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "và người Chitti"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "và người Emori"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "và người Perizzi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "và người Chivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "và người Yevusi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "chảy"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "sữa"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "và mật ong"
+    }
+  ],
+  "timestamp": "2026-08-19T02:28:28.997037134Z",
+  "model": "glm-5.3"
+}

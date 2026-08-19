@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 18:15",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Sự trần trụi của nàng dâu ngươi, ngươi không được phơi bày; nàng là vợ của con trai ngươi; ngươi không được phơi bày sự trần trụi của nàng.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "sự trần trụi"
+    },
+    {
+      "surface": "כלתך",
+      "gloss": "nàng dâu ngươi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ngươi-phơi-bày"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vợ của"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "con trai ngươi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nàng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ngươi-phơi-bày"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "sự trần trụi của nàng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:45:19.454935342Z",
+  "model": "glm-5.3"
+}

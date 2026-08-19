@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 137,
+  "translation": "Hãy nhớ, Yahweh, con cháu Edom ⟨đã làm⟩ ⟨את⟩ ngày Yerushalayim, kẻ nói: Phá hủy nó, phá hủy nó, đến tận nền móng của nó.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "hãy nhớ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "con cháu"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngày"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "kẻ nói"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "phá hủy nó"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "phá hủy nó"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến tận"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "nền móng"
+    },
+    {
+      "surface": "בה",
+      "gloss": "của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:46.850217669Z",
+  "model": "glm-5.3"
+}

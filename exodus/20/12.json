@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Hãy tôn trọng ⟨את⟩ cha ngươi và ⟨את⟩ mẹ ngươi, để ngày tháng của ngươi được dài lâu trên đất mà Yahweh Elohim của ngươi ban cho ngươi.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "hãy-tôn-trọng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cha ngươi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "cha-ngươi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và-⟨את⟩",
+      "marks": "mẹ ngươi"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mẹ-ngươi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "để"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "được-dài-lâu"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ngày-tháng-của-ngươi"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "đất"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-của-ngươi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ban"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho-ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:32:39.065652642Z",
+  "model": "glm-5.3"
+}

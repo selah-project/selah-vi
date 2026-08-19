@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 29:21",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Yaakov nói với Lavan: «Hãy đưa ⟨את⟩ vợ tôi, vì ngày tháng của tôi đã mãn, để tôi vào với nàng.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "hãy đưa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vợ tôi"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "vợ tôi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "đã mãn"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ngày tháng của tôi"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "để tôi vào"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "với nàng"
+    }
+  ],
+  "timestamp": "2026-08-19T01:11:58.121369761Z",
+  "model": "glm-5.3"
+}

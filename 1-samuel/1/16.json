@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Xin đừng đoán ⟪nàng tớ của chúa⟫ là con gái Beliyaal; vì từ sự nhiều khổ niệm và cơn giận của tôi, tôi đã nói cho đến giờ này.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Xin đừng"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "đoán"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nàng tớ của chúa"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "nàng tớ của chúa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "là"
+    },
+    {
+      "surface": "בת",
+      "gloss": "con gái"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Beliyaal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "từ sự nhiều"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "khổ niệm"
+    },
+    {
+      "surface": "וכעסי",
+      "gloss": "và cơn giận của tôi"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "tôi đã nói"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "giờ này"
+    }
+  ],
+  "timestamp": "2026-08-19T03:28:57.478478856Z",
+  "model": "glm-5.3"
+}

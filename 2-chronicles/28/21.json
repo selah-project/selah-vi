@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 28:21",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Vì Achaz đã tước lấy ⟨את⟩ đền của Yahweh và ⟨את⟩ đền của vua cùng các quan trưởng, và cho vua Ashshur; nhưng nó không thành sự giúp đỡ cho ông.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "đã tước lấy phần"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đền của Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "đền"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "đền của vua"
+    },
+    {
+      "surface": "בית",
+      "gloss": "đền"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "của vua"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "và các quan trưởng"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "và đã cho"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "cho vua"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nhưng không"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "thành sự giúp đỡ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho ông"
+    }
+  ],
+  "timestamp": "2026-08-19T05:59:41.295507244Z",
+  "model": "glm-5.3"
+}

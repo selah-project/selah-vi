@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 105,
+  "translation": "mà Ngài đã cắt ⟨את⟩ với Avraham, và lời thề của Ngài với Yitschak,",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "đã cắt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "và lời thề của Ngài"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "với Yitschak"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:41.867050327Z",
+  "model": "glm-5.3"
+}

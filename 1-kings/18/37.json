@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 18:37",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Hãy đáp lời con, Yahweh, hãy đáp lời con, để dân này biết rằng chính Ngài là Yahweh, ⟨the⟩ Elohim, và chính Ngài đã lật lại ⟨את⟩ lòng của họ quay ngược lại.",
+  "tokens": [
+    {
+      "surface": "ענני",
+      "gloss": "hãy đáp lời con"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "hãy đáp lời con"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "và họ sẽ biết"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨the⟩ Elohim"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "và chính Ngài"
+    },
+    {
+      "surface": "הסבת",
+      "gloss": "đã lật quay lại"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lòng của họ"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "lòng của họ"
+    },
+    {
+      "surface": "אחרנית",
+      "gloss": "ngược lại"
+    }
+  ],
+  "timestamp": "2026-08-19T03:53:45.154969584Z",
+  "model": "glm-5.3"
+}

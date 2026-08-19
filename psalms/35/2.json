@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 35,
+  "translation": "Hãy nắm chắc khiên nhỏ và khiên lớn, và hãy đứng dậy trong sự cứu giúp tôi.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "hãy nắm chắc"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "khiên nhỏ"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "và khiên lớn"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "và hãy đứng dậy"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "trong sự cứu giúp tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:00.524823783Z",
+  "model": "glm-5.3"
+}

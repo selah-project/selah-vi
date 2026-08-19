@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Chỉ ⟨את⟩ máu của nó đừng ăn; trên đất ngươi hãy đổ nó ra như nước.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "chỉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "máu của nó"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "máu của nó"
+    },
+    {
+      "surface": "לא",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ngươi ăn"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ngươi hãy đổ nó ra"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "như nước"
+    }
+  ],
+  "timestamp": "2026-08-19T03:08:03.683105538Z",
+  "model": "glm-5.3"
+}

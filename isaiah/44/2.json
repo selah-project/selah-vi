@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 44:2",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Như vậy đã phán Yahweh, Đấng làm nên ngươi và Đấng hình thành ngươi từ trong bụng mẹ, Đấng sẽ giúp ngươi: Đừng sợ, đầy tớ Ta Yaakov, và Yishurun, Ta đã chọn ⟨את⟩ nó.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "như vậy"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "đã phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשך",
+      "gloss": "Đấng làm nên ngươi"
+    },
+    {
+      "surface": "ויצרך",
+      "gloss": "và Đấng hình thành ngươi"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "từ trong bụng mẹ"
+    },
+    {
+      "surface": "יעזרך",
+      "gloss": "Đấng sẽ giúp ngươi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "sợ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "đầy tớ của Ta"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וישרון",
+      "gloss": "và Yishurun"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "Ta đã chọn"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨את⟩ nó",
+      "marks": "Yishurun"
+    }
+  ],
+  "timestamp": "2026-08-19T04:12:33.048252489Z",
+  "model": "glm-5.3"
+}

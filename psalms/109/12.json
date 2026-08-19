@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 109,
+  "translation": "Nguyện chớ có ai kéo dài sự nhân từ với ông, và chớ có ai ban ơn cho các con mồ côi của ông.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nguyện chớ"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "có"
+    },
+    {
+      "surface": "לו",
+      "gloss": "với ông"
+    },
+    {
+      "surface": "משך",
+      "gloss": "kéo dài"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "sự nhân từ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và chớ"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "có"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "ban ơn"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "cho các con mồ côi của ông"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:57.902318421Z",
+  "model": "glm-5.3"
+}

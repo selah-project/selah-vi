@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 1:29",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và Efrayim không đuổi ⟨את⟩ người Kenaan đang ở tại Gezer; người Kenaan liền ở giữa nó, tại Gezer.",
+  "tokens": [
+    {
+      "surface": "ואפרים",
+      "gloss": "Và Efrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "đuổi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người Kenaan"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "người Kenaan"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "đang ở"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "tại Gezer"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "liền ở"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "người Kenaan"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "giữa nó"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "tại Gezer"
+    }
+  ],
+  "timestamp": "2026-08-19T03:21:58.974705557Z",
+  "model": "glm-5.3"
+}

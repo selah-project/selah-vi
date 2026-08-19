@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Vì ⟨את⟩ người nghèo khó không bị quên lãng mãi mãi, niềm trông mong của những người hạ mình không mất đi đến vĩnh viễn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "mãi mãi"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "bị quên lãng"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "người nghèo khó"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "niềm trông mong"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "của những người hạ mình"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "mất đi"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "đến vĩnh viễn"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:20.245767278Z",
+  "model": "glm-5.3"
+}

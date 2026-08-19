@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 3:6",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Hãy đưa chi tộc Levi lại gần, và đặt nó đứng trước Aharon thầy tế lễ, và nó sẽ hầu việc ngài.",
+  "tokens": [
+    {
+      "surface": "הקרב",
+      "gloss": "hãy đưa lại gần"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chi tộc Levi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "chi tộc"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "והעמדת",
+      "gloss": "và ngươi hãy đặt đứng"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nó",
+      "marks": "chi tộc Levi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "thầy tế lễ"
+    },
+    {
+      "surface": "ושרתו",
+      "gloss": "và nó sẽ hầu việc"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ngài",
+      "marks": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-19T02:52:31.340845262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 7:1",
+  "book": "hosea",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Khi Ta chữa lành Yisrael, thì sự gian ác của Efrayim được phơi bày, và các điều xấu của Shomron, vì chúng đã làm điều dối trá; kẻ trộm lẻn vào, băng cướp cướp bóc ở ngoài đường.",
+  "tokens": [
+    {
+      "surface": "כרפאי",
+      "gloss": "khi Ta chữa lành"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ונגלה",
+      "gloss": "thì được phơi bày"
+    },
+    {
+      "surface": "עון",
+      "gloss": "sự gian ác"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "và các điều xấu"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "chúng đã làm"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "điều dối trá"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "và kẻ trộm"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "lẻn vào"
+    },
+    {
+      "surface": "פשט",
+      "gloss": "cướp bóc"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "băng cướp"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ở ngoài đường"
+    }
+  ],
+  "timestamp": "2026-08-19T04:44:55.046849596Z",
+  "model": "glm-5.3"
+}

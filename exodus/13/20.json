@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 13:20",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Va họ hành trình từ Sukkot, và đóng trại tại Etam, tại rìa hoang mạc.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "và họ hành trình"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "từ Sukkot"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "và đóng trại"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "tại Etam"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "tại rìa"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "hoang mạc"
+    }
+  ],
+  "timestamp": "2026-08-19T02:31:22.003991704Z",
+  "model": "glm-5.3"
+}

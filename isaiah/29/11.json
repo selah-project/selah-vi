@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 29:11",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Và mọi dị tượng đã trở nên cho các ngươi như lời của cuốn sách bị niêm phong, mà khi người ta đưa ⟨את⟩ nó đến kẻ biết chữ, nói rằng: Hãy đọc này; và y nói: Tôi không thể, vì nó đã bị niêm phong.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "và đã trở nên"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho các ngươi"
+    },
+    {
+      "surface": "חזות",
+      "gloss": "dị tượng"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "כדברי",
+      "gloss": "như lời của"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "cuốn sách"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "bị niêm phong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà khi"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "người ta đưa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nó",
+      "marks": "nó (cuốn sách)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "kẻ biết"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "chữ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nói rằng"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "hãy đọc"
+    },
+    {
+      "surface": "נא",
+      "gloss": "này"
+    },
+    {
+      "surface": "זה",
+      "gloss": "cái này"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "và y nói"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "tôi có thể"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "bị niêm phong"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó"
+    }
+  ],
+  "timestamp": "2026-08-19T04:09:17.883289146Z",
+  "model": "glm-5.3"
+}

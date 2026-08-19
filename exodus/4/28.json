@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Moshe kể lại cho Aharon ⟨את⟩ mọi lời của Yahweh, là Đấng đã sai ông, và ⟨את⟩ mọi dấu lạ mà Ngài đã phán dặn ông.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "và kể lại"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "cho Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi lời của Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "lời"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "của Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "đã sai ông"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mọi dấu lạ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "dấu lạ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "đã phán dặn ông"
+    }
+  ],
+  "timestamp": "2026-08-19T02:28:48.225401549Z",
+  "model": "glm-5.3"
+}

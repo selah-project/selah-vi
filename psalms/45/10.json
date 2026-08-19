@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 45,
+  "translation": "Các con gái của vua ở giữa những người được sủng ái của ngươi; hoàng hậu đứng bên hữu ngươi, trong vàng ròng của Ophir.",
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "các con gái"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "của vua"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "ở giữa những người quý báu của ngươi"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "đứng"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "hoàng hậu"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "bên hữu ngươi"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "trong vàng ròng"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "của Ophir"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:30.347918802Z",
+  "model": "glm-5.3"
+}

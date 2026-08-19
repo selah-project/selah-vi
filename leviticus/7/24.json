@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 7:24",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Còn mỡ của súc vật tự chết và mừng của con vật bị xé thì có thể dùng cho mọi công việc; nhưng ăn thì các ngươi chớ ăn nó.",
+  "tokens": [
+    {
+      "surface": "וחלב",
+      "gloss": "Còn mỡ"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "súc vật tự chết"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "và mỡ"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "con vật bị xé"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "thì có thể dùng"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "cho mọi"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "công việc"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "còn ăn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תאכלהו",
+      "gloss": "ăn nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:40:27.531433664Z",
+  "model": "glm-5.3"
+}

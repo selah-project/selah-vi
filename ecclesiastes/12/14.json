@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Vì ⟨את⟩ mọi việc Elohim sẽ đem vào sự phán xét, trên mọi điều bị che giấu, dù tốt hay dù xấu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi việc"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "việc"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "sẽ đem vào"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "sự phán xét"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "điều bị che giấu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dù"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tốt"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "hay dù"
+    },
+    {
+      "surface": "רע",
+      "gloss": "xấu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:34:05.734633534Z",
+  "model": "glm-5.3"
+}

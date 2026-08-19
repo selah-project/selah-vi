@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "và ⟨hắn⟩ đã hỏi ⟨về⟩ cho hắn bằng ⟨sức của⟩ Yahweh, và đã cho hắn lương thực, và ⟨את⟩ thanh gươm của Golyat người Philitin đã cho hắn.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "và đã hỏi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho hắn"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "bằng Yahweh"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "và lương thực"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "đã cho"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hắn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "thanh gươm của Golyat"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "gươm"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Golyat"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "người Philitin"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "đã cho"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hắn"
+    }
+  ],
+  "timestamp": "2026-08-19T03:35:49.126089999Z",
+  "model": "glm-5.3"
+}

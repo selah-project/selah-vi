@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 98,
+  "translation": "Với kèn và tiếng tù và, hãy reo hò trước mặt Vua Yahweh.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "với kèn"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "và tiếng"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "tù và"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "hãy reo hò"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Vua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:52.181037146Z",
+  "model": "glm-5.3"
+}

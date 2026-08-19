@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 2:4",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và xảy ra, khi sứ giả của Yahweh phán ⟨את⟩ những lời này đến toàn thể con cái Yisrael, thì dân sự cất ⟨את⟩ tiếng mình lên và khóc.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "và xảy ra"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "khi phán"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "sứ giả"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "những lời này"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "những lời"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "này"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "đã cất lên"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiếng mình"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "tiếng mình"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "và khóc"
+    }
+  ],
+  "timestamp": "2026-08-19T03:22:25.682148063Z",
+  "model": "glm-5.3"
+}

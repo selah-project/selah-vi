@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 2:21",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và nàng nói: Theo lời các ông, như vậy ⟨is⟩ nó. Và nàng sai họ đi, và họ đi; và nàng buộc ⟨את⟩ sợi chỉ điều đỏ nơi cửa sổ.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "và nàng nói"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "theo lời các ông"
+    },
+    {
+      "surface": "כן",
+      "gloss": "như vậy"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "và nàng sai họ đi"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "và họ đi"
+    },
+    {
+      "surface": "ותקשר",
+      "gloss": "và nàng buộc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sợi chỉ điều đỏ"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "sợi chỉ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "điều đỏ"
+    },
+    {
+      "surface": "בחלון",
+      "gloss": "nơi cửa sổ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:15:14.781697597Z",
+  "model": "glm-5.3"
+}

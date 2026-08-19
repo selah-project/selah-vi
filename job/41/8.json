@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 41:8",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 41,
+  "translation": "Cái này áp sát cái này, và hơi thở không thể lọt vào giữa chúng.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "cái này"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "vào cái này"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "áp sát"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "và hơi thở"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "lọt vào"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "giữa chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:28:01.970048991Z",
+  "model": "glm-5.3"
+}

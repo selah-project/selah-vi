@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Lot đi ra đến với họ qua ⟨cái⟩ cửa, và ⟨he⟩ đóng cánh cửa lại phía sau mình.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "và ông đi ra"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "đến với họ"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "cái cửa\/lối vào"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "và cánh cửa"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "đã đóng lại"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "phía sau mình"
+    }
+  ],
+  "timestamp": "2026-08-19T01:00:43.646083817Z",
+  "model": "glm-5.3"
+}

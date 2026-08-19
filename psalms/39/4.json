@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 39,
+  "translation": "Lòng tôi nóng lên bên trong tôi; khi tôi suy gẫm, lửa bừng cháy; tôi đã nói ra bằng lưỡi tôi.",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "nóng lên"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "lòng tôi"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "bên trong tôi"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "khi tôi suy gẫm"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "bừng cháy"
+    },
+    {
+      "surface": "אש",
+      "gloss": "lửa"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "tôi đã nói ra"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "bằng lưỡi tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:48.508082917Z",
+  "model": "glm-5.3"
+}

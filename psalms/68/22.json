@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 68:22",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 68,
+  "translation": "Quả thật Elohim sẽ nghiền nát đầu kẻ thù Người, chỏm tóc của kẻ cứ bước đi trong tội lỗi mình.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "quả thật"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "sẽ nghiền nát"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "đầu"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "kẻ thù của Người"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "chỏm tóc"
+    },
+    {
+      "surface": "שער",
+      "gloss": "tóc"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "kẻ cứ bước đi"
+    },
+    {
+      "surface": "באשמיו",
+      "gloss": "trong tội lỗi mình"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:03.918702679Z",
+  "model": "glm-5.3"
+}

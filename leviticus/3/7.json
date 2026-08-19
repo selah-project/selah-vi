@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Nếu chiên con là con vật ⟨הוא⟩ dâng lễ vật của mình, thì phải đem ⟨אתו⟩ đến trước mặt Yahweh.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "chiên con"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨הוא⟩ ngài"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "dâng gần"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lễ vật của mình (korbanô)"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "lễ vật của mình"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "thì phải đem gần"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "nó (con chiên)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:40:02.488991896Z",
+  "model": "glm-5.3"
+}

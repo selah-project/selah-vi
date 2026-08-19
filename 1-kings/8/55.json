@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Ông đứng lên và ban phước cho ⟨את⟩ toàn thể hội chúng Yisrael với tiếng lớn, rằng:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "và ông đứng lên"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "và ban phước"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toàn thể hội chúng Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "hội chúng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tiếng"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lớn"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:49:58.936146869Z",
+  "model": "glm-5.3"
+}

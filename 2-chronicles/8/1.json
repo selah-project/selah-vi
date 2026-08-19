@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Xảy ra vào cuối hai mươi năm, khi Shelomoh đã xây ⟨את⟩ nhà của Yahweh và ⟨את⟩ nhà của mình,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "xảy ra"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "vào cuối"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "hai mươi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "năm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "khi"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "đã xây"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhà của Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "nhà của mình"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nhà của mình"
+    }
+  ],
+  "timestamp": "2026-08-19T05:55:31.015022205Z",
+  "model": "glm-5.3"
+}

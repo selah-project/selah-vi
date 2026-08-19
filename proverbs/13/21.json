@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Điều dữ đuổi bắt kẻ phạm tội, nhưng ⟨đối với⟩ người công chính, ⟨Ngài⟩ sẽ ban trả điều lành.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "kẻ phạm tội"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "đuổi bắt"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "điều dữ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "người công chính"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "người công chính"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "sẽ ban trả"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "điều lành"
+    }
+  ],
+  "timestamp": "2026-08-19T05:16:02.598801677Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 8:10",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Hãy nhận lấy sự giáo huấn của tôi, chớ ⟨nhận⟩ bạc, và tri thức ⟨hãy chọn⟩ hơn vàng ròng tuyển chọn.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "hãy nhận lấy"
+    },
+    {
+      "surface": "מוסרי",
+      "gloss": "sự giáo huấn của tôi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và chớ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "bạc"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "và tri thức"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "hơn vàng ròng"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "tuyển chọn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:15:09.627051813Z",
+  "model": "glm-5.3"
+}

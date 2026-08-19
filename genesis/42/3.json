@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 42,
+  "translation": "Vậy mười người anh em của Yosef xuống để mua lúa mì từ Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "xuống"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "anh em của"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "mười (người)"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "để mua"
+    },
+    {
+      "surface": "בר",
+      "gloss": "lúa mì"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "từ Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T02:24:36.730580850Z",
+  "model": "glm-5.3"
+}

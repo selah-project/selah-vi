@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 14:5",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Vì cả nai cái ngoài đồng đã đẻ và bỏ đi, vì không có cỏ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cả"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "nai cái"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ngoài đồng"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "đã đẻ"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "và bỏ đi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "היה",
+      "gloss": "có"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "cỏ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:20:13.543043341Z",
+  "model": "glm-5.3"
+}

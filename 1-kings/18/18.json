@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 18:18",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Ông đáp: \"Tôi không làm nhiễu loạn ⟨את⟩ Yisrael, mà là ông và nhà cha ông, vì các ông đã bỏ ⟨את⟩ các điều răn của Yahweh và đi theo các Baal.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ông đáp"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "עכרתי",
+      "gloss": "tôi làm nhiễu loạn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mà là"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ông"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "và nhà"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "cha ông"
+    },
+    {
+      "surface": "בעזבכם",
+      "gloss": "vì các ông đã bỏ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các điều răn"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "các điều răn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "và đi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "theo"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "các Baal"
+    }
+  ],
+  "timestamp": "2026-08-19T03:53:27.176280623Z",
+  "model": "glm-5.3"
+}

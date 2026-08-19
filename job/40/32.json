@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 40:32",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Hãy đặt tay ngươi trên nó — hãy nhớ đến cuộc chiến, và đừng làm nữa!",
+  "tokens": [
+    {
+      "surface": "שים",
+      "gloss": "hãy đặt"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "trên nó"
+    },
+    {
+      "surface": "כפך",
+      "gloss": "bàn tay ngươi"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "hãy nhớ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "cuộc chiến"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "làm nữa"
+    }
+  ],
+  "timestamp": "2026-08-19T05:27:44.053870439Z",
+  "model": "glm-5.3"
+}

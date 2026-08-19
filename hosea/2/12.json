@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và bây giờ tôi sẽ phơi bày ⟨את⟩ sự ô nhục của nàng trước mắt những người yêu của nàng, và không ai sẽ cứu nàng khỏi tay tôi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "và bây giờ"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "tôi sẽ phơi bày"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sự ô nhục của nàng"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "sự ô nhục của nàng"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "trước mắt"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "những người yêu của nàng"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "và không ai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "sẽ cứu nàng"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "khỏi tay tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:44:08.390081123Z",
+  "model": "glm-5.3"
+}

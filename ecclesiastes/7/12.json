@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Vì trong bóng mát của sự khôn ngoan, ⟨như⟩ trong bóng mát của bạc bạc; nhưng lợi ích của sự hiểu biết ⟨là⟩ sự khôn ngoan làm cho chủ nó được sống.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "trong bóng mát"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "của sự khôn ngoan"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "trong bóng mát"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "của bạc"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "nhưng lợi ích"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "của sự hiểu biết"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "sự khôn ngoan"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "làm cho sống"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "chủ nó"
+    }
+  ],
+  "timestamp": "2026-08-19T06:20:52.752356076Z",
+  "model": "glm-5.3"
+}

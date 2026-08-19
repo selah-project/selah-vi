@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 42:4",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 42,
+  "translation": "Xin nghe, và tôi sẽ nói; tôi sẽ hỏi Ngài, và xin cho tôi biết.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "hãy nghe"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xin"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "và tôi"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "sẽ nói"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "tôi sẽ hỏi Ngài"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "và xin cho tôi biết"
+    }
+  ],
+  "timestamp": "2026-08-19T05:28:23.726803829Z",
+  "model": "glm-5.3"
+}

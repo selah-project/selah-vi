@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Tôi đã thấy ⟨את⟩ mọi công việc đã làm dưới mặt trời, và kìa, tất cả là hư không và sự rượt đuổi gió.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "tôi đã thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi công việc"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "công việc"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dưới"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "mặt trời"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "và kìa"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hư không"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "và sự rượt đuổi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "gió"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:22.353875242Z",
+  "model": "glm-5.3"
+}

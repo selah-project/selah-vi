@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và Yahweh phán cùng Kajin: Sao ngươi giận dữ, và sao mặt ngươi sa sầm xuống?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cùng"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "למה",
+      "gloss": "sao"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "giận dữ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "và sao"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "sa sầm xuống"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "mặt ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T00:47:26.690970033Z",
+  "model": "glm-5.3"
+}

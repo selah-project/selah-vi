@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 13:7",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Có kẻ làm ra vẻ giàu mà không có gì; kẻ làm ra vẻ nghèo mà ⟨lại⟩ có tài sản dồi dào.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "có ⟨kẻ⟩"
+    },
+    {
+      "surface": "מתעשר",
+      "gloss": "làm ra vẻ giàu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mà không có"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gì"
+    },
+    {
+      "surface": "מתרושש",
+      "gloss": "làm ra vẻ nghèo"
+    },
+    {
+      "surface": "והון",
+      "gloss": "mà có tài sản"
+    },
+    {
+      "surface": "רב",
+      "gloss": "dồi dào"
+    }
+  ],
+  "timestamp": "2026-08-19T05:15:55.444994832Z",
+  "model": "glm-5.3"
+}

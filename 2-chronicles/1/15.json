@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và vua làm ⟨את⟩ bạc và ⟨את⟩ vàng tại Yerushalayim như đá; và ⟨את⟩ những cây tuyết tùng ông ban cho như những cây sung ở vùng đồng bằng, thật dồi dào.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "và ⟨ông⟩ làm\/ban"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bạc"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "bạc"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "vàng"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "vàng"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "tại Yerushalayim"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "như đá"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "những cây tuyết tùng"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "những cây tuyết tùng"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ban"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "như những cây sung"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "ở vùng đồng bằng"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "thật dồi dào"
+    }
+  ],
+  "timestamp": "2026-08-19T05:53:42.235077911Z",
+  "model": "glm-5.3"
+}

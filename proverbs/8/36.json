@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "proverbs 8:36",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Còn kẻ lỗi phạm tôi làm bạo hại ⟨את⟩ mạng sống mình; mọi kẻ ghét tôi yêu sự chết.",
+  "tokens": [
+    {
+      "surface": "וחטאי",
+      "gloss": "còn kẻ lỗi phạm tôi"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "làm bạo hại"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "mạng sống của mình"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "kẻ ghét tôi"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "yêu"
+    },
+    {
+      "surface": "מות",
+      "gloss": "sự chết"
+    }
+  ],
+  "timestamp": "2026-08-19T05:15:16.758644762Z",
+  "model": "glm-5.3"
+}

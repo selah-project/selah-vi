@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 43:24",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 43,
+  "translation": "Và người đưa ⟨את⟩ các người kia vào nhà Yosef, và cho nước, và họ rửa chân mình, và người cho cỏ khô cho các con lừa của họ.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "và người đưa vào"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "người (quản gia)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các người kia"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "các người kia"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "vào nhà"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "và người cho"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "וירחצו",
+      "gloss": "và họ rửa"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "chân mình"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "và người cho"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "cỏ khô (thức ăn gia súc)"
+    },
+    {
+      "surface": "לחמריהם",
+      "gloss": "cho các con lừa của họ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:25:07.545962634Z",
+  "model": "glm-5.3"
+}

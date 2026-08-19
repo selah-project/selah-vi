@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và tên của anh trai ⟨của⟩ ông là Yaval; ông là cha của mọi kẻ gảy đàn cithara và kẻ thổi sáo.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "và tên"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "anh trai của ông"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Yaval"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ông"
+    },
+    {
+      "surface": "היה",
+      "gloss": "là"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "cha của"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "kẻ cầm gảy"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "đàn cithara"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "và sáo"
+    }
+  ],
+  "timestamp": "2026-08-19T00:48:23.757822824Z",
+  "model": "glm-5.3"
+}

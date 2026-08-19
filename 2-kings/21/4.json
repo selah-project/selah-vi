@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 21:4",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Và ông xây các bàn thờ trong nhà Yahweh, mà Yahweh đã phán: Tại Yerushalayim ta sẽ đặt ⟨את⟩ danh ta.",
+  "tokens": [
+    {
+      "surface": "ובנה",
+      "gloss": "và ông xây"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "các bàn thờ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "trong nhà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "đã phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "tại Yerushalayim"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "ta sẽ đặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "danh ta"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "danh ta"
+    }
+  ],
+  "timestamp": "2026-08-19T04:01:59.872746794Z",
+  "model": "glm-5.3"
+}

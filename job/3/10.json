@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 3:10",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Vì nó không đóng các cánh cửa của dạ con tôi, và không giấu nỗi khổ khỏi mắt tôi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "đóng lại"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "các cánh cửa của"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "dạ con tôi"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "và không giấu"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "nỗi khổ"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "khỏi mắt tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:20:19.618655912Z",
+  "model": "glm-5.3"
+}

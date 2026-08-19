@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 77,
+  "translation": "Tôi sẽ nhắc nhớ các việc làm của Yah, vì tôi sẽ nhớ lại từ xưa các điều kỳ diệu của Ngài.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "tôi sẽ nhắc nhớ"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "các việc làm của"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "tôi sẽ nhớ lại"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "từ xưa"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "các điều kỳ diệu của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:13.445938856Z",
+  "model": "glm-5.3"
+}

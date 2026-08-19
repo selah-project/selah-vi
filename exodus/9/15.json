@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Vì giờ đây Ta đã đưa ra ⟨את⟩ tay Ta, thì Ta sẽ đánh ngươi ⟨את⟩ và ⟨את⟩ dân ngươi bằng dịch tai ương, và ngươi sẽ bị tuyệt diệt khỏi đất.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Vì"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "giờ đây"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "Ta đã đưa ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tay Ta"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tay Ta"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "thì"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ngươi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "dân ngươi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dân ngươi"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "bằng dịch tai ương"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "và ngươi sẽ bị tuyệt diệt"
+    },
+    {
+      "surface": "מן",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T02:29:56.288037515Z",
+  "model": "glm-5.3"
+}

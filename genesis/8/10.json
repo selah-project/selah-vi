@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và ông đợi thêm bảy ngày nữa, và lại tiếp tục sai отправить ⟨את⟩ chim bồ câu ra khỏi con tàu.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ông đợi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "thêm"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "bảy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "nữa"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "lại tiếp tục"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "sai đi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chim bồ câu"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "chim bồ câu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ra khỏi"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "con tàu"
+    }
+  ],
+  "timestamp": "2026-08-19T00:50:13.611951090Z",
+  "model": "glm-5.3"
+}

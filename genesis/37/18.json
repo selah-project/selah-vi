@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 37:18",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Và họ thấy ⟨את⟩ anh từ đàng xa, và trước khi anh đến gần họ, thì họ mưu toan ⟨את⟩ anh để giết anh.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "và họ thấy"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "anh (Yoseph)"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "từ đàng xa"
+    },
+    {
+      "surface": "ובטרם",
+      "gloss": "và trước khi"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "anh đến gần"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "họ"
+    },
+    {
+      "surface": "ויתנכלו",
+      "gloss": "thì họ mưu toan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "anh (Yoseph)"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "để giết anh"
+    }
+  ],
+  "timestamp": "2026-08-19T01:23:32.725761271Z",
+  "model": "glm-5.3"
+}

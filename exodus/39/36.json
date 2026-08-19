@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 39,
+  "translation": "⟨את⟩ cái bàn, ⟨את⟩ mọi đồ dùng của nó, và ⟨את⟩ bánh của sự hiện diện.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cái bàn"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "cái bàn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi đồ dùng của nó"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "đồ dùng của nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "bánh của sự hiện diện"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bánh"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "của sự hiện diện"
+    }
+  ],
+  "timestamp": "2026-08-19T02:39:16.259518081Z",
+  "model": "glm-5.3"
+}

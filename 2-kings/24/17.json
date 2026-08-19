@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 24:17",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Vua của Bavel lập Mattanyah, chú của ông, làm vua thay cho ông, và đổi tên ông thành Tsidkiyahu.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "và làm vua"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mattanyah"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Mattanyah"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "chú của ông"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "thay cho ông"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "và đổi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tên ông"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "tên ông"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    }
+  ],
+  "timestamp": "2026-08-19T04:02:54.845334046Z",
+  "model": "glm-5.3"
+}

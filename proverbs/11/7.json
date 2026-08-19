@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 11:7",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Khi người ác chết, sự trông mong ⟨thì⟩ mất đi, và niềm hy vọng của kẻ hư không đã hủy diệt.",
+  "tokens": [
+    {
+      "surface": "במות",
+      "gloss": "khi chết"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "người"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ác"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "thì mất đi"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "sự trông mong"
+    },
+    {
+      "surface": "ותוחלת",
+      "gloss": "và niềm hy vọng"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "của kẻ hư không"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "đã hủy diệt"
+    }
+  ],
+  "timestamp": "2026-08-19T05:15:58.760325050Z",
+  "model": "glm-5.3"
+}

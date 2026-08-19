@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 143,
+  "translation": "Vì cớ Danh Ngài, Yahweh, xin làm cho con sống lại; trong sự công chính Ngài, hãy đem linh hồn con ra khỏi cơn khốn khổ.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "vì cớ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Danh Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "xin làm cho con sống lại"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "trong sự công chính Ngài"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "hãy đem ra"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "khỏi cơn khốn khổ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "linh hồn con"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:51.131669760Z",
+  "model": "glm-5.3"
+}

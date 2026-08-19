@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Người phán với Yehudah hãy tìm kiếm ⟨את⟩ Yahweh, Elohim của tổ phụ họ, và hãy làm theo Torah và mitsva.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "đã phán"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "với Yehudah"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "hãy tìm kiếm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "tổ phụ họ"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "và hãy làm"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "và mitsva"
+    }
+  ],
+  "timestamp": "2026-08-19T05:56:47.888310410Z",
+  "model": "glm-5.3"
+}

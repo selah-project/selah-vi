@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 89,
+  "translation": "Kẻ thù sẽ không đè nặng ⟨trên⟩ ông, và con trai của sự gian ác sẽ không hà hiếp ông.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "sẽ đè nặng nợ"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "kẻ thù"
+    },
+    {
+      "surface": "בו",
+      "gloss": "trên ông"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "và con trai của"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "sự gian ác"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "sẽ hà hiếp ông"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:26.785643128Z",
+  "model": "glm-5.3"
+}

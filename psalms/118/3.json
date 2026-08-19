@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 118,
+  "translation": "Xin hãy để nhà Aharon nói: vì đến muôn đời ⟨là⟩ sự nhân từ của Ngài.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "hãy nói"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xin hãy"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "đến muôn đời"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sự nhân từ của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:16.325303140Z",
+  "model": "glm-5.3"
+}

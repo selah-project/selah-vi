@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Nguyện lòng tôi được trọn vẹn trong các luật lệ của Ngài, để tôi không bị xấu hổ.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "nguyện được"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "lòng tôi"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "trọn vẹn"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "trong các luật lệ của Ngài"
+    },
+    {
+      "surface": "למען",
+      "gloss": "để cho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "tôi bị xấu hổ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:16.717675865Z",
+  "model": "glm-5.3"
+}

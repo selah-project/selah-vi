@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 40:20",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Vì các núi mang sản vật cho nó, và mọi thú đồng chơi đùa ở đó.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "בול",
+      "gloss": "sản vật"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "các núi"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "mang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho nó"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "חית",
+      "gloss": "thú"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "của đồng"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "chơi đùa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ở đó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:27:59.974145547Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 35,
+  "translation": "Ngài đã thấy, Yahweh; xin đừng làm lặng; Adonai, xin đừng xa con.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "Ngài đã thấy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "lặng thinh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "xa"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "khỏi con"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:40.484447230Z",
+  "model": "glm-5.3"
+}

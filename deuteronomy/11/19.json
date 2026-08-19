@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 11:19",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "và hãy dạy chúng ⟨את⟩ các con trai các ngươi, để nói về chúng, khi ngươi ngồi trong nhà ngươi, và khi ngươi đi trên đường, và khi ngươi nằm xuống và khi ngươi dậy lên.",
+  "tokens": [
+    {
+      "surface": "ולמדתם",
+      "gloss": "và hãy dạy"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ chúng",
+      "marks": "các con trai các ngươi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các con trai các ngươi"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "các con trai các ngươi"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "để nói"
+    },
+    {
+      "surface": "בם",
+      "gloss": "về chúng"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "khi ngươi ngồi"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "trong nhà ngươi"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "và khi ngươi đi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "trên đường"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "và khi ngươi nằm xuống"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "và khi ngươi dậy lên"
+    }
+  ],
+  "timestamp": "2026-08-19T03:07:44.255413942Z",
+  "model": "glm-5.3"
+}

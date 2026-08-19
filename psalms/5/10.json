@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Vì chẳng có điều gì vững chắc trong miệng họ; lòng ⟨họ⟩ là hủy hoại, mồ mả mở ra là cổ họ ⟨họ⟩; với lưỡi ⟨họ⟩ họ nói trơn tru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אין",
+      "gloss": "chẳng có"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "trong miệng họ"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "điều gì vững chắc"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "lòng ⟨họ⟩"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "hủy hoại"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "mồ mả"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "mở ra"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "cổ họ ⟨họ⟩"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "lưỡi ⟨họ⟩"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "họ nói trơn tru"
+    }
+  ],
+  "timestamp": "2026-08-19T04:54:55.881117104Z",
+  "model": "glm-5.3"
+}

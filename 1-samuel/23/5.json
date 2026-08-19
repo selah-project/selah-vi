@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 23:5",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Đavid cùng thuộc hạ của mình đi đến Keilah, giao chiến với người Philistines, dẫn đi ⟨את⟩ gia súc của chúng, và đánh chúng một đòn rất lớn; Đavid đã cứu ⟨את⟩ dân cư Keilah.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "đi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Đavid"
+    },
+    {
+      "surface": "ואנשו",
+      "gloss": "cùng thuộc hạ của mình"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilah"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "giao chiến"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "với người Philistines"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "dẫn đi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gia súc của chúng"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "gia súc của chúng"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "đánh"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "chúng"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "một đòn"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "rất lớn"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "đã cứu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Đavid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân cư Keilah"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "dân cư"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilah"
+    }
+  ],
+  "timestamp": "2026-08-19T03:36:17.046746652Z",
+  "model": "glm-5.3"
+}

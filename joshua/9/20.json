@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 9:20",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Điều này chúng ta sẽ làm cho họ: cho ⟨את⟩ họ sống, và cơn thịnh nộ sẽ không xảy đến trên chúng ta vì lời thề mà chúng ta đã thề với họ.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "điều này"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "chúng ta sẽ làm"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho họ"
+    },
+    {
+      "surface": "והחיה",
+      "gloss": "và cho sống"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "họ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sẽ xảy đến"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "trên chúng ta"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "cơn thịnh nộ"
+    },
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "השבועה",
+      "gloss": "lời thề"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "נשבענו",
+      "gloss": "chúng ta đã thề"
+    },
+    {
+      "surface": "להם",
+      "gloss": "với họ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:17:03.845316492Z",
+  "model": "glm-5.3"
+}

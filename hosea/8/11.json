@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 8:11",
+  "book": "hosea",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Vì Efraym đã nhân thêm bàn thờ để phạm tội, bàn thờ đã trở thành cho hắn bàn thờ để phạm tội.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "đã nhân thêm"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraym"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "để phạm tội"
+    },
+    {
+      "surface": "היו",
+      "gloss": "đã trở thành"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho hắn"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "để phạm tội"
+    }
+  ],
+  "timestamp": "2026-08-19T04:44:59.129476191Z",
+  "model": "glm-5.3"
+}

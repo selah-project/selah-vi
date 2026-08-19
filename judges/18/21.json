@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 18:21",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Họ quay lại và đi, và đặt ⟨את⟩ đám trẻ nhỏ và ⟨את⟩ súc vật và ⟨את⟩ tài sản quý giá trước mặt mình.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "họ quay lại"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "và đi"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "và đặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đám trẻ nhỏ"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "đám trẻ nhỏ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "súc vật"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "súc vật"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "tài sản quý giá"
+    },
+    {
+      "surface": "הכבודה",
+      "gloss": "tài sản quý giá"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "trước mặt mình"
+    }
+  ],
+  "timestamp": "2026-08-19T03:28:16.182526325Z",
+  "model": "glm-5.3"
+}

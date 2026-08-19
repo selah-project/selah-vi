@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và hắn sẽ lột da ⟨את⟩ con tế thiêu, và sẽ cắt ⟨את⟩ nó ra từng miếng.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "và hắn sẽ lột da"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con tế thiêu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "con tế thiêu"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "và sẽ cắt ra từng miếng"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nó (con tế thiêu)"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "ra từng miếng của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:39:57.347490238Z",
+  "model": "glm-5.3"
+}

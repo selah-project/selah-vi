@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 110,
+  "translation": "Adonai ở ⟨bên⟩ tay phải của ngươi, Ngài đập nát các vua trong ngày cơn thịnh nộ của Ngài.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "על",
+      "gloss": "ở bên"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tay phải của ngươi"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "đập nát"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "trong ngày"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "cơn thịnh nộ của Ngài"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "các vua"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:53.131161033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 144,
+  "translation": "Đấng ban sự cứu giải cho các vua, Đấng giải cứu ⟨את⟩ David, tôi tớ Ngài, khỏi gươm độc ác.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "Đấng ban"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "sự cứu giải"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "cho các vua"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "Đấng giải cứu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "tôi tớ Ngài"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "khỏi gươm"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "độc ác"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:06.254116265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 36,
+  "translation": "Cho người chỉ huy nhạc thánh, thuộc tôi tớ Yahweh, thuộc David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "cho người chỉ huy nhạc thánh"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "thuộc tôi tớ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "thuộc David"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:54.013822592Z",
+  "model": "glm-5.3"
+}

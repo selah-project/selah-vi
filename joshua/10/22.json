@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 10:22",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Và Yehoshua nói: Hãy mở ⟨את⟩ miệng hang, và đưa đến ta ⟨את⟩ năm vua này ra khỏi hang.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và-ngỏ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "hãy-mở"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miệng hang"
+    },
+    {
+      "surface": "פי",
+      "gloss": "miệng"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "hang"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "và-hãy-đưa-ra"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "đến-ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "năm vua này"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "năm"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "vua"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "này"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ra-khỏi"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "hang"
+    }
+  ],
+  "timestamp": "2026-08-19T03:17:51.267931179Z",
+  "model": "glm-5.3"
+}

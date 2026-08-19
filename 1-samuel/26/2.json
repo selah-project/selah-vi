@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 26:2",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Và Sha-ul đứng dậy, xuống đồng vắng Ziph, và ⟨את⟩-cùng-ông là ba nghìn người tinh tuyển của Yisra-el, để tìm kiếm ⟨את⟩ David trong đồng vắng Ziph.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "và-đứng-dậy"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "và-xuống"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "đồng vắng"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Ziph"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩-và-cùng-ông",
+      "marks": "ba nghìn người tinh tuyển của Yisra-el"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "nghìn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "בחורי",
+      "gloss": "tinh tuyển"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra-el"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "để-tìm-kiếm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "trong-đồng-vắng"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Ziph"
+    }
+  ],
+  "timestamp": "2026-08-19T03:37:25.000814812Z",
+  "model": "glm-5.3"
+}

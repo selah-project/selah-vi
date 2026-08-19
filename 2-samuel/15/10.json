@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 15:10",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Absalom sai các kẻ do thám đến khắp các chi phái của Yisrael, nói rằng: Khi các ngươi nghe ⟨את⟩ tiếng kèn, thì hãy nói: Absalom làm vua ở Chebron.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "và hắn sai"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absalom"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "các kẻ do thám"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "trong khắp"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "các chi phái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "của Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nói rằng"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "khi các ngươi nghe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiếng kèn"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tiếng"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "cái kèn"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "thì hãy nói"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "làm vua"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absalom"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "ở Chebron"
+    }
+  ],
+  "timestamp": "2026-08-19T03:42:52.278604326Z",
+  "model": "glm-5.3"
+}

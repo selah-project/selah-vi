@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Vua David sai đi, và đem ông ta từ nhà Makhir, con Ammiel, từ Lo-Devar.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "đã sai đi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "và đem ông ta"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "từ nhà"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Makhir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ammiel"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "từ Lo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Devar"
+    }
+  ],
+  "timestamp": "2026-08-19T03:40:51.975082337Z",
+  "model": "glm-5.3"
+}

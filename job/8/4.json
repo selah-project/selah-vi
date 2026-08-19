@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 8:4",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Nếu con cái ngươi đã phạm tội với Ngài, thì Ngài đã phó chúng vào tay sự phạm phép của chúng",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "con cái ngươi"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "đã phạm tội"
+    },
+    {
+      "surface": "לו",
+      "gloss": "với Ngài"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "thì phó chúng"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "vào tay"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "sự phạm phép của chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:21:26.922379Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 19:25",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Vậy Moshe đi xuống đến với dân sự và nói với ⟨את⟩ họ.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "đi xuống"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến với"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "⟨את⟩ họ",
+      "marks": "họ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:31:28.449350845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 37:5",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Và các đầy tớ của vua Chizkiyahu đi đến với Yeshayahu.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "đã đi đến"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "các đầy tớ của"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến với"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    }
+  ],
+  "timestamp": "2026-08-19T06:12:38.388668708Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 145,
+  "translation": "Mắt của mọi sinh linh hướng về ngài trông đợi, và chính ngài ban cho chúng ⟨את⟩ lương thực của chúng đúng mùa của nó.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "mắt của"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "về ngài"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "trông đợi"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "và chính ngài"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "ban cho"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chúng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lương thực của chúng"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "lương thực của chúng"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "đúng mùa của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:24.964196982Z",
+  "model": "glm-5.3"
+}

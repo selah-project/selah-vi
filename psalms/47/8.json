@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 47,
+  "translation": "Vì Elohim ⟨là⟩ Vua của cả ⟨cái⟩ đất: hãy ca ngợi ⟨bằng⟩ sự thông sáng.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Vua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cả"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "hãy ca ngợi"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "sự thông sáng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:30.003236415Z",
+  "model": "glm-5.3"
+}

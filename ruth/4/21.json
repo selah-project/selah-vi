@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "và Salmon sinh ⟨את⟩ Boaz, và Boaz sinh ⟨את⟩ Oved",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "và Salmon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boaz"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "và Boaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Oved"
+    }
+  ],
+  "timestamp": "2026-08-19T05:29:27.270336450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 10:6",
+  "book": "zechariah",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Và ta sẽ làm mạnh ⟨את⟩ nhà Yehudah, và ⟨את⟩ nhà Yosef ta sẽ cứu; và ta sẽ cho chúng dwelling-được trở về, vì ta đã thương xót chúng; và chúng sẽ như thể ta đã không bỏ rơi chúng, vì ta là Yahweh Elohim của chúng, và ta sẽ đáp lời chúng.",
+  "tokens": [
+    {
+      "surface": "וגברתי",
+      "gloss": "và ta sẽ làm mạnh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhà Yehudah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "nhà Yosef"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "ta sẽ cứu"
+    },
+    {
+      "surface": "והושבותים",
+      "gloss": "và ta sẽ cho chúng ở lại"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "רחמתים",
+      "gloss": "ta đã thương xót chúng"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "và chúng sẽ như"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như thể"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "זנחתים",
+      "gloss": "ta đã bỏ rơi chúng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim của chúng"
+    },
+    {
+      "surface": "ואענם",
+      "gloss": "và ta sẽ đáp lời chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:53:49.997896775Z",
+  "model": "glm-5.3"
+}

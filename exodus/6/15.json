@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 6:15",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và con cái của Shimon: Ymuel và Yamin, và Ohad, và Yachin, và Tsochar, và Shaul, con của người phụ nữ Kenaan — đây là các gia tộc của Shimon.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "và con cái"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    },
+    {
+      "surface": "ימואל",
+      "gloss": "Ymuel"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "và Yamin"
+    },
+    {
+      "surface": "ואהד",
+      "gloss": "và Ohad"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "và Yachin"
+    },
+    {
+      "surface": "וצחר",
+      "gloss": "và Tsochar"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "và Shaul"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con"
+    },
+    {
+      "surface": "הכנענית",
+      "gloss": "người phụ nữ Kenaan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "đây là"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "các gia tộc"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    }
+  ],
+  "timestamp": "2026-08-19T02:28:51.297388969Z",
+  "model": "glm-5.3"
+}

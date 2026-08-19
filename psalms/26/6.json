@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Tôi sẽ rửa tay mình trong sự thanh sạch, và tôi sẽ đi vòng quanh ⟨את⟩ bàn thờ của Ngài, Yahweh.",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "tôi sẽ rửa"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "trong sự thanh sạch"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "tay mình (lòng bàn tay)"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "và tôi sẽ đi vòng quanh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bàn thờ của Ngài"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "bàn thờ của Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:46.529006870Z",
+  "model": "glm-5.3"
+}

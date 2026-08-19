@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 105,
+  "translation": "Vì Ngài đã nhớ ⟨את⟩ lời thánh của Ngài, ⟨את⟩ Avraham kẻ tôi tớ của Ngài.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "đã nhớ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lời thánh của Ngài"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lời"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "thánh của Ngài"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "kẻ tôi tớ của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:53.998209530Z",
+  "model": "glm-5.3"
+}

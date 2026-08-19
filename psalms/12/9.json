@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Khắp quanh, kẻ ác rảo bước, khi sự đê tiện được tôn cao giữa ⟨con cái⟩ loài người.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "khắp quanh"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "rảo bước"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "khi được tôn cao"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "sự đê tiện"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "giữa con cái"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "loài người"
+    }
+  ],
+  "timestamp": "2026-08-19T04:55:40.194080695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Shigaion của Daviđ, mà ⟨người ấy⟩ đã hát cho Yahweh, về lời của Kush con trai Yamini.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Shigaion"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "của Daviđ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "שר",
+      "gloss": "đã hát"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "cho Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "về"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "lời của"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Yamini (người Benyamin)"
+    }
+  ],
+  "timestamp": "2026-08-19T04:55:19.435385355Z",
+  "model": "glm-5.3"
+}

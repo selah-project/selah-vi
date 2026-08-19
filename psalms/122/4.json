@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 122,
+  "translation": "Vì đó, các chi tộc đã lên — các chi tộc của Yah — một chứng cớ cho Yisrael, để cảm tạ danh Yahweh.",
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "vì đó"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "đã lên"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "các chi tộc"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "các chi tộc của"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "một chứng cớ"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "cho Yisrael"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "để cảm tạ"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "danh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:36.462756878Z",
+  "model": "glm-5.3"
+}

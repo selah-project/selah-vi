@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Và ⟨את⟩ các nhà của Yerushalayim các ngươi đã đếm, và các ngươi đã phá dỡ các nhà để gia cố tường.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các nhà"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "các nhà"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "các ngươi đã đếm"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "và các ngươi đã phá dỡ"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "các nhà"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "để gia cố"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "tường"
+    }
+  ],
+  "timestamp": "2026-08-19T04:07:15.907439875Z",
+  "model": "glm-5.3"
+}

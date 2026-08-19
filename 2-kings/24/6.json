@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 24:6",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Yehoyakim ngủ cùng tổ phụ mình, và Yehoyakhin con trai ông trị vì thay cho ông.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ngủ"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cùng"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "tổ phụ mình"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "trị vì"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Yehoyakhin"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "con trai ông"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "thay cho ông"
+    }
+  ],
+  "timestamp": "2026-08-19T04:03:42.175524010Z",
+  "model": "glm-5.3"
+}

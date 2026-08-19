@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 25:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Người khiến ⟨các⟩ kẻ khiêm nhường bước trong sự công bình, và dạy ⟨các⟩ kẻ khiêm nhường đường lối của Ngài.",
+  "tokens": [
+    {
+      "surface": "ידרך",
+      "gloss": "khiến bước \/ dẫn đường"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "các kẻ khiêm nhường"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "trong sự công bình"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "và dạy"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "các kẻ khiêm nhường"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "đường lối của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:42.664690302Z",
+  "model": "glm-5.3"
+}

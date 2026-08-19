@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 1:28",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và Elohim ban phước ⟨אתם⟩ cho họ, và Elohim phán với họ: Hãy sinh sôi, hãy nhiều lên, hãy làm đầy ⟨את⟩ đất và trấn phục nó; và hãy thống trị cá biển, chim trời, và mọi sinh vật bò trườn trên đất.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "và ban phước"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "họ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và phán"
+    },
+    {
+      "surface": "להם",
+      "gloss": "với họ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "hãy sinh sôi"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "và hãy nhiều lên"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "và hãy làm đầy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đất"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "וכבשה",
+      "gloss": "và trấn phục nó"
+    },
+    {
+      "surface": "ורדו",
+      "gloss": "và hãy thống trị"
+    },
+    {
+      "surface": "בדגת",
+      "gloss": "cá"
+    },
+    {
+      "surface": "הים",
+      "gloss": "biển"
+    },
+    {
+      "surface": "ובעוף",
+      "gloss": "và chim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "trời"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "sinh vật"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "đang bò trườn"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T00:47:11.380521922Z",
+  "model": "glm-5.3"
+}

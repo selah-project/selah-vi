@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 3:6",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và họ cưới ⟨את⟩ các con gái của họ làm vợ cho mình, và ⟨את⟩ các con gái của họ thì gả cho con trai mình; rồi họ hầu việc ⟨את⟩ các thần của họ.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "và họ cưới"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các con gái của họ"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "các con gái của họ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho mình"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "làm vợ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các con gái của họ"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "các con gái của họ"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "thì gả"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "cho con trai mình"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "rồi họ hầu việc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các thần của họ"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "các thần của họ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:22:38.999663716Z",
+  "model": "glm-5.3"
+}

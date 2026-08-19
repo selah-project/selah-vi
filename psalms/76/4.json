@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 76,
+  "translation": "Tại đó Ngài đã đập tan ⟨את⟩ namét lửa của cung, khiên, gươm, và chiến trận. Selah.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "tại đó"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "đã đập tan"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "namét lửa của"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "cung"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "khiên"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "và gươm"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "và chiến trận"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:20.269964904Z",
+  "model": "glm-5.3"
+}

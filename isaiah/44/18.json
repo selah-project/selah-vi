@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 44:18",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Chúng không biết, và không hiểu, vì mắt của chúng đã bị trét ⟨cho⟩ khỏi thấy, tim của chúng khỏi hiểu biết.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "chúng biết"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "chúng hiểu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "טח",
+      "gloss": "đã bị trét"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "khỏi thấy"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "mắt của chúng"
+    },
+    {
+      "surface": "מהשכיל",
+      "gloss": "khỏi hiểu biết"
+    },
+    {
+      "surface": "לבתם",
+      "gloss": "tim của chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:12:57.899378209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 18:2",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "David đã sai ⟨את⟩ dân sự ra: một phần ba dưới tay Yoav, một phần ba dưới tay Avishai con Tseruyah, anh của Yoav, và một phần ba dưới tay Ittai người Gat. Vua nói với dân sự: 'Ta sẽ ra đi, ta cũng sẽ đi với các ngươi.'",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "đã sai ra"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân sự"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "một phần ba"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dưới tay"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "và một phần ba"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dưới tay"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Avishai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Tseruyah"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "anh của"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "והשלשת",
+      "gloss": "và một phần ba"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dưới tay"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "Ittai"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "người Gat"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "sẽ ra đi"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "ta sẽ đi ra"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cũng"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "với các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:43:57.837432920Z",
+  "model": "glm-5.3"
+}

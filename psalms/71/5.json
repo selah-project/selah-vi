@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 71,
+  "translation": "Vì ⟨chính⟩ Ngài là hy vọng của con, Adonai Yahweh, là chốn nương tựa của con từ thuở niên thiếu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨chính⟩ Ngài"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "hy vọng của con"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "chốn nương tựa của con"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "từ thuở niên thiếu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:26.626647921Z",
+  "model": "glm-5.3"
+}

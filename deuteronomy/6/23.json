@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 6:23",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và ⟨את⟩ chúng ta Ngài đã đem ra khỏi đó, nhằm mục đích đem ⟨את⟩ chúng ta vào, để ban cho chúng ta ⟨את⟩ đất mà Ngài đã thề với các tổ phụ chúng ta.",
+  "tokens": [
+    {
+      "surface": "ואותנו",
+      "gloss": "và ⟨את⟩ chúng ta",
+      "marks": "chúng ta (đối tượng được đem ra)"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "đã đem ra"
+    },
+    {
+      "surface": "משם",
+      "gloss": "khỏi đó"
+    },
+    {
+      "surface": "למען",
+      "gloss": "nhằm mục đích"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "đem vào"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ chúng ta",
+      "marks": "chúng ta (đối tượng được đem vào)"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "để ban"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "cho chúng ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đất"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "đã thề"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "với các tổ phụ chúng ta"
+    }
+  ],
+  "timestamp": "2026-08-19T03:05:59.998309699Z",
+  "model": "glm-5.3"
+}

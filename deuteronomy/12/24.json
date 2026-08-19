@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Ngươi không được ăn nó; ngươi sẽ đổ nó trên đất như nước.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "ngươi được ăn nó"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ngươi sẽ đổ nó"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "như nước"
+    }
+  ],
+  "timestamp": "2026-08-19T03:07:57.553848361Z",
+  "model": "glm-5.3"
+}

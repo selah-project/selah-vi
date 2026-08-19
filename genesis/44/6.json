@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Và ông kịp theo họ, và ông nói với họ ⟨את⟩ những lời này.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "và ông kịp theo họ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "và ông nói"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "với họ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "những lời này"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "những lời"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "này"
+    }
+  ],
+  "timestamp": "2026-08-19T02:25:00.556520646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 22:12",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Và Elohim phán với Bilam: Ngươi đừng đi với họ; đừng nguyền rủa ⟨את⟩ dân sự, vì nó ⟨được⟩ phước.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và phán"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ngươi đi"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "với họ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "nguyền rủa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân sự"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "⟨được⟩ phước"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:59:40.913827808Z",
+  "model": "glm-5.3"
+}

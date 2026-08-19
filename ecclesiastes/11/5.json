@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 11:5",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Cũng như ngươi không biết đường đi của gió, hay ⟨את⟩ xương cốt hình thành trong bụng người mang thai, cũng vậy ngươi không biết ⟨את⟩ công việc của Elohim, Đấng làm ⟨את⟩ mọi sự.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "cũng như"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "ngươi không"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "biết"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "đường đi"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "của gió"
+    },
+    {
+      "surface": "כעצמים",
+      "gloss": "như xương cốt"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "trong bụng"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "người mang thai"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "cũng vậy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ngươi biết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "công việc"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "công việc"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "của Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Đấng mà"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi sự"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "mọi sự"
+    }
+  ],
+  "timestamp": "2026-08-19T05:34:10.815152120Z",
+  "model": "glm-5.3"
+}

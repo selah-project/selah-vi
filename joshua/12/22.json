@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Vua của Kedesh, một; vua của Yokneam thuộc Karmel, một;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedesh"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "một"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "Yokneam"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "thuộc Karmel"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "một"
+    }
+  ],
+  "timestamp": "2026-08-19T06:06:53.860157481Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 15:21",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "và ⟨את⟩ người Emori, và ⟨את⟩ người Kena'ani, và ⟨את⟩ người Girgashi, và ⟨את⟩ người Yevusi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người Emori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "người Emori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người Kena'ani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "người Kena'ani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người Girgashi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "người Girgashi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người Yevusi"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "người Yevusi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:23:07.486599642Z",
+  "model": "glm-5.3"
+}

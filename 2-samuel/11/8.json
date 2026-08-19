@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 11:8",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "David nói với Uriyah: Hãy xuống về nhà ngươi, và rửa chân ngươi. Uriyah ra khỏi nhà vua, và một phần quà của vua theo ra sau người.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאוריה",
+      "gloss": "với Uriyah"
+    },
+    {
+      "surface": "רד",
+      "gloss": "hãy xuống"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "về nhà ngươi"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "và hãy rửa"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "chân ngươi"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ra"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "khỏi nhà"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "của vua"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "bèn theo ra"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "sau người"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "một phần quà"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "của vua"
+    }
+  ],
+  "timestamp": "2026-08-19T03:41:40.716756554Z",
+  "model": "glm-5.3"
+}

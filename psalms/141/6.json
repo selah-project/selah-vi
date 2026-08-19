@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 141,
+  "translation": "Bị quăng xuống bên hòn đá liệu là các quan án của họ; và ⟨họ⟩ sẽ nghe lời tôi, vì chúng ⟨dễ chịu⟩.",
+  "tokens": [
+    {
+      "surface": "נשמטו",
+      "gloss": "bị quăng xuống"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "bên"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "hòn đá"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "các quan án của họ"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "và sẽ nghe"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "lời tôi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "נעמו",
+      "gloss": "chúng dễ chịu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:12.267689733Z",
+  "model": "glm-5.3"
+}

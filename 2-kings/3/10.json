@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và vua Yisrael nói: Ôi than thay, vì Yahweh đã gọi ba vị vua này để phó ⟨את⟩ họ vào tay Moav.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ôi than thay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "đã gọi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "cho ba"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "vị vua"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "này"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "để phó"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "họ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "vào tay"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    }
+  ],
+  "timestamp": "2026-08-19T06:10:10.548150808Z",
+  "model": "glm-5.3"
+}

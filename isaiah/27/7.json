@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Như cú đánh của kẻ đánh nó — Ngài đã đánh nó như vậy? Hay như cuộc giết những kẻ bị giết bởi nó — nó đã bị giết như vậy?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "như-cú-đánh"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "kẻ đánh nó"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "Ngài đã đánh nó"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hay"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "như-cuộc-giết"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "những kẻ bị giết của nó"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "đã bị giết"
+    }
+  ],
+  "timestamp": "2026-08-19T06:12:23.337910804Z",
+  "model": "glm-5.3"
+}

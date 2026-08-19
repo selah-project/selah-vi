@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 35,
+  "translation": "Các ngươi chớ nhóm lửa trong mọi chỗ cư ngụ của các ngươi, trong ngày sa-bát.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "các ngươi nhóm"
+    },
+    {
+      "surface": "אש",
+      "gloss": "lửa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "trong mọi"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "chỗ cư ngụ của các ngươi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "trong ngày"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "sa-bát"
+    }
+  ],
+  "timestamp": "2026-08-19T02:37:32.877726504Z",
+  "model": "glm-5.3"
+}

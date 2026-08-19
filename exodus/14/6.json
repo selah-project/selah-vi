@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Và ông thắng ⟨את⟩ xe ngựa của mình, và ⟨את⟩ dân quân của mình ông đem theo cùng mình.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "và ông thắng (xe)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xe ngựa của mình"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "xe ngựa của mình"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "dân quân của mình"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "dân quân của mình"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ông đem"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "cùng mình"
+    }
+  ],
+  "timestamp": "2026-08-19T02:30:55.985050139Z",
+  "model": "glm-5.3"
+}

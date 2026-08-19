@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 38,
+  "translation": "Vì mũi tên của Ngài đã cắm sâu vào con, và bàn tay của Ngài đã đè xuống trên con.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "mũi tên của Ngài"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "đã cắm sâu xuống"
+    },
+    {
+      "surface": "בי",
+      "gloss": "vào con"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "và đã đè xuống"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "trên con"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "bàn tay của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:35.741290280Z",
+  "model": "glm-5.3"
+}

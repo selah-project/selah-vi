@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 71,
+  "translation": "Elohim ơi, đừng ở xa con; Elohim của con ơi, hãy mau đến giúp con.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ở xa"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "khỏi con"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của con"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "giúp con"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "hãy mau"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:19.134062195Z",
+  "model": "glm-5.3"
+}

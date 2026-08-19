@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 135,
+  "translation": "Vì tôi đã biết rằng Yahweh ⟨is⟩ vĩ đại, và Adonai của chúng ta ⟨vượt trên⟩ mọi Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "đã biết"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "vĩ đại"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "và Adonai của chúng ta"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "hơn mọi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:12.309541527Z",
+  "model": "glm-5.3"
+}

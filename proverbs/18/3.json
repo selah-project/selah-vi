@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Khi kẻ ác đến, sự khinh bỉ cũng đến, và cùng sự ô nhục ⟨là⟩ điều sỉ nhục.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "khi đến"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "בא",
+      "gloss": "đến"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cũng"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "sự khinh bỉ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "và cùng"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "sự ô nhục"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "điều sỉ nhục"
+    }
+  ],
+  "timestamp": "2026-08-19T05:17:20.349871508Z",
+  "model": "glm-5.3"
+}

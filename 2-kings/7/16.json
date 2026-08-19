@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Dân sự đi ra và cướp ⟨את⟩ trại quân Aram; thì một se-ah bột mịn được một shekel, và hai se-ah lúa mạch được một shekel, theo lời Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "và đi ra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "và cướp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trại quân Aram"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "trại quân"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "thì có"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "một se-ah"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "bột mịn"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "một shekel"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "và hai se-ah"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "lúa mạch"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "một shekel"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "theo lời"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T03:57:32.553777742Z",
+  "model": "glm-5.3"
+}

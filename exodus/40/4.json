@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Ngươi phải đem vào ⟨את⟩ Cái Bàn và bày đặt ⟨את⟩ đồ bày của nó; ngươi phải đem vào ⟨את⟩ Cây Đèn và thắp lên ⟨את⟩ các đèn của nó.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "ngươi phải đem vào"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cái Bàn"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "Cái Bàn"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "bày đặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đồ bày của nó"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "đồ bày của nó"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "ngươi phải đem vào"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cây Đèn"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "Cây Đèn"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "thắp lên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các đèn của nó"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "các đèn của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:39:45.908178309Z",
+  "model": "glm-5.3"
+}

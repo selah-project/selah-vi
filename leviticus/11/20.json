@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Mọi sinh vật bò sát có cánh đi trên bốn chân — ⟨đó⟩ là điều gớm ghiếc cho các ngươi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "sinh vật bò sát"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "có cánh"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "đi"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "bốn"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "điều gớm ghiếc"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨đó⟩ là"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:42:17.683310197Z",
+  "model": "glm-5.3"
+}

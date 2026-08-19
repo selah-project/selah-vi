@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 25:28",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Và ông nói với ⟨את⟩-ngài những lời tốt lành, và đặt ngai của ngài trên cao hơn ngai của các vua vốn ở với ngài tại Bavel.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "và ông nói"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "với ⟨את⟩-ngài"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "những lời tốt lành"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "và đặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngai của ngài"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ngai của ngài"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "trên cao hơn"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "của các vua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vốn"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ở với ⟨את⟩-ngài"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "tại Bavel"
+    }
+  ],
+  "timestamp": "2026-08-19T06:11:30.382185177Z",
+  "model": "glm-5.3"
+}

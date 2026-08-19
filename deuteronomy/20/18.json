@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 20:18",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "hầu cho chúng nó không dạy ⟨את⟩ các ngươi làm theo mọi điều gớm ghiếc của chúng nó, mà chúng nó đã làm cho các elohim của chúng, và các ngươi phạm tội với Yahweh Elohim các ngươi.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "hầu cho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ילמדו",
+      "gloss": "chúng nó dạy"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ các ngươi",
+      "marks": "làm theo mọi điều gớm ghiếc"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "làm theo"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "תועבתם",
+      "gloss": "điều gớm ghiếc của chúng nó"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "chúng nó đã làm"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "cho các elohim của chúng"
+    },
+    {
+      "surface": "וחטאתם",
+      "gloss": "và các ngươi phạm tội"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "với Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:10:33.368700287Z",
+  "model": "glm-5.3"
+}

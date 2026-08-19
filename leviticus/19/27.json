@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Các ngươi không nên cắt tròn mép đầu mình, và không nên hủy hoại ⟨את⟩ mép râu của ngươi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "các ngươi cắt tròn"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "mép"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "đầu của các ngươi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "ngươi hủy hoại"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mép râu của ngươi"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "mép"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "râu của ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:45:55.214191390Z",
+  "model": "glm-5.3"
+}

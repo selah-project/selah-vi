@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 4:6",
+  "book": "ruth",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Người chuộc nói: Tôi không thể chuộc cho mình, kẻo tôi hủy hoại ⟨את⟩ cơ nghiệp của tôi; ngươi hãy chuộc lấy ⟨את⟩ quyền chuộc của tôi, vì tôi không thể chuộc.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "người chuộc"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "tôi có thể"
+    },
+    {
+      "surface": "לגאול",
+      "gloss": "chuộc"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho mình"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kẻo"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "tôi hủy hoại"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cơ nghiệp của tôi"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "cơ nghiệp của tôi"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "hãy chuộc"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngươi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "quyền chuộc của tôi"
+    },
+    {
+      "surface": "גאלתי",
+      "gloss": "quyền chuộc của tôi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "tôi có thể"
+    },
+    {
+      "surface": "לגאל",
+      "gloss": "chuộc"
+    }
+  ],
+  "timestamp": "2026-08-19T05:30:17.391980196Z",
+  "model": "glm-5.3"
+}

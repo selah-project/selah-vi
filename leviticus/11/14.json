@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "và ⟨את⟩ chim daah, và ⟨את⟩ chim ayyah theo giống nó.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "chim daah"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "chim daah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "chim ayyah"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "chim ayyah"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "theo giống nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:41:59.939311850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và Shemuël chạy đến E-li và nói: Đây tôi, vì ông đã gọi tôi. Nhưng 〈người〉 nói: Tôi không có gọi; hãy trở lại nằm xuống. Và 〈anh ta〉 đi và nằm xuống.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "và chạy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "E-li"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "đây tôi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "ông đã gọi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "tôi đã gọi"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "hãy trở lại"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "nằm xuống"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "và đi"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "và nằm xuống"
+    }
+  ],
+  "timestamp": "2026-08-19T03:29:44.914155121Z",
+  "model": "glm-5.3"
+}

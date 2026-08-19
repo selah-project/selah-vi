@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Còn Shemuël thì chưa biết ⟨את⟩ Yahweh, và lời Yahweh chưa được tỏ ra cho 〈ngài〉... cho 〈anh ta〉.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "còn Shemuël"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "chưa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "biết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "và chưa"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "được tỏ ra"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "cho anh ta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lời"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T03:29:44.914742789Z",
+  "model": "glm-5.3"
+}

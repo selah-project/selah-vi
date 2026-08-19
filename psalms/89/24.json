@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 89,
+  "translation": "Và tôi sẽ đập tan trước mặt ông những kẻ áp bức ông, và những kẻ ghét ông tôi sẽ đánh ngã.",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "và tôi sẽ đập tan"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "trước mặt ông"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "những kẻ thù nghịch của ông"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "và những kẻ ghét ông"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "tôi sẽ đánh ngã"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:26.785777761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 6:14",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và họ đã chữa ⟨את⟩ vết thương của dân ta một cách hời hợt, mà nói: Shalom, shalom — nhưng không có shalom.",
+  "tokens": [
+    {
+      "surface": "וירפאו",
+      "gloss": "và họ đã chữa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vết thương"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "vết thương"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "của dân ta"
+    },
+    {
+      "surface": "על",
+      "gloss": "một cách"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "hời hợt"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mà nói"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nhưng không có"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    }
+  ],
+  "timestamp": "2026-08-19T04:18:31.651380812Z",
+  "model": "glm-5.3"
+}

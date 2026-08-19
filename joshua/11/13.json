@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 11:13",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Chỉ có các thành đứng trên gò đất của chúng mà Yisrael không đốt, ngoại trừ ⟨את⟩ Chatsor mà thôi — Yehoshua đã đốt nó.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "chỉ có"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "các thành"
+    },
+    {
+      "surface": "העמדות",
+      "gloss": "đứng"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "תלם",
+      "gloss": "gò đất của chúng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "שרפם",
+      "gloss": "đốt chúng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "ngoại trừ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chatsor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chatsor"
+    },
+    {
+      "surface": "לבדה",
+      "gloss": "mà thôi"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "đốt"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    }
+  ],
+  "timestamp": "2026-08-19T03:18:40.559618279Z",
+  "model": "glm-5.3"
+}

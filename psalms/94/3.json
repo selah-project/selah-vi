@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 94,
+  "translation": "Cho đến bao lâu, những kẻ ác, hỡi Yahweh, cho đến bao lâu những kẻ ác ⟨sẽ⟩ hớn hở?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "bao lâu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "những kẻ ác"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "bao lâu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "những kẻ ác"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "hớn hở"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:33.368652319Z",
+  "model": "glm-5.3"
+}

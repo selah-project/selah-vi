@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Chớ cướp người nghèo, vì hắn nghèo, và chớ đè nén người khốn khó tại cổng thành.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "cướp"
+    },
+    {
+      "surface": "דל",
+      "gloss": "người nghèo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "דל",
+      "gloss": "nghèo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hắn"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và chớ"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "đè nén"
+    },
+    {
+      "surface": "עני",
+      "gloss": "người khốn khó"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "tại cổng thành"
+    }
+  ],
+  "timestamp": "2026-08-19T06:19:59.306317437Z",
+  "model": "glm-5.3"
+}

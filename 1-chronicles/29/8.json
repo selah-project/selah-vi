@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 29:8",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "và người nào được tìm thấy ⟨את⟩ có đá quý, thì họ nộp cho kho của nhà Yahweh, qua tay Yechiel ha-Gershuni.",
+  "tokens": [
+    {
+      "surface": "והנמצא",
+      "gloss": "và người được tìm thấy"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "có đá quý"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "đá"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "họ đã nộp"
+    },
+    {
+      "surface": "לאוצר",
+      "gloss": "cho kho"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "qua"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tay"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "Yechiel"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "ha-Gershuni"
+    }
+  ],
+  "timestamp": "2026-08-19T05:54:00.684663911Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 41,
+  "translation": "Về điều này tôi biết rằng Ngài đã ưa thích tôi, vì kẻ thù tôi sẽ không được hô hoài nghịch tôi.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "về điều này"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "tôi biết"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "Ngài đã ưa thích"
+    },
+    {
+      "surface": "בי",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "sẽ hô hoài"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "kẻ thù của tôi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nghịch tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:40.606849567Z",
+  "model": "glm-5.3"
+}

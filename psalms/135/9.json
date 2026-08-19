@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 135,
+  "translation": "Ngài đã gửi các dấu kỳ và phép lạ vào giữa ngươi, hỡi Mitsrajim, đến Pharaoh và đến tất cả tôi tớ của nó.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "đã gửi"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "các dấu kỳ"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "và phép lạ"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "vào giữa ngươi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "đến Pharaoh"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "và đến tất cả"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "tôi tớ của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:00.546184968Z",
+  "model": "glm-5.3"
+}

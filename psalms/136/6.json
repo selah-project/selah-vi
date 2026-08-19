@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 136,
+  "translation": "Đấng trải ⟨the⟩ đất ra trên ⟨the⟩ các nước, vì sự nhân từ của Ngài tồn tại đến đời đời.",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "Đấng trải ra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "המים",
+      "gloss": "các nước"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "đến đời đời"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sự nhân từ của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:21.146431686Z",
+  "model": "glm-5.3"
+}

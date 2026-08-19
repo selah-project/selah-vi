@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 29:2",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Khi người công bình đông đảo, dân sự vui mừng; khi kẻ ác cai trị, dân sự than thở.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "khi... đông đảo"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "người công bình"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "vui mừng"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "ובמשל",
+      "gloss": "khi... cai trị"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "יאנח",
+      "gloss": "than thở"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dân sự"
+    }
+  ],
+  "timestamp": "2026-08-19T05:19:16.607874450Z",
+  "model": "glm-5.3"
+}

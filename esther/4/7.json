@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và Mordecai kể cho ⟨את⟩ ông mọi điều đã xảy đến với mình, và ⟨את⟩ số lượng bạc mà Haman nói sẽ cân vào kho tàng của vua, về người Yehudi, để hủy diệt họ.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "và-ông-kể"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho-ông"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordecai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi điều"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "đã-xảy-đến-với-mình"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và-⟨את⟩",
+      "marks": "số lượng bạc"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "số-lượng"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "bạc"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "sẽ-cân"
+    },
+    {
+      "surface": "על",
+      "gloss": "vào"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "kho-tàng-của"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "về-người-Yehudi"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "để-hủy-diệt-họ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:34:38.825648137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 42,
+  "translation": "Còn ⟨את⟩ Binyamin, em của Yosef, Yaakov không sai đi cùng ⟨את⟩ các anh em người, vì người nói: Kẻo điều họa gặp nó.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Binyamin"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "em của"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "sai đi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các anh em người"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "các anh em người"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kẻo"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "gặp nó"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "điều họa"
+    }
+  ],
+  "timestamp": "2026-08-19T02:24:36.730786413Z",
+  "model": "glm-5.3"
+}

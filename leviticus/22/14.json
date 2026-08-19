@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 22:14",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Còn nếu một người ăn vật thánh do lỡ lầm, thì ⟨người ấy⟩ phải cộng thêm phần năm của nó vào đó, và phải đưa cho thầy tế lễ ⟨את⟩ vật thánh.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "còn nếu một người"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ăn"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "vật thánh"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "do lỡ lầm"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "và cộng thêm"
+    },
+    {
+      "surface": "חמשיתו",
+      "gloss": "phần năm của nó"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "vào đó"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "và đưa"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "cho thầy tế lễ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vật thánh"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "vật thánh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:46:28.654796050Z",
+  "model": "glm-5.3"
+}

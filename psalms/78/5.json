@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 78,
+  "translation": "Và Người đã dựng lên một chứng tá trong Yaakov, và đã đặt torah trong Yisrael, điều mà Người đã truyền cho ⟨את⟩ các tổ phụ chúng ta, để làm cho con cái họ biết.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "đã dựng lên"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "chứng tá"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "trong Yaakov"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "và torah"
+    },
+    {
+      "surface": "שם",
+      "gloss": "đã đặt"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "trong Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "điều mà"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "đã truyền"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các tổ phụ chúng ta"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "các tổ phụ chúng ta"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "để làm cho chúng biết"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "cho con cái họ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:58.227159993Z",
+  "model": "glm-5.3"
+}

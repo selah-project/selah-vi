@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 24:10",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Ta chẳng muốn nghe lời Bilam, nên chính ông đã phước cho ⟨אתכם⟩ các ngươi liên tiếp, và Ta giải cứu ⟨אתכם⟩ các ngươi khỏi tay ông.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "và chẳng"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "Ta muốn"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "nghe"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "lời Bilam"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "nên ông đã phước cho"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "liên tiếp"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "và Ta giải cứu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "khỏi tay ông"
+    }
+  ],
+  "timestamp": "2026-08-19T03:21:43.576132962Z",
+  "model": "glm-5.3"
+}

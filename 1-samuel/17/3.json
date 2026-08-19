@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 17:3",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Và người Pelishtim đứng bên núi phía này, còn Yisrael đứng bên núi phía kia, và thung lũng ⟨nằm⟩ giữa họ.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "và người Pelishtim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "đứng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bên"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "núi"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "phía này"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "còn Yisrael"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "đứng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bên"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "núi"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "phía kia"
+    },
+    {
+      "surface": "והגיא",
+      "gloss": "và thung lũng"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "giữa họ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:34:10.796288506Z",
+  "model": "glm-5.3"
+}

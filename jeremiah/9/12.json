@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 9:12",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và Yahweh phán: Vì họ đã bỏ ⟨את⟩ luật Ta mà Ta đã đặt trước mặt họ, và không nghe theo tiếng Ta, cũng không đi trong đó.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עזבם",
+      "gloss": "họ đã bỏ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "luật Ta"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "luật Ta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Ta đã đặt"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "trước mặt họ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "họ nghe"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "theo tiếng Ta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "cũng không"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "họ đi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "trong đó"
+    }
+  ],
+  "timestamp": "2026-08-19T04:19:04.099700752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 18:17",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Ngài sai ⟨את⟩ từ trên cao, Ngài bắt lấy tôi, Ngài kéo tôi ra khỏi nhiều nước.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Ngài sai"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "từ trên cao"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "Ngài bắt lấy tôi"
+    },
+    {
+      "surface": "ימשני",
+      "gloss": "Ngài kéo tôi ra"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "khỏi nước"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nhiều"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:35.685532246Z",
+  "model": "glm-5.3"
+}

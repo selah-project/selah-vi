@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Và Ravshakeh quay về, và thấy ⟨את⟩ vua Ashshur đang giao tranh với Livnah, vì ông ta đã nghe rằng vua đã rút trại khỏi Lakhish.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "và Ravshakeh quay về"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "shakeh"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "và thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vua Ashshur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "đang giao tranh"
+    },
+    {
+      "surface": "על",
+      "gloss": "với"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livnah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ông ta đã nghe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "đã rút trại"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "khỏi Lakhish"
+    }
+  ],
+  "timestamp": "2026-08-19T06:12:38.973137335Z",
+  "model": "glm-5.3"
+}

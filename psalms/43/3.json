@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 43,
+  "translation": "Hãy sai ánh sáng của Ngài và ⟨sự⟩ chân thật của Ngài đi — chính chúng sẽ dẫn dắt tôi, sẽ đưa tôi đến núi thánh của Ngài, và đến các nơi Ngài ngự.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Hãy sai đi"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "ánh sáng của Ngài"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "và chân thật của Ngài"
+    },
+    {
+      "surface": "המה",
+      "gloss": "chính chúng"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "sẽ dẫn dắt tôi"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "sẽ đưa tôi đến"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "הר",
+      "gloss": "núi"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "thánh của Ngài"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và đến"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "các nơi Ngài ngự"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:32.316730596Z",
+  "model": "glm-5.3"
+}

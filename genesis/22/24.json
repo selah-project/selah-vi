@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Và nàng hầu của ông — tên nàng là Reumah — nàng cũng sinh ⟨את⟩ Tevach, và ⟨את⟩ Gacham, và ⟨את⟩ Tachash, và ⟨את⟩ Maakhah.",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "và nàng hầu của ông"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "tên nàng"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "Reumah"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "nàng cũng đã sinh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cũng"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nàng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tevach"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "Tevach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Gacham"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "Gacham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Tachash"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "Tachash"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Maakhah"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakhah"
+    }
+  ],
+  "timestamp": "2026-08-19T01:03:42.872229995Z",
+  "model": "glm-5.3"
+}

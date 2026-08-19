@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và ⟨ông⟩ đặt ⟨את⟩ gương mặt mình, và khắc đặt ⟨nó⟩ đến khi ⟨hắn⟩ xấu hổ; và người của Elohim khóc.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "và đặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gương mặt mình"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "gương mặt mình"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "và khắc đặt"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến khi"
+    },
+    {
+      "surface": "בש",
+      "gloss": "xấu hổ"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "và khóc"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "của Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T03:58:25.764688660Z",
+  "model": "glm-5.3"
+}

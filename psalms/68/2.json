@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 68,
+  "translation": "Elohim hãy đứng dậy, kẻ thù Ngài sẽ bị tan tán, và những kẻ ghét Ngài hãy chạy trốn khỏi trước mặt Ngài.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "hãy đứng dậy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "sẽ bị tan tán"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "kẻ thù của Ngài"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "và hãy chạy trốn"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "những kẻ ghét Ngài"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "khỏi trước mặt Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:03.989881950Z",
+  "model": "glm-5.3"
+}

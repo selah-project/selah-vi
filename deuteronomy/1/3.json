@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 1:3",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và xảy ra trong năm thứ bốn mươi, trong tháng thứ mười một, ngày đầu ⟨của⟩ tháng, Moshe đã nói với con cái Yisrael theo tất cả những gì Yahweh đã truyền lệnh cho ⟨את⟩ngài về chúng nó.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Và xảy ra"
+    },
+    {
+      "surface": "בארבעים",
+      "gloss": "trong bốn mươi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "năm"
+    },
+    {
+      "surface": "בעשתי",
+      "gloss": "trong thứ-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mười một"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "tháng"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ngày một"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "của tháng"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "đã nói"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "theo tất cả"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "những gì"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "đã truyền lệnh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ngài",
+      "marks": "Moshe (được Yahweh truyền lệnh)"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "về chúng nó"
+    }
+  ],
+  "timestamp": "2026-08-19T03:04:41.721403952Z",
+  "model": "glm-5.3"
+}

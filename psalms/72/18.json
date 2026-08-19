@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 72:18",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 72,
+  "translation": "Đáng chúc phước ⟨là⟩ Yahweh Elohim, Elohim của Yisra'el, Đấng làm những việc lạ lùng, một mình Ngài.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "đáng chúc phước"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Đấng làm"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "những việc lạ lùng"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "một mình Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:43.071827388Z",
+  "model": "glm-5.3"
+}

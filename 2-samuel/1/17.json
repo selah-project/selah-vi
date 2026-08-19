@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và Daviđ đã khóc thương ⟨את⟩ bài ai ca này, về Shaul và về Yehonatanan con trai ông.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "đã khóc thương"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daviđ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bài ai ca này"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "bài ai ca"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "này"
+    },
+    {
+      "surface": "על",
+      "gloss": "về"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "và về"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatanan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "con trai ông"
+    }
+  ],
+  "timestamp": "2026-08-19T06:08:10.739139112Z",
+  "model": "glm-5.3"
+}

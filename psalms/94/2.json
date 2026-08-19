@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 94,
+  "translation": "Hãy nâng mình lên, ⟨hỡi⟩ vị thẩm phán của ⟨את⟩ đất; hãy trả lại sự báo đáp trên những kẻ ngạo mạn.",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "hãy nâng mình lên"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "vị thẩm phán"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "của đất"
+    },
+    {
+      "surface": "השב",
+      "gloss": "hãy trả lại"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "sự báo đáp"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "những kẻ ngạo mạn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:33.368481796Z",
+  "model": "glm-5.3"
+}

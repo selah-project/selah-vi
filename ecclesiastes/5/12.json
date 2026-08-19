@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Có ⟨một⟩ điều ác gây bệnh tôi đã thấy dưới mặt trời: của cải được giữ lại cho chủ nó, để làm hại y.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "có"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "điều ác"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "gây bệnh"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "tôi đã thấy"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dưới"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "mặt trời"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "của cải"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "được giữ lại"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "cho chủ nó"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "để làm hại y"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:00.289408811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và Moshe nói: Xin hãy để tôi rẽ sang và xem ⟨את⟩ khải tượng lớn lao này, vì sao bụi gai không bị thiêu rụi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "tôi sẽ rẽ sang"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xin"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "và tôi xem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khải tượng lớn lao này"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "khải tượng"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "lớn lao"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "vì sao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "bị thiêu rụi"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "bụi gai"
+    }
+  ],
+  "timestamp": "2026-08-19T02:27:54.980973397Z",
+  "model": "glm-5.3"
+}

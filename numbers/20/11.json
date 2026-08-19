@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 20:11",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Và Moshe giơ lên ⟨את⟩ tay mình, và đánh ⟨את⟩ tảng đá bằng cây gậy của mình hai lần; và nước ra nhiều, và hội chúng uống, cả súc vật của họ nữa.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "và đã giơ lên"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tay mình"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tay mình"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "và đã đánh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tảng đá"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "tảng đá"
+    },
+    {
+      "surface": "במטהו",
+      "gloss": "bằng cây gậy của mình"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "hai lần"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "và đã ra"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nhiều"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "và đã uống"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "hội chúng"
+    },
+    {
+      "surface": "ובעירם",
+      "gloss": "và súc vật của họ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:58:59.679571854Z",
+  "model": "glm-5.3"
+}

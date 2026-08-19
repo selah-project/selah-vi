@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 5:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Yahweh, hãy dẫn dắt con trong sự công chính của Ngài, vì kẻ thù nghịch con; hãy làm thẳng con đường của Ngài trước mặt con.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "hãy dẫn dắt con"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "trong sự công chính của Ngài"
+    },
+    {
+      "surface": "למען",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "kẻ thù nghịch con"
+    },
+    {
+      "surface": "הושר",
+      "gloss": "hãy làm thẳng"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "con đường của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T04:54:55.880874468Z",
+  "model": "glm-5.3"
+}

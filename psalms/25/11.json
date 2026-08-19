@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Vì cớ Danh Ngài, Yahweh ⟨hãy⟩ tha thứ cho sự phạm tội của tôi, vì nó thật lớn.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "vì cớ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Danh Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "⟨hãy⟩ tha thứ"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "cho sự phạm tội của tôi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "רב",
+      "gloss": "lớn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:42.665064320Z",
+  "model": "glm-5.3"
+}

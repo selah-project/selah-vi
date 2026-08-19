@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Kẻ đổ máu của con người, bởi con người máu của nó sẽ bị đổ; vì trong hình ảnh của Elohim Ngài đã làm ⟨את⟩ con người.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Kẻ đổ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "máu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "của con người"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "bởi con người"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "máu của nó"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "sẽ bị đổ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "trong hình ảnh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Ngài đã làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con người"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "con người"
+    }
+  ],
+  "timestamp": "2026-08-19T00:49:42.984440456Z",
+  "model": "glm-5.3"
+}

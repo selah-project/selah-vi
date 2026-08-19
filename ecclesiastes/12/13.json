@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Số phận của lời nói, toàn thể đã được nghe: hãy kính sợ ⟨את⟩ Elohim và hãy giữ ⟨את⟩ các điều răn của Ngài, vì đây là toàn bộ của con người.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "số phận"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lời nói"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "đã được nghe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "hãy kính sợ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các điều răn của Ngài"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "các điều răn của Ngài"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "hãy giữ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "זה",
+      "gloss": "đây"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn bộ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "của con người"
+    }
+  ],
+  "timestamp": "2026-08-19T05:34:05.734355687Z",
+  "model": "glm-5.3"
+}

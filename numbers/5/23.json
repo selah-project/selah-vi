@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Và thầy tế lễ sẽ viết ⟨את⟩ những lời nguyền rủa này trong sách, và sẽ xóa vào nước đắng.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "và sẽ viết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "những lời nguyền rủa này"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "những lời nguyền rủa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "này"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "thầy tế lễ"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "trong sách"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "và sẽ xóa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vào"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nước"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "đắng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:53:46.462856693Z",
+  "model": "glm-5.3"
+}

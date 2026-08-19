@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 17:10",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Hãy tách khỏi giữa hội chúng này, và ta sẽ tiêu diệt họ trong một khoảnh khắc. Và họ sấp mặt xuống.",
+  "tokens": [
+    {
+      "surface": "הרמו",
+      "gloss": "hãy-tách-lên"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "khỏi-giữa"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "hội-chúng"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "này"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "và-ta-sẽ-tiêu-diệt"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ họ",
+      "marks": "họ (hội chúng)"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "trong-một-khoảnh-khắc"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "và-họ-sấp-xuống"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "mặt-họ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:58:14.164186349Z",
+  "model": "glm-5.3"
+}

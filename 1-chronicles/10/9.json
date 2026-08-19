@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 10:9",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Họ lột đồ ông, mang lấy ⟨את⟩ đầu ông và ⟨את⟩ đồ binh khí ông, rồi gửi đi khắp xứ Pelishtim, vòng quanh, để báo tin ⟨את⟩ cho các thần tượng của họ và ⟨את⟩ cho dân chúng.",
+  "tokens": [
+    {
+      "surface": "ויפשיטהו",
+      "gloss": "họ lột đồ ông"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "họ mang lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đầu ông"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "đầu ông"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "đồ binh khí ông"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "đồ binh khí ông"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "họ gửi đi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trong xứ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "khắp vòng quanh"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "để báo tin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các thần tượng của họ"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "các thần tượng của họ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "dân chúng"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:49:26.193673977Z",
+  "model": "glm-5.3"
+}

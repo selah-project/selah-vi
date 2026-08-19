@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và tôi nhấc lên ⟨את⟩ mắt tôi, và tôi thấy, và kìa, bốn cái sừng.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "và tôi nhấc lên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mắt tôi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mắt tôi"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "và tôi thấy"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "và kìa"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "bốn"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "cái sừng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:52:33.712623240Z",
+  "model": "glm-5.3"
+}

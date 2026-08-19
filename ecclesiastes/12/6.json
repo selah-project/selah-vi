@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 12:6",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Trước khi sợi dây bạc chưa bị đứt, và cái chậu vàng bị đổ vỡ, và cái bình bị vỡ tại nơi suối, và bánh xe bị nghiền nát vào hố.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "trước khi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chưa"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "bị đứt ra"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "sợi dây"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "bạc"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "và bị đổ vỡ"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "cái chậu"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "vàng"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "và bị vỡ"
+    },
+    {
+      "surface": "כד",
+      "gloss": "cái bình"
+    },
+    {
+      "surface": "על",
+      "gloss": "tại"
+    },
+    {
+      "surface": "המבוע",
+      "gloss": "nơi suối"
+    },
+    {
+      "surface": "ונרץ",
+      "gloss": "và bị nghiền nát"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "bánh xe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vào"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "hố"
+    }
+  ],
+  "timestamp": "2026-08-19T05:34:16.678327167Z",
+  "model": "glm-5.3"
+}

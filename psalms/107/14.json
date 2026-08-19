@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 107:14",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 107,
+  "translation": "Ngài dẫn họ ra khỏi tối tăm và bóng của sự chết, và xé đứt những xiềng xích của họ.",
+  "tokens": [
+    {
+      "surface": "יוציאם",
+      "gloss": "Ngài dẫn họ ra"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "khỏi tối tăm"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "và bóng của sự chết"
+    },
+    {
+      "surface": "ומוסרותיהם",
+      "gloss": "và những xiềng xích của họ"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "Ngài xé đứt"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:15.056397113Z",
+  "model": "glm-5.3"
+}

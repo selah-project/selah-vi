@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 105,
+  "translation": "phán rằng: Cho ngươi, Ta ban ⟨את⟩ đất Kenaan — sợi dây đo sản nghiệp của các ngươi.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "phán rằng"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngươi"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "Ta ban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đất Kenaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "sợi dây đo"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "sản nghiệp của các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:41.867411823Z",
+  "model": "glm-5.3"
+}

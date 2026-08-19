@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Va Yaakov bị bỏ lại một mình, và một người đàn ông vật lộn với ông cho đến khi bình minh leo lên.",
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "và bị bỏ lại"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "một mình"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "và vật lộn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "một người đàn ông"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "với ông"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến khi"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "leo lên"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "bình minh"
+    }
+  ],
+  "timestamp": "2026-08-19T01:15:23.286905367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Và dân sự nói với Yehoshua: ⟨את⟩ Yahweh, Elohim của chúng ta, chúng ta sẽ phụng sự, và tiếng của Ngài chúng ta sẽ vâng nghe.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "và-họ-nói"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh, Elohim của chúng ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim-của-chúng-ta"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "chúng-ta-sẽ-phụng-sự"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "và-tiếng-của-Ngài"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "chúng-ta-sẽ-vâng-nghe"
+    }
+  ],
+  "timestamp": "2026-08-19T03:21:36.330901198Z",
+  "model": "glm-5.3"
+}

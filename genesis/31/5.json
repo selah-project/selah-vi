@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 31:5",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Và người nói với các nàng: Tôi thấy ⟨את⟩ diện mạo cha của các nàng, rằng nó không còn đối với tôi như trước đây; và Elohim của cha tôi đã ở cùng tôi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "להן",
+      "gloss": "với các nàng"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "thấy"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diện mạo cha của các nàng"
+    },
+    {
+      "surface": "פני",
+      "gloss": "diện mạo"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "cha của các nàng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "không còn"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "đối với tôi"
+    },
+    {
+      "surface": "כתמל",
+      "gloss": "như trước đây"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "hôm trước nữa"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "và Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "của cha tôi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "đã ở"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "cùng tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T01:17:22.534422778Z",
+  "model": "glm-5.3"
+}

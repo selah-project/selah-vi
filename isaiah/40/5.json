@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Và vinh quang của Yahweh sẽ được tỏ ra, và mọi xác thịt sẽ thấy nó cùng nhau, vì miệng Yahweh đã phán.",
+  "tokens": [
+    {
+      "surface": "ונגלה",
+      "gloss": "và được-tỏ-ra"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "vinh quang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "và sẽ-thấy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "xác thịt"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "cùng nhau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "פי",
+      "gloss": "miệng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "đã phán"
+    }
+  ],
+  "timestamp": "2026-08-19T04:11:16.914369731Z",
+  "model": "glm-5.3"
+}

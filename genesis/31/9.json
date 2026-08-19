@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Elohim đã cứu lấy ⟨את⟩ đàn gia súc của cha các ngươi và ban cho tôi.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "đã cứu lấy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đàn gia súc của cha các ngươi"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "đàn gia súc"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "của cha các ngươi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "và đã ban"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T01:16:56.339009747Z",
+  "model": "glm-5.3"
+}

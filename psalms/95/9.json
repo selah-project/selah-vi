@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 95,
+  "translation": "Nơi đó các cha ông của các ngươi đã thách thức Tôi, đã thử Tôi, dù đã thấy công việc của Tôi.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nơi đó"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "đã thách thức Tôi"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "các cha ông của các ngươi"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "đã thử Tôi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "dù"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "đã thấy"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "công việc của Tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:21.663674138Z",
+  "model": "glm-5.3"
+}

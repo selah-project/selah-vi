@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 44:1",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Và ⟨ngài⟩ đưa tôi quay trở lại theo lối cổng ⟨את⟩ thánh điện ngoài, cái cổng hướng về phía đông, và nó đóng kín.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "đưa quay trở lại"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "tôi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "theo lối"
+    },
+    {
+      "surface": "שער",
+      "gloss": "cổng"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "thánh điện"
+    },
+    {
+      "surface": "החיצון",
+      "gloss": "ngoài"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "hướng về"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "phía đông"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "và nó"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "đóng kín"
+    }
+  ],
+  "timestamp": "2026-08-19T04:42:48.659343810Z",
+  "model": "glm-5.3"
+}

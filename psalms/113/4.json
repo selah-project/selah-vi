@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 113,
+  "translation": "Yahweh ⟨vô cùng⟩ cao vượt trên mọi dân tộc, và vinh quang của Ngài vượt trên các tầng trời.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "cao vượt"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "dân tộc"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "các tầng trời"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "vinh quang của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:38.124912539Z",
+  "model": "glm-5.3"
+}

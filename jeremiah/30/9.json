@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 30:9",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Và chúng sẽ phụng sự ⟨את⟩ Yahweh Elohim của chúng, và ⟨את⟩ David vua của chúng, mà Ta sẽ dựng lên cho chúng.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "và sẽ phụng sự"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Elohim của chúng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim của chúng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "David vua của chúng"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "vua của chúng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "Ta sẽ dựng lên"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:24:31.149275341Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 8:15",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và người ta làm thịt nó; Moshe lấy ⟨את⟩ huyết và đặt trên các sừng bàn thờ chung quanh bằng ngón tay mình, và tẩy sạch ⟨את⟩ bàn thờ; còn ⟨את⟩ huyết thì đổ ra nơi nền bàn thờ, và thánh hóa nó, để làm lễ chuộc tội trên nó.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "và làm thịt"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "và lấy"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huyết"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "huyết"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "và đặt"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "các sừng"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "chung quanh"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "bằng ngón tay mình"
+    },
+    {
+      "surface": "ויחטא",
+      "gloss": "và tẩy sạch tội"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bàn thờ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "huyết"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "huyết"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "đổ ra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "về"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "nền"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "ויקדשהו",
+      "gloss": "và thánh hóa nó"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "để chuộc tội"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "trên nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:41:47.751736794Z",
+  "model": "glm-5.3"
+}

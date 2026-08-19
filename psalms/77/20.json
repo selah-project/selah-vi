@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 77,
+  "translation": "Trong biển ⟨là⟩ con đường của Ngài, và các lối Ngài ⟨nằm⟩ trong nước nhiều; nhưng các dấu chân của Ngài — không ai biết được.",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "trong biển"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "con đường của Ngài"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "và các lối của Ngài"
+    },
+    {
+      "surface": "במים",
+      "gloss": "trong nước"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nhiều"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "và các dấu chân của Ngài"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "được biết"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:51.400330419Z",
+  "model": "glm-5.3"
+}

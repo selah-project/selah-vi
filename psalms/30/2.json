@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 30:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Tôi sẽ tôn cao Ngài, Yahweh, vì Ngài đã kéo tôi lên, và không cho kẻ thù tôi ⟨được⟩ vui mừng vì tôi.",
+  "tokens": [
+    {
+      "surface": "ארוממך",
+      "gloss": "tôi sẽ tôn cao Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "דליתני",
+      "gloss": "Ngài đã kéo tôi lên"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "Ngài đã làm vui mừng"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "kẻ thù tôi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vì tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:59.455833648Z",
+  "model": "glm-5.3"
+}

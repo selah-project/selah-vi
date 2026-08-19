@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 52,
+  "translation": "Vì như vậy Yahweh đã phán: không công ⟨mà⟩ các ngươi đã bị bán, và không bằng bạc các ngươi sẽ được chuộc lại.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "כה",
+      "gloss": "như vậy"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "đã phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "không công"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "các ngươi đã bị bán"
+    },
+    {
+      "surface": "ו",
+      "gloss": "và"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "bằng bạc"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "các ngươi sẽ được chuộc lại"
+    }
+  ],
+  "timestamp": "2026-08-19T04:14:44.714078706Z",
+  "model": "glm-5.3"
+}

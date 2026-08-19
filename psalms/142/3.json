@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 142:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 142,
+  "translation": "Tôi đổ tràn nỗi tâm tư mình ra trước mặt Ngài; nỗi khốn khổ của tôi, trước mặt Ngài tôi tỏ ra.",
+  "tokens": [
+    {
+      "surface": "אשפך",
+      "gloss": "tôi đổ tràn"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "trước mặt Ngài"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "nỗi tâm tư mình"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "nỗi khốn khổ của tôi"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "trước mặt Ngài"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "tôi tỏ ra"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:32.925054613Z",
+  "model": "glm-5.3"
+}

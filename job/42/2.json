@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 42,
+  "translation": "Tôi biết rằng Ngài làm được ⟨is⟩ mọi sự, và không mưu toan nào bị ngăn trở khỏi Ngài.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "tôi biết"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi sự"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "Ngài làm được"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "bị ngăn trở"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "khỏi Ngài"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "mưu toan"
+    }
+  ],
+  "timestamp": "2026-08-19T05:28:23.726513581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Và người Mitsri sẽ biết rằng Ta là Yahweh, khi Ta giơ ⟨את⟩ tay Ta lên trên Mitsrayim, và Ta đem ⟨את⟩ con cái Yisrael ra khỏi giữa chúng.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "và sẽ biết"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "người Mitsri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "khi Ta giơ ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tay Ta"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tay Ta"
+    },
+    {
+      "surface": "על",
+      "gloss": "lên trên"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "và Ta đem ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con cái Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "khỏi giữa chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:28:05.679016065Z",
+  "model": "glm-5.3"
+}

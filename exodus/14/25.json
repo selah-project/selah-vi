@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 14:25",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Ngài đã gỡ ⟨את⟩ bánh xe các chiến xa của họ và làm chúng đi nặng nề; người Mitzrayim nói: Ta hãy trốn khỏi mặt Yisra'el, vì Yahweh chiến đấu cho họ chống Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "đã gỡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bánh xe"
+    },
+    {
+      "surface": "אפן",
+      "gloss": "bánh xe"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "các chiến xa của họ"
+    },
+    {
+      "surface": "וינהגהו",
+      "gloss": "và làm chúng đi"
+    },
+    {
+      "surface": "בכבדת",
+      "gloss": "nặng nề"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "אנוסה",
+      "gloss": "ta hãy trốn"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "khỏi mặt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "chiến đấu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho họ"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "chống Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T02:31:14.463099543Z",
+  "model": "glm-5.3"
+}

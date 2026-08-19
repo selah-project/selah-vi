@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Vì với mọi điều mong muốn có thời điểm và phán quyết; vì sự ác của con người rất lớn đè trên nó.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "với mọi"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "điều mong muốn"
+    },
+    {
+      "surface": "יש",
+      "gloss": "có"
+    },
+    {
+      "surface": "עת",
+      "gloss": "thời điểm"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "và phán quyết"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "sự ác"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "của con người"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "rất lớn"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "trên nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:52.175251527Z",
+  "model": "glm-5.3"
+}

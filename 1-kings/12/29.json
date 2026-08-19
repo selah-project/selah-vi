@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Và người đặt con này ⟨את⟩ tại Beit-El, còn con kia ⟨את⟩ thì đặt tại Dan.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "và người đặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con này (hệ-cái thứ nhất)"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "con này"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "tại Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-El"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con kia (hệ-cái thứ hai)"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "con kia"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "đặt"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "tại Dan"
+    }
+  ],
+  "timestamp": "2026-08-19T03:51:53.129583537Z",
+  "model": "glm-5.3"
+}

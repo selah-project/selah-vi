@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Elohim thông suốt con đường của nó, và Ngài biết ⟨את⟩ chỗ của nó.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "thông suốt"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "con đường của nó"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "và Ngài"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "biết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chỗ của nó"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "chỗ của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:25:13.229197190Z",
+  "model": "glm-5.3"
+}

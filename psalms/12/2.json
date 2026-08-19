@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Xin cứu giúp, hỡi Yahweh, vì kẻ nhân đức đã hết, vì những người trung tín đã biến mất khỏi con cháu loài người.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "xin cứu giúp"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "đã hết"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "kẻ nhân đức"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "đã biến mất"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "những người trung tín"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "khỏi con cháu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "loài người"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:04.647849564Z",
+  "model": "glm-5.3"
+}

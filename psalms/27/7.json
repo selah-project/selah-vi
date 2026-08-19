@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Hỡi Yahweh, hãy nghe tiếng tôi khi tôi kêu cầu; xin ban ơn cho tôi và đáp lời tôi.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "hãy-nghe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "tiếng-tôi"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "tôi-kêu-cầu"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "và-ban-ơn-cho-tôi"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "và-đáp-lời-tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:04.513092773Z",
+  "model": "glm-5.3"
+}

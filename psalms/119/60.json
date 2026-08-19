@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Tôi đã vội vàng, và không trì hoãn, để gìn giữ các điều răn của Ngài.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "tôi đã vội vàng"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "trì hoãn"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "để gìn giữ"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "các điều răn của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:39.610047501Z",
+  "model": "glm-5.3"
+}

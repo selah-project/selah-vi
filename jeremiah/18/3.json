@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 18:3",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Thì tôi xuống nhà của thợ gốm, và kìa ⟨hen⟩, ông đang làm công việc trên hai hòn đá xoay.",
+  "tokens": [
+    {
+      "surface": "וארד",
+      "gloss": "thì tôi xuống"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "của thợ gốm"
+    },
+    {
+      "surface": "והנהו",
+      "gloss": "và kìa ⟨hen⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ông đang làm"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "công việc"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "hai hòn đá xoay"
+    }
+  ],
+  "timestamp": "2026-08-19T04:22:02.704624986Z",
+  "model": "glm-5.3"
+}

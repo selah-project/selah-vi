@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Nhưng họ quên ⟨את⟩ Yahweh Elohim của mình, và Ngài bán họ vào tay Sisera, thủ lãnh quân đội của Chatsor, vào tay người Phlishtim, và vào tay vua Moav; và chúng giao tranh chống họ.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "và họ đã quên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim của mình"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "và Ngài đã bán"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "họ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "vào tay"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "שר",
+      "gloss": "thủ lãnh"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "quân đội"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "của Chatsor"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "và vào tay"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "người Phlishtim"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "và vào tay"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "và chúng đã giao tranh"
+    },
+    {
+      "surface": "בם",
+      "gloss": "chống họ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:32:30.122852613Z",
+  "model": "glm-5.3"
+}

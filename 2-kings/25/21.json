@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Và vua Bavel đánh ⟨את⟩ họ và đã giết họ tại Rivlah, trong đất Hamat; và Yehudah đã bị đày khỏi đất của mình.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "đã đánh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ họ",
+      "marks": "họ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "và đã giết họ"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "tại Rivlah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trong đất"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "và đã bị đày"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "đất của mình"
+    }
+  ],
+  "timestamp": "2026-08-19T04:03:59.916711055Z",
+  "model": "glm-5.3"
+}

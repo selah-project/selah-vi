@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 14:8",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "và ta xé ⟨את⟩ vương quốc khỏi nhà David và ta ban nó cho ngươi; nhưng ngươi đã không như David tôi tớ ta, người đã giữ các điều răn của ta, người đã đi theo ta hết lòng mình, để chỉ làm điều ngay thẳng trong mắt ta,",
+  "tokens": [
+    {
+      "surface": "ואקרע",
+      "gloss": "và ta xé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vương quốc"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "vương quốc"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "khỏi nhà"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "và ta ban nó"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngươi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nhưng ngươi đã không"
+    },
+    {
+      "surface": "היית",
+      "gloss": "như"
+    },
+    {
+      "surface": "כעבדי",
+      "gloss": "tôi tớ ta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "người"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "đã giữ"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "các điều răn của ta"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "và người"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "đã đi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "theo ta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hết"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "lòng mình"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "để làm"
+    },
+    {
+      "surface": "רק",
+      "gloss": "chỉ"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "điều ngay thẳng"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "trong mắt ta"
+    }
+  ],
+  "timestamp": "2026-08-19T03:52:15.209298417Z",
+  "model": "glm-5.3"
+}

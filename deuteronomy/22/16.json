@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "và cha của cô gái trẻ sẽ nói với các trưởng lão: ⟨את⟩ con gái tôi tôi đã cho người đàn ông này làm vợ, và hắn đã ghét nàng.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "và sẽ nói"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "cha của"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "cô gái trẻ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "các trưởng lão"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con gái tôi"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "con gái tôi"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "tôi đã cho"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "người đàn ông"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "làm vợ"
+    },
+    {
+      "surface": "וישנאה",
+      "gloss": "và hắn đã ghét nàng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:10:01.250477854Z",
+  "model": "glm-5.3"
+}

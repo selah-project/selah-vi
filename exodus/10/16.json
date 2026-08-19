@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Paroh vội vàng đòi Moshe và Aharon, và nói: Tôi đã phạm tội với Yahweh Elohim của các ông, và với các ông.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "vội vàng"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "đòi gọi"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "cho Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "và cho Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "tôi đã phạm tội"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "với Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim của các ông"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "và với các ông"
+    }
+  ],
+  "timestamp": "2026-08-19T02:30:05.212201918Z",
+  "model": "glm-5.3"
+}

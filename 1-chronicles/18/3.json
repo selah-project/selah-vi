@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 18:3",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Daviđ đánh ⟨את⟩ Hađađezer vua của Xôva, tận Khamát, khi ông đi thiết lập quyền lực của mình tại sông Phơrat.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "đánh"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Daviđ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hađađezer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hađađezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Xôva"
+    },
+    {
+      "surface": "חמתה",
+      "gloss": "tận Khamát"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "khi ông đi"
+    },
+    {
+      "surface": "להציב",
+      "gloss": "thiết lập"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "quyền lực của ông"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "tại sông"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Phơrat"
+    }
+  ],
+  "timestamp": "2026-08-19T05:51:04.993689463Z",
+  "model": "glm-5.3"
+}

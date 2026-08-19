@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 7:4",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Nếu chúng ta nói, 'Hãy vào thành', thì nạn đói ở trong thành và chúng ta sẽ chết ở đó; còn nếu chúng ta ngồi đây, chúng ta cũng chết. Vậy bây giờ hãy đến, và chúng ta sẽ nộp mình vào trại Aram: nếu họ cho chúng ta sống, chúng ta sẽ sống; còn nếu họ giết chúng ta, thì chúng ta chết.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "אמרנו",
+      "gloss": "chúng ta nói"
+    },
+    {
+      "surface": "נבוא",
+      "gloss": "hãy vào"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "thành"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "thì nạn đói"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ở trong thành"
+    },
+    {
+      "surface": "ומתנו",
+      "gloss": "và chúng ta chết"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ở đó"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "còn nếu"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "chúng ta ngồi"
+    },
+    {
+      "surface": "פה",
+      "gloss": "đây"
+    },
+    {
+      "surface": "ומתנו",
+      "gloss": "chúng ta cũng chết"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "vậy bây giờ"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "hãy đến"
+    },
+    {
+      "surface": "ונפלה",
+      "gloss": "và chúng ta sẽ nộp mình"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vào"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "trại"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "יחינו",
+      "gloss": "họ cho sống"
+    },
+    {
+      "surface": "נחיה",
+      "gloss": "chúng ta sẽ sống"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "còn nếu"
+    },
+    {
+      "surface": "ימיתנו",
+      "gloss": "họ giết chúng ta"
+    },
+    {
+      "surface": "ומתנו",
+      "gloss": "thì chúng ta chết"
+    }
+  ],
+  "timestamp": "2026-08-19T06:10:48.767550600Z",
+  "model": "glm-5.3"
+}

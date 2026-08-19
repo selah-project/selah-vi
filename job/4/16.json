@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 4:16",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Nó đứng lại, nhưng tôi không nhận ra hình dạng của nó — một bóng hình trước mắt tôi; ⟨trong⟩ yên lặng ⟨và⟩ tôi nghe một tiếng nói.",
+  "tokens": [
+    {
+      "surface": "יעמד",
+      "gloss": "nó đứng lại"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nhưng không"
+    },
+    {
+      "surface": "אכיר",
+      "gloss": "tôi nhận ra"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "hình dạng của nó"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "một bóng hình"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "trước"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mắt tôi"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "yên lặng"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "và một tiếng"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "tôi nghe"
+    }
+  ],
+  "timestamp": "2026-08-19T06:20:10.939454385Z",
+  "model": "glm-5.3"
+}

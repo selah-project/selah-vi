@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Trong ngày đó Adonai sẽ cất bỏ ⟨את⟩ vẻ huy hoàng của các vòng đeo chân, và các dải băng, và các hình trăng lưỡi liềm.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "trong ngày"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "đó"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "sẽ cất bỏ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vẻ huy hoàng"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "vẻ huy hoàng"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "các vòng đeo chân"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "và các dải băng"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "và các hình trăng lưỡi liềm"
+    }
+  ],
+  "timestamp": "2026-08-19T04:03:32.600562839Z",
+  "model": "glm-5.3"
+}

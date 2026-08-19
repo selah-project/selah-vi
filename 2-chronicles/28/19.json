@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 28:19",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Vì Yahweh đã hạ thấp ⟨את⟩ Yehudah vì cớ Achaz, vua của Yisrael; vì ⟨hắn⟩ đã buông lỏng kiêng chế trong Yehudah, và phạm lỗi phản nghịch chống Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "הכניע",
+      "gloss": "đã hạ thấp"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "vì cớ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua của"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "הפריע",
+      "gloss": "đã buông lỏng"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "trong Yehudah"
+    },
+    {
+      "surface": "ומעול",
+      "gloss": "và phạm lỗi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "phản nghịch"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "chống Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T05:59:17.022024998Z",
+  "model": "glm-5.3"
+}

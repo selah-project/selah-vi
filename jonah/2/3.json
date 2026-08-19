@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 2:3",
+  "book": "jonah",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và đã nói: Vì cơn khốn khổ của tôi, tôi đã kêu cầu ⟨אל⟩ Yahweh, và Ngài đã đáp lời tôi; từ bụng của Sheol tôi đã kêu van, Ngài đã nghe tiếng của tôi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và đã nói"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "tôi đã kêu cầu"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "khốn khổ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "của tôi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨אל⟩ đến"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "và Ngài đã đáp tôi"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "từ bụng"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "tôi đã kêu van"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "Ngài đã nghe"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "tiếng tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:16:24.278082539Z",
+  "model": "glm-5.3"
+}

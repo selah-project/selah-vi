@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Yahweh, tôi đã yêu chỗ ở của nhà Ngài, và nơi cư ngụ của vinh quang Ngài.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "tôi đã yêu"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "chỗ ở"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "của nhà Ngài"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "và nơi"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "cư ngụ (đền tạm)"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "của vinh quang Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:46.529286084Z",
+  "model": "glm-5.3"
+}

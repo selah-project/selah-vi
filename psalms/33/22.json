@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 33,
+  "translation": "Xin chúa nghĩa חסדך của Yahweh ⟨hãy⟩ đến trên chúng tôi, như chúng tôi đã trông đợi nơi Ngài.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "xin ⟨hãy⟩ đến \/ nguyện là"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "lòng nhân nghĩa của Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "trên chúng tôi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "chúng tôi đã trông đợi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nơi Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:25.919722596Z",
+  "model": "glm-5.3"
+}

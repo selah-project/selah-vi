@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và cả tay của Yahweh cũng ⟨đã⟩ ở trên họ để đánh cho họ bị tiêu diệt khỏi giữa trại quân, cho đến tận số họ.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "và cả"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨đã⟩ ở"
+    },
+    {
+      "surface": "בם",
+      "gloss": "trên họ"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "để đánh cho tiêu diệt"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "khỏi giữa"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "trại quân"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "tận số của họ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:04:36.655516914Z",
+  "model": "glm-5.3"
+}

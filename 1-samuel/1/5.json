@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 1:5",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và cho Channah ông cho một phần mặt-đôi, vì ⟨את⟩ Channah ông yêu, còn Yahweh đã đóng tử cung của bà.",
+  "tokens": [
+    {
+      "surface": "ולחנה",
+      "gloss": "và cho Channah"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ông cho"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "một phần"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "một"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "mặt-đôi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Channah"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Channah"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ông yêu"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "còn Yahweh"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "đã đóng"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "tử cung của bà"
+    }
+  ],
+  "timestamp": "2026-08-19T03:29:17.018323466Z",
+  "model": "glm-5.3"
+}

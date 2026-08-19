@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và đây là điều ngươi hãy làm ⟨את⟩ nó: ba trăm khổ-cubits chiều-dài của chiếc thùng, năm mươi khổ-cubits bề-rộng của nó, và ba mươi khổ-cubits chiều-cao của nó.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "và đây"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "điều mà"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ngươi hãy làm"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nó (cách chế tác chiếc thùa)"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ba"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "trăm"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "khổ-cubit"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "chiều-dài"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "của chiếc thùng"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "năm mươi"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "khổ-cubit"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "bề-rộng của nó"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "và ba mươi"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "khổ-cubit"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "chiều-cao của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:23:41.195960110Z",
+  "model": "glm-5.3"
+}

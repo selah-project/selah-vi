@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 109,
+  "translation": "Và con cái ⟨của ông⟩ lang thang bất định, khất thực, và tìm kiếm bánh từ đống đổ nát ⟨của chúng⟩.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "và lang thang"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "chúng lêu bổng bất định"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "con cái của ông"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "và khất thực"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "và tìm kiếm"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "từ đống đổ nát của chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:49.942991014Z",
+  "model": "glm-5.3"
+}

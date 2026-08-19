@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Hãy nói cùng sự khôn ngoan: 'Ngươi là chị của con ⟨את⟩', và gọi sự thông sáng là thân nhân của con.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "hãy nói"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "cùng sự khôn ngoan"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "chị của con"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngươi"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "và người thân"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "cùng sự thông sáng"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "con hãy gọi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:15:36.116546914Z",
+  "model": "glm-5.3"
+}

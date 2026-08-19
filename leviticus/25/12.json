@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Vì yovel, nó — thánh — sẽ là cho các ngươi; từ ruộng các ngươi sẽ ăn ⟨את⟩ sản vật của nó.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "yovel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "thánh"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sẽ là"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho các ngươi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ruộng"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "các ngươi sẽ ăn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sản vật của nó"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "sản vật của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:47:58.812360297Z",
+  "model": "glm-5.3"
+}

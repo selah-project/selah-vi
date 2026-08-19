@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 22:1",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Và dân cư Yerushalayim lập ⟨את⟩ Akhaziahu con trai út của ông làm vua thay thế ông, vì đoàn cướp đã giết hết các con trưởng nam khi chúng cùng người Ả-rập vào trại; và Akhaziahu con trai Yehoram vua Yehudah lên ngôi.",
+  "tokens": [
+    {
+      "surface": "וימליכו",
+      "gloss": "làm cho... lên ngôi vua"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "dân cư của"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akhaziahu"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Akhaziahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "con trai của ông"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "út"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "thay thế ông"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hết thảy"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "các con trưởng nam"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "đã giết"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "đoàn cướp"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "đã vào"
+    },
+    {
+      "surface": "בערבים",
+      "gloss": "cùng người Ả-rập"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "vào trại"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "lên ngôi"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Akhaziahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:58:55.838394084Z",
+  "model": "glm-5.3"
+}

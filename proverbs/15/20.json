@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 15:20",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Con trai khôn ngoan làm cho cha vui mừng, và người-dàng-dam kesil khinh dể mẹ mình.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "khôn ngoan"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "làm cho… vui mừng"
+    },
+    {
+      "surface": "אב",
+      "gloss": "cha"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "và kẻ dại kesil"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "người"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "khinh dể"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mẹ mình"
+    }
+  ],
+  "timestamp": "2026-08-19T06:19:29.248529912Z",
+  "model": "glm-5.3"
+}

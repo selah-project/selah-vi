@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Chúng sẽ không bị hổ thẹn trong thì gian ác, và trong những ngày đói kém chúng sẽ được no đủ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "bị hổ thẹn"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "trong thì gian"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ác"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "và trong những ngày"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "đói kém"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "được no đủ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:10.111530023Z",
+  "model": "glm-5.3"
+}

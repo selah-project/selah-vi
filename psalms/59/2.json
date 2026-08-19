@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 59,
+  "translation": "Hãy cứu tôi khỏi kẻ thù tôi, Elohim của tôi; khỏi những kẻ nổi lên chống tôi, hãy đặt tôi nơi cao_safe.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "hãy cứu tôi"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "khỏi kẻ thù tôi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của tôi"
+    },
+    {
+      "surface": "ממתקוממי",
+      "gloss": "khỏi những kẻ nổi lên chống tôi"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "hãy đặt tôi nơi cao"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:58.013180899Z",
+  "model": "glm-5.3"
+}

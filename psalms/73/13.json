@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 73,
+  "translation": "Chỉ là vô ích mà con đã làm tinh sạch lòng mình, và rửa tay mình trong sự vô tội.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "chỉ"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "vô ích"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "con đã làm tinh sạch"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "lòng mình"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "và con rửa"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "trong sự vô tội"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "tay mình"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:06.961812194Z",
+  "model": "glm-5.3"
+}

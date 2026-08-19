@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Va Yaakov cư ngụ trong xứ khách trú của cha mình, trong xứ Kenaan.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "cư ngụ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trong xứ"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "chỗ khách trú"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "cha mình"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trong xứ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-19T01:23:50.225402287Z",
+  "model": "glm-5.3"
+}

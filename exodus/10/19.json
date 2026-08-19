@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 10:19",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Và Yahweh đảo một ngọn gió biển rất mạnh, và nó cuốn ⟨את⟩ đám chuồn chuồn lên, và thổi nó vào biển Sên Pháy; không còn sót một con chuồn chuồn nào trong toàn cõi Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "và đảo chiều"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ngọn gió"
+    },
+    {
+      "surface": "ים",
+      "gloss": "biển"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "mạnh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "rất"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "và nó cuốn lên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đám chuồn chuồn"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "đám chuồn chuồn"
+    },
+    {
+      "surface": "ויתקעהו",
+      "gloss": "và thổi nó vào"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "vào biển"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Sên Pháy (sậy)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "còn sót"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "con chuồn chuồn"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "một con"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "trong toàn"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "cõi\/biên giới"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T02:30:17.817834670Z",
+  "model": "glm-5.3"
+}

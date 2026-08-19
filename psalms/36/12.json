@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 36:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 36,
+  "translation": "Đừng để bàn chân của sự kiêu ngạo ⟨xâm phạm⟩ tôi, và bàn tay của kẻ ác — đừng để nó xua đuổi tôi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תבואני",
+      "gloss": "nó đến [vượt qua] tôi"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "bàn chân"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "của sự kiêu ngạo"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "và bàn tay"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "của kẻ ác"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תנדני",
+      "gloss": "xua đuổi tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:47.156316613Z",
+  "model": "glm-5.3"
+}

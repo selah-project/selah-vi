@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Vậy ⟨anh⟩ quay lại ⟨את⟩ ⟨hắn⟩, và ⟨hắn⟩ ăn bánh trong nhà ⟨hắn⟩, và ⟨hắn⟩ uống nước.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "và ⟨anh⟩ quay lại"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨hắn⟩",
+      "marks": "⟨hắn⟩ (người của Elohim)"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "và ⟨hắn⟩ ăn"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bánh"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "trong nhà ⟨hắn⟩"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "và ⟨hắn⟩ uống"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    }
+  ],
+  "timestamp": "2026-08-19T03:52:05.122557699Z",
+  "model": "glm-5.3"
+}

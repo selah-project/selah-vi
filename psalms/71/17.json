@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 71,
+  "translation": "Elohim, Ngài đã dạy con từ thuở trẻ, và cho đến nay con sẽ kể lại những việc kỳ diệu của Ngài.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "Ngài đã dạy con"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "từ thuở trẻ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "và cho đến"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "nay"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "con sẽ kể lại"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "những việc kỳ diệu của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:34.319010794Z",
+  "model": "glm-5.3"
+}

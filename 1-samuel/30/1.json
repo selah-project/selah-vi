@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Xảy ra, khi David cùng những người của ông đến Tsiklag vào ngày thứ ba, thì dân Amalek đã tràn cướp miền Nam và tràn đến Tsiklag; chúng đánh phá ⟨את⟩ Tsiklag và thiêu ⟨את⟩ nó trong lửa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "xảy ra"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "khi đến"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "cùng những người của ông"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "vào ngày"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "thứ ba"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "dân Amalek"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "đã tràn cướp"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vào"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "miền Nam"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và đến"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "chúng đánh phá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "và thiêu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nó"
+    },
+    {
+      "surface": "באש",
+      "gloss": "trong lửa"
+    }
+  ],
+  "timestamp": "2026-08-19T03:38:17.634481743Z",
+  "model": "glm-5.3"
+}

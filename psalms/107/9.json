@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 107,
+  "translation": "Vì Ngài đã làm cho no lòng ⟨את⟩ người sống khát khao, và ⟨את⟩ người đang đói Ngài đã đầy dẫy điều tốt lành.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "đã làm cho no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người sống khát khao"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "người sống"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "khát khao"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "và người sống"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "đang đói"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "đã đầy dẫy"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "điều tốt lành"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:56.862344007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 55:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 55,
+  "translation": "Hãy lắng tai nghe, Elohim, lời cầu nguyện của tôi, và chớ che giấu ⟨mình⟩ khỏi lời khẩn cầu của tôi.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "hãy lắng tai nghe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "lời cầu nguyện của tôi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và chớ"
+    },
+    {
+      "surface": "תתעלם",
+      "gloss": "che giấu"
+    },
+    {
+      "surface": "מתחנתי",
+      "gloss": "khỏi lời khẩn cầu của tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:41.336438450Z",
+  "model": "glm-5.3"
+}

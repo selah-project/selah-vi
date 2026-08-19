@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 109,
+  "translation": "Nguyện con cái ⟨của ông⟩ trở thành mồ côi, và vợ ⟨của ông⟩ thành goá phụ.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "nguyện trở thành"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "con cái của ông"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "mồ côi"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "và vợ của ông"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "goá phụ"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:49.942772437Z",
+  "model": "glm-5.3"
+}

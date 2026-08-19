@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 86,
+  "translation": "Trong ngày gian nan của tôi tôi sẽ kêu cầu Ngài, vì Ngài sẽ đáp lời tôi.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Trong ngày"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "gian nan của tôi"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "tôi sẽ kêu cầu Ngài"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "Ngài sẽ đáp lời tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:23.834725484Z",
+  "model": "glm-5.3"
+}

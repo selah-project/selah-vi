@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 1:6",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Hãy mạnh dạn và can đảm, vì ngươi sẽ cho dân ⟨את⟩ này kế thừa ⟨את⟩ đất mà Ta đã thề với tổ phụ họ để ban cho họ.",
+  "tokens": [
+    {
+      "surface": "חזק",
+      "gloss": "hãy mạnh dạn"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "và can đảm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "תנחיל",
+      "gloss": "sẽ cho kế thừa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân này"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đất"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "Ta đã thề"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "với tổ phụ họ"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "để ban"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho họ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:15:39.191021404Z",
+  "model": "glm-5.3"
+}

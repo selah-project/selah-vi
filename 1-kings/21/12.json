@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 21:12",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Họ đã truyền kêu lễ kiêng ăn, và đã đặt ⟨את⟩ Navot ở đầu của dân chúng.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "họ đã truyền kêu"
+    },
+    {
+      "surface": "צום",
+      "gloss": "lễ kiêng ăn"
+    },
+    {
+      "surface": "והשיבו",
+      "gloss": "và đã đặt ngồi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Navot"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "ở đầu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "của dân chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:53:46.088822253Z",
+  "model": "glm-5.3"
+}

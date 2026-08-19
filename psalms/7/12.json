@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Elohim ⟨là⟩ thẩm phán công chính, và El hầm hực thịnh nộ mỗi ngày.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "thẩm phán"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "công chính"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và El"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "hầm hực thịnh nộ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mỗi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ngày"
+    }
+  ],
+  "timestamp": "2026-08-19T04:54:44.042690373Z",
+  "model": "glm-5.3"
+}

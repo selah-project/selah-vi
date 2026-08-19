@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 121,
+  "translation": "Ban ngày mặt trời sẽ không đánh ngươi, và mặt trăng ban đêm.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "ban ngày"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "mặt trời"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "sẽ đánh ngươi"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "và mặt trăng"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ban đêm"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:31.781695436Z",
+  "model": "glm-5.3"
+}

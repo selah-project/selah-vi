@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 4:24",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Tôi đã nhìn các núi, và kìa chúng rung chuyển; và mọi đồi núi đều xiêu vẹo.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "tôi đã nhìn"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "các núi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "và kìa"
+    },
+    {
+      "surface": "רעשים",
+      "gloss": "chúng rung chuyển"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "đồi núi"
+    },
+    {
+      "surface": "התקלקלו",
+      "gloss": "xiêu vẹo"
+    }
+  ],
+  "timestamp": "2026-08-19T04:17:38.156234614Z",
+  "model": "glm-5.3"
+}

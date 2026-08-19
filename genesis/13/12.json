@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 13:12",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Avram ở trong đất Kenaan, còn Lot ở trong các thành của đồng bằng, và dựng trại cho đến Sedom.",
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ở"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trong đất"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "còn Lot"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ở"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "trong các thành"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "của đồng bằng"
+    },
+    {
+      "surface": "ויאהל",
+      "gloss": "và dựng trại"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    }
+  ],
+  "timestamp": "2026-08-19T00:54:32.328383721Z",
+  "model": "glm-5.3"
+}

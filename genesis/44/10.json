@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 44:10",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Người ấy nói: Bây giờ cũng vậy, theo lời các ngươi thì đúng như vậy; kẻ nào nó được tìm thấy ⟨אתו⟩ thì sẽ trở thành nô lệ của tôi, còn các ngươi sẽ được vô tội.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "người ấy nói"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cũng"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "bây giờ"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "theo lời các ngươi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "thì đúng như vậy"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó là"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kẻ nào"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "được tìm thấy"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "nó (chén bạc)"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sẽ trở thành"
+    },
+    {
+      "surface": "לי",
+      "gloss": "của tôi"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "nô lệ"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "còn các ngươi"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "sẽ được"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "vô tội"
+    }
+  ],
+  "timestamp": "2026-08-19T02:25:11.599328471Z",
+  "model": "glm-5.3"
+}

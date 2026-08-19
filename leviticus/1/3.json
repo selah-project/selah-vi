@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 1:3",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Nếu lễ toàn thiêu của người là từ bò, con đực không tì vết, người sẽ dâng nó; đến lối vào Trại Hội Kiến người sẽ dâng ⟨את⟩ nó để được chấp nhận, trước mặt Yahweh.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "lễ toàn thiêu"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "lễ vật của người"
+    },
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "bò"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "con đực"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "không tì vết"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "người sẽ dâng nó"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "lối vào"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Trại"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Hội Kiến"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "người sẽ dâng"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nó (con vật dâng)"
+    },
+    {
+      "surface": "לרצנו",
+      "gloss": "để được chấp nhận"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:40:08.015836850Z",
+  "model": "glm-5.3"
+}

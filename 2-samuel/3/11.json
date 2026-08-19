@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và ông không còn có thể trả lại ⟨את⟩ Avner một lời nào nữa, vì ông sợ người ấy.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "có thể"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "còn"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "để trả lại"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner (một lời)"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "một lời"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "vì sợ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "người ấy"
+    }
+  ],
+  "timestamp": "2026-08-19T03:39:18.461971586Z",
+  "model": "glm-5.3"
+}

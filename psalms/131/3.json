@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 131,
+  "translation": "Hỡi Yisrael, hãy trông đợi Yahweh, từ nay và cho đến mãi mãi.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "hãy trông đợi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nơi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "từ nay"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "và cho đến"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mãi mãi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:19:05.601325697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 4:14",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Va Meonotai sinh ra ⟨את⟩ Ophrah; va Serayah sinh ra ⟨את⟩ Yoav, cha của Gei-harashim; vì họ là thợ thủ công.",
+  "tokens": [
+    {
+      "surface": "ומעונתי",
+      "gloss": "và Meonotai"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "sinh ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ophrah"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "Ophrah"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "và Serayah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "sinh ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "cha của"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "thung lũng"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "Gei-harashim (các thợ thủ công)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "thợ thủ công"
+    },
+    {
+      "surface": "היו",
+      "gloss": "họ là"
+    }
+  ],
+  "timestamp": "2026-08-19T05:47:28.006049590Z",
+  "model": "glm-5.3"
+}

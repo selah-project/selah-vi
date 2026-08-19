@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 55,
+  "translation": "Cho đấng chỉ huy đàn ca, với nhạc cụ dây. Bài ca dạy khôn, của David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "cho đấng chỉ huy đàn ca"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "với nhạc cụ dây"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "bài ca dạy khôn"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "của David"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:41.336228571Z",
+  "model": "glm-5.3"
+}

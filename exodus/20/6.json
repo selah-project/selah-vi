@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "và làm sự nhân từ đến ngàn đời cho những kẻ yêu mến Ta và giữ các mệnh lệnh của Ta.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "và làm"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "sự nhân từ"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "đến ngàn (đời)"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "cho những kẻ yêu mến Ta"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "và cho những kẻ giữ"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "các mệnh lệnh của Ta"
+    }
+  ],
+  "timestamp": "2026-08-19T02:31:57.314742660Z",
+  "model": "glm-5.3"
+}

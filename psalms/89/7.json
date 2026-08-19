@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 89,
+  "translation": "Vì ai trong trời cao có thể sánh với Yahweh? Ai trong số con trai của các El có thể ví được với Yahweh?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "trong trời cao"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "có thể sánh"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "với Yahweh"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "có thể ví"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "với Yahweh"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "trong số con trai của"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "các El"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:27.816524356Z",
+  "model": "glm-5.3"
+}

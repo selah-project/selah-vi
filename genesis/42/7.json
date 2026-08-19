@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 42:7",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 42,
+  "translation": "Yosef thấy ⟨את⟩ các anh em mình, nhận ra họ, nhưng giả làm người lạ với họ, nói với ⟨את⟩ họ những lời gay gắt, và nói với họ: Các ngươi từ đâu đến? Họ đáp: Từ đất Kenaan, để mua lương thực.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "thấy"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các anh em mình"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "các anh em mình"
+    },
+    {
+      "surface": "ויכרם",
+      "gloss": "nhận ra họ"
+    },
+    {
+      "surface": "ויתנכר",
+      "gloss": "giả làm người lạ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "với họ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ với họ"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "gay gắt"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "với họ"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "từ đâu"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "các ngươi đến"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "họ đáp"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "từ đất"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "để mua"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "lương thực"
+    }
+  ],
+  "timestamp": "2026-08-19T06:31:24.541031610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Toàn hội chúng Yisrael phải làm ⟨את⟩ nó.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "toàn"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "hội chúng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "phải làm"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nó (Pesach)"
+    }
+  ],
+  "timestamp": "2026-08-19T02:30:56.367198467Z",
+  "model": "glm-5.3"
+}

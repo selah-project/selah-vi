@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Tiếng Yahweh làm hoang mạc rung chuyển; Yahweh làm hoang mạc Kadesh rung chuyển.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "tiếng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "làm rung chuyển"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "hoang mạc"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "làm rung chuyển"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "hoang mạc"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:07.677642321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Vì không phải trong cung của tôi tôi tin cậy, và gươm của tôi sẽ không cứu tôi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "trong cung của tôi"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "tôi tin cậy"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "và gươm của tôi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "sẽ cứu tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:05.607929274Z",
+  "model": "glm-5.3"
+}

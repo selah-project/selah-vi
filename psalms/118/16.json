@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 118,
+  "translation": "Tay phải Yahweh đã được nhấc cao; tay phải Yahweh làm nên việc hùng dũng.",
+  "tokens": [
+    {
+      "surface": "ימין",
+      "gloss": "tay phải"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רוממה",
+      "gloss": "được nhấc cao"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "tay phải"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "làm"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "việc hùng dũng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:24.223810038Z",
+  "model": "glm-5.3"
+}

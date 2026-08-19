@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 46,
+  "translation": "Vì vậy chúng ta sẽ không sợ khi đất đổi thay, và khi núi non rung chuyển giữa lòng biển.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vậy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "chúng ta sẽ sợ"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "khi đổi thay"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "và khi rung chuyển"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "núi non"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "giữa lòng"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "biển"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:28.763787207Z",
+  "model": "glm-5.3"
+}

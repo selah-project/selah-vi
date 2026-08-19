@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 73,
+  "translation": "Còn tôi, chân tôi gần như ⟨bị⟩ trẹo ngã, các bước tôi hầu như ⟨đã⟩ đổ nhào.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "còn tôi"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "gần như"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "trẹo ngã"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "chân tôi"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "hầu như không còn"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "đổ nhào"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "các bước tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:55.525530598Z",
+  "model": "glm-5.3"
+}

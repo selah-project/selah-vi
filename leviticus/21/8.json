@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Và ngươi hãy thánh hóa người ấy, vì ⟨את⟩ bánh của Elohim ngươi, chính người ấy dâng lên; thánh người ấy sẽ được đối với ngươi, vì thánh chính Ta, Yahweh, Đấng thánh hóa các ngươi.",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "và ngươi hãy thánh hóa người ấy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bánh của Elohim ngươi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bánh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ngươi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chính người ấy"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "dâng lên"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "thánh"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sẽ là"
+    },
+    {
+      "surface": "לך",
+      "gloss": "đối với ngươi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "thánh"
+    },
+    {
+      "surface": "אני",
+      "gloss": "chính Ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "Đấng thánh hóa các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:46:34.459767041Z",
+  "model": "glm-5.3"
+}

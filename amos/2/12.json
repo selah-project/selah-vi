@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Nhưng các ngươi đã cho ⟨את⟩ những người Na-zir uống rượu, và truyền lệnh cho các tiên tri rằng: Chớ nói tiên tri.",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "và các ngươi cho uống"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "những người Na-zir"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "những người Na-zir"
+    },
+    {
+      "surface": "יין",
+      "gloss": "rượu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "và đối với"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "các tiên tri"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "các ngươi truyền lệnh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "nói tiên tri"
+    }
+  ],
+  "timestamp": "2026-08-19T04:46:45.642246181Z",
+  "model": "glm-5.3"
+}

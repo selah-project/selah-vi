@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 76,
+  "translation": "Cho người chỉ huy, theo đàn dây; thánh thi của Asaph; bài hát.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "cho người chỉ huy"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "theo đàn dây"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "thánh thi"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "của Asaph"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "bài hát"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:20.269532029Z",
+  "model": "glm-5.3"
+}

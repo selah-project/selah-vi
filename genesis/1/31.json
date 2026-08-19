@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và Elohim thấy ⟨את⟩ mọi điều ⟨Ngài⟩ đã làm, và kìa, rất tốt. Và có buổi chiều, và có buổi sáng — ngày thứ sáu.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "và thấy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi điều Ngài đã làm"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "điều mà"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "và kìa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tốt"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "rất"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "và có"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "buổi chiều"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "và có"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "buổi sáng"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "thứ sáu"
+    }
+  ],
+  "timestamp": "2026-08-19T00:45:14.634912252Z",
+  "model": "glm-5.3"
+}

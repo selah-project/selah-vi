@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 3:24",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Khi họ đến trại quân của Israel, thì Israel vùng dậy và đánh ⟨את⟩ Moav, nên họ chạy trốn trước mặt họ; và Israel tiến vào trong đất đó, đánh ⟨את⟩ Moav.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "họ đến"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tới"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "trại quân"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "thì vùng dậy"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "đánh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moav"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "nên họ chạy trốn"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "trước mặt họ"
+    },
+    {
+      "surface": "ויבו",
+      "gloss": "và họ tiến vào"
+    },
+    {
+      "surface": "בה",
+      "gloss": "trong nó (đất)"
+    },
+    {
+      "surface": "והכות",
+      "gloss": "đánh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moav"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    }
+  ],
+  "timestamp": "2026-08-19T03:55:53.929252563Z",
+  "model": "glm-5.3"
+}

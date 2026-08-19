@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 7:19",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Vì người chồng không có ở nhà ông, ⟨người ấy⟩ đã đi trên đường xa xôi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "người chồng"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "ở nhà ông"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "đã đi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "trên đường"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "xa xôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:15:14.915143928Z",
+  "model": "glm-5.3"
+}

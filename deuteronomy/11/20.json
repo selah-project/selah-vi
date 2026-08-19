@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "và hãy viết chúng trên khung cửa nhà ngươi và trên cổng thành ngươi.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "và hãy viết chúng"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "khung cửa"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nhà ngươi"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "và trên cổng thành ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:07:44.255570078Z",
+  "model": "glm-5.3"
+}

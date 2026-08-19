@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và người sẽ lấy ⟨את⟩ diều nó cùng lông tuột của nó, và ném nó bên cạnh bàn thờ, về phía đông, đến nơi tro tàn.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "và sẽ lấy đi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diều nó"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "diều nó"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "cùng lông tuột của nó"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "và ném"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "bên cạnh bàn thờ"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "bên cạnh"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "về phía đông"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "nơi"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "tro tàn"
+    }
+  ],
+  "timestamp": "2026-08-19T02:39:54.801067525Z",
+  "model": "glm-5.3"
+}

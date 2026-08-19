@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 18:20",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Mikal con gái Shaul yêu ⟨את⟩ David, và người ta kể cho Shaul, và việc này được đẹp mắt trong mắt ông.",
+  "tokens": [
+    {
+      "surface": "ותאהב",
+      "gloss": "yêu"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "בת",
+      "gloss": "con gái"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "và người ta kể"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "cho Shaul"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "và được đẹp"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "việc"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "trong mắt ông"
+    }
+  ],
+  "timestamp": "2026-08-19T03:34:41.488170558Z",
+  "model": "glm-5.3"
+}

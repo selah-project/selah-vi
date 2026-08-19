@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 90,
+  "translation": "Buổi sáng nó nở hoa rồi trôi qua; chiều tối nó bị cắt và héo khô.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "buổi sáng"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "nó nở hoa"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "rồi trôi qua"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "chiều tối"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "nó bị cắt"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "và héo khô"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:02.505128648Z",
+  "model": "glm-5.3"
+}

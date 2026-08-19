@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 118,
+  "translation": "Tôi sẽ không chết, vì tôi sẽ sống, và sẽ kể lại các việc làm của Yah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "tôi sẽ chết"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "tôi sẽ sống"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "và sẽ kể lại"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "các việc làm của"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:20.086545834Z",
+  "model": "glm-5.3"
+}

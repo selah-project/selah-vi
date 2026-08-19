@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 78,
+  "translation": "⟨Điều⟩ mà chúng ta đã nghe và đã biết, và tổ phụ chúng ta đã kể lại cho chúng ta.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "⟦điều⟧ mà"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "chúng ta đã nghe"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "và đã biết ⟨chúng⟩"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "và tổ phụ chúng ta"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "đã kể lại"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "cho chúng ta"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:57.200266114Z",
+  "model": "glm-5.3"
+}

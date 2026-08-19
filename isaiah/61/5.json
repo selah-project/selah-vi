@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 61:5",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 61,
+  "translation": "Người lạ sẽ đứng ⟨và⟩ chăn dắt đàn chiên của các ngươi, và con cháu của người ngoại bang sẽ làm nông dân và làm người trồng nho cho các ngươi.",
+  "tokens": [
+    {
+      "surface": "ועמדו",
+      "gloss": "sẽ đứng"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "người lạ"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "và chăn dắt"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "đàn chiên của các ngươi"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "và con cháu của"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "người ngoại bang"
+    },
+    {
+      "surface": "אכריכם",
+      "gloss": "làm nông dân cho các ngươi"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "và làm người trồng nho cho các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:16:06.521283079Z",
+  "model": "glm-5.3"
+}

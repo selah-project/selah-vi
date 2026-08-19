@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Và ngươi sẽ làm ⟨את⟩ các ván cho Điện tạm bằng gỗ keo, đứng thẳng.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "và-ngươi-sẽ-làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các ván"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "các-ván"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "cho-Điện-tạm"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "gỗ-của"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "keo"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "đứng-thẳng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:34:49.689313531Z",
+  "model": "glm-5.3"
+}

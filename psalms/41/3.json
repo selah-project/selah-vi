@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 41,
+  "translation": "Yahweh sẽ giữ gìn hắn và cho hắn sống; ⟨Ngài⟩ sẽ làm hắn được bình an trên đất; ngươi chớ phó hắn vào tay kẻ thù nghịch ⟨hắn⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "sẽ giữ gìn hắn"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "và cho hắn sống"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "sẽ làm hắn được bình an"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trên đất"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và chớ"
+    },
+    {
+      "surface": "תתנהu",
+      "gloss": "phó hắn"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "vào tay (khát vọng)"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "kẻ thù nghịch hắn"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:47.521208100Z",
+  "model": "glm-5.3"
+}

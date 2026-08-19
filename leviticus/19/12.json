@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Và chớ nhân danh ta mà thề dối, ngươi sẽ làm ô uế ⟨את⟩ danh Elohim của ngươi; ta là Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "và chớ"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "các ngươi thề"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "nhân danh ta"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "dối trá"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "ngươi sẽ làm ô uế"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "danh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "danh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "của Elohim ngươi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:45:05.501365603Z",
+  "model": "glm-5.3"
+}

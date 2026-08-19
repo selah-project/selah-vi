@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Haman tự kiềm chế, và đến nhà mình; y sai đi và đem ⟨את⟩ các bạn hữu của mình và ⟨את⟩ Zeresh vợ y.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "tự kiềm chế"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "và đến"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tới"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nhà mình"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "và sai đi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "và đem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các bạn hữu của mình"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "các bạn hữu của mình"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zeresh"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zeresh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vợ y"
+    }
+  ],
+  "timestamp": "2026-08-19T05:35:25.014256894Z",
+  "model": "glm-5.3"
+}

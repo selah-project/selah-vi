@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 22:15",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Ta sẽ tan rắc ⟨את⟩ ngươi giữa các dân, và rải ngươi ra trong các xứ, và Ta sẽ chấm dứt sự ô uế của ngươi khỏi ngươi.",
+  "tokens": [
+    {
+      "surface": "והפיצותי",
+      "gloss": "Ta sẽ tan rắc"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ngươi",
+      "marks": "ngươi (đối tượng của 'tan rắc')"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "giữa các dân"
+    },
+    {
+      "surface": "וזריתיך",
+      "gloss": "Ta sẽ rải ngươi ra"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "trong các xứ"
+    },
+    {
+      "surface": "והתמתי",
+      "gloss": "Ta sẽ chấm dứt"
+    },
+    {
+      "surface": "טמאתך",
+      "gloss": "sự ô uế của ngươi"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "khỏi ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:36:25.659822072Z",
+  "model": "glm-5.3"
+}

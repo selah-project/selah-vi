@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và Yahweh làm cho cứng ⟨את⟩ lòng của Paroh, và ông không nghe họ, như Yahweh đã phán với Moshe.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "và làm cho cứng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lòng của Paroh"
+    },
+    {
+      "surface": "לב",
+      "gloss": "lòng"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nghe"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "họ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "đã phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-19T02:29:34.681710102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Và sang năm thứ năm, các ngươi sẽ ăn ⟨את⟩ trái của nó, để thêm cho các ngươi mùa màng của nó; ta là Yahweh Elohim của các ngươi.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "và sang năm"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "thứ năm"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "các ngươi sẽ ăn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trái của nó"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "trái của nó"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "để thêm"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho các ngươi"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "mùa màng của nó"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim của các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:45:55.213715606Z",
+  "model": "glm-5.3"
+}

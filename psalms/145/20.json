@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 145,
+  "translation": "Giữ gìn Yahweh ⟨את⟩ tất cả những kẻ yêu mến Ngài, và ⟨את⟩ tất cả kẻ ác Ngài sẽ hủy diệt.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "giữ gìn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả những kẻ yêu mến Ngài"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "những kẻ yêu mến Ngài"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả kẻ ác"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "sẽ hủy diệt"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:31.155372259Z",
+  "model": "glm-5.3"
+}

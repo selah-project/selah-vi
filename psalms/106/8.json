@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 106,
+  "translation": "Ngài đã cứu họ vì cớ danh Ngài, để làm cho biết ⟨את⟩ quyền năng Ngài.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "Ngài đã cứu họ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "vì cớ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "danh Ngài"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "để làm cho biết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "quyền năng Ngài"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "quyền năng Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:50.123762303Z",
+  "model": "glm-5.3"
+}

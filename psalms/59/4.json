@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 59,
+  "translation": "Vì kìa, chúng rình mạng sống tôi; những kẻ hùng mạnh tụ lại chống tôi — không phải vì phản nghịch tôi, cũng không phải vì tội tôi, Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kìa"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "chúng rình"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "mạng sống tôi"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "chúng tụ lại"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "chống tôi"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "những kẻ hùng mạnh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không phải"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "phản nghịch tôi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không phải"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "tội tôi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:58.013429704Z",
+  "model": "glm-5.3"
+}

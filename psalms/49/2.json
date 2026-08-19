@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 49,
+  "translation": "Hãy nghe điều này, hỡi mọi dân tộc; hãy lắng tai, hỡi tất cả cư dân của ⟨trần thế⟩.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "hãy nghe"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "điều này"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "dân tộc"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "hãy lắng tai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "cư dân"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "trần thế"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:56.087614381Z",
+  "model": "glm-5.3"
+}

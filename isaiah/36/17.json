@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 36,
+  "translation": "Cho đến khi ta đến và đem ⟨אתכם⟩ các ngươi đến một đất như đất của các ngươi, đất của ngũ cốc và rượu mới, đất của bánh mì và vườn nho.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "cho đến khi"
+    },
+    {
+      "surface": "באי",
+      "gloss": "ta đến"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "và ta đem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ các ngươi",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "một đất"
+    },
+    {
+      "surface": "כארצכם",
+      "gloss": "như đất của các ngươi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "của ngũ cốc"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "và rượu mới"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "của bánh mì"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "và vườn nho"
+    }
+  ],
+  "timestamp": "2026-08-19T04:10:41.693671356Z",
+  "model": "glm-5.3"
+}

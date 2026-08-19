@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 66:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 66,
+  "translation": "Ngài biến biển thành đất khô, họ băng qua sông bằng chân; tại đó chúng tôi rejoiced — chúng tôi đã vui mừng trong Ngài.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "Ngài biến"
+    },
+    {
+      "surface": "ים",
+      "gloss": "biển"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "thành đất khô"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "qua sông"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "họ băng qua"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "bằng chân"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tại đó"
+    },
+    {
+      "surface": "נשמחה",
+      "gloss": "chúng tôi vui mừng"
+    },
+    {
+      "surface": "בו",
+      "gloss": "trong Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:52.354025814Z",
+  "model": "glm-5.3"
+}

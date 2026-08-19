@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "⟨Có⟩ một thế hệ rủa cha mình, và ⟨את⟩ mẹ mình không chúc phúc.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "một thế hệ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "cha mình"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "rủa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mẹ mình"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mẹ mình"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "chúc phúc"
+    }
+  ],
+  "timestamp": "2026-08-19T05:19:23.427881111Z",
+  "model": "glm-5.3"
+}

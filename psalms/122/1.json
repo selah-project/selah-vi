@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 122,
+  "translation": "Bài hát của các bước lên. Của David. Tôi đã vui mừng khi họ nói với tôi: «Nhà của Yahweh, chúng ta hãy đi.»",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Bài hát"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "của các bước lên"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "của David"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "tôi đã vui mừng"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "khi họ nói"
+    },
+    {
+      "surface": "לי",
+      "gloss": "với tôi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Nhà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "chúng ta hãy đi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:36.462217464Z",
+  "model": "glm-5.3"
+}

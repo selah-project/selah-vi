@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 1:29",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Vua Daviđ thề rằng: Yahweh hằng sống, Đấng đã cứu chuộc ⟨את⟩ mạng sống tôi khỏi mọi khốn khó.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "vua... thề"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nói rằng"
+    },
+    {
+      "surface": "חי",
+      "gloss": "hằng sống"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Đấng mà"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "đã cứu chuộc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mạng sống tôi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mạng sống tôi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "khỏi mọi"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "khốn khó"
+    }
+  ],
+  "timestamp": "2026-08-19T03:46:59.438411735Z",
+  "model": "glm-5.3"
+}

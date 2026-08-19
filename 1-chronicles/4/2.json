@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và Reayah con trai Shoval sinh ra ⟨את⟩ Yachat; còn Yachat sinh ra ⟨את⟩ Achumai và ⟨את⟩ Lahad. Đây là các gia tộc của người Tsearati.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "và Reayah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Shoval"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "sinh ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yachat"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Yachat"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "và Yachat"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "sinh ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achumai"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "Achumai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Lahad"
+    },
+    {
+      "surface": "להד",
+      "gloss": "Lahad"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "đây là"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "các gia tộc"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "của người Tsearati"
+    }
+  ],
+  "timestamp": "2026-08-19T05:47:50.000396422Z",
+  "model": "glm-5.3"
+}

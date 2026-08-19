@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Hãy cắt bì ⟨את⟩ lớp da bao của lòng các ngươi, và cổ các ngươi chớ cứng lại nữa.",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "Hãy cắt bì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lớp da bao của lòng các ngươi"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "lớp da bao của"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "lòng các ngươi"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "và cổ các ngươi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "cứng lại"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nữa"
+    }
+  ],
+  "timestamp": "2026-08-19T03:06:54.643466529Z",
+  "model": "glm-5.3"
+}

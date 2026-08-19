@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 6:44",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "và ⟨את⟩ Ashan cùng ⟨את⟩ đất chung của nó, ⟨את⟩ Beit-Shemesh và ⟨את⟩ đất chung của nó.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Ashan"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Ashan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "đất chung của nó"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "đất chung của nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Beit-"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Shemesh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "đất chung của nó"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "đất chung của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:48:11.466849040Z",
+  "model": "glm-5.3"
+}

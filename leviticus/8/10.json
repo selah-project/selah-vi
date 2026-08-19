@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Moshe lấy ⟨את⟩ dầu xức và xức ⟨את⟩ Đền Tạm cùng ⟨את⟩ mọi vật trong đó, và thánh hóa ⟨את⟩ chúng.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "và người lấy"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dầu xức"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "dầu"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "xức"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "và người xức"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Đền Tạm"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Đền Tạm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mọi vật trong đó"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "בו",
+      "gloss": "trong đó"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "và người thánh hóa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:41:04.287161906Z",
+  "model": "glm-5.3"
+}

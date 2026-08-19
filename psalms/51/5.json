@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 51,
+  "translation": "Vì những phản nghịch của tôi, tôi biết, và tội lỗi của tôi ⟨là⟩ trước mặt tôi luôn luôn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Vì"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "những phản nghịch của tôi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "biết"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "và tội lỗi của tôi"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "trước mặt tôi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "luôn luôn"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:45.746952964Z",
+  "model": "glm-5.3"
+}

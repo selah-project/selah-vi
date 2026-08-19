@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 109,
+  "translation": "Tôi sẽ tạ ơn Yahweh hết lòng bằng miệng mình, và giữa đám đông tôi sẽ ca ngợi Ngài.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "tôi sẽ tạ ơn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hết lòng"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "bằng miệng mình"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "và giữa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "đám đông"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "tôi sẽ ca ngợi Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:47.474363646Z",
+  "model": "glm-5.3"
+}

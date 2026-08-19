@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Đừng thấy ⟨את⟩ bò của anh em ngươi hay ⟨את⟩ chiên của nó bị lạc mà ẩn mình khỏi chúng; chắc chắn hãy đem trả chúng cho anh em ngươi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ngươi thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bò"
+    },
+    {
+      "surface": "שור",
+      "gloss": "bò"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "của anh em ngươi"
+    },
+    {
+      "surface": "או",
+      "gloss": "hay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiên"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "chiên của nó"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "bị lạc"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "mà ngươi ẩn mình"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "khỏi chúng"
+    },
+    {
+      "surface": "השב",
+      "gloss": "chắc chắn hãy đem trả"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "ngươi trả chúng"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "cho anh em ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:10:33.171798266Z",
+  "model": "glm-5.3"
+}

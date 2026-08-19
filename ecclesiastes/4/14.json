@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Vì từ nhà của những kẻ bị xiềng xích nó đã ra đi để làm vua, vì cả trong vương quốc của nó kẻ nghèo đã được sinh ra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "từ nhà"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "của những kẻ bị xiềng xích"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "nó đã ra đi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "để làm vua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cả"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "trong vương quốc của nó"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "đã được sinh ra"
+    },
+    {
+      "surface": "רש",
+      "gloss": "kẻ nghèo"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:35.853988370Z",
+  "model": "glm-5.3"
+}

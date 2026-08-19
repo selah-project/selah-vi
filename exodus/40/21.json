@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 40:21",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Và ⟨ông⟩ đưa ⟨את⟩ Hòm Giao Ước vào Đền Tạm, và đặt ⟨את⟩ bức màn che, và che trên Hòm ⟨của⟩ Lời Làm Chứng, như Yahweh đã phán dặn ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "và đưa vào"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hòm Giao Ước"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Hòm Giao Ước"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vào"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Đền Tạm"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "và đặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bức màn che"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "bức màn"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "che"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "và che"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Hòm"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "Lời Làm Chứng"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "phán dặn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-19T02:39:19.081099576Z",
+  "model": "glm-5.3"
+}

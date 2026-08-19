@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 38:16",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 38,
+  "translation": "Tất cả màn che của sân, chung quanh, ⟨là⟩ vải gai dầu mảnh xe sợi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "màn che của"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "sân"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "chung quanh"
+    },
+    {
+      "surface": "שש",
+      "gloss": "vải gai dầu mảnh"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "xe sợi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:38:21.457815556Z",
+  "model": "glm-5.3"
+}

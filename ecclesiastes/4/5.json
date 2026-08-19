@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Kẻ khờ ôm ⟨את⟩ hai tay mình và ăn ⟨את⟩ thịt mình.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "kẻ khờ"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "ôm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hai tay mình"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "hai tay mình"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "và ăn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thịt mình"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "thịt mình"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:53.503185512Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Còn David thì đi đi về về từ chỗ Shaoul, để chăn giữ ⟨את⟩ đàn chiên của cha mình tại Beit Lechem.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Còn David"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "đi"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "và về"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "từ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaoul"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "để chăn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đàn chiên"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "đàn chiên"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "của cha mình"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-08-19T03:34:03.880467545Z",
+  "model": "glm-5.3"
+}

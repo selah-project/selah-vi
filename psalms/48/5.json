@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 48,
+  "translation": "Vì kìa, các vua đã hội lại, đã đi qua cùng nhau.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Vì"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kìa"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "các vua"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "đã hội lại"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "đã đi qua"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "cùng nhau"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:24.500265580Z",
+  "model": "glm-5.3"
+}

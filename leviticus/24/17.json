@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Và ⟨khi⟩ một người đánh gây chết ⟨cho⟩ sinh mạng của bất kỳ người nào, thì ⟨hắn⟩ nhất định phải bị xử tử.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "và một người"
+    },
+    {
+      "surface": "כי",
+      "gloss": "khi"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "đánh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bất kỳ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sinh mạng"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "của người"
+    },
+    {
+      "surface": "מות",
+      "gloss": "chết"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "phải bị xử tử"
+    }
+  ],
+  "timestamp": "2026-08-19T02:47:24.206046367Z",
+  "model": "glm-5.3"
+}

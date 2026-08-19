@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Aharon sẽ dâng ⟨את⟩ con bò của sinh tế chuộc tội thuộc về mình, và làm lễ chuộc tội cho chính mình và cho nhà mình.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "và sẽ dâng"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con bò của sinh tế chuộc tội"
+    },
+    {
+      "surface": "פר",
+      "gloss": "con bò"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "của sinh tế chuộc tội"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "לו",
+      "gloss": "thuộc về mình"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "và làm lễ chuộc tội"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "cho chính mình"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "và cho"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nhà mình"
+    }
+  ],
+  "timestamp": "2026-08-19T06:04:21.542402730Z",
+  "model": "glm-5.3"
+}

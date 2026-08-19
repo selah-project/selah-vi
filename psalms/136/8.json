@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 136,
+  "translation": "⟨את⟩ mặt trời để cai trị ban ngày, vì sự nhân từ của Ngài tồn tại đến đời đời.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mặt trời"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "mặt trời"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "để cai trị"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ban ngày"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "đến đời đời"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sự nhân từ của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:21.146738266Z",
+  "model": "glm-5.3"
+}

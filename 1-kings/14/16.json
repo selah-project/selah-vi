@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Và Ngài sẽ giao nộp ⟨את⟩ Yisra'el, vì các tội lỗi của Yarav'am mà hắn đã phạm và đã khiến Yisra'el phạm.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "và sẽ giao nộp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "vì"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "các tội lỗi"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "của Yarav'am"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "hắn đã phạm"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "và mà"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "đã khiến phạm tội"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-19T03:51:45.963176791Z",
+  "model": "glm-5.3"
+}

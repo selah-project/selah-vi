@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Và Sha-ul sai ⟨את⟩ các sứ giả đi xem ⟨את⟩ David, rằng: Hãy khiêng ông ấy trên giường đến với tôi, để giết ông ấy.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "và sai"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các sứ giả"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "các sứ giả"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "để xem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "hãy đem lên"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ông ấy",
+      "marks": "trên giường"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "trên giường"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "đến với tôi"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "để giết ông ấy"
+    }
+  ],
+  "timestamp": "2026-08-19T03:34:56.420719450Z",
+  "model": "glm-5.3"
+}

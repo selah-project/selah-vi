@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 74,
+  "translation": "Đến bao lâu, hỡi Elohim, kẻ thù nghịch sẽ sỉ nhục? Kẻ đối địch sẽ khinh dể danh Ngài mãi mãi sao?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "bao lâu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "sỉ nhục"
+    },
+    {
+      "surface": "צר",
+      "gloss": "kẻ thù nghịch"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "khinh dể"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "kẻ đối địch"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "danh Ngài"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "mãi mãi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:17.354893521Z",
+  "model": "glm-5.3"
+}

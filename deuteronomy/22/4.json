@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 22:4",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Đừng thấy ⟨את⟩ lừa của anh em ngươi hay bò của nó ngã xuống trên đường mà ẩn mình khỏi chúng; chắc chắn hãy giất nó dậy cùng với người.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ngươi thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lừa"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "lừa"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "của anh em ngươi"
+    },
+    {
+      "surface": "או",
+      "gloss": "hay"
+    },
+    {
+      "surface": "שורו",
+      "gloss": "bò của nó"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "ngã xuống"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "trên đường"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "mà ngươi ẩn mình"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "khỏi chúng"
+    },
+    {
+      "surface": "הקם",
+      "gloss": "chắc chắn hãy giất dậy"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "ngươi giất dậy"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "cùng với người"
+    }
+  ],
+  "timestamp": "2026-08-19T03:10:33.172440825Z",
+  "model": "glm-5.3"
+}

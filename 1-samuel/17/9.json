@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 17:9",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Nếu hắn có thể chiến đấu ⟨את⟩ với tôi và đánh hạ tôi, thì chúng tôi sẽ làm tôi mọi cho các ngươi; còn nếu tôi có thể hơn hắn và đánh hạ hắn, thì các ngươi sẽ làm tôi mọi cho chúng tôi và phục dịch ⟨את⟩ chúng tôi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Nếu"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "có thể"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "chiến đấu"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ với tôi",
+      "marks": "tôi"
+    },
+    {
+      "surface": "והכני",
+      "gloss": "và đánh hạ tôi"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "thì chúng tôi sẽ là"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho các ngươi"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "làm tôi mọi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "còn nếu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "có thể"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hơn hắn"
+    },
+    {
+      "surface": "והכיתיו",
+      "gloss": "và đánh hạ hắn"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "thì các ngươi sẽ là"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "cho chúng tôi"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "làm tôi mọi"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "và phục dịch"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ chúng tôi",
+      "marks": "chúng tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:34:02.870901192Z",
+  "model": "glm-5.3"
+}

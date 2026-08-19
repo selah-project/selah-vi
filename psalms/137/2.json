@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 137,
+  "translation": "Trên những cây liễu ở giữa nó chúng tôi treo đàn cầm của chúng tôi.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "những cây liễu"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "ở giữa nó"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "chúng tôi treo"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "đàn cầm của chúng tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:35.844666801Z",
+  "model": "glm-5.3"
+}

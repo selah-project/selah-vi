@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 17:2",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Tôi sẽ tấn công ⟨את⟩ y trong lúc y mệt mỏi và yếu tay, tôi sẽ làm y kinh hoảng, và tất cả dân sự ⟨את⟩ ở với y sẽ bỏ chạy, rồi tôi sẽ đánh ⟨את⟩ đức vua một mình.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "và tôi sẽ đến"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "trên y"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "và y"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "mệt mỏi"
+    },
+    {
+      "surface": "ורפה",
+      "gloss": "và yếu"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "tay"
+    },
+    {
+      "surface": "והחרדתי",
+      "gloss": "và tôi sẽ làm kinh hoảng"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "y"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "và sẽ bỏ chạy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ở với"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ y"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "và tôi sẽ đánh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đức vua"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "đức vua"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "một mình"
+    }
+  ],
+  "timestamp": "2026-08-19T06:08:52.598943169Z",
+  "model": "glm-5.3"
+}

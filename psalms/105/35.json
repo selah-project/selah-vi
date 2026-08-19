@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 105,
+  "translation": "Và nó ăn hết mọi cỏ trong đất của chúng, và nó ăn trái của đất đai của chúng.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "và nó ăn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "cỏ"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "trong đất của chúng"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "và nó ăn"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "trái"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "đất đai của chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:31.326442384Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Nào, ta hãy cho cha uống ⟨את⟩ rượu, và nằm với cha, để ta sinh con cái từ cha chúng ta — một dòng giống.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "nào, hãy"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "ta cho uống"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cha chúng ta"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "cha chúng ta"
+    },
+    {
+      "surface": "יין",
+      "gloss": "rượu"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "và ta nằm với"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "cùng cha"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "và ta làm sống còn"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "từ cha chúng ta"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "dòng giống"
+    }
+  ],
+  "timestamp": "2026-08-19T01:01:38.534814660Z",
+  "model": "glm-5.3"
+}

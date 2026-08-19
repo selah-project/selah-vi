@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và các ngươi đã trả lời ⟨את⟩ ta rằng: Việc ngươi đã phán để làm là tốt.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "và các ngươi đã trả lời"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ta"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "và nói rằng"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tốt"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "việc"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ngươi đã phán"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "để làm"
+    }
+  ],
+  "timestamp": "2026-08-19T03:04:51.224127472Z",
+  "model": "glm-5.3"
+}

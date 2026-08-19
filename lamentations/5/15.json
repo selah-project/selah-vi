@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Đã tắt niềm vui của lòng chúng ta; vũ điệu của chúng ta đã trở thành than khóc.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "đã tắt ngừng"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "niềm vui"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "của lòng chúng ta"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "đã trở thành"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "thanh khóc"
+    },
+    {
+      "surface": "מחלנו",
+      "gloss": "vũ điệu của chúng ta"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:05.895270683Z",
+  "model": "glm-5.3"
+}

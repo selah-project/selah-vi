@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 135:21",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 135,
+  "translation": "Đáng chúc phúc Yahweh từ Tzion, Đấng ngự tại Yerushalayim. Hãy ngợi khen Yah!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "đáng chúc phúc"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "từ Tzion"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "Đấng ngự"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "tại Yerushalayim"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "hãy ngợi khen"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:42.913738445Z",
+  "model": "glm-5.3"
+}

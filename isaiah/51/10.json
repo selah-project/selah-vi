@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 51:10",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 51,
+  "translation": "Há không phải ⟨את⟩ chính là Đấng đã làm khô biển, nước của vực sâu vĩ đại; Đấng đã đặt nơi sâu thẳm biển một con đường cho ⟨các⟩ người được chuộc đi qua sao?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "há không phải"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chính là Đấng"
+    },
+    {
+      "surface": "היא",
+      "gloss": "chính là"
+    },
+    {
+      "surface": "המחרבת",
+      "gloss": "Đấng đã làm khô"
+    },
+    {
+      "surface": "ים",
+      "gloss": "biển"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nước"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "vực sâu"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "vĩ đại"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "Đấng đã đặt"
+    },
+    {
+      "surface": "מעמקי",
+      "gloss": "nơi sâu thẳm"
+    },
+    {
+      "surface": "ים",
+      "gloss": "biển"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "con đường"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "để đi qua"
+    },
+    {
+      "surface": "גאולים",
+      "gloss": "người được chuộc"
+    }
+  ],
+  "timestamp": "2026-08-19T04:14:03.219644734Z",
+  "model": "glm-5.3"
+}

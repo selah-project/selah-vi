@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 71,
+  "translation": "Nơi Ngài, Yahweh, con nương náu; đừng để con hổ thẹn đến muôn đời.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "nơi Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "con nương náu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "con hổ thẹn"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "đến muôn đời"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:43.574262284Z",
+  "model": "glm-5.3"
+}

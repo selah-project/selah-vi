@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và tôi nghe ⟨את⟩ tiếng của Adonai phán: ⟨את⟩ ai tôi sẽ sai, và ai sẽ đi cho chúng ta? Và tôi nói: Đây tôi, xin sai tôi.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "Và tôi nghe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiếng"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tiếng"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "phán"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ai"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "tôi sẽ sai"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "và ai"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "sẽ đi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "cho chúng ta"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "Và tôi nói"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Đây tôi"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "xin sai tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:04:57.435008138Z",
+  "model": "glm-5.3"
+}

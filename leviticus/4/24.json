@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 4:24",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và người ấy đặt tay mình trên đầu con dê đực, và giết nó ⟨את⟩ tại nơi người ta giết ⟨את⟩ lễ thiêu, trước mặt Yahweh; đó là lễ tha tội.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "và đặt"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tay mình"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "đầu"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "con dê đực"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "và giết"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nó",
+      "marks": "con dê đực"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "tại nơi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "người ta giết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lễ thiêu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "lễ thiêu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "lễ tha tội"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "đó là"
+    }
+  ],
+  "timestamp": "2026-08-19T02:40:24.431782138Z",
+  "model": "glm-5.3"
+}

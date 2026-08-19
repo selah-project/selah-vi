@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Ta không sai ⟨את⟩ các nhà tiên tri, mà chúng đã chạy; Ta không phán với chúng, mà chúng đã nói tiên tri.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "Ta đã sai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các nhà tiên tri"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "các nhà tiên tri"
+    },
+    {
+      "surface": "והם",
+      "gloss": "mà chúng"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "đã chạy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "Ta đã phán"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "với chúng"
+    },
+    {
+      "surface": "והם",
+      "gloss": "mà chúng"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "đã nói tiên tri"
+    }
+  ],
+  "timestamp": "2026-08-19T04:22:39.744064316Z",
+  "model": "glm-5.3"
+}

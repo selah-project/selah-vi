@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Và Shmuel đã xét đoán ⟨את⟩ Yisraël mọi ngày của đời mình.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "và đã xét đoán"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraël"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ngày của"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "đời mình"
+    }
+  ],
+  "timestamp": "2026-08-19T03:30:37.022934703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và Naomi bồng ⟨את⟩ đứa trẻ, đặt nó trong lòng mình, và trở thành vú nuôi cho nó.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "và bồng"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đứa trẻ"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "đứa trẻ"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "và đặt nó"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "trong lòng mình"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "và trở thành"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho nó"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "làm vú nuôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:29:53.459774282Z",
+  "model": "glm-5.3"
+}

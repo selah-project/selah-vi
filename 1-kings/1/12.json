@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Bây giờ, hãy đến; tôi xin khuyên bà một mưu kế, hầu cho bà cứu ⟨את⟩ mạng sống của mình và ⟨את⟩ mạng sống của con trai bà, Shelomo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "bây giờ"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "hãy đến"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "tôi khuyên bà"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xin"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "một mưu kế"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "và hãy cứu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mạng sống của mình"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "mạng sống của bà"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "mạng sống của con trai bà, Shelomo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mạng sống"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "của con trai bà"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    }
+  ],
+  "timestamp": "2026-08-19T03:46:39.344072071Z",
+  "model": "glm-5.3"
+}

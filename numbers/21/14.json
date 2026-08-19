@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 21:14",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Vì vậy người ta nói trong Sách các cuộc chiến của Yahweh: ⟨את⟩ Vaheb tại Suphah, và ⟨את⟩ các dòng suối của Arnon.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "về"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vì vậy"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "người ta nói"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "trong sách"
+    },
+    {
+      "surface": "מלחמת",
+      "gloss": "các cuộc chiến"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vaheb"
+    },
+    {
+      "surface": "והב",
+      "gloss": "Vaheb"
+    },
+    {
+      "surface": "בסופה",
+      "gloss": "tại Suphah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các dòng suối"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "các dòng suối"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "của Arnon"
+    }
+  ],
+  "timestamp": "2026-08-19T02:59:10.431581309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 78,
+  "translation": "Chúng ta sẽ không giấu chúng ⟨khỏi⟩ con cái họ, ⟨mà⟩ kể cho thế hệ sau cùng những lời ngợi khen Yahweh, và quyền năng Ngài, cùng những việc lạ lùng Ngài đã làm.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "chúng ta sẽ giấu"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "⟨khỏi⟩ con cái họ"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "cho thế hệ"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "sau cùng"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "⟨mà⟩ kể"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "những lời ngợi khen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "và quyền năng Ngài"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "cùng những việc lạ lùng của Ngài"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Ngài đã làm"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:57.200457928Z",
+  "model": "glm-5.3"
+}

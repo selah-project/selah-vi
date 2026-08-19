@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 8:20",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Trong ngày của ông, Edom nổi loạn khỏi dưới tay Yehudah, và họ lập một vua trị vì trên họ.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "trong ngày của ông"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "nổi loạn"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "khỏi dưới"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tay của"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "và họ lập trị vì"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "trên họ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "một vua"
+    }
+  ],
+  "timestamp": "2026-08-19T03:58:31.551139007Z",
+  "model": "glm-5.3"
+}

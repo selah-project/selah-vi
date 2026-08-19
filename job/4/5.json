@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 4:5",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Vì nay ⟨nó⟩ đến với ngươi, và ngươi mệt mỏi; nó chạm đến ngươi, và ngươi bối rối.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nay"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "nó đến"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "với ngươi"
+    },
+    {
+      "surface": "ותלא",
+      "gloss": "và ngươi mệt mỏi"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "nó chạm"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "đến ngươi"
+    },
+    {
+      "surface": "ותבהל",
+      "gloss": "và ngươi bối rối"
+    }
+  ],
+  "timestamp": "2026-08-19T06:20:08.392912743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và điều này ⟨là⟩ nhẹ trong mắt Yahweh, và Ngài sẽ phó ⟨את⟩ Moav vào tay các ngươi.",
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "và nhẹ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "điều này"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "trong mắt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "và sẽ phó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moav"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "vào tay các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:56:11.699036730Z",
+  "model": "glm-5.3"
+}

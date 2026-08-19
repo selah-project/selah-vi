@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 16:25",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Moshe đứng dậy và đi đến Datan và Aviram, và các trưởng lão của Yisrael đi theo ông.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "và đứng dậy"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "và đi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Datan"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "và Aviram"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "và đi"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "theo ông"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "các trưởng lão của"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T02:57:57.509842253Z",
+  "model": "glm-5.3"
+}

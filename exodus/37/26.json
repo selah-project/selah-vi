@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 37:26",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Người phủ nó bằng vàng tinh khiết: ⟨את⟩ phần đỉnh của nó, và ⟨את⟩ các bức tường của nó chung quanh, và ⟨את⟩ các sừng của nó; và người làm cho nó một đường viền vàng chung quanh.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "Người phủ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nó",
+      "marks": "nó (bàn thờ)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bằng vàng"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tinh khiết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phần đỉnh của nó"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "phần đỉnh của nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các bức tường của nó"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "các bức tường của nó"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "chung quanh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các sừng của nó"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "các sừng của nó"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "và người làm"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho nó"
+    },
+    {
+      "surface": "זר",
+      "gloss": "đường viền"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "vàng"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "chung quanh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:38:28.852691386Z",
+  "model": "glm-5.3"
+}

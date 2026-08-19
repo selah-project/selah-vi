@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 107,
+  "translation": "Hãy tạ ơn Yahweh, vì Ngài tốt lành, vì sự nhân từ ⟨của Ngài⟩ tồn tại đến muôn đời.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "Hãy tạ ơn"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tốt lành"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "đến muôn đời"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sự nhân từ của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:17.689666601Z",
+  "model": "glm-5.3"
+}

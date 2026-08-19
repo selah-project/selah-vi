@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Va Yaakov ra khỏi Beer-Sheva, và đi về phía Charan.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ra khỏi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "từ Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "và đi"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "về phía Charan"
+    }
+  ],
+  "timestamp": "2026-08-19T01:12:13.941735187Z",
+  "model": "glm-5.3"
+}

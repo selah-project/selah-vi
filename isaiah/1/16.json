@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 1:16",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Hãy tắm rửa, hãy làm mình trong sạch; hãy dẹp bỏ sự dữ của việc làm các ngươi khỏi trước mắt Ta; hãy ngừng làm điều ác.",
+  "tokens": [
+    {
+      "surface": "רחצו",
+      "gloss": "hãy tắm rửa"
+    },
+    {
+      "surface": "הזכו",
+      "gloss": "hãy làm mình trong sạch"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "hãy dẹp bỏ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "sự dữ"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "của việc làm các ngươi"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "khỏi trước"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mắt Ta"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "hãy ngừng"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "làm điều ác"
+    }
+  ],
+  "timestamp": "2026-08-19T04:03:17.723835708Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 28:2",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Như vậy đã phán Yahweh các đạo binh, Elohim của Yisra'el, rằng: Ta đã bẻ gãy ⟨את⟩ cái ách của vua Bavel.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "như vậy"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "đã phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "các đạo binh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "שברתי",
+      "gloss": "Ta đã bẻ gãy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cái ách"
+    },
+    {
+      "surface": "על",
+      "gloss": "cái ách"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    }
+  ],
+  "timestamp": "2026-08-19T04:24:02.222988202Z",
+  "model": "glm-5.3"
+}

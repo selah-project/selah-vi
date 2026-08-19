@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 70,
+  "translation": "Elohim, để cứu thoát tôi; Yahweh, để giúp đỡ tôi — hãy mau lên!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "để cứu thoát tôi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "để giúp đỡ tôi"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "hãy mau lên"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:59.554862944Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Mọi vật đều có kỳ định, và ⟨một⟩ thời gian cho mọi ý muốn dưới các tầng trời.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "cho mọi vật"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "một kỳ định"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "và ⟨một⟩ thời gian"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "cho mọi"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ý muốn"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dưới"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "các tầng trời"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:31.020069001Z",
+  "model": "glm-5.3"
+}

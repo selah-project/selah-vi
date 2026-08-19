@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Và ⟨את⟩ Aharon và ⟨את⟩ các con trai ngươi, ngươi sẽ đem đến lối vào Trại Hội Kiến, và ngươi sẽ rửa ⟨את⟩ họ trong nước.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các con trai ngươi"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "các con trai ngươi"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "ngươi sẽ đem đến"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "lối vào"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Trại"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Hội Kiến"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "và ngươi sẽ rửa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "họ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "trong nước"
+    }
+  ],
+  "timestamp": "2026-08-19T02:36:10.264918231Z",
+  "model": "glm-5.3"
+}

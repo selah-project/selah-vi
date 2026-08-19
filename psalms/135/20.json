@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 135:20",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 135,
+  "translation": "Hỡi nhà ha-Levi, hãy chúc phúc cho ⟨את⟩ Yahweh; hỡi những kẻ kính sợ Yahweh, hãy chúc phúc cho ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "ha-Levi"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "hãy chúc phúc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "những kẻ kính sợ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "hãy chúc phúc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T06:19:22.618847370Z",
+  "model": "glm-5.3"
+}

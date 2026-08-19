@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 22:19",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Kẻ tế cho elohim khác ⟨thì⟩ bị thiệt hại hoàn toàn — ngoại trừ cho Yahweh một mình.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "kẻ tế"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "cho elohim (khác)"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "bị devoted-cầm tuyệt"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ngoại trừ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "cho Yahweh"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "một mình Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T02:33:44.309555788Z",
+  "model": "glm-5.3"
+}

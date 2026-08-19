@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 6:3",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Vua quay ⟨את⟩ mặt mình lại, và chúc phước ⟨את⟩ toàn thể hội chúng Israel; và toàn thể hội chúng Israel đang đứng.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "quay lại"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mặt mình"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mặt mình"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "và chúc phước"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toàn thể hội chúng Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "hội chúng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và toàn thể"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "hội chúng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "đang đứng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:55:05.799955537Z",
+  "model": "glm-5.3"
+}

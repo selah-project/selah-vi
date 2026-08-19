@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 4:17",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Vì chúng ăn bánh của sự ác, và uống rượu của bạo hành.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "ăn"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bánh"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sự ác"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "và rượu"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "bạo hành"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "chúng uống"
+    }
+  ],
+  "timestamp": "2026-08-19T06:19:27.744475740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 104,
+  "translation": "Nguyện vinh quang của Yahweh ⟨còn⟩ đến đời đời; Yahweh vui mừng trong công việc của Ngài.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "nguyện được"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "vinh quang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "đến đời đời"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "vui mừng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "trong công việc của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:30.340495067Z",
+  "model": "glm-5.3"
+}

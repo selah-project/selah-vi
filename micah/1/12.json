@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Vì dân ở Maroth khắc khoải mong điều lành; vì điều dữ từ ⟨את⟩ Yahweh đã xuống đến cổng Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "khắc khoải"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "mong điều lành"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "dân ở"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "Maroth"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "đã xuống"
+    },
+    {
+      "surface": "רע",
+      "gloss": "điều dữ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "từ ⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "đến cổng"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-19T04:48:58.741722395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 17:14",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Nhưng họ không nghe, và đã làm cứng ⟨את⟩ gáy mình, như gáy tổ phụ họ, ⟨những người⟩ đã không tin vào Yahweh Elohim của mình.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "nhưng không"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "họ đã nghe"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "và đã làm cứng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gáy mình"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "gáy mình"
+    },
+    {
+      "surface": "כערף",
+      "gloss": "như gáy"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "tổ phụ họ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "những người mà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "đã tin"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "vào Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim của họ"
+    }
+  ],
+  "timestamp": "2026-08-19T06:11:25.018527367Z",
+  "model": "glm-5.3"
+}

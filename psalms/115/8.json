@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 115,
+  "translation": "Như chúng, ⟨thế⟩ sẽ là những kẻ làm ra chúng — mọi kẻ tin cậy nơi chúng ⟨cũng vậy⟩.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "như chúng"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "sẽ là"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "những kẻ làm ra chúng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kẻ mà"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "tin cậy"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nơi chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:49.203779188Z",
+  "model": "glm-5.3"
+}

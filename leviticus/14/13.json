@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 14:13",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Và người ta sẽ giết ⟨את⟩ con chiên con tại nơi người ta giết ⟨את⟩ lễ vật tội lỗi và ⟨את⟩ lễ thiêu, tại nơi thánh; vì như lễ tội lỗi, lễ tội phạm thuộc về thầy tế lễ — nó ⟨là⟩ thánh các thánh.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "và sẽ giết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con chiên con"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "con chiên con"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "tại nơi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "người ta giết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lễ vật tội lỗi"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "lễ vật tội lỗi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "lễ thiêu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "lễ thiêu"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "tại nơi"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "thánh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "như lễ tội lỗi"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "lễ tội phạm"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "thuộc về thầy tế lễ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "thánh"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "các thánh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:43:48.510444890Z",
+  "model": "glm-5.3"
+}

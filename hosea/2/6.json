@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và ⟨את⟩ con cái nàng ta sẽ không thương xót, vì chúng ⟨là⟩ con cái của gian dâm.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con cái nàng"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "con cái nàng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "ta thương xót"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "gian dâm"
+    },
+    {
+      "surface": "המה",
+      "gloss": "chúng là"
+    }
+  ],
+  "timestamp": "2026-08-19T04:44:15.591271666Z",
+  "model": "glm-5.3"
+}

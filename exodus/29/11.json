@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Và ngươi sẽ giết ⟨את⟩ con bò đực trước mặt Yahweh, tại lối vào Trại Hội Kiến.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "và ngươi sẽ giết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con bò đực"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "con bò đực"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "tại lối vào"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Trại"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Hội Kiến"
+    }
+  ],
+  "timestamp": "2026-08-19T02:35:36.876196738Z",
+  "model": "glm-5.3"
+}

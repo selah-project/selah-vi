@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 42,
+  "translation": "Hãy hát cho Yahweh một bài ca mới, sự ngợi khen Ngài từ tận cùng đất; hỡi kẻ xuống biển và sự đầy dẫy của nó, các đảo và dân cư của chúng.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "hãy hát"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "cho Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "bài ca"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mới"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "sự ngợi khen Ngài"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "từ tận cùng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "kẻ xuống"
+    },
+    {
+      "surface": "הים",
+      "gloss": "biển"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "và sự đầy dẫy của nó"
+    },
+    {
+      "surface": "איים",
+      "gloss": "các đảo"
+    },
+    {
+      "surface": "וישביהם",
+      "gloss": "và dân cư của chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:11:53.473562361Z",
+  "model": "glm-5.3"
+}

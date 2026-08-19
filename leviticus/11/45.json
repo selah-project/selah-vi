@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 11:45",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Vì chính tôi ⟨là⟩ Yahweh, Đấng đưa các ngươi lên khỏi đất Mitsrayim, để nên Elohim cho các ngươi; và các ngươi hãy nên thánh, vì Ta thánh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אני",
+      "gloss": "chính tôi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "Đấng đưa lên"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ các ngươi",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "khỏi đất"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "להית",
+      "gloss": "để nên"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho các ngươi"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "và các ngươi hãy nên"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "thánh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "thánh"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ta"
+    }
+  ],
+  "timestamp": "2026-08-19T02:41:56.930075407Z",
+  "model": "glm-5.3"
+}

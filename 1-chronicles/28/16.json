@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 28:16",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "và ⟨את⟩ vàng — trọng lượng cho các bàn trưng bày, cho từng bàn và bàn; và bạc cho các bàn bạc.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vàng"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "vàng"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "trọng lượng"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "cho các bàn"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "trưng bày"
+    },
+    {
+      "surface": "לשלחן",
+      "gloss": "cho bàn"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "và bàn"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "và bạc"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "cho các bàn"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "bạc"
+    }
+  ],
+  "timestamp": "2026-08-19T05:53:28.973712953Z",
+  "model": "glm-5.3"
+}

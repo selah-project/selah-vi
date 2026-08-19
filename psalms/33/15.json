@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 33,
+  "translation": "Đấng nặn ra tim của chúng nó, mỗi người một lòng; Đấng thông suốt mọi việc làm của họ.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "Đấng nặn ra"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "chung một \/ mỗi người một lòng"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "tim của chúng nó"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "Đấng thông suốt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "việc làm của họ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:48.099016367Z",
+  "model": "glm-5.3"
+}

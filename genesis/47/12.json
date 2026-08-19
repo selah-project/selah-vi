@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 47,
+  "translation": "Và Yosef cấp dưỡng ⟨את⟩ cha mình và ⟨את⟩ các anh em mình và ⟨את⟩ cả nhà cha mình, bánh, theo miệng của trẻ thơ.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "và cấp dưỡng"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cha mình"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "cha mình"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "các anh em mình"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "các anh em mình"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "cả nhà cha mình"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cả"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "cha mình"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bánh"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "theo miệng"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "của trẻ thơ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:26:10.378248919Z",
+  "model": "glm-5.3"
+}

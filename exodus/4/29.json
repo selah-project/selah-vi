@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Moshe và Aharon đi, và ⟨họ⟩ tập hợp ⟨את⟩ mọi trưởng lão của con cái Yisrael.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "đi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "và Aharon"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "và ⟨họ⟩ tập hợp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi trưởng lão của con cái Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "trưởng lão"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T02:28:20.211826663Z",
+  "model": "glm-5.3"
+}

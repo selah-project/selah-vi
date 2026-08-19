@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 16:24",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Hãy nói với hội chúng, rằng: Hãy lên khỏi xung quanh nơi ở của Korach, Dathan và Aviram.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "hãy nói"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "hội chúng"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "hãy lên"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "khỏi xung quanh"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "nơi ở của"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Dathan"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "và Aviram"
+    }
+  ],
+  "timestamp": "2026-08-19T02:57:27.129629145Z",
+  "model": "glm-5.3"
+}

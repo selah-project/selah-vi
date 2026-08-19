@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 27:4",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Và sẽ xảy ra, khi các ngươi đã vượt qua ⟨את⟩ Yardén, các ngươi hãy dựng lên ⟨את⟩ những viên đá này, mà ta truyền cho ⟨את⟩ các ngươi hôm nay, trên núi Eyval, và ngươi hãy quét vôi ⟨את⟩ chúng bằng vôi.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "và sẽ xảy ra"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "khi các ngươi đã vượt qua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardén"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardén"
+    },
+    {
+      "surface": "תקימו",
+      "gloss": "các ngươi hãy dựng lên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "những viên đá này"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "những viên đá"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "này"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "truyền"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ các ngươi",
+      "marks": "hôm nay"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hôm nay"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "trên núi"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Eyval"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "và ngươi hãy quét vôi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ chúng",
+      "marks": "bằng vôi"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "bằng vôi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:11:37.214804463Z",
+  "model": "glm-5.3"
+}

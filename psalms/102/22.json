@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 102:22",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 102,
+  "translation": "Để kể lại danh Yahweh trong Tzion, và sự ngợi khen Ngài trong Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "לספר",
+      "gloss": "để kể lại"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "trong Tzion"
+    },
+    {
+      "surface": "שם",
+      "gloss": "danh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "và sự ngợi khen Ngài"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "trong Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:58.821513330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Vì giờ đây chúng sẽ nói: Không có vua cho chúng ta, vì chúng ta không kính sợ ⟨את⟩ Yahweh; còn vua thì sẽ làm gì cho chúng ta?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "giờ đây"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "chúng sẽ nói"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "cho chúng ta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "kính sợ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "còn vua"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "sẽ làm"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "cho chúng ta"
+    }
+  ],
+  "timestamp": "2026-08-19T04:45:39.422362840Z",
+  "model": "glm-5.3"
+}

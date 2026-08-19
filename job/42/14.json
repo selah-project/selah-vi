@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 42:14",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 42,
+  "translation": "Và người đặt tên ⟨את⟩ người con thứ nhất Ymimah, và tên người thứ hai Ketsiah, và tên người thứ ba Keren-haPukh.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "và người đặt"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tên"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "người thứ nhất"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "Ymimah"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "và tên"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "người thứ hai"
+    },
+    {
+      "surface": "קציעה",
+      "gloss": "Ketsiah"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "và tên"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "người thứ ba"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "Keren"
+    },
+    {
+      "surface": "הפוך",
+      "gloss": "haPukh"
+    }
+  ],
+  "timestamp": "2026-08-19T05:28:33.378326597Z",
+  "model": "glm-5.3"
+}

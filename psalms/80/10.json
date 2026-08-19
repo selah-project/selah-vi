@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 80,
+  "translation": "Ngươi đã dọn chỗ trống trước mặt nó, và nó bén rễ, rễ nó đâm sâu, và nó đầy khắp đất.",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "ngươi đã dọn\/d祝 chuyển hướng"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "trước mặt nó"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "và nó bén rễ sâu"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "rễ của nó"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "và nó làm đầy"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:14.657614017Z",
+  "model": "glm-5.3"
+}

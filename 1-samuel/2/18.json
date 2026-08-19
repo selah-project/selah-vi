@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 2:18",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Còn Shmuel hầu việc trước mặt Yahweh, một thiếu niên đeo đai ephod bằng vải gai dầu.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "còn Shmuel"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "hầu việc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trước mặt"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נער",
+      "gloss": "thiếu niên"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "đeo đai"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "ephod"
+    },
+    {
+      "surface": "בד",
+      "gloss": "bằng vải gai dầu"
+    }
+  ],
+  "timestamp": "2026-08-19T03:29:45.869597328Z",
+  "model": "glm-5.3"
+}

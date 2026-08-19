@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 25:55",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Vì con cái Yisrael là tôi tớ của Ta — tôi tớ của Ta chúng nó ⟨là⟩, mà Ta đã đưa ⟨את⟩ chúng nó ra khỏi đất Mitzrayim: Ta ⟨là⟩ Yahweh Elohim của các ngươi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לי",
+      "gloss": "của Ta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "tôi tớ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "tôi tớ của Ta"
+    },
+    {
+      "surface": "הם",
+      "gloss": "chúng nó"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "Ta đã đưa ra"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "chúng nó"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "khỏi đất"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim của các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:47:41.231512153Z",
+  "model": "glm-5.3"
+}

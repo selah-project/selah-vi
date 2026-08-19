@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 41:44",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 41,
+  "translation": "Paroh nói với Yosef: Ta là Paroh, và ngoài ngươi, chẳng ai được nhấc ⟨את⟩ tay mình hay ⟨את⟩ chân mình trong toàn xứ Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ta"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ובלעדיך",
+      "gloss": "và ngoài ngươi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chẳng"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "được nhấc"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tay mình"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tay mình"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "chân mình"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "chân mình"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "trong toàn"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "xứ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T02:24:45.631109001Z",
+  "model": "glm-5.3"
+}

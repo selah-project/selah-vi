@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "và Achituv sinh ⟨את⟩ Tsadok, và Tsadok sinh ⟨את⟩ Shallum.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "và Achituv"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "đã sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsadok"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "và Tsadok"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "đã sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shallum"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shallum"
+    }
+  ],
+  "timestamp": "2026-08-19T05:47:31.467213952Z",
+  "model": "glm-5.3"
+}

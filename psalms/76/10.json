@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 76:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 76,
+  "translation": "Khi Elohim đứng dậy ⟨để⟩ xét xử, để cứu tất cả người khiêm nhường của đất. Selah.",
+  "tokens": [
+    {
+      "surface": "בקום",
+      "gloss": "khi đứng dậy"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "để xét xử"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "để cứu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "người khiêm nhường"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "của đất"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:12.591491061Z",
+  "model": "glm-5.3"
+}

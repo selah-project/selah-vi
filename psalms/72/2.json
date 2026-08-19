@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 72,
+  "translation": "Ngài sẽ xét xử dân Ngài trong công chính, và những người khốn khổ của Ngài theo luật pháp.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "Ngài sẽ xét xử"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dân Ngài"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "trong công chính"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "và những người khốn khổ của Ngài"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "theo luật pháp"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:00.585519724Z",
+  "model": "glm-5.3"
+}

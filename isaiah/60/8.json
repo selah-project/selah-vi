@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 60,
+  "translation": "Những ai là những kẻ này, bay như đám mây, và như bồ câu về phía các cửa sổ của chúng?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "những kẻ này"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "như đám mây"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "bay"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "và như bồ câu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "về phía"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "các cửa sổ của chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:15:20.489051013Z",
+  "model": "glm-5.3"
+}

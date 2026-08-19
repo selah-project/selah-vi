@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 63,
+  "translation": "Linh hồn tôi bám chặt theo Ngài; tay phải Ngài nâng đỡ tôi.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "bám chặt"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "linh hồn tôi"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "theo Ngài"
+    },
+    {
+      "surface": "בי",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "nâng đỡ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tay phải Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:15.436434619Z",
+  "model": "glm-5.3"
+}

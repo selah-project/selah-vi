@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Uriah nằm ngủ tại cửa nhà của vua, ⟨את⟩ tất cả tôi tớ của chúa ông; và người không đi xuống nhà mình.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "và nằm ngủ"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriah"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "tại cửa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "của vua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả tôi tớ của chúa ông"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "tôi tớ"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "của chúa ông"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "đi xuống"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tới"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nhà mình"
+    }
+  ],
+  "timestamp": "2026-08-19T03:41:30.060046121Z",
+  "model": "glm-5.3"
+}

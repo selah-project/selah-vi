@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 139,
+  "translation": "Nếu tôi lên các tầng trời, Ngài ⟨vậy⟩ ở đó; và nếu tôi trải giường trong Sheol, kìa, Ngài ở đó.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "tôi lên"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "các tầng trời"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ở đó"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "và nếu tôi trải giường"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "trong Sheol"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "kìa, Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:44.989411229Z",
+  "model": "glm-5.3"
+}

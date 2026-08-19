@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Nếu của trộm thực sự bị tìm thấy trong tay hắn còn sống — từ bò, đến lừa, đến chiên — hắn phải bồi thường gấp đôi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Nếu"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "thực sự bị tìm thấy"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "bị tìm thấy"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "trong tay hắn"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "của trộm"
+    },
+    {
+      "surface": "משור",
+      "gloss": "từ bò"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "lừa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "שה",
+      "gloss": "chiên"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "còn sống"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "gấp đôi"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "hắn phải bồi thường"
+    }
+  ],
+  "timestamp": "2026-08-19T02:33:59.827520855Z",
+  "model": "glm-5.3"
+}

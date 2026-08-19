@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 6:10",
+  "book": "daniel",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Vì điều này, vua Dareyavesh đã ký văn thư và sắc lệnh.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "vì"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "điều này"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "vua"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "Dareyavesh"
+    },
+    {
+      "surface": "רשם",
+      "gloss": "đã ký"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "văn thư"
+    },
+    {
+      "surface": "ואסרא",
+      "gloss": "và sắc lệnh"
+    }
+  ],
+  "timestamp": "2026-08-19T05:38:15.572700879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 20:5",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Lại xảy ra chiến tranh với ⟨את⟩ người Phlishtim, và Elchanan con trai Ya'or đã đánh ⟨את⟩ Lachmi, anh của Golyat người Gath, và cây giáo của ông như khung cửi của người dệt vải.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "lại xảy ra"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nữa"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "chiến tranh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người Phlishtim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "người Phlishtim"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "và đã đánh"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "Elchanan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "Ya'or"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lachmi"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "Lachmi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "anh của"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Golyat"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "người Gath"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "và cây"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "giáo của ông"
+    },
+    {
+      "surface": "כמנור",
+      "gloss": "như khung cửi"
+    },
+    {
+      "surface": "ארגים",
+      "gloss": "của người dệt vải"
+    }
+  ],
+  "timestamp": "2026-08-19T05:51:43.710870956Z",
+  "model": "glm-5.3"
+}

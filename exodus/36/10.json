@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 36,
+  "translation": "Người nối ⟨את⟩ năm màn lại với nhau, màn này sang màn kia; và năm màn kia, người nối lại, màn này sang màn kia.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "và người nối"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "năm màn"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "năm"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "màn"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "màn này"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sang"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "màn kia"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "và năm"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "màn"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "người nối"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "màn này"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sang"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "màn kia"
+    }
+  ],
+  "timestamp": "2026-08-19T02:38:11.279208396Z",
+  "model": "glm-5.3"
+}

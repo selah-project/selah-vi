@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Còn các ngươi thì xúc phạm ⟨את⟩ nó, khi các ngươi nói: 'Bàn của Adonai — nó bị ô uế, và hoa lợi của nó, lương thực của nó đáng khinh.'",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "còn các ngươi"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "thì xúc phạm"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "nó (danh Yahweh)"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "khi các ngươi nói"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "bàn"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "bị ô uế"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "và hoa lợi của nó"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "đáng khinh"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "lương thực của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T04:54:09.841295004Z",
+  "model": "glm-5.3"
+}

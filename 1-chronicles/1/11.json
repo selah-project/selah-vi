@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và Mitzrayim sinh ⟨את⟩ người Ludim, và ⟨את⟩ người Anamim, và ⟨את⟩ người Lehavim, và ⟨את⟩ người Naftuchim.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "và Mitzrayim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người Ludim"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "người Ludim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người Anamim"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "người Anamim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người Lehavim"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "người Lehavim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người Naftuchim"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "người Naftuchim"
+    }
+  ],
+  "timestamp": "2026-08-19T05:46:44.457838464Z",
+  "model": "glm-5.3"
+}

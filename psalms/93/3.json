@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 93,
+  "translation": "Các dòng sông đã dâng lên, Yahweh ôi, các dòng sông đã dâng tiếng mình, các dòng sông dâng lấy những con sóng vỡ.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "đã dâng lên"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "các dòng sông"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh ôi"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "đã dâng lên"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "các dòng sông"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "tiếng của chúng"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "dâng lấy"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "các dòng sông"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "những con sóng vỡ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:41.484333898Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 76,
+  "translation": "Từ lời quở trách của Ngài, ⟨là⟩ Elohim của Yaakov, cả chiến xa lẫn chiến mã đều chết lịm.",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "từ lời quở trách của Ngài"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "đã chết lịm"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "cả chiến xa"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "lẫn chiến mã"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:23.714278472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Mọi kẻ bị bắt gặp sẽ bị đâm xuyên, và mọi kẻ bị bắt sẽ ngã bởi gươm.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mọi kẻ"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "bị bắt gặp"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "sẽ bị đâm xuyên"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và mọi kẻ"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "bị bắt"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "sẽ ngã"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "bởi gươm"
+    }
+  ],
+  "timestamp": "2026-08-19T04:05:53.750417711Z",
+  "model": "glm-5.3"
+}

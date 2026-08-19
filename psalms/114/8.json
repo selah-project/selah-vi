@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 114,
+  "translation": "⟨Đấng⟩ biến ⟨את⟩ đá thànhtǎm đầm nước, ⟨את⟩ đá lửa thànhtǎm suối nguồn nước.",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "Đấng biến"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "đá"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "thànhtǎm đầm"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "đá lửa"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "thànhtǎm suối nguồn"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:58.141398313Z",
+  "model": "glm-5.3"
+}

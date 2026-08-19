@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Và giờ đây, hãy nghe, Yaakov, đầy tớ của Ta, và Yitschak-dân Yisrael, Ta đã chọn ⟨את⟩ nó.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "và giờ đây"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hãy nghe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "đầy tớ của Ta"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "và Yisrael"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "Ta đã chọn"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨את⟩ nó",
+      "marks": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T04:12:33.047984935Z",
+  "model": "glm-5.3"
+}

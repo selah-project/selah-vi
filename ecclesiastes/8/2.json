@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Tôi ⟨nói⟩: miệng vua hãy giữ, và ⟨hãy giữ⟩ vì ⟨sắc lệnh⟩ của lời thề ⟨thề⟩ trước Elohim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "miệng"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "hãy giữ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "và đối với"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "sắc lệnh\/vì"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "lời thề"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:49.335561639Z",
+  "model": "glm-5.3"
+}

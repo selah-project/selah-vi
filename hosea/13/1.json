@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Khi Efrayim nói, ⟨⟨có⟩⟩ sự run rẩy; nó được tôn cao trong Yisrael, nhưng nó phạm tội với Baal và nó chết.",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "khi… nói"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "sự run rẩy"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "được tôn cao"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "trong Yisrael"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "và phạm tội"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "với Baal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "và chết"
+    }
+  ],
+  "timestamp": "2026-08-19T04:45:49.251608741Z",
+  "model": "glm-5.3"
+}

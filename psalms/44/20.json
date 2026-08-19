@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Vì Ngài đã đè bẹp chúng con nơi chốn chó rừng, và phủ trên chúng con trong bóng của sự chết.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "Ngài đã đè bẹp chúng con"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "nơi chốn"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "chó rừng"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "và phủ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "trên chúng con"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "trong bóng của sự chết"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:13.608558695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Và Shet đã sống một trăm lẻ năm và năm năm, và đã sinh ⟨את⟩ Enosh.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "và đã sống"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "năm"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "năm"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "và một trăm"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "năm"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "và đã sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Enosh"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    }
+  ],
+  "timestamp": "2026-08-19T00:48:55.670863672Z",
+  "model": "glm-5.3"
+}

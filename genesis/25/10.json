@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "cánh đồng mà Avraham đã mua từ ⟨את⟩ con cháu của Chet; tại đó Avraham được chôn cất, và Sarah vợ ông.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "cánh đồng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "đã-mua"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "từ ⟨את⟩",
+      "marks": "con cháu của Chet"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cháu của"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Chet"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tại đó"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "được-chôn-cất"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "và-Sarah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vợ của ông"
+    }
+  ],
+  "timestamp": "2026-08-19T01:07:33.041969890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và có việc xảy ra, khi tất cả những người lính chiến đã tận số, chết đi khỏi giữa dân sự.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "và có việc xảy ra"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "khi"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "đã tận số"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "những người"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "chiến trận"
+    },
+    {
+      "surface": "למות",
+      "gloss": "chết đi"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "khỏi giữa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    }
+  ],
+  "timestamp": "2026-08-19T03:04:36.655687017Z",
+  "model": "glm-5.3"
+}

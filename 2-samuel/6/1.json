@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Đavíd lại tập hợp ⟨את⟩ mọi người được chọn trong Yisrael, ba mươi nghìn.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "lại thêm"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nữa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Đavíd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi người được chọn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "người được chọn"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "trong Yisrael"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ba mươi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "nghìn"
+    }
+  ],
+  "timestamp": "2026-08-19T03:41:06.865058272Z",
+  "model": "glm-5.3"
+}

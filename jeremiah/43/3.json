@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 43:3",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 43,
+  "translation": "mà là Baruch con trai Neriyahu xúi giục ngươi chống lại chúng ta, hầu cho giao chúng ta ⟨את⟩ vào tay người Kasdim, để giết chúng ta ⟨את⟩, và đày chúng ta ⟨את⟩ sang Bavel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mà là"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruch"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "Neriyahu"
+    },
+    {
+      "surface": "מסית",
+      "gloss": "xúi giục"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ngươi",
+      "marks": "ngươi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "chúng ta"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hầu cho"
+    },
+    {
+      "surface": "תת",
+      "gloss": "giao"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "chúng ta (vào tay)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "vào tay"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "người Kasdim"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "để giết"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "chúng ta"
+    },
+    {
+      "surface": "ולהגלות",
+      "gloss": "và đày"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "chúng ta"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    }
+  ],
+  "timestamp": "2026-08-19T04:27:59.836950228Z",
+  "model": "glm-5.3"
+}

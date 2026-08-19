@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 41,
+  "translation": "Paroh nổi giận với các tôi tớ của ngài, và ngài giao ⟨את⟩ tôi vào nơi giam giữ, trong nhà quan chánh đao phủ — ⟨את⟩ tôi và ⟨את⟩ quan chánh thợ bánh.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "nổi giận"
+    },
+    {
+      "surface": "על",
+      "gloss": "với"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "các tôi tớ của ngài"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "và giao"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ tôi",
+      "marks": "vào nơi giam giữ"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "vào nơi giam giữ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "trong nhà"
+    },
+    {
+      "surface": "שר",
+      "gloss": "quan chánh"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "đao phủ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ tôi",
+      "marks": "(lặp lại)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "quan chánh thợ bánh"
+    },
+    {
+      "surface": "שר",
+      "gloss": "quan chánh"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "thợ bánh"
+    }
+  ],
+  "timestamp": "2026-08-19T06:03:09.270319199Z",
+  "model": "glm-5.3"
+}

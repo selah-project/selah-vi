@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 92,
+  "translation": "Kẻ đần độn không biết, và kẻ ngu si không hiểu ⟨את⟩ điều nầy.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "kẻ"
+    },
+    {
+      "surface": "בער",
+      "gloss": "đần độn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "biết"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "và kẻ ngu si"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "hiểu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "điều nầy"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "điều nầy"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:12.952941293Z",
+  "model": "glm-5.3"
+}

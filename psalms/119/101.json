@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Từ mọi con đường ác, tôi đã kiềm giữ chân tôi, để giữ lời Ngài.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "từ mọi"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "con đường"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ác"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "tôi đã kiềm giữ"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "chân tôi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "để"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "tôi giữ"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "lời Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:01.834733216Z",
+  "model": "glm-5.3"
+}

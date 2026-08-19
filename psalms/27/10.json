@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 27:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Vì cha tôi và mẹ tôi đã bỏ tôi, nhưng Yahweh sẽ thu nhận tôi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "cha tôi"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "và mẹ tôi"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "đã bỏ tôi"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "còn Yahweh"
+    },
+    {
+      "surface": "יאספני",
+      "gloss": "sẽ thu nhận tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:15.675459808Z",
+  "model": "glm-5.3"
+}

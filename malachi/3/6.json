@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 3:6",
+  "book": "malachi",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Vì Ta, Yahweh, không thay đổi; và các ngươi, hỡi con cháu của Yaakov, không bị tiêu diệt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "שניתי",
+      "gloss": "thay đổi"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "và các ngươi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cháu của"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "bị tiêu diệt"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:07.656787360Z",
+  "model": "glm-5.3"
+}

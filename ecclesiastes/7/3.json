@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Sầu muộn tốt hơn tiếng cười, vì bởi nét mặt buồn bã lòng ⟨được⟩ làm cho tốt lên.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "tốt"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "sầu muộn"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "hơn tiếng cười"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "bởi sự buồn bã"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "nét mặt"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "làm cho tốt lên"
+    },
+    {
+      "surface": "לב",
+      "gloss": "lòng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:31.635175133Z",
+  "model": "glm-5.3"
+}

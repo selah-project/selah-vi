@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Eloiah — Đấng ban ⟨את⟩ sự báo thù cho tôi, và hàng phục các dân dưới tôi.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Eloiah"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "Đấng ban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sự báo thù"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "sự báo thù"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "và hàng phục"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "các dân"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "dưới tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:45.303747340Z",
+  "model": "glm-5.3"
+}

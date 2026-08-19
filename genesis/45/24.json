@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 45,
+  "translation": "Và ông tiễn ⟨את⟩ các anh em mình và họ đi; và ông nói với họ: Đừng cãi cọ trên đường.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "và tiễn đi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các anh em mình"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "các anh em mình"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "và họ đi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "với họ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "cãi cọ \/ xao động"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "trên đường"
+    }
+  ],
+  "timestamp": "2026-08-19T02:26:03.775820409Z",
+  "model": "glm-5.3"
+}

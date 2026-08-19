@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Không được nướng có men; phần phần của họ — Ta đã ban ⟨את⟩ nó từ các lửa thiêu của Ta; điều chí thánh nó ⟨là⟩, như của lễ chuộc tội và như của lễ chuộc lỗi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "được nướng"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "có men"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "phần phần của họ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Ta đã ban"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nó"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "từ các lửa thiêu của Ta"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "thánh"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "các thánh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "như của lễ chuộc tội"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "và như của lễ chuộc lỗi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:40:38.539644391Z",
+  "model": "glm-5.3"
+}

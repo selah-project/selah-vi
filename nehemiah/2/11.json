@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và tôi đến Yerushalayim, và tôi ở đó ba ngày.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "và tôi đến"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "và tôi ở"
+    },
+    {
+      "surface": "שם",
+      "gloss": "đó"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ba"
+    }
+  ],
+  "timestamp": "2026-08-19T06:21:21.858648196Z",
+  "model": "glm-5.3"
+}

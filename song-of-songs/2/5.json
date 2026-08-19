@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 2:5",
+  "book": "song-of-songs",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Hãy đỡ tôi bằng những bánh nho, hãy trải giường cho tôi bằng những trái táo, vì tôi đang bệnh vì tình yêu.",
+  "tokens": [
+    {
+      "surface": "סמכוני",
+      "gloss": "hãy đỡ tôi"
+    },
+    {
+      "surface": "באשישות",
+      "gloss": "bằng những bánh nho"
+    },
+    {
+      "surface": "רפדוני",
+      "gloss": "hãy trải giường cho tôi"
+    },
+    {
+      "surface": "בתפוחים",
+      "gloss": "bằng những trái táo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "חולת",
+      "gloss": "đang bệnh"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "tình yêu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:29:06.272221345Z",
+  "model": "glm-5.3"
+}

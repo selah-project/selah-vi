@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 11:8",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và hắn làm như vậy cho tất cả các vợ ngoại dị của mình, đốt hương và dâng sinh tế cho các thần của chúng.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "và như vậy"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "làm"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "cho tất cả"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "các vợ mình"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "ngoại dị"
+    },
+    {
+      "surface": "מקטירות",
+      "gloss": "đốt hương"
+    },
+    {
+      "surface": "ומזבחות",
+      "gloss": "và dâng sinh tế"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "cho các thần của chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:50:41.031738240Z",
+  "model": "glm-5.3"
+}

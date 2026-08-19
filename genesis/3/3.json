@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "còn về trái của cây ⟨là⟩ cây ở giữa vườn, Elohim đã phán: các ngươi không được ăn từ nó, cũng không được chạm vào nó, e rằng các ngươi chết.",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "còn về trái"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "của cây"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "là"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ở giữa"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "vườn"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "đã phán"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "các ngươi được ăn"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "từ nó"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "cũng không"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "các ngươi được chạm"
+    },
+    {
+      "surface": "בו",
+      "gloss": "vào nó"
+    },
+    {
+      "surface": "פן",
+      "gloss": "e rằng"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "các ngươi chết"
+    }
+  ],
+  "timestamp": "2026-08-19T00:48:05.975355433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và Yahweh Elohim phán với ⟨nàng⟩ phụ nữ: Ngươi đã làm chi đây? Và ⟨nàng⟩ phụ nữ nói: Con rắn đã lừa dối tôi, và tôi đã ăn.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "với người phụ nữ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "điều này"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ngươi đã làm"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "người phụ nữ"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "con rắn"
+    },
+    {
+      "surface": "השיאני",
+      "gloss": "đã lừa dối tôi"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "và tôi đã ăn"
+    }
+  ],
+  "timestamp": "2026-08-19T00:47:51.507328231Z",
+  "model": "glm-5.3"
+}

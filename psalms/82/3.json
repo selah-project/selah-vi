@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 82,
+  "translation": "Hãy xét đoán cho kẻ yếu hạ và孤儿， người khốn khổ và kẻ nghèo — hãy làm cho ⟨họ⟩ được công chính.",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "hãy xét đoán"
+    },
+    {
+      "surface": "דל",
+      "gloss": "kẻ yếu hạ"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "và đứa mồ côi"
+    },
+    {
+      "surface": "עני",
+      "gloss": "người khốn khổ"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "và kẻ nghèo"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "hãy công chính hóa"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:15.143816824Z",
+  "model": "glm-5.3"
+}

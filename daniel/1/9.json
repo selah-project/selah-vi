@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và Elohim ban ⟨את⟩ Daniyel được sự yêu thương và lòng thương xót trước mặt quan trưởng các hoạn quan.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "đã ban"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daniyel"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniyel"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "cho sự yêu thương"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "và cho lòng thương xót"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "שר",
+      "gloss": "quan trưởng"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "các hoạn quan"
+    }
+  ],
+  "timestamp": "2026-08-19T05:35:49.044859367Z",
+  "model": "glm-5.3"
+}

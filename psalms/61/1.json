@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 61,
+  "translation": "Cho nhạc trưởng, theo khúc nhạc dây, của Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "cho nhạc trưởng"
+    },
+    {
+      "surface": "על",
+      "gloss": "theo"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "khúc nhạc dây"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "của Dawid"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:31.285263795Z",
+  "model": "glm-5.3"
+}

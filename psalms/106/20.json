@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 106,
+  "translation": "Và họ đổi ⟨את⟩ vinh hiển của mình lấy hình dạng con bò ăn cỏ.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "và họ đổi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vinh hiển của họ"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "vinh hiển của họ"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "lấy hình dạng"
+    },
+    {
+      "surface": "שור",
+      "gloss": "con bò"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ăn"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "cỏ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:54.840778971Z",
+  "model": "glm-5.3"
+}

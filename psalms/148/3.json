@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 148,
+  "translation": "Hãy ca ngợi Ngài, mặt trời và mặt trăng; hãy ca ngợi Ngài, hết thảy các ngôi sao sáng.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Hãy ca ngợi Ngài"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "mặt trời"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "và mặt trăng"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "hãy ca ngợi Ngài"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hết thảy"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "các ngôi sao"
+    },
+    {
+      "surface": "אור",
+      "gloss": "sáng \/ của ánh sáng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:43.785634284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 74,
+  "translation": "Chính Ngài đã phá vỡ bằng quyền năng Ngài ⟨את⟩ biển, Ngài đã đập nát các đầu của ⟨את⟩ những con tannin trên ⟨את⟩ nước.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Chính Ngài"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "đã phá vỡ"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "bằng quyền năng Ngài"
+    },
+    {
+      "surface": "ים",
+      "gloss": "biển"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "Ngài đã đập nát"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "các đầu của"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "những con tannin"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "המים",
+      "gloss": "nước"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:36.224282628Z",
+  "model": "glm-5.3"
+}

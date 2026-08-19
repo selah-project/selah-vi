@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 7:11",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Và phía trên là đá quý theo kích thước đá đẽo, và gỗ tuyết tùng.",
+  "tokens": [
+    {
+      "surface": "ומלמעלה",
+      "gloss": "và phía trên"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "đá"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "quý"
+    },
+    {
+      "surface": "כמדות",
+      "gloss": "theo kích thước"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "đá đẽo"
+    },
+    {
+      "surface": "וארז",
+      "gloss": "và gỗ tuyết tùng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:48:44.247950386Z",
+  "model": "glm-5.3"
+}

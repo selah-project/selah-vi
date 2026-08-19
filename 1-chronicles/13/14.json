@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 13:14",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Và hòm của Elohim ở lại với nhà Oved-Edom, tại nhà ông, ba tháng; và Yahweh ban phước cho ⟨את⟩ nhà Oved-Edom và ⟨את⟩ mọi vật ông có.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "và ở lại"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "hòm"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "của Elohim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "với"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "tại nhà ông"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "tháng"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "và ban phước"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhà Oved-Edom"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "mọi vật"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi vật"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ông có"
+    }
+  ],
+  "timestamp": "2026-08-19T05:50:06.142680510Z",
+  "model": "glm-5.3"
+}

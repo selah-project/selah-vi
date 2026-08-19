@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 2:7",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và chị của ⟨thằng bé⟩ nói với con gái của Paroh: Nào tôi có đi và gọi cho bà một người nữ vú trong số người Hípri, để ⟨bà ấy⟩ cho ⟨bà⟩ bú ⟨את⟩ đứa trẻ?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "và-nàng-nói"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "chị-của-nó"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "בת",
+      "gloss": "con gái"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "nào-tôi-có-đi"
+    },
+    {
+      "surface": "וקראתי",
+      "gloss": "và-tôi-gọi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho-bà"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "người nữ"
+    },
+    {
+      "surface": "מינקת",
+      "gloss": "vú-cho-bú"
+    },
+    {
+      "surface": "מן",
+      "gloss": "trong số"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "người-Hípri"
+    },
+    {
+      "surface": "ותינק",
+      "gloss": "và-nàng-cho-bú"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho-bà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đứa trẻ"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "đứa trẻ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:27:30.125625576Z",
+  "model": "glm-5.3"
+}

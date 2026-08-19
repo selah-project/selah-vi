@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 34:17",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 34,
+  "translation": "Còn nếu các ngươi không nghe chúng ta mà chịu cắt bì, thì chúng ta sẽ взять ⟨את⟩ con gái chúng ta và đi away.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "còn nếu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "các ngươi nghe"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "theo chúng ta"
+    },
+    {
+      "surface": "להמול",
+      "gloss": "để chịu cắt bì"
+    },
+    {
+      "surface": "ולקחנו",
+      "gloss": "thì chúng ta sẽ lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con gái chúng ta"
+    },
+    {
+      "surface": "בתנו",
+      "gloss": "con gái chúng ta"
+    },
+    {
+      "surface": "והלכנו",
+      "gloss": "và đi away"
+    }
+  ],
+  "timestamp": "2026-08-19T01:20:12.549988405Z",
+  "model": "glm-5.3"
+}

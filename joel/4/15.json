@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 4:15",
+  "book": "joel",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Mặt trời và mặt trăng đã tối sầm, và các ngôi sao thu lại ánh sáng của chúng.",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "mặt trời"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "và mặt trăng"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "đã tối sầm"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "và các ngôi sao"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "đã thu lại"
+    },
+    {
+      "surface": "נגהם",
+      "gloss": "ánh sáng của chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:46:38.439504823Z",
+  "model": "glm-5.3"
+}

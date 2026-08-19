@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Moshe đã kết thúc nói ⟨את⟩ mọi lời nầy đến toàn thể Yisrael,",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "đã kết thúc"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi lời nầy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "lời"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nầy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T03:14:02.911450135Z",
+  "model": "glm-5.3"
+}

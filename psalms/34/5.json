@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 34,
+  "translation": "Tôi đã tìm kiếm ⟨את⟩ Yahweh, và Ngài đã đáp lời tôi, và đã cứu tôi khỏi mọi điều khiến tôi kinh hoàng.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "tôi đã tìm kiếm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "và Ngài đã đáp lời tôi"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "và khỏi mọi"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "điều khiến tôi kinh hoàng"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "đã cứu tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:33.377384593Z",
+  "model": "glm-5.3"
+}

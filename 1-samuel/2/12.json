@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Còn các con trai của Eli là con trai của Beliyaal; chúng không nhận biết ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "còn các con trai"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "của Eli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "của Beliyaal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nhận biết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T03:29:17.925761937Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 168,
+  "ref": "psalms 119:168",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Tôi đã gìn giữ các luật lệ của Ngài và các chứng cứ của Ngài, vì mọi đường lối tôi ở trước mặt Ngài.",
+  "tokens": [
+    {
+      "surface": "שמרתי",
+      "gloss": "tôi đã gìn giữ"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "các luật lệ của Ngài"
+    },
+    {
+      "surface": "ועדתיך",
+      "gloss": "và các chứng cứ của Ngài"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "đường lối tôi"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "ở trước mặt Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:20.082343148Z",
+  "model": "glm-5.3"
+}

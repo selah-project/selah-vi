@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Một thì tìm kiếm, và một thì đánh mất; một thì giữ gìn, và một thì vứt bỏ.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "một thì"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "tìm kiếm"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "và một thì"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "đánh mất"
+    },
+    {
+      "surface": "עת",
+      "gloss": "một thì"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "giữ gìn"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "và một thì"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "vứt bỏ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:17.252682187Z",
+  "model": "glm-5.3"
+}

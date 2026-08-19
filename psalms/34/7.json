@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 34,
+  "translation": "Kẻ nghèo khó này đã kêu cầu, và Yahweh đã nghe, và đã giải cứu hắn khỏi mọi cơn nghịch cảnh của hắn.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "này"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kẻ nghèo khó"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "đã kêu cầu"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "và Yahweh"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "đã nghe"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "và khỏi mọi"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "cơn nghịch cảnh của hắn"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "đã giải cứu hắn"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:33.377919014Z",
+  "model": "glm-5.3"
+}

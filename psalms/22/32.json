@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Họ sẽ đến và sẽ loan báo sự công chính của Ngài cho một dân tộc sẽ sinh ra, rằng Ngài đã làm điều đó.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "họ sẽ đến"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "và sẽ loan báo"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "sự công chính của Ngài"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "cho một dân tộc"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "sẽ sinh ra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "đã làm"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:29.511490446Z",
+  "model": "glm-5.3"
+}

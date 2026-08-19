@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và Elohim thấy ⟨את⟩ ánh sáng rằng ⟨nó⟩ tốt; và Elohim phân biệt giữa ánh sáng và giữa tối tăm.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "và thấy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ánh sáng"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ánh sáng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tốt"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "và phân biệt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ánh sáng"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "và giữa"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "tối tăm"
+    }
+  ],
+  "timestamp": "2026-08-19T00:45:26.153321912Z",
+  "model": "glm-5.3"
+}

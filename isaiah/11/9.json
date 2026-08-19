@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 11:9",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Chúng sẽ không làm ác và không hủy hoại trên khắp núi thánh của Ta, vì đất sẽ đầy dẫy sự nhận biết ⟨את⟩ Yahweh, như nước phủ đầy biển.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "chúng sẽ làm ác"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "ישחיתו",
+      "gloss": "chúng sẽ hủy hoại"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "trên khắp"
+    },
+    {
+      "surface": "הר",
+      "gloss": "núi"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "thánh của Ta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "đầy dẫy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "sự nhận biết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "như nước"
+    },
+    {
+      "surface": "לים",
+      "gloss": "cho biển"
+    },
+    {
+      "surface": "מכסים",
+      "gloss": "đang phủ đầy"
+    }
+  ],
+  "timestamp": "2026-08-19T04:05:48.358822507Z",
+  "model": "glm-5.3"
+}

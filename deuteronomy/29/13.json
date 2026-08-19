@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Không phải chỉ ⟨את⟩ với riêng các ngươi mà tôi cutting ⟨את⟩ giao ước này và ⟨את⟩ lời thề nguyền này",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ với các ngươi"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "riêng các ngươi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "cắt lập"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "giao ước này"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "giao ước"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "này"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "lời thề nguyền này"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "lời thề nguyền"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "này"
+    }
+  ],
+  "timestamp": "2026-08-19T03:12:47.327412049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Hãy run rẩy và đừng phạm tội; hãy nói trong lòng các ngươi, trên giường các ngươi, và hãy yên lặng. Selah",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "hãy run rẩy"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và đừng"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "phạm tội"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "hãy nói"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "trong lòng các ngươi"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "giường các ngươi"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "và hãy yên lặng"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T04:54:46.575761747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 29:22",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Và chúng giết bò, và các thầy tế lễ nhận lấy ⟨את⟩ huyết, và rắc lên bàn thờ; và chúng giết chiên đực, và rắc huyết lên bàn thờ; và chúng giết chiên con, và rắc huyết lên bàn thờ.",
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "và chúng giết"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "con bò"
+    },
+    {
+      "surface": "ויקבלו",
+      "gloss": "và nhận lấy"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "các thầy tế lễ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huyết"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "huyết"
+    },
+    {
+      "surface": "ויזרקו",
+      "gloss": "và rắc"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "lên bàn thờ"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "và chúng giết"
+    },
+    {
+      "surface": "האלים",
+      "gloss": "con chiên đực"
+    },
+    {
+      "surface": "ויזרקו",
+      "gloss": "và rắc"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "huyết"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "lên bàn thờ"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "và chúng giết"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "con chiên con"
+    },
+    {
+      "surface": "ויזרקו",
+      "gloss": "và rắc"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "huyết"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "lên bàn thờ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:59:34.973196626Z",
+  "model": "glm-5.3"
+}

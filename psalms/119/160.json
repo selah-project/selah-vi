@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Tổng của lời Ngài ⟨là⟩ chân lý, và đến đời đời ⟨là⟩ mọi phán quyết công bình của Ngài.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "tổng"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "của lời Ngài"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "chân lý"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "và đến đời đời"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "phán quyết"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "công bình của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:13.183082652Z",
+  "model": "glm-5.3"
+}

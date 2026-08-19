@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Người ấy chỉ cho họ ⟨את⟩ lối vào thành, và họ đánh ⟨את⟩ thành theo lưỡi gươm; còn ⟨את⟩ người ấy và ⟨את⟩ cả gia đình ông thì họ tha đi.",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "người ấy chỉ cho họ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lối vào"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "lối vào"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "thành"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "họ đánh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thành"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "thành"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "theo lưỡi"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "gươm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người ấy"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "người ấy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "cả gia đình ông"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cả"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "gia đình ông"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "họ tha đi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:22:34.946674777Z",
+  "model": "glm-5.3"
+}

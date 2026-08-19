@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và Elohim đã phước cho ⟨את⟩ Nóach và ⟨את⟩ các con trai người, và Ngài phán cùng chúng rằng: Hãy sinh trái nhiều, hãy thêm đông, và hãy làm đầy ⟨את⟩ đất.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "và đã phước cho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nóach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nóach"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "và ⟨את⟩",
+      "marks": "các con trai người"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "các con trai người"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và phán"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cùng chúng"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "hãy sinh trái nhiều"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "và hãy thêm đông"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "và hãy làm đầy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đất"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T02:24:01.827217924Z",
+  "model": "glm-5.3"
+}

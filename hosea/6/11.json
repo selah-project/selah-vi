@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 6:11",
+  "book": "hosea",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Cả Yehudah nữa — ⟨một⟩ mùa gặt đã được định cho ngươi, khi ta đem ⟨את⟩ sự hồi hương của dân ta trở lại.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "cả... nữa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "שת",
+      "gloss": "đã đặt\/định"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "mùa gặt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngươi"
+    },
+    {
+      "surface": "בשובי",
+      "gloss": "khi ta đem trở lại"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sự hồi hương của dân ta"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "sự hồi hương"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "của dân ta"
+    }
+  ],
+  "timestamp": "2026-08-19T04:43:57.802383675Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 26:2",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Hãy mở các cổng, để một dân tộc công chính vào, ⟨dân⟩ gìn giữ sự trung tín.",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "hãy mở"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "các cổng"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "và để vào"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "dân tộc"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "công chính"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "gìn giữ"
+    },
+    {
+      "surface": "אמנים",
+      "gloss": "sự trung tín"
+    }
+  ],
+  "timestamp": "2026-08-19T04:08:01.382937365Z",
+  "model": "glm-5.3"
+}

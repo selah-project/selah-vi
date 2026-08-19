@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 87,
+  "translation": "Yahweh yêu các cổng của Tsiyon hơn mọi nơi ở của Yaakov.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "yêu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "các cổng của"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "hơn mọi"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "nơi ở"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:40.240952625Z",
+  "model": "glm-5.3"
+}

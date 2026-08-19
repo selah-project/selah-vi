@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 55,
+  "translation": "Vì tiếng của kẻ thù, vì cơn áp bức của kẻ ác; vì chúng xô điều ác đổ lên tôi, và trong cơn giận chúng ghét tôi.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "vì tiếng"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "của kẻ thù"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vì cơn \/ trước mặt"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "áp bức"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "của kẻ ác"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "chúng xô đổ \/ khiến lung lay"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lên tôi"
+    },
+    {
+      "surface": "און",
+      "gloss": "điều ác"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "và trong cơn giận"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "chúng ghét \/ bắt bớ tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:41.336753886Z",
+  "model": "glm-5.3"
+}

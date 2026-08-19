@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Cho đấng chỉ huy nhạc, theo đàn dây, điệu bát âm; một bài thánh thi của David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "cho đấng chỉ huy nhạc"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "theo đàn dây"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên \/ theo"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "điệu bát âm"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "bài thánh thi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "của David"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:10.792422713Z",
+  "model": "glm-5.3"
+}

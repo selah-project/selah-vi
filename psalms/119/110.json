@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Kẻ ác đã giăng bẫy ⟨để bắt⟩ tôi, ⟨nhưng⟩ khỏi các mệnh lệnh của Ngài tôi không lạc bước.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "chúng đã giăng"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "פח",
+      "gloss": "bẫy lưới"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "và khỏi các mệnh lệnh của Ngài"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "tôi đã lạc bước"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:30.262666476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Và David nghe tin, và ông sai ⟨את⟩ Yoav cùng ⟨את⟩ toàn thể đạo quân dũng sĩ đi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "và ông nghe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "và ông sai đi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "toàn thể đạo quân dũng sĩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "đạo quân"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "dũng sĩ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:41:01.095032601Z",
+  "model": "glm-5.3"
+}

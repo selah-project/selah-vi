@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Và Pharaoh quay đi, và đi vào nhà ⟨của mình⟩, và ⟨hắn⟩ không đặt lòng mình đến cả việc này.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "và quay đi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaoh"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "và đi vào"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vào"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nhà của mình"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "שת",
+      "gloss": "đặt"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "lòng mình"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cả"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "đến việc này"
+    }
+  ],
+  "timestamp": "2026-08-19T02:28:30.517119113Z",
+  "model": "glm-5.3"
+}

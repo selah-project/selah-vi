@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 109,
+  "translation": "Người chủ nợ mắc bẫy tất cả điều mà ông có, và người lạ cướp lấy thành quả lao động của ông.",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "mắc bẫy"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "người chủ nợ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ông có"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "và cướp lấy"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "người lạ"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "thành quả lao động của ông"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:57.902087259Z",
+  "model": "glm-5.3"
+}

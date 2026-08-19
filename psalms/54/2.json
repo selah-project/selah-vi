@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 54:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 54,
+  "translation": "Khi người Ziph đến và nói với Shaul: 'Nào, David chẳng đang ẩn trốn cùng chúng tôi sao?'",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "khi đến"
+    },
+    {
+      "surface": "הזיפים",
+      "gloss": "người Ziph"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "với Shaul"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "nào... chẳng"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "đang ẩn trốn"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "cùng chúng tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:26.803797523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Tôi sẽ cảm tạ Ngài với lòng thẳng thắn, khi tôi học các phán quyết công bình của Ngài.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "tôi sẽ cảm tạ Ngài"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "với sự thẳng thắn"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "lòng"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "khi tôi học"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "các phán quyết"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "công bình của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:27.498259682Z",
+  "model": "glm-5.3"
+}

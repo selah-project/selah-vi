@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 22:16",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Ông xét xử ⟨את⟩ án xử của người nghèo khó và kẻ thiếu thốn; bấy giờ ấy là điều lành — há không phải ấy là sự认识 Yahweh ư? sấm của Yahweh.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "xét xử"
+    },
+    {
+      "surface": "דין",
+      "gloss": "án xử"
+    },
+    {
+      "surface": "עני",
+      "gloss": "người nghèo khó"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "và kẻ thiếu thốn"
+    },
+    {
+      "surface": "אז",
+      "gloss": "bấy giờ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "là điều lành"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "há không"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ấy là"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "sự nhận biết"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ Ta",
+      "marks": "Ta (Yahweh) — đối tượng của sự nhận biết"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sấm của"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T04:22:02.674378989Z",
+  "model": "glm-5.3"
+}

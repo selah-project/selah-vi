@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 89,
+  "translation": "Như mặt trăng ⟨nó⟩ được dựng vững đến muôn đời, và như chứng nhân trung tín trong mây trời. Selah.",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "như mặt trăng"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "được dựng vững"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "đến muôn đời"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "và chứng nhân"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "trong mây trời"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "trung tín"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:12.958759152Z",
+  "model": "glm-5.3"
+}

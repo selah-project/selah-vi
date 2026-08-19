@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 1:10",
+  "book": "nahum",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Vì như bụi gai chằng chịt với nhau, như kẻ say rượu trong thứ rượu của chúng, chúng sẽ bị nuốt chửng như rơm khô hoàn toàn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến mức"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "bụi gai"
+    },
+    {
+      "surface": "סבכים",
+      "gloss": "chằng chịt"
+    },
+    {
+      "surface": "וכסבאם",
+      "gloss": "và rượu của chúng"
+    },
+    {
+      "surface": "סבואים",
+      "gloss": "say lịm"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "bị nuốt chửng"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "như rơm"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "khô"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "hoàn toàn"
+    }
+  ],
+  "timestamp": "2026-08-19T04:49:51.834798176Z",
+  "model": "glm-5.3"
+}

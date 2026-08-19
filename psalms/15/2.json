@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Kẻ đi trong sự vô tội, làm điều công bình, và nói sự thật trong lòng mình.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "kẻ đi"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "trong sự vô tội"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "và làm"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "điều công bình"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sự thật"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "trong lòng mình"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:27.405466317Z",
+  "model": "glm-5.3"
+}

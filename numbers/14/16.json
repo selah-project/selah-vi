@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 14:16",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Vì Yahweh không thể đưa ⟨את⟩ dân này vào đất mà Ngài đã thề cho họ, nên Ngài đã giết họ trong đồng vắng",
+  "tokens": [
+    {
+      "surface": "מבלתי",
+      "gloss": "vì không"
+    },
+    {
+      "surface": "יכלת",
+      "gloss": "thể"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "đưa vào"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân này"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vào"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "đã thề"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho họ"
+    },
+    {
+      "surface": "וישחטם",
+      "gloss": "nên đã giết họ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "trong đồng vắng"
+    }
+  ],
+  "timestamp": "2026-08-19T06:05:07.891898511Z",
+  "model": "glm-5.3"
+}

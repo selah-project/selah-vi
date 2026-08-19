@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Khi ngươi cho người lân cận của ngươi vay bất cứ vật gì, ngươi đừng vào nhà người ấy để lấy đồ cầm của người ấy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Khi"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "ngươi cho vay"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "người lân cận của ngươi"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "khoản vay"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "bất cứ vật gì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ngươi vào"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nhà người ấy"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "để lấy làm vật cầm"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "đồ cầm của người ấy"
+    }
+  ],
+  "timestamp": "2026-08-19T03:10:57.926728272Z",
+  "model": "glm-5.3"
+}

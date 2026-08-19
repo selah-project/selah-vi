@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Vào tay Ngài tôi phó thác linh hồn tôi; Ngài đã chuộc ⟨את⟩ tôi, Yahweh, El của sự chân thật.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "vào-tay-Ngài"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "tôi-phó-thác"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "thần-linh-của-tôi"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "Ngài-đã-chuộc"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "tôi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "chân-thật"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:42.112501620Z",
+  "model": "glm-5.3"
+}

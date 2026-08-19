@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 62,
+  "translation": "Chỉ nơi Elohim, hồn tôi, hãy lặng thinh; vì từ Ngài ⟨là⟩ sự trông mong của tôi.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "chỉ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "nơi Elohim"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "hãy lặng thinh"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "hồn tôi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "từ Ngài"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "sự trông mong của tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:32.906453306Z",
+  "model": "glm-5.3"
+}

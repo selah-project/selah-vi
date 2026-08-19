@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 38,
+  "translation": "Tôi đã thành như người đàn ông không nghe, và trong miệng ⟨hắn⟩ không có lời quở trách.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "và tôi đã thành"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "như người đàn ông"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nghe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "và không có"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "trong miệng hắn"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "lời quở trách"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:41.620304286Z",
+  "model": "glm-5.3"
+}

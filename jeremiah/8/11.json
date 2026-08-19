@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 8:11",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Họ đã chữa cách qua loa ⟨את⟩ vết thương của con gái dân Ta, nói rằng: Bình an, bình an — nhưng không có bình an.",
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "họ đã chữa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vết thương"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "vết thương"
+    },
+    {
+      "surface": "בת",
+      "gloss": "con gái của"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "dân Ta"
+    },
+    {
+      "surface": "על",
+      "gloss": "cách"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "qua loa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nói rằng"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "bình an"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "bình an"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nhưng không có"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "bình an"
+    }
+  ],
+  "timestamp": "2026-08-19T04:19:10.060891885Z",
+  "model": "glm-5.3"
+}

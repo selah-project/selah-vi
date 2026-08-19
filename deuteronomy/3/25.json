@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Xin cho tôi qua ⟨את⟩ đất tốt đẹp kia ở bên kia sông Yarden — núi tốt đẹp này và núi Lebanon.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "cho tôi qua"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xin"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "và tôi sẽ thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đất tốt đẹp kia"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "tốt đẹp"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ở bên kia"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sông Yarden"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "núi"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "tốt đẹp"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "và Lebanon"
+    }
+  ],
+  "timestamp": "2026-08-19T03:05:09.549868875Z",
+  "model": "glm-5.3"
+}

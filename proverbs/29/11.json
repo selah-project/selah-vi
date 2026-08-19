@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 29:11",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Kẻ dại ngu trút ra toàn tánh khí ⟨mình⟩, còn người khôn ngoan nén nó lại cho đến sau.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "toàn"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "tánh khí mình"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "trút ra"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "kẻ dại ngu"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "còn người khôn ngoan"
+    },
+    {
+      "surface": "באחור",
+      "gloss": "cho đến sau"
+    },
+    {
+      "surface": "ישבחנה",
+      "gloss": "nén nó lại"
+    }
+  ],
+  "timestamp": "2026-08-19T05:19:18.243791509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 74,
+  "translation": "Chính Ngài đã mở ⟨את⟩ suối nguồn và ⟨את⟩ dòng suối, chính Ngài làm cho ⟨את⟩ các dòng sông vĩnh cửu khô cạn.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Chính Ngài"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "đã mở"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "suối nguồn"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "và dòng suối"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "chính Ngài"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "làm cho khô cạn"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "các dòng sông"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "vĩnh cửu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:36.224690094Z",
+  "model": "glm-5.3"
+}

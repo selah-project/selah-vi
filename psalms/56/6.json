@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 56,
+  "translation": "Cả ngày chúng nó bóp méo lời tôi; về tôi, mọi mưu tính của chúng đều nhằm làm điều ác.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "cả"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "lời của tôi"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "chúng bóp méo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "về tôi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "mưu tính của chúng"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "nhằm làm điều ác"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:50.959893632Z",
+  "model": "glm-5.3"
+}

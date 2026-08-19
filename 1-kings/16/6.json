@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 16:6",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Baasha nằm xuống với các cha ông, và được chôn ở Tirtzah; và Elah con trai ông làm vua thay ông.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "nằm xuống"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "với"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "các cha ông"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "được chôn"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "ở Tirtzah"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "làm vua"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Elah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "con trai ông"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "thay ông"
+    }
+  ],
+  "timestamp": "2026-08-19T03:52:47.169492459Z",
+  "model": "glm-5.3"
+}

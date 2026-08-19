@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 1:18",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Vua Mitzrayim gọi các bà đỡ và nói với các bà: Vì sao các bà đã làm ⟨את⟩ việc này, và cho ⟨את⟩ các trẻ trai sống?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "và người gọi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "các bà đỡ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và người nói"
+    },
+    {
+      "surface": "להן",
+      "gloss": "với các bà"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "vì sao"
+    },
+    {
+      "surface": "עשיתן",
+      "gloss": "các bà làm"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "việc"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "các bà cho sống"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các trẻ trai"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "các trẻ trai"
+    }
+  ],
+  "timestamp": "2026-08-19T02:27:39.637352792Z",
+  "model": "glm-5.3"
+}

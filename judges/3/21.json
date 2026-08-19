@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 3:21",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và Ehud đưa ⟨את⟩ tay trái mình ra, và lấy ⟨את⟩ thanh gươm từ trên đùi phải mình, và đâm nó vào bụng ông ta.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "và đưa ra"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "Ehud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tay trái mình"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tay"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "trái của mình"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "và lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thanh gươm"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "thanh gươm"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "từ trên"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "đùi"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "phải của mình"
+    },
+    {
+      "surface": "ויתקעה",
+      "gloss": "và đâm nó"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "vào bụng ông ta"
+    }
+  ],
+  "timestamp": "2026-08-19T03:23:08.568340778Z",
+  "model": "glm-5.3"
+}

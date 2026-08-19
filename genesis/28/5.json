@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 28:5",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Và Yitschak tiễn ⟨את⟩ Yaakov, và ⟨ông⟩ đi đến Padan-Aram, đến với Lavan con của Betuel người Aram, anh của Rivka, mẹ của Yaakov và Esav.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "và tiễn"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "và đi"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến với"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con của"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Betuel"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "người Aram"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "anh của"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mẹ của"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "và Esav"
+    }
+  ],
+  "timestamp": "2026-08-19T01:12:52.026906566Z",
+  "model": "glm-5.3"
+}

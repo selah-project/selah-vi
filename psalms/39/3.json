@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 39,
+  "translation": "Tôi bị câm lặng, im lặng tuyệt đối; tôi nín thinng ⟨khỏi cả⟩ điều lành, và nỗi đau của tôi bị khuấy động.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "tôi bị câm lặng"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "im lặng tuyệt đối"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "tôi nín thinng"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "khỏi cả điều lành"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "và nỗi đau của tôi"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "bị khuấy động"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:48.507938806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và Yoktan sinh ⟨את⟩ Almodad, và ⟨את⟩ Sheleph, và ⟨את⟩ Chatsermavet, và ⟨את⟩ Yerach.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "và Yoktan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Sheleph"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Sheleph"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Chatsermavet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Chatsermavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Yerach"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yerach"
+    }
+  ],
+  "timestamp": "2026-08-19T05:46:45.432748767Z",
+  "model": "glm-5.3"
+}

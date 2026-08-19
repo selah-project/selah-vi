@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Vì sự lười biếng cái mái nhà sụp xuống, và vì sự trì trệ của tay, nhà ⟨này⟨ drips nước.",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "vì sự lười biếng"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "sụp xuống"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "cái mái nhà"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "và vì sự trì trệ"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "của tay"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "rịn nước"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ngôi nhà"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:34.980504020Z",
+  "model": "glm-5.3"
+}

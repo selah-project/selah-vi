@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 139,
+  "translation": "Nếu tôi cất cánh theo đôi cánh của rạng đông, nếu tôi cư ngụ tại nơi cuối cùng của biển;",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "tôi cất cánh"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "đôi cánh của"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "rạng đông"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "tôi cư ngụ"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "tại nơi cuối cùng của"
+    },
+    {
+      "surface": "ים",
+      "gloss": "biển"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:37.854741100Z",
+  "model": "glm-5.3"
+}

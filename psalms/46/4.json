@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 46,
+  "translation": "Nước của nó gầm thét, sôi sục; núi non rung chuyển trong sự ngạo mạn của nó. Selah.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "gầm thét"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "sôi sục"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "nước của nó"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "rung chuyển"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "núi non"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "trong sự ngạo mạn của nó"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:28.763906921Z",
+  "model": "glm-5.3"
+}

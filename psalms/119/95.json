@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 95,
+  "ref": "psalms 119:95",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Đối với con, kẻ ác rình mưu hủy diệt con; còn các chứng cớ của Ngài, con suy gẫm.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "đối với con"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "rình chờ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "לאבדני",
+      "gloss": "để hủy diệt con"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "các chứng cớ của Ngài"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "con suy gẫm"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:59.140904863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "và ⟨את⟩ các dấu lạ của Ngài, và ⟨את⟩ các công việc của Ngài, mà Ngài đã làm giữa lòng Mitsrayim, cho Pharaoh vua của Mitsrayim và cho cả đất của ông ta;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các dấu lạ của Ngài"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "các dấu lạ của Ngài"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các công việc của Ngài"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "các công việc của Ngài"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Ngài đã làm"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "giữa lòng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "cho Pharaoh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "của Mitsrayim"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "và cho cả"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "đất của ông ta"
+    }
+  ],
+  "timestamp": "2026-08-19T03:07:51.488510523Z",
+  "model": "glm-5.3"
+}

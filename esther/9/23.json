@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và người Yehuda đã nhận ⟨את⟩ điều mà họ đã bắt đầu làm, và ⟨את⟩ điều mà Mordechai đã viết cho họ.",
+  "tokens": [
+    {
+      "surface": "וקבל",
+      "gloss": "và đã nhận"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "người Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "điều mà họ đã bắt đầu làm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "điều mà"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "họ đã bắt đầu"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "làm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "điều mà Mordechai đã viết"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "điều mà"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "đã viết"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "cho họ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:35:59.516215667Z",
+  "model": "glm-5.3"
+}

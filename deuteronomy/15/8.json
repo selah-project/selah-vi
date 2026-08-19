@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "mà ngươi hãy rộng mở ⟨את⟩ tay mình cho người ấy, và chắc chắn cho người ấy vay mượn đủ điều người ấy thiếu thốn, điều mà người ấy còn thiếu",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mà"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "rộng mở thật"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "ngươi hãy mở"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tay mình"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tay của ngươi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho người ấy"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "và chắc chắn cho vay"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "ngươi cho người ấy vay mượn"
+    },
+    {
+      "surface": "די",
+      "gloss": "đủ"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "sự thiếu thốn của người ấy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "điều mà"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "người ấy còn thiếu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho người ấy"
+    }
+  ],
+  "timestamp": "2026-08-19T03:08:53.194269667Z",
+  "model": "glm-5.3"
+}

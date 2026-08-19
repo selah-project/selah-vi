@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 3:32",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và họ chôn ⟨את⟩ Avner tại Chevron; và vua cất lên ⟨את⟩ tiếng mình và khóc bên mộ Avner, và cả dân sự khóc.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "và họ chôn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "tại Chevron"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "và cất lên"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiếng mình"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "tiếng mình"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "và khóc"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bên"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "mộ"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "và khóc"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cả"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    }
+  ],
+  "timestamp": "2026-08-19T03:39:45.696005661Z",
+  "model": "glm-5.3"
+}

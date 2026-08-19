@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 2:6",
+  "book": "zechariah",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và tôi nói: Ngươi đang đi đâu? Và người nói với tôi: Để đo ⟨את⟩ Yerushalayim, để xem nó rộng bao nhiêu và dài bao nhiêu.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "và tôi nói"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "đi đâu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "đang đi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và người nói"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "với tôi"
+    },
+    {
+      "surface": "למד",
+      "gloss": "để đo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "để xem"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "bao nhiêu"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "rộng nó"
+    },
+    {
+      "surface": "וכמה",
+      "gloss": "và bao nhiêu"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "dài nó"
+    }
+  ],
+  "timestamp": "2026-08-19T04:52:47.190519033Z",
+  "model": "glm-5.3"
+}

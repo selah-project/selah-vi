@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 25:40",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Hãy nhìn xem và làm theo khuôn mẫu của chúng, mà ngươi đang được thấy trên núi.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "hãy nhìn xem"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "và làm"
+    },
+    {
+      "surface": "בתבניתם",
+      "gloss": "theo khuôn mẫu của chúng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "đang được thấy"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "trên núi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:34:14.489450853Z",
+  "model": "glm-5.3"
+}

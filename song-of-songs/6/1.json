@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 6:1",
+  "book": "song-of-songs",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Người yêu của nàng đã đi đâu, hỡi nàng đẹp nhất giữa các phụ nữ? Người yêu của nàng đã quay về đâu, để chúng tôi tìm chàng cùng với nàng?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "đi đâu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "đã đi"
+    },
+    {
+      "surface": "דודך",
+      "gloss": "người yêu của nàng"
+    },
+    {
+      "surface": "היפה",
+      "gloss": "đẹp nhất"
+    },
+    {
+      "surface": "בנשים",
+      "gloss": "giữa các phụ nữ"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "về đâu"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "đã quay"
+    },
+    {
+      "surface": "דודך",
+      "gloss": "người yêu của nàng"
+    },
+    {
+      "surface": "ונבקשנו",
+      "gloss": "để chúng tôi tìm chàng"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "cùng với nàng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:28:51.868243862Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Vì nó đến trong hư không, và trong bóng tối nó đi, và trong bóng tối tên nó bị che khuất.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "trong hư không"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nó đến"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "và trong bóng tối"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "nó đi"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "và trong bóng tối"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "tên nó"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "bị che khuất"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:52.762764110Z",
+  "model": "glm-5.3"
+}

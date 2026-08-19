@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Đây là dòng dõi của những kẻ tìm kiếm Ngài, những kẻ tìm kiếm mặt Ngài. Yaakov. Selah.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Đây"
+    },
+    {
+      "surface": "דור",
+      "gloss": "dòng dõi \/ thế hệ"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "của những kẻ tìm kiếm Ngài"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "những kẻ tìm kiếm"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "mặt Ngài"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:34.223869583Z",
+  "model": "glm-5.3"
+}

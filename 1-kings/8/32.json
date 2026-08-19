@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 8:32",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "thì ngài sẽ lắng nghe tại các tầng trời, và làm, và xét xử ⟨את⟩ các tôi tớ ngài: tuyên bố kẻ ác là ác, để trả đường lối hắn trên đầu hắn; và tuyên bố người công chính là công chính, để trả cho hắn theo sự công chính của hắn",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "và ngài"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "sẽ lắng nghe"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨ה⟩ các tầng trời"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "và làm"
+    },
+    {
+      "surface": "ושפטת",
+      "gloss": "và xét xử"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các tôi tớ ngài"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "các tôi tớ ngài"
+    },
+    {
+      "surface": "להרשיע",
+      "gloss": "tuyên bố là ác"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "để trả"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "đường lối hắn"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "trên đầu hắn"
+    },
+    {
+      "surface": "ולהצדיק",
+      "gloss": "và tuyên bố là công chính"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "người công chính"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "để trả"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho hắn"
+    },
+    {
+      "surface": "כצדקתו",
+      "gloss": "theo sự công chính của hắn"
+    }
+  ],
+  "timestamp": "2026-08-19T03:49:59.079056981Z",
+  "model": "glm-5.3"
+}

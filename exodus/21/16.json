@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Kẻ nào bắt cóc một người và bán đi nó, hoặc nếu nó được tìm thấy trong tay hắn, thì chắc chắn bị xử tử.",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "kẻ nào trộm"
+    },
+    {
+      "surface": "איש",
+      "gloss": "một người"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "và bán nó"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "và được tìm thấy"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "trong tay hắn"
+    },
+    {
+      "surface": "מות",
+      "gloss": "chết"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bị khiến chết"
+    }
+  ],
+  "timestamp": "2026-08-19T02:33:03.520571910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 102,
+  "translation": "Vì cơn thịnh nộ ⟨của Ngài⟩ và sự giận dữ ⟨của Ngài⟩, vì ⟨Ngài⟩ đã nhấc tôi lên và đã ném tôi xuống.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "vì mặt của \/ vì cơn"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "thịnh nộ của Ngài"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "và sự giận dữ của Ngài"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "Ngài đã nhấc tôi lên"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "và đã ném tôi xuống"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:06.299608939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 75,
+  "translation": "Đừng nhấc lên cao sừng các ngươi; đừng nói với cổ ngạo mạn.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "nhấc lên"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "lên cao"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "sừng các ngươi"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "đừng nói"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "với cổ"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "ngạo mạn \/ cứng cỏi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:34.990058263Z",
+  "model": "glm-5.3"
+}

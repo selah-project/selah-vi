@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Ngươi chớ làm chứng dối chống lại kẻ lân cận của ngươi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "làm chứng (đáp lời)"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "chống lại kẻ lân cận của ngươi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "chứng"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dối"
+    }
+  ],
+  "timestamp": "2026-08-19T02:31:48.544829517Z",
+  "model": "glm-5.3"
+}

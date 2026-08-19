@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 114,
+  "translation": "Hỡi núi, rằng các ngươi nhảy nhót như chiên đực, hỡi các đồi, như con chiên?",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "hỡi các núi"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "các ngươi nhảy nhót"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "như chiên đực"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "hỡi các đồi"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "như con của"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "đàn chiên"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:58.141053309Z",
+  "model": "glm-5.3"
+}

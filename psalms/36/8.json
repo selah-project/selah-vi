@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 36,
+  "translation": "Lòng nhân từ của Ngài quý giá biết bao, Elohim ơi! Vì vậy con cái của loài người trong bóng cánh của Ngài nương náu.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "biết bao"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "quý giá"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "lòng nhân từ của Ngài"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "vì vậy con cái của"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "loài người"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "trong bóng"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "cánh của Ngài"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "nương náu"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:52.302638665Z",
+  "model": "glm-5.3"
+}

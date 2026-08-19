@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 18:27",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Vì ⟨את⟩ tất cả các điều gớm ghiếc này dân của đất — những kẻ ở trước mặt các ngươi — đã làm, và đất đã bị ô uế.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả các điều gớm ghiếc này"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "các điều gớm ghiếc"
+    },
+    {
+      "surface": "האל",
+      "gloss": "này"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "dân của"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ở trước mặt các ngươi"
+    },
+    {
+      "surface": "ותטמא",
+      "gloss": "đã bị ô uế"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T02:44:52.727317106Z",
+  "model": "glm-5.3"
+}

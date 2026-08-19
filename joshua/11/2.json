@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 11:2",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "và cùng các vua ⟨אשר⟩ ở phương bắc, trên núi, và trong đồng Araba, phía nam Kinrot, và trong đất thấp, và trên các vùng của Dor, phía tây.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "và cùng"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "các vua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨אשר⟩"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "từ phương bắc"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "trong núi"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "và trong Araba"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "phía nam"
+    },
+    {
+      "surface": "כנרות",
+      "gloss": "Kinrot"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "và trong đất thấp"
+    },
+    {
+      "surface": "ובנפות",
+      "gloss": "và trên các vùng"
+    },
+    {
+      "surface": "דור",
+      "gloss": "Dor"
+    },
+    {
+      "surface": "מים",
+      "gloss": "phía tây (biển)"
+    }
+  ],
+  "timestamp": "2026-08-19T03:18:43.023976865Z",
+  "model": "glm-5.3"
+}

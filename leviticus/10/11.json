@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "và để dạy dỗ ⟨את⟩ con cái Yisrael ⟨את⟩ mọi luật lệ mà Yahweh đã phán với họ qua tay Moshe.",
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "và để dạy dỗ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con cái Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi luật lệ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "luật lệ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "đã phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "với họ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "qua tay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-19T02:42:08.445072711Z",
+  "model": "glm-5.3"
+}

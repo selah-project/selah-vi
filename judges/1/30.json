@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Zevulun không đuổi ⟨את⟩ dân ở Kitron và ⟨את⟩ dân ở Nahalol; người Kenaan liền ở giữa nó, và chúng thành ra cống nộp.",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "Zevulun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "đuổi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân ở Kitron"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "dân ở"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "Kitron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "dân ở Nahalol"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "dân ở"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalol"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "liền ở"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "người Kenaan"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "giữa nó"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "và chúng thành ra"
+    },
+    {
+      "surface": "למס",
+      "gloss": "cống nộp"
+    }
+  ],
+  "timestamp": "2026-08-19T03:21:58.974986615Z",
+  "model": "glm-5.3"
+}

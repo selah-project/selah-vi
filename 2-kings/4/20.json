@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Người ấy bồng nó và đem nó đến với mẹ nó; nó ngồi trên đầu gối bà cho đến giữa trưa, rồi nó chết.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "và bồng nó"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "và đem nó đến"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến với"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mẹ nó"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "và nó ngồi"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "đầu gối bà"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "giữa trưa"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "và nó chết"
+    }
+  ],
+  "timestamp": "2026-08-19T03:56:55.957243468Z",
+  "model": "glm-5.3"
+}

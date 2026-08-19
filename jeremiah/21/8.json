@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Và với dân này ngươi sẽ nói: Thus — Yahweh phán: nầy, ta đặt trước mặt các ngươi ⟨את⟩ con đường của sự sống và ⟨את⟩ con đường của sự chết.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "và với"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ngươi sẽ nói"
+    },
+    {
+      "surface": "כה",
+      "gloss": "như vầy"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "đã phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "nầy ta"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "đang đặt"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "trước mặt các ngươi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con đường của sự sống"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "con đường"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "của sự sống"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con đường của sự chết"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "con đường"
+    },
+    {
+      "surface": "המות",
+      "gloss": "của sự chết"
+    }
+  ],
+  "timestamp": "2026-08-19T04:22:12.233505451Z",
+  "model": "glm-5.3"
+}

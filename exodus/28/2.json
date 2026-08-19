@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Ngươi sẽ làm áo thánh cho Aharon anh ngươi, để cho vinh quang và cho đẹp đẽ.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ngươi sẽ làm"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "áo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "thánh"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "cho Aharon"
+    },
+    {
+      "surface": "אחיק",
+      "gloss": "anh ngươi"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "cho vinh quang"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "và cho đẹp đẽ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:35:10.403426223Z",
+  "model": "glm-5.3"
+}

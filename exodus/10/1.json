@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Và Yahweh phán cùng Moshe: Hãy đến cùng Pharaoh, vì chính Ta đã làm nặng ⟨את⟩ lòng hắn và ⟨את⟩ lòng các tôi tớ hắn, hầu cho Ta đặt các dấu lạ này của Ta vào giữa hắn.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cùng"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hãy đến"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cùng"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaoh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אני",
+      "gloss": "chính Ta"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "đã làm nặng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lòng hắn"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "lòng hắn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "lòng"
+    },
+    {
+      "surface": "לב",
+      "gloss": "lòng"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "các tôi tớ hắn"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hầu cho"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "Ta đặt"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "các dấu lạ của Ta"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "này"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "vào giữa hắn"
+    }
+  ],
+  "timestamp": "2026-08-19T02:30:04.535903602Z",
+  "model": "glm-5.3"
+}

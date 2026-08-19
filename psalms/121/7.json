@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 121,
+  "translation": "Yahweh sẽ canh giữ ngươi khỏi mọi điều ác, Ngài sẽ canh giữ ⟨את⟩ sinh mạng của ngươi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "sẽ canh giữ ngươi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "khỏi mọi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "điều ác"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "Ngài sẽ canh giữ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinh mạng của ngươi"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "sinh mạng của ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:31.781863495Z",
+  "model": "glm-5.3"
+}

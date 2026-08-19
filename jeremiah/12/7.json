@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 12:7",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Ta đã bỏ ⟨את⟩ nhà Ta, Ta đã từ bỏ ⟨את⟩ cơ nghiệp Ta; Ta đã giao ⟨את⟩ người yêu dấu của linh hồn Ta vào lòng bàn tay kẻ thù nghịch cùng nàng.",
+  "tokens": [
+    {
+      "surface": "עזבתי",
+      "gloss": "Ta đã bỏ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhà Ta"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "nhà Ta"
+    },
+    {
+      "surface": "נטשתי",
+      "gloss": "Ta đã từ bỏ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cơ nghiệp Ta"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "cơ nghiệp Ta"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Ta đã giao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người yêu dấu của linh hồn Ta"
+    },
+    {
+      "surface": "ידדות",
+      "gloss": "người yêu dấu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "của linh hồn Ta"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "vào lòng bàn tay"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "kẻ thù nghịch cùng nàng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:20:02.841846220Z",
+  "model": "glm-5.3"
+}

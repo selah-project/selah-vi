@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Và Moshe đem ⟨את⟩ dân ra khỏi trại để đón Elohim, và họ đứng xếp hàng ở chân núi.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "đem ra"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "để đón"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "trại"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "và họ đứng xếp hàng"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "ở chân"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "núi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:32:03.463354978Z",
+  "model": "glm-5.3"
+}

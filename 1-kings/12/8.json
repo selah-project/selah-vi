@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 12:8",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Nhưng ông bỏ rơi ⟨את⟩ lời bàn của các trưởng lão mà họ đã khuyên ông, và bàn nghị với ⟨את⟩ những người trẻ đã lớn lên ⟨את⟩ cùng ông, là những người đứng phục vụ trước mặt ông.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "và ông bỏ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lời bàn của các trưởng lão"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "lời bàn của"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "các trưởng lão"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "họ đã khuyên ông"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "và bàn nghị với"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "những người trẻ"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "những người trẻ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "là những người"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "đã lớn lên"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ cùng ông"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "là những người"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "đứng phục vụ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "trước mặt ông"
+    }
+  ],
+  "timestamp": "2026-08-19T03:52:10.107440048Z",
+  "model": "glm-5.3"
+}

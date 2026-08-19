@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 28:21",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Yahweh sẽ làm ⟨את⟩ dịch bệnh dính chặt vào ngươi, cho đến khi Ngài tiêu diệt ngươi khỏi ⟨the⟩ đất mà ngươi đến đó để chiếm lấy nó.",
+  "tokens": [
+    {
+      "surface": "ידבק",
+      "gloss": "sẽ làm dính chặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בך",
+      "gloss": "vào ngươi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dịch bệnh"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dịch bệnh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến khi"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "Ngài tiêu diệt"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ngươi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "khỏi trên"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "đất"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "đến"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "đó"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "để chiếm lấy nó"
+    }
+  ],
+  "timestamp": "2026-08-19T03:12:36.172778311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Chever sinh ⟨את⟩ Yaphlet, ⟨את⟩ Shomer, ⟨את⟩ Chotam, và ⟨את⟩ Shua em gái của họ.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "và Chever"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaphlet"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Yaphlet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shomer"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Shomer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chotam"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Chotam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shua"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "Shua"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "em gái của họ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:48:52.289245934Z",
+  "model": "glm-5.3"
+}

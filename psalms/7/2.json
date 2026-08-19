@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 7:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Yahweh Elohim của tôi, trong Ngài tôi đã nương ẩn; xin cứu tôi khỏi tất cả kẻ đuổi bắt tôi, và xin giải cứu tôi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của tôi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "trong Ngài"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "tôi đã nương ẩn"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "xin cứu tôi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "khỏi tất cả"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "kẻ đuổi bắt tôi"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "và xin giải cứu tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:55:19.435618481Z",
+  "model": "glm-5.3"
+}

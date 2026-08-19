@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 124,
+  "translation": "thì khi ấy nước lũ đã cuốn trôi chúng ta, dòng thác đã tràn qua ⟨trên⟩ sinh mạng chúng ta,",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "thì khi ấy"
+    },
+    {
+      "surface": "המים",
+      "gloss": "nước lũ"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "đã cuốn trôi chúng ta"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "dòng thác"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "đã tràn qua"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "sinh mạng chúng ta"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:56.815038788Z",
+  "model": "glm-5.3"
+}

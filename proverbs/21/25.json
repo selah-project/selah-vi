@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 21:25",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Sự ham muốn của kẻ lười biếng giết nó, vì tay nó đã từ chối không làm.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "sự ham muốn"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "kẻ lười biếng"
+    },
+    {
+      "surface": "תמיתנו",
+      "gloss": "giết nó"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "đã từ chối"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "tay nó"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "làm"
+    }
+  ],
+  "timestamp": "2026-08-19T05:18:10.437554495Z",
+  "model": "glm-5.3"
+}

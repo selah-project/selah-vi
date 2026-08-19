@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Vườn nho của ngươi chớ vặt sạch, và quả rơi của vườn nho ngươi chớ nhặt; cho người nghèo và cho khách kiều cư ngươi hãy để lại ⟨את⟩ chúng; ta là Yahweh Elohim của các ngươi.",
+  "tokens": [
+    {
+      "surface": "וכרמך",
+      "gloss": "và vườn nho của ngươi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "vặt sạch"
+    },
+    {
+      "surface": "ופרט",
+      "gloss": "và quả rơi"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "của vườn nho ngươi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "nhặt"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "cho người nghèo"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "và cho khách kiều cư"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "ngươi hãy để lại"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chúng (hạt rơi, quả rơi)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim của các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:45:05.501013752Z",
+  "model": "glm-5.3"
+}

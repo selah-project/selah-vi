@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 15:16",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Và vua ra đi, và cả nhà ⟨của⟩ ⟨h⟩ắn theo chân ⟨h⟩ắn; và vua bỏ lại ⟨את⟩ mười người nữ là các kế-phụ, để giữ nhà.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "và vua ra-đi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và cả"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nhà-của-ông"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "theo-chân-ông"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "và vua bỏ-lại"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mười người nữ kế-phụ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mười"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "người-nữ"
+    },
+    {
+      "surface": "פלגשים",
+      "gloss": "kế-phụ"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "để-giữ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nhà"
+    }
+  ],
+  "timestamp": "2026-08-19T03:42:51.612074784Z",
+  "model": "glm-5.3"
+}

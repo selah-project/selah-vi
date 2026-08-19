@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 11:16",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và Yehoshua chiếm lấy ⟨את⟩ cả đất này: vùng núi, và ⟨את⟩ toàn bộ phía Nam, và ⟨את⟩ toàn đất Goshen, và ⟨את⟩ vùng đất thấp, và ⟨את⟩ Arabah, và ⟨את⟩ núi Yisrael cùng vùng đất thấp của nó.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "và chiếm lấy"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cả đất này"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cả"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "này"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "vùng núi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "toàn bộ phía Nam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn bộ"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "phía Nam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "toàn đất Goshen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "הגשן",
+      "gloss": "Goshen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "vùng đất thấp"
+    },
+    {
+      "surface": "השפלה",
+      "gloss": "vùng đất thấp"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Arabah"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Arabah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "núi Yisrael"
+    },
+    {
+      "surface": "הר",
+      "gloss": "núi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ושפלתה",
+      "gloss": "và vùng đất thấp của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T03:18:40.560600142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 66:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 66,
+  "translation": "Ngài đã đưa chúng con vào lưới bẫy, đã đặt sự ngặt nghèo trên hông ⟨của⟩ chúng con.",
+  "tokens": [
+    {
+      "surface": "הבאתנו",
+      "gloss": "đã đưa chúng con vào"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "lưới bẫy"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "đã đặt"
+    },
+    {
+      "surface": "מועקה",
+      "gloss": "sự ngặt nghèo"
+    },
+    {
+      "surface": "במתנינו",
+      "gloss": "trên hông chúng con"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:01.243901476Z",
+  "model": "glm-5.3"
+}

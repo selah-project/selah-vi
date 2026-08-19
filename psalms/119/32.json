@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Con đường các điều răn của Ngài con sẽ chạy, vì Ngài đã mở rộng lòng con.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "con đường"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "các điều răn của Ngài"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "con sẽ chạy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "Ngài mở rộng"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "lòng con"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:44.408171337Z",
+  "model": "glm-5.3"
+}

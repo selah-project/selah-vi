@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 6:8",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và các ngươi hãy lấy ⟨את⟩ hòm của Yahweh, đặt nó lên cỗ xe, và ⟨את⟩ các đồ vật bằng vàng mà các ngươi hoàn lại cho Ngài làm của tế tội, hãy đặt vào chiếc rương bên cạnh nó; rồi hãy thả nó đi, và nó sẽ đi.",
+  "tokens": [
+    {
+      "surface": "ולקחתם",
+      "gloss": "và các ngươi hãy lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hòm của Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "hòm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "và các ngươi hãy đặt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nó",
+      "marks": "lên cỗ xe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lên"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "cỗ xe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các đồ vật bằng vàng"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "các đồ vật của"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "vàng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "השבתם",
+      "gloss": "các ngươi hoàn lại"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho Ngài"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "của tế tội"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "hãy đặt"
+    },
+    {
+      "surface": "בארגז",
+      "gloss": "vào chiếc rương"
+    },
+    {
+      "surface": "מצדו",
+      "gloss": "bên cạnh nó"
+    },
+    {
+      "surface": "ושלחתם",
+      "gloss": "rồi hãy thả"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nó",
+      "marks": "nó đi"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "và nó sẽ đi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:31:00.125470011Z",
+  "model": "glm-5.3"
+}

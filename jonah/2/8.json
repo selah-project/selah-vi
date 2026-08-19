@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Khi linh hồn tôi lịm đi trong tôi, tôi đã nhớ ⟨את⟩ Yahweh, và lời cầu nguyện tôi đến với Ngài, tới đền thánh của Ngài.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "khi lịm đi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "trên tôi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "linh hồn tôi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "tôi đã nhớ"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "và đã đến"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "với Ngài"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "lời cầu nguyện tôi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tới"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "đền"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "thánh của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T04:48:41.991921936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và ⟨he⟩ nói: Ngươi đã xin điều khó để xin; nếu ngươi thấy ⟨את⟩ ta bị cất từ với ⟨את⟩ ngươi, thì điều ấy sẽ xảy ra cho ngươi; còn nếu không, nó sẽ không xảy ra.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và-nói"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "ngươi-đã-xin-điều-khó"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "để-xin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ngươi-thấy"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ta"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "bị-cất"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "từ-với-⟨את⟩-ngươi"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "thì-xảy-ra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho-ngươi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "như-vậy"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "còn-nếu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sẽ-xảy-ra"
+    }
+  ],
+  "timestamp": "2026-08-19T03:56:03.118147826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 20:11",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Yehonatan nói với David: Hãy đến, chúng ta hãy ra ngoài đồng. Và cả hai người ra ngoài đồng.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và-người-nói"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "hãy-đến"
+    },
+    {
+      "surface": "ונצא",
+      "gloss": "và-chúng-ta-ra"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "⟨the⟩ đồng"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "và-họ-ra"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "cả-hai"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "⟨the⟩ đồng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:34:52.685578617Z",
+  "model": "glm-5.3"
+}

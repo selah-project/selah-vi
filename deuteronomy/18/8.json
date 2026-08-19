@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Phần như phần, họ sẽ ăn, ngoài ⟨ra⟩ vật bán của ông, theo các gia tộc.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "phần"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "như phần"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "họ sẽ ăn"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ngoài ra"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "vật bán của ông"
+    },
+    {
+      "surface": "על",
+      "gloss": "theo"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "các gia tộc"
+    }
+  ],
+  "timestamp": "2026-08-19T03:09:27.747504817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Với người thanh sạch, Ngài tỏ mình thanh sạch; còn với kẻ quanh co, Ngài xử quanh co.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "với"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "người thanh sạch"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "tỏ mình thanh sạch"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "còn với"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "kẻ quanh co"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "xử quanh co"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:38.433695510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 115,
+  "translation": "Anh em ⟨là⟩ những kẻ được ban phước bởi Yahweh, Đấng làm ⟨את⟩ các tầng trời và ⟨את⟩ đất.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "được ban phước"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "anh em"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bởi Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Đấng làm"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "các tầng trời"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "và đất"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:33.440259653Z",
+  "model": "glm-5.3"
+}

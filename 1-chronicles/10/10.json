@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 10:10",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Họ đặt ⟨את⟩ đồ binh khí ông trong nhà elohim của họ, và ⟨את⟩ đầu lâu ông họ đóng tại nhà Dagon.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "họ đặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đồ binh khí ông"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "đồ binh khí ông"
+    },
+    {
+      "surface": "בית",
+      "gloss": "trong nhà"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "elohim của họ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "đầu lâu ông"
+    },
+    {
+      "surface": "גלגלתו",
+      "gloss": "đầu lâu ông"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "họ đóng \/ cắm"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tại nhà"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    }
+  ],
+  "timestamp": "2026-08-19T05:49:26.193906904Z",
+  "model": "glm-5.3"
+}

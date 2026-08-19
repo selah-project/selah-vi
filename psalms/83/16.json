@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 83,
+  "translation": "Như vậy, xin ngài đuổi bắt chúng trong cơn bão của ngài, và trong cơn cuồng phong của ngài xin làm chúng kinh hoàng.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "như vậy"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "xin ngài đuổi bắt chúng"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "trong cơn bão của ngài"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "và trong cơn cuồng phong của ngài"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "xin làm chúng kinh hoàng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:45.142464718Z",
+  "model": "glm-5.3"
+}

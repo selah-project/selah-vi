@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 108,
+  "translation": "Hãy thức dậy, đàn navel và đàn kinnor; tôi sẽ đánh thức ⟨את⟩ rạng đông.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "hãy thức dậy"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "đàn navel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "và đàn kinnor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "tôi sẽ đánh thức"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "rạng đông"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:26.734808638Z",
+  "model": "glm-5.3"
+}

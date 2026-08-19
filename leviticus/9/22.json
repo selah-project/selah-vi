@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 9:22",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và Aharon giơ ⟨את⟩ tay mình về phía dân chúng và chúc phước cho họ; rồi người xuống, sau khi dâng lễ tha tội, lễ thiêu và lễ bình an.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "và giơ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tay mình"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tay mình"
+    },
+    {
+      "surface": "אל",
+      "gloss": "về phía"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân chúng"
+    },
+    {
+      "surface": "ויברכם",
+      "gloss": "và chúc phước cho họ"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "rồi xuống"
+    },
+    {
+      "surface": "מעשת",
+      "gloss": "sau khi làm\/dâng"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "lễ tha tội"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "và lễ thiêu"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "và lễ bình an"
+    }
+  ],
+  "timestamp": "2026-08-19T02:41:43.525115746Z",
+  "model": "glm-5.3"
+}

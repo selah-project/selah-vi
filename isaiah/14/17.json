@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 14:17",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Đấng đã biến trần gian thành như hoang mạc, và phá hủy các thành của nó, đã không mở cửa nhà tù tù binh của mình.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "đã biến \/ đặt"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "trần gian"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "như hoang mạc"
+    },
+    {
+      "surface": "ועריו",
+      "gloss": "và các thành của nó"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "phá hủy"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "tù binh của mình"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mở"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "cửa nhà (tù)"
+    }
+  ],
+  "timestamp": "2026-08-19T04:06:25.474571623Z",
+  "model": "glm-5.3"
+}

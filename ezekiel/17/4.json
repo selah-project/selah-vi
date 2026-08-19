@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 17:4",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Nó đã bẻ ⟨את⟩ ngọn những chồi non của nó, và đem nó đến xứ Kenaan, trong thành của những thương nhân nó đã đặt nó.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngọn những chồi non"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ngọn-đỉnh"
+    },
+    {
+      "surface": "יניקותיו",
+      "gloss": "những chồi-non-của-nó"
+    },
+    {
+      "surface": "קטף",
+      "gloss": "đã-bẻ-cắt"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "và đã-đem-nó"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "xứ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "trong-thành"
+    },
+    {
+      "surface": "רכלים",
+      "gloss": "những thương-nhân"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nó-đã-đặt-nó"
+    }
+  ],
+  "timestamp": "2026-08-19T04:35:12.957237891Z",
+  "model": "glm-5.3"
+}

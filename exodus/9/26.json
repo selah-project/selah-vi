@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Chỉ riêng trong đất Goshen, nơi con cái Yisrael ⟨ở⟩ đó, không có mưa đá.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "chỉ riêng"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trong đất"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Goshen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nơi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ở đó"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "היה",
+      "gloss": "có"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "mưa đá"
+    }
+  ],
+  "timestamp": "2026-08-19T02:29:32.714188528Z",
+  "model": "glm-5.3"
+}

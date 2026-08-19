@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và Yahweh dấy lên một kẻ đối nghịch cho Shelomoh: ⟨את⟩ Hadad người Edom, từ dòng giống của vua — chính hắn ở Edom.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "đã dấy lên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "kẻ đối nghịch"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "cho Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadad người Edom"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "người Edom"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "từ dòng giống"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "của vua"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chính hắn"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "ở Edom"
+    }
+  ],
+  "timestamp": "2026-08-19T03:51:09.131251068Z",
+  "model": "glm-5.3"
+}

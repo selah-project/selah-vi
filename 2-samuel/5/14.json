@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 5:14",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Và ⟨đây là⟩ các tên của những đứa con sinh cho ⟨ngài⟩ tại Yerushalayim: Shammua, và Shovav, và Natan, và Shelomo.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "và các này"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "các tên"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "những đứa được sinh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho ngài"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "tại Yerushalayim"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "Shammua"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "và Shovav"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "và Natan"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "và Shelomo"
+    }
+  ],
+  "timestamp": "2026-08-19T03:39:58.901599459Z",
+  "model": "glm-5.3"
+}

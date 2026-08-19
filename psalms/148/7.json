@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 148,
+  "translation": "Hãy ca ngợi ⟨את⟩ Yahweh từ đất, hỡi các con rồng biển và mọi vực thẳm.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "hãy ca ngợi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "các con rồng biển"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "vực thẳm"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:43.594725518Z",
+  "model": "glm-5.3"
+}

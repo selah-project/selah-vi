@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 135,
+  "translation": "Yahweh, danh Ngài ⟨vốn⟩ đến muôn đời; Yahweh, sự tưởng niệm Ngài qua đời đời này sang đời đời khác.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "danh Ngài"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "đến muôn đời"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "sự tưởng niệm Ngài"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "cho đời này"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "và đời khác"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:11.911396342Z",
+  "model": "glm-5.3"
+}

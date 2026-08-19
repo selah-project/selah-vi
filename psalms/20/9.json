@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Chúng nó quỳ gối và ngã xuống, còn chúng ta đã đứng dậy và đứng vững.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "chúng nó"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "quỳ gối"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "và ngã xuống"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "còn chúng ta"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "đã đứng dậy"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "và đứng vững"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:44.620538906Z",
+  "model": "glm-5.3"
+}

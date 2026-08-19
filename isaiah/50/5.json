@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 50,
+  "translation": "Adonai Yahweh đã mở tai tôi, còn tôi thì không phản nghịch, không lùi bước về sau.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "đã mở"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tai tôi"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "tai"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "còn tôi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "phản nghịch"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "về sau"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "lùi bước"
+    }
+  ],
+  "timestamp": "2026-08-19T04:13:50.751090193Z",
+  "model": "glm-5.3"
+}

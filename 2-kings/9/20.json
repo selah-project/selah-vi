@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 9:20",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và người canh gác báo lại, nói: \"Ông ấy đã đến tận họ, và không quay lại; và cách đánh xe ⟨là⟩ như cách đánh xe của Yehu con Nimshi, vì ông ấy đánh xe như điên.\"",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "và báo lại"
+    },
+    {
+      "surface": "הצפה",
+      "gloss": "người canh gác"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nói rằng"
+    },
+    {
+      "surface": "בא",
+      "gloss": "đã đến"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến tận"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "với họ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "שב",
+      "gloss": "quay lại"
+    },
+    {
+      "surface": "והמנהג",
+      "gloss": "và cách đánh xe"
+    },
+    {
+      "surface": "כמנהג",
+      "gloss": "như cách đánh xe"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nimshi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "בשגעון",
+      "gloss": "trong cơn điên"
+    },
+    {
+      "surface": "ינהג",
+      "gloss": "ông đánh xe"
+    }
+  ],
+  "timestamp": "2026-08-19T03:58:55.740186843Z",
+  "model": "glm-5.3"
+}

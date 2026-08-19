@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Hãy để con cái Yisrael làm ⟨את⟩ lễ Vượt Qua đúng kỳ định của nó.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "hãy làm"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lễ Vượt Qua"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "lễ Vượt Qua"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "đúng kỳ định của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:55:36.876862321Z",
+  "model": "glm-5.3"
+}

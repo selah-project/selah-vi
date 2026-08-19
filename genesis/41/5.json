@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 41:5",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 41,
+  "translation": "Người nằm xuống ngủ và mơ giấc ⟨một⟩ lần thứ hai, và kìa, bảy bông lúa mì trồi lên trên một thân, mập mạp và tốt đẹp.",
+  "tokens": [
+    {
+      "surface": "ויישן",
+      "gloss": "người nằm xuống ngủ"
+    },
+    {
+      "surface": "ויחלם",
+      "gloss": "và mơ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "lần thứ hai"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "và kìa"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "bảy"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "bông lúa"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "trồi lên"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "trên một thân"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "một"
+    },
+    {
+      "surface": "בריאות",
+      "gloss": "mập mạp"
+    },
+    {
+      "surface": "וטבות",
+      "gloss": "và tốt đẹp"
+    }
+  ],
+  "timestamp": "2026-08-19T01:27:53.184063835Z",
+  "model": "glm-5.3"
+}

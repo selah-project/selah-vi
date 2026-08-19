@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 13:8",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Tiền chuộc mạng sống của người ⟨là⟩ sự giàu có ⟨của họ⟩, còn người nghèo không nghe lời quở trách.",
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "tiền chuộc"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mạng sống"
+    },
+    {
+      "surface": "איש",
+      "gloss": "của người"
+    },
+    {
+      "surface": "עשרו",
+      "gloss": "sự giàu có ⟨của họ⟩"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "còn người nghèo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nghe"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "lời quở trách"
+    }
+  ],
+  "timestamp": "2026-08-19T05:15:55.445118645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 63,
+  "translation": "Vì sự nhân từ ⟨chesed⟩ của Ngài tốt hơn ⟨sự⟩ sống, môi miệng con sẽ ngợi khen Ngài.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tốt hơn"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sự nhân từ ⟨chesed⟩ của Ngài"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "hơn ⟨sự⟩ sống"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "môi miệng con"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "sẽ ngợi khen Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:46.012322767Z",
+  "model": "glm-5.3"
+}

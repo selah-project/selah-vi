@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 49:14",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 49,
+  "translation": "Tziyon nói: Yahweh đã bỏ tôi, và Adonai đã quên tôi.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tziyon"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "đã bỏ tôi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "và Adonai"
+    },
+    {
+      "surface": "שכחני",
+      "gloss": "đã quên tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:13:14.754191044Z",
+  "model": "glm-5.3"
+}

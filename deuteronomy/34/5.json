@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 34,
+  "translation": "Vậy Moshe, tôi tớ của Yahweh, đã chết tại đó, trong đất Moav, theo miệng Yahweh.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "đã chết"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tại đó"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "tôi tớ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trong đất"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "על",
+      "gloss": "theo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "miệng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T03:14:43.330890740Z",
+  "model": "glm-5.3"
+}

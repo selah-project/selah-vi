@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 30:23",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "David nói: Các anh em tôi, đừng làm như vậy với ⟨את⟩ điều mà Yahweh đã ban cho chúng ta, Đấng đã giữ gìn chúng ta, và đã phó ⟨את⟩ toán quân đến tấn công chúng ta vào tay chúng ta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và-nói"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "các-ngươi-làm"
+    },
+    {
+      "surface": "כן",
+      "gloss": "như-vậy"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "các-anh-em-tôi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ (với)",
+      "marks": "điều mà Yahweh đã ban"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "đã-ban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "cho-chúng-ta"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "và-giữ-gìn"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩-chúng-ta",
+      "marks": "đã giữ gìn"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "và-phó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toán quân"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "toán-quân"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "đã-đến"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "tấn-công-chúng-ta"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "vào-tay-chúng-ta"
+    }
+  ],
+  "timestamp": "2026-08-19T03:38:24.515139022Z",
+  "model": "glm-5.3"
+}

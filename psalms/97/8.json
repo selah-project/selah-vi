@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 97,
+  "translation": "Tsiyon đã nghe và vui mừng, các con gái Yehudah hân hoan, vì ⟨các⟩ phán quyết của Ngài, Yahweh!",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "đã nghe"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "và vui mừng"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "và hân hoan"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "các con gái"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "למען",
+      "gloss": "vì"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "các phán quyết của Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:26.028332311Z",
+  "model": "glm-5.3"
+}

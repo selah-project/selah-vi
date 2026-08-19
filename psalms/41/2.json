@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 41,
+  "translation": "Phước thay kẻ tỏ lòng khôn sáng với ⟨⟨người⟩⟩ nghèo hèn; trong ngày hoạn nạn Yahweh sẽ giải cứu ⟨את⟩ hắn.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "phước thay"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "kẻ tỏ lòng khôn sáng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "דל",
+      "gloss": "người nghèo hèn"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "trong ngày"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "hoạn nạn"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "sẽ giải cứu hắn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:47.521047838Z",
+  "model": "glm-5.3"
+}

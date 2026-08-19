@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 11:13",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và Arpakshad đã sống, sau khi ⟨ông⟩ sinh ⟨את⟩ Shelach, ba trăm ba năm, và đã sinh con trai và con gái.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "đã sống"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakshad"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sau khi"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ông sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelach"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelach"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "năm"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "và bốn"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "trăm"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "năm"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "và đã sinh"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "và con gái"
+    }
+  ],
+  "timestamp": "2026-08-19T00:54:29.505604731Z",
+  "model": "glm-5.3"
+}

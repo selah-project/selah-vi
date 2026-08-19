@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 8:8",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Không có con người nào thống trị được hơi thở ⟨את⟩ để giữ lại hơi thở; và không có quyền phép trong ngày chết; và không có được thả ra trong trận chiến; và sự dữ sẽ không giải thoát ⟨את⟩ chủ nó.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "con người"
+    },
+    {
+      "surface": "שליט",
+      "gloss": "thống trị"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "trên hơi thở"
+    },
+    {
+      "surface": "לכלוא",
+      "gloss": "để giữ lại"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hơi thở"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "hơi thở"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "và không có"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "quyền phép"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "trong ngày"
+    },
+    {
+      "surface": "המות",
+      "gloss": "chết"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "và không có"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "được thả ra"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "trong trận chiến"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "sẽ giải thoát"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sự dữ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chủ nó"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "chủ nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:52.175623860Z",
+  "model": "glm-5.3"
+}

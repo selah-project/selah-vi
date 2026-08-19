@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 9:2",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Quả thật, tôi biết rằng ⟨là⟩ như vậy; nhưng làm sao một người phàm ⟨có thể⟩ công chính cùng El?",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "quả thật"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "tôi biết"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "כן",
+      "gloss": "như vậy"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "nhưng làm sao"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "⟨có thể⟩ công chính"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "người phàm"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cùng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-19T05:21:47.164252725Z",
+  "model": "glm-5.3"
+}

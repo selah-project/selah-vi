@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 29:4",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Yaakov nói với họ: Hỡi các anh em tôi, các bạn từ đâu đến? Và họ nói: Chúng tôi từ Charan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và người nói"
+    },
+    {
+      "surface": "להם",
+      "gloss": "với họ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "hỡi các anh em tôi"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "từ đâu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "các bạn"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "và họ nói"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "từ Charan"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "chúng tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T01:13:53.018772278Z",
+  "model": "glm-5.3"
+}

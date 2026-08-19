@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 32:7",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Yahweh phán cùng Moshe: Hãy đi, hãy xuống, vì dân ngươi — kẻ ngươi đã đưa lên từ đất Mitzrayim — đã hư hoại.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cùng"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hãy đi"
+    },
+    {
+      "surface": "רד",
+      "gloss": "hãy xuống"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "đã hư hoại"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dân ngươi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kẻ mà"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "ngươi đã đưa lên"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "từ đất"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T02:36:49.172729836Z",
+  "model": "glm-5.3"
+}

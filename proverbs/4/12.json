@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Khi ngươi bước đi, bước chân ngươi sẽ không bị chật hẹp; và nếu ngươi chạy, ngươi sẽ không vấp ngã.",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "khi ngươi bước đi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "bị chật hẹp"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "bước chân ngươi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "và nếu"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "ngươi chạy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "ngươi vấp ngã"
+    }
+  ],
+  "timestamp": "2026-08-19T05:14:26.723810637Z",
+  "model": "glm-5.3"
+}

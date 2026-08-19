@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 17:1",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Miếng bánh khô mà có sự bình yên ⟨thì tốt⟩ hơn là nhà đầy thịt sinh tranh cãi.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "tốt"
+    },
+    {
+      "surface": "פת",
+      "gloss": "miếng bánh"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "khô"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "và sự bình yên"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nó"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "hơn nhà"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "đầy"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "thịt"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "tranh cãi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:19:31.353457231Z",
+  "model": "glm-5.3"
+}

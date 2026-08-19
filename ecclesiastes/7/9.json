@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Đừng vội vàng trong linh ngươi để giận dữ, vì cơn giận ngơi nghỉ trong lòng ⟨của⟩ những kẻ dại dột.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "vội vàng"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "trong linh ngươi"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "để giận dữ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "cơn giận"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "trong lòng"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "những kẻ dại dột"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "ngơi nghỉ"
+    }
+  ],
+  "timestamp": "2026-08-19T06:20:57.114800670Z",
+  "model": "glm-5.3"
+}

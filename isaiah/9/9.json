@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 9:9",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Gạch đã ngã xuống, nhưng với đá đẽo ta sẽ xây lại; cây sung Ai Cập đã bị chặt, nhưng với cây tuyết tùng ta sẽ thay thế.",
+  "tokens": [
+    {
+      "surface": "לבנים",
+      "gloss": "gạch"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "đã ngã xuống"
+    },
+    {
+      "surface": "וגזית",
+      "gloss": "nhưng với đá đẽo"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "ta sẽ xây lại"
+    },
+    {
+      "surface": "שקמים",
+      "gloss": "cây sung Ai Cập"
+    },
+    {
+      "surface": "גדעו",
+      "gloss": "đã bị chặt"
+    },
+    {
+      "surface": "וארזים",
+      "gloss": "nhưng với cây tuyết tùng"
+    },
+    {
+      "surface": "נחליף",
+      "gloss": "ta sẽ thay thế"
+    }
+  ],
+  "timestamp": "2026-08-19T04:05:13.799827340Z",
+  "model": "glm-5.3"
+}

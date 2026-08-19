@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 3:4",
+  "book": "micah",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Bấy giờ họ sẽ kêu cứu đến Yahweh, nhưng Ngài sẽ không đáp ⟨את⟩ họ; và Ngài sẽ giấu mặt Ngài khỏi họ vào lúc ấy, như họ đã làm dữ trong các hành động của họ.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "bấy giờ"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "họ sẽ kêu cứu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nhưng không"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "sẽ đáp"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "họ (các thủ lãnh)"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "và sẽ giấu"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mặt Ngài"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "khỏi họ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "vào lúc"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ấy"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "họ đã làm dữ"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "các hành động của họ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:49:42.014786688Z",
+  "model": "glm-5.3"
+}

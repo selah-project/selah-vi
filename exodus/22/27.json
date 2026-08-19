@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Elohim ngươi không được nguyền rủa, và thủ lãnh trong dân ngươi ngươi không được.Serializable",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "ngươi nguyền rủa"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "và thủ lãnh"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "trong dân ngươi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "ngươi rủa sả"
+    }
+  ],
+  "timestamp": "2026-08-19T02:33:02.231087633Z",
+  "model": "glm-5.3"
+}

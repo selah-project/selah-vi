@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Hỡi con trai của người, hãy cho Yerushalayim biết ⟨את⟩ các điều gớm ghiếc của nàng.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "của người"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "hãy cho biết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các điều gớm ghiếc của nàng"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "các điều gớm ghiếc của nàng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:34:11.104548890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 16:21",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Hãy tách riêng mình ra khỏi giữa hội chúng này, và ta sẽ tiêu diệt ⟨את⟩ chúng nó trong chốc lát.",
+  "tokens": [
+    {
+      "surface": "הבדלו",
+      "gloss": "hãy tách riêng mình ra"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "khỏi giữa"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "hội chúng"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "này"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "và ta sẽ tiêu diệt"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chúng nó"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "trong chốc lát"
+    }
+  ],
+  "timestamp": "2026-08-19T02:57:27.129058036Z",
+  "model": "glm-5.3"
+}

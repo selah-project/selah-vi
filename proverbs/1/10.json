@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Hỡi con ta, nếu kẻ có tội dụ dỗ ngươi, chớ consenting theo.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Hỡi con ta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "dụ dỗ ngươi"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "kẻ có tội"
+    },
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "consenting theo"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:52.310719175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 92,
+  "translation": "Và ⟨bạn⟩, ⟨thật⟩ ở nơi cao muôn đời, Yahweh!",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "và bạn"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "nơi cao"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "muôn đời"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:17.127223575Z",
+  "model": "glm-5.3"
+}

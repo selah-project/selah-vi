@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Chỉ là trong ngày của ngươi Ta sẽ không làm nó, vì cớ David cha ngươi; từ tay con ngươi Ta sẽ xé nó.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "chỉ"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "trong ngày của ngươi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "Ta sẽ làm nó"
+    },
+    {
+      "surface": "למען",
+      "gloss": "vì cớ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "cha ngươi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "từ tay"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "con ngươi"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "Ta sẽ xé nó"
+    }
+  ],
+  "timestamp": "2026-08-19T03:50:55.397190749Z",
+  "model": "glm-5.3"
+}

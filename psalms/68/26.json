@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 68:26",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 68,
+  "translation": "Những người ca hát đi trước, sau đó những người gảy đàn, ở giữa là các trinh nữ đánh trống lắc chầu.",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "đi trước"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "những người ca hát"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sau đó"
+    },
+    {
+      "surface": "נגנים",
+      "gloss": "những người gảy đàn"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ở giữa"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "các trinh nữ"
+    },
+    {
+      "surface": "תופפות",
+      "gloss": "đánh trống lắc chầu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:21.792706122Z",
+  "model": "glm-5.3"
+}

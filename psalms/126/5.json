@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 126,
+  "translation": "Những kẻ gieo trong nước mắt sẽ gặt trong tiếng reo vui.",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "những kẻ gieo"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "trong nước mắt"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "trong tiếng reo vui"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "sẽ gặt"
+    }
+  ],
+  "timestamp": "2026-08-19T06:19:20.222580722Z",
+  "model": "glm-5.3"
+}

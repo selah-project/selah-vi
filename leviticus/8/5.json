@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và Moshe nói với hội chúng: Đây là điều mà Yahweh đã truyền phán phải làm.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "hội chúng"
+    },
+    {
+      "surface": "זה",
+      "gloss": "đây"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "điều"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "đã truyền phái"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "phải làm"
+    }
+  ],
+  "timestamp": "2026-08-19T02:41:20.393429634Z",
+  "model": "glm-5.3"
+}

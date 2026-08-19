@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "genesis 41:51",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 41,
+  "translation": "Và Yosef gọi ⟨את⟩ tên con trưởng nam là Menasheh, vì Elohim đã làm tôi quên ⟨את⟩ mọi cực nhọc của tôi và ⟨את⟩ cả nhà cha tôi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "và đã gọi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tên"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tên"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "con trưởng nam"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasheh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "נשני",
+      "gloss": "đã làm tôi quên"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi cực nhọc của tôi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "cực nhọc của tôi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "cả nhà cha tôi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cả"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "cha tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:24:27.508956515Z",
+  "model": "glm-5.3"
+}

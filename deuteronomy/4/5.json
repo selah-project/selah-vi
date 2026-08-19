@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 4:5",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Hãy xem, tôi đã dạy ⟨אתכם⟩ các luật lệ và phán quyết, như Yahweh Elohim của tôi đã phán dặn tôi, để làm như vậy giữa đất mà các ngươi đang bước vào đó để chiếm lấy.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "hãy xem"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "tôi đã dạy"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "các luật lệ và phán quyết"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "các luật lệ"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "và các phán quyết"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "đã phán dặn tôi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của tôi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "để làm"
+    },
+    {
+      "surface": "כן",
+      "gloss": "như vậy"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "các ngươi"
+    },
+    {
+      "surface": "באים",
+      "gloss": "đang bước vào"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "đó"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "để chiếm lấy nó"
+    }
+  ],
+  "timestamp": "2026-08-19T03:06:21.258387099Z",
+  "model": "glm-5.3"
+}

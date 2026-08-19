@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Mọi người nam trong các thầy tế lễ đều được ăn nó; nó là ⟨את⟩ thánh của các thánh.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "người nam"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "trong các thầy tế lễ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "được ăn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nó (vật tế lễ)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "thánh"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "của các thánh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó là"
+    }
+  ],
+  "timestamp": "2026-08-19T02:40:26.212239196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và đã sinh cho ông bảy con trai và ba con gái.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "và đã sinh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho ông"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "bảy"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "và ba"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "con gái"
+    }
+  ],
+  "timestamp": "2026-08-19T05:20:42.923791821Z",
+  "model": "glm-5.3"
+}

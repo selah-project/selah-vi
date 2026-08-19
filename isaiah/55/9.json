@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 55,
+  "translation": "Vì như các tầng trời cao hơn đất, thì đường lối của Ta cao hơn đường lối của các ngươi, và tư tưởng của Ta hơn tư tưởng của các ngươi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Vì"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "cao"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "các tầng trời"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hơn đất"
+    },
+    {
+      "surface": "כן",
+      "gloss": "thì như vậy"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "cao"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "đường lối của Ta"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "hơn đường lối của các ngươi"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "và tư tưởng của Ta"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "hơn tư tưởng của các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:13:29.525482409Z",
+  "model": "glm-5.3"
+}

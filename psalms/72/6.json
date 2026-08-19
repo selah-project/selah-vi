@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 72,
+  "translation": "Người sẽ giáng xuống như mưa trên cỏ mới cắt, như những cơn mưa rào tưới đoàn sương xuống đất.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "sẽ giáng xuống"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "như mưa"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "גז",
+      "gloss": "cỏ mới cắt"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "như những cơn mưa rào"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "tưới đoàn sương xuống"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:00.651893036Z",
+  "model": "glm-5.3"
+}

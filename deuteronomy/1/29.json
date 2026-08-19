@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Tôi đã nói với các ngươi: Đừng kinh hãi, cũng đừng sợ hãi vì họ.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "tôi đã nói"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "với các ngươi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "kinh hãi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "cũng đừng"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "sợ hãi"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "vì họ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:04:21.155579127Z",
+  "model": "glm-5.3"
+}

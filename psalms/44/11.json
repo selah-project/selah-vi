@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Ngài khiến chúng tôi thối lui khỏi kẻ thù nghịch, và những kẻ ghét chúng tôi đã cướp bóc cho mình.",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "Ngài khiến chúng tôi quay lại"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "lùi ra sau"
+    },
+    {
+      "surface": "מני",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "צר",
+      "gloss": "kẻ thù nghịch"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "và những kẻ ghét chúng tôi"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "đã cướp bóc"
+    },
+    {
+      "surface": "למו",
+      "gloss": "cho mình"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:51.824833689Z",
+  "model": "glm-5.3"
+}

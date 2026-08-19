@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 57:10",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 57,
+  "translation": "Ngươi đã mệt mỏi vì sự đông đúc của đường lối ngươi, nhưng ngươi không nói: 'Thôi tuyệt vọng'; ngươi đã tìm thấy sự sống của tay ngươi, vì vậy ngươi không ngã bệnh.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "vì sự đông đúc của"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "đường lối ngươi"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "ngươi đã mệt mỏi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "ngươi đã nói"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "thôi tuyệt vọng"
+    },
+    {
+      "surface": "חית",
+      "gloss": "sự sống"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "của tay ngươi"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "ngươi đã tìm thấy"
+    },
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vậy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "ngươi đã ngã bệnh"
+    }
+  ],
+  "timestamp": "2026-08-19T04:14:14.577293274Z",
+  "model": "glm-5.3"
+}

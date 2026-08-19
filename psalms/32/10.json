@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Nhiều là những đau đớn cho kẻ ác; nhưng ai tin cậy nơi Yahweh — lòng nhân từ sẽ vây quanh người ấy.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "nhiều"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "những-đau-đớn"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "cho-kẻ-ác"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "nhưng-ai-tin-cậy"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "nơi-Yahweh"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "lòng-nhân-từ"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "sẽ-vây-quanh-người-ấy"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:33.728675099Z",
+  "model": "glm-5.3"
+}

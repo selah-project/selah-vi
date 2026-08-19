@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 78,
+  "translation": "Và Người làm dòng chảy tuôn ra từ tảng đá, và cho nước đổ xuống như các dòng sông.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "và làm tuôn ra"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "dòng chảy"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "từ tảng đá"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "và cho đổ xuống"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "như các dòng sông"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:48.978080408Z",
+  "model": "glm-5.3"
+}

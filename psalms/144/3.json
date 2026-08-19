@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 144,
+  "translation": "Yahweh, con người là gì mà Ngài biết đến nó, con trai của loài người mà Ngài kể đến nó?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "là gì"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "con người"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "mà Ngài biết đến nó"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai của"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "loài người phàm"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "mà Ngài kể đến nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:03.260567303Z",
+  "model": "glm-5.3"
+}

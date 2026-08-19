@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Vì chúng đã chạy trốn khỏi mặt các lưỡi gươm, khỏi mặt gươm tuốt trần, khỏi mặt cung đã giương, và khỏi mặt sức nặng của chiến trận.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "khỏi mặt"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "các lưỡi gươm"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "chúng đã chạy trốn"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "khỏi mặt"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "gươm"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "tuốt trần"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "và khỏi mặt"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "cung"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "đã giương"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "và khỏi mặt"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "sức nặng"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "của chiến trận"
+    }
+  ],
+  "timestamp": "2026-08-19T04:07:08.459679589Z",
+  "model": "glm-5.3"
+}

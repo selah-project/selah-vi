@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Được phước ⟨là⟩ ngươi trong thành, và được phước ⟨là⟩ ngươi ngoài đồng.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "được phước"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "trong thành"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "và được phước"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ngoài đồng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:12:39.767029414Z",
+  "model": "glm-5.3"
+}

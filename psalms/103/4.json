@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 103,
+  "translation": "⟨Đấng⟩ cứu chuộc mạng sống ngươi khỏi hố diệt vong, ⟨Đấng⟩ đội đầu ngươi bằng ân tín và lòng thương xót,",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "Đấng cứu chuộc"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "khỏi hố diệt vong"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "mạng sống ngươi"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "Đấng đội đầu ngươi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ân tín"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "và lòng thương xót"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:13.089479613Z",
+  "model": "glm-5.3"
+}

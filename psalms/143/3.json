@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 143,
+  "translation": "Vì kẻ thù đã truy đuổi nephesh tôi, đã nghiền nát sinh mạng tôi xuống đất, khiến tôi ở trong nơi tối tăm như người chết lâu đời.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "đã truy đuổi"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "kẻ thù"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nephesh tôi"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "đã nghiền nát"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "xuống đất"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "sinh mạng tôi"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "khiến tôi ở"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "trong nơi tối tăm"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "như người chết"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "lâu đời"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:02.421256694Z",
+  "model": "glm-5.3"
+}

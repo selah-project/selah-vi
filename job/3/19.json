@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 3:19",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Kẻ nhỏ và kẻ lớn nơi đó ngang nhau, và nô lệ được tự do khỏi chủ mình.",
+  "tokens": [
+    {
+      "surface": "קטן",
+      "gloss": "kẻ nhỏ"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "và kẻ lớn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nơi đó"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ngang nhau (là nó)"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "và nô lệ"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "được tự do"
+    },
+    {
+      "surface": "מאדניו",
+      "gloss": "khỏi chủ mình"
+    }
+  ],
+  "timestamp": "2026-08-19T05:20:25.000276838Z",
+  "model": "glm-5.3"
+}

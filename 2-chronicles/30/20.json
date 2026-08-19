@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Và Yahweh đã nhậm lời Chizkiyahu, và đã chữa lành ⟨את⟩ dân sự.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "đã nhậm lời"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "đã chữa lành"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân sự"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    }
+  ],
+  "timestamp": "2026-08-19T06:00:39.491727867Z",
+  "model": "glm-5.3"
+}

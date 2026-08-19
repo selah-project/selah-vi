@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 3:2",
+  "book": "hosea",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và tôi đã mua ⟨את⟩ nàng cho mình bằng mười lăm bạc, và một homer lúa mạch và một lethek lúa mạch.",
+  "tokens": [
+    {
+      "surface": "ואכרה",
+      "gloss": "và-tôi-đã-mua"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho-mình"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "bằng-năm"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-mười"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "bạc"
+    },
+    {
+      "surface": "וחמר",
+      "gloss": "và-một-homer"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "lúa-mạch"
+    },
+    {
+      "surface": "ולתך",
+      "gloss": "và-một-letech"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "lúa-mạch"
+    }
+  ],
+  "timestamp": "2026-08-19T06:37:28.086692934Z",
+  "model": "glm-5.3"
+}

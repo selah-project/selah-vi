@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và Binyamin sinh ⟨את⟩ Bela con trưởng nam của mình, Ashbel ⟨⟩ thứ hai, và Acharach ⟨⟩ thứ ba.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "Và Binyamin"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bela"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "con trưởng nam của mình"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Ashbel"
+    },
+    {
+      "surface": "השני",
+      "gloss": "thứ hai"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "và Acharach"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "thứ ba"
+    }
+  ],
+  "timestamp": "2026-08-19T05:48:28.598149604Z",
+  "model": "glm-5.3"
+}

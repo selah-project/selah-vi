@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 41,
+  "translation": "và những con bò cái ốm yếu và xấu xí ăn thịt ⟨את⟩ bảy con bò cái đầu tiên, những con mập mạp.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "và chúng ăn thịt"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "những con bò cái"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "ốm yếu"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "và xấu xí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bảy con bò cái đầu tiên mập mạp"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "bảy"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "con bò cái"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "đầu tiên"
+    },
+    {
+      "surface": "הבריאת",
+      "gloss": "mập mạp"
+    }
+  ],
+  "timestamp": "2026-08-19T01:28:22.816510928Z",
+  "model": "glm-5.3"
+}

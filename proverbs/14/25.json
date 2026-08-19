@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 14:25",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Kẻ làm chứng chân thật cứu ⟨את⟩ các sinh mạng, nhưng kẻ phóng ra dối trá ⟩là gian trá.",
+  "tokens": [
+    {
+      "surface": "מציל",
+      "gloss": "cứu"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "các sinh mạng"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kẻ làm chứng"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "chân thật"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "nhưng kẻ phóng ra"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "dối trá"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "gian trá"
+    }
+  ],
+  "timestamp": "2026-08-19T05:16:25.870473184Z",
+  "model": "glm-5.3"
+}

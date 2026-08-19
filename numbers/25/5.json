@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 25:5",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Moshe nói với các thẩm phán của Yisrael: mỗi người hãy giết những người thuộc về mình, là những kẻ đã gắn mình với Baal-Peor.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "các thẩm phán"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "hãy giết"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mỗi người"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "những người của mình"
+    },
+    {
+      "surface": "הנצמדים",
+      "gloss": "những kẻ gắn mình"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "với Baal"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    }
+  ],
+  "timestamp": "2026-08-19T03:00:56.939740693Z",
+  "model": "glm-5.3"
+}

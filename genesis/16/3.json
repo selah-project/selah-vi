@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 16:3",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Và Sarai, vợ của Avram, lấy ⟨את⟩ Hagar người Mitsri, nữ tỳ của nàng, sau mười năm Avram ở trong đất Kenaan, và nàng cho ⟨את⟩ nàng ấy cho Avram chồng của nàng, cho ông làm vợ.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "và nàng lấy"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vợ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "của Avram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hagar người Mitsri, nữ tỳ của nàng"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "người Mitsri"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "nữ tỳ của nàng"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "sau khi kết thúc"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mười"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "năm"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "việc ở của"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trong đất"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "và nàng cho"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nàng ấy (Hagar)"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "cho Avram"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "chồng của nàng"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho ông"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "làm vợ"
+    }
+  ],
+  "timestamp": "2026-08-19T00:59:33.852468170Z",
+  "model": "glm-5.3"
+}

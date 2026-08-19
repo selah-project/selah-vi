@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và Yahweh phán cùng Moshe và cùng Aharon, phán với họ rằng:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "và-phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cùng"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và-cùng"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "phán-rằng"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "với-họ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:42:34.487221247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Và người đưa vào ⟨את⟩ các thầy tế lễ và ⟨את⟩ các người Lê-vi, và tập hợp họ tại quảng trường phía đông.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "và người đưa vào"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các thầy tế lễ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "các thầy tế lễ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các người Lê-vi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "các người Lê-vi"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "và tập hợp họ"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "tại quảng trường"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "phía đông"
+    }
+  ],
+  "timestamp": "2026-08-19T06:22:31.093473963Z",
+  "model": "glm-5.3"
+}

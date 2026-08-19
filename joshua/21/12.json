@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 21:12",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Nhưng ⟨את⟩ ruộng của thành và ⟨את⟩ các làng của nó, họ đã cho Kalev con trai Yefunneh làm sản nghiệp của mình.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "nhưng-⟨את⟩",
+      "marks": "ruộng của thành"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ruộng"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "của-thành"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và-⟨את⟩",
+      "marks": "các làng của nó"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "các-làng-của-nó"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "họ-đã-cho"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "cho-Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con-trai"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefunneh"
+    },
+    {
+      "surface": "באחזתו",
+      "gloss": "làm-sản-nghiệp-của-ông"
+    }
+  ],
+  "timestamp": "2026-08-19T03:20:37.449288060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 141,
+  "translation": "Vì hướng về Ngài, Yahweh, Adonai, ⟨là⟩ mắt tôi; nơi Ngài tôi đã nương náu — đừng để trần trụi ⟨את⟩ linh hồn tôi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "hướng về Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mắt tôi"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "nơi Ngài"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "tôi đã nương náu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תער",
+      "gloss": "để trần trụi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "linh hồn tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:12.267961004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "và ⟨את⟩ người Yevusi, và ⟨את⟩ người Emori, và ⟨את⟩ người Girgashi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người Yevusi"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "người Yevusi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người Emori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "người Emori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người Girgashi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "người Girgashi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:46:36.399014443Z",
+  "model": "glm-5.3"
+}

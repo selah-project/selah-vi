@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 3:13",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Vì giờ đây tôi đã nằm xuống và được yên tĩnh; tôi đã ngủ, bấy giờ ⟨thì⟩ sẽ có sự yên nghỉ cho tôi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "giờ đây"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "tôi đã nằm xuống"
+    },
+    {
+      "surface": "ואשקוט",
+      "gloss": "và được yên tĩnh"
+    },
+    {
+      "surface": "ישנתי",
+      "gloss": "tôi đã ngủ"
+    },
+    {
+      "surface": "אז",
+      "gloss": "bấy giờ"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "sẽ yên nghỉ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:20:24.289383563Z",
+  "model": "glm-5.3"
+}

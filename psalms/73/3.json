@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 73,
+  "translation": "Vì tôi đã ganh tị với ⟨những kẻ⟩ ngạo mạn, khi thấy sự bình-an của kẻ ác.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "tôi đã ganh tị"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "với những kẻ ngạo mạn"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sự bình-an"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "của kẻ ác"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "khi thấy"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:55.525692594Z",
+  "model": "glm-5.3"
+}

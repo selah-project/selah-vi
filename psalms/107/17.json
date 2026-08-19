@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 107,
+  "translation": "Những kẻ dại dột, vì con đường nổi loạn của chúng, và vì những gian ác của chúng, mà bị khốn khổ.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "những kẻ dại dột"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "vì con đường của"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "sự nổi loạn của chúng"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "và vì những gian ác của chúng"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "mà bị khốn khổ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:09.979006965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Vì trước khi đứa trẻ biết kêu ' Cha ơi ' và ' Mẹ ơi ', ⟨את⟩ của cải Dámách sẽ bị đem đi, và ⟨את⟩ chiến lợi phẩm của Shomron, trước mặt vua Ashur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "trước khi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "biết"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "đứa trẻ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kêu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Cha ơi"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "và Mẹ ơi"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "sẽ-bị-đem-đi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "của cải Dámách"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "của cải"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dámách"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "chiến lợi phẩm của Shomron"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "chiến lợi phẩm"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-08-19T04:05:00.153790242Z",
+  "model": "glm-5.3"
+}

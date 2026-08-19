@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 34,
+  "translation": "Tôi sẽ chúc phúc ⟨את⟩ Yahweh mọi lúc, luôn luôn lời ca ngợi Ngài ở trong miệng tôi.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "tôi sẽ chúc phúc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "עת",
+      "gloss": "lúc"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "luôn luôn"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "lời ca ngợi Ngài"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ở trong miệng tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:42.289010465Z",
+  "model": "glm-5.3"
+}

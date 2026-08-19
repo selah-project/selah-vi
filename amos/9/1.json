@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 9:1",
+  "book": "amos",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Tôi đã thấy ⟨את⟩ Adonai đứng trên bàn thờ, và Ngài phán: Hãy đánh vào capital, các ngưỡng cửa sẽ rung, và hãy chặt ⟨את⟩ đầu tất cả chúng; phần cuối của chúng ta sẽ bị giết bằng gươm — kẻ trốn sẽ không trốn thoát cho chúng, và kẻ chạy thoát sẽ không thoát thân cho chúng.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "tôi đã thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adonai"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "đứng"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và Ngài phán"
+    },
+    {
+      "surface": "הך",
+      "gloss": "hãy đánh"
+    },
+    {
+      "surface": "הכפתור",
+      "gloss": "phần đầu cột"
+    },
+    {
+      "surface": "וירעשו",
+      "gloss": "và sẽ rung"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "các ngưỡng cửa"
+    },
+    {
+      "surface": "ובצעם",
+      "gloss": "và chặt chúng"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "ở đầu"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "tất cả chúng"
+    },
+    {
+      "surface": "ואחריתם",
+      "gloss": "và phần cuối của chúng"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "bằng gươm"
+    },
+    {
+      "surface": "אהרג",
+      "gloss": "ta sẽ giết"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "sẽ trốn"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho chúng"
+    },
+    {
+      "surface": "נס",
+      "gloss": "kẻ trốn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "sẽ thoát thân"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho chúng"
+    },
+    {
+      "surface": "פליט",
+      "gloss": "kẻ chạy thoát"
+    }
+  ],
+  "timestamp": "2026-08-19T04:48:29.308292524Z",
+  "model": "glm-5.3"
+}

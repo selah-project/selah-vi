@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 68,
+  "translation": "Từ đền thánh của Ngươi, trên Yerushalayim, các vua sẽ dâng đến Ngài quà tặng.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "từ-đền-thánh-của-Ngươi"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "đến-Ngài"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "sẽ-dâng-đến"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "các-vua"
+    },
+    {
+      "surface": "שי",
+      "gloss": "quà-tặng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:33.381907115Z",
+  "model": "glm-5.3"
+}

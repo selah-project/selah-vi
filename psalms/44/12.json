@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 44:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Ngài phó chúng tôi như chiên làm thức ăn, và giữa các dân tộc Ngài đã rải chúng tôi ra.",
+  "tokens": [
+    {
+      "surface": "תתננו",
+      "gloss": "Ngài phó chúng tôi"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "như chiên"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "làm thức ăn"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "và giữa các dân tộc"
+    },
+    {
+      "surface": "זריתנו",
+      "gloss": "Ngài đã rải chúng tôi ra"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:51.824938533Z",
+  "model": "glm-5.3"
+}

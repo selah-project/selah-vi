@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Chớ để tìm thấy trong ngươi ai làm con trai hay con gái mình đi qua lửa, kẻ bói quẻ, thầy bói, kẻ xem điềm, và pháp sư.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "được tìm thấy"
+    },
+    {
+      "surface": "בך",
+      "gloss": "trong ngươi"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "làm đi qua"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "con trai mình"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "hay con gái mình"
+    },
+    {
+      "surface": "באש",
+      "gloss": "qua lửa"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "kẻ bói quẻ"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "thầy bói"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "kẻ xem điềm"
+    },
+    {
+      "surface": "ומנחש",
+      "gloss": "và kẻ phù thủy"
+    },
+    {
+      "surface": "ומכשף",
+      "gloss": "và pháp sư"
+    }
+  ],
+  "timestamp": "2026-08-19T03:09:24.786018495Z",
+  "model": "glm-5.3"
+}

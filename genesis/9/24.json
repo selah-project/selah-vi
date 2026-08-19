@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và Noach tỉnh dậy từ rượu của mình, và biết ⟨את⟩ điều mà con trai nhỏ của ông đã làm cho ông.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "và tỉnh dậy"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "từ rượu của mình"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "và biết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "điều mà con trai nhỏ đã làm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "điều mà"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho ông"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "con trai của ông"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "nhỏ"
+    }
+  ],
+  "timestamp": "2026-08-19T00:50:00.030357880Z",
+  "model": "glm-5.3"
+}

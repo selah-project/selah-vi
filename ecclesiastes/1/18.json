@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Vì trong sự khôn ngoan nhiều thì sự phiền não nhiều; và ai thêm hiểu biết thì thêm đau buồn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "trong sự nhiều"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "khôn ngoan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "nhiều"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "phiền não"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "và ai thêm"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "hiểu biết"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "thì thêm"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "đau buồn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:02.922180613Z",
+  "model": "glm-5.3"
+}

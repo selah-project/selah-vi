@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Adonai của tôi, hãy nghe tôi: đất trị giá bốn trăm shekel bạc — giữa tôi và giữa ngài ⟨nó⟩ là gì? Và ⟨את⟩ người chết của ngài, hãy chôn.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai của tôi"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "hãy nghe tôi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "bốn"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "trăm"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shekel"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "bạc"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "giữa tôi"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "và giữa ngài"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨nó⟩ là"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người chết của ngài"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "người chết của ngài"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "hãy chôn"
+    }
+  ],
+  "timestamp": "2026-08-19T01:03:46.453790151Z",
+  "model": "glm-5.3"
+}

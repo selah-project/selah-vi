@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 16:6",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Moshe và Aharon nói với toàn thể con cái Yisrael: Chiều tối rồi các ngươi sẽ biết rằng Yahweh đã đưa các ngươi ⟨אתכם⟩ ra khỏi đất Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "và Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "chiều tối"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "và các ngươi sẽ biết"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "đã đưa ra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩ các ngươi",
+      "marks": "các ngươi (ra khỏi đất Mitzrayim)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "khỏi đất"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T02:31:41.313656600Z",
+  "model": "glm-5.3"
+}

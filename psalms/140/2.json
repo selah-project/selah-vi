@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 140,
+  "translation": "Hãy cứu tôi, Yahweh, khỏi người ác; khỏi người đầy bạo hành, xin giữ gìn tôi.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "hãy cứu tôi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "khỏi người"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ác"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "khỏi kẻ"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "đầy bạo hành"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "xin giữ gìn tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:57.508332825Z",
+  "model": "glm-5.3"
+}

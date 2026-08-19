@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 31:4",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Một nghìn cho mỗi chi tộc, một nghìn cho mỗi chi tộc, cho mọi chi tộc của Yisrael, các ngươi hãy sai đi ra trận.",
+  "tokens": [
+    {
+      "surface": "אלף",
+      "gloss": "một nghìn"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "cho mỗi chi tộc"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "một nghìn"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "cho mỗi chi tộc"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "cho mọi"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "chi tộc"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "các ngươi hãy sai đi"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "ra trận"
+    }
+  ],
+  "timestamp": "2026-08-19T03:02:37.851578667Z",
+  "model": "glm-5.3"
+}

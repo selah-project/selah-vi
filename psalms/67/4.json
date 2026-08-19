@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 67,
+  "translation": "Các dân tộc sẽ cảm tạ Ngài, Elohim; các dân tộc sẽ cảm tạ Ngài, tất cả chúng.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "sẽ cảm tạ Ngài"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "các dân tộc"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "sẽ cảm tạ Ngài"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "các dân tộc"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "tất cả chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:57.361347484Z",
+  "model": "glm-5.3"
+}

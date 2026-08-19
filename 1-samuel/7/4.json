@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Và con cái Yisrael đã bỏ ⟨את⟩ các Baal và ⟨את⟩ các Ashtarot, và đã phục vụ ⟨את⟩ Yahweh một mình Ngài.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "và đã bỏ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các Baal"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "các Baal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các Ashtarot"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "các Ashtarot"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "và đã phục vụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "một mình Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T03:31:24.710775703Z",
+  "model": "glm-5.3"
+}

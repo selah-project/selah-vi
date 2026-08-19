@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 32:21",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Moshe nói với Aharon: Dân này đã làm gì cho ngươi, mà ngươi đã đem trên nó tội lỗi lớn lao?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngươi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mà"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "ngươi đã đem"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "trên nó"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "tội lỗi"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "lớn lao"
+    }
+  ],
+  "timestamp": "2026-08-19T02:36:45.527543909Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 12:28",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Và con cái Yisrael đi và làm, như Yahweh đã truyền cho ⟨את⟩ Moshe và Aharon, cứ như vậy họ đã làm.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "và đi"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "và làm"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "đã truyền"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "và Aharon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "cứ như vậy"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "họ đã làm"
+    }
+  ],
+  "timestamp": "2026-08-19T02:30:41.215550357Z",
+  "model": "glm-5.3"
+}

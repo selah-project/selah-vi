@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Đây là con cháu của Cham, theo gia tộc của họ, theo tiếng nói của họ, trong đất của họ, trong dân tộc của họ",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "đây là"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cháu của"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "theo gia tộc của họ"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "theo tiếng nói của họ"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "trong đất của họ"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "trong dân tộc của họ"
+    }
+  ],
+  "timestamp": "2026-08-19T00:54:00.056552776Z",
+  "model": "glm-5.3"
+}

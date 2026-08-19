@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Người Philistit nhìn xem, thấy ⟨את⟩ David thì khinh miệt hắn, vì ⟨hắn⟩ chỉ là đứa thiếu niên, đỏ tươi, cùng với dung mạo đẹp.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "và nhìn xem"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "người Philistit"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "và thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "và khinh miệt hắn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "היה",
+      "gloss": "là"
+    },
+    {
+      "surface": "נער",
+      "gloss": "đứa thiếu niên"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "và đỏ tươi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cùng với"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "đẹp"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "dung mạo"
+    }
+  ],
+  "timestamp": "2026-08-19T03:34:13.103449447Z",
+  "model": "glm-5.3"
+}

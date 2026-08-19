@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 20:18",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Và ⟨ông⟩ nói: Nếu vì hòa bình mà họ ra, hãy bắt họ sống; còn nếu vì chiến tranh mà họ ra, hãy bắt họ sống.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "vì hòa bình"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "họ ra"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "hãy bắt họ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "sống"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "còn nếu"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "vì chiến tranh"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "họ ra"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "sống"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "hãy bắt họ"
+    }
+  ],
+  "timestamp": "2026-08-19T06:10:15.554696143Z",
+  "model": "glm-5.3"
+}

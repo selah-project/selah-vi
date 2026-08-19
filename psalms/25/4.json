@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Các con đường của Ngài, Yahweh ôi, xin cho tôi biết; các lối bước của Ngài, xin dạy tôi.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "các con đường của Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "xin cho tôi biết"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "các lối bước của Ngài"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "xin dạy tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:57.231193434Z",
+  "model": "glm-5.3"
+}

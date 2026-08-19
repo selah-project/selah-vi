@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 2:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Hãy xin Ta, và ta sẽ ban các dân tộc làm cơ nghiệp ngươi, và chiếm hữu ngươi là các cực địa.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "hãy xin"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "từ Ta"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "và ta sẽ ban"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "các dân tộc"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "cơ nghiệp ngươi"
+    },
+    {
+      "surface": "ואחזתך",
+      "gloss": "và sự chiếm hữu ngươi"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "các cực"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:11.991005537Z",
+  "model": "glm-5.3"
+}

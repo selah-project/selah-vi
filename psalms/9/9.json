@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và ⟨người⟩ sẽ phán xét ⟨את⟩ thế giới trong sự công bình, sẽ xét xử các dân tộc trong sự ngay thẳng.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "và người"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "sẽ phán xét"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "thế giới"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "trong sự công bình"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "sẽ xét xử"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "các dân tộc"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "trong sự ngay thẳng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:55:46.121932923Z",
+  "model": "glm-5.3"
+}

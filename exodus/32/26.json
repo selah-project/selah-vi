@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 32:26",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Moshe đứng nơi cổng trại quân và nói: Ai thuộc về Yahweh, hãy đến với tôi! Và tất cả con cái Levi tập hợp về phía ông.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "đứng"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "nơi cổng"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "trại quân"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "thuộc về Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "đến với tôi"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "và đã tập hợp"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "về phía ông"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:37:14.518155846Z",
+  "model": "glm-5.3"
+}

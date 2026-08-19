@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 27:22",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Bị rủa sả ⟨là⟩ kẻ nằm với chị em mình, con gái của cha mình hay con gái của mẹ mình; và toàn thể dân sự sẽ nói: A-men.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "bị rủa sả"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "kẻ nằm với"
+    },
+    {
+      "surface": "עם",
+      "gloss": "với"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "chị em mình"
+    },
+    {
+      "surface": "בת",
+      "gloss": "con gái"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "của cha mình"
+    },
+    {
+      "surface": "או",
+      "gloss": "hay"
+    },
+    {
+      "surface": "בת",
+      "gloss": "con gái"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "của mẹ mình"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "và sẽ nói"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "A-men"
+    }
+  ],
+  "timestamp": "2026-08-19T03:10:37.845334571Z",
+  "model": "glm-5.3"
+}

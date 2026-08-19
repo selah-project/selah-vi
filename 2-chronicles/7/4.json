@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Và vua và tất cả dân sự dâng tế lễ trước mặt Yahweh.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "và vua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và tất cả"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "dâng tế lễ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "tế lễ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T05:55:15.209878141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Về điều ấy, hãy kể lại cho con các ngươi, và con các ngươi cho con của chúng, và con của chúng cho một thế hệ khác.",
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "về điều ấy"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "cho con các ngươi"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "hãy kể lại"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "và con các ngươi"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "cho con của chúng"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "và con của chúng"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "cho thế hệ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "khác"
+    }
+  ],
+  "timestamp": "2026-08-19T04:46:02.552404404Z",
+  "model": "glm-5.3"
+}

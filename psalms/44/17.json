@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 44:17",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Vì tiếng của kẻ nhạo báng và kẻ phạm thượng, vì mặt kẻ thù và kẻ báo thù.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "vì tiếng"
+    },
+    {
+      "surface": "מחרף",
+      "gloss": "kẻ nhạo báng"
+    },
+    {
+      "surface": "ומגדף",
+      "gloss": "và kẻ phạm thượng"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vì mặt"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "kẻ thù"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "và kẻ báo thù"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:13.608045164Z",
+  "model": "glm-5.3"
+}

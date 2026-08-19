@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 128,
+  "translation": "Và ngươi sẽ thấy con cái của con cái ngươi. Shalom trên Yisrael!",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "và ngươi sẽ thấy"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "của con cái ngươi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalom"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:39.604472123Z",
+  "model": "glm-5.3"
+}

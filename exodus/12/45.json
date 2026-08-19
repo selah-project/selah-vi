@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Cư khách và người làm thuê thì không được ăn nó.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "cư khách"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "và người làm thuê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ăn"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:30:56.366729950Z",
+  "model": "glm-5.3"
+}

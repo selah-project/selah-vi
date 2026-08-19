@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 19:6",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Người nhìn, và kìa, tại chỗ đầu người là một bánh nướng trên đá nóng và một bình nước; người ăn và uống, rồi quay lại nằm xuống.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "người nhìn"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "và kìa"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "tại chỗ đầu người"
+    },
+    {
+      "surface": "עגת",
+      "gloss": "một bánh"
+    },
+    {
+      "surface": "רצפים",
+      "gloss": "trên đá nóng"
+    },
+    {
+      "surface": "וצפחת",
+      "gloss": "và một bình"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "người ăn"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "và uống"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "rồi quay lại"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "nằm xuống"
+    }
+  ],
+  "timestamp": "2026-08-19T03:53:48.212096457Z",
+  "model": "glm-5.3"
+}

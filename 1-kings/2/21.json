@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và bà nói: Hãy cho ⟨את⟩ Avishag người Shunem làm vợ cho Adoniyahu, anh của ngươi.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "và bà nói"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "hãy cho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avishag"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Avishag"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "người Shunem"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "cho Adoniyahu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "anh của ngươi"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "làm vợ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:47:24.761689715Z",
+  "model": "glm-5.3"
+}

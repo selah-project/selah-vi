@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 21:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Hoa trái của họ, ngươi sẽ diệt khỏi đất, và dòng giống họ khỏi con cháu loài người.",
+  "tokens": [
+    {
+      "surface": "פרימו",
+      "gloss": "hoa trái của họ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "khỏi đất"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "ngươi sẽ diệt"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "và dòng giống họ"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "khỏi con cháu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "loài người"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:57.352149478Z",
+  "model": "glm-5.3"
+}

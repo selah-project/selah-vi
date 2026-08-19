@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Ông đáp: Đừng sợ, vì những kẻ ⟨את⟩-với-chúng-ta đông hơn những kẻ ⟨את⟩-với-chúng.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và ông nói"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "sợ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "đông hơn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "những kẻ mà"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩-với-chúng-ta"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "hơn những kẻ mà"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩-với-chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:57:18.760728577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 120,
+  "translation": "Yahweh, xin cứu lấy linh hồn tôi khỏi môi miệng dối trá, khỏi lưỡi lừa gạt.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "xin cứu lấy"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "linh hồn tôi"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "khỏi môi miệng"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dối trá"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "khỏi lưỡi"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "lừa gạt"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:36.787505291Z",
+  "model": "glm-5.3"
+}

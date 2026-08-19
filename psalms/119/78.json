@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "psalms 119:78",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Người kiêu ng骄 hãy xấu hổ, vì chúng đã vuột tôi bằng điều dối trá; còn tôi, tôi sẽ suy gẫm trong các điều răn của Ngài.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "hãy xấu hổ"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "người kiêu ngạo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "sự dối trá"
+    },
+    {
+      "surface": "עותוני",
+      "gloss": "chúng đã làm cho tôi cong queo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "còn tôi"
+    },
+    {
+      "surface": "אשיח",
+      "gloss": "tôi sẽ suy gẫm"
+    },
+    {
+      "surface": "בפקודיך",
+      "gloss": "trong các điều răn của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:16.717393112Z",
+  "model": "glm-5.3"
+}

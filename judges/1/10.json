@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Yehudah tiến đến người Kena'an cư ngụ ở Chevron — còn tên Chevron trước kia là Kiryat-Arba — và chúng đánh ⟨את⟩ Sheshai, và ⟨את⟩ Achiman, và ⟨את⟩ Talmai.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "tiến đến"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "người Kena'an"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "cư ngụ"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "ở Chevron"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "và tên"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "trước kia"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "chúng đánh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheshai"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Sheshai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Achiman"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Achiman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Talmai"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmai"
+    }
+  ],
+  "timestamp": "2026-08-19T03:21:40.256456761Z",
+  "model": "glm-5.3"
+}

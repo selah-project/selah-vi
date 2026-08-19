@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joel 1:11",
+  "book": "joel",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Hỡi những người cày ruộng, hãy hổ thẹn; hỡi những người trồng nho, hãy gào khóc, vì lúa mì và vì lúa mạch, vì mùa gặt của đồng ruộng đã hủy mất.",
+  "tokens": [
+    {
+      "surface": "הבישו",
+      "gloss": "hãy hổ thẹn"
+    },
+    {
+      "surface": "אכרים",
+      "gloss": "những người cày ruộng"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "hãy gào khóc"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "những người trồng nho"
+    },
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "lúa mì"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "và vì"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "lúa mạch"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "đã hủy mất"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "mùa gặt"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "đồng ruộng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:45:49.586380934Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 15:8",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Và nếu người bị xuất nhổ nước bọt vào người tinh sạch thì người ấy phải giặt quần áo mình, và tắm trong nước, và ô uế cho đến tối.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "và nếu"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "nhổ nước bọt"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "người bị xuất"
+    },
+    {
+      "surface": "בטהור",
+      "gloss": "vào người tinh sạch"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "thì phải giặt"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "quần áo mình"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "và tắm"
+    },
+    {
+      "surface": "במים",
+      "gloss": "trong nước"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "và ô uế"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "tối"
+    }
+  ],
+  "timestamp": "2026-08-19T02:44:26.941969279Z",
+  "model": "glm-5.3"
+}

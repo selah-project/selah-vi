@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 146,
+  "translation": "Hãy ngợi khen Yah! Hỡi linh hồn tôi, hãy ngợi khen ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "hãy ngợi khen"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "hãy ngợi khen"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "hỡi linh hồn tôi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:34.275067482Z",
+  "model": "glm-5.3"
+}

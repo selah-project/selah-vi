@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 8:13",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "⟨את⟩ Yahweh Sebaot — ⟨את⟩ Ngài các ngươi hãy thánh hóa, và Ngài ⟨là⟩ sự kinh khiếp của các ngươi, và Ngài ⟨là⟩ điều khiến các ngươi rùng mình.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Sebaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaot (các đạo quân)"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ Ngài",
+      "marks": "hãy thánh hóa (đối tượng: Yahweh)"
+    },
+    {
+      "surface": "תקדישו",
+      "gloss": "các ngươi hãy thánh hóa"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "và Ngài"
+    },
+    {
+      "surface": "מוראכם",
+      "gloss": "sự kinh khiếp của các ngươi"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "và Ngài"
+    },
+    {
+      "surface": "מערצכם",
+      "gloss": "điều khiến các ngươi rùng mình"
+    }
+  ],
+  "timestamp": "2026-08-19T04:04:49.194978973Z",
+  "model": "glm-5.3"
+}

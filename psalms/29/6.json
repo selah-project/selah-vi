@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Và Ngài khiến chúng nhảy múa như một con bê; Levanon và Sirion như một con của loài bò rừng.",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "và khiến chúng nhảy múa"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "như"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "một con bê"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Levanon"
+    },
+    {
+      "surface": "וושרין",
+      "gloss": "và Sirion"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "như"
+    },
+    {
+      "surface": "בן",
+      "gloss": "một con của"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "loài bò rừng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:07.677363578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 42,
+  "translation": "Và ⟨את⟩ anh em nhỏ của các ngươi hãy đem đến cùng tôi, để lời của các ngươi được xác thực, và các ngươi sẽ không chết. Và họ làm như vậy.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "anh em nhỏ của các ngươi"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "anh em của các ngươi"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "nhỏ"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "hãy đem đến"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cùng tôi"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "và được xác thực"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "lời của các ngươi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "các ngươi chết"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "và họ làm"
+    },
+    {
+      "surface": "כן",
+      "gloss": "như vậy"
+    }
+  ],
+  "timestamp": "2026-08-19T02:24:23.999533313Z",
+  "model": "glm-5.3"
+}

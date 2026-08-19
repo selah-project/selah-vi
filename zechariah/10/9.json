@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 10:9",
+  "book": "zechariah",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Và Ta sẽ gieo họ giữa các dân tộc, và nơi xa xôi họ sẽ nhớ đến Ta, và họ sẽ sống với ⟨את⟩ con cái mình và sẽ quay về.",
+  "tokens": [
+    {
+      "surface": "ואזרעם",
+      "gloss": "và Ta sẽ gieo họ"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "giữa các dân tộc"
+    },
+    {
+      "surface": "ובמרחקים",
+      "gloss": "và nơi xa xôi"
+    },
+    {
+      "surface": "יזכרוני",
+      "gloss": "họ sẽ nhớ đến Ta"
+    },
+    {
+      "surface": "ויחיו",
+      "gloss": "và họ sẽ sống"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con cái mình"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "con cái mình"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "và sẽ quay về"
+    }
+  ],
+  "timestamp": "2026-08-19T04:53:46.691870635Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 48,
+  "translation": "Bài ca, thánh thi, của con cháu Korach.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "bài ca"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "thánh thi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "của con cháu"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:41.246144257Z",
+  "model": "glm-5.3"
+}

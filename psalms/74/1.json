@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 74,
+  "translation": "Bài dạy dỗ của Asaph. Vì sao, Elohim, Ngài đã bỏ rơi mãi mãi? Vì sao cơn thịnh nộ của Ngài khói lên ⟨để chống⟩ đàn chiên đồng cỏ của Ngài?",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "bài dạy dỗ"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "của Asaph"
+    },
+    {
+      "surface": "למה",
+      "gloss": "vì sao"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "Ngài đã bỏ rơi"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "mãi mãi"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "khói lên"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "cơn thịnh nộ của Ngài"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "đàn chiên"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "đồng cỏ của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:42.371969951Z",
+  "model": "glm-5.3"
+}

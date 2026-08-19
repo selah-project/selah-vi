@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Tôi, Kohelet, đã làm vua trên Yisra'el tại Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Tôi"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "đã là"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "tại Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:08.915804594Z",
+  "model": "glm-5.3"
+}

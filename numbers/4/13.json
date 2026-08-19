@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 4:13",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và họ sẽ dọn tro ⟨את⟩ bàn thờ, và trải lên trên nó một tấm vải màu argaman (tím đỏ).",
+  "tokens": [
+    {
+      "surface": "ודשנו",
+      "gloss": "và họ sẽ dọn tro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bàn thờ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "và trải"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "trên nó"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "tấm vải"
+    },
+    {
+      "surface": "ארגמן",
+      "gloss": "màu argaman (tím đỏ)"
+    }
+  ],
+  "timestamp": "2026-08-19T02:53:17.623298524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 40:14",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Xin Yahweh đoái thương cứu tôi; Yahweh ơi, hãy mau đến giúp tôi.",
+  "tokens": [
+    {
+      "surface": "רצה",
+      "gloss": "xin đoái thương"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "cứu tôi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "giúp tôi"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "hãy mau"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:44.149003633Z",
+  "model": "glm-5.3"
+}

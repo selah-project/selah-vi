@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Và họ sẽ ăn thịt ⟨את⟩ trong đêm này, nướng bằng lửa; cùng bánh không men, với rau đắng họ sẽ ăn nó.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "và họ sẽ ăn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thịt"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "thịt"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "trong đêm"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "nướng"
+    },
+    {
+      "surface": "אש",
+      "gloss": "lửa"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "và bánh không men"
+    },
+    {
+      "surface": "על",
+      "gloss": "với"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "rau đắng"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "họ sẽ ăn nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:30:20.886958707Z",
+  "model": "glm-5.3"
+}

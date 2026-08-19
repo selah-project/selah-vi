@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Ngươi chớ hà hiếp ⟨את⟩ người lân cận của ngươi, và chớ cướp đoạt; công việc của người làm thuê ⟨אתך⟩ chớ để lại qua đêm cho đến buổi sáng.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "hà hiếp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người lân cận của ngươi"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "người lân cận của ngươi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và chớ"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "cướp đoạt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "để lại qua đêm"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "công việc"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "của người làm thuê"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "buổi sáng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:45:28.738865491Z",
+  "model": "glm-5.3"
+}

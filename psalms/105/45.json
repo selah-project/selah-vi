@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 105,
+  "translation": "Để họ giữ gìn các luật lệ của Ngài và các giáo luật của Ngài tuân giữ. Hãy hát ca ngợi Yah!",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "để"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "họ giữ gìn"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "các luật lệ của Ngài"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "và các giáo luật của Ngài"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "tuân giữ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "hãy hát ca ngợi"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:32.196926373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 69,
+  "translation": "Xin cứu tôi, hỡi Elohim, vì nước đã tràn đến ⟨tánh mạng⟩ tôi.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "xin cứu tôi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "באו",
+      "gloss": "đã tràn đến"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "tánh mạng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:39.312840449Z",
+  "model": "glm-5.3"
+}

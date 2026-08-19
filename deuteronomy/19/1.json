@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 19:1",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Khi Yahweh Elohim ngươi cắt-diệt ⟨את⟩ các dân tộc mà Yahweh Elohim ngươi ban cho ngươi ⟨את⟩ đất của chúng, và ngươi chiếm-hữu chúng, ngươi sẽ ở trong các thành của chúng và trong các nhà của chúng.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "khi"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "cắt-diệt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ngươi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các dân tộc"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "các dân tộc"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ngươi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ban"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngươi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đất của chúng"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "đất của chúng"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "và ngươi chiếm-hữu"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "và ngươi ở"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "trong các thành của chúng"
+    },
+    {
+      "surface": "ובבתיהם",
+      "gloss": "và trong các nhà của chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:09:31.148874605Z",
+  "model": "glm-5.3"
+}

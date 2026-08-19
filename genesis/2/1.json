@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Vậy ⟨các⟩ tầng trời và ⟨các⟩ đất đã được hoàn tất, cùng toàn thể quân binh của chúng.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "đã được hoàn tất"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "các tầng trời"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "và đất"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "cùng toàn thể"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "quân binh của chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T00:48:19.056327301Z",
+  "model": "glm-5.3"
+}

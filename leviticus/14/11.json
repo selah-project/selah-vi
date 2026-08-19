@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Và thầy tế lễ đang làm cho sạch sẽ đặt ⟨את⟩ người đang được làm cho sạch cùng ⟨את⟩ những vật ấy đứng trước mặt Yahweh, tại cửa Trại Hội Mộ.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "và đặt đứng"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "thầy tế lễ"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "đang làm cho sạch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người đang được làm cho sạch"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "người"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "đang được làm cho sạch"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "và ⟨את⟩",
+      "marks": "những vật ấy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "tại cửa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Trại"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Hội Mộ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:43:54.802411694Z",
+  "model": "glm-5.3"
+}

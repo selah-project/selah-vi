@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Mọi con vật chia móng, và chẻ móng ra đôi, và nhại lại, trong các thú vật — ⟨את⟩ nó các ngươi được ăn.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "chia-móng"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "móng"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "và-chẻ"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "vết-chẻ"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "các-móng"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "nhại-lại"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "thức-ăn-nhại"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "trong-các-thú-vật"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nó (con vật đó)"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "các-ngươi-ăn"
+    }
+  ],
+  "timestamp": "2026-08-19T02:42:34.487709555Z",
+  "model": "glm-5.3"
+}

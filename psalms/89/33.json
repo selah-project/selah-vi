@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 89:33",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 89,
+  "translation": "Và Ta sẽ đo phạt sự phản nghịch của chúng bằng roi, và sự gian ác của chúng bằng những vết đánh.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "và Ta sẽ đo phạt"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "bằng roi"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "sự phản nghịch của chúng"
+    },
+    {
+      "surface": "ובנגעים",
+      "gloss": "và bằng những vết đánh"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "sự gian ác của chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:36.296604190Z",
+  "model": "glm-5.3"
+}

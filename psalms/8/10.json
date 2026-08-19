@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Yahweh Adonai chúng ta, Danh Ngài ⟨v⟩ cao cả dường哪儿 trong khắp đất!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai chúng ta"
+    },
+    {
+      "surface": "מה",
+      "gloss": "dường哪儿"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "cao cả"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Danh Ngài"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "trong khắp"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:17.741792022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 41:8",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 41,
+  "translation": "Còn ngươi, Yisrael, tôi tớ của Ta, Yaakov mà Ta đã chọn, dòng giống của Avraham, người yêu của Ta —",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "còn ngươi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "tôi tớ của Ta"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "Ta đã chọn ngươi"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "dòng giống"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "người yêu của Ta"
+    }
+  ],
+  "timestamp": "2026-08-19T04:11:39.476336765Z",
+  "model": "glm-5.3"
+}

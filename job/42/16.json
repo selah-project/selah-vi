@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 42,
+  "translation": "Và Iyov sống sau điều này một trăm và bốn mươi năm, và thấy ⟨את⟩ con trai mình và ⟨את⟩ con của con trai mình, bốn thế hệ.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "và sống"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sau"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "điều này"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "một trăm"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "và bốn mươi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "năm"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "và thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con trai mình"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "con trai mình"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con của con trai mình"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con của"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "con trai mình"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "bốn"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "thế hệ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:28:33.378684067Z",
+  "model": "glm-5.3"
+}

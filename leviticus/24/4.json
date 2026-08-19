@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Trên cây chân đèn thanh sạch, ⟨ông⟩ sẽ sắp đặt ⟨את⟩ các ngọn đèn, trước mặt Yahweh, luôn luôn.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "cây chân đèn"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "thanh sạch"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "sẽ sắp đặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các ngọn đèn"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "các ngọn đèn"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "luôn luôn"
+    }
+  ],
+  "timestamp": "2026-08-19T02:48:13.206729621Z",
+  "model": "glm-5.3"
+}

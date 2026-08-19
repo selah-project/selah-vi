@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 129,
+  "translation": "Xin cho họ như cỏ trên các mái nhà, mà trước khi mọc lên ⟨thì⟩ đã héo khô.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "xin cho họ như"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "như cỏ"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "các mái nhà"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "trước khi"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "mọc lên \/ nhổ lên"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "đã héo khô"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:56.129790017Z",
+  "model": "glm-5.3"
+}

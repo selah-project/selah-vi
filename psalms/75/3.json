@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 75,
+  "translation": "Vì Ta sẽ nhận định kỳ, chính Ta sẽ xét đoán cách công bình.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "Ta sẽ nhận"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "định kỳ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "chính Ta"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "công bình"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "Ta sẽ xét đoán"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:37.785495685Z",
+  "model": "glm-5.3"
+}

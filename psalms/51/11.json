@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 51,
+  "translation": "Xin che mặt Ngài khỏi các tội tôi, và xóa bỏ mọi gian ác của tôi.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "xin che giấu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "mặt Ngài"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "khỏi các tội tôi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "gian ác của tôi"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "xin xóa bỏ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:21.700210452Z",
+  "model": "glm-5.3"
+}

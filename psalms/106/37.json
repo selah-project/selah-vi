@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 106,
+  "translation": "Và họ đã giết tế ⟨את⟩ con trai mình và ⟨את⟩ con gái mình cho các Shaddai.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "và họ đã giết tế"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con trai mình"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "con trai mình"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con gái mình"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "con gái mình"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "cho các Shaddai"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:45.931009680Z",
+  "model": "glm-5.3"
+}

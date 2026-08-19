@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 47:20",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 47,
+  "translation": "Vậy Yosef mua ⟨את⟩ tất cả đất đai của Mitzrayim cho Pharaoh, vì người Mitzrayim đã bán mỗi người ⟨את⟩ đồng ruộng của mình, vì nạn đói đã đè nặng trên họ; vậy đất trở thành của Pharaoh.",
+  "tokens": [
+    {
+      "surface": "ויקן",
+      "gloss": "vậy Yosef mua"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả đất đai của Mitzrayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "đất đai của"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "cho Pharaoh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "đã bán"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "người Mitzrayim"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mỗi người"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "đồng ruộng của mình"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "đã đè nặng"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "trên họ"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "nạn đói"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "vậy nó trở thành"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "của Pharaoh"
+    }
+  ],
+  "timestamp": "2026-08-19T06:03:27.079723252Z",
+  "model": "glm-5.3"
+}

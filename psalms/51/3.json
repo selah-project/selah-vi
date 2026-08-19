@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 51,
+  "translation": "Xin ban ơn cho tôi, hỡi Elohim, theo lòng nhân từ của Ngài, theo sự dồi dào lòng thương xót của Ngài, xin xóa ⟨את⟩ các sự vi phạm của tôi.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "xin ban ơn cho tôi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "theo lòng nhân từ của Ngài"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "theo sự dồi dào"
+    },
+    {
+      "surface": "רחמיק",
+      "gloss": "lòng thương xót của Ngài"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "xin xóa"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "các sự vi phạm của tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:55.460625361Z",
+  "model": "glm-5.3"
+}

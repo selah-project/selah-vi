@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 8:13",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Như vậy là con đường ⟨của⟩ mọi kẻ quên El, và hy vọng ⟨của⟩ kẻ vô đạo sẽ diệt vong.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "như vậy"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "con đường của"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "kẻ quên"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ותקות",
+      "gloss": "và hy vọng của"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "kẻ vô đạo"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "sẽ diệt vong"
+    }
+  ],
+  "timestamp": "2026-08-19T05:21:19.817624462Z",
+  "model": "glm-5.3"
+}

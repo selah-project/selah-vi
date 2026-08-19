@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Và ⟨ngài⟩ đã lật đổ ⟨את⟩ những thành kia, và ⟨את⟩ cả thung lũng, và ⟨את⟩ mọi cư dân của những thành, cùng mọi mầm mọc của đất.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "và lật đổ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "những thành kia"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "những thành"
+    },
+    {
+      "surface": "האל",
+      "gloss": "kia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "cả thung lũng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cả"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "thung lũng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "mọi cư dân của những thành"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "cư dân"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "của những thành"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "và mầm mọc"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "của đất"
+    }
+  ],
+  "timestamp": "2026-08-19T01:01:09.817895556Z",
+  "model": "glm-5.3"
+}

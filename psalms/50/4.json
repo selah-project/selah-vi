@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 50,
+  "translation": "Ngài kêu gọi các tầng trời từ trên cao, và ⟨⟨kêu gọi⟩⟩ đất, để đoán xét dân sự của Ngài.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "kêu gọi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "các tầng trời"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "từ trên cao"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và đến"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "để đoán xét"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "dân sự của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:59.520020453Z",
+  "model": "glm-5.3"
+}

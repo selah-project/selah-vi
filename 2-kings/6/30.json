@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 6:30",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Xảy ra khi vua nghe ⟨את⟩ lời của người đàn bà ấy, vua xé ⟨את⟩ áo mình; và đang khi người đi trên tường thành, dân chúng nhìn thấy, kìa áo dầu thô đang mặc sát da thịt mình, ở phía trong.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "xảy ra"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "khi nghe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lời của người đàn bà ấy"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "lời của"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "người đàn bà ấy"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "và vua xé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "áo mình"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "áo mình"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "và người"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "đang đi qua"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "החמה",
+      "gloss": "tường thành"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "và nhìn thấy"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân chúng"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kìa"
+    },
+    {
+      "surface": "השק",
+      "gloss": "áo dầu thô"
+    },
+    {
+      "surface": "על",
+      "gloss": "sát trên"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "da thịt mình"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ở phía trong"
+    }
+  ],
+  "timestamp": "2026-08-19T03:57:24.786250850Z",
+  "model": "glm-5.3"
+}

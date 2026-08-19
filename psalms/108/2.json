@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 108,
+  "translation": "Chuẩn bị rồi, lòng tôi, hỡi Elohim; tôi sẽ hát, tôi sẽ gảy đàn, cả tôn quý của tôi nữa.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "được chuẩn bị"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "lòng tôi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "tôi sẽ hát"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "và tôi sẽ gảy đàn"
+    },
+    {
+      "surface": "אף",
+      "gloss": "cả"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "tôn quý của tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:26.734561164Z",
+  "model": "glm-5.3"
+}

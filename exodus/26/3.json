@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 26:3",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Năm tấm màn sẽ nối với nhau, tấm nọ đến chị của nó; và năm tấm màn nối với nhau, tấm nọ đến chị của nó.",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "năm"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "tấm màn"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "sẽ là"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "nối"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tấm nọ (người phụ nữ)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "chị của nó"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "và năm"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "tấm màn"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "nối"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tấm nọ (người phụ nữ)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "chị của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:35:02.869107316Z",
+  "model": "glm-5.3"
+}

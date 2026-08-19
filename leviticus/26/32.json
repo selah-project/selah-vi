@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Và Ta, chính Ta, sẽ làm cho ⟨את⟩ đất hoang tàn, và kẻ thù của các ngươi sẽ kinh ngạc vì nó, những kẻ đang ở trong nó.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "và Ta sẽ làm hoang tàn"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ta, chính Ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đất"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "và sẽ kinh ngạc vì"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "về nó"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "kẻ thù của các ngươi"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "những kẻ đang ở"
+    },
+    {
+      "surface": "בה",
+      "gloss": "trong nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:51:10.867810385Z",
+  "model": "glm-5.3"
+}

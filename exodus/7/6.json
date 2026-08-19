@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Và Moshe cùng Aharon đã làm đúng như Yahweh đã phán dạy ⟨את⟩ họ; như vậy họ đã làm.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "và đã làm"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "cùng Aharon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "đúng như"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "đã phán dạy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "họ (Moshe và Aharon)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "như vậy"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "họ đã làm"
+    }
+  ],
+  "timestamp": "2026-08-19T02:28:05.679312927Z",
+  "model": "glm-5.3"
+}

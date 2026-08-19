@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Hãy tin cậy nơi Yahweh và làm điều thiện; hãy cư ngụ trong đất và nuôi sống ⟨sự⟩ chân thành.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Hãy tin cậy"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "nơi Yahweh"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "và làm"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "điều thiện"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "hãy cư ngụ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "và nuôi sống"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "⟨sự⟩ chân thành"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:07.073068122Z",
+  "model": "glm-5.3"
+}

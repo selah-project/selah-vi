@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 103,
+  "translation": "cho những kẻ giữ giao ước Ngài, và nhớ đến các mệnh lệnh Ngài để làm theo",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "cho những kẻ giữ"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "giao ước Ngài"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "và cho những kẻ nhớ"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "các mệnh lệnh Ngài"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "để làm theo chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:29.650782305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và các nguồn nước rút đi khỏi đất, đi rồi lại về, và các nguồn nước vơi dần vào cuối một trăm năm mươi ngày.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "và rút đi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "các nguồn nước"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "đi"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "rồi lại về"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "và vơi dần"
+    },
+    {
+      "surface": "המים",
+      "gloss": "các nguồn nước"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "vào cuối"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "năm mươi"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "và một trăm"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ngày"
+    }
+  ],
+  "timestamp": "2026-08-19T02:23:59.093079067Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và dân sự không quay lại với Đấng đánh phạt mình, và ⟨את⟩ Yahweh các đạo binh họ không tìm kiếm.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "và dân sự"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "שב",
+      "gloss": "quay lại"
+    },
+    {
+      "surface": "עד",
+      "gloss": "với"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "Đấng đánh phạt mình"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Yahweh các đạo binh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "các đạo binh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "họ tìm kiếm"
+    }
+  ],
+  "timestamp": "2026-08-19T04:05:13.800376344Z",
+  "model": "glm-5.3"
+}

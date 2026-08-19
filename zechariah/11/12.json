@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 11:12",
+  "book": "zechariah",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và ta nói với họ: Nếu điều ấy tốt trong mắt các ngươi, hãy đưa công việc công của ta; còn nếu không, hãy dừng lại. Vậy họ cân ⟨את⟩ phần công của ta — ba mươi ⟨miếng⟩ bạc.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "và ta nói"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "với họ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tốt"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "trong mắt các ngươi"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "hãy đưa"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "phần công của ta"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "còn nếu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "hãy dừng lại"
+    },
+    {
+      "surface": "וישקלו",
+      "gloss": "và họ cân"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phần công của ta"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "phần công của ta"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ba mươi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "bạc"
+    }
+  ],
+  "timestamp": "2026-08-19T04:53:34.803428240Z",
+  "model": "glm-5.3"
+}

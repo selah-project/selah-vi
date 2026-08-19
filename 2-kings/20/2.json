@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Ông quay ⟨את⟩ mặt mình về phía ⟨ה⟩ tường, và cầu nguyện với Yahweh, rằng:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "và đã quay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mặt mình"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mặt mình"
+    },
+    {
+      "surface": "אל",
+      "gloss": "về phía"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "tường"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "và đã cầu nguyện"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:02:07.286286969Z",
+  "model": "glm-5.3"
+}

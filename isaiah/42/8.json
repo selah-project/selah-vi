@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 42,
+  "translation": "Ta là Yahweh, đó là danh ta; và vinh hiển của ta ta sẽ không ban cho kẻ khác, và lời ngợi khen của ta cho các tượng chạm:",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "đó là"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "danh ta"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "và vinh hiển của ta"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "cho kẻ khác"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ta sẽ ban"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "và lời ngợi khen của ta"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "cho các tượng chạm"
+    }
+  ],
+  "timestamp": "2026-08-19T04:12:01.745976613Z",
+  "model": "glm-5.3"
+}

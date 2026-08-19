@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 11:10",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và Moshe và Aharon đã làm ⟨את⟩ tất cả các dấu kỳ lạ này trước mặt Pharaoh; và Yahweh đã làm cứng ⟨את⟩ lòng Pharaoh, và Ngài không phóng thích ⟨את⟩ con cái Yisrael ra khỏi đất của mình.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "và Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "và Aharon"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả các dấu kỳ lạ này"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "המפתים",
+      "gloss": "các dấu kỳ lạ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "này"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaoh"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "và đã làm cứng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lòng Pharaoh"
+    },
+    {
+      "surface": "לב",
+      "gloss": "lòng"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaoh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "phóng thích"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con cái Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "ra khỏi đất của mình"
+    }
+  ],
+  "timestamp": "2026-08-19T02:29:13.506457716Z",
+  "model": "glm-5.3"
+}

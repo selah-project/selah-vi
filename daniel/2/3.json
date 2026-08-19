@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và vua phán cùng họ: Ta nằm mộng một giấc chiêm bao, và tâm thần ta bối rối, muốn biết ⟨את⟩ giấc mộng ấy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và ngài phán"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cùng họ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "một giấc chiêm bao"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ta đã nằm mộng"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "và đã bối rối"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "tâm thần của ta"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "để biết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "giấc mộng ấy"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "giấc mộng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:36:26.506729227Z",
+  "model": "glm-5.3"
+}

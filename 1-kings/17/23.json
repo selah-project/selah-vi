@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 17:23",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Và Eliyahu lấy ⟨את⟩ đứa trẻ, đem nó xuống từ căn gác trên xuống nhà, và trao nó cho mẹ nó; và Eliyahu nói: Hãy nhìn, con trai bà đang sống.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "và ông lấy"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đứa trẻ"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "đứa trẻ"
+    },
+    {
+      "surface": "וירדהו",
+      "gloss": "và đem nó xuống"
+    },
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "căn gác trên"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "xuống nhà"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "và ông trao nó"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "cho mẹ nó"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và ông nói"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "hãy nhìn"
+    },
+    {
+      "surface": "חי",
+      "gloss": "đang sống"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "con trai bà"
+    }
+  ],
+  "timestamp": "2026-08-19T03:52:48.590068037Z",
+  "model": "glm-5.3"
+}

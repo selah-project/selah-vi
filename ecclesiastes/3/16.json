@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và nữa, tôi đã thấy dưới mặt trời: tại nơi xử án, ở đó có sự gian ác; và tại nơi công chính, ở đó có sự gian ác.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "và nữa"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "tôi đã thấy"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dưới"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "mặt trời"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "nơi"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "xử án"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ở đó"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "sự gian ác"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "và nơi"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "công chính"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ở đó"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "sự gian ác"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:29.688002460Z",
+  "model": "glm-5.3"
+}

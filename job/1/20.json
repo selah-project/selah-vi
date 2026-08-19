@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Iyov đứng dậy, xé ⟨את⟩ áo choàng mình, cạo ⟨את⟩ đầu mình, sấp mình xuống đất và phủ phục.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "và đứng dậy"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "và xé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "áo choàng mình"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "áo choàng mình"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "và cạo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đầu mình"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "đầu mình"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "và sấp mình xuống"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "xuống đất"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "và phủ phục"
+    }
+  ],
+  "timestamp": "2026-08-19T05:20:44.699119329Z",
+  "model": "glm-5.3"
+}

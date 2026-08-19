@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Mắt tôi đã hao mòn ⟨vì⟩ sự cứu giúp của Ngài, và vì lời của sự công bình Ngài.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "mắt tôi"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "đã hao mòn"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "cho sự cứu giúp của Ngài"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "và cho lời của"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "sự công bình của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:23.670944130Z",
+  "model": "glm-5.3"
+}

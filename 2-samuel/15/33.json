@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 15:33",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Và David nói với hắn: nếu ngươi đi cùng ⟨את⟩-ta, ngươi sẽ thành gánh nặng trên ta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "לו",
+      "gloss": "với hắn"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "עברת",
+      "gloss": "ngươi đi qua \/ đi cùng"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩-ta",
+      "marks": "đi cùng ta"
+    },
+    {
+      "surface": "והית",
+      "gloss": "thì ngươi sẽ thành"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "trên ta"
+    },
+    {
+      "surface": "למשא",
+      "gloss": "làm gánh nặng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:43:07.053662628Z",
+  "model": "glm-5.3"
+}

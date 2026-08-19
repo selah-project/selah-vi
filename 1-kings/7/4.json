@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 7:4",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Và cửa sổ ba hàng, và khung nhìn đối khung nhìn, ba lần.",
+  "tokens": [
+    {
+      "surface": "ושקפים",
+      "gloss": "và cửa sổ lấy sáng"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "hàng"
+    },
+    {
+      "surface": "ומחזה",
+      "gloss": "và khung nhìn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đối với"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "khung nhìn"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ba"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "lần"
+    }
+  ],
+  "timestamp": "2026-08-19T03:49:03.894122510Z",
+  "model": "glm-5.3"
+}

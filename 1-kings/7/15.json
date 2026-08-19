@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 7:15",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Người đã đúc ⟨את⟩ hai trụ bằng đồng: mười tám khpit chiều cao của trụ thứ nhất, và một sợi dây mười hai khpit ôm quanh ⟨את⟩ trụ thứ hai.",
+  "tokens": [
+    {
+      "surface": "ויצר",
+      "gloss": "đúc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hai trụ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "hai"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "trụ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "đồng"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "mười tám"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "אמה",
+      "gloss": "khpit"
+    },
+    {
+      "surface": "קומת",
+      "gloss": "chiều cao"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "của trụ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "thứ nhất"
+    },
+    {
+      "surface": "וחוט",
+      "gloss": "và sợi dây"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "mười hai"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "אמה",
+      "gloss": "khpit"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "ôm quanh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trụ thứ hai"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "trụ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "thứ hai"
+    }
+  ],
+  "timestamp": "2026-08-19T06:09:29.034190836Z",
+  "model": "glm-5.3"
+}

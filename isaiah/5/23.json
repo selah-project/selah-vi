@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 5:23",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Những kẻ tuyên bố kẻ ác ⟨là⟩ công chính vì hối lộ, và sự công bình của người công chính họ lấy đi khỏi người ấy.",
+  "tokens": [
+    {
+      "surface": "מצדיקי",
+      "gloss": "những kẻ tuyên bố công chính"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "hối lộ"
+    },
+    {
+      "surface": "וצדקת",
+      "gloss": "và sự công bình"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "của người công chính"
+    },
+    {
+      "surface": "יסירו",
+      "gloss": "họ lấy đi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "khỏi người ấy"
+    }
+  ],
+  "timestamp": "2026-08-19T04:04:31.823453140Z",
+  "model": "glm-5.3"
+}

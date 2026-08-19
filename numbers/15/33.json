@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 15:33",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Và những người tìm thấy ⟨את⟩ anh ta đang nhặt củi đã đem ⟨את⟩ anh ta đến với Moshe, với Aharon và với toàn thể hội chúng.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "đã đem đến"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "anh ta"
+    },
+    {
+      "surface": "המצאים",
+      "gloss": "những người tìm thấy"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "anh ta"
+    },
+    {
+      "surface": "מקשש",
+      "gloss": "đang nhặt"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "củi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến với"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và với"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và với"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "hội chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:57:26.220129018Z",
+  "model": "glm-5.3"
+}

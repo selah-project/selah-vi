@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và bây giờ, Yahweh, xin cất ⟨את⟩ sinh mạng tôi khỏi tôi, vì cái chết của tôi tốt hơn sự sống của tôi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "và bây giờ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קח",
+      "gloss": "xin cất"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinh mạng tôi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sinh mạng tôi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "khỏi tôi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tốt hơn"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "cái chết của tôi"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "hơn sự sống của tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:49:03.111115598Z",
+  "model": "glm-5.3"
+}

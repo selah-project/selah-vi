@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 24:30",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Tôi đi ngang qua đồng ruộng của người lười biếng, và qua vườn nho của người thiếu hiểu biết.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "qua"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "đồng ruộng"
+    },
+    {
+      "surface": "איש",
+      "gloss": "của người"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "lười biếng"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "tôi đi ngang"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "và qua"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "vườn nho"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "của người"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "thiếu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hiểu biết"
+    }
+  ],
+  "timestamp": "2026-08-19T05:18:40.318946123Z",
+  "model": "glm-5.3"
+}

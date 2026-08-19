@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 40:3",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Ngươi phải đặt tại đó ⟨את⟩ Hòm Giao Ước, và che phủ lên Hòm bằng ⟨את⟩ Bức Màn Che.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ngươi phải đặt"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tại đó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hòm Giao Ước"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Hòm"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "Giao Ước"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "ngươi phải che"
+    },
+    {
+      "surface": "על",
+      "gloss": "lên"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Hòm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bức Màn Che"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "Bức Màn Che"
+    }
+  ],
+  "timestamp": "2026-08-19T02:39:45.908042463Z",
+  "model": "glm-5.3"
+}

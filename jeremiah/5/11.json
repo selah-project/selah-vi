@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 5:11",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Vì phản bội cách cực độ chúng đã phản bội Ta — nhà Yisra'el và nhà Yehudah — sấm của Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "בגוד",
+      "gloss": "phản bội (cực độ)"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "đã phản bội"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "và nhà"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sấm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T04:17:45.991693328Z",
+  "model": "glm-5.3"
+}

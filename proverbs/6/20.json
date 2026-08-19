@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Hỡi con ta, hãy giữ điều răn của cha con, và chớ bỏ giáo huấn của mẹ con.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "hãy giữ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "hỡi con ta"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "điều răn"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "của cha con"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và chớ"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "bỏ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "giáo huấn"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "của mẹ con"
+    }
+  ],
+  "timestamp": "2026-08-19T05:14:58.406521502Z",
+  "model": "glm-5.3"
+}

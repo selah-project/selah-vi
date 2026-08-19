@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 18:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Những dây thừng của Sheol đã bao vây tôi, những bẫy của sự chết đã đón trước tôi.",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "những dây thừng của"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "đã bao vây tôi"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "đã đón trước tôi"
+    },
+    {
+      "surface": "מוקשי",
+      "gloss": "những bẫy của"
+    },
+    {
+      "surface": "מות",
+      "gloss": "sự chết"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:31.761170808Z",
+  "model": "glm-5.3"
+}

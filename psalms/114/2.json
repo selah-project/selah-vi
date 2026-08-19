@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 114,
+  "translation": "Yehudah trở thành ⟨thánh điện⟩ của Ngài, Yisra'el thành ⟨các⟩ vương quốc của Ngài.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "trở thành"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "thánh điện của Ngài"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "các vương quốc của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:00.762534698Z",
+  "model": "glm-5.3"
+}

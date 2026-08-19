@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 31:15",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Người ta không đã kể chúng con như người nước ngoài cho ông ấy sao? Vì ông ấy đã bán chúng con, và đã nuốt hết cả ⟨את⟩ bạc của chúng con.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "phải chăng không"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "như người nước ngoài"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "đã kể chúng con"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho ông ấy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "מכרנו",
+      "gloss": "ông ấy đã bán chúng con"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "và đã nuốt"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cả"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "hết ăn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bạc của chúng con"
+    },
+    {
+      "surface": "כספנו",
+      "gloss": "bạc của chúng con"
+    }
+  ],
+  "timestamp": "2026-08-19T02:23:36.691572965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Bởi gươm các ngươi sẽ ngã; trên biên giới Yisrael Ta sẽ phán xét ⟨את⟩các ngươi; và các ngươi sẽ biết rằng chính Ta ⟨is⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "bởi gươm"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "các ngươi sẽ ngã"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "biên giới"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "Ta sẽ phán xét"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩các ngươi",
+      "marks": "các ngươi (tân ngữ của 'phán xét')"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "và các ngươi sẽ biết"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "אני",
+      "gloss": "chính Ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T04:33:25.773139622Z",
+  "model": "glm-5.3"
+}

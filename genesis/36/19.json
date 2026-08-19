@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 36:19",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 36,
+  "translation": "Đây là con cháu của Esav — ⟨đó chính⟩ là Edom — và đây là những tù trưởng của họ.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "đây là"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cháu của"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "và đây là"
+    },
+    {
+      "surface": "אלופיהם",
+      "gloss": "những tù trưởng của họ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "đó chính là"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-19T01:21:30.655272466Z",
+  "model": "glm-5.3"
+}

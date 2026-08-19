@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 10:10",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Nếu sắt bị cùn, và ⟨họ⟩ không mài lưỡi, thì phải dùng nhiều sức; nhưng sự lợi ích của việc khéo léo là khôn ngoan.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "קהה",
+      "gloss": "bị cùn"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "sắt"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "và ⟨họ⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "lưỡi (mặt)"
+    },
+    {
+      "surface": "קלקל",
+      "gloss": "mài"
+    },
+    {
+      "surface": "וחילים",
+      "gloss": "và nhiều sức"
+    },
+    {
+      "surface": "יגבר",
+      "gloss": "phải gia tăng"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "và lợi ích"
+    },
+    {
+      "surface": "הכשיר",
+      "gloss": "khéo léo"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "khôn ngoan"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:16.612145387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và Shallum sinh ra ⟨את⟩ Yekamyah, và Yekamyah sinh ra ⟨את⟩ Elishama.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "và Shallum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "sinh ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yekamyah"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "Yekamyah"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "và Yekamyah"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "sinh ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elishama"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elishama"
+    }
+  ],
+  "timestamp": "2026-08-19T05:46:58.436377992Z",
+  "model": "glm-5.3"
+}

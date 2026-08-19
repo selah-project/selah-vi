@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và Elohim ban phước cho ⟨את⟩ chúng, phán rằng: Hãy sinh sôi, hãy nhiều lên, hãy làm đầy ⟨את⟩ nước trong các biển; và chim chóc hãy增多 trên đất.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "và ban phước"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ chúng",
+      "marks": "chúng (các sinh vật)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "phán rằng"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "hãy sinh sôi"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "và hãy nhiều lên"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "và hãy làm đầy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nước"
+    },
+    {
+      "surface": "המים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "trong các biển"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "và chim chóc"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "hãy增多"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trên đất"
+    }
+  ],
+  "timestamp": "2026-08-19T00:45:57.721942570Z",
+  "model": "glm-5.3"
+}

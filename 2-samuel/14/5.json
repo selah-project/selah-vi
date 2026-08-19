@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Vua nói với nàng: «Có chuyện gì với ngươi?» Nàng thưa: «Quả thật thiếp là ⟨một⟩ người đàn bà goá bụa, và chồng thiếp đã chết.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và vua nói"
+    },
+    {
+      "surface": "לה",
+      "gloss": "với nàng"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chuyện gì"
+    },
+    {
+      "surface": "לך",
+      "gloss": "với ngươi"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "nàng thưa"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "quả thật"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "người đàn bà"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "goá bụa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "thiếp là"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "và đã chết"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "chồng thiếp"
+    }
+  ],
+  "timestamp": "2026-08-19T03:42:35.819023982Z",
+  "model": "glm-5.3"
+}

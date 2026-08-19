@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 148,
+  "translation": "Hãy ca ngợi Ngài, hỡi các tầng trời của các tầng trời, và ⟨hỡi⟩ các vùng nước ở trên cao hơn các tầng trời.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Hãy ca ngợi Ngài"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "các tầng trời của"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "các tầng trời"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "và các vùng nước"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà \/ ở nơi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "trên cao hơn"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "các tầng trời"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:43.785762605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 1:25",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và họ làm tế ⟨את⟩ con bò, và dẫn ⟨את⟩ người thiếu niên đến cùng Eli.",
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "và họ làm tế"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con bò"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "con bò"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "và họ dẫn đến"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người thiếu niên"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "người thiếu niên"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến cùng"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-08-19T03:29:16.004115315Z",
+  "model": "glm-5.3"
+}

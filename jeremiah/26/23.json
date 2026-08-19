@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 26:23",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Họ đem ⟨את⟩ Uriyahu ra khỏi Mitsrayim, dẫn ông đến vua Yehoyakim; vua giết ông bằng gươm, và ném ⟨את⟩ xác ông vào phần mộ của con dân ⟨the⟩ thường dân.",
+  "tokens": [
+    {
+      "surface": "ויוציאו",
+      "gloss": "đem ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriyahu"
+    },
+    {
+      "surface": "אוריהו",
+      "gloss": "Uriyahu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "khỏi Mitsrayim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "dẫn ông đến"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "giết ông"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "bằng gươm"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "ném"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xác ông"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "xác ông"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vào"
+    },
+    {
+      "surface": "קברי",
+      "gloss": "phần mộ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con của"
+    },
+    {
+      "surface": "העם",
+      "gloss": "thường dân"
+    }
+  ],
+  "timestamp": "2026-08-19T04:23:03.072505570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 130,
+  "translation": "Nếu Ngài ghi giữ các tội lỗi, hỡi Yah, ai ⟨trong⟩ ⟨chúng tôi⟩ có thể đứng vững, hỡi Adonai?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "các tội lỗi"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "Ngài ghi giữ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "có thể đứng vững"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:01.629767044Z",
+  "model": "glm-5.3"
+}

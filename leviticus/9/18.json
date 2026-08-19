@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 9:18",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và ông giết ⟨את⟩ con bò và ⟨את⟩ con cừu đực, sinh tế của sự bình an dành cho dân; và con trai của Aharon đem ⟨את⟩ máu đến với ông, và ông hắt nó trên bàn thờ chung quanh.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "và ông giết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con bò"
+    },
+    {
+      "surface": "השור",
+      "gloss": "con bò"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con cừu đực"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "con cừu đực"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sinh tế"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "của sự bình an"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "dành cho dân"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "và (họ) đem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con trai của"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "máu"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "máu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "đến với ông"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "và ông hắt nó"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "chung quanh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:42:01.947284188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 38:23",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 38,
+  "translation": "Và cùng với ⟨את⟩ ông có Aholiav con trai của Achisamach, thuộc chi tộc Dan, một thợ chạm khắc và thiết kế, thợ thêu với chỉ xanh trời, chỉ tím, chỉ đỏ son và chỉ lanh mảnh.",
+  "tokens": [
+    {
+      "surface": "ואתו",
+      "gloss": "và cùng với ⟨את⟩"
+    },
+    {
+      "surface": "אהליאב",
+      "gloss": "ông Aholiav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "אחיסמך",
+      "gloss": "của Achisamach"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "thuộc chi tộc"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "thợ chạm khắc"
+    },
+    {
+      "surface": "וחשב",
+      "gloss": "và (thợ) thiết kế"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "và (thợ) thêu"
+    },
+    {
+      "surface": "בתכלת",
+      "gloss": "với chỉ xanh trời"
+    },
+    {
+      "surface": "ובארגמן",
+      "gloss": "và chỉ tím"
+    },
+    {
+      "surface": "ובתולעת",
+      "gloss": "và chỉ đỏ son"
+    },
+    {
+      "surface": "השני",
+      "gloss": "đỏ (con giòi đỏ)"
+    },
+    {
+      "surface": "ובשש",
+      "gloss": "và chỉ lanh mảnh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:38:39.575075489Z",
+  "model": "glm-5.3"
+}

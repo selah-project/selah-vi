@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 39:6",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 39,
+  "translation": "Và vua Bavel đã giết ⟨את⟩ các con trai Tsidkiyahu tại Rivla trước mắt ông; còn ⟨את⟩ tất cả các quý tộc Yehudah thì vua Bavel đã giết.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "và đã giết"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các con trai Tsidkiyahu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "các con trai"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "tại Rivla"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "trước mắt ông"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "còn ⟨את⟩",
+      "marks": "tất cả các quý tộc Yehudah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "các quý tộc"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "שחט",
+      "gloss": "đã giết"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    }
+  ],
+  "timestamp": "2026-08-19T04:26:27.180119390Z",
+  "model": "glm-5.3"
+}

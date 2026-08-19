@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 85,
+  "translation": "Liệu ⟨có⟩ đến đời đời Ngài hẵng giận ⟨với⟩ chúng con, liệu ⟨có⟩ Ngài kéo dài cơn nostril-cơn giận của Ngài sang thế hệ này sang thế hệ kia?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "liệu ⟨có⟩ đến đời đời"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "Ngài hẵng giận"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨với⟩ chúng con"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "liệu ⟨có⟩ Ngài kéo dài"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "cơn giận của Ngài"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "sang thế hệ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "và sang thế hệ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:24.592043752Z",
+  "model": "glm-5.3"
+}

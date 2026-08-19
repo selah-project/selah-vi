@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Các ngươi sẽ ăn lúa cũ để lâu, và cũ phải dọn đi vì ⟨của⟩ mới, các ngươi sẽ đem ra.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "và các ngươi sẽ ăn"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "cũ"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "để lâu"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "và cũ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vì \/ khỏi trước mặt"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mới"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "các ngươi sẽ đem ra"
+    }
+  ],
+  "timestamp": "2026-08-19T02:47:55.297338009Z",
+  "model": "glm-5.3"
+}

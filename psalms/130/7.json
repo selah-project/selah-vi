@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 130,
+  "translation": "Hỡi Yisrael, hãy trông đợi Yahweh, vì với Yahweh ⟨có⟩ sự nhân từ, và với Ngài ⟨có⟩ sự chuộc rất dồi dào.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "hãy trông đợi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "về"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עם",
+      "gloss": "với"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "sự nhân từ"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "và rất dồi dào"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "với Ngài"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "sự chuộc"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:04.833132351Z",
+  "model": "glm-5.3"
+}

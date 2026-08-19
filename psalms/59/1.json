@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 59,
+  "translation": "Cho người hướng dẫn — «Đừng hủy diệt» — của David, bài khắc (michtam), khi Shaul sai người canh ⟨את⟩ nhà để giết ông.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "cho người hướng dẫn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Đừng"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "hủy diệt"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "của David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "bài khắc (michtam)"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "khi sai đi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "và họ canh chừng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhà"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "để giết ông"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:58.012988854Z",
+  "model": "glm-5.3"
+}

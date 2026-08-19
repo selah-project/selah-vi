@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 37:36",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Và người Midian đã bán ⟨את⟩ nó đến Mitzrayim, cho Potiphar, hoạn quan của Pharaoh, quan trưởng các đao phủ.",
+  "tokens": [
+    {
+      "surface": "ויהמדנים",
+      "gloss": "và người Midian"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "đã bán"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nó (Yosep)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "לפוטיפר",
+      "gloss": "cho Potiphar"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "hoạn quan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaoh"
+    },
+    {
+      "surface": "שר",
+      "gloss": "quan trưởng"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "các đao phủ"
+    }
+  ],
+  "timestamp": "2026-08-19T01:24:15.071332536Z",
+  "model": "glm-5.3"
+}

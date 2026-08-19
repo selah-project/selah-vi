@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 5:5",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Mà mùa gặt của nó người đói sẽ ăn, và đến cả parmi gai người ta lấy đi nó, và kẻ khát nuốt lấy tài sản của họ.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "mùa gặt của nó"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "kẻ đói"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "sẽ ăn"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và đến cả"
+    },
+    {
+      "surface": "מצנים",
+      "gloss": "parmi gai"
+    },
+    {
+      "surface": "יקחהו",
+      "gloss": "người ta lấy đi nó"
+    },
+    {
+      "surface": "ושאף",
+      "gloss": "và nuốt lấy"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "kẻ khát"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "tài sản của họ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:20:41.401023117Z",
+  "model": "glm-5.3"
+}

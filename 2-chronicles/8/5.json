@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Ông xây ⟨את⟩ Beit-Choron phía trên và ⟨את⟩ Beit-Choron phía dưới, các thành luỹ có tường, cửa then chốt và chồng chéo cửa.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "và-xây"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beit-Choron phía trên"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "-Choron"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "phía trên"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và-⟨את⟩",
+      "marks": "Beit-Choron phía dưới"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "-Choron"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "phía dưới"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "các thành"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "luỹ"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "tường"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "cửa"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "và-chốt then"
+    }
+  ],
+  "timestamp": "2026-08-19T05:56:16.471197741Z",
+  "model": "glm-5.3"
+}

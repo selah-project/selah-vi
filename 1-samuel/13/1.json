@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Shaul ⟨was⟩ một tuổi khi lên ngôi, và hai năm ⟨ông⟩ trị vì trên Yisra'el.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "một tuổi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "năm"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "khi lên ngôi"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "và hai"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "năm"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "trị vì"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-19T03:32:17.252647063Z",
+  "model": "glm-5.3"
+}

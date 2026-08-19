@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 145,
+  "translation": "Nhân từ và thương xót ⟨là⟩ Yahweh, chậm giận, và lớn lao ⟨trong⟩ đức nhân hậu.",
+  "tokens": [
+    {
+      "surface": "חַנּ֣וּן",
+      "gloss": "Nhân từ"
+    },
+    {
+      "surface": "וְרַח֣וּם",
+      "gloss": "và thương xót"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אֶ֥רֶךְ",
+      "gloss": "chậm"
+    },
+    {
+      "surface": "אַ֝פַּ֗יִם",
+      "gloss": "cơn giận (nghĩa đen: lỗ mũi)"
+    },
+    {
+      "surface": "וּגְדָ֣ל",
+      "gloss": "và lớn lao"
+    },
+    {
+      "surface": "חָֽסֶד",
+      "gloss": "đức nhân hậu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:31.918220298Z",
+  "model": "glm-5.3"
+}

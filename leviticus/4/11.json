@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và ⟨את⟩ da con bò, và ⟨את⟩ toàn thể thịt của nó, trên đầu của nó và trên hai chân của nó, và lòng ruột của nó và phân của nó.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "da con bò"
+    },
+    {
+      "surface": "עור",
+      "gloss": "da"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "con bò"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "toàn thể thịt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "thịt của nó"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "đầu của nó"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "và trên"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "hai chân của nó"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "và lòng ruột của nó"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "và phân của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:39:55.211920328Z",
+  "model": "glm-5.3"
+}

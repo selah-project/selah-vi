@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và tôi thấy ⟨את⟩ mọi khó nhọc, và ⟨את⟩ mọi thành đạt trong công việc, rằng đó là sự ganh tỵ của người nọ với bạn mình; điều này cũng là hư không và sự ruỗi đuổi gió.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "và tôi thấy"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi khó nhọc"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "khó nhọc"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mọi thành đạt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "thành đạt"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "trong công việc"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "היא",
+      "gloss": "đó là"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "sự ganh tỵ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "của người nọ"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "với bạn mình"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cũng"
+    },
+    {
+      "surface": "זה",
+      "gloss": "điều này"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hư không"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "và sự ruỗi đuổi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "gió"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:01.624479595Z",
+  "model": "glm-5.3"
+}

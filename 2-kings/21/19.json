@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 21:19",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Hai mươi hai tuổi Amon khi lên ngôi, và ông trị vì hai năm tại Yerushalayim; tên mẹ ông là Meshullemeth con gái Haruts, từ Yotvah.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "con (tuổi)"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "hai mươi"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "và hai"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuổi"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "khi lên ngôi"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "và hai"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "năm"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "trị vì"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "tại Yerushalayim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "và tên"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mẹ ông"
+    },
+    {
+      "surface": "משלמת",
+      "gloss": "Meshullemeth"
+    },
+    {
+      "surface": "בת",
+      "gloss": "con gái"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "Haruts"
+    },
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "יטבה",
+      "gloss": "Yotvah"
+    }
+  ],
+  "timestamp": "2026-08-19T04:01:47.678299063Z",
+  "model": "glm-5.3"
+}

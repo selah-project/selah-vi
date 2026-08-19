@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 81,
+  "translation": "Những kẻ ghét Yahweh sẽ giả vờ phục ⟨Ngài⟩, và thời hạn của chúng ⟨sẽ tồn tại⟩ đến muôn đời.",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "những-kẻ-ghét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "sẽ-giả-vờ-phục"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "và-sẽ-tồn-tại"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "thời-hạn-của-họ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "đến-muôn-đời"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:37.331602261Z",
+  "model": "glm-5.3"
+}

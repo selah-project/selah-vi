@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 7:7",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Như tế lễ tội, như tế lễ đền tội, một luật chung cho chúng; thầy tế lễ nào dùng nó làm lễ chuộc tội, nó sẽ thuộc về người ấy.",
+  "tokens": [
+    {
+      "surface": "כחטאת",
+      "gloss": "như tế lễ tội"
+    },
+    {
+      "surface": "כאשם",
+      "gloss": "như tế lễ đền tội"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "luật"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "một"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho chúng"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "thầy tế lễ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "làm lễ chuộc tội"
+    },
+    {
+      "surface": "בו",
+      "gloss": "bằng nó"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho người ấy"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sẽ thuộc về"
+    }
+  ],
+  "timestamp": "2026-08-19T02:40:41.609652058Z",
+  "model": "glm-5.3"
+}

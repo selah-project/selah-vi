@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 18:4",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Và có việc xảy ra: khi Izevel tàn sát ⟨את⟩ các tiên tri của Yahweh, thì Ovadyahu đem một trăm tiên tri đi giấu, năm mươi người trong một hang, và nuôi họ bằng bánh và nước.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "và-có-việc-xảy-ra"
+    },
+    {
+      "surface": "בהכרית",
+      "gloss": "khi-tàn-sát"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các tiên tri của Yahweh"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "các-tiên-tri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "thì-lấy"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Ovadyahu"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "một-trăm"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "tiên-tri"
+    },
+    {
+      "surface": "ויחביאם",
+      "gloss": "và-giấu-họ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "năm-mươi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "trong-hang"
+    },
+    {
+      "surface": "וכלכלם",
+      "gloss": "và-nuôi-họ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bánh"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "và-nước"
+    }
+  ],
+  "timestamp": "2026-08-19T03:53:24.609841947Z",
+  "model": "glm-5.3"
+}

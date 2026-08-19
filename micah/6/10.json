@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 6:10",
+  "book": "micah",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Còn chăng ⟨vẫn còn⟩ nhà của kẻ ác, các kho tàng của sự gian ác, và chiếc epha còm sịt đáng bị gắt giận?",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "còn chăng"
+    },
+    {
+      "surface": "האש",
+      "gloss": "⟨vẫn còn⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "của kẻ ác"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "các kho tàng"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "của sự gian ác"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "và chiếc epha"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "còm sịt"
+    },
+    {
+      "surface": "זעומה",
+      "gloss": "đáng bị gắt giận"
+    }
+  ],
+  "timestamp": "2026-08-19T04:49:53.276955670Z",
+  "model": "glm-5.3"
+}

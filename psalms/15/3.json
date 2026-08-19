@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Không gièm pha bằng lưỡi mình, không làm điều ác cho bạn mình, và không nhận lấy điều sỉ nhục chống người thân cận của mình.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "gièm pha"
+    },
+    {
+      "surface": "על",
+      "gloss": "bằng"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "lưỡi mình"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "làm"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "cho bạn mình"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "điều ác"
+    },
+    {
+      "surface": "וחרפה",
+      "gloss": "và điều sỉ nhục"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nhận lấy"
+    },
+    {
+      "surface": "על",
+      "gloss": "chống"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "người thân cận của mình"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:27.405637693Z",
+  "model": "glm-5.3"
+}

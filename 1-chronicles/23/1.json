@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Và David đã già yếu và thỏa đầy ngày tháng, và người đã lập ⟨את⟩ Shelomoh con trai mình làm vua trên Yisrael.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "và David"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "đã già yếu"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "và thỏa đầy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ngày tháng"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "và người làm vua \/ lập làm vua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "con trai mình"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T05:52:30.397061127Z",
+  "model": "glm-5.3"
+}

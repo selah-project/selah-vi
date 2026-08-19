@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Người ấy sỉ nhục ⟨את⟩ Israel, thì Yehonatan con trai Shim'a, anh của David, đã đánh hắn.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "sỉ nhục"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "và đã đánh hắn"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Shim'a"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "anh của"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-19T05:51:43.711344675Z",
+  "model": "glm-5.3"
+}

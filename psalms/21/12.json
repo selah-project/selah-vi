@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Vì họ đã bày mưu ác chống nghịch ngươi, đã toan tính gian kế, nhưng ⟨họ⟩ sẽ không thể ⟨thực hiện⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "họ đã bày ra"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "chống nghịch ngươi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mưu ác"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "đã toan tính"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "gian kế"
+    },
+    {
+      "surface": "בל",
+      "gloss": "không"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "sẽ có thể"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:57.352290394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Con cháu của Yehudah giao chiến với Yerushalayim, chiếm lấy nó, đánh nó bằng lưỡi gươm, và ⟨את⟩ thành trì họ phóng vào trong lửa.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "và họ giao chiến"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cháu của"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "với Yerushalayim"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "và họ chiếm lấy"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ nó",
+      "marks": "nó (Yerushalayim)"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "và họ đánh nó"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "bằng miệng"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "gươm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "thành trì"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "thành trì"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "họ phóng"
+    },
+    {
+      "surface": "באש",
+      "gloss": "vào trong lửa"
+    }
+  ],
+  "timestamp": "2026-08-19T03:22:02.919666673Z",
+  "model": "glm-5.3"
+}

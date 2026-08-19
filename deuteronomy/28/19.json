@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 28:19",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Bị rủa sả ngươi khi ngươi đi vào, và bị rủa sả ngươi khi ngươi đi ra.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "bị rủa sả"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "khi ngươi đi vào"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "và bị rủa sả"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "khi ngươi đi ra"
+    }
+  ],
+  "timestamp": "2026-08-19T03:12:45.421666325Z",
+  "model": "glm-5.3"
+}

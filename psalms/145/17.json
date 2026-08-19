@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 145,
+  "translation": "Công chính ⟨is⟩ Yahweh trong mọi đường lối Ngài, và nhân từ trong mọi việc làm của Ngài.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "công chính"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "trong mọi"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "đường lối Ngài"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "và nhân từ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "trong mọi"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "việc làm của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:31.154945344Z",
+  "model": "glm-5.3"
+}

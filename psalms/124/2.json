@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 124,
+  "translation": "Nếu không phải Yahweh — Ngài đã ⟨là⟩ cho chúng ta — khi loài người nổi lên chống chúng ta,",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "nếu không"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "đã là"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "cho chúng ta"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "khi nổi lên"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "chống chúng ta"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "loài người"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:56.814724112Z",
+  "model": "glm-5.3"
+}

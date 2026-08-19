@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 88,
+  "translation": "Ngài đã đặt tôi trong hố sâu nhất, trong nơi tối tăm, trong vực thẳm.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "Ngài đã đặt tôi"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "trong hố"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "sâu nhất"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "trong nơi tối tăm"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "trong vực thẳm"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:03.407686806Z",
+  "model": "glm-5.3"
+}

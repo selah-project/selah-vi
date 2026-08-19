@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 15:4",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Chỉ các nơi cao không bị dời bỏ; dân sự vẫn còn giết tế sinh và đốt hương tại các nơi cao.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "chỉ duy"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "các nơi cao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "bị dời bỏ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vẫn còn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "giết tế sinh"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "và đốt hương"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "tại các nơi cao"
+    }
+  ],
+  "timestamp": "2026-08-19T04:00:00.199330851Z",
+  "model": "glm-5.3"
+}

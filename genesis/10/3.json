@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Và các con trai của Gomer: Ashkenaz, và Riphath, và Togarmah.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "và các con trai của"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Ashkenaz"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "và Riphath"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "và Togarmah"
+    }
+  ],
+  "timestamp": "2026-08-19T00:51:30.749925891Z",
+  "model": "glm-5.3"
+}

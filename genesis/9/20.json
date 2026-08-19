@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và Noach bắt đầu, người của đất, và ông trồng một vườn nho.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "bắt đầu"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người của"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "đất"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "trồng"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "vườn nho"
+    }
+  ],
+  "timestamp": "2026-08-19T00:50:37.945599013Z",
+  "model": "glm-5.3"
+}

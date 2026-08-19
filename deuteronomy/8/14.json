@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "và lòng ngươi tự cao, và ngươi quên ⟨את⟩ Yahweh Elohim của ngươi, Đấng đưa ngươi ra khỏi đất Mitzrayim, khỏi nhà nô lệ",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "và tự cao"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "lòng ngươi"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "và ngươi quên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Elohim của ngươi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim của ngươi"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "Đấng đưa ngươi ra"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "khỏi đất"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "khỏi nhà"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "nô lệ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:06:58.167007743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 9:30",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và Zevul, thủ lãnh của thành, nghe ⟨את⟩ lời của Gaal con của Eved, và cơn giận của ông bừng cháy.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "và nghe"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zevul"
+    },
+    {
+      "surface": "שר",
+      "gloss": "thủ lãnh"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "của thành"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lời của Gaal con của Eved"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "lời"
+    },
+    {
+      "surface": "געל",
+      "gloss": "của Gaal"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "của Eved"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "và bừng cháy"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "cơn giận của ông"
+    }
+  ],
+  "timestamp": "2026-08-19T03:24:42.565896357Z",
+  "model": "glm-5.3"
+}

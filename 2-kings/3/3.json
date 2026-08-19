@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Chỉ vào các tội của Yarovam con trai Nevat, người đã khiến ⟨את⟩ Yisrael phạm tội, người bám víu, không rời khỏi nó.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "chỉ"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "vào các tội"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "người đã"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "khiến phạm tội"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "bám víu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "סר",
+      "gloss": "rời"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "khỏi nó"
+    }
+  ],
+  "timestamp": "2026-08-19T03:56:12.833324111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 135,
+  "translation": "Hãy ca ngợi Yah! Hãy ca ngợi ⟨את⟩ danh Yahweh, hỡi những người tôi tớ của Yahweh, hãy ca ngợi!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "hãy ca ngợi"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "hãy ca ngợi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "danh Yahweh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "danh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "hãy ca ngợi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "những người tôi tớ của"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:20.853303441Z",
+  "model": "glm-5.3"
+}

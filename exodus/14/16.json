@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Còn ngươi, hãy giơ lên ⟨את⟩ cây gậy của ngươi và duỗi ⟨את⟩ tay ngươi ra trên biển, hãy xé nó ra, và con cái Yisrael sẽ đi vào giữa biển trên đất khô.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "còn ngươi"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "hãy giơ lên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cây gậy của ngươi"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "cây gậy của ngươi"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "và hãy duỗi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tay ngươi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tay ngươi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ra trên"
+    },
+    {
+      "surface": "הים",
+      "gloss": "biển"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "và hãy xé nó ra"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "và sẽ đi vào"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "biển"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "trên đất khô"
+    }
+  ],
+  "timestamp": "2026-08-19T02:31:10.757725390Z",
+  "model": "glm-5.3"
+}

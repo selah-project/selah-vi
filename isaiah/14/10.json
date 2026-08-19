@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Tất cả họ sẽ đáp lời và nói với ngươi: Cả ngươi cũng đã yếu đuối như chúng ta, ngươi đã nên giống chúng ta!",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "tất cả họ"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "sẽ đáp lời"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "với ngươi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cả"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "đã yếu đuối"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "như chúng ta"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "với chúng ta"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "ngươi đã nên giống"
+    }
+  ],
+  "timestamp": "2026-08-19T04:05:40.591385724Z",
+  "model": "glm-5.3"
+}

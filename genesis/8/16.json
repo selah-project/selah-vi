@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "«Hãy ra khỏi con tàu, ngươi và vợ ngươi, và các con trai ngươi, và các vợ của con trai ngươi, cùng với ⟨את⟩ ngươi.»",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "hãy ra"
+    },
+    {
+      "surface": "מן",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "con tàu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "và vợ ngươi"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "và các con trai ngươi"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "và các vợ"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "của con trai ngươi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T00:50:52.656829208Z",
+  "model": "glm-5.3"
+}

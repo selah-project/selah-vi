@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 1:18",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và bây giờ, kìa, Adoniyahu đã lên ngôi, và bây giờ, chúa tôi ⟨là⟩ vua, ngươi không biết.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "và bây giờ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kìa"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "Adoniyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "đã lên ngôi"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "và bây giờ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "chúa tôi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨là⟩ vua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ngươi biết"
+    }
+  ],
+  "timestamp": "2026-08-19T03:46:23.010390262Z",
+  "model": "glm-5.3"
+}

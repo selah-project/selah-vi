@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Cả tôi cũng có lòng như các ngươi; tôi không thua kém gì các ngươi; và ⟨את⟩ ai lại chẳng có những điều như thế?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "cả"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "lòng"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "như các ngươi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "thua kém"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "hơn các ngươi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ai"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "như"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "những điều này"
+    }
+  ],
+  "timestamp": "2026-08-19T05:22:35.213749372Z",
+  "model": "glm-5.3"
+}

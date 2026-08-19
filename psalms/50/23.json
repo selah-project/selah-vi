@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 50:23",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 50,
+  "translation": "Kẻ dâng sinh tế tạ ơn sẽ tôn vinh Ta, và kẻ đặt đường lối ⟨đúng⟩, Ta sẽ cho ⟨hắn⟩ thấy sự cứu rỗi của Elohim.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "kẻ dâng sinh tế"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "tạ ơn"
+    },
+    {
+      "surface": "יכבדנני",
+      "gloss": "sẽ tôn vinh Ta"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "và kẻ đặt"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "đường lối"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "Ta sẽ cho hắn thấy"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "sự cứu rỗi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "của Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:45.708746495Z",
+  "model": "glm-5.3"
+}

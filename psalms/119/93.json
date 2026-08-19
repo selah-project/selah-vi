@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Đến mãi mai ta sẽ không quên các mệnh lệnh của Ngài, vì bởi chúng Ngài đã làm ta sống lại.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "đến mãi mai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "ta sẽ quên"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "các mệnh lệnh của Ngài"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "בם",
+      "gloss": "bởi chúng"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "Ngài đã làm ta sống lại"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:59.140443030Z",
+  "model": "glm-5.3"
+}

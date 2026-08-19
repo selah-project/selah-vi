@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 35,
+  "translation": "Của David. Hãy tranh tụng, Yahweh, ⟨את⟩ những kẻ tranh tụng với tôi; hãy chiến đấu ⟨את⟩ những kẻ chiến đấu với tôi.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Của David"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "hãy tranh tụng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "những kẻ tranh tụng với tôi"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "những kẻ tranh tụng với tôi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "hãy chiến đấu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "những kẻ chiến đấu với tôi"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "những kẻ chiến đấu với tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:00.524578846Z",
+  "model": "glm-5.3"
+}

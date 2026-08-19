@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 54:10",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 54,
+  "translation": "Vì các núi có thể dời đi và các gò nổi có thể lung lay, nhưng sự nhân từ của Ta không rời khỏi ⟨את⟩ con, và giao ước bình an của Ta sẽ không lung lay — Yahweh, Đấng thương xót con, đã phán.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "các núi"
+    },
+    {
+      "surface": "ימושו",
+      "gloss": "có thể dời đi"
+    },
+    {
+      "surface": "והגבעות",
+      "gloss": "và các gò nổi"
+    },
+    {
+      "surface": "תמוטנה",
+      "gloss": "có thể lung lay"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "và sự nhân từ của Ta"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "khỏi ⟨את⟩ con",
+      "marks": "con (con bị thương xót)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ימוש",
+      "gloss": "rời đi"
+    },
+    {
+      "surface": "וברית",
+      "gloss": "và giao ước"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "bình an của Ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "lung lay"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "đã phán"
+    },
+    {
+      "surface": "מרחמך",
+      "gloss": "Đấng thương xót con"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T04:14:16.188779587Z",
+  "model": "glm-5.3"
+}

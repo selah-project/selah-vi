@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và Yehoshua ra lệnh cho ⟨את⟩ các thầy tế lễ, rằng: Hãy lên khỏi sông Yarden.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "và ra lệnh"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các thầy tế lễ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "các thầy tế lễ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "hãy lên"
+    },
+    {
+      "surface": "מן",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sông Yarden"
+    }
+  ],
+  "timestamp": "2026-08-19T03:15:28.807452967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 92,
+  "translation": "Vì kìa, kẻ thù của Ngài, Yahweh; vì kìa, kẻ thù của Ngài sẽ bị tiêu diệt; tất cả những kẻ làm điều ác sẽ bị tan tác.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kìa"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "kẻ thù của Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kìa"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "kẻ thù của Ngài"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "sẽ bị tiêu diệt"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "sẽ bị tan tác"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "những kẻ làm"
+    },
+    {
+      "surface": "און",
+      "gloss": "điều ác"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:17.127484865Z",
+  "model": "glm-5.3"
+}

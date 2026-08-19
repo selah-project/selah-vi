@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Vì Ta đã đưa ngươi lên khỏi đất Mitsrayim, và khỏi nhà nô lệ Ta đã chuộc ngươi, và Ta đã sai đi trước mặt ngươi ⟨את⟩ Moshe, Aharon, và Miryam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "Ta đã đưa ngươi lên"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "khỏi đất"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "và khỏi nhà"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "nô lệ"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "Ta đã chuộc ngươi"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "và Ta đã sai"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "trước mặt ngươi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe, Aharon, và Miryam"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "và Miryam"
+    }
+  ],
+  "timestamp": "2026-08-19T04:49:27.822664890Z",
+  "model": "glm-5.3"
+}

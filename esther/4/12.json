@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và họ kể lại cho Mordechai ⟨את⟩ lời nói của Esther.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "và họ kể lại"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "cho Mordechai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lời nói"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "lời nói"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "của Esther"
+    }
+  ],
+  "timestamp": "2026-08-19T05:34:16.328359618Z",
+  "model": "glm-5.3"
+}

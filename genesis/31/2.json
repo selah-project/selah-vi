@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Và Yaakov nhìn ⟨את⟩ diện mạo của Lavan, và kìa, nó không còn với ⟨him⟩ như hôm qua và hôm trước.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "và nhìn"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diện mạo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "diện mạo"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "và kìa"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "không còn"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "với ông"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "như hôm qua"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "và hôm trước"
+    }
+  ],
+  "timestamp": "2026-08-19T01:16:39.628570515Z",
+  "model": "glm-5.3"
+}

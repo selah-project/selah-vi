@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 54,
+  "translation": "Vì những người lạ đã dấy lên chống ⟨את⟩ tôi, và những kẻ bạo hành đã tìm kiếm sinh mạng tôi; họ không đặt Elohim trước mặt họ. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "những người lạ"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "đã dấy lên"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "chống tôi"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "và những kẻ bạo hành"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "đã tìm kiếm"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sinh mạng tôi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "đã đặt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "trước mặt họ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:30.428560194Z",
+  "model": "glm-5.3"
+}

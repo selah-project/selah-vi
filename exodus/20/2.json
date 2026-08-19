@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Ta ⟨là⟩ Yahweh Elohim ngươi, Đấng đã đưa ngươi ra khỏi đất Mitzrayim, khỏi nhà nô lệ.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ngươi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Đấng mà"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "đã đưa ngươi ra"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "khỏi đất"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "khỏi nhà"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "nô lệ"
+    }
+  ],
+  "timestamp": "2026-08-19T06:03:36.531899763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 176,
+  "ref": "psalms 119:176",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Con đã lạc đường như chiên ⟨bị⟩ mất, xin tìm kiếm tôi tớ Ngài, vì các điều răn của Ngài con không quên.",
+  "tokens": [
+    {
+      "surface": "תעיתי",
+      "gloss": "con đã lạc đường"
+    },
+    {
+      "surface": "כשה",
+      "gloss": "như chiên"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "bị mất"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "xin tìm kiếm"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tôi tớ Ngài"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "các điều răn của Ngài"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "con đã quên"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:23.562907407Z",
+  "model": "glm-5.3"
+}

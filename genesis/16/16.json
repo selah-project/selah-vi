@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 16:16",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Và Avram được tám mươi sáu năm khi Hagar sinh ⟨את⟩ Yishmael cho Avram.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "và-Avram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con-trai-mừng"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "tám-mươi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "năm"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "và-sáu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "năm"
+    },
+    {
+      "surface": "בלדת",
+      "gloss": "khi-sinh"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishmael"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "cho-Avram"
+    }
+  ],
+  "timestamp": "2026-08-19T00:59:13.293805589Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 1:19",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Đường lối của mọi kẻ tham lợi bất chính ⟨là thế⟩: nó cất lấy ⟨את⟩ sinh mạng của chủ nhân mình.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "⟨là thế⟩"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "đường lối"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "kẻ tham"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "lợi bất chính"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinh mạng"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sinh mạng"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "của chủ nhân nó"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "nó cất lấy"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:50.726167415Z",
+  "model": "glm-5.3"
+}

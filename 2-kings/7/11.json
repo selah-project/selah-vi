@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 7:11",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Và ⟨người gác cổng⟩ hô lên, và họ báo trong nhà vua, vào bên trong.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "và hô"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "người gác cổng"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "và họ báo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "của vua"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "vào bên trong"
+    }
+  ],
+  "timestamp": "2026-08-19T03:57:58.931019441Z",
+  "model": "glm-5.3"
+}

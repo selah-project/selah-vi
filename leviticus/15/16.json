@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 15:16",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Còn một người nam khi có sự phát xuất khỏi mình là hạt giống của sự nằm chung, thì phải rửa trong nước ⟨את⟩ toàn thân thịt mình, và sẽ ô uế đến chiều.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "còn một người nam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "khi"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "có sự phát xuất"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "khỏi mình"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "sự nằm chung"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "hạt giống"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "thì phải rửa"
+    },
+    {
+      "surface": "במים",
+      "gloss": "trong nước"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toàn thân thịt mình"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "thân thịt mình"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "và ô uế"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "chiều"
+    }
+  ],
+  "timestamp": "2026-08-19T02:44:49.061457877Z",
+  "model": "glm-5.3"
+}

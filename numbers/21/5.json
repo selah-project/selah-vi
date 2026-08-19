@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 21:5",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Và dân sự đã nói nghịch cùng Elohim và cùng Moshe: Vì sao ngươi đã đem chúng tôi lên khỏi Mitzrayim để chết trong hoang mạc? Vì không có bánh, và không có nước, và linh hồn chúng tôi chán ghét bánh nhạt nhẽo này.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "đã-nói"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân-sự"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "nghịch-cùng-Elohim"
+    },
+    {
+      "surface": "ובמשה",
+      "gloss": "và-cùng-Moshe"
+    },
+    {
+      "surface": "למה",
+      "gloss": "vì-sao"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "ngươi-đã-đem-lên-chúng-tôi"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "khỏi-Mitzrayim"
+    },
+    {
+      "surface": "למות",
+      "gloss": "để-chết"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "trong-hoang-mạc"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không-có"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bánh"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "và-không-có"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "ונפשנו",
+      "gloss": "và-linh-hồn-chúng-tôi"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "chán-ghét"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "trong-bánh"
+    },
+    {
+      "surface": "הקלקל",
+      "gloss": "nhạt-nhẽo-này"
+    }
+  ],
+  "timestamp": "2026-08-19T02:59:48.814667609Z",
+  "model": "glm-5.3"
+}

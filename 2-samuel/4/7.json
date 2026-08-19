@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 4:7",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Họ vào nhà khi ⟨anh ta⟩ đang nằm trên giường ⟨của anh ta⟩ trong phòng ngủ ⟨của anh ta⟩; họ đánh ⟨anh ta⟩, giết ⟨anh ta⟩, rồi lật ⟨את⟩ đầu ⟨anh ta⟩ ra; họ lấy ⟨את⟩ đầu ⟨anh ta⟩ và đi con đường qua Arabah suốt cả đêm.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "họ vào"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "và ⟨anh ta⟩"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "đang nằm"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "giường của anh ta"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "trong phòng"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "ngủ của anh ta"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "và họ đánh anh ta"
+    },
+    {
+      "surface": "וימתהו",
+      "gloss": "và giết anh ta"
+    },
+    {
+      "surface": "ויסירו",
+      "gloss": "và họ lật ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đầu anh ta"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "đầu anh ta"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "và họ lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đầu anh ta"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "đầu anh ta"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "và họ đi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "con đường"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Arabah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "suốt cả"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "đêm"
+    }
+  ],
+  "timestamp": "2026-08-19T03:39:53.691878908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 10:18",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Vậy ⟨anh ta⟩ ra khỏi nơi Paroh, và cầu thay cùng Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "và ⟨anh ta⟩ ra đi"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "khỏi nơi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "và cầu thay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cùng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:30:17.817650499Z",
+  "model": "glm-5.3"
+}

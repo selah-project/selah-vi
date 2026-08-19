@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Đất than khóc và héo tàn; thế giới mòn mỏi và héo tàn; những người cao trọng của đất đã mòn mỏi.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "than khóc"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "và héo tàn"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "mòn mỏi"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "và héo tàn"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "thế giới"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "đã mòn mỏi"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "những người cao trọng"
+    },
+    {
+      "surface": "עם",
+      "gloss": "của dân"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T04:08:43.663746244Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 48,
+  "translation": "Trong gió đông, Ngài nghiền nát các tàu Tarshish.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "trong gió"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "đông"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "Ngài nghiền nát"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "các tàu"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:24.500878895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 140:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 140,
+  "translation": "Hãy giữ con, Yahweh, khỏi tay kẻ ác, khỏi người bạo hành — xin Ngài canh giữ con, chúng mưu toan xô đẩy bước chân con.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "hãy giữ con"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "khỏi tay"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "khỏi người"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "bạo hành"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "xin canh giữ con"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "chúng mưu toan"
+    },
+    {
+      "surface": "לדחות",
+      "gloss": "xô đẩy"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "bước chân con"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:11.285992553Z",
+  "model": "glm-5.3"
+}

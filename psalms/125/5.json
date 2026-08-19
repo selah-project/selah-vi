@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 125,
+  "translation": "Còn những kẻ lệch sang con đường quanh co của chúng, Yahweh sẽ dẫn họ đi ⟨cùng⟩ ⟨את⟩ những kẻ làm điều ác; sự bình an sẽ ở trên Yisrael.",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "và những kẻ lệch sang"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "con đường quanh co của chúng"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "sẽ dẫn họ đi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "những kẻ làm điều ác"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "những kẻ làm"
+    },
+    {
+      "surface": "האון",
+      "gloss": "điều ác"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sự bình an"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:37.492239703Z",
+  "model": "glm-5.3"
+}

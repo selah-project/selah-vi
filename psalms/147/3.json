@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 147,
+  "translation": "⟨Đấng⟩ chữa lành những kẻ vỡ lòng, và băng bó những nỗi đau thương của họ.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "chữa lành"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "những kẻ vỡ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "lòng"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "và băng bó"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "nỗi đau thương của họ"
+    }
+  ],
+  "timestamp": "2026-08-19T06:19:09.079960504Z",
+  "model": "glm-5.3"
+}

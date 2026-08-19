@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 24:3",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Và Yahweh phán cùng tôi: Hỡi Yirmeyahu, ngươi thấy gì? Tôi thưa: Vả; vả tốt thì rất tốt, còn vả xấu thì rất xấu, đến nỗi không thể ăn được vì quá xấu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cùng tôi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "thấy"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "và tôi thưa"
+    },
+    {
+      "surface": "תאנים",
+      "gloss": "vả"
+    },
+    {
+      "surface": "התאנים",
+      "gloss": "những quả vả"
+    },
+    {
+      "surface": "הטבות",
+      "gloss": "tốt"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "tốt"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "rất"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "còn xấu"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "xấu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "rất"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "đến nỗi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "có thể ăn được"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "vì quá xấu"
+    }
+  ],
+  "timestamp": "2026-08-19T04:23:14.826512413Z",
+  "model": "glm-5.3"
+}

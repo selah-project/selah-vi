@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 22:2",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Và nếu anh em ngươi không ở gần ngươi và ngươi không biết nó, thì hãy đem nó vào giữa nhà ngươi, và nó sẽ ở cùng ngươi cho đến khi anh em ngươi tìm kiếm ⟨את⟩ nó, rồi ngươi hãy trả nó lại cho người.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "và nếu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "ở gần"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "anh em ngươi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "với ngươi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "ידעתו",
+      "gloss": "ngươi biết nó"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "thì ngươi hãy đem nó vào"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vào"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nhà ngươi"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "và nó sẽ là"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "cùng ngươi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "khi tìm kiếm"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "anh em ngươi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nó (vật bị lạc)"
+    },
+    {
+      "surface": "והשבתו",
+      "gloss": "rồi ngươi hãy trả nó"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho người"
+    }
+  ],
+  "timestamp": "2026-08-19T03:10:33.172081311Z",
+  "model": "glm-5.3"
+}

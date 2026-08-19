@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 2:6",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và Yehoshua cho ⟨את⟩ dân chúng ra về, và con cái Yisrael đi, mỗi người đến phần cơ nghiệp của mình, để chiếm lấy ⟨את⟩ đất.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "và người cho đi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân chúng"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân chúng"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "và họ đi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mỗi người"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "đến phần cơ nghiệp của mình"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "để chiếm lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đất"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T06:07:03.066582824Z",
+  "model": "glm-5.3"
+}

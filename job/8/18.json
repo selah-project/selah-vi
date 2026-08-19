@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 8:18",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Nếu ⟨người ta⟩ nuốt nó khỏi chỗ nó, thì chỗ ấy chối nó: Ta đã không thấy ngươi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "יבלענו",
+      "gloss": "nuốt nó"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "khỏi chỗ nó"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "thì chối"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nó"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ראיתיך",
+      "gloss": "ta đã thấy ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:21:27.802905568Z",
+  "model": "glm-5.3"
+}

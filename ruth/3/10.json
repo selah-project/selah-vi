@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 3:10",
+  "book": "ruth",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và người nói: Ngươi ⟨את⟩ được ban phước từ phía Yahweh, con gái ta; ngươi đã làm sự nhân từ của ngươi sau này hơn ban đầu, đến nỗi không đi theo các người trẻ trai, dù nghèo hay dù giàu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và người nói"
+    },
+    {
+      "surface": "ברוכה",
+      "gloss": "được ban phước"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngươi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "từ phía Yahweh"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "con gái ta"
+    },
+    {
+      "surface": "היטבת",
+      "gloss": "ngươi đã làm tốt"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sự nhân từ của ngươi"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "sau này"
+    },
+    {
+      "surface": "מן",
+      "gloss": "hơn"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ban đầu"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "đến nỗi không"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "đi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "theo sau"
+    },
+    {
+      "surface": "הבחורים",
+      "gloss": "các người trẻ trai"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dù"
+    },
+    {
+      "surface": "דל",
+      "gloss": "nghèo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "hay dù"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "giàu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:29:59.161767398Z",
+  "model": "glm-5.3"
+}

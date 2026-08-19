@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 140,
+  "translation": "Chắc chắn ⟨rằng⟩ người công bình sẽ cảm tạ danh Ngài; người ngay thẳng sẽ ngự trước mặt Ngài ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "chắc chắn"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "người công bình"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "sẽ cảm tạ"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "danh Ngài"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "sẽ ngự\/ở"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "người ngay thẳng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mặt Ngài"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "mặt Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:26.809338604Z",
+  "model": "glm-5.3"
+}

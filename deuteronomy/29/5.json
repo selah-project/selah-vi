@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Bánh mì các ngươi không ăn, rượu vang và rượu mạnh các ngươi không uống, để các ngươi biết rằng Ta ⟨là⟩ Yahweh Elohim của các ngươi.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "bánh mì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "các ngươi ăn"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "và rượu vang"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "và rượu mạnh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "các ngươi uống"
+    },
+    {
+      "surface": "למען",
+      "gloss": "để"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "các ngươi biết"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim của các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:12:43.529313458Z",
+  "model": "glm-5.3"
+}

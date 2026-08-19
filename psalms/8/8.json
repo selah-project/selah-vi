@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Chiên và bò, tất cả chúng, và cả thú vật của đồng ruộng,",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "chiên"
+    },
+    {
+      "surface": "וואלפים",
+      "gloss": "và bò"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "tất cả chúng"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "và cả"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "thú vật"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "của đồng ruộng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:55:08.283685381Z",
+  "model": "glm-5.3"
+}

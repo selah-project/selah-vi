@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 106:19",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 106,
+  "translation": "Họ làm một con bò tơ tại Chorev, và cúi lạy hình đúc.",
+  "tokens": [
+    {
+      "surface": "יעשו",
+      "gloss": "họ làm"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "con bò tơ"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "tại Chorev"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "và cúi lạy"
+    },
+    {
+      "surface": "למסכה",
+      "gloss": "hình đúc"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:54.840569602Z",
+  "model": "glm-5.3"
+}

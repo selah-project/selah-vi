@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 81,
+  "translation": "Chẳng bao lâu ⟨thôi⟩ Ta sẽ khuất phục kẻ thù của họ, và quay tay Ta chống kẻ áp bức họ.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "chẳng-bao-lâu"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "kẻ-thù-của-họ"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "Ta-sẽ-khuất-phục"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "và-chống"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "kẻ-ap-bức-họ"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "Ta-sẽ-quay"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tay-Ta"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:37.331451126Z",
+  "model": "glm-5.3"
+}

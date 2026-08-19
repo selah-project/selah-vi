@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Yahweh Elohim của các ngài đã làm ⟨אתכם⟩ nên đông đảo, và kìa, các ngài hôm nay như các ngôi sao của các tầng trời, thật nhiều.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim của các ngài"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "đã làm đông đảo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "các ngài"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "và kìa, các ngài"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hôm nay"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "như các ngôi sao"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "của các tầng trời"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "thật nhiều"
+    }
+  ],
+  "timestamp": "2026-08-19T06:06:00.829678756Z",
+  "model": "glm-5.3"
+}

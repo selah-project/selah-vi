@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 81:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 81,
+  "translation": "Tôi đã cất vai nó khỏi gánh nặng; đôi tay nó được thoát khỏi giỏ đựng.",
+  "tokens": [
+    {
+      "surface": "הסירותי",
+      "gloss": "tôi đã cất"
+    },
+    {
+      "surface": "מסבל",
+      "gloss": "khỏi gánh nặng"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "vai nó"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "đôi tay nó"
+    },
+    {
+      "surface": "מדוד",
+      "gloss": "khỏi giỏ đựng"
+    },
+    {
+      "surface": "תעברנה",
+      "gloss": "được thoát qua"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:13.439953977Z",
+  "model": "glm-5.3"
+}

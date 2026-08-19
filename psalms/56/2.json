@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 56,
+  "translation": "Xin ban ơn cho tôi, Elohim, vì phàm nhân muốn nuốt tôi; suốt ngày đánh trận, ⟨họ⟩ bóp nghẹt tôi.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "xin ban ơn cho tôi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "muốn nuốt tôi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "phàm nhân"
+    },
+    {
+      "surface": "כל",
+      "gloss": "suốt"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "đánh trận"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "bóp nghẹt tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:50.993998275Z",
+  "model": "glm-5.3"
+}

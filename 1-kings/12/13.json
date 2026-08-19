@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 12:13",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Vua trả lời ⟨את⟩ dân sự cách gay gắt, và bỏ rơi ⟨את⟩ lời khuyên của các trưởng lão mà họ đã khuyên người,",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "và trả lời"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân sự"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "gay gắt"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "và bỏ rơi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lời khuyên"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "lời khuyên"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "các trưởng lão"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "họ đã khuyên người"
+    }
+  ],
+  "timestamp": "2026-08-19T03:51:47.845914677Z",
+  "model": "glm-5.3"
+}

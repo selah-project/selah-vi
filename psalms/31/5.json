@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 31:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Ngươi sẽ rút tôi ra khỏi lưới mà chúng đã giấu cho tôi, vì Ngài là đồn lũy của tôi.",
+  "tokens": [
+    {
+      "surface": "תוציאני",
+      "gloss": "ngươi-sẽ-rút-tôi-ra"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "khỏi lưới"
+    },
+    {
+      "surface": "זו",
+      "gloss": "mà"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "chúng-đã-giấu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "đồn-lũy-của-tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:42.112255290Z",
+  "model": "glm-5.3"
+}

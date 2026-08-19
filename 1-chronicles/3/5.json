@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 3:5",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và những người này được sinh ra cho ⟨ông⟩ tại Yerushalayim: Shimea, và Shovav, và Natan, và Shelomoh — bốn người — từ Bat-Shua, con gái của Ammiel.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "và những người này"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "được sinh ra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho ⟨ông⟩"
+    },
+    {
+      "surface": "בירושלים",
+      "gloss": "tại Yerushalayim"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Shimea"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "và Shovav"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "và Natan"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "và Shelomoh"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "bốn"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "từ"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Bat-Shua"
+    },
+    {
+      "surface": "בת",
+      "gloss": "con gái"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "của Ammiel"
+    }
+  ],
+  "timestamp": "2026-08-19T05:47:23.964679434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 30:3",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Trong thiếu thốn và đói khát, ⟨họ⟩ cô đơn hoang tàn; ⟨là⟩ những kẻ bò bới đất khô cằn — hoang vắng đêm qua, tàn phá và điêu tàn.",
+  "tokens": [
+    {
+      "surface": "בחסר",
+      "gloss": "trong thiếu thốn"
+    },
+    {
+      "surface": "ובכפן",
+      "gloss": "và trong đói khát"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "cô đơn hoang tàn"
+    },
+    {
+      "surface": "הערקים",
+      "gloss": "những kẻ bò bới"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "đất khô cằn"
+    },
+    {
+      "surface": "אמש",
+      "gloss": "đêm qua"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "tàn phá"
+    },
+    {
+      "surface": "ומשאה",
+      "gloss": "và điêu tàn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:26:17.693153817Z",
+  "model": "glm-5.3"
+}

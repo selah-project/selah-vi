@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Còn phần còn lại trong thịt và trong bánh, các ngươi hãy đốt trong lửa.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "còn phần còn lại"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "trong thịt"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "và trong bánh"
+    },
+    {
+      "surface": "באש",
+      "gloss": "trong lửa"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "các ngươi hãy đốt"
+    }
+  ],
+  "timestamp": "2026-08-19T02:41:42.353497570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 7:20",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Và David còn có thể nói thêm gì với Ngài? Còn Ngài, Ngài biết ⟨את⟩ tôi tớ Ngài, Adonai Yahweh.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "và gì"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "thêm"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "còn"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "để nói"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "với Ngài"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "và Ngài"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "Ngài biết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tôi tớ Ngài"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tôi tớ Ngài"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T03:40:16.423214002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 78,
+  "translation": "Ngài chọn ⟨את⟩ chi tộc Yehudah, ⟨את⟩ núi Tzion mà Ngài yêu thương.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "chọn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chi tộc Yehudah"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "chi tộc"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "núi Tzion"
+    },
+    {
+      "surface": "הר",
+      "gloss": "núi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "yêu thương"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:09.951067289Z",
+  "model": "glm-5.3"
+}

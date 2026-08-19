@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 90,
+  "translation": "Trước khi các núi được sinh ra, và ⟨trước khi⟩ Ngài đã đẻ ra đất và thế giới — từ thời vô tận đến thời vô tận, Ngài ⟨là⟩ El.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "trước khi"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "các núi"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "được sinh ra"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "và đẻ ra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "và thế giới"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "và từ thời vô tận"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "thời vô tận"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:00.125485301Z",
+  "model": "glm-5.3"
+}

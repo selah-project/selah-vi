@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 85,
+  "translation": "Xin cho chúng con thấy ⟨את⟩ sự nhân từ của Yahweh — ⟨là⟩ sự nhân từ của Ngài, và sự cứu giúp của Ngài, xin hãy ban cho chúng con.",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "xin cho chúng con thấy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sự nhân từ của Ngài"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "và sự cứu giúp của Ngài"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "xin hãy ban"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "cho chúng con"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:24.592271757Z",
+  "model": "glm-5.3"
+}

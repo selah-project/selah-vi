@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 32:30",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Và Yaakov hỏi và nói: Xin hãy cho biết tên của ngươi. Và ⟨người⟩ nói: Sao ngươi lại hỏi tên tôi như vậy? Và ⟨người⟩ chúc phúc cho ⟨את⟩ ông ta tại đó.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "và-hỏi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và-nói"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "hãy-cho-biết"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xin"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tên-ngươi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và-nói"
+    },
+    {
+      "surface": "למה",
+      "gloss": "vì-sao"
+    },
+    {
+      "surface": "זה",
+      "gloss": "này"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "ngươi-hỏi"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "về-tên-tôi"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "và-chúc-phúc"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ông ta"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tại-đó"
+    }
+  ],
+  "timestamp": "2026-08-19T01:16:23.926678440Z",
+  "model": "glm-5.3"
+}

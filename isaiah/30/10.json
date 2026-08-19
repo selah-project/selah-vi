@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 30:10",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "là những kẻ nói với người thấy: Đừng thấy; và với kẻ chiêm nghiệm: Đừng chiêm nghiệm cho chúng ta điều thẳng thắn; hãy nói với chúng ta điều trơn tru; hãy chiêm nghiệm điều hư ảo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "là những kẻ"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "nói"
+    },
+    {
+      "surface": "לראים",
+      "gloss": "với người thấy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "thấy"
+    },
+    {
+      "surface": "ולחזים",
+      "gloss": "và với kẻ chiêm nghiệm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תחזו",
+      "gloss": "chiêm nghiệm"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "cho chúng ta"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "điều thẳng thắn"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "hãy nói"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "cho chúng ta"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "điều trơn tru"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "hãy chiêm nghiệm"
+    },
+    {
+      "surface": "מהתלות",
+      "gloss": "điều hư ảo"
+    }
+  ],
+  "timestamp": "2026-08-19T04:09:12.978481671Z",
+  "model": "glm-5.3"
+}

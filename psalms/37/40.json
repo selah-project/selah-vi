@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Và Yahweh giúp đỡ họ, và giải cứu họ — giải cứu họ khỏi kẻ ác, và cứu họ, vì họ nương náu trong Ngài.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "và Ngài giúp đỡ họ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "và giải cứu họ"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "Ngài giải cứu họ"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "khỏi kẻ ác"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "và cứu họ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "họ nương náu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "trong Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:24.303005920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Yahweh, buổi sáng Ngài nghe tiếng con; buổi sáng con sắp đặt ⟨lời cầu⟩ trước Ngài, và canh chờ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "buổi sáng"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "Ngài nghe"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "tiếng con"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "buổi sáng"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "con sắp đặt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "trước Ngài"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "và canh chờ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:55:13.758302173Z",
+  "model": "glm-5.3"
+}

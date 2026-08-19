@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 76,
+  "translation": "Và ⟨trong⟩ Shalem ⟨có⟩ trại Ngài, và chỗ ở của Ngài tại Tzion.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "và đã có"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "trong Shalem"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "trại của Ngài"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "và chỗ ở của Ngài"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "tại Tzion"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:20.269841523Z",
+  "model": "glm-5.3"
+}

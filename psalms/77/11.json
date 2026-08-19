@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 77,
+  "translation": "Tôi đã nói: Này là sự yếu đuối của tôi; ⟨nhưng⟩ tôi sẽ nhớ các năm của bàn tay phải của Elyon.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "tôi đã nói"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "sự yếu đuối của tôi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "này là"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "các năm"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "bàn tay phải"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Đấng Tối Cao (Elyon)"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:13.445693356Z",
+  "model": "glm-5.3"
+}

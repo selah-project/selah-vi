@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Há chẳng phải như Karkemish là Kalno? Há chẳng phải như Arpad là Hamat? Há chẳng phải như Damascus là Shomeron?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "há chẳng phải"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "như Karkemish"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "Kalno"
+    },
+    {
+      "surface": "אם",
+      "gloss": "há"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chẳng"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "như Arpad"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "há"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chẳng"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "như Damascus"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-19T04:05:38.794146678Z",
+  "model": "glm-5.3"
+}

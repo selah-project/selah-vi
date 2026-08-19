@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 106,
+  "translation": "Và họ thờ phượng ⟨את⟩ các tượng thần của chúng, và các tượng ấy trở thành bẫy chộp cho họ.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "họ thờ phượng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các tượng thần của chúng"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "các tượng thần của chúng"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "và trở thành"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho họ"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "bẫy chộp"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:50.541012585Z",
+  "model": "glm-5.3"
+}

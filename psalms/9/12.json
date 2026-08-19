@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Hãy ca ngợi Yahweh, Đấng ngự tại Tzion; hãy kể lại giữa các dân việc Ngài đã làm.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "hãy ca ngợi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "Đấng ngự"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "hãy kể lại"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "giữa các dân"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "việc Ngài đã làm"
+    }
+  ],
+  "timestamp": "2026-08-19T04:55:46.122480656Z",
+  "model": "glm-5.3"
+}

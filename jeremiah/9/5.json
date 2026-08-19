@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 9:5",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Chỗ ở của ngươi ⟨là⟩ giữa sự dối trá; trong sự dối trá chúng đã từ chối biết ⟨את⟩ Ta, sấm của Yahweh.",
+  "tokens": [
+    {
+      "surface": "שבתך",
+      "gloss": "chỗ ở của ngươi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "sự dối trá"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "trong sự dối trá"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "chúng đã từ chối"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "biết"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ Ta",
+      "marks": "Ta"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sấm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T04:19:16.494771132Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Và Ta sẽ làm trong ngươi ⟨את⟩ điều mà Ta chưa từng làm, và ⟨את⟩ điều mà Ta sẽ không làm như vậy nữa, vì mọi điều gớm ghiếc của ngươi.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "và Ta sẽ làm"
+    },
+    {
+      "surface": "בך",
+      "gloss": "trong ngươi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "điều mà Ta chưa từng làm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "Ta đã làm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "điều mà Ta sẽ không làm như vậy nữa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "Ta sẽ làm"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "như vậy"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nữa"
+    },
+    {
+      "surface": "יען",
+      "gloss": "vì"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "điều gớm ghiếc của ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:32:14.311098477Z",
+  "model": "glm-5.3"
+}

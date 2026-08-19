@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 109,
+  "translation": "Thay cho tình yêu của tôi, chúng nó tố cáo tôi; còn tôi — lời cầu nguyện.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "thay cho"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "tình yêu của tôi"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "chúng nó tố cáo tôi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "còn tôi"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "lời cầu nguyện"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:00.837509375Z",
+  "model": "glm-5.3"
+}

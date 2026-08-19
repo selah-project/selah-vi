@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 3:33",
+  "book": "nehemiah",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và có chuyện xảy ra, khi Sanballat nghe rằng chúng tôi đang xây ⟨את⟩ bức tường, thì ông ta nổi giận và hết sức phẫn nộ, và chế nhạo người Yehuda.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "và có chuyện xảy ra"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "khi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nghe"
+    },
+    {
+      "surface": "סנבלט",
+      "gloss": "Sanballat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "chúng tôi"
+    },
+    {
+      "surface": "בונים",
+      "gloss": "đang xây"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bức tường"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "bức tường"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "và nổi giận"
+    },
+    {
+      "surface": "לו",
+      "gloss": "trong ông ta"
+    },
+    {
+      "surface": "ויכעס",
+      "gloss": "và phẫn nộ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "hết sức"
+    },
+    {
+      "surface": "וילעג",
+      "gloss": "và chế nhạo"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "người Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-19T05:43:52.073838240Z",
+  "model": "glm-5.3"
+}

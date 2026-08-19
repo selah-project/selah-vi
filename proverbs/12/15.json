@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Con đường của kẻ dại ⟨là⟩ thẳng trong mắt nó, nhưng người khôn ngoan nghe theo lời khuyên.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "con đường"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "kẻ dại"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "thẳng"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "trong mắt nó"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "và nghe"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "lời khuyên"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "người khôn ngoan"
+    }
+  ],
+  "timestamp": "2026-08-19T05:16:11.651065168Z",
+  "model": "glm-5.3"
+}

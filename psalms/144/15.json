@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 144,
+  "translation": "Phước cho ⟨is⟩ dân mà ⟨is⟩ được như vậy; phước cho ⟨is⟩ dân mà Yahweh ⟨is⟩ Elohim của họ",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "phước cho"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "mà được như vậy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho nó"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "phước cho"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "mà Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:17.237815005Z",
+  "model": "glm-5.3"
+}

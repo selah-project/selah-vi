@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 40:24",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Và ⟨ông⟩ đặt ⟨את⟩ chân đèn trong Lều Hội, đối diện cái bàn, phía bên của Đền Tạm về hướng nam.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "và đặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chân đèn"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "chân đèn"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "trong Lều"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Hội"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "đối diện"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "cái bàn"
+    },
+    {
+      "surface": "על",
+      "gloss": "phía trên"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "bên sườn"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Đền Tạm"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "hướng nam"
+    }
+  ],
+  "timestamp": "2026-08-19T02:39:19.081755651Z",
+  "model": "glm-5.3"
+}

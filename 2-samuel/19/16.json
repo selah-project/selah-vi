@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Và vua trở lại và đến tận sông Yardên; còn Yehuda thì đến HaGilgal để đi đón vua, để đưa ⟨את⟩ vua qua ⟨את⟩ sông Yardên.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "và trở lại"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "và đến"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tận"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sông Yardên"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "và Yehuda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "đến"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "HaGilgal"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "để đi"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "đón"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "để đưa qua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vua"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sông Yardên"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sông Yardên"
+    }
+  ],
+  "timestamp": "2026-08-19T03:44:58.519813675Z",
+  "model": "glm-5.3"
+}

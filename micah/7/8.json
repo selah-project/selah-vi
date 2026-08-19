@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 7:8",
+  "book": "micah",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Chớ vui mừng ⟨nhìn⟩ tôi, hỡi kẻ thù tôi; vì tôi đã ngã, tôi đã chỗi dậy; khi tôi ngồi trong bóng tối, Yahweh ⟨là⟩ ánh sáng cho tôi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תשמחי",
+      "gloss": "vui mừng"
+    },
+    {
+      "surface": "איבתי",
+      "gloss": "⟨nhìn⟩ tôi, hỡi kẻ thù tôi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "נפלתי",
+      "gloss": "tôi đã ngã"
+    },
+    {
+      "surface": "קמתי",
+      "gloss": "tôi đã chỗi dậy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "khi"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "tôi ngồi"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "trong bóng tối"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ánh sáng"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:50:12.434667956Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 17:5",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Vì tôi chưa từng ở trong nhà, từ ngày mà tôi đã đưa ⟨את⟩ Yisra'el lên cho đến ngày này, và tôi đã đi từ lều này đến lều kia, và từ trại.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "tôi đã ở"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "trong nhà"
+    },
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "tôi đã đưa lên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "và tôi đã đi"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "từ lều"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "lều"
+    },
+    {
+      "surface": "וממשכן",
+      "gloss": "và từ trại"
+    }
+  ],
+  "timestamp": "2026-08-19T05:51:39.305921760Z",
+  "model": "glm-5.3"
+}

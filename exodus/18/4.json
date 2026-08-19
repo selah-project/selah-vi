@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Và tên của người kia là Eliezer, vì Elohim của cha tôi ⟨là⟩ trong sự giúp đỡ tôi, và Ngài đã cứu tôi khỏi gươm của Paroh.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "và tên"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "của người kia"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Eliezer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "cha tôi"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "trong sự giúp đỡ tôi"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "và đã cứu tôi"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "khỏi gươm"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:32:29.094930083Z",
+  "model": "glm-5.3"
+}

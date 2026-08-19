@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Eli gọi ⟨את⟩ Shmuel và nói: \"Shmuel, con ta ơi.\" Người đáp: \"Này con ở đây.\"",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "gọi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shmuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con ta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và đáp"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Này con ở đây"
+    }
+  ],
+  "timestamp": "2026-08-19T03:30:14.622828423Z",
+  "model": "glm-5.3"
+}

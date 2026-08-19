@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Vì Yahweh đã quay lại ⟨את⟩ sự oai nghiêm của Yaakov, như oai nghiêm của Yisrael; vì những kẻ hút cạn đã hút cạn họ, và các cành nho của họ đã bị tàn phá.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שב",
+      "gloss": "đã quay lại"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sự oai nghiêm của Yaakov"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "sự oai nghiêm"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "như oai nghiêm"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "những kẻ hút cạn"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "đã hút cạn"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "và các cành nho của họ"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "đã tàn phá"
+    }
+  ],
+  "timestamp": "2026-08-19T04:50:21.882261373Z",
+  "model": "glm-5.3"
+}

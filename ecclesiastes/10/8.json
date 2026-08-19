@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Kẻ đào hố sẽ sa vào trong nó, và kẻ phá vách tường sẽ bị rắn cắn.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "kẻ đào"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "hố"
+    },
+    {
+      "surface": "בו",
+      "gloss": "vào trong nó"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "sẽ sa"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "và kẻ phá"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "vách tường"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "sẽ cắn"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "rắn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:35.083024099Z",
+  "model": "glm-5.3"
+}

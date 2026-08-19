@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 5:10",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Đấng ban mưa trên mặt đất, và đổ nước trên mặt ⟨các⟩ nơi ngoài trời.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "Đấng ban"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "mưa"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "và đổ ra"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "nơi ngoài trời"
+    }
+  ],
+  "timestamp": "2026-08-19T05:21:04.764127943Z",
+  "model": "glm-5.3"
+}

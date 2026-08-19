@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 106,
+  "translation": "Ngài cứu họ khỏi tay kẻ ghét họ, và chuộc họ khỏi tay địch thù.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "và Ngài cứu họ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "khỏi tay"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "kẻ ghét"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "và Ngài chuộc họ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "khỏi tay"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "địch thù"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:39.588796726Z",
+  "model": "glm-5.3"
+}

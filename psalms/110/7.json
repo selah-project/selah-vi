@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 110,
+  "translation": "Từ khe suối trên đường người sẽ uống, vì vậy người sẽ ngẩng đầu lên.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "từ khe suối"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "trên đường"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "người sẽ uống"
+    },
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vậy"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "người sẽ ngẩng lên"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "đầu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:53.131679537Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 8:6",
+  "book": "amos",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "để mua kẻ nghèo bằng bạc, và người thiếu thốn cho đôi sandals; và bán rác của lúa?",
+  "tokens": [
+    {
+      "surface": "לקנות",
+      "gloss": "để mua"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "bằng bạc"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "kẻ nghèo"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "người thiếu thốn"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "cho"
+    },
+    {
+      "surface": "נעלים",
+      "gloss": "đôi sandals"
+    },
+    {
+      "surface": "ומפל",
+      "gloss": "rác"
+    },
+    {
+      "surface": "בר",
+      "gloss": "lúa"
+    },
+    {
+      "surface": "נשביר",
+      "gloss": "bán"
+    }
+  ],
+  "timestamp": "2026-08-19T04:48:05.904868505Z",
+  "model": "glm-5.3"
+}

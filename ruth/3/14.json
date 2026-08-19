@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ruth 3:14",
+  "book": "ruth",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Bà nằm nơi chân người cho đến buổi sáng, rồi dậy trước khi người ta có thể nhận ra ⟨את⟩ bạn mình. Và ⟨người⟩ nói: Chớ để ai biết rằng người đàn bà đã đến ra sân đạp lúa mạch.",
+  "tokens": [
+    {
+      "surface": "ותשכב",
+      "gloss": "và bà nằm"
+    },
+    {
+      "surface": "מרגלתו",
+      "gloss": "nơi chân người"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "buổi sáng"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "rồi bà dậy"
+    },
+    {
+      "surface": "בטרום",
+      "gloss": "trước khi"
+    },
+    {
+      "surface": "יכיר",
+      "gloss": "có thể nhận ra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bạn mình"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "bạn mình"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và ⟨người⟩ nói"
+    },
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "để ai biết"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "באה",
+      "gloss": "đã đến"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "người đàn bà"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "sân đạp lúa mạch"
+    }
+  ],
+  "timestamp": "2026-08-19T05:30:10.284069034Z",
+  "model": "glm-5.3"
+}

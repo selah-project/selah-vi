@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 139:22",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 139,
+  "translation": "Với sự ghét tận cùng tôi đã ghét họ, họ đã thành kẻ thù đối với tôi.",
+  "tokens": [
+    {
+      "surface": "תכלית",
+      "gloss": "tận cùng"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "sự ghét"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "tôi đã ghét họ"
+    },
+    {
+      "surface": "לאויבים",
+      "gloss": "thành kẻ thù"
+    },
+    {
+      "surface": "היו",
+      "gloss": "họ đã thành"
+    },
+    {
+      "surface": "לי",
+      "gloss": "đối với tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:43.794197262Z",
+  "model": "glm-5.3"
+}

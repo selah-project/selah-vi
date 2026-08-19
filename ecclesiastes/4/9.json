@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Tốt hơn ⟨là⟩ hai kẻ hơn một, bởi chúng có phần thưởng tốt trong sự lao khổ của mình.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "tốt hơn"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "hai kẻ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "hơn"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "một"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bởi"
+    },
+    {
+      "surface": "יש",
+      "gloss": "có"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho chúng"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "phần thưởng"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tốt"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "trong sự lao khổ của chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:23.744444210Z",
+  "model": "glm-5.3"
+}

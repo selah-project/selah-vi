@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 20:5",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Và tại sao ngươi đã đem chúng tôi lên từ Mitsrayim, để đưa ⟨את⟩ chúng tôi đến nơi xấu xa này? Không phải nơi của hạt giống, và cây sung, và cây nho, và cây lựu; và nước thì không có để uống.",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "và tại sao"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "ngươi đã đem chúng tôi lên"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "từ Mitsrayim"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "để đem"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ chúng tôi",
+      "marks": "chúng tôi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "nơi"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "xấu xa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không phải"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "nơi"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "hạt giống"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "và cây sung"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "và cây nho"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "và cây lựu"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "và nước"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "để uống"
+    }
+  ],
+  "timestamp": "2026-08-19T02:58:57.306556825Z",
+  "model": "glm-5.3"
+}

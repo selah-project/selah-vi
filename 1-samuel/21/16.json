@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Tôi thiếu kẻ điên hay sao, mà các ngươi đem ⟨את⟩ tên này đến để hành động điên cuồng trước mặt tôi? Hắn này có được vào nhà tôi chăng?",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "thiếu"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "kẻ điên"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mà"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "các ngươi đem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tên này"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tên này"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "để hành động điên cuồng"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "trước mặt tôi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hắn này"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "có được vào"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vào"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "nhà tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:35:48.884115772Z",
+  "model": "glm-5.3"
+}

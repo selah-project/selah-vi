@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Này, hắn chịu cơn đau đẻ với sự gian ác, ⟨và⟩ thụ thai điều lao khổ, và sinh ra sự dối trá.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "này"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "chịu cơn đau đẻ"
+    },
+    {
+      "surface": "און",
+      "gloss": "sự gian ác"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "và thụ thai"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "điều lao khổ"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "và sinh ra"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "sự dối trá"
+    }
+  ],
+  "timestamp": "2026-08-19T04:55:01.316653050Z",
+  "model": "glm-5.3"
+}

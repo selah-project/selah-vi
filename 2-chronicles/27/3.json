@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Chính ngài đã xây ⟨את⟩ cổng trên của nhà Yahweh, và trên tường HaOphel ngài xây rất nhiều.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "chính ngài"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "đã xây"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cổng trên của nhà Yahweh"
+    },
+    {
+      "surface": "שער",
+      "gloss": "cổng"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "trên"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "và trên tường"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "HaOphel"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "xây"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "rất nhiều"
+    }
+  ],
+  "timestamp": "2026-08-19T05:59:25.941890774Z",
+  "model": "glm-5.3"
+}

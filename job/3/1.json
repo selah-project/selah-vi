@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Sau đó Iyov mở ⟨את⟩ miệng mình và nguyền rủa ⟨את⟩ ngày của mình.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "sau"
+    },
+    {
+      "surface": "כן",
+      "gloss": "đó"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mở"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miệng mình"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "miệng mình"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "và nguyền rủa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngày của mình"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "ngày của mình"
+    }
+  ],
+  "timestamp": "2026-08-19T05:20:29.345239790Z",
+  "model": "glm-5.3"
+}

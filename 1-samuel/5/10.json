@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 5:10",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Vậy họ gửi ⟨את⟩ hòm của Elohim đến Eqron. Xảy ra là khi hòm của Elohim vào đến Eqron, dân Eqron kêu lên, rằng: Họ mang đến cho tôi ⟨את⟩ hòm của Elohim của Yisrael để giết tôi và ⟨את⟩ dân tôi sao!",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Vậy họ gửi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hòm của Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "hòm"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "của Elohim"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Eqron"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Xảy ra là"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "khi vào đến"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "hòm"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "của Elohim"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Eqron"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "họ kêu lên"
+    },
+    {
+      "surface": "העקרנים",
+      "gloss": "dân Eqron"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "הסבו",
+      "gloss": "họ mang đến"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "đến tôi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hòm của Elohim của Yisrael"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "hòm"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "của Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "của Yisrael"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "để giết tôi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "dân tôi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "dân tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:30:30.400694781Z",
+  "model": "glm-5.3"
+}

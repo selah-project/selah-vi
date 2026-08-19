@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và ⟨người ta⟩ sẽ vào vương quốc của vua phía Nam, rồi quay trở về đất của mình.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "và sẽ vào"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "vương quốc"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "phía Nam"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "rồi sẽ quay về"
+    },
+    {
+      "surface": "אל",
+      "gloss": "về đến"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "đất của mình"
+    }
+  ],
+  "timestamp": "2026-08-19T05:40:07.145384882Z",
+  "model": "glm-5.3"
+}

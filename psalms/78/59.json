@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 78:59",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 78,
+  "translation": "Elohim nghe thấy và nổi giận, và Người cực kỳ gạt bỏ Yisrael.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "nghe thấy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "và nổi giận"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "và Người gạt bỏ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cực kỳ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:00.403048815Z",
+  "model": "glm-5.3"
+}

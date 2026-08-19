@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Cho người chỉ huy ca. Của David. Kẻ điên dại đã nói trong lòng mình: Không có Elohim. Chúng đã làm hư hoại, đã làm gớm ghiếc việc làm ⟨của chúng⟩; không có ai làm điều tốt.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "cho người chỉ huy ca"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "của David"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "đã nói"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "kẻ điên dại"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "trong lòng mình"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "đã làm hư hoại"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "đã làm gớm ghiếc"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "việc làm"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ai làm"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "điều tốt"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:23.951137657Z",
+  "model": "glm-5.3"
+}

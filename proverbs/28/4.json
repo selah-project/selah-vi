@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 28:4",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Kẻ bỏ Torah ca ngợi kẻ dữ, còn kẻ giữ Torah tranh luận chống lại chúng.",
+  "tokens": [
+    {
+      "surface": "עזבי",
+      "gloss": "kẻ bỏ"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "ca ngợi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kẻ dữ"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "còn kẻ giữ"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "יתגרו",
+      "gloss": "tranh luận chống"
+    },
+    {
+      "surface": "בם",
+      "gloss": "chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:19:42.703476689Z",
+  "model": "glm-5.3"
+}

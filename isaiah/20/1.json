@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 20:1",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Vào năm Tartan đến Ashdod, khi Sargon vua của Ashshur sai ⟨את⟩ ông ấy đi, và ông đã giao tranh với Ashdod và chiếm lấy nó.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "vào năm"
+    },
+    {
+      "surface": "בא",
+      "gloss": "đến"
+    },
+    {
+      "surface": "תרתן",
+      "gloss": "Tartan"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "khi sai đi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ông ấy"
+    },
+    {
+      "surface": "סרגון",
+      "gloss": "Sargon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "của Ashshur"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "và đã giao tranh"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "với Ashdod"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "và chiếm lấy nó"
+    }
+  ],
+  "timestamp": "2026-08-19T04:07:45.359576415Z",
+  "model": "glm-5.3"
+}

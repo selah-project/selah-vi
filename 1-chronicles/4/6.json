@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và Naarah sinh cho ông ⟨את⟩ Akhuzam, và ⟨את⟩ Khefer, và ⟨את⟩ Temeni, và ⟨את⟩ Ha'akhshtari. Đây là các con trai của Naarah.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "và sinh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho ông"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akhuzam"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "Akhuzam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Khefer"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Khefer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Temeni"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "Temeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Ha'akhshtari"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "Ha'akhshtari"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "đây là"
+    },
+    {
+      "surface": "בני",
+      "gloss": "các con trai của"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:47:35.760083615Z",
+  "model": "glm-5.3"
+}

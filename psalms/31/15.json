@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Còn tôi, tôi đã tin cậy nơi Ngài, Yahweh; tôi đã nói: Elohim của tôi ⟨là⟩ Ngài.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "còn tôi"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nơi Ngài"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "tôi đã tin cậy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "tôi đã nói"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của tôi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:48.411999350Z",
+  "model": "glm-5.3"
+}

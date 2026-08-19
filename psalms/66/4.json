@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 66,
+  "translation": "Cả toàn thể đất sẽ phủ phục trước Ngài và sẽ gảy đàn xướng cho Ngài; sẽ tấu khúc danh Ngài. Selah.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "cả toàn thể"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨cái⟩ đất"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "sẽ phủ phục"
+    },
+    {
+      "surface": "לך",
+      "gloss": "trước Ngài"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "và sẽ gảy đàn xướng"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho Ngài"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "sẽ tấu khúc"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "danh Ngài"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:28.851033227Z",
+  "model": "glm-5.3"
+}

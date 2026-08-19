@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 33,
+  "translation": "Và dân sự nghe ⟨את⟩ lời xấu này, và họ than khóc; và không ai đội ⟨trên mình⟩ đồ trang sức của mình.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "và nghe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lời xấu này"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lời"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "xấu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "và họ than khóc"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "đội \/ đeo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ai (mỗi người)"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "đồ trang sức của mình"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "trên mình"
+    }
+  ],
+  "timestamp": "2026-08-19T02:37:29.693484396Z",
+  "model": "glm-5.3"
+}

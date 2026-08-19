@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Và Yahweh trả lời ⟨את⟩ Iyov từ giữa cơn bão lớn, và phán:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "và trả lời"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyov"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "từ"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "cơn bão lớn"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và phán"
+    }
+  ],
+  "timestamp": "2026-08-19T05:27:45.201338006Z",
+  "model": "glm-5.3"
+}

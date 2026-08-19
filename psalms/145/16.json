@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 145,
+  "translation": "Ngài mở rộng ⟨את⟩ bàn tay ngài, và làm cho mọi sinh vật được no lòng theo ý ngài ưa thích.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "mở rộng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bàn tay ngài"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "bàn tay ngài"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "và làm cho được no lòng"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "sinh vật"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "theo ý ưa thích"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:24.964345582Z",
+  "model": "glm-5.3"
+}

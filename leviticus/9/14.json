@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và ông rửa ⟨את⟩ bộ lòng và ⟨את⟩ hai chân; và ông đốt làm khói trên bàn thờ, trên ⟨את⟩ lễ thiêu.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "và ông rửa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bộ lòng"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "bộ lòng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "hai chân"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "hai chân"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "và ông đốt làm khói"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "lễ thiêu"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "bàn thờ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:41:56.366073029Z",
+  "model": "glm-5.3"
+}

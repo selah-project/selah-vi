@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 78,
+  "translation": "Và Người dẫn dắt họ bằng đám mây ban ngày, và suốt đêm bằng ánh lửa.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "và dẫn dắt"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "bằng đám mây"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ban ngày"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và suốt"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "đêm"
+    },
+    {
+      "surface": "באור",
+      "gloss": "bằng ánh sáng"
+    },
+    {
+      "surface": "אש",
+      "gloss": "lửa"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:48.977781444Z",
+  "model": "glm-5.3"
+}

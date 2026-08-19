@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 104,
+  "translation": "Tất cả chúng ngóng trông về Ngài, để Ngài cho lương thực của chúng đúng mùa của nó.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "tất cả chúng"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "về Ngài"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "ngóng trông"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "để cho"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "lương thực của chúng"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "đúng mùa của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:19.103989732Z",
+  "model": "glm-5.3"
+}

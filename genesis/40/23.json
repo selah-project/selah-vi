@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Nhưng quan trưởng những người rượu đã không nhớ ⟨את⟩ Yosef, và quên y.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "nhưng... không"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nhớ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "quan trưởng"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "những người rượu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "và quên y"
+    }
+  ],
+  "timestamp": "2026-08-19T01:24:09.389797199Z",
+  "model": "glm-5.3"
+}

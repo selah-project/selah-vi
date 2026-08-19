@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 49,
+  "translation": "Và ⟨hắn⟩ nói với tôi: 'Ngươi là tôi tớ của ta, Yisrael, là kẻ mà trong ngươi ta sẽ được vinh hiển.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và đã nói"
+    },
+    {
+      "surface": "לי",
+      "gloss": "với tôi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "tôi tớ của ta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi là"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "là kẻ mà"
+    },
+    {
+      "surface": "בך",
+      "gloss": "trong ngươi"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "ta sẽ được vinh hiển"
+    }
+  ],
+  "timestamp": "2026-08-19T04:13:40.542320646Z",
+  "model": "glm-5.3"
+}

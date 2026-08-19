@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 37:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Vì kẻ làm điều dữ sẽ bị cắt đứt, còn những kẻ trông đợi Yahweh, chính ⟨họ⟩ sẽ thừa hưởng đất.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "kẻ làm điều dữ"
+    },
+    {
+      "surface": "יכרתון",
+      "gloss": "sẽ bị cắt đứt"
+    },
+    {
+      "surface": "וקוי",
+      "gloss": "còn những kẻ trông đợi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨họ⟩"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "sẽ thừa hưởng"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:42.455625601Z",
+  "model": "glm-5.3"
+}

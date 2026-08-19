@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Và thầy tế lễ sẽ đưa ⟨את⟩ nàng đến gần, và sẽ đặt nàng đứng trước mặt Yahweh.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "và sẽ đưa đến gần"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "người phụ nữ (nàng)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "thầy tế lễ"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "và sẽ đặt nàng đứng"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:53:57.671121926Z",
+  "model": "glm-5.3"
+}

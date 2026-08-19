@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 27:10",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Bạn của ngươi, và bạn của cha ngươi, chớ bỏ; và nhà anh em ngươi, chớ đến vào ngày hoạn nạn của ngươi; tốt hơn là người láng giềng ở gần hơn anh em ở xa.",
+  "tokens": [
+    {
+      "surface": "רעך",
+      "gloss": "bạn của ngươi"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "và bạn của"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "cha ngươi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "bỏ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "và nhà"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "anh em ngươi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "đến"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "vào ngày"
+    },
+    {
+      "surface": "אידך",
+      "gloss": "hoạn nạn của ngươi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tốt hơn"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "người láng giềng"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "ở gần"
+    },
+    {
+      "surface": "מאח",
+      "gloss": "hơn anh em"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "ở xa"
+    }
+  ],
+  "timestamp": "2026-08-19T06:20:01.245917798Z",
+  "model": "glm-5.3"
+}

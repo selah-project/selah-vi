@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và Elohim gọi vòm trời là 'các tầng trời'. Và có buổi chiều và có buổi sáng — ngày thứ hai.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "và gọi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "vòm trời"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "các tầng trời"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "và có"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "buổi chiều"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "và có"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "buổi sáng"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "שני",
+      "gloss": "thứ hai"
+    }
+  ],
+  "timestamp": "2026-08-19T00:46:28.452977730Z",
+  "model": "glm-5.3"
+}

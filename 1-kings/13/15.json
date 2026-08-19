@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Và người nói với ⟨ông⟩: “Hãy đi ⟨את⟩ cùng tôi về phía nhà, và ăn bánh.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và người nói"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "với ⟨ông⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hãy đi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ cùng tôi",
+      "marks": "cùng tôi"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "về phía nhà"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "và hãy ăn"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bánh"
+    }
+  ],
+  "timestamp": "2026-08-19T03:51:32.860095264Z",
+  "model": "glm-5.3"
+}

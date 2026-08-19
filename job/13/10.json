@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Chắc chắn Ngài sẽ quở trách ⟨את⟩các ngươi, nếu trong nơi kín giấu các ngươi nâng đỡ mặt mũi ⟨ai đó⟩.",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "chắc chắn quở trách"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "sẽ quở trách"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩các ngươi",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "trong nơi kín giấu"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "mặt mũi"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "các ngươi nâng đỡ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:22:09.997405853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 30:23",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Vì tôi biết Người sẽ đưa tôi về với cái chết, ⟨đến⟩ nhà định sẵn cho mọi người sống.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "tôi biết"
+    },
+    {
+      "surface": "מות",
+      "gloss": "cái chết"
+    },
+    {
+      "surface": "תשיבני",
+      "gloss": "Người sẽ đưa tôi về"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "và nhà"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "định sẵn"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "cho mọi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "người sống"
+    }
+  ],
+  "timestamp": "2026-08-19T05:25:45.918420158Z",
+  "model": "glm-5.3"
+}

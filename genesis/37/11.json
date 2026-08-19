@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Và các anh em hắn ghen ghét hắn; còn cha hắn thì giữ ⟨את⟩ lời nói đó trong lòng.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "và ghen ghét"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hắn"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "các anh em hắn"
+    },
+    {
+      "surface": "ו אביו",
+      "gloss": "còn cha hắn"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "giữ \/ canh giữ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lời nói đó"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lời nói"
+    }
+  ],
+  "timestamp": "2026-08-19T01:23:05.696266764Z",
+  "model": "glm-5.3"
+}

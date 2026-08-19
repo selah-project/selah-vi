@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Sự sống chàng đã xin từ nơi Ngài, Ngài đã ban cho chàng — bề dài những ngày ngày, đời đời mãi mãi.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "sự sống"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "đã xin"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "từ nơi Ngài"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "Ngài đã ban"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho chàng"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "bề dài"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "những ngày"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "đời đời"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "và mãi mãi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:05.953824056Z",
+  "model": "glm-5.3"
+}

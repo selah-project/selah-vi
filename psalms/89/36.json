@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 89:36",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 89,
+  "translation": "Một lần Ta đã thề trong sự thánh của Ta: rằng Ta sẽ không dối gạt David.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Một lần"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "Ta đã thề"
+    },
+    {
+      "surface": "בקדשי",
+      "gloss": "trong sự thánh của Ta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "đối với David"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "Ta dối gạt"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:36.297105449Z",
+  "model": "glm-5.3"
+}

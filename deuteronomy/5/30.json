@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Hãy đi, nói với họ: Các ngươi hãy quay về trại của các ngươi.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "hãy đi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "להם",
+      "gloss": "với họ"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "hãy quay về"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho các ngươi"
+    },
+    {
+      "surface": "לאהליכם",
+      "gloss": "trại của các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:05:46.855111535Z",
+  "model": "glm-5.3"
+}

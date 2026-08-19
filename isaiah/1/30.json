@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Vì các ngươi sẽ như cây sồi lá héo úa, và như khu vườn không có nước cho nó.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Vì"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "các ngươi sẽ như"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "như cây sồi"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "héo úa"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "lá"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "và như khu vườn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "לה",
+      "gloss": "cho nó"
+    }
+  ],
+  "timestamp": "2026-08-19T04:03:23.122192844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 116,
+  "translation": "Hãy trở về, hồn tôi, tới nơi nghỉ ngơi của ngươi, vì Yahweh ⟨đã⟩ ban ơn cho ngươi.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "Hãy trở về"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "hồn tôi"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "tới nơi nghỉ ngơi của ngươi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "⟨đã⟩ ban ơn"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "cho ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:24.598742705Z",
+  "model": "glm-5.3"
+}

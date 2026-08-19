@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 115:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 115,
+  "translation": "Hỡi những kẻ kính sợ Yahweh, hãy nương náu nơi Yahweh; Ngài ⟨là⟩ sự trợ giúp và khiên che của họ.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "những kẻ kính sợ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "hãy nương náu tin cậy"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "nơi Yahweh"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "sự trợ giúp của họ"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "và khiên che của họ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ngài là"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:36.811604017Z",
+  "model": "glm-5.3"
+}

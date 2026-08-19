@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 119:28",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Linh hồn tôi nhỏ giọt vì sầu muộn; xin nâng tôi dậy theo lời Ngài.",
+  "tokens": [
+    {
+      "surface": "דלפה",
+      "gloss": "nhỏ giọt"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "linh hồn tôi"
+    },
+    {
+      "surface": "מתוגה",
+      "gloss": "vì sầu muộn"
+    },
+    {
+      "surface": "קימני",
+      "gloss": "xin nâng tôi dậy"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "theo lời Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:41.230247855Z",
+  "model": "glm-5.3"
+}

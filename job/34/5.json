@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 34:5",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 34,
+  "translation": "Vì Iyov đã nói: Tôi ⟨đã⟩ công chính, và El đã lấy đi phán quyết của tôi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "đã nói"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "tôi công chính"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và El"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "đã lấy đi"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "phán quyết của tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:20:44.922001819Z",
+  "model": "glm-5.3"
+}

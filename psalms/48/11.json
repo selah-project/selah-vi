@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 48,
+  "translation": "Theo danh Ngài, hỡi Elohim, vậy là sự ngợi khen Ngài, đến tận các đầu mút đất; sự công chính đã đầy bàn tay phải Ngài.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "theo danh Ngài"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vậy là"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "sự ngợi khen Ngài"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "các đầu mút"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sự công chính"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "đã đầy"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "bàn tay phải Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:25.730175835Z",
+  "model": "glm-5.3"
+}

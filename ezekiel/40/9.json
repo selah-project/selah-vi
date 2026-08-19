@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 40:9",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Người đã đo ⟨את⟩ tiền sảnh của cổng: tám khubits, và các trụ của nó hai khubits; và tiền sảnh của cổng hướng về ⟨cung⟩ điện.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "đã đo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiền sảnh của cổng"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "tiền sảnh"
+    },
+    {
+      "surface": "השער",
+      "gloss": "của cổng"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "tám"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "khubits"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "và các trụ của nó"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "hai"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "khubits"
+    },
+    {
+      "surface": "ואלם",
+      "gloss": "và tiền sảnh"
+    },
+    {
+      "surface": "השער",
+      "gloss": "của cổng"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "từ ⟨cung⟩ điện"
+    }
+  ],
+  "timestamp": "2026-08-19T04:41:52.340716732Z",
+  "model": "glm-5.3"
+}

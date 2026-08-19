@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Vì giấc mơ đến ⟨qua⟩ sự bận tâm nhiều, và tiếng của kẻ dại ⟨nơi⟩ lượng lời nhiều.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "בא",
+      "gloss": "đến"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "giấc mơ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "⟨qua⟩ sự nhiều"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "bận tâm"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "và tiếng"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "kẻ dại"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "⟨nơi⟩ lượng nhiều"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "lời"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:00.811249998Z",
+  "model": "glm-5.3"
+}

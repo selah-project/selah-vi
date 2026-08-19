@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 19:4",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Và dù quả thật tôi đã lầm lạc, sự lầm lỗi của tôi vẫn nằm ⟨את⟩ bên tôi.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "và dù"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "quả thật"
+    },
+    {
+      "surface": "שגיתי",
+      "gloss": "tôi đã lầm lạc"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ với tôi",
+      "marks": "với tôi (nơi ở của sự lầm lỗi)"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "nằm lại \/ lưu lại"
+    },
+    {
+      "surface": "משוגתי",
+      "gloss": "sự lầm lỗi của tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:23:44.270730180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 16:31",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Và xảy ra, khi ông vừa nói xong ⟨את⟩ mọi lời này, thì đất dưới chân họ bị nứt vỡ ra.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "và xảy ra"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "khi ông vừa xong"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi lời này"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "lời"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "này"
+    },
+    {
+      "surface": "ותבקע",
+      "gloss": "thì bị nứt vỡ ra"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "đất"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "תחתיהם",
+      "gloss": "dưới chân họ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:58:09.700633357Z",
+  "model": "glm-5.3"
+}

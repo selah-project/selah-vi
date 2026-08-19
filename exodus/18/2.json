@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Và Yitro, nhạc phụ Moshe, nhận ⟨את⟩ Tzipporah, vợ của Moshe, sau khi ⟨người ấy⟩ đã gửi nàng về.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "và nhận"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "nhạc phụ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tzipporah"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tzipporah"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vợ của"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sau khi"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "việc gửi nàng về"
+    }
+  ],
+  "timestamp": "2026-08-19T02:32:29.094589697Z",
+  "model": "glm-5.3"
+}

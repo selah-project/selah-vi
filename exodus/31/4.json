@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "để sáng tạo các đồ thiết kế, để làm trong vàng, và trong bạc, và trong đồng.",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "để-sáng-tạo"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "các-đồ-thiết-kế"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "để-làm"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "trong-vàng"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "và-trong-bạc"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "và-trong-đồng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:35:31.898667894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 36,
+  "translation": "Vì với Ngài ⟨là⟩ nguồn của sự sống; trong ánh sáng Ngài chúng ta thấy ánh sáng.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "với Ngài"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "nguồn"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "của sự sống"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "trong ánh sáng Ngài"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "được thấy \/ chúng ta thấy"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ánh sáng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:47.156050364Z",
+  "model": "glm-5.3"
+}

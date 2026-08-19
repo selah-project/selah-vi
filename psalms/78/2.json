@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 78,
+  "translation": "Ta sẽ mở miệng ta trong ngụ ngôn; ta sẽ tuôn trào điều ẩn giấu từ thuở xưa.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "ta sẽ mở"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "trong ngụ ngôn"
+    },
+    {
+      "surface": "פי",
+      "gloss": "miệng ta"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "ta sẽ tuôn trào"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "điều ẩn giấu"
+    },
+    {
+      "surface": "מני",
+      "gloss": "từ"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "thuở xưa"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:57.200119297Z",
+  "model": "glm-5.3"
+}

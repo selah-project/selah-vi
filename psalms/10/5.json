@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Đường lối anh ta luôn vững vàng mọi lúc; các phán quyết của Ngài ⟨ở⟩ nơi cao, xa khỏi mắt anh ta; còn mọi kẻ thù nghịch anh ta, ⟨anh ta⟩ phỉ nhổ vào chúng.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "luôn vững vàng"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "đường lối anh ta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "trong mọi"
+    },
+    {
+      "surface": "עת",
+      "gloss": "thời"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "nơi cao"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "các phán quyết của Ngài"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "xa khỏi anh ta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "kẻ thù nghịch anh ta"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "phỉ nhổ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "vào chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:13.641828336Z",
+  "model": "glm-5.3"
+}

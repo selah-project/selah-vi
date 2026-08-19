@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 86,
+  "translation": "Hãy thương xót con, Adonai, vì con kêu xin cùng Ngài suốt cả ngày.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "hãy thương xót con"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "cùng Ngài"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "con kêu xin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "suốt cả"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngày"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:39.617737868Z",
+  "model": "glm-5.3"
+}

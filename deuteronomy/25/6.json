@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 25:6",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Và sẽ là, con trưởng nam mà nàng sinh sẽ đứng lên trên danh anh mình đã chết, để danh ông không bị xóa khỏi Yisrael.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "và sẽ là"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "con trưởng nam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "nàng sinh"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "sẽ đứng lên"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "שם",
+      "gloss": "danh"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "anh mình"
+    },
+    {
+      "surface": "המת",
+      "gloss": "đã chết"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "ימחה",
+      "gloss": "bị xóa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "danh ông"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "khỏi Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T03:11:33.495930150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 23:3",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Người của David nói với ông: Này, chúng tôi ở đây trong Yehudah mà còn sợ, huống chi nếu chúng tôi đi đến Keilah, đến các đội quân Philistine?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "và họ nói"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "người của"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "với ông"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "này"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "chúng tôi"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ở đây"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "trong Yehudah"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "còn sợ"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "huống chi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "chúng tôi đi"
+    },
+    {
+      "surface": "קעלה",
+      "gloss": "Keilah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "các đội quân"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Philistine"
+    }
+  ],
+  "timestamp": "2026-08-19T03:36:15.235339211Z",
+  "model": "glm-5.3"
+}

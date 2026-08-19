@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 74,
+  "translation": "Dấu lạ của chúng ta, chúng ta không thấy; ⟨is⟩ không còn tiên tri, và ⟨את⟩ chúng ta không có ai biết đến bao lâu.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "dấu lạ của chúng ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "chúng ta thấy"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "còn"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "tiên tri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ chúng ta",
+      "marks": "chúng ta"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "biết"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "מה",
+      "gloss": "bao lâu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:17.354652541Z",
+  "model": "glm-5.3"
+}

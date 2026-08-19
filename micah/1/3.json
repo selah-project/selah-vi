@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 1:3",
+  "book": "micah",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Vì kìa, Yahweh đang ra khỏi chỗ của Ngài, và sẽ xuống, và sẽ bước trên các nơi cao của đất.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Vì"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kìa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "đang ra"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "khỏi chỗ của Ngài"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "và sẽ xuống"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "và sẽ bước trên"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "các nơi cao"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "của đất"
+    }
+  ],
+  "timestamp": "2026-08-19T04:49:19.793874306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Theo số lượng mà các ngươi sẽ làm, như vậy các ngươi sẽ làm cho mỗi con, theo số của chúng.",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "theo số lượng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "các ngươi sẽ làm"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "như vậy"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "các ngươi sẽ làm"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "cho mỗi con"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "theo số của chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:57:27.275818574Z",
+  "model": "glm-5.3"
+}

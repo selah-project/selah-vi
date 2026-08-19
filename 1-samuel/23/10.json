@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Và David nói: Yahweh, Elohim của Yisrael, tôi tớ Ngài chắc chắn nghe rằng Shaúl tìm cách đến Keilah để hủy phá thành vì cớ tôi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "chắc chắn"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nghe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tôi tớ Ngài"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "tìm cách"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "đến"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vào"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilah"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "để hủy phá"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "thành"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "vì cớ tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:36:29.663635773Z",
+  "model": "glm-5.3"
+}

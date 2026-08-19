@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 104:30",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 104,
+  "translation": "Ngài sai ra Thần ⟨của⟩ Ngài, chúng được dựng nên; và Ngài đổi mới mặt ⟨của⟩ đất.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "Ngài sai ra"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "Thần của Ngài"
+    },
+    {
+      "surface": "יבראון",
+      "gloss": "chúng được dựng nên"
+    },
+    {
+      "surface": "ותחדש",
+      "gloss": "và Ngài đổi mới"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:30.340332440Z",
+  "model": "glm-5.3"
+}

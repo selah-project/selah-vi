@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Của David. Yahweh ⟨là⟩ ánh sáng của tôi và sự cứu giúp của tôi — tôi sẽ sợ ai? Yahweh ⟨là⟩ pháo đài của đời tôi — tôi sẽ khiếp ai?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Của David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "ánh sáng của tôi"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "và sự cứu giúp của tôi"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "tôi sẽ sợ ai"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "tôi sẽ sợ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "pháo đài"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "của đời tôi"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "tôi sẽ khiếp ai"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "tôi sẽ khiếp"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:16.518480267Z",
+  "model": "glm-5.3"
+}

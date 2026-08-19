@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 22:17",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Vì chó đã vây quanh tôi, hội chúng kẻ làm ác đã bao bọc tôi; như sư tử ⟨họ vồ lấy⟩ tay tôi và chân tôi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "đã vây quanh tôi"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "chó"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "hội chúng"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "kẻ làm ác"
+    },
+    {
+      "surface": "הקיפוני",
+      "gloss": "đã bao bọc tôi"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "như sư tử"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tay tôi"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "và chân tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:09.189929314Z",
+  "model": "glm-5.3"
+}

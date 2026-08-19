@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 18:24",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Vậy thì làm sao ngươi đẩy lưng được mặt của một viên tổng trấn nhỏ nhất trong các tôi tớ của chúa tôi, khi ngươi nương cậy nơi Mitzrayim để có xe ngựa và kỵ binh?",
+  "tokens": [
+    {
+      "surface": "ואיך",
+      "gloss": "vậy thì làm sao"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "ngươi đẩy lùi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mặt"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "viên tổng trấn"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "một"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "trong các tôi tớ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "của chúa tôi"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "nhỏ nhất"
+    },
+    {
+      "surface": "ותבטח",
+      "gloss": "mà ngươi lại nương cậy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngươi"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "để có xe ngựa"
+    },
+    {
+      "surface": "ולפרשים",
+      "gloss": "và kỵ binh"
+    }
+  ],
+  "timestamp": "2026-08-19T04:01:22.330704343Z",
+  "model": "glm-5.3"
+}

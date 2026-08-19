@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Trong ngày đó nó phải được ăn; các ngươi chớ để sót gì từ nó cho ⟨đến⟩ sáng: Ta là Yahweh.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "trong ngày"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "đó"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "phải được ăn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "các ngươi để sót"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "từ nó"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sáng"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:46:37.056709104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Vì có nhiều lời khiến hư không gia tăng — còn gì dư lại cho con người?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "יש",
+      "gloss": "có"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "lời"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "nhiều"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "khiến gia tăng"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hư không"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "dư lại"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "cho con người"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:27.814157972Z",
+  "model": "glm-5.3"
+}

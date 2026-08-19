@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 37:13",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Và các ngươi sẽ biết rằng ⟨ta⟩ là Yahweh, khi ta mở ⟨את⟩ mộ phần của các ngươi, và khi ta đưa các ngươi lên khỏi mộ phần của các ngươi, hỡi dân sự ta.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "và các ngươi sẽ biết"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בפתחי",
+      "gloss": "khi ta mở"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mộ phần của các ngươi"
+    },
+    {
+      "surface": "קברותיכם",
+      "gloss": "mộ phần của các ngươi"
+    },
+    {
+      "surface": "ובהעלותי",
+      "gloss": "và khi ta đưa lên"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ các ngươi",
+      "marks": "lên khỏi mộ phần của các ngươi"
+    },
+    {
+      "surface": "מקברותיכם",
+      "gloss": "khỏi mộ phần của các ngươi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "dân sự ta"
+    }
+  ],
+  "timestamp": "2026-08-19T04:41:39.036713582Z",
+  "model": "glm-5.3"
+}

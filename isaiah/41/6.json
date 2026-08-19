@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 41,
+  "translation": "Mỗi người giúp ⟨את⟩ bạn mình, và nói với anh em mình: Hãy vững mạnh!",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "mỗi người"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bạn mình"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "bạn mình"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "giúp"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "và với anh em mình"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "Hãy vững mạnh"
+    }
+  ],
+  "timestamp": "2026-08-19T04:11:39.476029574Z",
+  "model": "glm-5.3"
+}

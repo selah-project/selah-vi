@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 77,
+  "translation": "Trong ngày khốn khổ của tôi, Adonai, tôi đã tìm kiếm; tay tôi ban đêm đã chìa ra và không mỏi mệt; nó từ chối ⟨được⟩ an ủi, linh hồn tôi.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "trong ngày"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "khốn khổ của tôi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "tôi đã tìm kiếm"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tay tôi"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ban đêm"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "đã chìa ra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "mỏi mệt"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "nó từ chối"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "⟨được⟩ an ủi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "linh hồn tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:48.513407292Z",
+  "model": "glm-5.3"
+}

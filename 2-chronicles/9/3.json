@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và nữ vương của Shva thấy ⟨את⟩ sự khôn ngoan của Shlomo, và ⟨את⟩ ngôi nhà mà ngài đã xây.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "và nàng thấy"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "nữ vương"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "của Shva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sự khôn ngoan"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "sự khôn ngoan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "của Shlomo"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "và ngôi nhà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ngài đã xây"
+    }
+  ],
+  "timestamp": "2026-08-19T05:56:06.069783112Z",
+  "model": "glm-5.3"
+}

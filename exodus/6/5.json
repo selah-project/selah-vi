@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và cả tôi cũng đã nghe ⟨את⟩ tiếng rên xiết của con cái Yisrael, mà Mitsrayim đang bắt làm tôi tớ ⟨את⟩-họ; và tôi đã nhớ ⟨את⟩ giao ước của tôi.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "và cả"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "đã nghe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiếng rên xiết"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "tiếng rên xiết"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "đang bắt làm tôi tớ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩-họ",
+      "marks": "họ (con cái Yisrael)"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "và đã nhớ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "giao ước của tôi"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "giao ước của tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:29:02.877695467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 9:4",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và mỗi người với bạn mình ⟨thì⟩ lừa dối, và sự thật họ không nói; họ đã dạy lưỡi mình nói dối trá, làm điều cong quặt đến mệt nhoài.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "và mỗi người"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "với bạn mình"
+    },
+    {
+      "surface": "יהתלו",
+      "gloss": "lừa dối"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "và sự thật"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "họ nói"
+    },
+    {
+      "surface": "למדו",
+      "gloss": "họ đã dạy"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "lưỡi mình"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dối trá"
+    },
+    {
+      "surface": "העוה",
+      "gloss": "làm cong quặt"
+    },
+    {
+      "surface": "נלאו",
+      "gloss": "mệt nhoài"
+    }
+  ],
+  "timestamp": "2026-08-19T04:19:53.048896680Z",
+  "model": "glm-5.3"
+}

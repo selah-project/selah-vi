@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 14:20",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Và ⟨nó⟩ đến giữa đoàn trại Mitsrayim và giữa đoàn trại Yisrael, và ⟨thì⟩ có mây và bóng tối, và ⟨nó⟩ chiếu sáng ⟨את⟩ đêm; và bên này không đến gần bên kia suốt cả đêm.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "và ... đến"
+    },
+    {
+      "surface": "בין",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "đoàn trại"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "và giữa"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "đoàn trại"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "và ... có"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "mây"
+    },
+    {
+      "surface": "והחשך",
+      "gloss": "và bóng tối"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "và ... chiếu sáng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đêm"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "đêm"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "đến gần"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bên này"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bên kia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "suốt cả"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "đêm"
+    }
+  ],
+  "timestamp": "2026-08-19T02:31:35.377240553Z",
+  "model": "glm-5.3"
+}

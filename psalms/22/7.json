@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Còn tôi ⟨is⟩ con giòi, và không phải người; sự nhục nhã của loài người, và bị khinh bỉ bởi dân chúng.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "còn tôi"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "con giòi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không phải"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "sự nhục nhã"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "của loài người"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "và bị khinh bỉ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bởi dân chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:57.065347419Z",
+  "model": "glm-5.3"
+}

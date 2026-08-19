@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Ngươi sẽ lấy bột mịn và nướng từ nó ⟨את⟩ mười hai cái bánh: mỗi cái bánh sẽ là hai phần mười (ê-pha).",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ngươi sẽ lấy"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "bột mịn"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "và ngươi sẽ nướng"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "mười hai cái bánh"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "hai"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "mười"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "cái bánh"
+    },
+    {
+      "surface": "שני",
+      "gloss": "hai"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "phần mười"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sẽ là"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "cái bánh"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "một (riêng lẻ)"
+    }
+  ],
+  "timestamp": "2026-08-19T06:04:41.812694115Z",
+  "model": "glm-5.3"
+}

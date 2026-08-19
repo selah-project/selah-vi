@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 27:22",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Dù ngươi giã ⟨את⟩ kẻ ngu dại trong cối với chày, giữa hạt khô, sự ngu dại của nó sẽ không lìa khỏi nó.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "dù"
+    },
+    {
+      "surface": "תכתוש",
+      "gloss": "ngươi giã"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kẻ ngu dại"
+    },
+    {
+      "surface": "האויל",
+      "gloss": "kẻ ngu dại"
+    },
+    {
+      "surface": "במכתש",
+      "gloss": "trong cối"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "הריפות",
+      "gloss": "hạt khô (vỏ trấu)"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "với chày"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "sẽ lìa đi"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "khỏi nó"
+    },
+    {
+      "surface": "אולתו",
+      "gloss": "sự ngu dại của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:19:32.376518852Z",
+  "model": "glm-5.3"
+}

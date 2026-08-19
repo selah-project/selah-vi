@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Ông đáp: Tôi đã phạm tội gì, mà ngươi nộp ⟨את⟩ tôi tớ ngươi vào tay Akh'av để giết tôi?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ông đáp"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "tôi đã phạm tội"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mà"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nộp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tôi tớ ngươi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tôi tớ ngươi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "vào tay"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akh'av"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "để giết tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:10:32.358730511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 6:8",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và tôi sẽ đưa ⟨את⟩-các ngươi vào trong đất mà tôi đã giơ ⟨את⟩ tay tôi để ban ⟨את⟩-nó cho Avraham, cho Yitschak và cho Yaakov; và tôi sẽ ban ⟨את⟩-nó cho các ngươi làm sản nghiệp: tôi là Yahweh.'",
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "và tôi sẽ đưa vào"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-các ngươi",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vào trong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "tôi đã giơ lên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tay tôi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tay tôi"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "để ban"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩-nó",
+      "marks": "nó (đất)"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "cho Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "cho Yitschak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "và cho Yaakov"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "và tôi sẽ ban"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩-nó",
+      "marks": "nó (đất)"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho các ngươi"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "làm sản nghiệp"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:29:02.878346622Z",
+  "model": "glm-5.3"
+}

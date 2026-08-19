@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 110,
+  "translation": "Yahweh đã thề và sẽ không hối hận: Ngươi là thầy tế lễ đến đời đời, theo phẩm trật Malki-Tsedek.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "đã thề"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và sẽ không"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "hối hận"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "thầy tế lễ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "đến đời đời"
+    },
+    {
+      "surface": "על",
+      "gloss": "theo"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "phẩm trật"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Tsedek"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:04.814671913Z",
+  "model": "glm-5.3"
+}

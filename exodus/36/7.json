@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 36,
+  "translation": "Và ⟨của liệu⟩ ⟨là⟩ đủ cho mọi việc làm để làm ⟨את nó⟩, và còn dư.",
+  "tokens": [
+    {
+      "surface": "ו המלאכה",
+      "gloss": "và của liệu công việc"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨là⟩ đã có"
+    },
+    {
+      "surface": "דים",
+      "gloss": "đủ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "cho mọi"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "việc làm"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "để làm"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "việc làm"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "và còn dư"
+    }
+  ],
+  "timestamp": "2026-08-19T02:38:24.294392417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Hãy làm vững ⟨lời phán⟩ của Ngài cho tôi tớ Ngài, là lời hướng đến sự kính sợ Ngài.",
+  "tokens": [
+    {
+      "surface": "הקם",
+      "gloss": "hãy làm vững"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "cho tôi tớ Ngài"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "lời phán của Ngài"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "là lời"
+    },
+    {
+      "surface": "ליראתך",
+      "gloss": "hướng đến sự kính sợ Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:32.686973493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 3:18",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và Shmuel kể cho ông ⟨את⟩ tất cả các lời, và không giấu gì khỏi ông; và ông nói: Yahweh ⟨là⟩; điều tốt trong mắt Ngài, Ngài sẽ làm.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "và kể"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho ông"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả các lời"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "các lời"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Người là"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "điều tốt"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "trong mắt Ngài"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "sẽ làm"
+    }
+  ],
+  "timestamp": "2026-08-19T03:30:14.365785191Z",
+  "model": "glm-5.3"
+}

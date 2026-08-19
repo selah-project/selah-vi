@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 6:30",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Có sự bất công nào trên lưỡi tôi ⟨không⟩? Vòm miệng tôi ⟨nó⟩ không phân biệt được điều tai ương ⟨sao⟩?",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "có... không"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "trên lưỡi tôi"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "sự bất công"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hay"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "vòm miệng tôi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "phân biệt"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "điều tai ương"
+    }
+  ],
+  "timestamp": "2026-08-19T05:21:13.196349711Z",
+  "model": "glm-5.3"
+}

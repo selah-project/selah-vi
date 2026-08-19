@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 72,
+  "translation": "Và đáng chúc phước ⟨là⟩ danh vinh hiển của Ngài đến đời đời; và nguyện sự vinh hiển của Ngài đầy ⟨את⟩ cả đất. Amen, và Amen.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "và đáng chúc phước"
+    },
+    {
+      "surface": "שם",
+      "gloss": "danh"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "vinh hiển của Ngài"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "đến đời đời"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "và nguyện được đầy"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "vinh hiển của Ngài"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cả đất"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cả"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "và Amen"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:43.071999664Z",
+  "model": "glm-5.3"
+}

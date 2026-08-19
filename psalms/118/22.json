@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 118:22",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 118,
+  "translation": "Viên đá mà các thợ xây đã khinh bỏ, đã trở thành tảng đá góc đầu.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "viên đá"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "đã khinh bỏ"
+    },
+    {
+      "surface": "הבונים",
+      "gloss": "các thợ xây"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "đã trở thành"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "thành đầu"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "góc"
+    }
+  ],
+  "timestamp": "2026-08-19T06:19:02.264970747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 111,
+  "translation": "Khởi đầu của sự khôn ngoan ⟨là⟩ sự kính sợ Yahweh; sự thông sáng tốt lành ⟨được ban⟩ cho mọi người thực hành chúng; lời ca ngợi Ngài đứng vững mãi mãi.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "khởi đầu"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "của sự khôn ngoan"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "sự kính sợ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "sự thông sáng"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tốt lành"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "cho mọi"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "người thực hành chúng"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "lời ca ngợi Ngài"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "đứng vững"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "mãi mãi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:19:03.389809295Z",
+  "model": "glm-5.3"
+}

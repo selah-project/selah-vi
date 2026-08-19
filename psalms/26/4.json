@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Con đã không ngồi với những người hư không, và với những kẻ che giấu, con sẽ không vào.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "con đã ngồi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "với"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "những người"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "hư không"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "và với"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "những kẻ che giấu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "con sẽ vào"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:02.919437993Z",
+  "model": "glm-5.3"
+}

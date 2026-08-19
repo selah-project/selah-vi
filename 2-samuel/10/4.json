@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 10:4",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Hanun bắt ⟨את⟩ các tôi tớ David, cạo ⟨את⟩ phân nửa râu họ, cắt ⟨את⟩ áo choàng của họ ở giữa, đến tận mông họ, và đuổi họ đi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "bắt"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các tôi tớ David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "các tôi tớ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "cạo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phân nửa râu họ"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "phân nửa"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "râu họ"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "cắt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "áo choàng của họ"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "áo choàng của họ"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "ở giữa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến tận"
+    },
+    {
+      "surface": "שתותיהם",
+      "gloss": "mông họ"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "đuổi họ đi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:40:57.335772641Z",
+  "model": "glm-5.3"
+}

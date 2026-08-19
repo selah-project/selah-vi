@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 33,
+  "translation": "Kẻ nói với cha mình và với mẹ mình: 'Con không thấy ông', và ⟨את⟩ anh em mình ⟨⟨hắn⟩⟩ không nhận biết, và ⟨את⟩ con cái mình không quen biết; vì chúng đã giữ lời phán của Ngài, và giao ước của Ngài chúng gìn giữ.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "kẻ nói"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "với cha mình"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "và với mẹ mình"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "tôi thấy hắn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anh em mình"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "anh em mình"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "nhận biết"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "con cái mình"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "con cái mình"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "quen biết"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "chúng đã giữ"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "lời phán của ngài"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "và giao ước của ngài"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "chúng gìn giữ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:13:50.665038041Z",
+  "model": "glm-5.3"
+}

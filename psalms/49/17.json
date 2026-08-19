@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 49,
+  "translation": "Chớ sợ ⟨khi⟩ một người được làm giàu, ⟨khi⟩ vinh quang nhà hắn được thêm lên.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "sợ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨khi⟩"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "được làm giàu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "một người"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨khi⟩"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "được thêm lên"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "vinh quang"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nhà hắn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:51.145325292Z",
+  "model": "glm-5.3"
+}

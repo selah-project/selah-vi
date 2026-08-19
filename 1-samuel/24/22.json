@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Và giờ đây, hãy thề với tôi bởi Yahweh rằng ngươi sẽ không cắt ⟨את⟩ dòng giống tôi sau tôi, và sẽ không hủy diệt ⟨את⟩ danh tôi khỏi nhà cha tôi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "và giờ đây"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "hãy thề"
+    },
+    {
+      "surface": "לי",
+      "gloss": "với tôi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "bởi Yahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "rằng (nếu)"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "ngươi sẽ cắt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dòng giống tôi"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "dòng giống tôi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sau tôi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "và rằng (nếu)"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "ngươi sẽ hủy diệt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "danh tôi"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "danh tôi"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "khỏi nhà"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "cha tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:35:41.376662741Z",
+  "model": "glm-5.3"
+}

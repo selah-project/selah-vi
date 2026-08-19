@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và Elohim phán với Noach, rằng:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "và phán"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    }
+  ],
+  "timestamp": "2026-08-19T00:50:52.656641931Z",
+  "model": "glm-5.3"
+}

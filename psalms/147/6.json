@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 147,
+  "translation": "Đỡ nâng ⟨các⟩ người khiêm nhường ⟨là⟩ Yahweh; hạ xuống ⟨các⟩ kẻ ác đến tận đất.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "đỡ nâng"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "người khiêm nhường"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "hạ xuống"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "đến tận"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:40.798084910Z",
+  "model": "glm-5.3"
+}

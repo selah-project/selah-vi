@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Vậy tại sao ngươi không giữ ⟨את⟩ lời thề Yahweh và ⟨את⟩ điều mệnh lệnh mà ta đã truyền trên ngươi?",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "vậy tại sao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "ngươi đã giữ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lời thề Yahweh"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "lời thề"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "điều mệnh lệnh"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "điều mệnh lệnh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ta đã truyền"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "trên ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:47:41.292168196Z",
+  "model": "glm-5.3"
+}

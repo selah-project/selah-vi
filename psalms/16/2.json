@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Con đã nói với Yahweh: Adonai, Ngài ⟨là⟩ của con; sự lành của con không ⟨tách khỏi⟩ Ngài.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "con đã nói"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "với Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "sự lành của con"
+    },
+    {
+      "surface": "בל",
+      "gloss": "không"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ngoài Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:20.530288092Z",
+  "model": "glm-5.3"
+}

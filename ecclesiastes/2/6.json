@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Tôi đã làm cho mình những hồ nước, để tưới từ chúng rừng mọc lên cây cối.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "tôi đã làm"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho mình"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "những hồ chứa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "để tưới"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "từ chúng"
+    },
+    {
+      "surface": "יער",
+      "gloss": "rừng"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "mọc lên"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "cây cối"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:54.854714157Z",
+  "model": "glm-5.3"
+}

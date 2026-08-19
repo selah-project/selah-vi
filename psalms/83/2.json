@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 83,
+  "translation": "Elohim ơi, xin đừng lặng im ⟨với⟩ ngươi, đừng nín lặng, và đừng yên nghỉ, hỡi El.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "lặng im"
+    },
+    {
+      "surface": "לך",
+      "gloss": "với ngươi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "nín lặng"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và đừng"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "yên nghỉ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:38.686862610Z",
+  "model": "glm-5.3"
+}

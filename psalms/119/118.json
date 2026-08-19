@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Ngài đã khinh rẻ mọi kẻ lạc khỏi các mạng lệnh của Ngài, vì sự dối trá là mưu欺骗 của chúng nó.",
+  "tokens": [
+    {
+      "surface": "סלית",
+      "gloss": "Ngài đã khinh rẻ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "שוגים",
+      "gloss": "kẻ lạc"
+    },
+    {
+      "surface": "מחקיך",
+      "gloss": "khỏi các mạng lệnh của Ngài"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "sự dối trá"
+    },
+    {
+      "surface": "תרמיתם",
+      "gloss": "mưu欺骗 của chúng nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:25.039355638Z",
+  "model": "glm-5.3"
+}

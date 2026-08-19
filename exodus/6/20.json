@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 6:20",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và Amram lấy ⟨את⟩ Yokheved, cô của ông, làm vợ cho mình; và bà sinh cho ông ⟨את⟩ Aharon và ⟨את⟩ Moshe; và số năm của đời Amram là một trăm ba mươi bảy năm.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "và lấy"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yokheved"
+    },
+    {
+      "surface": "יוכבד",
+      "gloss": "Yokheved"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "cô của ông"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho mình"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "làm vợ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "và bà sinh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho ông"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "và số năm của"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "đời"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "bảy"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "và ba mươi"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "và một trăm"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "năm"
+    }
+  ],
+  "timestamp": "2026-08-19T02:28:37.465192085Z",
+  "model": "glm-5.3"
+}

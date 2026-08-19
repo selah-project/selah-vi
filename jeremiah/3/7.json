@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 3:7",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và tôi đã nói: Sau khi nàng làm ⟨את⟩ tất cả những điều này, nàng sẽ quay về cùng tôi; nhưng nàng đã không quay về. Và Yehudah bội phản, em-gái của nàng, đã thấy điều đó.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "và-tôi-đã-nói"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sau-khi"
+    },
+    {
+      "surface": "עשותה",
+      "gloss": "nàng-làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả những điều này"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "những-điều-này"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cùng-tôi"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "nàng-sẽ-quay-về"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nhưng-không"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "đã-quay-về"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "và-đã-thấy"
+    },
+    {
+      "surface": "בגודה",
+      "gloss": "bội-phản"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "em-gái-của-nàng"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-19T04:17:38.974414937Z",
+  "model": "glm-5.3"
+}

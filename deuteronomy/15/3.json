@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 15:3",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "⟨את⟩ người ngoại bang ngươi có thể đòi, nhưng điều gì của ngươi với ⟨את⟩ anh em ngươi, tay ngươi phải buông.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người ngoại bang"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "người ngoại bang"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "ngươi đòi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "nhưng điều gì"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "là"
+    },
+    {
+      "surface": "לך",
+      "gloss": "của ngươi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anh em ngươi"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "anh em ngươi"
+    },
+    {
+      "surface": "תשמט",
+      "gloss": "ngươi phải buông"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tay ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:09:00.853702434Z",
+  "model": "glm-5.3"
+}

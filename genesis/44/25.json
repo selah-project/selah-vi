@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Cha chúng tôi nói: Hãy quay lại, mua cho chúng ta chút ⟨את⟩ lương thực.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "người đã nói"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "cha chúng tôi"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "hãy quay lại"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "hãy mua (ngũ cốc)"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "cho chúng ta"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "chút ít"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "lương thực"
+    }
+  ],
+  "timestamp": "2026-08-19T06:03:33.308544780Z",
+  "model": "glm-5.3"
+}

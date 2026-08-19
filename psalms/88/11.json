@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 88,
+  "translation": "Há đối với người chết Ngươi sẽ làm sự lạ sao? Há những bóng ma sẽ đứng dậy và cảm tạ Ngươi sao? Selah.",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "há đối với người chết"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ngươi sẽ làm"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "sự lạ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "há"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "những bóng ma"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "sẽ đứng dậy"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "sẽ cảm tạ Ngươi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:22.377141722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Và Chizkiyahu cùng các thủ lĩnh đi đến, thấy ⟨את⟩ các đống (lúa), và chúc phúc ⟨את⟩ Yahweh và ⟨את⟩ dân sự Ngài, Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "và đi đến"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "và các thủ lĩnh"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "và thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các đống (lúa)"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "các đống (lúa)"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "và chúc phúc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "dân sự Ngài"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "dân sự Ngài"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T06:22:14.873234192Z",
+  "model": "glm-5.3"
+}

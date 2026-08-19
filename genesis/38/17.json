@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 38:17",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 38,
+  "translation": "Ông nói: Ta sẽ gửi dê con từ ⟨את⟩ bầy chiên. Bà nói: Nếu ngươi đưa vật thế chấp cho đến khi ngươi gửi nó. (⟨את⟩ không có trong câu này — bỏ marker)",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ông nói"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "sẽ gửi"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "dê con"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "của dê"
+    },
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "bầy chiên"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "bà nói"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ngươi đưa"
+    },
+    {
+      "surface": "ערבון",
+      "gloss": "vật thế chấp"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến khi"
+    },
+    {
+      "surface": "שלחך",
+      "gloss": "ngươi gửi"
+    }
+  ],
+  "timestamp": "2026-08-19T01:26:32.942565114Z",
+  "model": "glm-5.3"
+}

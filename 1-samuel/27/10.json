@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 27:10",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Và Akish nói: Hôm nay các ngươi không cướp sao? Và David nói: Về phía nam của Yehudah, và về phía nam của người Yerachmeeli, và về phía nam của người Qeni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "không"
+    },
+    {
+      "surface": "פשטתם",
+      "gloss": "các ngươi cướp"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hôm nay"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "về"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "phía nam"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "và về"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "phía nam"
+    },
+    {
+      "surface": "הירחמאלי",
+      "gloss": "người Yerachmeeli"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và về"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "phía nam"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "người Qeni"
+    }
+  ],
+  "timestamp": "2026-08-19T03:37:25.000872625Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và người đàn ông gọi tên vợ mình là Chavvah, vì nàng đã là mẹ của mọi sinh vật.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "và gọi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "người đàn ông"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tên"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vợ mình"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Chavvah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nàng"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "đã là"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mẹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "sinh vật"
+    }
+  ],
+  "timestamp": "2026-08-19T00:48:07.058350410Z",
+  "model": "glm-5.3"
+}

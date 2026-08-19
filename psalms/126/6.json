@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 126,
+  "translation": "Người đi, sẽ đi và khóc, mang túi hạt giống; hẳn sẽ về trong tiếng reo vui, mang bó lúa của mình.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "đi"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "sẽ đi"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "và khóc"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "mang"
+    },
+    {
+      "surface": "משך",
+      "gloss": "túi hạt giống"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "hạt giống"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hẳn sẽ về"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "sẽ về"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "trong tiếng reo vui"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "mang"
+    },
+    {
+      "surface": "אלמתיו",
+      "gloss": "bó lúa của mình"
+    }
+  ],
+  "timestamp": "2026-08-19T06:19:20.222861882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "và ⟨את⟩ bàn thờ thiêu tế và ⟨את⟩ mọi khí cụ của nó, và ⟨את⟩ chiếc chậu rửa và ⟨את⟩ đế của nó,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bàn thờ thiêu tế"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "bàn thờ thiêu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "của sự thiêu tế"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mọi khí cụ của nó"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "khí cụ của nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "chiếc chậu rửa"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "chiếc chậu rửa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "đế của nó"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "đế của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:35:51.300687247Z",
+  "model": "glm-5.3"
+}

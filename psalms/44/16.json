@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Suốt cả ngày sự nhục nhã của tôi ở trước mặt tôi, và điều xấu hổ của mặt tôi đã che phủ tôi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "suốt cả"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "sự nhục nhã của tôi"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "ở trước mặt tôi"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "và điều xấu hổ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "của mặt tôi"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "đã che phủ tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:57.778563889Z",
+  "model": "glm-5.3"
+}

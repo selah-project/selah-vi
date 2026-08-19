@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Thịt da con rún rẩy vì sự kinh sợ Ngài, và con kính sợ các án phạt của Ngài.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "rún rẩy (lông dựng lên)"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "vì sự kinh sợ Ngài"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "thịt da con"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "và các án phạt của Ngài"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "con kính sợ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:25.039634633Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Và Yosef mơ một giấc chiêm bao, và ⟨he⟩ kể cho các anh chị em mình; và họ thêm nữa○ghét ⟨את⟩○người.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "và mơ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "một chiêm bao"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "và kể"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "cho anh chị em mình"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "và họ thêm"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nữa"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ghét"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "người"
+    }
+  ],
+  "timestamp": "2026-08-19T01:24:00.806456362Z",
+  "model": "glm-5.3"
+}

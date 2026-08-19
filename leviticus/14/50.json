@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "và sẽ giết ⟨את⟩ con chim thứ nhất trong một đồ vật bằng đất sét, trên nước sống:",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "và sẽ giết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con chim thứ nhất"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "con chim"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "thứ nhất"
+    },
+    {
+      "surface": "אל",
+      "gloss": "trong"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "đồ vật"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "bằng đất sét"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "sống"
+    }
+  ],
+  "timestamp": "2026-08-19T06:04:19.504815309Z",
+  "model": "glm-5.3"
+}

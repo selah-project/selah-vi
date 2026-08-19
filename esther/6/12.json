@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 6:12",
+  "book": "esther",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Mordecai trở lại đến cổng vua, còn Haman vội vã đi về nhà mình, sầu muộn và đầu bị che.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "và đã trở lại"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordecai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "שער",
+      "gloss": "cổng"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "còn Haman"
+    },
+    {
+      "surface": "נדחף",
+      "gloss": "vội vã đi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "về"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nhà mình"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "sầu muộn"
+    },
+    {
+      "surface": "וחפוי",
+      "gloss": "và bị che"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "đầu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:35:38.070360298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 22:40",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Balak tế bò và chiên, và gửi phần cho Bilam và cho các quan trưởng đang ⟨với⟩ ông.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "tế"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "bò"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "chiên"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "gửi"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "cho Bilam"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "và cho các quan trưởng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "đang"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "với ông (đối tượng đi cùng Bilam)"
+    }
+  ],
+  "timestamp": "2026-08-19T02:59:57.578519095Z",
+  "model": "glm-5.3"
+}

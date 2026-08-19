@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 19:16",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Tôi đã gọi đầy tớ của mình, nhưng nó không đáp lại; bằng chính miệng mình tôi nài xin nó.",
+  "tokens": [
+    {
+      "surface": "לעבדי",
+      "gloss": "đến đầy tớ của tôi"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "tôi đã gọi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nhưng không"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "nó đáp lại"
+    },
+    {
+      "surface": "במו",
+      "gloss": "bằng chính"
+    },
+    {
+      "surface": "פי",
+      "gloss": "miệng mình"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "tôi nài xin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nó"
+    }
+  ],
+  "timestamp": "2026-08-19T06:20:28.428044703Z",
+  "model": "glm-5.3"
+}

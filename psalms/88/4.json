@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 88,
+  "translation": "Vì linh-hồn tôi đã no-đầy điều dữ, và sự sống tôi đã đến tận Sheol.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Vì"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "đã no-đầy"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "điều dữ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "linh-hồn tôi"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "và sự sống tôi"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "tới tận Sheol"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "đã đến"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:37.728773099Z",
+  "model": "glm-5.3"
+}

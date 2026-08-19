@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Và con cháu của Chét đáp lời ⟨את⟩ Avraham, nói với ông:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "và đáp lời"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cháu của"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Chét"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "לו",
+      "gloss": "với ông"
+    }
+  ],
+  "timestamp": "2026-08-19T01:04:29.349060323Z",
+  "model": "glm-5.3"
+}

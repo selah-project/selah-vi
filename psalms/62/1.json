@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 62,
+  "translation": "Cho người chỉ huy nhạc, theo Yedutun, thi thiên của David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "cho người chỉ huy nhạc"
+    },
+    {
+      "surface": "על",
+      "gloss": "theo"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Yedutun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "thi thiên"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "của David"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:45.414687446Z",
+  "model": "glm-5.3"
+}

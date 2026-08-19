@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 37:17",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Vì cánh tay của kẻ ác sẽ bị bẻ gãy, còn Yahweh nâng đỡ các người công bình.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Vì"
+    },
+    {
+      "surface": "זרועות",
+      "gloss": "cánh tay"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "của kẻ ác"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "sẽ bị bẻ gãy"
+    },
+    {
+      "surface": "וסומך",
+      "gloss": "và nâng đỡ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "các người công bình"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:10.111181013Z",
+  "model": "glm-5.3"
+}

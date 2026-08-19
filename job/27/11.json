@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 27:11",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Tôi sẽ chỉ dạy ⟨את⟩ các ngươi về bàn tay của El; điều ở với Shaddai tôi sẽ không che giấu.",
+  "tokens": [
+    {
+      "surface": "אורה",
+      "gloss": "tôi sẽ chỉ dạy"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ các ngươi",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "về bàn tay của"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "điều"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ở với"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אכחד",
+      "gloss": "tôi che giấu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:25:19.778783951Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 20:11",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Cả trẻ con cũng tự bộc lộ qua hành vi mình, việc làm của nó có tinh sạch hay ngay thẳng không.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "cả"
+    },
+    {
+      "surface": "במעלליו",
+      "gloss": "qua hành vi mình"
+    },
+    {
+      "surface": "יתנכר",
+      "gloss": "tự bộc lộ (được nhận biết)"
+    },
+    {
+      "surface": "נער",
+      "gloss": "trẻ con"
+    },
+    {
+      "surface": "אם",
+      "gloss": "có... hay không"
+    },
+    {
+      "surface": "זך",
+      "gloss": "tinh sạch"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "hay"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ngay thẳng"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "việc làm của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:17:29.837156620Z",
+  "model": "glm-5.3"
+}

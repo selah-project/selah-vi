@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Ngươi đừng ghê tởm người Edom, vì ⟨hắn⟩ ⟨là⟩ anh em ngươi; ngươi đừng ghê tởm người Mitzrayim, vì ngươi đã là khách ngoại tại đất của họ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "ghê tởm"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "người Edom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "anh em ngươi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hắn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "ghê tởm"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "người Mitzrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "גר",
+      "gloss": "khách ngoại"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ngươi đã là"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "tại đất của họ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:10:40.795892502Z",
+  "model": "glm-5.3"
+}

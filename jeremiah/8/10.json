@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 8:10",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Vì vậy Ta sẽ ban ⟨את⟩ vợ họ cho người khác, và ⟨את⟩ ruộng đồng họ cho kẻ chiếm hữu; vì từ người nhỏ đến người lớn, tất cả đều tham lợi bất chính; từ đấng tiên tri đến thầy tế lễ, tất cả đều làm điều gian dối.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "vì vậy"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "Ta sẽ ban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vợ họ"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "vợ họ"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "cho người khác"
+    },
+    {
+      "surface": "שדותיהם",
+      "gloss": "và ruộng đồng họ"
+    },
+    {
+      "surface": "ליורשים",
+      "gloss": "cho kẻ chiếm hữu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "từ người nhỏ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "người lớn"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "đều tham"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "lợi bất chính"
+    },
+    {
+      "surface": "מנביא",
+      "gloss": "từ đấng tiên tri"
+    },
+    {
+      "surface": "ויכל\/ועד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "thầy tế lễ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "đều làm"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "điều gian dối"
+    }
+  ],
+  "timestamp": "2026-08-19T04:19:10.060737372Z",
+  "model": "glm-5.3"
+}

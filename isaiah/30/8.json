@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Bây giờ, hãy đến, chép nó trên tấm bảng ⟨אתם⟩ với chúng, và trong quyển sách khắc lại nó, để nó thành ⟨làm chứng⟩ cho ngày sau cùng, đến đời đời đời đời.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Bây giờ"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "hãy đến"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "chép nó"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "tấm bảng"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "chúng"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "và trong"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "quyển sách"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "khắc lại nó"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "để nó thành"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "cho ngày"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "sau cùng"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "đến ⟨làm chứng⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "đời đời"
+    }
+  ],
+  "timestamp": "2026-08-19T04:09:43.170524141Z",
+  "model": "glm-5.3"
+}

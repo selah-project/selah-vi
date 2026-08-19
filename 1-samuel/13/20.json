@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Và toàn Yisrael xuống với người Pelishtim để mài, mỗi người ⟨את⟩ lưỡi cày của mình, và ⟨את⟩ cái cuốc của mình, và ⟨את⟩ cái rìu của mình, và ⟨את⟩ cái cuốc chim của mình.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "và xuống"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "người Pelishtim"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "để mài"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mỗi người"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lưỡi cày của mình"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "lưỡi cày của mình"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "cái cuốc của mình"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "cái cuốc của mình"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "cái rìu của mình"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "cái rìu của mình"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "cái cuốc chim của mình"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "cái cuốc chim của mình"
+    }
+  ],
+  "timestamp": "2026-08-19T03:32:04.125165692Z",
+  "model": "glm-5.3"
+}

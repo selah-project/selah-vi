@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 65:14",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 65,
+  "translation": "Các đồng cỏ mặc lấy đàn chiên, các thung lũng khoác lúa mì; chúng hô vang ca reo, và cả chúng hát lên.",
+  "tokens": [
+    {
+      "surface": "לבשו",
+      "gloss": "mặc lấy"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "các đồng cỏ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "đàn chiên"
+    },
+    {
+      "surface": "ועמקים",
+      "gloss": "và các thung lũng"
+    },
+    {
+      "surface": "יעטפו",
+      "gloss": "khoác choàng"
+    },
+    {
+      "surface": "בר",
+      "gloss": "lúa mì"
+    },
+    {
+      "surface": "יתרועעו",
+      "gloss": "hô vang ca reo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "và cả"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "hát lên"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:14.253904331Z",
+  "model": "glm-5.3"
+}

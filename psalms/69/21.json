@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 69:21",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 69,
+  "translation": "Sự sỉ nhục đã làm nát tan trái tim tôi, và tôi mòn mỏi; tôi trông đợi người an ủi ⟨và⟩ chẳng có, và những kẻ yên ủi — tôi chẳng tìm thấy.",
+  "tokens": [
+    {
+      "surface": "חרפה",
+      "gloss": "sự sỉ nhục"
+    },
+    {
+      "surface": "שברה",
+      "gloss": "đã làm nát tan"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "trái tim tôi"
+    },
+    {
+      "surface": "ואנושה",
+      "gloss": "và tôi mòn mỏi"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "và tôi trông đợi"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "người an ủi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "và chẳng có"
+    },
+    {
+      "surface": "ולמנחמים",
+      "gloss": "và những kẻ yên ủi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nhưng không"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "tôi tìm thấy"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:03.893162259Z",
+  "model": "glm-5.3"
+}

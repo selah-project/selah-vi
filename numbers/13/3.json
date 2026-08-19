@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 13:3",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Và Moshe sai ⟨אתם⟩ từ đồng vắng Paran, theo miệng Yahweh; tất cả họ là những người đứng đầu con cái Yisra'el, chính họ.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "và đã sai"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "họ (các người được sai)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "từ đồng vắng"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "על",
+      "gloss": "theo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "miệng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "tất cả họ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "là những người"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "đứng đầu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "המה",
+      "gloss": "chính họ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:56:43.804236854Z",
+  "model": "glm-5.3"
+}

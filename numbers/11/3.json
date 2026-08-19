@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và người ta đặt tên nơi đó là Tav'erah, vì lửa Yahweh đã bùng cháy giữa họ.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "và ông đặt tên"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tên"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "nơi đó"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ấy"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "Tav'erah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "đã bùng cháy"
+    },
+    {
+      "surface": "בם",
+      "gloss": "giữa họ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "lửa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:55:48.202698644Z",
+  "model": "glm-5.3"
+}

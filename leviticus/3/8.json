@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 3:8",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và ⟨הוא⟩ đặt tay mình lên đầu lễ vật của mình, và giết nó trước Trại Hội Mộtvà con trai của Aharon sẽ hắt ⟨את⟩ máu của nó trên bàn thờ, chung quanh.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "và đặt (tay)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tay mình (yadô)"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tay của mình"
+    },
+    {
+      "surface": "על",
+      "gloss": "lên trên"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "đầu"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "lễ vật của mình"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "và giết"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "nó (con chiên)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Trại"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Hội Mộtvà"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "và chúng sẽ hắt"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con trai của"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "máu của nó (damô)"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "máu của nó"
+    },
+    {
+      "surface": "על",
+      "gloss": "lên trên"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "chung quanh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:40:02.489164574Z",
+  "model": "glm-5.3"
+}

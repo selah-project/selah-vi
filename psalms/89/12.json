@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 89,
+  "translation": "Của Ngài là các tầng trời, vâng, của Ngài là đất; thế giới và sự đầy đủ của nó — chính Ngài đã đặt nền cho chúng.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "của Ngài"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "các tầng trời"
+    },
+    {
+      "surface": "אף",
+      "gloss": "vâng"
+    },
+    {
+      "surface": "לך",
+      "gloss": "của Ngài"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "thế giới"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "và sự đầy đủ của nó"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "chính Ngài"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "đã đặt nền cho chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:29.232008785Z",
+  "model": "glm-5.3"
+}

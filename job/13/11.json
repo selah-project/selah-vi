@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Sự cao cả của Ngài há không khiến ⟨את⟩các ngươi kinh sợ, và cơn kinh hoàng của Ngài giáng xuống trên các ngươi?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "há không"
+    },
+    {
+      "surface": "שאתו",
+      "gloss": "sự cao cả của Ngài"
+    },
+    {
+      "surface": "תבעת",
+      "gloss": "khiến kinh sợ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩các ngươi",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "và cơn kinh hoàng của Ngài"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "giáng xuống"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "trên các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:22:09.997523113Z",
+  "model": "glm-5.3"
+}

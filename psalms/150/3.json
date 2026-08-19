@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 150,
+  "translation": "Hãy ca ngợi Ngài với tiếng tù và, hãy ca ngợi Ngài với đàn nevel và đàn kinnor.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "hãy ca ngợi Ngài"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "với tiếng thổi"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "tù và (shofar)"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "hãy ca ngợi Ngài"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "với đàn nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "và đàn kinnor"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:22.929270283Z",
+  "model": "glm-5.3"
+}

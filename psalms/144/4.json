@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 144,
+  "translation": "Con người tựa như hơi thở phù du; ngày của nó như bóng chiều thoảng qua.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "con người"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "tựa như hơi thở phù du"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "được sánh như"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ngày của nó"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "như bóng"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "thoảng qua"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:03.260723448Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 47:31",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 47,
+  "translation": "Và ông nói: \"Hãy thề với tôi.\" Và ông thề với ông. Và Yisrael cúi mình trên đầu giường.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và ông nói"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "hãy thề"
+    },
+    {
+      "surface": "לי",
+      "gloss": "với tôi"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "và ông thề"
+    },
+    {
+      "surface": "לו",
+      "gloss": "với ông"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "và cúi mình"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "đầu"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "giường"
+    }
+  ],
+  "timestamp": "2026-08-19T02:26:09.318804329Z",
+  "model": "glm-5.3"
+}

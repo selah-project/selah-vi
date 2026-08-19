@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 11:2",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và có chuyện xảy ra: khi ⟨họ⟩ dời đi từ phía đông, họ tìm thấy một thung lũng trong đất Shinar, và họ định cư tại đó.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "và có chuyện xảy ra"
+    },
+    {
+      "surface": "בנסעם",
+      "gloss": "khi ⟨họ⟩ dời đi"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "từ phía đông"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "họ tìm thấy"
+    },
+    {
+      "surface": "בקעה",
+      "gloss": "một thung lũng"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trong đất"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Shinar"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "và họ định cư"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tại đó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:23:36.295291666Z",
+  "model": "glm-5.3"
+}

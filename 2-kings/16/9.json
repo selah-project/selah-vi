@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Vua Ashshur đã nghe lời ông; vua Ashshur đã lên đến Damashk, bắt lấy nó, và bắt dân nó đi đày đến Kir, và ⟨את⟩ Retzin thì đã giết.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "đã nghe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "lời ông"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "đã lên"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damashk"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "bắt lấy nó"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "đã bắt đi đày"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "đến Kir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Retzin"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retzin"
+    },
+    {
+      "surface": "המית",
+      "gloss": "đã giết"
+    }
+  ],
+  "timestamp": "2026-08-19T04:00:20.919416470Z",
+  "model": "glm-5.3"
+}

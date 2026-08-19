@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Vết tổn thương về bệnh hủi khi có trong người, thì người đó phải được đem đến thầy tế lễ.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "vết tổn thương"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "bệnh hủi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "khi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "có"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "trong người"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "và được đem đến"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tới"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "thầy tế lễ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:43:29.923963986Z",
+  "model": "glm-5.3"
+}

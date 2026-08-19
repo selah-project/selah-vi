@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 5:8",
+  "book": "song-of-songs",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Tôi khiến các chị thề — các con gái Yerushalayim — nếu các chị tìm thấy ⟨את⟩ chàng yêu của tôi, các chị sẽ nói gì với chàng: rằng tôi đang bệnh vì yêu.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "tôi-khiến-thề"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-các-chị",
+      "marks": "các con gái Yerushalayim"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "các-con-gái"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "các-chị-tìm-thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chàng yêu của tôi"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "chàng-yêu-của-tôi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "các-chị-sẽ-nói"
+    },
+    {
+      "surface": "לו",
+      "gloss": "với-chàng"
+    },
+    {
+      "surface": "שחולת",
+      "gloss": "đang-bệnh"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "vì-yêu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:29:25.339616520Z",
+  "model": "glm-5.3"
+}

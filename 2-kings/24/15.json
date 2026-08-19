@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 24:15",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Và ông lưu đày ⟨את⟩ Yehoyakhin sang Bavel, và ⟨את⟩ mẹ vua, và ⟨את⟩ các vợ vua, và ⟨את⟩ các hoạn quan của ông, và ⟨את⟩ các quyền quý của xứ — đưa đi lưu đày từ Yerushalayim sang Bavel.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "và ông lưu đày"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoyakhin"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Yehoyakhin"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "sang Bavel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "mẹ vua"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mẹ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các vợ vua"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "các vợ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các hoạn quan của ông"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "các hoạn quan của ông"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các quyền quý của xứ"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "các quyền quý"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "của xứ"
+    },
+    {
+      "surface": "הוליך",
+      "gloss": "đưa đi"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "lưu đày"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "từ Yerushalayim"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "sang Bavel"
+    }
+  ],
+  "timestamp": "2026-08-19T04:03:39.477237259Z",
+  "model": "glm-5.3"
+}

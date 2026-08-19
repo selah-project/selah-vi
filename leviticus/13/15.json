@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 13:15",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Và vị thầy tế lễ sẽ nhìn ⟨את⟩ cái thịt sống, và tuyên bố ông ấy ô uế; cái thịt sống ⟨is⟩ ô uế — nó ⟨is⟩ bệnh tzaraat.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "và sẽ nhìn"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "vị thầy tế lễ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cái thịt sống"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "cái thịt"
+    },
+    {
+      "surface": "החי",
+      "gloss": "sống"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "và tuyên bố ông ấy ô uế"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "cái thịt"
+    },
+    {
+      "surface": "החי",
+      "gloss": "sống"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ô uế"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "bệnh tzaraat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:43:24.274240517Z",
+  "model": "glm-5.3"
+}

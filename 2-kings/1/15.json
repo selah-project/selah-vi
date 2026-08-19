@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 1:15",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Sứ giả của Yahweh phán cùng Eliyahu: Hãy xuống cùng ⟨את⟩ ông ấy, đừng sợ mặt ông ấy; ngài đứng dậy, xuống cùng ⟨את⟩ ông ấy đến nơi nhà vua.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "và phán"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "sứ giả"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cùng"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "רד",
+      "gloss": "hãy xuống"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "cùng ông ấy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "sợ"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "mặt ông ấy"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ngài đứng dậy"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "và xuống"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "cùng ông ấy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "nhà vua"
+    }
+  ],
+  "timestamp": "2026-08-19T03:56:14.739899411Z",
+  "model": "glm-5.3"
+}

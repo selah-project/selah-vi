@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 26:2",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Ông đã xây ⟨את⟩ Eylot và đem nó về lại cho Yehudah, sau khi vua an giấc cùng các tổ phụ mình.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ông"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "đã xây"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eylot"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "Eylot"
+    },
+    {
+      "surface": "וישיבה",
+      "gloss": "và đem nó về lại"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "cho Yehudah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sau khi"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "an giấc"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cùng"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "các tổ phụ mình"
+    }
+  ],
+  "timestamp": "2026-08-19T05:59:11.360525188Z",
+  "model": "glm-5.3"
+}

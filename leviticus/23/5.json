@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Trong tháng thứ nhất, vào ngày mười bốn ⟨của⟩ tháng, giữa hai buổi chiều, ⟨là⟩ lễ Vượt Qua thuộc về Yahweh.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "trong tháng"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "thứ nhất"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "vào bốn"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mười"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "của tháng"
+    },
+    {
+      "surface": "בין",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "hai buổi chiều"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "lễ Vượt Qua"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "thuộc về Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T06:04:29.648188399Z",
+  "model": "glm-5.3"
+}

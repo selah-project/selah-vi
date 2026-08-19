@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 123,
+  "translation": "Bài ca lên đền. Về Ngài tôi ngước mắt lên, hỡi Đấng ngự trong các tầng trời.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "bài ca"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "lên đền"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "về Ngài"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "tôi ngước lên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mắt tôi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mắt tôi"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "Đấng ngự"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "trong các tầng trời"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:04.981725356Z",
+  "model": "glm-5.3"
+}

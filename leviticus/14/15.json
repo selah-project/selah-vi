@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Thầy tế lễ sẽ lấy từ log dầu và đổ lên lòng bàn tay trái của thầy tế lễ.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "và sẽ lấy"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "thầy tế lễ"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "từ log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "của dầu"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "và sẽ đổ"
+    },
+    {
+      "surface": "על",
+      "gloss": "lên"
+    },
+    {
+      "surface": "כף",
+      "gloss": "lòng bàn tay"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "của thầy tế lễ"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "bên trái"
+    }
+  ],
+  "timestamp": "2026-08-19T02:43:48.510937256Z",
+  "model": "glm-5.3"
+}

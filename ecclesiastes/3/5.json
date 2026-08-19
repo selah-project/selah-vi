@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Một thì ném đá, và một thì gom đá lại; một thì ôm ghì, và một thì xa cách khỏi vòng ôm ghì.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "một thì"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "ném"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "đá"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "và một thì"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "gom lại"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "đá"
+    },
+    {
+      "surface": "עת",
+      "gloss": "một thì"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "ôm ghì"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "và một thì"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "xa cách"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "khỏi vòng ôm ghì"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:17.252403027Z",
+  "model": "glm-5.3"
+}

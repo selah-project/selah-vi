@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "judges 3:26",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Còn Ehud thì thoát được trong lúc chúng trì hoãn; ông đã vượt qua ⟨את⟩ các tượng tạc, và thoát đến Ha-Seira.",
+  "tokens": [
+    {
+      "surface": "ואהוד",
+      "gloss": "còn Ehud"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "thoát được"
+    },
+    {
+      "surface": "עד",
+      "gloss": "trong lúc"
+    },
+    {
+      "surface": "התמהמהם",
+      "gloss": "chúng trì hoãn"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ông"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "vượt qua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các tượng tạc"
+    },
+    {
+      "surface": "הפסילים",
+      "gloss": "các tượng tạc"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "và thoát đến"
+    },
+    {
+      "surface": "השעירתה",
+      "gloss": "Ha-Seira"
+    }
+  ],
+  "timestamp": "2026-08-19T03:23:04.054186300Z",
+  "model": "glm-5.3"
+}

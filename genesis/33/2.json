@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 33,
+  "translation": "Ngài đặt ⟨את⟩ hai nữ tỳ và ⟨את⟩ con cái của họ lên trước, ⟨את⟩ Leah với con cái của bà sau chót, và ⟨את⟩ Rachel với ⟨את⟩ Yosef sau chót.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "và đặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hai nữ tỳ"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "hai nữ tỳ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con cái của họ"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "con cái của họ"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "lên trước"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Leah"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leah"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "với con cái của bà"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "sau chót"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Rachel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "sau chót"
+    }
+  ],
+  "timestamp": "2026-08-19T01:19:21.380768808Z",
+  "model": "glm-5.3"
+}

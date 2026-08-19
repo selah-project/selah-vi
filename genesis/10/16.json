@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Và ⟨את⟩ người Yevusi, và ⟨את⟩ người HaEmori, và ⟨את⟩ người HaGirgashi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người Yevusi"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "người Yevusi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người HaEmori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "người HaEmori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người HaGirgashi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "người HaGirgashi"
+    }
+  ],
+  "timestamp": "2026-08-19T00:53:51.464022728Z",
+  "model": "glm-5.3"
+}

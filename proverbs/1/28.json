@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 1:28",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Bấy giờ chúng sẽ kêu cầu tôi, nhưng tôi sẽ không đáp; chúng sẽ tìm kiếm tôi sớm sáng, nhưng sẽ không tìm thấy tôi.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "bấy-giờ"
+    },
+    {
+      "surface": "יקראנני",
+      "gloss": "chúng-sẽ-kêu-cầu-tôi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nhưng-không"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "tôi-sẽ-đáp"
+    },
+    {
+      "surface": "ישחרנני",
+      "gloss": "chúng-sẽ-tìm-kiếm-tôi-sớm-sáng"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nhưng-không"
+    },
+    {
+      "surface": "ימצאנני",
+      "gloss": "sẽ-tìm-thấy-tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:59.908022977Z",
+  "model": "glm-5.3"
+}

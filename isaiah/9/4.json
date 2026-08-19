@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 9:4",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Vì mọi chiếc giày-chiến lao-xỉa trong chém-giết, và mọi áo-choàng lăn trong máu, thì sẽ thành ra đốt, thức-ăn của lửa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "סאון",
+      "gloss": "chiếc giày-chiến"
+    },
+    {
+      "surface": "סאן",
+      "gloss": "lao-xỉa"
+    },
+    {
+      "surface": "ברעש",
+      "gloss": "trong chém-giết"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "và áo-choàng"
+    },
+    {
+      "surface": "מגוללה",
+      "gloss": "lăn"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "trong máu"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "thì sẽ thành"
+    },
+    {
+      "surface": "לשרפה",
+      "gloss": "ra đốt"
+    },
+    {
+      "surface": "מאכלת",
+      "gloss": "thức-ăn"
+    },
+    {
+      "surface": "אש",
+      "gloss": "của lửa"
+    }
+  ],
+  "timestamp": "2026-08-19T04:05:18.259299948Z",
+  "model": "glm-5.3"
+}

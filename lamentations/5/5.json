@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 5:5",
+  "book": "lamentations",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Trên cổ mình chúng tôi bị rượt đuổi; chúng tôi đã hụt hơi, không ⟨được⟩ buông tha cho chúng tôi.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "צוארנו",
+      "gloss": "cổ chúng tôi"
+    },
+    {
+      "surface": "נרדפנו",
+      "gloss": "chúng tôi bị rượt đuổi"
+    },
+    {
+      "surface": "יגענו",
+      "gloss": "chúng tôi đã hụt hơi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "הונח",
+      "gloss": "được buông tha"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "cho chúng tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:11.784244619Z",
+  "model": "glm-5.3"
+}

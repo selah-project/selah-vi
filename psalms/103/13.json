@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 103,
+  "translation": "Như người cha thương xót con cái mình, Yahweh thương xót những kẻ kính sợ Ngài.",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "như thương xót"
+    },
+    {
+      "surface": "אב",
+      "gloss": "người cha"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "thương xót"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "những kẻ kính sợ Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:52.546463252Z",
+  "model": "glm-5.3"
+}

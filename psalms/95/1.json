@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 95,
+  "translation": "Hãy đến, chúng ta hát vang lên Yahweh, chúng ta reo hò ⟨với⟩ Núi Đá của sự cứu ⟨với⟩ chúng ta.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Hãy đến"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "chúng ta hát vang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "chúng ta reo hò"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "Núi Đá"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "sự cứu của chúng ta"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:23.381113450Z",
+  "model": "glm-5.3"
+}

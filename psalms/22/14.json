@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 22:14",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Chúng đã há miệng nhắm vào tôi, như sư tử xé mồi và gầm thét.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "đã há"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nhắm vào tôi"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "miệng của chúng"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "sư tử"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "xé mồi"
+    },
+    {
+      "surface": "ושאג",
+      "gloss": "và gầm thét"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:13.858404062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 128,
+  "translation": "Bài hát lên đường. Phước thay mọi kẻ kính sợ Yahweh, kẻ đi trong đường lối Ngài.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "bài hát"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "lên đường"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "phước thay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "kẻ kính sợ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "kẻ đi"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "trong đường lối Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:44.761083222Z",
+  "model": "glm-5.3"
+}

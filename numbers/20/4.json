@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Và tại sao các ông đã đưa ⟨את⟩ hội chúng của Yahweh đến hoang mạc này, để chết tại đó, chúng tôi và gia súc của chúng tôi?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "và tại sao"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "các ông đã đưa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hội chúng của Yahweh"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "hội chúng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "hoang mạc"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "למות",
+      "gloss": "để chết"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tại đó"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "chúng tôi"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "và gia súc của chúng tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:58:58.095552977Z",
+  "model": "glm-5.3"
+}

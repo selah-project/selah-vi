@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 5:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Hãy tuyên họ là có tội, Elohim; hãy để họ ngã vì mưu kế của chính mình; vì đầy dẫy sự phản nghịch ⟨họ⟩, hãy đuổi họ đi, vì họ đã nổi loạn chống Ngài.",
+  "tokens": [
+    {
+      "surface": "האשימם",
+      "gloss": "hãy tuyên họ là có tội"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "hãy để họ ngã"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "vì mưu kế của chính mình"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "vì đầy dẫy"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "sự phản nghịch ⟨họ⟩"
+    },
+    {
+      "surface": "הדיחמו",
+      "gloss": "hãy đuổi họ đi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "họ đã nổi loạn"
+    },
+    {
+      "surface": "בך",
+      "gloss": "chống Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T04:54:55.881293820Z",
+  "model": "glm-5.3"
+}

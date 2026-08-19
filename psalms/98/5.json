@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 98,
+  "translation": "Hãy gảy đàn cho Yahweh, với cây đàn nhã; với cây đàn nhã và tiếng ca xướng.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "hãy gảy đàn"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "cho Yahweh"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "với cây đàn nhã"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "với cây đàn nhã"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "và tiếng"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "ca xướng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:52.180787879Z",
+  "model": "glm-5.3"
+}

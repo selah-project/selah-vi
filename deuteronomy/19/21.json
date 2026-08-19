@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Và mắt ngươi chớ thương xót: mạng sống ⟨đổi⟩ bằng mạng sống, mắt bằng mắt, răng bằng răng, tay bằng tay, chân bằng chân.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "và chớ"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "thương xót"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "mắt ngươi"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mạng sống"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "bằng mạng sống"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mắt"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "bằng mắt"
+    },
+    {
+      "surface": "שן",
+      "gloss": "răng"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "bằng răng"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tay"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bằng tay"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "chân"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "bằng chân"
+    }
+  ],
+  "timestamp": "2026-08-19T03:09:07.052701886Z",
+  "model": "glm-5.3"
+}

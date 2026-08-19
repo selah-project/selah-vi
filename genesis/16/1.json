@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 16:1",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Và Sarai, vợ của Avram, không sinh con cho ông; và nàng có một nữ tỳ người Mitsri, tên nàng là Hagar.",
+  "tokens": [
+    {
+      "surface": "ושרי",
+      "gloss": "Và Sarai"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vợ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "của Avram"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "sinh con"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho ông"
+    },
+    {
+      "surface": "ולה",
+      "gloss": "và cho nàng"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "một nữ tỳ"
+    },
+    {
+      "surface": "מצרית",
+      "gloss": "người Mitsri"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "và tên nàng"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "là Hagar"
+    }
+  ],
+  "timestamp": "2026-08-19T00:59:33.851944105Z",
+  "model": "glm-5.3"
+}

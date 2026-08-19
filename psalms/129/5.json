@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 129,
+  "translation": "Người ta sẽ xấu hổ và lùi lại phía sau — tất cả những kẻ ghét Tziyon.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "sẽ xấu hổ"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "và lùi lại"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "phía sau"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "những kẻ ghét"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tziyon"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:56.129528777Z",
+  "model": "glm-5.3"
+}

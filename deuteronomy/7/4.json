@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "vì nó sẽ làm con trai ngươi ⟨את⟩ lìa khỏi theo Ta, và chúng sẽ phục sự các elohim khác; thì cơn giận của Yahweh sẽ bừng lên chống các ngươi, và Ngài sẽ tiêu diệt các ngươi mau lẹ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "nó-sẽ-làm-lìa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con trai ngươi"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "con-trai-ngươi"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "khỏi-theo"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "và-chúng-phục-sự"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "khác"
+    },
+    {
+      "surface": "וחרה",
+      "gloss": "và-bừng-lên"
+    },
+    {
+      "surface": "אף",
+      "gloss": "cơn-giận"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "chống-các-ngươi"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "và-Ngài-tiêu-diệt-các-ngươi"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "mau-lẹ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:06:31.442426345Z",
+  "model": "glm-5.3"
+}

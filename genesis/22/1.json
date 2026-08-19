@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Và đã xảy ra, sau những lời这话 — không, sau những việc này, Elohim đã thử thách ⟨את⟩ Avraham, và Người phán cùng ông: \"Avraham!\" Và ông đáp: \"Này tôi đây.\"",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "đã xảy ra"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sau"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "những việc"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "này"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "và Elohim"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "đã thử thách"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và phán"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "cùng ông"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "này tôi đây"
+    }
+  ],
+  "timestamp": "2026-08-19T01:05:09.442034394Z",
+  "model": "glm-5.3"
+}

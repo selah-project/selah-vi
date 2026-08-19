@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 173,
+  "ref": "psalms 119:173",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Nguyện tay Ngài ⟨hãy⟩ đến cứu giúp con, vì các mạng lệnh của Ngài là điều con đã chọn.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "nguyện được"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tay Ngài"
+    },
+    {
+      "surface": "לעזרני",
+      "gloss": "đến cứu giúp con"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "các mạng lệnh của Ngài"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "con đã chọn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:23.562325830Z",
+  "model": "glm-5.3"
+}

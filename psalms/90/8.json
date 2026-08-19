@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 90,
+  "translation": "Ngài đã đặt các ác lỗi của chúng con trước mặt Ngài; những điều kín giấu của chúng con ⟨hiện ra⟩ dưới ánh sáng của nhan Ngài.",
+  "tokens": [
+    {
+      "surface": "שת",
+      "gloss": "Ngài đã đặt"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "các ác lỗi của chúng con"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "trước mặt Ngài"
+    },
+    {
+      "surface": "עלמנו",
+      "gloss": "những điều kín giấu của chúng con"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "dưới ánh sáng"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "của nhan Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:02.505361041Z",
+  "model": "glm-5.3"
+}

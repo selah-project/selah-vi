@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 97:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 97,
+  "translation": "Hết thảy kẻ phục vụ hình tạc đều xấu hổ, ⟨các kẻ⟩ tự hào nơi các thần hư không; hãy sấp mình thờ lạy Ngài, hết thảy các elohim!",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "đều xấu hổ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hết thảy"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "kẻ phục vụ"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "hình tạc"
+    },
+    {
+      "surface": "המתהללים",
+      "gloss": "⟨các kẻ⟩ tự hào"
+    },
+    {
+      "surface": "באלילים",
+      "gloss": "nơi các thần hư không"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "hãy sấp mình thờ lạy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hết thảy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "các elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:26.028093395Z",
+  "model": "glm-5.3"
+}

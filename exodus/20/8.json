@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Hãy nhớ ⟨את⟩ ngày Shabbat để thánh hóa nó.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Hãy nhớ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngày Shabbat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "để thánh hóa nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:31:57.315197871Z",
+  "model": "glm-5.3"
+}

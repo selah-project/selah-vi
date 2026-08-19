@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 123,
+  "translation": "Vô cùng no đầy נפש chúng tôi bởi sự nhạo báng của kẻ ung dung, bởi sự khinh miệt của những kẻ kiêu ngạo.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "vô cùng"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "đã no đầy"
+    },
+    {
+      "surface": "לה",
+      "gloss": "bởi nó"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "nephesh của chúng tôi"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "sự nhạo báng"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "của kẻ ung dung"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "sự khinh miệt"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "của những kẻ kiêu ngạo"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:04.982282596Z",
+  "model": "glm-5.3"
+}

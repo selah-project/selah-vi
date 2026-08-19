@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Trong các luật lệ của Ngài tôi sẽ vui thích, tôi sẽ không quên lời Ngài.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "trong các luật lệ của Ngài"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "tôi sẽ vui thích"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "tôi sẽ quên"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "lời Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:23.322207874Z",
+  "model": "glm-5.3"
+}

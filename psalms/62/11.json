@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 62:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 62,
+  "translation": "Chớ tin cậy vào sự ức hiếp, và chớ đặt hư vọng vào sự cướp bóc; nếu tài sản tăng thêm, chớ đặt lòng ⟨vào nó⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "tin cậy"
+    },
+    {
+      "surface": "בעשק",
+      "gloss": "vào sự ức hiếp"
+    },
+    {
+      "surface": "ובגזל",
+      "gloss": "và vào sự cướp bóc"
+    },
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תהבלו",
+      "gloss": "hư vọng"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "tài sản"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "tăng thêm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תשיתו",
+      "gloss": "đặt"
+    },
+    {
+      "surface": "לב",
+      "gloss": "lòng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:26.289826113Z",
+  "model": "glm-5.3"
+}

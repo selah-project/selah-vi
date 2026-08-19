@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 47,
+  "translation": "Vì Yahweh Most High là Đấng đáng kinh sợ, ⟨là⟩ Vua vĩ đại trên khắp cả đất.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Most High (Đấng Tối Cao)"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "đáng kinh sợ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Vua"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "vĩ đại"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "khắp"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "cả đất"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:32.935500906Z",
+  "model": "glm-5.3"
+}

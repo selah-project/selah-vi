@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 13:19",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Va Moshe lấy ⟨את⟩ xương của Yosef theo mình, vì người đã khiến con cái Yisrael long trọng thề, mà rằng: 'Quả thật Elohim sẽ thăm viếng ⟨את⟩ các ngươi, và các ngươi sẽ đem ⟨את⟩ xương tôi khỏi nơi này, ⟨את⟩ cùng các ngươi.'",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "và lấy"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xương của Yosef"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "xương"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "theo mình"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "long trọng thề"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "đã khiến thề"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con cái Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mà rằng"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "quả thật thăm viếng"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "sẽ thăm viếng"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ các ngươi",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "והעליתם",
+      "gloss": "và các ngươi sẽ đem lên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xương tôi"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "xương tôi"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "khỏi nơi này"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ cùng các ngươi",
+      "marks": "cùng các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:31:22.003759018Z",
+  "model": "glm-5.3"
+}

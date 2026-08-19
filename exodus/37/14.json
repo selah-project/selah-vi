@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 37:14",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Sát ngay mép viền là các vòng ấy, ⟨làm⟩ chỗ gắn đòn khiêng để khiêng ⟨את⟩ cái bàn.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "sát ngay"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "mép viền"
+    },
+    {
+      "surface": "היו",
+      "gloss": "là"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "các vòng"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "chỗ gắn"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "cho đòn khiêng"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "để khiêng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cái bàn"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "cái bàn"
+    }
+  ],
+  "timestamp": "2026-08-19T02:38:44.591920365Z",
+  "model": "glm-5.3"
+}

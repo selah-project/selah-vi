@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Và ⟨sau⟩ bảy ngày, thì nước của cơn đại hồng thủy đã ở trên đất.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "và có chuyện"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "sau bảy"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "và nước của"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "cơn đại hồng thủy"
+    },
+    {
+      "surface": "היו",
+      "gloss": "đã ở"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T00:49:59.343137084Z",
+  "model": "glm-5.3"
+}

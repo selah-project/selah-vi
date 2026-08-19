@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 84,
+  "translation": "Hỡi Yahweh vạn quân, dường bao mến yêu ⟨là⟩ các chỗ ngụ của Ngài!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "dường bao"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "mến yêu"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "các chỗ ngụ của Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "vạn quân"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:58.943439278Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 43,
+  "translation": "Mọi kẻ được kêu gọi bằng Danh Ta, và vì vinh quang Ta — Ta đã sáng tạo nó, Ta đã dựng nên nó, phải, Ta đã làm nên nó.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mọi kẻ"
+    },
+    {
+      "surface": "הנקרא",
+      "gloss": "được kêu gọi"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "bằng Danh Ta"
+    },
+    {
+      "surface": "ולכבודי",
+      "gloss": "và vì vinh quang Ta"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "Ta đã sáng tạo nó"
+    },
+    {
+      "surface": "יצרתיו",
+      "gloss": "Ta đã dựng nên nó"
+    },
+    {
+      "surface": "אף",
+      "gloss": "phải"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "Ta đã làm nên nó"
+    }
+  ],
+  "timestamp": "2026-08-19T04:12:01.957891903Z",
+  "model": "glm-5.3"
+}

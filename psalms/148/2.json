@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 148,
+  "translation": "Hãy ca ngợi Ngài, hết thảy các sứ thần của Ngài; hãy ca ngợi Ngài, hết thảy đạo quân của Ngài.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Hãy ca ngợi Ngài"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hết thảy"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "các sứ thần của Ngài"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "hãy ca ngợi Ngài"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hết thảy"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "đạo quân của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:43.785479081Z",
+  "model": "glm-5.3"
+}

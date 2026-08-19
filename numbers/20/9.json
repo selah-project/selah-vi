@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Và Moshe lấy ⟨את⟩ cây gậy từ trước mặt Yahweh, như Ngài đã phán dặn ông.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "và đã lấy"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cây gậy"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "cây gậy"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "từ trước mặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "đã phán dặn ông"
+    }
+  ],
+  "timestamp": "2026-08-19T02:58:59.679147172Z",
+  "model": "glm-5.3"
+}

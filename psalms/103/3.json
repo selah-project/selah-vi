@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 103,
+  "translation": "⟨Đấng⟩ tha thứ hết thảy tội ác ngươi, ⟨Đấng⟩ chữa lành hết thảy bệnh tật ngươi,",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "Đấng tha thứ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hết thảy"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "tội ác ngươi"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "Đấng chữa lành"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hết thảy"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "bệnh tật ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:13.089353797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Elohim thấy ⟨את⟩ đất, và kìa, nó bại hoại; vì mọi huyết nhục đã làm hư hoại ⟨את⟩ đường lối của mình trên đất.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "và thấy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đất (הארץ)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "và kìa"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "nó bại hoại"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "đã làm hư hoại"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "huyết nhục"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đường lối của mình (דרכו)"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "đường lối của mình"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T00:50:26.751677450Z",
+  "model": "glm-5.3"
+}

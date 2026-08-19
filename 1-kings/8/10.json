@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và xảy ra, khi các thầy tế lễ ra khỏi nơi thánh, thì đám mây lấp đầy ⟨את⟩ nhà của Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "và xảy ra"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "khi ra khỏi"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "các thầy tế lễ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "nơi thánh"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "thì đám mây"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "lấp đầy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhà của Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "của Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T03:50:22.052092405Z",
+  "model": "glm-5.3"
+}

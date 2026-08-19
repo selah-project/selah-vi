@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và nàng sinh cho hắn những người con trai: ⟨את⟩ Yeush, và ⟨את⟩ Shemaryah, và ⟨את⟩ Zaham.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "và nàng sinh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho hắn"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "những người con trai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeush"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "Yeush"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Shemaryah"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "Shemaryah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Zaham"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "Zaham"
+    }
+  ],
+  "timestamp": "2026-08-19T05:56:01.953084914Z",
+  "model": "glm-5.3"
+}

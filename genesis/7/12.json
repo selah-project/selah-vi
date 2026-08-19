@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Và mưa đã ở trên đất bốn mươi ngày và bốn mươi đêm.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "và có chuyện"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "mưa"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "bốn mươi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "và bốn mươi"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "đêm"
+    }
+  ],
+  "timestamp": "2026-08-19T00:49:59.343505185Z",
+  "model": "glm-5.3"
+}

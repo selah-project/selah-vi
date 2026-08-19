@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "⟨את⟩ con chiên thứ nhất ngươi hãy dâng vào buổi sáng, và ⟨את⟩ con chiên thứ hai ngươi hãy dâng giữa hai buổi chiều.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con chiên thứ nhất"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "con chiên"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "thứ nhất"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ngươi hãy dâng"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "vào buổi sáng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "con chiên thứ hai"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "con chiên"
+    },
+    {
+      "surface": "השני",
+      "gloss": "thứ hai"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ngươi hãy dâng"
+    },
+    {
+      "surface": "בין",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "hai buổi chiều"
+    }
+  ],
+  "timestamp": "2026-08-19T03:01:50.884218338Z",
+  "model": "glm-5.3"
+}

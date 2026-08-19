@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 10:17",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Điều đó được báo cho David biết; ông tập hợp ⟨את⟩ toàn thể Yisrael, vượt qua ⟨את⟩ sông Yarden, và đến Chelam. Aram bày trận đón đánh David và giao chiến với ông.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "được báo cho"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David biết"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "ông tập hợp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toàn thể Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "vượt qua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sông Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sông Yarden"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "đến"
+    },
+    {
+      "surface": "חלאמה",
+      "gloss": "Chelam"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "bày trận"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "đón đánh"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "giao chiến"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "với ông"
+    }
+  ],
+  "timestamp": "2026-08-19T03:41:26.131960667Z",
+  "model": "glm-5.3"
+}

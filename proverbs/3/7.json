@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Chớ khôn ngoan trong mắt mình; hãy kính sợ ⟨את⟩ Yahweh, và hãy lìa khỏi điều ác.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "hãy là"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "khôn ngoan"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "trong mắt mình"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "hãy kính sợ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "và hãy lìa"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "khỏi điều ác"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:57.088730185Z",
+  "model": "glm-5.3"
+}

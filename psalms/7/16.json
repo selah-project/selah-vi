@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Hố nó đã đào, và đã cuốc rộng nó ra; và nó ngã vào hầm mà nó ⟨làm⟩.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "hố"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "đã đào"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "và đã cuốc rộng nó ra"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "và nó ngã"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "vào hầm"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "⟨làm⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T04:55:01.316794828Z",
+  "model": "glm-5.3"
+}

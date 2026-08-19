@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 15:2",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Và đây là lời lẽ của sự xá miễn: mỗi chủ nợ phải buông tay khỏi món vay tay mình đã cho người thân cận vay; đừng đòi ⟨את⟩ người thân cận mình và ⟨את⟩ anh em mình, vì đã công bố sự xá miễn cho Yahweh.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "và đây là"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lời lẽ"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "của sự xá miễn"
+    },
+    {
+      "surface": "שמוט",
+      "gloss": "phải buông"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mỗi"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "chủ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "món nợ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tay mình"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "ישה",
+      "gloss": "đã cho vay"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "người thân cận mình"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "đòi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người thân cận mình"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "người thân cận mình"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "anh em mình"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "anh em mình"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "đã công bố"
+    },
+    {
+      "surface": "שמטה",
+      "gloss": "sự xá miễn"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "cho Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T03:09:00.853526459Z",
+  "model": "glm-5.3"
+}

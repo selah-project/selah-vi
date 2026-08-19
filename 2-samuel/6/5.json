@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 6:5",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và David cùng toàn thể nhà Yisrael đang múa hát trước mặt Yahweh với mọi thứ nhạc cụ bằng gỗ bách, với đàn cầm, với đàn nã-van, với trống con, với xắc-xô lắc, với chũm chọe.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "và David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "cùng toàn thể"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "đang múa hát"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "với mọi thứ"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "gỗ của"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "cây bách"
+    },
+    {
+      "surface": "ובכנרות",
+      "gloss": "với đàn cầm"
+    },
+    {
+      "surface": "ובנבלים",
+      "gloss": "với đàn nã-van"
+    },
+    {
+      "surface": "ובתפים",
+      "gloss": "với trống con"
+    },
+    {
+      "surface": "ובמנענעים",
+      "gloss": "với xắc-xô lắc"
+    },
+    {
+      "surface": "ובצלצלים",
+      "gloss": "với chũm chọe"
+    }
+  ],
+  "timestamp": "2026-08-19T03:40:41.810544157Z",
+  "model": "glm-5.3"
+}

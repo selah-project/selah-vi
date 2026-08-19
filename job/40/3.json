@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 40:3",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Và Iyov đáp lời ⟨את⟩ Yahweh và nói rằng",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "đáp lời"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nói rằng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:27:57.354605283Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 22:21",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Hãy giựt lấy mạng sống con khỏi gươm, khỏi móng chó, ⟨từ⟩ độc nhất của con.",
+  "tokens": [
+    {
+      "surface": "הצילה",
+      "gloss": "Hãy giựt lấy"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "khỏi gươm"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mạng sống con"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "khỏi móng"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "chó"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "độc nhất của con"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:56.474247808Z",
+  "model": "glm-5.3"
+}

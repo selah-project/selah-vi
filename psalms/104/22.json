@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 104,
+  "translation": "Mặt trời mọc lên, chúng rút về, và nằm xuống trong hang ⟨của⟩ chúng.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "mọc lên"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "mặt trời"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "chúng rút về"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và đến"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "trong hang của chúng"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "chúng nằm xuống"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:18.946725337Z",
+  "model": "glm-5.3"
+}

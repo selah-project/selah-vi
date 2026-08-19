@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Còn sự ngồi yên, sự ra đi và sự vào của ngươi, ta đều biết, cùng ⟨את⟩ cơn thịnh nộ của ngươi nhắm vào ta.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "và sự ngồi yên của ngươi"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "và sự ra đi của ngươi"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "và sự vào của ngươi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ta biết"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "cơn thịnh nộ của ngươi"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "cơn thịnh nộ của ngươi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "nhắm vào ta"
+    }
+  ],
+  "timestamp": "2026-08-19T04:10:35.435451316Z",
+  "model": "glm-5.3"
+}

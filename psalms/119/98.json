@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Trên các kẻ thù tôi, mệnh lệnh của Ngài làm tôi khôn hơn, vì nó ⟨là⟩ của tôi muôn đời.",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "trên các kẻ thù tôi"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "làm tôi khôn hơn"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "mệnh lệnh của Ngài"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "muôn đời"
+    },
+    {
+      "surface": "היא",
+      "gloss": "nó"
+    },
+    {
+      "surface": "לי",
+      "gloss": "của tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:29.391202054Z",
+  "model": "glm-5.3"
+}

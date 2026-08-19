@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 112,
+  "translation": "Sự sáng đã mọc lên trong bóng tối cho những người ngay thẳng — đầy ơn, và thương xót, và công bình.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "đã mọc lên"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "trong bóng tối"
+    },
+    {
+      "surface": "אור",
+      "gloss": "sự sáng"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "cho những người ngay thẳng"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "đầy ơn"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "và thương xót"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "và công bình"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:47.060214838Z",
+  "model": "glm-5.3"
+}

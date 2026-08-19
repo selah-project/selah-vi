@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 18:17",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Họ lấy ⟨את⟩ Avshalom, ném hắn vào trong rừng, đến hố lớn, và chất lên hắn một đống đá rất lớn; còn cả Yisrael đều trốn, mỗi người về trại mình.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "họ lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "ném"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "hắn (Avshalom)"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "trong rừng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "הפחת",
+      "gloss": "hố"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "lớn"
+    },
+    {
+      "surface": "ויצבו",
+      "gloss": "chất lên"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "trên hắn"
+    },
+    {
+      "surface": "גל",
+      "gloss": "đống"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "đá"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lớn"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "rất"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và cả"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נסו",
+      "gloss": "trốn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mỗi người"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "về trại mình"
+    }
+  ],
+  "timestamp": "2026-08-19T03:44:09.234985357Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Và ⟨את⟩ người Pathrusim, và ⟨את⟩ người Casluchim — từ đó đã ra đi người Philistim — và ⟨את⟩ người Caphtorim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người Pathrusim"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "người Pathrusim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người Casluchim"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "người Casluchim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nơi mà"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "đã ra đi"
+    },
+    {
+      "surface": "משם",
+      "gloss": "từ đó"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "người Philistim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người Caphtorim"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "người Caphtorim"
+    }
+  ],
+  "timestamp": "2026-08-19T00:53:51.463620801Z",
+  "model": "glm-5.3"
+}

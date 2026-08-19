@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "\"Hãy xé đứt ⟨את⟩ xiềng xích của chúng nó, và hãy quăng sợi dây của chúng nó khỏi chúng ta.\"",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "hãy xé đứt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xiềng xích của chúng nó"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "xiềng xích của chúng nó"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "và hãy quăng"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "sợi dây của chúng nó"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:07.602681891Z",
+  "model": "glm-5.3"
+}

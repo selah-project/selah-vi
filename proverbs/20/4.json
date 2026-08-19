@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Vì rét mùa đông, kẻ lười biếng không cày ruộng; đến mùa gặt nó xin ⟨את⟩ — và không có gì.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "vì rét mùa đông"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "kẻ lười biếng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "cày ruộng"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "nó xin"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "đến mùa gặt"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "và không có gì"
+    }
+  ],
+  "timestamp": "2026-08-19T05:17:58.590200073Z",
+  "model": "glm-5.3"
+}

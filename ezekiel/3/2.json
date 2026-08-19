@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Tôi liền mở ⟨את⟩ miệng tôi, và Ngài cho tôi ăn ⟨את⟩ cuốn sách này.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "và tôi mở"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miệng tôi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "miệng tôi"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "và Ngài cho tôi ăn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuốn sách này"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "cuốn sách"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "này"
+    }
+  ],
+  "timestamp": "2026-08-19T04:31:31.878104010Z",
+  "model": "glm-5.3"
+}

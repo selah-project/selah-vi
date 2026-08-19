@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 70,
+  "translation": "Còn tôi là kẻ nghèo khó và thiếu-thốn; Elohim ơi, xin chóng đến với tôi; Đấng giúp-đỡ tôi và Đấng cứu-thoát tôi ⟨là⟩ Ngài; Yahweh ơi, xin đừng chậm-trễ!",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "còn tôi"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kẻ nghèo khó"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": ""
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "và thiếu-thốn"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "xin chóng đến"
+    },
+    {
+      "surface": "לי",
+      "gloss": "với tôi"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "Đấng giúp-đỡ tôi"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "và Đấng cứu-thoát tôi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "xin đừng"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "chậm-trễ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:35.819420050Z",
+  "model": "glm-5.3"
+}

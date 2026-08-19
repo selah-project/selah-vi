@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 10:11",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Há chẳng phải như tôi đã làm cho Shomeron và cho các thần tượng của nó, thì tôi sẽ làm như vậy cho Yerushalayim và cho các tượng của nó?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "há chẳng phải"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "tôi đã làm"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "cho Shomeron"
+    },
+    {
+      "surface": "ולאליליה",
+      "gloss": "và cho các thần tượng của nó"
+    },
+    {
+      "surface": "כן",
+      "gloss": "như vậy"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "tôi sẽ làm"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "cho Yerushalayim"
+    },
+    {
+      "surface": "ולעצביה",
+      "gloss": "và cho các tượng của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T04:05:38.794507735Z",
+  "model": "glm-5.3"
+}

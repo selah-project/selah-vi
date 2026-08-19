@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và các con trai của Aharon, các thầy tế lễ, sẽ xếp ⟨את⟩ các miếng thịt, ⟨את⟩ cái đầu, và ⟨את⟩ mô mỡ, lên trên đống gỗ là ở trên lửa, là ở trên bàn thờ.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "và sẽ xếp"
+    },
+    {
+      "surface": "בני",
+      "gloss": "các con trai"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "của Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "các thầy tế lễ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các miếng thịt"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "các miếng thịt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cái đầu"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "cái đầu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "mô mỡ"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "mô mỡ"
+    },
+    {
+      "surface": "על",
+      "gloss": "lên trên"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "đống gỗ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "là nơi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ở trên"
+    },
+    {
+      "surface": "האש",
+      "gloss": "lửa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "là nơi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ở trên"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bàn thờ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:39:57.347845744Z",
+  "model": "glm-5.3"
+}

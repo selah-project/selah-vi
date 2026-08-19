@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Họ băng qua ⟨את⟩ sông Yarden, và đóng trại tại Aroer, bên phải ⟨của⟩ thành, nơi ở giữa thung lũng Gad, và đến Yazer.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "và họ băng qua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sông Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sông Yarden"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "và họ đóng trại"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "tại Aroer"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "bên phải"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "thành"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nơi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ở giữa"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "thung lũng"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và đến"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yazer"
+    }
+  ],
+  "timestamp": "2026-08-19T06:09:35.338274509Z",
+  "model": "glm-5.3"
+}

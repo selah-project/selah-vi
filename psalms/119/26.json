@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 119:26",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Tôi đã kể lại các đường lối mình, và Ngài đã đáp lời tôi; xin dạy tôi các luật lệ Ngài.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "các đường lối tôi"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "tôi đã kể lại"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "và Ngài đã đáp lời tôi"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "xin dạy tôi"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "các luật lệ Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:41.229983979Z",
+  "model": "glm-5.3"
+}

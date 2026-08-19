@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 132,
+  "translation": "Vì Yahweh đã chọn Tsiyon, ⟨người⟩ ước muốn ⟨nó⟩ làm nơi ngự cho mình.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "đã chọn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "ước muốn"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "làm nơi ngự"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho mình"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:15.980739382Z",
+  "model": "glm-5.3"
+}

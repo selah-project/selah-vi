@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và ⟨ông⟩ nói với tôi: Ngươi là ai? Và tôi nói với ⟨ông⟩: Tôi là người Amalek.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Và nói"
+    },
+    {
+      "surface": "לי",
+      "gloss": "với tôi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Và tôi nói"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "với ⟨ông⟩"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "người Amalek"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:38:36.862284095Z",
+  "model": "glm-5.3"
+}

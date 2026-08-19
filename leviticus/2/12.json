@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Quà dâng của mùa đầu trái, các ngươi hãy đem chúng ⟨את⟩ đến gần cho Yahweh; nhưng lên bàn thờ chúng sẽ không lên làm mùi thơm dễ chịu.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "quà dâng"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "mùa đầu trái"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "các ngươi hãy đem đến gần"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chúng"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "cho Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và đến"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "chúng sẽ lên"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "làm mùi thơm"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "dễ chịu"
+    }
+  ],
+  "timestamp": "2026-08-19T02:39:36.436310460Z",
+  "model": "glm-5.3"
+}

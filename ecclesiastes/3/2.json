@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Một thời gian để sinh, và một thời gian để chết; một thời gian để trồng, và một thời gian để nhổ ⟨cây⟩ đã trồng.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "một thời gian"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "để sinh"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "và một thời gian"
+    },
+    {
+      "surface": "למות",
+      "gloss": "để chết"
+    },
+    {
+      "surface": "עת",
+      "gloss": "một thời gian"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "để trồng"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "và một thời gian"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "để nhổ"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "đã trồng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:31.020305637Z",
+  "model": "glm-5.3"
+}

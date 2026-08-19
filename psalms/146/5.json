@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 146:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 146,
+  "translation": "Phước cho ⟨kẻ⟩ có Elohim của Yaakov là sự trợ giúp của mình, hy vọng của mình ở nơi Yahweh Elohim của mình.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "phước cho"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "⟕kẻ⟕ có"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בעזרו",
+      "gloss": "là sự trợ giúp của mình"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "hy vọng của mình"
+    },
+    {
+      "surface": "על",
+      "gloss": "ở nơi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim của mình"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:46.934908007Z",
+  "model": "glm-5.3"
+}

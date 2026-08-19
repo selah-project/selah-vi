@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Và vua của Yisra'el nói với các tôi tớ của mình: Các ngươi có biết rằng Ramot-Gil'ad thuộc về chúng ta, còn chúng ta vẫn im lặng không lấy ⟨את⟩ nó khỏi tay vua của Aram?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "các tôi tớ của mình"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "các ngươi có biết"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "thuộc về chúng ta"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gil'ad"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "còn chúng ta"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "im lặng"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "không lấy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nó (Ramot-Gil'ad)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "khỏi tay"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-19T03:55:42.164875157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 17:18",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Và bà nói với Eliyahu: Tôi với ông có gì liên hệ, hỡi người của Elohim? Ông đến với tôi để nhắc ⟨את⟩ tội tôi, và để giết ⟨את⟩ con trai tôi?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "và bà nói"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "và cho ông"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "của Elohim"
+    },
+    {
+      "surface": "באת",
+      "gloss": "ông đến"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "đến với tôi"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "để nhắc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tội tôi"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "tội tôi"
+    },
+    {
+      "surface": "ולהמית",
+      "gloss": "và để giết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con trai tôi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con trai tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:53:20.946978622Z",
+  "model": "glm-5.3"
+}

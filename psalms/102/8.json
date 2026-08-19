@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 102,
+  "translation": "Tôi thức canh và tôi như chim sống lẻ loi trên mái nhà.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "tôi thức canh"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "và tôi như"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "chim"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "sống lẻ loi"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "גג",
+      "gloss": "mái nhà"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:58.641726077Z",
+  "model": "glm-5.3"
+}

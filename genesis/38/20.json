@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 38:20",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 38,
+  "translation": "Yehudah gửi ⟨את⟩ con dê của dê qua tay bạn ông, người Adulam, để lấy vật thế chấp từ tay người phụ nữ, nhưng không tìm thấy bà.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "gửi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con dê của dê"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "con dê"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "của dê"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "qua tay"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "bạn ông"
+    },
+    {
+      "surface": "העדלמי",
+      "gloss": "người Adulam"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "để lấy"
+    },
+    {
+      "surface": "הערבון",
+      "gloss": "vật thế chấp"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "từ tay"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "người phụ nữ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nhưng không"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "tìm thấy bà"
+    }
+  ],
+  "timestamp": "2026-08-19T01:26:32.943512238Z",
+  "model": "glm-5.3"
+}

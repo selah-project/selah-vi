@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 2:13",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và họ ngồi xuống với ⟨את⟩ ông trên đất bảy ngày và bảy đêm, và không ai nói với ông một lời, vì họ thấy rằng nỗi đau đã rất lớn.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "và họ ngồi xuống"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "với ⟨את⟩ ông",
+      "marks": "ông"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "trên đất"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "bảy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "và bảy"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "đêm"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "và không có"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "người nói"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "với ông"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "một lời"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "họ thấy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "đã lớn"
+    },
+    {
+      "surface": "הכאב",
+      "gloss": "nỗi đau"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "rất"
+    }
+  ],
+  "timestamp": "2026-08-19T05:20:00.814723669Z",
+  "model": "glm-5.3"
+}

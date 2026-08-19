@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 70,
+  "translation": "Nguyện chúng trở lại ⟨vì⟩ hậu quả ⟨của⟩ sự hổ thẹn mình, những kẻ nói: Ha, ha!",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "nguyện chúng trở lại"
+    },
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "hậu quả (gót chân)"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "sự hổ thẹn của chúng"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "những kẻ nói"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Ha!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Ha!"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:49.313468122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 3:25",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Chớ sợ ⟨v⟩ sự kinh hoàng thình lình, và ⟨v⟩ sự tàn phá của kẻ ác khi nó đến.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "sợ"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "sự kinh hoàng"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "thình lình"
+    },
+    {
+      "surface": "ומשאת",
+      "gloss": "và sự tàn phá"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "của kẻ ác"
+    },
+    {
+      "surface": "כי",
+      "gloss": "khi"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "nó đến"
+    }
+  ],
+  "timestamp": "2026-08-19T05:14:29.680912333Z",
+  "model": "glm-5.3"
+}

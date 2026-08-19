@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 35,
+  "translation": "⟨את⟩ các cọc của Đền Tạm, và ⟨את⟩ các cọc của sân, và ⟨את⟩ các dây của chúng;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các cọc của Đền Tạm"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "các cọc"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "của Đền Tạm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các cọc của sân"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "các cọc"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "của sân"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các dây của chúng"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "các dây của chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:36:58.095186745Z",
+  "model": "glm-5.3"
+}

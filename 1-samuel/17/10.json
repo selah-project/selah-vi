@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Và người Philistít nói: Ta đã nhạo báng ⟨את⟩ các hàng trận của Yisraen ngày nay; hãy cho ta một người, và chúng ta hãy chiến đấu cùng nhau.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "người Philistít"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ta"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "đã nhạo báng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các hàng trận của Yisraen"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "các hàng trận"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "của Yisraen"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nay"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "hãy cho"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho ta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "một người"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "và chúng ta hãy chiến đấu"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "cùng nhau"
+    }
+  ],
+  "timestamp": "2026-08-19T03:34:02.871168265Z",
+  "model": "glm-5.3"
+}

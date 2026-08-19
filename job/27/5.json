@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 27:5",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Xa lạ với tôi nếu tôi xưng ⟨את⟩ các ngươi là công bình; cho đến khi tôi trút hơi thở, tôi sẽ không dời sự vô tội của tôi khỏi tôi.",
+  "tokens": [
+    {
+      "surface": "חלילה",
+      "gloss": "xa lạ với"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "tôi xưng là công bình"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ các ngươi",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến khi"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "tôi trút hơi thở"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "tôi dời"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "sự vô tội của tôi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "khỏi tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:25:10.988278866Z",
+  "model": "glm-5.3"
+}

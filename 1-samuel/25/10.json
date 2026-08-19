@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 25:10",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Naval trả lời ⟨את⟩ các tôi tớ của Davíd và nói: Davíd là ai, và con của Yishai là ai? Ngày nay đã đông đảo các tôi tớ ⟨là⟩ những kẻ lảng tránh, mỗi người khỏi mặt chúa mình.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "và trả lời"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Naval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các tôi tớ của Davíd"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "các tôi tớ của"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíd"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíd"
+    },
+    {
+      "surface": "ו מי",
+      "gloss": "và ai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con của"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngày nay"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "đã đông đảo"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "các tôi tớ"
+    },
+    {
+      "surface": "המתפרצים",
+      "gloss": "những kẻ lảng tránh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mỗi người"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "khỏi mặt"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "chúa mình"
+    }
+  ],
+  "timestamp": "2026-08-19T03:36:21.457885743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Trống rỗng hoàn toàn, đất sẽ bị trống rỗng; bị cướp phá hoàn toàn, sẽ bị cướp phá; vì Yahweh đã phán ⟨את⟩ lời này.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "trống rỗng hoàn toàn"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "sẽ bị trống rỗng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "và bị cướp phá hoàn toàn"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "sẽ bị cướp phá"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "đã phán"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lời này"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lời"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    }
+  ],
+  "timestamp": "2026-08-19T04:08:43.663578095Z",
+  "model": "glm-5.3"
+}

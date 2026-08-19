@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 49,
+  "translation": "Và sau đó ⟨điều đó⟩, Ta sẽ đem ⟨את⟩ số phận lưu đày của con cháu Amon trở lại, sấm của Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "và sau"
+    },
+    {
+      "surface": "כן",
+      "gloss": "đó"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "Ta sẽ đem trở lại"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "số phận lưu đày"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "số phận lưu đày"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cháu"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sấm của"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T04:29:23.273841497Z",
+  "model": "glm-5.3"
+}

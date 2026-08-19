@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 105,
+  "translation": "Hãy tìm kiếm Yahweh và sức mạnh của Ngài, hãy tìm kiếm mặt Ngài luôn luôn.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "hãy tìm kiếm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "và sức mạnh của Ngài"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "hãy tìm kiếm"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mặt Ngài"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "luôn luôn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:53.479424755Z",
+  "model": "glm-5.3"
+}

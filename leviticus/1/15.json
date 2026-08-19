@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Thầy tế lễ sẽ dâng nó đến bàn thờ, vặn ⟨את⟩ đầu nó, và xông trên bàn thờ; máu nó phải để chảy ra trên thành bàn thờ.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "sẽ dâng nó"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "thầy tế lễ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "vặn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đầu nó"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "đầu nó"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "và xông"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "trên bàn thờ"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "phải để chảy ra"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "máu nó"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "thành"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bàn thờ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:39:54.800898304Z",
+  "model": "glm-5.3"
+}

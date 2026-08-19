@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 8:13",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và điều tốt sẽ không đến ⟨với⟩ kẻ ác, và nó sẽ không kéo dài ngày tháng như bóng<cái>, bởi vì nó không phải ⟨là⟩ kẻ sợ hãi trước mặt Elohim.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "và điều tốt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sẽ có"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "cho kẻ ác"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "kéo dài"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ngày tháng"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "như bóng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bởi vì"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nó không là"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "kẻ sợ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:57.664881773Z",
+  "model": "glm-5.3"
+}

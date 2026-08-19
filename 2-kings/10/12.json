@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 10:12",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Và người đứng dậy, đi đến, và đi về Shomron; người đến Beit-Eked của những người chăn chiên, trên đường đi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "và đứng dậy"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "đi đến"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "và đi về"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "người"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "עקד",
+      "gloss": "Eked"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "của những người chăn chiên"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "trên đường đi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:57:51.341021462Z",
+  "model": "glm-5.3"
+}

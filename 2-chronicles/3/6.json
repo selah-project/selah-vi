@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và ông phủ ⟨את⟩ nhà bằng đá quý để làm vinh đẹp, còn vàng là vàng Parvaim.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "và phủ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhà"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "đá"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "quý"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "cho sự vinh đẹp"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "và vàng"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "vàng"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "Parvaim"
+    }
+  ],
+  "timestamp": "2026-08-19T05:54:48.340204298Z",
+  "model": "glm-5.3"
+}

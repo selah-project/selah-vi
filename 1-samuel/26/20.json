@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 26:20",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Và nay, đừng cho huyết tôi rơi xuống đất, xa khỏi mặt Yahweh, vì vua của Israel đã ra đi để tìm ⟨את⟩ một con bọ chét, như người ta săn chim đa đa trên núi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "và nay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "rơi xuống"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "huyết tôi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "xuống đất"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "xa khỏi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "đã ra đi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "để tìm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "một con bọ chét"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "con bọ chét"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "một"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như khi"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "săn đuổi"
+    },
+    {
+      "surface": "הקרא",
+      "gloss": "chim đa đa"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "trên núi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:08:23.769191873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 29:16",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Ngươi sẽ giết ⟨את⟩ con ram, và lấy ⟨את⟩ máu nó, và rảy lên bàn thờ, chung quanh.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "ngươi sẽ giết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con ram"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "con ram"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "và ngươi sẽ lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "máu nó"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "máu nó"
+    },
+    {
+      "surface": "וזרקת",
+      "gloss": "và ngươi sẽ rảy"
+    },
+    {
+      "surface": "על",
+      "gloss": "lên"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "chung quanh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:35:34.791243744Z",
+  "model": "glm-5.3"
+}

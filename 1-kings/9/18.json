@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "và ⟨את⟩ Baalat, và ⟨את⟩ Tamar, trong hoang mạc, trong xứ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Baalat"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "Baalat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Tamar"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "trong hoang mạc"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trong xứ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:50:40.224572576Z",
+  "model": "glm-5.3"
+}

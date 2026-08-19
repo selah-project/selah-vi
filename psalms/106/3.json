@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 106,
+  "translation": "Phước thay những kẻ gìn giữ sự công bình, ⟨là kẻ⟩ làm điều công chính trong mọi thì điểm.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "phước thay"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "những kẻ gìn giữ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sự công bình"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "làm"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "điều công chính"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "trong mọi"
+    },
+    {
+      "surface": "עת",
+      "gloss": "thì điểm"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:03.955187191Z",
+  "model": "glm-5.3"
+}

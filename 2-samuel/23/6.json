@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 23:6",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Còn những kẻ Belial thì như gai bị quăng ra, tất cả chúng nó, vì chẳng thể bằng tay mà lượm lấy.",
+  "tokens": [
+    {
+      "surface": "ובליעל",
+      "gloss": "và-kẻ-Belial"
+    },
+    {
+      "surface": "כקוץ",
+      "gloss": "như-gai"
+    },
+    {
+      "surface": "מנד",
+      "gloss": "bị-quăng-ra"
+    },
+    {
+      "surface": "כלהם",
+      "gloss": "tất-cả-chúng-nó"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chẳng"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bằng-tay"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "được-lượm-lấy"
+    }
+  ],
+  "timestamp": "2026-08-19T03:46:19.968931557Z",
+  "model": "glm-5.3"
+}

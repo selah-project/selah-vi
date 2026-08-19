@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 147,
+  "translation": "Đấng ban tuyết như len, sương giá như tro Ngài rải ra.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "Đấng ban"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "tuyết"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "như len"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "sương giá"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "như tro"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "Ngài rải ra"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:35.389309368Z",
+  "model": "glm-5.3"
+}

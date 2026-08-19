@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 24:1",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Này, Yahweh làm ⟨את⟩ đất trống rỗng và tàn phá nó, làm méo mó mặt nó, và phân tán dân cư nó.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Này"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בוקק",
+      "gloss": "làm trống rỗng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "ובולקה",
+      "gloss": "và tàn phá nó"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "làm méo mó"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "mặt nó"
+    },
+    {
+      "surface": "והפיץ",
+      "gloss": "và phân tán"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "dân cư nó"
+    }
+  ],
+  "timestamp": "2026-08-19T04:08:43.663141160Z",
+  "model": "glm-5.3"
+}

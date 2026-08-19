@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "⟨את⟩ Yahweh Elohim ngươi hãy kính sợ, và ⟨אתו⟩ hãy phụng sự, và nhân Danh Ngươi hãy thề.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ngươi"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "hãy kính sợ"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "và ⟨אתו⟩",
+      "marks": "hãy phụng sự"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "hãy phụng sự"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "và trong Danh Ngài"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "hãy thề"
+    }
+  ],
+  "timestamp": "2026-08-19T03:05:58.645058434Z",
+  "model": "glm-5.3"
+}

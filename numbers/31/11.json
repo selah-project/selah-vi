@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Họ đem tất cả chiến lợi phẩm và ⟨את⟩ tất cả của chiếm được, cả ở người lẫn ở súc vật.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "và họ đã đem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả chiến lợi phẩm"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "chiến lợi phẩm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "tất cả của chiếm được"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "của chiếm được"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ở người"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "và ở súc vật"
+    }
+  ],
+  "timestamp": "2026-08-19T03:03:04.381410435Z",
+  "model": "glm-5.3"
+}

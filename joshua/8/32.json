@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và ông chép tại đó, trên các đá, ⟨את⟩ bản sao của Torah Moshe, mà ông đã chép trước mặt con cái Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "và ông chép"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tại đó"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "các đá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bản sao của Torah Moshe"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "bản sao"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torah của"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "đã chép"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T03:16:56.509292814Z",
+  "model": "glm-5.3"
+}

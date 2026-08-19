@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 32:11",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Há chẳng phải Yechizqiyahu xúi giục các ngươi, để nộp các ngươi ⟨vào⟩ chết bởi đói và bởi khát, rằng: Yahweh Elohim của chúng ta sẽ cứu chúng ta khỏi bàn tay vua của Ashshur?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "há chẳng"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yechizqiyahu"
+    },
+    {
+      "surface": "מסית",
+      "gloss": "xúi giục"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ các ngươi",
+      "marks": "các ngươi (tội đồ của מסית)"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "để nộp"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ các ngươi",
+      "marks": "các ngươi (tội đồ của לתת)"
+    },
+    {
+      "surface": "למות",
+      "gloss": "chết"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "bởi đói"
+    },
+    {
+      "surface": "ובצמא",
+      "gloss": "và bởi khát"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim của chúng ta"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "sẽ cứu chúng ta"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "khỏi bàn tay"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    }
+  ],
+  "timestamp": "2026-08-19T06:01:21.702007957Z",
+  "model": "glm-5.3"
+}

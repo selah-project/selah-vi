@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 112,
+  "translation": "Vì đến đời đời ⟨người ấy⟩ sẽ không nao lệch; người công bình sẽ còn ⟨nữa⟩ làm kỷ niệm muôn đời.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "đến đời đời"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "sẽ nao lệch"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "làm kỷ niệm"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "muôn đời"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sẽ còn"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "người công bình"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:47.881291120Z",
+  "model": "glm-5.3"
+}

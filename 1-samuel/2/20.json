@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 2:20",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và Eli chúc phúc cho ⟨את⟩ Elkanah và ⟨את⟩ vợ ông, và nói: 'Nguyện Yahweh ban cho ông dòng dõi từ người đàn bà này, thay cho điều đã xin nơi Yahweh.' Và họ trở về chỗ của mình.",
+  "tokens": [
+    {
+      "surface": "וברך",
+      "gloss": "và chúc phúc"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elkanah"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vợ ông"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "và vợ ông"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "ban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ông"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "dòng dõi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "người đàn bà"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "này"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thay cho"
+    },
+    {
+      "surface": "השאלה",
+      "gloss": "điều đã xin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "đã xin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "nơi Yahweh"
+    },
+    {
+      "surface": "והלכו",
+      "gloss": "và đi"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "về chỗ của mình"
+    }
+  ],
+  "timestamp": "2026-08-19T03:29:45.869976649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 36:8",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 36,
+  "translation": "Giờ thì, xin hãy đặt ký cược ⟨את⟩ chúa tôi là vua Ashshur, và ta sẽ cho ngươi hai nghìn con ngựa — nếu ngươi có thể cung cấp cho ngươi người cưỡi trên chúng!",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "giờ thì"
+    },
+    {
+      "surface": "התערב",
+      "gloss": "hãy đặt ký cược"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chúa tôi là vua Ashshur"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "chúa tôi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "và ta sẽ cho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "hai nghìn"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "con ngựa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "ngươi có thể"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "cung cấp"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngươi"
+    },
+    {
+      "surface": "רכבים",
+      "gloss": "người cưỡi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "trên chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:11:18.013010934Z",
+  "model": "glm-5.3"
+}

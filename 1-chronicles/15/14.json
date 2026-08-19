@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 15:14",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Và các thầy tế lễ cùng người Lê-vi tự thánh hóa để đưa lên ⟨את⟩ hòm của Yahweh, Elohim của Yitsra'el.",
+  "tokens": [
+    {
+      "surface": "ויתקדשו",
+      "gloss": "tự thánh hóa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "các thầy tế lễ"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "và người Lê-vi"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "để đưa lên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hòm của Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "hòm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yitsra'el"
+    }
+  ],
+  "timestamp": "2026-08-19T05:50:46.084822761Z",
+  "model": "glm-5.3"
+}

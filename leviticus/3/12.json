@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 3:12",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Còn nếu lễ dâng của nó là một con dê, thì nó sẽ dâng nó trước mặt Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "còn nếu"
+    },
+    {
+      "surface": "עז",
+      "gloss": "con dê"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "lễ dâng của nó"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "thì nó sẽ dâng nó"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:39:33.048783267Z",
+  "model": "glm-5.3"
+}

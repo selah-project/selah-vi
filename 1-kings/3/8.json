@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và tôi tớ của Ngài ở giữa dân sự của Ngài, mà Ngài đã chọn — một dân đông đúc, không thể đếm được và không thể kể được vì sự đông đảo.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "và tôi tớ của Ngài"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ở giữa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dân sự của Ngài"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "Ngài đã chọn"
+    },
+    {
+      "surface": "עם",
+      "gloss": "một dân"
+    },
+    {
+      "surface": "רב",
+      "gloss": "đông đúc"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "được đếm"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "được kể"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "vì sự đông đảo"
+    }
+  ],
+  "timestamp": "2026-08-19T03:47:51.409248346Z",
+  "model": "glm-5.3"
+}

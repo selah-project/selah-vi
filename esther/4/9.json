@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và Hathakh đi đến, và kể lại cho Esther ⟨את⟩ lời nói của Mordechai.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "và đi đến"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hathakh"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "và kể lại"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "cho Esther"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lời nói"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "lời nói"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "của Mordechai"
+    }
+  ],
+  "timestamp": "2026-08-19T05:34:16.327482141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Vì nhờ Ngài tôi xông vào đội quân, và nhờ Elohim của tôi tôi nhảy qua tường.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nhờ Ngài"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tôi xông vào"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "đội quân"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "và nhờ Elohim của tôi"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "tôi nhảy qua"
+    },
+    {
+      "surface": "שור",
+      "gloss": "tường"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:33.761614661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Và David lấy ⟨את⟩ đầu của Pelishtim và đem nó đến Yerushalayim; còn ⟨את⟩ đồ dùng của hắn thì ông đặt trong lều của mình.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "và-ông-lấy"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đầu của Pelishtim"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "đầu"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "của-Pelishtim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "và-đem-nó-đến"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và-⟨את⟩",
+      "marks": "đồ dùng của hắn"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "đồ-dùng-của-hắn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "đặt"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "trong-lều-của-mình"
+    }
+  ],
+  "timestamp": "2026-08-19T03:34:15.642805663Z",
+  "model": "glm-5.3"
+}

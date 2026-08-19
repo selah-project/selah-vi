@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 103,
+  "translation": "Vì gió thoảng qua nó, và nó không còn nữa; và chỗ của nó sẽ không nhận ra nó nữa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "gió"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "thoảng qua"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nó"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "và nó không còn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "nhận ra nó"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nữa"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "chỗ của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:52.547035791Z",
+  "model": "glm-5.3"
+}

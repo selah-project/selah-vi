@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Và bây giờ, khi thư này đến với các ngươi — và ⟨את⟩ các con trai của chúa các ngươi ở với các ngươi, và ⟨את⟩ các chiến xa và các ngựa ở với các ngươi, và thành trì kiên cố và vũ khí —",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "và-bây-giờ"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "khi-đến"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "cái-thư"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "với-các-ngươi"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "và-⟨את⟩",
+      "marks": "các con trai của chúa các ngươi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "các-con-trai"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "của-chúa-các-ngươi"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "và-⟨את⟩",
+      "marks": "các chiến xa và các ngựa"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "các-chiến-xa"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "và-các-ngựa"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "và-thành"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "trì-kiên-cố"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "và-vũ-khí"
+    }
+  ],
+  "timestamp": "2026-08-19T03:58:09.949600109Z",
+  "model": "glm-5.3"
+}

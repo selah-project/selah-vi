@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 34:5",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 34,
+  "translation": "Còn Yaakov nghe rằng ⟨את⟩ Dinah con gái ông đã bị làm ô uế, còn các con trai ông thì ⟨את⟩ gia súc của ông ở ngoài đồng; Yaakov im lặng cho đến khi họ trở về.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Còn Yaakov"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nghe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "làm ô uế"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dinah"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinah"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "con gái ông"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "còn các con trai ông"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ở"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gia súc của ông"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "gia súc của ông"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ngoài đồng"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "nên im lặng"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến khi"
+    },
+    {
+      "surface": "באם",
+      "gloss": "họ trở về"
+    }
+  ],
+  "timestamp": "2026-08-19T01:20:28.244447114Z",
+  "model": "glm-5.3"
+}

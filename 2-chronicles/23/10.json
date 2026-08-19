@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 23:10",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Và ông dựng ⟨את⟩ toàn thể dân sự, mỗi người tay cầm vũ khí của mình, từ vai bên phải của nhà cho đến vai bên trái của nhà, tại bàn thờ và tại nhà, quanh vua chung quanh.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "và dựng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toàn thể dân sự"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "mỗi người"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "vũ khí phóng của mình"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "trong tay mình"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "từ vai"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "của nhà"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "bên phải"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "vai"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "của nhà"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "bên trái"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "tại bàn thờ"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "và tại nhà"
+    },
+    {
+      "surface": "על",
+      "gloss": "quanh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "chung quanh"
+    }
+  ],
+  "timestamp": "2026-08-19T05:58:08.502419987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Tôi đếm được hết mọi xương mình; chúng nó nhìn chằm chằm, chúng nó ngắm nhìn tôi.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "tôi đếm"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hết mọi"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "xương mình"
+    },
+    {
+      "surface": "המה",
+      "gloss": "chúng nó"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "nhìn chằm chằm"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "chúng nó ngắm nhìn"
+    },
+    {
+      "surface": "בי",
+      "gloss": "tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:09.190135365Z",
+  "model": "glm-5.3"
+}

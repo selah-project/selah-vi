@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 73,
+  "translation": "Bằng lời khuyên dạy của Ngài, Ngài dẫn dắt tôi, và sau đó nhận tôi vào ⟨nơi⟩ vinh hiển.",
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "bằng lời khuyên dạy của Ngài"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "Ngài dẫn dắt tôi"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "và sau đó"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "vinh hiển"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "Ngài nhận tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:08.932246882Z",
+  "model": "glm-5.3"
+}

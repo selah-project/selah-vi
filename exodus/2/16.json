@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 2:16",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và vị kahan của Midyan có bảy con gái; chúng đến và tát nước, và đổ đầy ⟨את⟩ các máng để cho đàn chiên của cha mình uống.",
+  "tokens": [
+    {
+      "surface": "ולכהן",
+      "gloss": "và vị kahan của"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "bảy"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "con gái"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "chúng đến"
+    },
+    {
+      "surface": "ותדלנה",
+      "gloss": "chúng tát nước"
+    },
+    {
+      "surface": "ותמלאנה",
+      "gloss": "chúng đổ đầy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các máng"
+    },
+    {
+      "surface": "הרהטים",
+      "gloss": "các máng"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "để cho uống"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "đàn chiên"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "cha của chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:27:28.611961034Z",
+  "model": "glm-5.3"
+}

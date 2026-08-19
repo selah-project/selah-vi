@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 15:4",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Mọi giường mà người chảy nằm trên đó sẽ trở nên ô uế, và mọi đồ vật mà người đó ngồi trên đó sẽ trở nên ô uế.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "giường"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "nằm"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "trên đó"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "người chảy"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "sẽ trở nên ô uế"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "đồ vật"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ngồi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "trên đó"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "sẽ trở nên ô uế"
+    }
+  ],
+  "timestamp": "2026-08-19T02:44:29.382049161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Người ta báo cho Shaúl rằng David đã trốn đến Gat; và ông không tìm kiếm hắn nữa.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "được báo cho"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "đã trốn"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "גת",
+      "gloss": "đến Gat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "thêm nữa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nữa"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "tìm kiếm hắn"
+    }
+  ],
+  "timestamp": "2026-08-19T03:37:34.035038626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 81,
+  "translation": "Chẳng ⟨is⟩ có trong ngươi El lạ, và ngươi chẳng cúi lạy trước El ngoại bang.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "chẳng"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨is⟩ có"
+    },
+    {
+      "surface": "בך",
+      "gloss": "trong ngươi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "זר",
+      "gloss": "lạ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và chẳng"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "ngươi cúi lạy"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "trước El"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ngoại bang"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:14.400192636Z",
+  "model": "glm-5.3"
+}

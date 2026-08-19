@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Vì ⟨một⟩ chớp mắt trong cơn giận của Ngài, sự sống trong sự đẹp lòng của Ngài; buổi tối khóc đọng lại, nhưng buổi sáng có tiếng reo vui.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "chớp mắt (một khoảnh khắc)"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "trong cơn giận của Ngài"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "sự sống"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "trong sự đẹp lòng của Ngài"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "buổi tối"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "đọng lại \/ qua đêm"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "khóc"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "nhưng buổi sáng"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "tiếng reo vui"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:01.399638107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 39,
+  "translation": "Cho người chỉ huy, cho Yedutun, một thánh thi của David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "cho người chỉ huy"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "cho Yedutun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "thánh thi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "của David"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:48.507442419Z",
+  "model": "glm-5.3"
+}

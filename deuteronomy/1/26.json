@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và các ngươi đã không bằng lòng lên, và các ngươi phản nghịch ⟨את⟩ miệng Yahweh Elohim các ngươi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "và-không"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "các-ngươi-bằng-lòng"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "để-lên"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "và-các-ngươi-phản-nghịch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miệng"
+    },
+    {
+      "surface": "פי",
+      "gloss": "miệng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-các-ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:05:12.649576881Z",
+  "model": "glm-5.3"
+}

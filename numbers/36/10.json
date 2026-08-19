@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 36,
+  "translation": "Đúng như Yahweh đã truyền lệnh cho ⟨את⟩ Moshe, thì các con gái của Tselofchad đã làm như vậy.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "đúng như"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "đã truyền lệnh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "như vậy"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "các con gái"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Tselofchad"
+    }
+  ],
+  "timestamp": "2026-08-19T03:03:56.940355732Z",
+  "model": "glm-5.3"
+}

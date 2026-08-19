@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 42,
+  "translation": "Vực sâu gọi đến vực sâu, theo tiếng thác nước của Ngài; mọi sóng lớn của Ngài và các đợt sóng của Ngài đã tràn qua thân ta.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "vực sâu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "vực sâu"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "gọi"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "theo tiếng"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "thác nước của Ngài"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "sóng lớn của Ngài"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "và các đợt sóng của Ngài"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "trên ta"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "đã tràn qua"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:16.666057771Z",
+  "model": "glm-5.3"
+}

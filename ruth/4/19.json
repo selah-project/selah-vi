@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ruth 4:19",
+  "book": "ruth",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và Chetsron sinh ⟨את⟩ Ram, và Ram sinh ⟨את⟩ Amminadav.",
+  "tokens": [
+    {
+      "surface": "וחצרון",
+      "gloss": "và Chetsron"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ram"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ram"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "và Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amminadav"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amminadav"
+    }
+  ],
+  "timestamp": "2026-08-19T05:29:37.699657207Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và các cây nói với cây vả: Hãy đến, ⟨את⟩ hãy làm vua trên chúng ta.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "các cây"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "với cây vả"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "hãy đến"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngươi (đại từ ngôi hai, không phải DOM)"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "hãy làm vua"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "trên chúng ta"
+    }
+  ],
+  "timestamp": "2026-08-19T03:24:29.952157634Z",
+  "model": "glm-5.3"
+}

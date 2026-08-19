@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 104,
+  "translation": "Từ sự quở trách của Ngài chúng trốn chạy; từ tiếng sấm của Ngài chúng vội vàng bỏ đi.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "sự quở trách của Ngài"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "chúng trốn chạy"
+    },
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tiếng"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "sấm của Ngài"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "chúng vội vàng bỏ đi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:19.629279033Z",
+  "model": "glm-5.3"
+}

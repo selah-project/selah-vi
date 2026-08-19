@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 147:13",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 147,
+  "translation": "Vì Ngài đã làm chắc các then của cổng ngươi, đã ban phước cho con cái ngươi giữa lòng ngươi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "đã làm chắc"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "các then của"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "cổng ngươi"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "đã ban phước"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "con cái ngươi"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "giữa lòng ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:35.388846022Z",
+  "model": "glm-5.3"
+}

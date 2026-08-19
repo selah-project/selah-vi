@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Dân chúng đáp và nói: Xin đừng cho chúng tôi lìa bỏ ⟨את⟩ Yahweh để phục sự các elohim khác.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "đáp"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân chúng"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "xin đừng cho \/ xa lạ thay"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "cho chúng tôi"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "lìa bỏ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "để phục sự"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "các elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "khác"
+    }
+  ],
+  "timestamp": "2026-08-19T03:21:52.337041174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Xa cách khỏi kẻ ác là ⟨sự⟩ cứu rỗi, vì các luật lệ Ngài chúng không tìm kiếm.",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "xa"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "khỏi kẻ ác"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "⟨sự⟩ cứu rỗi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "các luật lệ Ngài"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "chúng tìm kiếm"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:07.204459295Z",
+  "model": "glm-5.3"
+}

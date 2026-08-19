@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 13:9",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Tốt chăng, khi Ngài soi xét ⟨את⟩các ngươi? Hay như người ta chế giễu một phàm nhân, các ngươi chế giễu Ngài?",
+  "tokens": [
+    {
+      "surface": "הטוב",
+      "gloss": "tốt chăng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "khi"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "soi xét"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩các ngươi",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hay"
+    },
+    {
+      "surface": "כהתל",
+      "gloss": "như chế giễu"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "một phàm nhân"
+    },
+    {
+      "surface": "תהתלו",
+      "gloss": "các ngươi chế giễu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:22:09.997203337Z",
+  "model": "glm-5.3"
+}

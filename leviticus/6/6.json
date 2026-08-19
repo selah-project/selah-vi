@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Lửa phải cháy liên continually trên bàn thờ, không được tắt.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "lửa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "liên tục"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "phải cháy"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "được tắt"
+    }
+  ],
+  "timestamp": "2026-08-19T02:40:43.566084742Z",
+  "model": "glm-5.3"
+}

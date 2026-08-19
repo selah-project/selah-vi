@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 49,
+  "translation": "Cớ sao tôi sợ trong những ngày của điều ác, khi sự phepson của gót chân tôi vây quanh lấy tôi?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "cớ sao"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "tôi sợ"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "trong những ngày"
+    },
+    {
+      "surface": "רע",
+      "gloss": "của điều ác"
+    },
+    {
+      "surface": "עון",
+      "gloss": "sự phepson"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "gót chân tôi"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "vây quanh lấy tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:44.409799515Z",
+  "model": "glm-5.3"
+}

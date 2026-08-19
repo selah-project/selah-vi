@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 42,
+  "translation": "Nước mắt tôi đã trở nên cơm bánh cho tôi ngày lẫn đêm, khi chúng nói với tôi suốt ngày: 'Elohim của ngươi ở đâu?'",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "đã trở nên"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "nước mắt tôi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "cơm bánh"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "và đêm"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "khi nói"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "với tôi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "suốt"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ở đâu"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim của ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:09.602964664Z",
+  "model": "glm-5.3"
+}

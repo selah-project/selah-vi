@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Và các ngươi sẽ kêu cầu ⟨את⟩ Ta, sẽ đi và sẽ cầu nguyện cùng Ta, và Ta sẽ lắng nghe các ngươi.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "Và các ngươi sẽ kêu cầu"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "Ta"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "sẽ đi"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "và sẽ cầu nguyện"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cùng Ta"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "và Ta sẽ lắng nghe"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:13:54.138807653Z",
+  "model": "glm-5.3"
+}

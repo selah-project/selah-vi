@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 76,
+  "translation": "Vì cơn thịnh nộ của con người sẽ ngợi khen Ngài; phần còn lại của cơn thịnh nộ, Ngài sẽ thắt đai ⟨vào mình⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "cơn thịnh nộ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "của con người"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "sẽ ngợi khen Ngài"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "phần còn lại"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "của cơn thịnh nộ"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "Ngài sẽ thắt đai"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:12.591616356Z",
+  "model": "glm-5.3"
+}

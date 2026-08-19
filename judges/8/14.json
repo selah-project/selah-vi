@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 8:14",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Người bắt một thiếu niên trong dân Succot và hỏi nó; nó viết ra cho người ⟨את⟩ các thủ lãnh của Succot và ⟨את⟩ các trưởng lão của nó, bảy mươi bảy người.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "đã bắt"
+    },
+    {
+      "surface": "נער",
+      "gloss": "thiếu niên"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "từ dân"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Succot"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "và hỏi nó"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "và viết"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "cho người"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các thủ lãnh của Succot"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "các thủ lãnh"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Succot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "các trưởng lão của nó"
+    },
+    {
+      "surface": "זקניה",
+      "gloss": "các trưởng lão của nó"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "bảy mươi"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "và bảy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    }
+  ],
+  "timestamp": "2026-08-19T03:25:19.053381320Z",
+  "model": "glm-5.3"
+}

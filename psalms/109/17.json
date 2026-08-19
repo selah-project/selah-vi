@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 109,
+  "translation": "Và ⟨anh ta⟩ yêu điều rủa sả, thì nó đến với ⟨anh ta⟩; và không muốn phước lành, thì nó xa ⟨anh ta⟩.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "và yêu"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "điều rủa sả"
+    },
+    {
+      "surface": "ותבואהו",
+      "gloss": "thì nó đến với anh ta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "muốn"
+    },
+    {
+      "surface": "בברכה",
+      "gloss": "phước lành"
+    },
+    {
+      "surface": "ותרחק",
+      "gloss": "thì nó xa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "khỏi anh ta"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:53.768791639Z",
+  "model": "glm-5.3"
+}

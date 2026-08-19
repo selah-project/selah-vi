@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "ezekiel 20:42",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Và các ngươi sẽ biết rằng ta là Yahweh, khi ta đưa ⟨את⟩ các ngươi vào đất của Israel, vào ⟨the⟩ đất mà ta đã giơ ⟨את⟩ tay ta lên để ban nó cho tổ phụ các ngươi.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "và các ngươi sẽ biết"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהביאי",
+      "gloss": "khi ta đưa vào"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ các ngươi",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vào"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "đất của"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vào"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ đất"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ta đã giơ lên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tay ta"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tay ta"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "để ban"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ nó",
+      "marks": "nó (đất)"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "cho tổ phụ các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:36:31.600788289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Moshe giơ ⟨את⟩ tay mình lên phía các tầng trời, và có sự tối tăm dày đặc trong khắp xứ Mitsrayim suốt ba ngày.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "và giơ ra"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tay mình"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tay mình"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "các tầng trời"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "và có"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "sự tối tăm"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "dày đặc"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "trong khắp"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "xứ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ngày"
+    }
+  ],
+  "timestamp": "2026-08-19T02:30:03.325534340Z",
+  "model": "glm-5.3"
+}

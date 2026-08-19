@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 23:22",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Và khi các ngươi gặt ⟨את⟩ mùa gặt của đất mình, ngươi không sẽ tận thu mép ruộng của ngươi khi gặt, và bông rơi của mùa gặt của ngươi ngươi không sẽ nhặt; cho người nghèo và cho người khách ngươi sẽ bỏ lại ⟨את⟩ chúng; ta ⟨là⟩ Yahweh Elohim của các ngươi.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "và khi các ngươi gặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mùa gặt của đất mình"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "mùa gặt"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "đất của các ngươi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "ngươi sẽ tận thu"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "mép"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "ruộng của ngươi"
+    },
+    {
+      "surface": "בקצרך",
+      "gloss": "khi ngươi gặt"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "và bông rơi"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "mùa gặt của ngươi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "ngươi sẽ nhặt"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "cho người nghèo"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "và cho người khách"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "ngươi sẽ bỏ lại"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ chúng",
+      "marks": "mép ruộng và bông rơi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim của các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:48:05.800712891Z",
+  "model": "glm-5.3"
+}

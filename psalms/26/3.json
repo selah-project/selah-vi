@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Vì sự nhân từ của Ngài ⟨thì⟩ trước mặt mắt con, và con đã bước đi trong sự chân thật của Ngài.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sự nhân từ của Ngài"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mắt con"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "và con đã bước đi"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "trong sự chân thật của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:02.919319092Z",
+  "model": "glm-5.3"
+}

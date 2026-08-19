@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Hãy yêu ⟨את⟩ Yahweh, hết thảy các thánh nhân của Ngài; Yahweh gìn giữ người trung tín, và trả dư dật ⟨về việc⟩ kẻ làm điều ngạo mạn.",
+  "tokens": [
+    {
+      "surface": "אהבו",
+      "gloss": "hãy yêu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hết thảy"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "các thánh nhân của Ngài"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "người trung tín"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "gìn giữ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "và trả"
+    },
+    {
+      "surface": "על",
+      "gloss": "dư dật"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "⟨về việc⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kẻ làm"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "điều ngạo mạn"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:04.947132479Z",
+  "model": "glm-5.3"
+}

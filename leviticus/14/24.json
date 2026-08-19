@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 14:24",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Và thầy tế lễ sẽ lấy chiên con của lễ tội lỗi ⟨את⟩ và lôg dầu ⟨את⟩, và thầy tế lễ sẽ vẫng chúng ⟨את⟩ làm lễ vẫy trước mặt Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "và sẽ lấy"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "thầy tế lễ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiên con của lễ tội lỗi"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "chiên con"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "của lễ tội lỗi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lôg dầu"
+    },
+    {
+      "surface": "לג",
+      "gloss": "lôg"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "của dầu"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "và sẽ vẫng"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chúng (chiên con và dầu)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "thầy tế lễ"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "lễ vẫy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:44:09.938256252Z",
+  "model": "glm-5.3"
+}

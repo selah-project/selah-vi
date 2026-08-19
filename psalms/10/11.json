@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Hắn nói trong lòng mình: \"El đã quên; Ngài che giấu mặt Ngài; Ngài sẽ chẳng bao giờ thấy.\"",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "hắn nói"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "trong lòng mình"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "đã quên"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "Ngài che giấu"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mặt Ngài"
+    },
+    {
+      "surface": "בל",
+      "gloss": "chẳng bao giờ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "thấy"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "đến mãi mãi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:55:49.889869774Z",
+  "model": "glm-5.3"
+}

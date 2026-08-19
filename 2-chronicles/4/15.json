@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "⟨את⟩ cái Biển duy nhất, và ⟨את⟩ mười hai con bò bên dưới nó.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cái Biển"
+    },
+    {
+      "surface": "הים",
+      "gloss": "cái Biển"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "một"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "mười hai con bò"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "con bò"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "hai"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mươi"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "bên dưới nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:54:32.066043005Z",
+  "model": "glm-5.3"
+}

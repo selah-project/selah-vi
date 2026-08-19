@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Anh thưa: “⟨את⟩ tiếng của Ngài con đã nghe trong vườn, và con sợ, vì con trần trụi, nên con đã ẩn mình.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiếng của Ngài (קלך)"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "tiếng của anh\/ngài"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "con đã nghe"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "trong vườn"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "và con sợ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "trần trụi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "con"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "và con đã ẩn mình"
+    }
+  ],
+  "timestamp": "2026-08-19T00:46:10.902645645Z",
+  "model": "glm-5.3"
+}

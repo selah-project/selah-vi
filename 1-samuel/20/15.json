@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 20:15",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "và ngươi chớ cắt ⟨את⟩ điều nhân từ của ngươi khỏi nhà tôi đến đời đời, và cả khi Yahweh cắt đứt ⟨את⟩ kẻ thù của David, từng người, khỏi mặt đất.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "và chớ"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "ngươi hãy cắt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "điều nhân từ của ngươi"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "điều nhân từ của ngươi"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "nhà tôi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "đời đời"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "בהכרת",
+      "gloss": "khi cắt đứt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kẻ thù của David"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "kẻ thù"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "của David"
+    },
+    {
+      "surface": "איש",
+      "gloss": "từng người"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T03:35:35.172002848Z",
+  "model": "glm-5.3"
+}

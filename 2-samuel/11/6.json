@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 11:6",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "David sai đến Joab: Hãy sai ⟨את⟩ Uriyah người Hittite đến với ta. Joab bèn sai ⟨את⟩ Uriyah đến với David.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "sai đến"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến với"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "hãy sai"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "đến với ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriyah"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "người Hittite"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "bèn sai"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriyah"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến với"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-19T03:41:40.716381070Z",
+  "model": "glm-5.3"
+}

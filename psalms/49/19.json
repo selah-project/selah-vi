@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 49:19",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 49,
+  "translation": "Vì linh hồn hắn, trong đời sống hắn, tự chúc phúc; và người ta sẽ khen ngươi ⟨khi⟩ ngươi làm điều tốt cho chính mình.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "linh hồn hắn"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "trong đời sống hắn"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "tự chúc phúc"
+    },
+    {
+      "surface": "ויודך",
+      "gloss": "và người ta sẽ khen ngươi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨khi⟩"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "làm điều tốt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho chính ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:51.145734260Z",
+  "model": "glm-5.3"
+}

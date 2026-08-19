@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Ngài đã đặt niềm vui ⟨is⟩ trong lòng tôi, ⟨more⟩ từ lúc lúa mì của họ và rượu mới của họ được nhân thêm",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Ngài đã đặt"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "niềm vui"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "trong lòng tôi"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "từ lúc"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "lúa mì của họ"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "và rượu mới của họ"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "được nhân thêm"
+    }
+  ],
+  "timestamp": "2026-08-19T04:54:46.576190247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 98,
+  "translation": "⟨Người⟩ đã nhớ lòng nhân từ của ⟨người⟩ và ⟨sự⟩ trung tín của ⟨người⟩ cho nhà Yisra'el; mọi nơi tận cùng của đất đã thấy ⟨את⟩ sự cứu vớt của Elohim chúng ta.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "đã nhớ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "lòng nhân từ của ⟨người⟩"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "và sự trung tín của ⟨người⟩"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "cho nhà"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "đã thấy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "nơi tận cùng"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "của đất"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sự cứu vớt của Elohim chúng ta"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "sự cứu vớt"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "của Elohim chúng ta"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:41.679373853Z",
+  "model": "glm-5.3"
+}

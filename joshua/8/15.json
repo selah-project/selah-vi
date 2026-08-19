@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 8:15",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và Yehoshua cùng toàn thể Yisrael làm bộ bị đánh bại trước mặt họ, và chạy theo con đường đồng vắng.",
+  "tokens": [
+    {
+      "surface": "וינגעו",
+      "gloss": "làm bộ bị đánh bại"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "cùng toàn thể"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "trước mặt họ"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "và chạy"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "theo con đường"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "đồng vắng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:17:01.601032294Z",
+  "model": "glm-5.3"
+}

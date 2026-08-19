@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 72,
+  "translation": "Và người sẽ cai trị từ biển này đến biển kia, và từ sông đến các tận cùng của đất.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "và người sẽ cai trị"
+    },
+    {
+      "surface": "מים",
+      "gloss": "từ biển này"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "ים",
+      "gloss": "biển kia"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "và từ sông"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "các tận cùng"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "của đất"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:00.652145659Z",
+  "model": "glm-5.3"
+}

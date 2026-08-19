@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 58,
+  "translation": "Kẻ không nghe theo tiếng của thầy phù thủy ngâm chú, dù chú thuật khéo léo đến đâu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kẻ mà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "nghe theo"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "tiếng của"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "thầy phù thủy ngâm chú"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "trau chuốt"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "bùa chú"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "khéo léo"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:02.049001429Z",
+  "model": "glm-5.3"
+}

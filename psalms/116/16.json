@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 116,
+  "translation": "Ôi Yahweh, vì tôi ⟨là⟩ đầy tớ của Ngài; tôi ⟨là⟩ đầy tớ của Ngài, con của nữ tỳ của Ngài; Ngài đã mở các xiềng xích của tôi.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "ôi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "đầy tớ của Ngài"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "đầy tớ của Ngài"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "của nữ tỳ của Ngài"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "Ngài đã mở"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "các xiềng xích của tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:19.189217811Z",
+  "model": "glm-5.3"
+}

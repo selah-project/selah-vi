@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 138,
+  "translation": "Mọi vua của đất sẽ tạ ơn Ngài, Yahweh, vì họ đã nghe những lời của miệng Ngài.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "mọi... sẽ tạ ơn Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hết thảy"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "vua của"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "họ đã nghe"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "những lời"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "của miệng Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:03.839316213Z",
+  "model": "glm-5.3"
+}

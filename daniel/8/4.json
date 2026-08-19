@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 8:4",
+  "book": "daniel",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Tôi thấy ⟨את⟩ con cừu đực húc về phía tây, về phía bắc, và về phía nam; và mọi sinh vật không đứng nổi trước mặt nó, và không ai cứu thoát khỏi tay nó; nó làm theo ý muốn mình và trở nên vĩ đại.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "tôi thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con cừu đực"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "con cừu đực"
+    },
+    {
+      "surface": "מנגח",
+      "gloss": "húc"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "về phía tây"
+    },
+    {
+      "surface": "וצפונה",
+      "gloss": "và về phía bắc"
+    },
+    {
+      "surface": "ונגבה",
+      "gloss": "và về phía nam"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "sinh vật"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "đứng nổi"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "trước mặt nó"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "và không ai"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "cứu thoát"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "khỏi tay nó"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "nó làm"
+    },
+    {
+      "surface": "כרצנו",
+      "gloss": "theo ý muốn nó"
+    },
+    {
+      "surface": "והגדיל",
+      "gloss": "trở nên vĩ đại"
+    }
+  ],
+  "timestamp": "2026-08-19T05:38:52.667389267Z",
+  "model": "glm-5.3"
+}

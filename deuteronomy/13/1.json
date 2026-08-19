@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "⟨את⟩ mọi lời mà ta truyền dạy ⟨את⟩ các ngươi, ⟨את⟩ nó các ngươi hãy giữ gìn để làm theo; đừng thêm gì lên nó, và đừng bớt gì khỏi nó.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi lời"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lời"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "truyền dạy"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ các ngươi",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nó",
+      "marks": "nó"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "các ngươi hãy giữ gìn"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "để làm theo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "thêm"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lên nó"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và đừng"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "bớt"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "khỏi nó"
+    }
+  ],
+  "timestamp": "2026-08-19T03:08:40.942802727Z",
+  "model": "glm-5.3"
+}

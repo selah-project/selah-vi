@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 36,
+  "translation": "Và Oholibamah đã sinh ⟨את⟩ Yeush, và ⟨את⟩ Yalam, và ⟨את⟩ Korach. Đây là các con trai của Esav, những người đã sinh ra cho người trong đất Kenaan.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "và Oholibamah"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "đã sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeush"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeush"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Yalam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Yalam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Korach"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "đây là"
+    },
+    {
+      "surface": "בני",
+      "gloss": "các con trai"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "của Esav"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "đã được sinh ra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho người"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trong đất"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-19T01:22:26.552150869Z",
+  "model": "glm-5.3"
+}

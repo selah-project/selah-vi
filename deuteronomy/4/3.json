@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 4:3",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Mắt các ngươi ⟨đã⟩ thấy ⟨את⟩ điều mà Yahweh đã làm tại Baal-Peor, vì mọi người theo Baal-Peor, Yahweh Elohim ngươi đã hủy diệt họ khỏi giữa ngươi.",
+  "tokens": [
+    {
+      "surface": "עיניכם",
+      "gloss": "mắt các ngươi"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "⟨đã⟩ thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "điều"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "tại Baal-"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "người"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "đi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "theo"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal-"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "đã hủy diệt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ngươi"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "khỏi giữa ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:05:25.394899247Z",
+  "model": "glm-5.3"
+}

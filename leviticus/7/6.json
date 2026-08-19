@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 7:6",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Mọi người nam trong các thầy tế lễ sẽ ăn nó; tại nơi thánh nó sẽ được ăn; nó là thánh của các thánh.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "người nam"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "trong các thầy tế lễ"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "sẽ ăn nó"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "tại nơi"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "thánh"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "sẽ được ăn"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "thánh"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "các thánh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó là"
+    }
+  ],
+  "timestamp": "2026-08-19T02:40:41.609455792Z",
+  "model": "glm-5.3"
+}

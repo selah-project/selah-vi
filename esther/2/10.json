@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Esther không tỏ ra ⟨את⟩ dân mình và ⟨את⟩ dòng giống mình, vì Mordechai đã truyền lệnh cho nàng rằng đừng tỏ ra.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "tỏ ra"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esther"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân mình"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "dân mình"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dòng giống mình"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "dòng giống mình"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "truyền lệnh"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "cho nàng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "tỏ ra"
+    }
+  ],
+  "timestamp": "2026-08-19T05:34:49.450359997Z",
+  "model": "glm-5.3"
+}

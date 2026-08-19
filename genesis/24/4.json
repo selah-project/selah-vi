@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "nhưng ngươi sẽ đi đến đất của ta và đến họ hàng của ta, và sẽ lấy vợ cho con ta, cho Yitschak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nhưng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "đất của ta"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và đến"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "họ hàng của ta"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ngươi sẽ đi"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "và sẽ lấy"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "vợ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "cho con ta"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "cho Yitschak"
+    }
+  ],
+  "timestamp": "2026-08-19T01:05:34.320444014Z",
+  "model": "glm-5.3"
+}

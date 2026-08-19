@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 34:33",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 34,
+  "translation": "Và Moshe kết thúc việc phán bảo ⟨את⟩ chúng, rồi ông đắp lên mặt mình tấm màn che.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "và kết thúc"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "việc phán bảo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chúng"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "rồi đắp lên"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mặt mình"
+    },
+    {
+      "surface": "מסוה",
+      "gloss": "tấm màn che"
+    }
+  ],
+  "timestamp": "2026-08-19T02:37:15.528617852Z",
+  "model": "glm-5.3"
+}

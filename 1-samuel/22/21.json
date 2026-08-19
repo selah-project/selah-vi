@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Và Evjathar cho Dawid biết rằng Shaun đã giết ⟨את⟩ các thầy tế lễ của Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "cho biết"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evjathar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "cho Dawid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "đã giết"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các thầy tế lễ"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "các thầy tế lễ"
+    },
+    {
+      "surface": "יהוָה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T06:08:20.899812819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 1:11",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Nếu chúng nói: 'Hãy đến ⟨את⟩ với chúng ta, ta sẽ mai phục để đổ máu, ta sẽ nấp rình kẻ vô tội một cách vô cớ,'",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Nếu"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "chúng nói"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Hãy đến"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ với chúng ta",
+      "marks": "với chúng ta"
+    },
+    {
+      "surface": "נארבה",
+      "gloss": "ta sẽ mai phục"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "để đổ máu"
+    },
+    {
+      "surface": "נצפנה",
+      "gloss": "ta sẽ nấp rình"
+    },
+    {
+      "surface": "לנקי",
+      "gloss": "kẻ vô tội"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "một cách vô cớ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:52.310871283Z",
+  "model": "glm-5.3"
+}

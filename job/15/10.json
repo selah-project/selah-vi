@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 15:10",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Cả kẻ tóc bạc lẫn kẻ già nua đều ở cùng chúng ta — lớn hơn cha ngươi về ngày tháng.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "cả"
+    },
+    {
+      "surface": "שב",
+      "gloss": "tóc bạc"
+    },
+    {
+      "surface": "גם",
+      "gloss": "lẫn"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "kẻ già nua"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ở cùng chúng ta"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "lớn hơn"
+    },
+    {
+      "surface": "מאביך",
+      "gloss": "hơn cha ngươi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "về ngày tháng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:22:58.266884586Z",
+  "model": "glm-5.3"
+}

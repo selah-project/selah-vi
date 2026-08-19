@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Hãy tin cậy nơi Yahweh đến muôn đời, vì trong Yah, Yahweh, là Đá tảng muôn thuở.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "hãy tin cậy"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "nơi Yahweh"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "đến"
+    },
+    {
+      "surface": "עד",
+      "gloss": "muôn đời"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "trong Yah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Đá tảng"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "muôn thuở"
+    }
+  ],
+  "timestamp": "2026-08-19T04:08:01.383174760Z",
+  "model": "glm-5.3"
+}

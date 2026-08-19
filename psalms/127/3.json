@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 127,
+  "translation": "Nầy, cơ nghiệp của Yahweh ⟨là⟩ con cái; phần thưởng ⟨là⟩ trái của bụng mẹ.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "nầy"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "cơ nghiệp"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "phần thưởng"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "trái"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "của bụng mẹ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:56.160933780Z",
+  "model": "glm-5.3"
+}

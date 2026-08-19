@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Và Yahweh đã sai ⟨את⟩ Natan đến với David; ông đến với người và nói với người: Hai người đàn ông có trong một thành phố, một kẻ giàu và một kẻ nghèo.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "và đã sai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến với"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "và ông đến"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "đến với người"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "לו",
+      "gloss": "với người"
+    },
+    {
+      "surface": "שני",
+      "gloss": "hai"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "người đàn ông"
+    },
+    {
+      "surface": "היו",
+      "gloss": "có (tồn tại)"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "trong một thành phố"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "một"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "một kẻ"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "giàu"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "và một kẻ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "nghèo"
+    }
+  ],
+  "timestamp": "2026-08-19T03:42:02.860041783Z",
+  "model": "glm-5.3"
+}

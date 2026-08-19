@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Và Yaakov vâng lời cha ⟨mình⟩ và mẹ ⟨mình⟩, và đi đến Padan-Aram.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "và vâng lời"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "cha ⟨mình⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và đến"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mẹ ⟨mình⟩"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "và đi"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-19T01:12:52.027393249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Và Achav báo cho Izevel ⟨את⟩ mọi điều mà Eliyahu đã làm, và ⟨את⟩ mọi điều ngài đã giết — ⟨את⟩ tất cả các tiên tri — bằng gươm.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "và báo"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "cho Izevel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi điều"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi điều"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "mọi điều"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi điều"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "đã giết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả các tiên tri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "các tiên tri"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "bằng gươm"
+    }
+  ],
+  "timestamp": "2026-08-19T03:54:40.030772830Z",
+  "model": "glm-5.3"
+}

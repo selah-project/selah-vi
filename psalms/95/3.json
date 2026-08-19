@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 95,
+  "translation": "Vì El vĩ đại ⟨là⟩ Yahweh, và Vua vĩ đại trên mọi elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "vĩ đại"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "và Vua"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "vĩ đại"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:23.507548186Z",
+  "model": "glm-5.3"
+}

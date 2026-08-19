@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Phải chi các con đường tôi ⟨được⟩ vững chắc để giữ các luật lệ Ngài.",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "phải chi"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "⟨được⟩ vững chắc"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "các con đường tôi"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "để giữ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "các luật lệ Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:27.497893537Z",
+  "model": "glm-5.3"
+}

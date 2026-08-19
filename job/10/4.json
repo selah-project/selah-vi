@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Ngài có mắt bằng xương thịt sao? Hay Ngài nhìn như con người trần nhìn?",
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "mắt"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "xương thịt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ngài có"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hay"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "như nhìn của"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "con người trần"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "Ngài nhìn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:22:42.735319596Z",
+  "model": "glm-5.3"
+}

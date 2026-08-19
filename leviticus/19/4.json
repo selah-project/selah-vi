@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Đừng quay về ⟨với⟩ các thần tượng, và chớ làm cho mình các thần bằng tượng đúc; ta ⟨là⟩ Yahweh Elohim của các ngươi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "quay về"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "các thần tượng"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "và các thần"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "bằng tượng đúc"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "làm"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho mình"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim của các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:45:36.868100660Z",
+  "model": "glm-5.3"
+}

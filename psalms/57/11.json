@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 57,
+  "translation": "Vì sự nhân từ của Ngài lớn lao đến tận các tầng trời, và sự thành thật của Ngài đến tận các tầng mây.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "lớn lao"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến tận"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "các tầng trời"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sự nhân từ của Ngài"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "và đến tận"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "các tầng mây"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "sự thành thật của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:48.687857165Z",
+  "model": "glm-5.3"
+}

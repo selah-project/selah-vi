@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 4:16",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và ông nói: Vào kỳ định này, theo thời sự sống, ngươi sẽ ôm một con trai. Và nàng nói: Xin đừng, thưa chúa tôi, người của Elohim, xin đừng dối tớ nữ của ngươi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và ông nói"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "vào kỳ định"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "theo thời"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "sống"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "חבקת",
+      "gloss": "sẽ ôm"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "và nàng nói"
+    },
+    {
+      "surface": "אל",
+      "gloss": "xin đừng"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "chúa tôi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "của Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "xin đừng"
+    },
+    {
+      "surface": "תכזב",
+      "gloss": "dối"
+    },
+    {
+      "surface": "בשפחתך",
+      "gloss": "tớ nữ của ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:56:43.052162071Z",
+  "model": "glm-5.3"
+}

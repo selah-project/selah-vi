@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và Yahweh nghe ⟨את⟩ tiếng của lời các ngươi, và Ngài nổi giận, và Ngài thề, phán rằng:",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "và Ngài nghe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiếng"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tiếng"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "của lời các ngươi"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "và Ngài nổi giận"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "và Ngài thề"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "phán rằng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:04:41.850545452Z",
+  "model": "glm-5.3"
+}

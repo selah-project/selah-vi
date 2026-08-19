@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 83,
+  "translation": "Vì nè, kẻ thù nghịch ngươi gầm gừ, và kẻ ghét ngươi đã ngẩng đầu lên.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "nè"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "kẻ thù nghịch ngươi"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "gầm gừ"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "và kẻ ghét ngươi"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "đã ngẩng lên"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "đầu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:38.686996973Z",
+  "model": "glm-5.3"
+}

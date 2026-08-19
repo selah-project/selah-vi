@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 56:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 56,
+  "translation": "Chúng nó lảng vảng ẩn nấp, chính chúng rình gót chân tôi, như thể chúng đợi chờ ⟨linh hồn⟩ tôi.",
+  "tokens": [
+    {
+      "surface": "יגורו",
+      "gloss": "chúng lảng vảng"
+    },
+    {
+      "surface": "יצפינו",
+      "gloss": "chúng ẩn nấp"
+    },
+    {
+      "surface": "המה",
+      "gloss": "chính chúng"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "gót chân tôi"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "chúng rình"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như thể"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "chúng đợi chờ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨linh hồn⟩ tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:50.960017003Z",
+  "model": "glm-5.3"
+}

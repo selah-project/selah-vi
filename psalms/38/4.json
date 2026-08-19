@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 38,
+  "translation": "Không có ⟨sự⟩ lành mạnh trong thịt con, vì cơn phẫn nộ của Ngài; không có sự bình an trong xương con, vì tội lỗi của con.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "sự lành mạnh"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "trong thịt con"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vì"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "cơn phẫn nộ của Ngài"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sự bình an"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "trong xương con"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vì"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "tội lỗi của con"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:35.741404703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Tôi đã làm cho lớn các việc của mình; tôi đã xây cho mình nhà cửa, tôi đã trồng cho mình vườn nho.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "tôi đã làm cho lớn"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "các việc của mình"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "tôi đã xây"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho mình"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "nhà cửa"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "tôi đã trồng"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho mình"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "vườn nho"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:41.081515340Z",
+  "model": "glm-5.3"
+}

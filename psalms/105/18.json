@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 105:18",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 105,
+  "translation": "Chân người bị hành hạ bằng xiềng xích, sắt đã đi vào tâm hồn ⟨của⟩ người.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "đã hành hạ"
+    },
+    {
+      "surface": "בכבל",
+      "gloss": "bằng xiềng xích"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "chân của người"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "sắt"
+    },
+    {
+      "surface": "באה",
+      "gloss": "đã đi vào"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "tâm hồn của người"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:46.187572081Z",
+  "model": "glm-5.3"
+}

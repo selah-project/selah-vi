@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 98,
+  "translation": "Yahweh đã cho biết ⟨sự⟩ cứu vớt của ⟨người⟩; trước mắt các dân tộc ⟨người⟩ đã phơi bày ⟨sự⟩ công chính của ⟨người⟩.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "đã cho biết"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "sự cứu vớt của ⟨người⟩"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "trước mắt"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "các dân tộc"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "đã phơi bày"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "sự công chính của ⟨người⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:41.679192799Z",
+  "model": "glm-5.3"
+}

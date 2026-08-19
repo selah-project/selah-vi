@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 25:28",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Và Yitschak yêu ⟨את⟩ Esav, vì món săn ⟨is⟩ trong miệng ông; còn Rivkah yêu ⟨את⟩ Yaakov.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "và yêu"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "món săn"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "trong miệng ông"
+    },
+    {
+      "surface": "ורבקה",
+      "gloss": "còn Rivkah"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "yêu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-19T01:09:07.515304218Z",
+  "model": "glm-5.3"
+}

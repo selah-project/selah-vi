@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Còn Ngài ⟨là⟩ Đấng Thánh, ngự trên những lời ca ngợi của Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "còn Ngài"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Đấng Thánh"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ngự"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "trên những lời ca ngợi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "của Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:09.440479662Z",
+  "model": "glm-5.3"
+}

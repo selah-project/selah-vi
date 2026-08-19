@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 58:7",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 58,
+  "translation": "Há không phải chia bánh của ngươi cho kẻ đói, và đưa những người nghèo bị đuổi xua vào nhà? Khi ngươi thấy kẻ trần trụi, ngươi che cho hắn, và đối với thịt da ngươi, ngươi đừng giấu mặt?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "há không"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "chia"
+    },
+    {
+      "surface": "לרעב",
+      "gloss": "cho kẻ đói"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "bánh của ngươi"
+    },
+    {
+      "surface": "ועניים",
+      "gloss": "và những người nghèo"
+    },
+    {
+      "surface": "מרודים",
+      "gloss": "bị đuổi xua"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "ngươi đưa vào"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "כי",
+      "gloss": "khi"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ngươi thấy"
+    },
+    {
+      "surface": "ערם",
+      "gloss": "kẻ trần trụi"
+    },
+    {
+      "surface": "וכסיתו",
+      "gloss": "và ngươi che cho hắn"
+    },
+    {
+      "surface": "ומבשרך",
+      "gloss": "và đối với thịt da ngươi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תתעלם",
+      "gloss": "ngươi giấu mặt"
+    }
+  ],
+  "timestamp": "2026-08-19T04:16:03.530933387Z",
+  "model": "glm-5.3"
+}

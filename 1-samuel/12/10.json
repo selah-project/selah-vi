@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 12:10",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Và họ kêu cầu cùng Yahweh và nói: Chúng tôi đã phạm tội, vì chúng tôi đã lìa bỏ ⟨את⟩ Yahweh và đã phục vụ ⟨את⟩ các Baalim và ⟨את⟩ các Ashtarot; bây giờ xin giải cứu chúng tôi khỏi tay kẻ thù của chúng tôi, và chúng tôi sẽ phục vụ Ngài.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "và họ đã kêu cầu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cùng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và họ nói"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "chúng tôi đã phạm tội"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "chúng tôi đã lìa bỏ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "và chúng tôi đã phục vụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các Baalim"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "các Baalim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các Ashtarot"
+    },
+    {
+      "surface": "העשתרות",
+      "gloss": "các Ashtarot"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "và bây giờ"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "xin Ngài giải cứu chúng tôi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "khỏi tay"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "kẻ thù của chúng tôi"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "và chúng tôi sẽ phục vụ Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T03:32:30.123162629Z",
+  "model": "glm-5.3"
+}

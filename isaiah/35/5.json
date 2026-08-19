@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 35,
+  "translation": "Bấy giờ mắt ⟨của⟩ người mù sẽ được mở ra, và tai ⟨của⟩ người điếc sẽ được khui mở.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "bấy giờ"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "sẽ được mở ra"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mắt"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "người mù"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "và tai"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "người điếc"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "sẽ được khui mở"
+    }
+  ],
+  "timestamp": "2026-08-19T04:10:40.805276308Z",
+  "model": "glm-5.3"
+}

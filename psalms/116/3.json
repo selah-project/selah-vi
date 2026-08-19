@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 116,
+  "translation": "Những sợi dây của sự chết đã vây quanh tôi, và những bó chặt của Sheol đã tìm thấy tôi; gian nan và đau buồn tôi gặp.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "đã vây quanh tôi"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "những dây của"
+    },
+    {
+      "surface": "מות",
+      "gloss": "sự chết"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "và những bó chặt của"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "đã tìm thấy tôi"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "gian nan"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "và đau buồn"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "tôi gặp"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:28.527944147Z",
+  "model": "glm-5.3"
+}

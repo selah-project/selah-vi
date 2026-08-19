@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Vì cũng nhiều lần lòng ngươi ⟨đã⟩ biết rằng chính ngươi cũng ⟨את⟩ đã nguyền rủa kẻ khác.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cũng"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "lần"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "nhiều"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "⟨đã⟩ biết"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "lòng ngươi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cũng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đã nguyền rủa (kẻ khác)"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "ngươi đã nguyền rủa"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "kẻ khác"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:18.376645970Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezra 10:13",
+  "book": "ezra",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Song dân ⟨là⟩ đông, và ⟨là⟩ mùa mưa, và không có sức lực để đứng ngoài trời, và công việc này không ⟨phải⟩ cho một ngày hay cho hai ngày, vì chúng tôi đã lắm lần phạm lỗi trong việc này.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "song"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "רב",
+      "gloss": "đông"
+    },
+    {
+      "surface": "והעת",
+      "gloss": "và ⟨là⟩ mùa"
+    },
+    {
+      "surface": "גשמים",
+      "gloss": "mưa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "và không có"
+    },
+    {
+      "surface": "כח",
+      "gloss": "sức lực"
+    },
+    {
+      "surface": "לעמוד",
+      "gloss": "để đứng"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ở ngoài"
+    },
+    {
+      "surface": "והמלאכה",
+      "gloss": "và công việc"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "cho một ngày"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "một"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "cho hai ngày"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "הרבינו",
+      "gloss": "chúng tôi đã lắm lần"
+    },
+    {
+      "surface": "לפשע",
+      "gloss": "phạm lỗi"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "trong việc"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    }
+  ],
+  "timestamp": "2026-08-19T05:42:36.014985768Z",
+  "model": "glm-5.3"
+}

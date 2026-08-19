@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 5:4",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Ba mươi tuổi, David, khi bắt đầu làm vua; bốn mươi năm ⟨người⟩ trị vì.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "con-traibal-tuổi"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ba mươi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "năm"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "khi-làm-vua"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "bốn mươi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "năm"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "đã-trị-vì"
+    }
+  ],
+  "timestamp": "2026-08-19T03:39:51.602348010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 4:3",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Ngài nói: Hãy đi, hãy xin cho ngươi những đồ đạc từ bên ngoài, ⟨את⟩ từ mọi láng giềng của ngươi — những đồ đạc trống rỗng; đừng xin ít.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và ngài nói"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "hãy đi"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "hãy xin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngươi"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "những đồ đạc"
+    },
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "bên ngoài"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ từ",
+      "marks": "mọi láng giềng của ngươi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "שכנכי",
+      "gloss": "láng giềng của ngươi"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "đồ đạc"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "trống rỗng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תמעיטי",
+      "gloss": "xin ít"
+    }
+  ],
+  "timestamp": "2026-08-19T03:57:03.024184219Z",
+  "model": "glm-5.3"
+}

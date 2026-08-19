@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 66,
+  "translation": "Cho đấng chỉ huy phía dàn nhạc. Một bài hát, một thánh thi. Hãy reo hò lên cho Elohim, cả toàn thể đất.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "cho đấng chỉ huy phía dàn nhạc"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "bài hát"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "thánh thi"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "hãy reo hò lên"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "cho Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cả toàn thể"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨cái⟩ đất"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:28.850501049Z",
+  "model": "glm-5.3"
+}

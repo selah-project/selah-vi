@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 17:10",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Tôi ⟨là⟩ Yahweh, thấu xét ⟨את⟩ lòng, thử thách ⟨את⟩ trái thận, và ban cho mỗi người theo đường lối mình, theo trái của việc làm mình.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Tôi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "thấu xét"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lòng"
+    },
+    {
+      "surface": "לב",
+      "gloss": "lòng"
+    },
+    {
+      "surface": "בחן",
+      "gloss": "thử thách"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trái thận"
+    },
+    {
+      "surface": "כליות",
+      "gloss": "trái thận"
+    },
+    {
+      "surface": "ולתת",
+      "gloss": "và để ban"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "cho mỗi người"
+    },
+    {
+      "surface": "כדרכו",
+      "gloss": "theo đường lối mình"
+    },
+    {
+      "surface": "כפרי",
+      "gloss": "theo trái"
+    },
+    {
+      "surface": "מעלליו",
+      "gloss": "của việc làm mình"
+    }
+  ],
+  "timestamp": "2026-08-19T04:20:44.326069300Z",
+  "model": "glm-5.3"
+}

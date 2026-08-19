@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 89,
+  "translation": "Chính Ngài cai trị sự kiêu ngạo của biển; khi sóng của nó dâng lên, chính Ngài làm chúng yên lặng.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "chính Ngài"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "cai trị"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "sự kiêu ngạo của"
+    },
+    {
+      "surface": "הים",
+      "gloss": "biển"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "khi dâng lên"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "sóng của nó"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "chính Ngài"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "làm chúng yên lặng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:29.231723708Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 15:12",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Và đồ gốm mà người bị chứng xuất huyết chạm vào thì phải đập vỡ; còn mọi đồ gỗ thì phải rửa trong nước.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "và đồ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "gốm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "chạm vào"
+    },
+    {
+      "surface": "בו",
+      "gloss": "vào đó"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "người bị chứng xuất huyết"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "phải đập vỡ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "còn mọi"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "đồ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "gỗ"
+    },
+    {
+      "surface": "ישטף",
+      "gloss": "phải rửa"
+    },
+    {
+      "surface": "במים",
+      "gloss": "trong nước"
+    }
+  ],
+  "timestamp": "2026-08-19T02:44:31.440022588Z",
+  "model": "glm-5.3"
+}

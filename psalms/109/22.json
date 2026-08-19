@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 109,
+  "translation": "Vì tôi ⟨là⟩ kẻ nghèo khó và thiếu thốn, và lòng tôi bị thương trong tôi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nghèo khó"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "và thiếu thốn"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "và lòng tôi"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "bị thương"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "trong tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:37.592167925Z",
+  "model": "glm-5.3"
+}

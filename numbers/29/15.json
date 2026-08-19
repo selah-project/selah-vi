@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Và một phần mười ê-pha cho một con chiên con, cho mười bốn con chiên con.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "và một phần mười"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "phần mười"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "cho con chiên con"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "cái một"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "cho bốn"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mười"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "con chiên con"
+    }
+  ],
+  "timestamp": "2026-08-19T03:01:16.814273532Z",
+  "model": "glm-5.3"
+}

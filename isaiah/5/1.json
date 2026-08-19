@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 5:1",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Tôi xin hát cho người yêu dấu của tôi, bài hát của người yêu tôi về vườn nho của người ấy: vườn nho đã có cho người yêu dấu tôi, trên chồi đất dầu mỡ.",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "tôi xin hát"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xin"
+    },
+    {
+      "surface": "לידידי",
+      "gloss": "cho người yêu dấu của tôi"
+    },
+    {
+      "surface": "שירת",
+      "gloss": "bài hát"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "của người yêu tôi"
+    },
+    {
+      "surface": "לכרמו",
+      "gloss": "về vườn nho của người ấy"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "vườn nho"
+    },
+    {
+      "surface": "היה",
+      "gloss": "đã có"
+    },
+    {
+      "surface": "לידידי",
+      "gloss": "cho người yêu dấu của tôi"
+    },
+    {
+      "surface": "בקרן",
+      "gloss": "trên chồi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con của"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "dầu mỡ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:05:12.162577511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 42:3",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 42,
+  "translation": "Sậy bị bẹp ⟨hắn⟩ sẽ không bẻ gãy, và bóng đèn lụi ⟨hắn⟩ sẽ không dập tắt; theo chân lý ⟨hắn⟩ sẽ đem ra sự phán xét.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "sậy"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "bị bẹp"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ישבור",
+      "gloss": "hắn sẽ bẻ gãy"
+    },
+    {
+      "surface": "ופשתה",
+      "gloss": "và sợi gai (bấc đèn)"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "lụi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יכבנה",
+      "gloss": "hắn sẽ dập tắt ⟨nó⟩"
+    },
+    {
+      "surface": "לאמת",
+      "gloss": "theo chân lý"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "hắn sẽ đem ra"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sự phán xét"
+    }
+  ],
+  "timestamp": "2026-08-19T04:12:32.442130130Z",
+  "model": "glm-5.3"
+}

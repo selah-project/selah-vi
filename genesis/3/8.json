@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 3:8",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Họ nghe ⟨את⟩ tiếng của Yahweh Elohim đi lại trong vườn theo luồng gió của ngày; và người đàn ông cùng vợ hắn trốn khỏi mặt Yahweh Elohim giữa các cây của vườn.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "họ nghe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiếng của Yahweh Elohim"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tiếng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "đi lại"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "trong vườn"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "theo luồng gió"
+    },
+    {
+      "surface": "היום",
+      "gloss": "của ngày"
+    },
+    {
+      "surface": "ויתחבא",
+      "gloss": "và trốn"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "người đàn ông"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "cùng vợ hắn"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "khỏi mặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "các cây"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "của vườn"
+    }
+  ],
+  "timestamp": "2026-08-19T00:46:35.996388064Z",
+  "model": "glm-5.3"
+}

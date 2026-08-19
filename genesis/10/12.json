@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "và ⟨את⟩ Resen, giữa Ninveh và giữa Kalach — đó ⟨là⟩ thành phố lớn.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Resen"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Resen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninveh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "và giữa"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalach"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "đó"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "thành phố"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "lớn"
+    }
+  ],
+  "timestamp": "2026-08-19T00:53:35.252380308Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 4:6",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và người Pelishtim nghe ⟨את⟩ tiếng reo hò, và nói: Tiếng reo hò lớn này ⟨là⟩ gì trong trại của người Hebrew? Và họ biết rằng hòm của Yahweh đã đến trại.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "và nghe"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "người Pelishtim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiếng reo hò"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tiếng"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "của sự reo hò"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tiếng"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "của sự reo hò"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "lớn"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "này"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "trong trại"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "của người Hebrew"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "và biết"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "hòm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "của Yahweh"
+    },
+    {
+      "surface": "בא",
+      "gloss": "đã đến"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "trại"
+    }
+  ],
+  "timestamp": "2026-08-19T03:30:35.242128268Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Và ngươi sẽ không kết hôn với chúng; con gái ngươi ngươi sẽ không gả cho con trai của nó, và con gái của nó ngươi sẽ không cưới cho con trai của ngươi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "và-không"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "ngươi-kết-hôn"
+    },
+    {
+      "surface": "בם",
+      "gloss": "với-chúng"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "con-gái-ngươi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ngươi-gả"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "cho-con-trai-của-nó"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "và-con-gái-của-nó"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ngươi-cưới"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "cho-con-trai-ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:06:31.442279007Z",
+  "model": "glm-5.3"
+}

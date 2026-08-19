@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 7:6",
+  "book": "song-of-songs",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Đầu ngươi trên ngươi như Karmel, và bờ tóc đầu ngươi như điều tím; nhà vua bị trói trong những dải tóc.",
+  "tokens": [
+    {
+      "surface": "ראשך",
+      "gloss": "đầu ngươi"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "trên ngươi"
+    },
+    {
+      "surface": "ככרמל",
+      "gloss": "như Karmel"
+    },
+    {
+      "surface": "ודלת",
+      "gloss": "và bờ tóc"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "đầu ngươi"
+    },
+    {
+      "surface": "כארגמן",
+      "gloss": "như điều tím"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "nhà vua"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "bị trói"
+    },
+    {
+      "surface": "ברהטים",
+      "gloss": "trong những dải tóc"
+    }
+  ],
+  "timestamp": "2026-08-19T05:29:05.471564228Z",
+  "model": "glm-5.3"
+}

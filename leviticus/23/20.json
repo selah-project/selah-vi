@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 23:20",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Và thầy tế lễ sẽ vẫy ⟨את⟩ chúng cùng với bánh của trái đầu mùa, làm lễ vẫy trước mặt Yahweh, cùng với hai chiên con; chúng sẽ thánh cho Yahweh, cho thầy tế lễ.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "và sẽ vẫy"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "thầy tế lễ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chúng (hai chiên con và bánh)"
+    },
+    {
+      "surface": "על",
+      "gloss": "cùng với"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bánh"
+    },
+    {
+      "surface": "הבכורים",
+      "gloss": "của trái đầu mùa"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "lễ vẫy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "cùng với"
+    },
+    {
+      "surface": "שני",
+      "gloss": "hai"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "chiên con"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "thánh"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "chúng sẽ là"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "cho Yahweh"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "cho thầy tế lễ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:46:55.957606879Z",
+  "model": "glm-5.3"
+}

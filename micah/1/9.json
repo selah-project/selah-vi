@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 1:9",
+  "book": "micah",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Vì vết thương của nó vô thuốc chữa; vì nó đã đến tận Yehudah, chạm đến cổng dân tôi, tận Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אנושה",
+      "gloss": "vô thuốc chữa"
+    },
+    {
+      "surface": "מכותיה",
+      "gloss": "vết thương của nó"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "באה",
+      "gloss": "đã đến"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tận"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "chạm đến"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tận"
+    },
+    {
+      "surface": "שער",
+      "gloss": "cổng"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "dân tôi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tận"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-19T04:48:58.741112951Z",
+  "model": "glm-5.3"
+}

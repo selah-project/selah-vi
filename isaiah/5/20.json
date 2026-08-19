@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Khốn cho những kẻ nói với điều ác 'tốt', và với điều tốt 'ác'; đặt tối tăm làm ánh sáng, và ánh sáng làm tối tăm; đặt đắng làm ngọt, và ngọt làm đắng!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "khốn cho"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "những kẻ nói"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "với điều ác"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "'tốt'"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "và với điều tốt"
+    },
+    {
+      "surface": "רע",
+      "gloss": "'ác'"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "đặt"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tối tăm"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "làm ánh sáng"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "và ánh sáng"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "làm tối tăm"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "đặt"
+    },
+    {
+      "surface": "מר",
+      "gloss": "đắng"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "làm ngọt"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "và ngọt"
+    },
+    {
+      "surface": "למר",
+      "gloss": "làm đắng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:04:36.021614115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 137,
+  "translation": "Phước thay kẻ nắm lấy và đập ⟨את⟩ các con thơ của ngươi vào tảng đá.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "phước thay"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "kẻ nắm lấy"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "và đập vỡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các con thơ của ngươi"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "các con thơ của ngươi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vào"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "tảng đá"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:53.857095664Z",
+  "model": "glm-5.3"
+}

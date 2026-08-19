@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Với Ngài, Yahweh, tôi kêu cầu, và với Adonai tôi khẩn nguyện.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "với Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "tôi kêu cầu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và với"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "tôi khẩn nguyện"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:38.093940097Z",
+  "model": "glm-5.3"
+}

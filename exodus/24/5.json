@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Và ông sai ⟨את⟩ các thanh niên của con trai Yisra'el, và họ dâng các lễ thiêu, và họ giết các con vật tế lễ shlamim cho Yahweh — các con bò tơ.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "và ông sai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các thanh niên của con trai Yisra'el"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "các thanh niên"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con trai của"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "và họ dâng lên"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "lễ thiêu"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "và họ giết tế"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "các con vật tế lễ"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "shlamim (bình an)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "cho Yahweh"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "các con bò tơ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:34:10.660754143Z",
+  "model": "glm-5.3"
+}

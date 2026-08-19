@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 4:18",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Đứa trẻ lớn lên, rồi đến một ngày, nó ra ngoài đến cùng cha mình, đến với những người gặt.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "lớn lên"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "đứa trẻ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "rồi xảy ra"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "và nó ra ngoài"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến cùng"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "cha nó"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến với"
+    },
+    {
+      "surface": "הקצרים",
+      "gloss": "những người gặt"
+    }
+  ],
+  "timestamp": "2026-08-19T03:56:55.956989702Z",
+  "model": "glm-5.3"
+}

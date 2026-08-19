@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 79,
+  "translation": "Họ đã đổ máu của họ như nước, chung quanh Yerushalayim, và không có kẻ chôn cất.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "họ đã đổ"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "máu của họ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "như nước"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "chung quanh"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "và không có"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "kẻ chôn cất"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:50.816132902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 21:20",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Và họ ra lệnh cho ⟨את⟩ con cái Binyamin rằng: Hãy đi và mai phục trong các vườn nho.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "và họ ra lệnh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con cái Binyamin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "hãy đi"
+    },
+    {
+      "surface": "וארבתם",
+      "gloss": "và hãy mai phục"
+    },
+    {
+      "surface": "בכרמים",
+      "gloss": "trong các vườn nho"
+    }
+  ],
+  "timestamp": "2026-08-19T03:28:52.666646200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 88,
+  "translation": "Trên tôi đã vượt qua cơn thịnh nộ của Ngài; những điều kinh khiếp của Ngài đã tuyệt diệt tôi.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "trên tôi"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "đã vượt qua"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "cơn thịnh nộ của Ngài"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "những điều kinh khiếp của Ngài"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "đã tuyệt diệt tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:14.434311737Z",
+  "model": "glm-5.3"
+}

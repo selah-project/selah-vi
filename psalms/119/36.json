@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Hãy nghiêng lòng tôi về ⟨phía⟩ chứng cớ của Ngài, và đừng ⟨nghiêng⟩ về ⟨phía⟩ lợi bất chính.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "hãy nghiêng"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "lòng tôi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "về"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "chứng cớ của Ngài"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và đừng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "về"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "lợi bất chính"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:56.121255195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 14:11",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Kẻ nào thuộc Yaravam chết trong thành thì chó sẽ ăn, và kẻ chết ngoài đồng thì chim trời sẽ ăn; vì Yahweh đã phán.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "kẻ chết"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "thuộc Yaravam"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "trong thành"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "sẽ ăn"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "chó"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "và kẻ chết"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ngoài đồng"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "sẽ ăn"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "chim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "trời"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "đã phán"
+    }
+  ],
+  "timestamp": "2026-08-19T03:51:17.715825383Z",
+  "model": "glm-5.3"
+}

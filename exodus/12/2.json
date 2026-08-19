@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Tháng này cho các ngươi là đầu của các tháng; nó là thứ nhất cho các ngươi, cho các tháng của năm.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "tháng"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho các ngươi"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "đầu"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "của các tháng"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "thứ nhất"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó là"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho các ngươi"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "cho các tháng"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "của năm"
+    }
+  ],
+  "timestamp": "2026-08-19T02:30:11.948664817Z",
+  "model": "glm-5.3"
+}

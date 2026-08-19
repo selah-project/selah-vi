@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 125,
+  "translation": "Yerushalayim — núi non bao quanh nó, và Yahweh bao quanh dân sự Ngài, từ bây giờ và đến đời đời.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "núi non"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "bao quanh"
+    },
+    {
+      "surface": "לה",
+      "gloss": "nó"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "và Yahweh"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "bao quanh"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "dân sự Ngài"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "từ bây giờ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "và đến"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "đời đời"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:58.139960883Z",
+  "model": "glm-5.3"
+}

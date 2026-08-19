@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 36:10",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 36,
+  "translation": "Đây là tên các con trai của Esav: Eliphaz, con của Adah, vợ của Esav; Reuel, con của Bashemat, vợ của Esav.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "đây là"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "tên"
+    },
+    {
+      "surface": "בני",
+      "gloss": "các con trai của"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Eliphaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con của"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adah"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vợ của"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con của"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bashemat"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vợ của"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    }
+  ],
+  "timestamp": "2026-08-19T01:21:45.949250794Z",
+  "model": "glm-5.3"
+}

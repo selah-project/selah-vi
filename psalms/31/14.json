@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 31:14",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Vì tôi đã nghe lời gièm pha của nhiều kẻ, kinh khiếp chung quanh; khi họ kết hợp với nhau chống lại tôi, họ mưu toan cướp lấy sinh mạng tôi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "tôi đã nghe"
+    },
+    {
+      "surface": "דבת",
+      "gloss": "lời gièm pha"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "của nhiều kẻ"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "kinh khiếp"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "chung quanh"
+    },
+    {
+      "surface": "בהוסדם",
+      "gloss": "khi họ kết hợp"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "với nhau"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "chống lại tôi"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "cướp lấy"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sinh mạng tôi"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "họ mưu toan"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:48.411849748Z",
+  "model": "glm-5.3"
+}

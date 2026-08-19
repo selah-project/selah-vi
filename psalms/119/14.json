@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 119:14",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Tôi đã vui mừng trong đường lối ⟨các⟩ chứng nghi của Ngài, như trên mọi của cải.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "trong đường lối"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "các chứng nghi của Ngài"
+    },
+    {
+      "surface": "ששתי",
+      "gloss": "tôi đã vui mừng"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "như trên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "הון",
+      "gloss": "của cải"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:23.321998625Z",
+  "model": "glm-5.3"
+}

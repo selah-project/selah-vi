@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 11:18",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "và ⟨את⟩ con cú sừng, và ⟨את⟩ con bồ nông, và ⟨את⟩ con kền kền;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con cú sừng"
+    },
+    {
+      "surface": "התנשמת",
+      "gloss": "con cú sừng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con bồ nông"
+    },
+    {
+      "surface": "הקאת",
+      "gloss": "con bồ nông"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con kền kền"
+    },
+    {
+      "surface": "הרחם",
+      "gloss": "con kền kền"
+    }
+  ],
+  "timestamp": "2026-08-19T02:42:17.683019436Z",
+  "model": "glm-5.3"
+}

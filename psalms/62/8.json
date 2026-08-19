@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 62,
+  "translation": "Trên Elohim ⟨là⟩ sự cứu rỗi của tôi và vinh quang của tôi; đá tảng sức mạnh của tôi, nơi nương náu của tôi ⟨nằm⟩ nơi Elohim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "sự cứu rỗi của tôi"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "và vinh quang của tôi"
+    },
+    {
+      "surface": "צור",
+      "gloss": "đá tảng"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "sức mạnh của tôi"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "nơi nương náu của tôi"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "nơi Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:32.906681581Z",
+  "model": "glm-5.3"
+}

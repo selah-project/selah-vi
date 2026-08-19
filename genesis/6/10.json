@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Noach sinh ba con trai: ⟨את⟩ Shem, ⟨את⟩ Cham, và ⟨את⟩ Yefet.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "và sinh"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cham"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Yefet"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yefet"
+    }
+  ],
+  "timestamp": "2026-08-19T00:50:26.751310261Z",
+  "model": "glm-5.3"
+}

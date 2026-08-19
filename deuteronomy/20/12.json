@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Nhưng nếu nó không chịu hòa với ngươi, mà làm chiến tranh với ngươi, thì ngươi hãy vây hãm nó.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "nhưng nếu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "chịu hòa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "với ngươi"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "mà nó làm"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "với ngươi"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "chiến tranh"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "thì ngươi hãy vây hãm"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "chống nó"
+    }
+  ],
+  "timestamp": "2026-08-19T03:09:43.390615336Z",
+  "model": "glm-5.3"
+}

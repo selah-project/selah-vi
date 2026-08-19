@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và Yosef chết, và mọi anh em ông, và cả dòng đời ấy.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "và chết"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "anh em ông"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và cả"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "dòng đời"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ấy"
+    }
+  ],
+  "timestamp": "2026-08-19T02:26:57.704961792Z",
+  "model": "glm-5.3"
+}

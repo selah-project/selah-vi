@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 5:21",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Chanokh sống sáu mươi lăm năm, và sinh ra ⟨את⟩ Metushelach.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "sống"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanokh"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "năm"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "và sáu mươi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "năm"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "và sinh ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metushelach"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metushelach"
+    }
+  ],
+  "timestamp": "2026-08-19T00:49:19.595071977Z",
+  "model": "glm-5.3"
+}

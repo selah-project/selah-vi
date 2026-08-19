@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 18:1",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Và có việc xảy ra — nhiều ngày trôi qua, và lời Yahweh đến với Eliyahu vào năm thứ ba, rằng: Hãy đi, tỏ mình ra với Achav, và Ta sẽ cho mưa xuống trên mặt đất.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "và-có-việc-xảy-ra"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nhiều"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "và-lời"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היה",
+      "gloss": "đã-đến"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến-với"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "vào-năm"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "thứ-ba"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hãy-đi"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "hãy-tỏ-mình-ra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến-với"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "và-Ta-sẽ-cho"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "mưa"
+    },
+    {
+      "surface": "על",
+      "gloss": "xuống-trên"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T03:53:24.609277793Z",
+  "model": "glm-5.3"
+}

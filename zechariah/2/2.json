@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và tôi nói với vị thiên sứ đang nói trong tôi: \"Những cái này là gì?\" Và ngài nói với tôi: \"Đây là những cái sừng đã tung tán ⟨את⟩ Yehudah, ⟨את⟩ Yisrael và Yerushalayim.\"",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "và tôi nói"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "vị thiên sứ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "đang nói"
+    },
+    {
+      "surface": "בי",
+      "gloss": "trong tôi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "những cái này"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và ngài nói"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "với tôi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "đây là"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "những cái sừng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "đã tung tán"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "và Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-19T04:52:33.712895984Z",
+  "model": "glm-5.3"
+}

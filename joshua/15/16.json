@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 15:16",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Và Kalev nói: Ai đánh ⟨את⟩ Kiryat-Sefer và chiếm lấy nó, thì ta sẽ ban cho người ấy ⟨את⟩ Akhsa con gái ta làm vợ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ai"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "đánh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kiryat-Sefer"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "và chiếm lấy nó"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "thì ta sẽ ban"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho người ấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akhsa"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Akhsa"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "con gái ta"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "làm vợ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:19:12.924444201Z",
+  "model": "glm-5.3"
+}

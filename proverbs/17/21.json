@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 17:21",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Kẻ sinh ra một đứa dại thì sinh ⟨cho⟩ mình nỗi sầu, và cha của đứa ngu dại sẽ không ⟨được⟩ vui mừng.",
+  "tokens": [
+    {
+      "surface": "ילד",
+      "gloss": "kẻ sinh ra"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "đứa dại"
+    },
+    {
+      "surface": "לתוגה",
+      "gloss": "thành nỗi sầu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho mình"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "vui mừng"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "cha của"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "đứa ngu dại"
+    }
+  ],
+  "timestamp": "2026-08-19T05:16:55.110792888Z",
+  "model": "glm-5.3"
+}

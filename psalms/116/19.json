@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 116:19",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 116,
+  "translation": "Trong các sân của nhà Yahweh, giữa lòng ngươi, hỡi Yerushalayim — hãy ngợi khen Yah!",
+  "tokens": [
+    {
+      "surface": "בחצרות",
+      "gloss": "trong các sân"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "giữa lòng ngươi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "hãy ngợi khen"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:49.602917613Z",
+  "model": "glm-5.3"
+}

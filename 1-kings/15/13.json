@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 15:13",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Cả מַעֲכָה (Maakhá) mẹ ông nữa — ông truất nàng khỏi vị trí gevira, vì nàng đã làm một vật ghê tởm cho Asherá; rồi Asa chặt xuống ⟨את⟩ vật ghê tởm của nàng và đốt nó trong suối Kidron.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "cả… nữa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maakhá"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakhá"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mẹ ông"
+    },
+    {
+      "surface": "ויסרה",
+      "gloss": "ông truất nàng"
+    },
+    {
+      "surface": "מגבירה",
+      "gloss": "khỏi (vị trí) gevira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "nàng đã làm"
+    },
+    {
+      "surface": "מפלצת",
+      "gloss": "vật ghê tởm"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "cho Asherá"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "rồi ông chặt xuống"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vật ghê tởm của nàng"
+    },
+    {
+      "surface": "מפלצתה",
+      "gloss": "vật ghê tởm của nàng"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "và đốt"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "trong suối"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidron"
+    }
+  ],
+  "timestamp": "2026-08-19T03:52:42.430843737Z",
+  "model": "glm-5.3"
+}

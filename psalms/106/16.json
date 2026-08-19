@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 106:16",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 106,
+  "translation": "Họ ghen ghét Moshe trong trại quân, và Aharon, người thánh của Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "Họ ghen ghét"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "với Moshe"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "trong trại quân"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "với Aharon"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "người thánh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:33.416268019Z",
+  "model": "glm-5.3"
+}

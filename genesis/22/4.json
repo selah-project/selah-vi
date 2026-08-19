@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 22:4",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Ngày thứ ba, Avraham ngước ⟨את⟩ mắt mình lên, và thấy ⟨את⟩ nơi đó từ đàng xa.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "thứ ba"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "và ngước lên"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mắt mình"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "mắt mình"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "và thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nơi đó"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "nơi"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "từ đàng xa"
+    }
+  ],
+  "timestamp": "2026-08-19T01:05:09.443230606Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Cho đốc ca. Của David. Thánh thi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "cho đốc ca"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "của David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "thánh thi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:39.053878377Z",
+  "model": "glm-5.3"
+}

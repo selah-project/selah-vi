@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 108,
+  "translation": "Hãy được tôn cao trên các tầng trời, hỡi Elohim, và vinh hiển của Ngài trên khắp ⟨cả⟩ đất!",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "hãy được tôn cao"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "các tầng trời"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "và trên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "khắp mọi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "vinh hiển của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:32.497172564Z",
+  "model": "glm-5.3"
+}

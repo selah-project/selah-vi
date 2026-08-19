@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 12:14",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "và nói với họ theo lời khuyên của các người trẻ, rằng: Cha tôi đã làm ⟨את⟩ ách của các ngươi nặng nề, còn tôi sẽ thêm trên ách các ngươi; cha tôi đã sửa các ngươi bằng roi, còn tôi sẽ sửa các ngươi bằng bò cạp.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "với họ"
+    },
+    {
+      "surface": "כעצת",
+      "gloss": "theo lời khuyên"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "các người trẻ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "cha tôi"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "đã làm nặng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ách của các ngươi"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "ách của các ngươi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "còn tôi"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "sẽ thêm"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "ách các ngươi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "cha tôi"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "đã sửa phạt"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ các ngươi",
+      "marks": "bằng roi"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "bằng roi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "còn tôi"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "sẽ sửa phạt"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ các ngươi",
+      "marks": "bằng bò cạp"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "bằng bò cạp"
+    }
+  ],
+  "timestamp": "2026-08-19T03:51:47.846170988Z",
+  "model": "glm-5.3"
+}

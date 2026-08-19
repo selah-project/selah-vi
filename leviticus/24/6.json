@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Ngươi sẽ đặt chúng ⟨את⟩ thành hai hàng, mỗi hàng sáu cái, trên bàn tinh sạch, trước mặt Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "và ngươi sẽ đặt"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ chúng",
+      "marks": "hai hàng (bánh)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "hai"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "hàng"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sáu"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "hàng"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "cái bàn"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "tinh sạch"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T06:04:41.812954505Z",
+  "model": "glm-5.3"
+}

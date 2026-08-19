@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Người đưa tin bèn đi, và đến, và kể cho David ⟨את⟩ tất cả những điều Yoav đã sai nó.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "và đi"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "người đưa tin"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "và đến"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "và kể"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "cho David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả những điều"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "những điều mà"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "đã sai nó"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    }
+  ],
+  "timestamp": "2026-08-19T03:41:25.558411168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 78,
+  "translation": "Người làm các ngày của họ kết thúc trong hư không, và các năm của họ trong kinh hoàng.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "làm kết thúc"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "trong hư không"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "các ngày của họ"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "và các năm của họ"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "trong kinh hoàng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:47.018869360Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Avraham nói với ⟨ông⟩: Hãy giữ mình, kẻo ngươi đem con tôi quay về đó.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "với ông"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "hãy giữ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mình ngươi"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kẻo"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "ngươi đem lại"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con tôi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con tôi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "về đó"
+    }
+  ],
+  "timestamp": "2026-08-19T01:06:09.727055838Z",
+  "model": "glm-5.3"
+}

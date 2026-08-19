@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 147,
+  "translation": "Yahweh hài lòng ⟨את⟩ những kẻ kính sợ Ngài, ⟨את⟩ những kẻ trông đợi ⟨vào⟩ sự nhân từ của Ngài.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "hài lòng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "những kẻ kính sợ Ngài"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "những kẻ kính sợ Ngài"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "những kẻ trông đợi"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "những kẻ trông đợi"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "⟨vào⟩ sự nhân từ của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:17.184016886Z",
+  "model": "glm-5.3"
+}

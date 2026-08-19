@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Mười cubit là chiều dài của ván, và một cubit rưỡi là bề ngang của ván duy nhất đó.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "mười"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "chiều-dài"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "của-ván"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "và-một-cubit"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "và-một-nửa"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "bề-ngang"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "của-ván"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "duy-nhất-đó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:34:49.689463945Z",
+  "model": "glm-5.3"
+}

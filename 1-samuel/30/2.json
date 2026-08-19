@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Chúng bắt làm captive ⟨את⟩ những người phụ nữ ở trong đó, từ người nhỏ đến người lớn; chúng không giết chết một ai, nhưng dẫn đi và lên đường theo đường của chúng.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "chúng bắt làm captive"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "những người phụ nữ"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "những người phụ nữ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ở trong đó"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "từ người nhỏ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "người lớn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "chúng giết chết"
+    },
+    {
+      "surface": "איש",
+      "gloss": "một ai"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "nhưng dẫn đi"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "và lên đường"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "theo đường của chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:38:17.634759336Z",
+  "model": "glm-5.3"
+}

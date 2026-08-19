@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 107,
+  "translation": "Vì họ đã phản nghịch lời của El, và deliberat khinh rẻ mưu kế của Đấng Tối Cao —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "đã phản nghịch"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "lời"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "và mưu kế"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Đấng Tối Cao"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "khinh rẻ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:56.862690214Z",
+  "model": "glm-5.3"
+}

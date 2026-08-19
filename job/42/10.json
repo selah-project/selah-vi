@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 42,
+  "translation": "Và Yahweh đã hoàn trả ⟨את⟩ sự bị lưu đày của Iyov khi ông cầu nguyện cho bạn hữu mình; và Yahweh thêm vào ⟨את⟩ tất cả những gì Iyov có, gấp đôi.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "và Yahweh"
+    },
+    {
+      "surface": "שב",
+      "gloss": "đã xoay lại \/ hoàn trả"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sự bị lưu đày"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "sự bị lưu đày"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "của Iyov"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "khi ông cầu nguyện"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "cho"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "bạn hữu mình"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "và thêm vào"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "những gì"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "của Iyov"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "gấp đôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:28:49.250286578Z",
+  "model": "glm-5.3"
+}

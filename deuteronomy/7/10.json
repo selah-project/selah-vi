@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 7:10",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "và trả báo cho kẻ ghét ngài ngay trước mặt, để hủy diệt họ; ngài không trì hoãn đối với kẻ ghét ngài — ngay trước mặt ngài sẽ trả báo lại cho hắn;",
+  "tokens": [
+    {
+      "surface": "ומשלם",
+      "gloss": "và trả báo"
+    },
+    {
+      "surface": "לשנאיו",
+      "gloss": "cho kẻ ghét ngài"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến trước"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mặt họ"
+    },
+    {
+      "surface": "להאבידו",
+      "gloss": "để hủy diệt họ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יאחר",
+      "gloss": "trì hoãn"
+    },
+    {
+      "surface": "לשנאו",
+      "gloss": "đối với kẻ ghét ngài"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến trước"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mặt ngài"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "sẽ trả báo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho hắn"
+    }
+  ],
+  "timestamp": "2026-08-19T03:06:07.347152051Z",
+  "model": "glm-5.3"
+}

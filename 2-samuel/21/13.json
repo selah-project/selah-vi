@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 21:13",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Và ⟨người⟩ đem lên từ đó ⟨את⟩ xương của Sha'ul và ⟨את⟩ xương của Yehonatan con trai người; và họ thu góp ⟨את⟩ xương của những kẻ bị treo lên.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "và-đem-lên"
+    },
+    {
+      "surface": "משם",
+      "gloss": "từ-đó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xương của Sha'ul"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "xương"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và-⟨את⟩",
+      "marks": "xương của Yehonatan"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "xương"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "con-trai-người"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "và-họ-thu-góp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xương của những kẻ bị treo"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "xương"
+    },
+    {
+      "surface": "המוקעים",
+      "gloss": "những-kẻ-bị-treo-lên"
+    }
+  ],
+  "timestamp": "2026-08-19T03:45:21.113023440Z",
+  "model": "glm-5.3"
+}

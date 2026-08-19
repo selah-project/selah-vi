@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 128,
+  "translation": "Sự lao động ⟨của⟩ tay ngươi, ngươi sẽ ăn; phước thay ngươi, và điều tốt lành cho ngươi.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "sự lao động"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "tay ngươi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quả thật"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ngươi sẽ ăn"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "phước thay ngươi"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "và điều tốt lành"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:44.761282602Z",
+  "model": "glm-5.3"
+}

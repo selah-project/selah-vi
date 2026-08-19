@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Mọi điều Yahweh đã làm cho mục đích của Ngài, và cả kẻ ác nữa, cho ngày của điều ác.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "cho mục đích của Ngài"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "và cả"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "cho ngày"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "của điều ác"
+    }
+  ],
+  "timestamp": "2026-08-19T05:17:10.169056060Z",
+  "model": "glm-5.3"
+}

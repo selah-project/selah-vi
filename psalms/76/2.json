@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 76,
+  "translation": "Tại Yehudah, Elohim ⟨được⟩ nhận biết; tại Yisrael, Danh Ngài thật lớn lao.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "được nhận biết"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "tại Yehudah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "tại Yisrael"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lớn lao"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Danh Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:20.269731839Z",
+  "model": "glm-5.3"
+}

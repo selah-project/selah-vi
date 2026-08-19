@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Và tư tế sẽ dâng lên ⟨את⟩ con sinh tế thiêu và ⟨את⟩ lễ vật bánh trên bàn thờ; và tư tế sẽ làm lễ chuộc tội cho người ấy, và người ấy sẽ được sạch.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "và sẽ dâng lên"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "tư tế"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con sinh tế thiêu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "con sinh tế thiêu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "lễ vật bánh"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "lễ vật bánh"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "trên bàn thờ"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "và làm lễ chuộc tội"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "cho người ấy"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "tư tế"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "và người ấy được sạch"
+    }
+  ],
+  "timestamp": "2026-08-19T02:43:55.421434852Z",
+  "model": "glm-5.3"
+}

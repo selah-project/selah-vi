@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và Yehoshafat nói: Có ⟨את⟩ lời của Yahweh nơi ông. Vậy vua Yisra'el, Yehoshafat và vua Edom đi xuống đến cùng ông.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "יש",
+      "gloss": "có"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "lời của Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lời"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "và đi xuống"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "đến cùng ông"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua của"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "và Yehoshafat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "và vua của"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-19T06:10:58.723695892Z",
+  "model": "glm-5.3"
+}

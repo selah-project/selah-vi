@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 20:41",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Và người vội vàng, và tháo ⟨את⟩ cái băng che khỏi mắt mình; và vua của Yisra'el nhận ra ⟨את⟩ ông, rằng ông là thuộc các tiên tri.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "vội vàng"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "và tháo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cái băng che"
+    },
+    {
+      "surface": "האפר",
+      "gloss": "cái băng che"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "mắt mình"
+    },
+    {
+      "surface": "ויכר",
+      "gloss": "và nhận ra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ông"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua của"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "מהנבאים",
+      "gloss": "thuộc các tiên tri"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ông"
+    }
+  ],
+  "timestamp": "2026-08-19T03:53:46.499263203Z",
+  "model": "glm-5.3"
+}

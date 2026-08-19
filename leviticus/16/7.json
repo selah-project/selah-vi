@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Và ông sẽ lấy ⟨את⟩ hai con dê đực và cho ⟨את⟩ chúng đứng trước mặt Yahweh, tại lối vào Trại Hội Mộ.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "và ông sẽ lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hai con dê đực"
+    },
+    {
+      "surface": "שני",
+      "gloss": "hai"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "con dê đực"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "và cho đứng"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ chúng",
+      "marks": "chúng (hai con dê)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "lối vào"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "trại"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "hội mộ"
+    }
+  ],
+  "timestamp": "2026-08-19T06:04:24.113924830Z",
+  "model": "glm-5.3"
+}

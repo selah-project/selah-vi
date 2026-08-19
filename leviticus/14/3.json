@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 14:3",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Thầy tế lễ đi ra ngoài trại quân; thầy tế lễ xem xét, và kìa, vết bệnh hủi đã lành khỏi người bị bệnh.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "đi ra"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "thầy tế lễ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ra đến"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "phía ngoài"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "trại quân"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "và xem xét"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "thầy tế lễ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "và kìa"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "đã được chữa lành"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "vết bệnh"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "của bệnh hủi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "הצרוע",
+      "gloss": "người bị bệnh hủi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:43:55.226638428Z",
+  "model": "glm-5.3"
+}

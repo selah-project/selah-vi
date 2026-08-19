@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 143,
+  "translation": "Và trong sự nhân từ Ngài, hãy cắt diệt kẻ thù con, và hủy diệt mọi kẻ áp bức linh hồn con; vì con ⟨là⟩ tôi tớ Ngài.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "và trong sự nhân từ Ngài"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "hãy cắt diệt"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "kẻ thù con"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "và hủy diệt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "kẻ thù ghét-bóp-nghẹt con"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "linh hồn con"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אני",
+      "gloss": "con"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tôi tớ Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:51.131820134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 8:3",
+  "book": "song-of-songs",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Tay trái ⟨của chàng⟩ ở dưới đầu tôi, và tay phải ⟨của chàng⟩ ôm lấy tôi.",
+  "tokens": [
+    {
+      "surface": "שְׂמֹאלוֹ",
+      "gloss": "tay trái của chàng"
+    },
+    {
+      "surface": "תַּחַת",
+      "gloss": "ở dưới"
+    },
+    {
+      "surface": "רֹאשִׁי",
+      "gloss": "đầu tôi"
+    },
+    {
+      "surface": "וִימִינוֹ",
+      "gloss": "và tay phải của chàng"
+    },
+    {
+      "surface": "תְּחַבְּקֵנִי",
+      "gloss": "ôm lấy tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:29:58.998081025Z",
+  "model": "glm-5.3"
+}

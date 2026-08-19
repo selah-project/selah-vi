@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 96,
+  "translation": "Hãy kể vinh quang của Ngài giữa các dân tộc, sự lạ lùng của Ngài giữa mọi dân chúng.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "hãy kể"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "giữa các dân tộc"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "vinh quang của Ngài"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "giữa mọi"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "dân chúng"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "sự lạ lùng của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:15.901575986Z",
+  "model": "glm-5.3"
+}

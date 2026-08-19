@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 18:25",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Vua của Yisrael nói: Hãy bắt ⟨את⟩ Mikhayhu và đưa ông về Amon, quan trưởng của thành, và về Yoash, con của vua.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "hãy bắt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikhayhu"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikhayhu"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "và đưa ông về"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "שר",
+      "gloss": "quan trưởng"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "của thành"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và đến"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "của vua"
+    }
+  ],
+  "timestamp": "2026-08-19T05:56:49.053694637Z",
+  "model": "glm-5.3"
+}

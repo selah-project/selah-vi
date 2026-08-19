@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "và ⟨את⟩ cùng các ngươi sẽ có mỗi người cho mỗi chi phái, mỗi người làm đầu nhà phụ thân của mình — chính người ấy.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "và ⟨את⟩ cùng các ngươi"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "sẽ có"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mỗi người"
+    },
+    {
+      "surface": "איש",
+      "gloss": "cho mỗi"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "chi phái"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mỗi người"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "làm đầu"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "phụ thân của mình"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chính người ấy"
+    }
+  ],
+  "timestamp": "2026-08-19T02:52:00.307435621Z",
+  "model": "glm-5.3"
+}

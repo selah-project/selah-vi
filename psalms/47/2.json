@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 47,
+  "translation": "Hết thảy các dân tộc hãy vỗ tay; hãy reo hò lên cho Elohim bằng tiếng hò reo vui mừng.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hết thảy"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "các dân tộc"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "hãy vỗ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "tay (lòng bàn tay)"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "hãy reo hò"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "cho Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "bằng tiếng"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "hò reo (vui mừng)"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:32.935352226Z",
+  "model": "glm-5.3"
+}

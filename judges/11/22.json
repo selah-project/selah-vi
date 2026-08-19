@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Họ chiếm hữu ⟨את⟩ toàn bờ cõi của người Emori, từ Arnon đến Yabok, và từ đồng vắng đến Yarden.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "họ chiếm hữu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toàn bờ cõi của người Emori"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "bờ cõi"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "của người Emori"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "từ Arnon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "Yabok"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "và từ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "đồng vắng"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-08-19T03:25:47.072026859Z",
+  "model": "glm-5.3"
+}

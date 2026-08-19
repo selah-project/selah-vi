@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 88,
+  "translation": "Yahweh, Elohim của sự cứu-cứu tôi, ngày tôi kêu-cầu, trong đêm, trước mặt Ngài.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "sự cứu-cứu tôi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "tôi kêu-cầu"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "trong đêm"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "trước mặt Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:37.728479005Z",
+  "model": "glm-5.3"
+}

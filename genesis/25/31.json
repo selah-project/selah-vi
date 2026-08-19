@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Yaakov nói: Hãy bán ngay hôm nay ⟨את⟩ quyền con trưởng nam của ngài cho tôi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "hãy bán"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ngay hôm nay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "quyền con trưởng nam của ngài"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "quyền con trưởng nam của ngài"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T01:08:50.169696026Z",
+  "model": "glm-5.3"
+}

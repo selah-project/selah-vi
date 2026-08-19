@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Họ trả lời ⟨את⟩ Yehoshua, rằng: Mọi điều ngài đã truyền cho chúng tôi, chúng tôi sẽ làm; và đến mọi nơi ngài sai chúng tôi đi, chúng tôi sẽ đi.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "và họ trả lời"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi điều"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "ngài đã truyền cho chúng tôi"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "chúng tôi sẽ làm"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và đến"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nơi mà"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "ngài sai chúng tôi"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "chúng tôi sẽ đi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:15:24.718662157Z",
+  "model": "glm-5.3"
+}

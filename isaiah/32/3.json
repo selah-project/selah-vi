@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Và mắt ⟨của⟩ những kẻ thấy sẽ không mờ đục, và tai ⟨của⟩ những kẻ nghe sẽ lắng nghe chăm chú.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "sẽ mờ đục"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mắt"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "những kẻ thấy"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "và tai"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "những kẻ nghe"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "sẽ lắng nghe chăm chú"
+    }
+  ],
+  "timestamp": "2026-08-19T06:11:59.481493731Z",
+  "model": "glm-5.3"
+}

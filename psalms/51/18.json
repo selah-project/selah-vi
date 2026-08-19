@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 51,
+  "translation": "Vì Ngài không ưa sự giết tế — ⟨nếu ưa⟩ thì con sẽ dâng; lễ thiêu Ngài không nhận.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "Ngài ưa"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sự giết tế"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "thì con sẽ dâng"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "lễ thiêu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "Ngài nhận"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:20.066324842Z",
+  "model": "glm-5.3"
+}

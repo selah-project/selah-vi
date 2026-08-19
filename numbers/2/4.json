@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và đạo binh của ông, và số được điểm của họ ⟨là⟩ bốn mươi bảy nghìn và sáu trăm.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "và đạo binh của ông"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "và số được điểm của họ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "bốn"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "và bảy mươi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "nghìn"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "và sáu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "trăm"
+    }
+  ],
+  "timestamp": "2026-08-19T02:51:59.005953374Z",
+  "model": "glm-5.3"
+}

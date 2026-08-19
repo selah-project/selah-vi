@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và Yahweh ngự xuống để xem ⟨את⟩ thành và ⟨את⟩ tháp mà con cháu của loài người đã xây.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "ngự xuống"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "để xem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thành"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "thành"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "tháp"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "tháp"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "đã xây"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cháu của"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "loài người"
+    }
+  ],
+  "timestamp": "2026-08-19T00:54:46.872056054Z",
+  "model": "glm-5.3"
+}

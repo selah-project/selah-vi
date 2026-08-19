@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 73,
+  "translation": "Nầy, những kẻ ác này, những kẻ luôn luôn yên hàn, đã thâu được ⟨sự⟩ giàu có.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "nầy"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "những... này"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "và những kẻ yên hàn"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "luôn luôn"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "đã thâu được"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "giàu có"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:36.926504998Z",
+  "model": "glm-5.3"
+}

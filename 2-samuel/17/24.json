@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 17:24",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Còn David thì đến Machanayim; còn Avshalom thì qua ⟨את⟩ sông Yarden — chính ông và mọi người Yisrael với ông.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "và David"
+    },
+    {
+      "surface": "בא",
+      "gloss": "đến"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "Machanayim"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "và Avshalom"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "qua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sông Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sông Yarden"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chính ông"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "với ông"
+    }
+  ],
+  "timestamp": "2026-08-19T03:43:46.912645221Z",
+  "model": "glm-5.3"
+}

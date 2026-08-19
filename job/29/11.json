@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 29:11",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Vì tai nghe thấy tôi thì chúc phúc cho tôi, và mắt thấy tôi thì làm chứng cho tôi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "tai"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "nghe thấy"
+    },
+    {
+      "surface": "ותאשרני",
+      "gloss": "thì chúc phúc cho tôi"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "và mắt"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "thấy"
+    },
+    {
+      "surface": "ותעידני",
+      "gloss": "thì làm chứng cho tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:25:01.209424818Z",
+  "model": "glm-5.3"
+}

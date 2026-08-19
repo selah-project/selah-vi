@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Và nếu nó bị trộm khỏi tay hắn, hắn sẽ bồi thường cho chủ nó.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "và nếu"
+    },
+    {
+      "surface": "גנוב",
+      "gloss": "bị trộm"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "thật bị trộm"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "khỏi tay hắn"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "sẽ bồi thường"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "cho chủ nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:33:27.512580401Z",
+  "model": "glm-5.3"
+}

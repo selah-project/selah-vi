@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "và Ta sẽ viết trên các bảng ⟨את⟩ các lời vốn đã ở trên các bảng đầu tiên mà ngươi đã đập vỡ, và ngươi hãy đặt chúng vào rương.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "và Ta sẽ viết"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "các bảng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các lời"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "các lời"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "היו",
+      "gloss": "vốn đã ở"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "các bảng"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "đầu tiên"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "ngươi đã đập vỡ"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "và ngươi hãy đặt chúng"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "vào rương"
+    }
+  ],
+  "timestamp": "2026-08-19T03:07:18.853085986Z",
+  "model": "glm-5.3"
+}

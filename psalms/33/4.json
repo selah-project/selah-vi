@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 33,
+  "translation": "Vì lời phán của Yahweh ⟨là⟩ ngay thẳng, và mọi việc Ngài làm ⟨được làm⟩ trong sự tín thực.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ngay thẳng"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lời phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "việc Ngài làm"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "trong sự tín thực"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:01.363735066Z",
+  "model": "glm-5.3"
+}

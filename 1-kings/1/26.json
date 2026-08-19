@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 1:26",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Còn tôi — tôi là đầy tớ của ngài, và Tsadok thầy tế lễ, và Benayahu con trai Yehoyada, và Shelley-lomo đầy tớ của ngài — thì nó không hề mời gọi.",
+  "tokens": [
+    {
+      "surface": "ולי",
+      "gloss": "và còn tôi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "đầy tớ của ngài"
+    },
+    {
+      "surface": "ולצדק",
+      "gloss": "và Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "thầy tế lễ"
+    },
+    {
+      "surface": "ולבניהו",
+      "gloss": "và Benayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "ולשלמה",
+      "gloss": "và Shlomo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "đầy tớ của ngài"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "đã mời gọi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:46:44.187214408Z",
+  "model": "glm-5.3"
+}

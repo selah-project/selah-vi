@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 101,
+  "translation": "Kẻ làm sự dối trá sẽ không ngồi giữa nhà tôi; kẻ nói lời dối trá sẽ không được vững đứng trước mắt tôi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sẽ ngồi"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "nhà tôi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kẻ làm"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "sự dối trá"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kẻ nói"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "lời dối trá"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "được vững đứng"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "trước"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mắt tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:14.018422126Z",
+  "model": "glm-5.3"
+}

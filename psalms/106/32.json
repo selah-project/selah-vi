@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 106,
+  "translation": "Và họ chọc giận Ngài tại nước Merivah, và điều ác xảy đến cho Moshe vì họ.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "và họ chọc giận"
+    },
+    {
+      "surface": "על",
+      "gloss": "tại"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nước"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Merivah"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "và điều ách xảy ra"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "cho Moshe"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "vì họ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:06.242227419Z",
+  "model": "glm-5.3"
+}

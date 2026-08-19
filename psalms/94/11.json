@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 94,
+  "translation": "Yahweh biết những suy tưởng của loài người, rằng chúng chỉ là hư không.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "biết"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "những suy tưởng"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "của loài người"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "המה",
+      "gloss": "chúng"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hư không"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:26.970221027Z",
+  "model": "glm-5.3"
+}

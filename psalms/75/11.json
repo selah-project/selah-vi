@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 75,
+  "translation": "Và mọi sừng của kẻ ác tôi sẽ chặt đi; sừng của người công chính sẽ được nhấc cao.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "sừng của"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "tôi sẽ chặt đi"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "sẽ được nhấc cao"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "sừng của"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "người công chính"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:08.731137305Z",
+  "model": "glm-5.3"
+}

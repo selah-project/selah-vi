@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Mọi người lạ thì không được ăn ⟨⟨của⟩⟩ vật thánh; khách trú của thầy tế lễ và người thuê mướn thì không được ăn vật thánh.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "זר",
+      "gloss": "người lạ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "được ăn"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "vật thánh"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "khách trú"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "thầy tế lễ"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "và người thuê mướn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "được ăn"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "vật thánh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:46:15.586331552Z",
+  "model": "glm-5.3"
+}

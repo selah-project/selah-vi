@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 19:18",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Chớ báo thù, và chớ giữ hờn ⟨את⟩ con trai của dân ngươi; hãy yêu người lân cận của ngươi như chính ngươi; ta là Yahweh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תקם",
+      "gloss": "báo thù"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và chớ"
+    },
+    {
+      "surface": "תטר",
+      "gloss": "giữ hờn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con trai của dân ngươi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con trai của"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dân ngươi"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "và hãy yêu"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "người lân cận của ngươi"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "như chính ngươi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:46:04.502026255Z",
+  "model": "glm-5.3"
+}

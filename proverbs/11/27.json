@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 11:27",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Kẻ sớm sủa tìm kiếm điều thiện ⟨thì⟩ tìm được sự đẹp lòng, còn kẻ kiếm tìm điều ác ⟨thì⟩ điều ác ấy sẽ đến với ⟨nó⟩.",
+  "tokens": [
+    {
+      "surface": "שחר",
+      "gloss": "kẻ sớm sủa (tìm kiếm)"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "điều thiện"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "sẽ tìm kiếm"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "sự đẹp lòng"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "còn kẻ kiếm tìm"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "điều ác"
+    },
+    {
+      "surface": "תבואנו",
+      "gloss": "sẽ đến với nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:16:15.730852627Z",
+  "model": "glm-5.3"
+}

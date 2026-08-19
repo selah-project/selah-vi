@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Và Moshe xây một bàn thờ, và gọi tên nó là Yahweh Nissi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "và ông xây"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "và ông gọi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "tên nó"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "Nissi (cờ hiệu của tôi)"
+    }
+  ],
+  "timestamp": "2026-08-19T02:31:53.279827476Z",
+  "model": "glm-5.3"
+}

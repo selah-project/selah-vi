@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 94,
+  "translation": "Và ⟨họ⟩ nói: Yah sẽ không thấy, và Elohim của Yaakov sẽ không hiểu biết.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "và ⟨họ⟩ nói"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "sẽ thấy"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "sẽ hiểu biết"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:28.087775614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và nó chạm lên miệng tôi và nói: Này, vật này đã chạm môi ngươi, và sự gian ác ngươi được cất bỏ, và tội lỗi ngươi được che phủ.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "Và nó chạm"
+    },
+    {
+      "surface": "על",
+      "gloss": "lên"
+    },
+    {
+      "surface": "פי",
+      "gloss": "miệng tôi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nó nói"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Này"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "đã chạm"
+    },
+    {
+      "surface": "זה",
+      "gloss": "vật này"
+    },
+    {
+      "surface": "על",
+      "gloss": "lên"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "môi ngươi"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "và được cất bỏ"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "sự gian ác ngươi"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "và tội lỗi ngươi"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "được che phủ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:04:57.434849518Z",
+  "model": "glm-5.3"
+}

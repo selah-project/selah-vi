@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 49,
+  "translation": "Cả con cháu loài người lẫn con cháu ⟨quý tộc⟩, người giàu kẻ nghèo ⟨hợp lại⟩ cùng nhau.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "cả"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cháu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "loài người"
+    },
+    {
+      "surface": "גם",
+      "gloss": "lẫn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cháu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨quý tộc⟩"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "cùng nhau"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "người giàu"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "kẻ nghèo"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:56.087781337Z",
+  "model": "glm-5.3"
+}

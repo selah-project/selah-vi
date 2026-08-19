@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 25:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Mọi nẻo đường của Yahweh ⟨là⟩ sự nhân từ và sự thành thực, dành cho những kẻ giữ giao ước của Ngài và ⟨các⟩ chứng cớ của Ngài.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "nẻo đường"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "sự nhân từ"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "và sự thành thực"
+    },
+    {
+      "surface": "לנצרי",
+      "gloss": "cho những kẻ giữ"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "giao ước của Ngài"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "và ⟨các⟩ chứng cớ của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:42.664914108Z",
+  "model": "glm-5.3"
+}

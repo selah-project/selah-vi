@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 22:5",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Nếu lửa đi ra và bắt vào bụi gai, rồi đống lúa hay lúa đang đứng hay cả cánh đồng bị thiêu rụi, kẻ đốt ⟨את⟩ vụ cháy sẽ đền bù hoàn toàn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "đi ra"
+    },
+    {
+      "surface": "אש",
+      "gloss": "lửa"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "và bắt gặp"
+    },
+    {
+      "surface": "קצים",
+      "gloss": "bụi gai"
+    },
+    {
+      "surface": "ונאכל",
+      "gloss": "và bị thiêu ăn"
+    },
+    {
+      "surface": "גדיש",
+      "gloss": "đống lúa"
+    },
+    {
+      "surface": "או",
+      "gloss": "hay"
+    },
+    {
+      "surface": "הקמה",
+      "gloss": "lúa đang đứng"
+    },
+    {
+      "surface": "או",
+      "gloss": "hay"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "cánh đồng"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "đền bù"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "sẽ đền bù"
+    },
+    {
+      "surface": "המבער",
+      "gloss": "kẻ đốt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vụ cháy"
+    },
+    {
+      "surface": "הבערה",
+      "gloss": "vụ cháy"
+    }
+  ],
+  "timestamp": "2026-08-19T02:33:57.652113505Z",
+  "model": "glm-5.3"
+}

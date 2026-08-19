@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Chúng ghê tởm ta, chúng lùi xa khỏi ta, và không kiềm giữ nước bọt trước mặt ta.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "chúng ghê tởm ta"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "chúng lùi xa"
+    },
+    {
+      "surface": "מני",
+      "gloss": "khỏi ta"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "và trước mặt ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "chúng kiềm giữ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "nước bọt"
+    }
+  ],
+  "timestamp": "2026-08-19T05:25:41.089318017Z",
+  "model": "glm-5.3"
+}

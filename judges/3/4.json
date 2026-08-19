@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và chúng ở lại để thử thách ⟨את⟩ Yisrael bằng chúng, để biết họ có vâng nghe ⟨את⟩ các điều răn của Yahweh — điều Ngài đã truyền cho ⟨את⟩ tổ phụ họ — qua tay Moshe hay không.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "và chúng ở lại"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "để thử thách"
+    },
+    {
+      "surface": "בם",
+      "gloss": "bằng chúng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "để biết"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "họ có vâng nghe... hay không"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các điều răn"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "các điều răn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "điều"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "Ngài đã truyền"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tổ phụ họ"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "tổ phụ họ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "qua tay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-19T03:22:41.202696263Z",
+  "model": "glm-5.3"
+}

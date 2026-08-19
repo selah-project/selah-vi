@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 1:18",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và Yehudah chiếm lấy ⟨את⟩ Azzah cùng ⟨את⟩ biên giới của nó, và ⟨את⟩ Ashkelon cùng ⟨את⟩ biên giới của nó, và ⟨את⟩ Ekron cùng ⟨את⟩ biên giới của nó.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "và chiếm lấy"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azzah"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "biên giới của nó"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "biên giới của nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Ashkelon"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashkelon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "biên giới của nó"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "biên giới của nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Ekron"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "biên giới của nó"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "biên giới của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T03:21:59.935922836Z",
+  "model": "glm-5.3"
+}

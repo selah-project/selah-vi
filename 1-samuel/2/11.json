@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 2:11",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Elqana đi về Ramata, đến nhà mình; còn đứa trẻ thì hầu việc ⟨את⟩ Yahweh, trước mặt ⟨את⟩ Eli vị thầy tế lễ.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "và đi"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elqana"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "về Ramata"
+    },
+    {
+      "surface": "על",
+      "gloss": "đến"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nhà mình"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "còn đứa trẻ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "thì"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "hầu việc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mặt Eli"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "vị thầy tế lễ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:29:17.925621754Z",
+  "model": "glm-5.3"
+}

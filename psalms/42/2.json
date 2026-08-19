@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 42,
+  "translation": "Như con hươu khát khao ⟨các⟩ dòng nước, vậy linh hồn tôi khát khao ⟨đến⟩ Ngài, hỡi Elohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "như con hươu"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "khát khao"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "các dòng"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vậy"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "linh hồn tôi"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "khát khao"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "đến Ngài"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:09.602557510Z",
+  "model": "glm-5.3"
+}

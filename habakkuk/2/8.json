@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "habakkuk 2:8",
+  "book": "habakkuk",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Vì ngươi đã cướp ⟨את⟩ nhiều dân tộc, mọi số còn lại của các nước sẽ cướp ⟨את⟩ ngươi, vì huyết của loài người, và vì bạo hành ⟨đối với⟩ đất, thành, và mọi cư dân trong nó.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "שלות",
+      "gloss": "đã cướp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhiều dân tộc"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "dân tộc"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nhiều"
+    },
+    {
+      "surface": "ישלוך",
+      "gloss": "sẽ cướp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngươi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "số còn lại"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "của các nước"
+    },
+    {
+      "surface": "מדמי",
+      "gloss": "vì huyết"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "của loài người"
+    },
+    {
+      "surface": "וחמס",
+      "gloss": "và vì bạo hành"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "thành"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "cư dân"
+    },
+    {
+      "surface": "בה",
+      "gloss": "trong nó"
+    }
+  ],
+  "timestamp": "2026-08-19T04:50:53.202252155Z",
+  "model": "glm-5.3"
+}

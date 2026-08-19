@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 100,
+  "translation": "Thánh thi tạ ơn. Hãy reo hò lên Yahweh, toàn thể ⟨các⟩ đất.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "thánh thi"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "tạ ơn"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "hãy reo hò"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨các⟩ đất"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:05.839526614Z",
+  "model": "glm-5.3"
+}

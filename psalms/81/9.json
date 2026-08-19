@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 81,
+  "translation": "Hãy nghe, hỡi dân Ta, và Ta sẽ cảnh cáo ngươi; hỡi Yisrael, nếu ngươi nghe Ta,",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "hãy nghe"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "dân Ta"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "và Ta sẽ cảnh cáo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ngươi nghe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Ta"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:14.400006783Z",
+  "model": "glm-5.3"
+}

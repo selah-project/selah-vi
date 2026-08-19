@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 6:6",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Người của Elohim nói: Nó rơi ở đâu? Và ông chỉ cho anh ta ⟨את⟩ chỗ đó; ông cắt một khúc gỗ, ném vào đấy, và làm cho đầu sắt nổi lên.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ở đâu"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "rơi"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "ông chỉ cho anh ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chỗ đó"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "chỗ đó"
+    },
+    {
+      "surface": "ויקצב",
+      "gloss": "ông cắt"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "khúc gỗ"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "ông ném"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "vào đấy"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "làm cho nổi lên"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "đầu sắt"
+    }
+  ],
+  "timestamp": "2026-08-19T03:56:25.224879918Z",
+  "model": "glm-5.3"
+}

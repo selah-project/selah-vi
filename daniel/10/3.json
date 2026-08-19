@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 10:3",
+  "book": "daniel",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Bánh thơm ngon tôi đã không ăn, và thịt và rượu không vào miệng tôi, và dầu thơm tôi đã không xức, cho đến khi trọn ba tuần ngày.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "bánh"
+    },
+    {
+      "surface": "חמדות",
+      "gloss": "thơm ngon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "tôi đã ăn"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "và thịt"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "và rượu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vào"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "פי",
+      "gloss": "miệng tôi"
+    },
+    {
+      "surface": "וסוך",
+      "gloss": "và dầu thơm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "סכתי",
+      "gloss": "tôi đã xức"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "khi trọn"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ba"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "tuần"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ngày"
+    }
+  ],
+  "timestamp": "2026-08-19T05:38:29.900394979Z",
+  "model": "glm-5.3"
+}

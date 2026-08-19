@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 14:20",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Ngay cả bạn thân cũng ghét người nghèo, nhưng người yêu quý kẻ giàu thì nhiều.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ngay cả"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "bạn của hắn"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "bị ghét"
+    },
+    {
+      "surface": "רש",
+      "gloss": "người nghèo"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "và những người yêu"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "kẻ giàu"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nhiều"
+    }
+  ],
+  "timestamp": "2026-08-19T05:16:27.146396338Z",
+  "model": "glm-5.3"
+}

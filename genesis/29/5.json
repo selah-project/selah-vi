@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Người nói với họ: Các ngươi có biết ⟨את⟩ Lavan con trai Nakhor không? Họ đáp: Chúng tôi biết.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "người nói"
+    },
+    {
+      "surface": "להם",
+      "gloss": "với họ"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "các ngươi có biết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lavan"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nakhor"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "họ đáp"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "chúng tôi biết"
+    }
+  ],
+  "timestamp": "2026-08-19T01:12:33.609601960Z",
+  "model": "glm-5.3"
+}

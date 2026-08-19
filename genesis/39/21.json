@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 39,
+  "translation": "Và Yahweh đã ở ⟨את⟩ cùng Yosef, và nghiêng sự nhân từ xuống trên người, và đặt ân huệ của người trong mắt quan trưởng nhà tù.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "đã ở"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ cùng",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "nghiêng xuống"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "về phía người"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "sự nhân từ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "và đặt"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "ân huệ của người"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "trong mắt"
+    },
+    {
+      "surface": "שר",
+      "gloss": "quan trưởng"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "tù"
+    }
+  ],
+  "timestamp": "2026-08-19T01:25:05.584641677Z",
+  "model": "glm-5.3"
+}

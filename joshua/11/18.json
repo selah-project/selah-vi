@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Nhiều ngày Yehoshua đã làm ⟨את⟩ tất cả các vua này chiến tranh.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nhiều"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả các vua này"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "các vua"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "này"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "chiến tranh"
+    }
+  ],
+  "timestamp": "2026-08-19T03:18:23.336816817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 35,
+  "translation": "Và Moshe tập họp ⟨את⟩ toàn thể hội chúng con cái Yisrael, và nói với họ: Đây là những lời mà Yahweh đã phán dặn để làm ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "đã tập họp"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toàn thể hội chúng con cái Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "hội chúng"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "với họ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "đây là"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "những lời"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "đã phán dặn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "để làm"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "những lời ấy"
+    }
+  ],
+  "timestamp": "2026-08-19T02:37:32.877178050Z",
+  "model": "glm-5.3"
+}

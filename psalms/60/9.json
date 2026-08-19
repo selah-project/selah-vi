@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 60,
+  "translation": "Của ta là Gilad, và của ta là Menashsheh; và Efrayim ⟨là⟩ thành luỹ của đầu ta; Yehudah ⟨là⟩ người ban luật của ta.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "của ta là"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "và của ta là"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "và Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "thành luỹ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "của đầu ta"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "người ban luật của ta"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:15.915877950Z",
+  "model": "glm-5.3"
+}

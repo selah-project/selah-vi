@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 96,
+  "translation": "Hãy hát cho Yahweh một bài hát mới, hãy hát cho Yahweh, toàn thể ⟨cả⟩ đất.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "hãy hát"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "cho Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "bài hát"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mới"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "hãy hát"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "cho Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨cả⟩ đất"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:15.901270570Z",
+  "model": "glm-5.3"
+}

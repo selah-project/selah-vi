@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 73:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 73,
+  "translation": "Chúng nhạo báng, và nói trong sự ác của đàn áp, từ nơi cao trọng chúng nói.",
+  "tokens": [
+    {
+      "surface": "ימיקו",
+      "gloss": "chúng nhạo báng"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "trong sự ác"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "đàn áp"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "từ nơi cao trọng"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "chúng nói"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:56.288539734Z",
+  "model": "glm-5.3"
+}

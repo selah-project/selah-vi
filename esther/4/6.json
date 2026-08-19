@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và HaTak đi ra đến Mordecai, đến quảng trường của thành, nơi trước cổng vua.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "và-ông-đi-ra"
+    },
+    {
+      "surface": "התך",
+      "gloss": "HaTak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordecai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "quảng-trường"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "của-thành"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nơi-mà"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước"
+    },
+    {
+      "surface": "שער",
+      "gloss": "cổng-của"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    }
+  ],
+  "timestamp": "2026-08-19T05:34:38.825480457Z",
+  "model": "glm-5.3"
+}

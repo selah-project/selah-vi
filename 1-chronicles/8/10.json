@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "và ⟨את⟩ Yeuts, và ⟨את⟩ Shakhya, và ⟨את⟩ Mirmah. Đây là các con hắn, các trưởng tộc.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Yeuts"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Yeuts"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Shakhya"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Shakhya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Mirmah"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Mirmah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "đây là"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "các con hắn"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "các trưởng"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "tộc \/ các cha"
+    }
+  ],
+  "timestamp": "2026-08-19T05:48:23.695459563Z",
+  "model": "glm-5.3"
+}

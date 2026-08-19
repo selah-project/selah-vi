@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Và Avraham đặt ⟨את⟩ bảy con cừu cái riêng ra một bên.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "và đặt"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bảy con cừu cái"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "bảy"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "con cừu cái"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "của đàn chiên"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "riêng ra một bên"
+    }
+  ],
+  "timestamp": "2026-08-19T01:02:12.327405575Z",
+  "model": "glm-5.3"
+}

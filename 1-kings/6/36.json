@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 6:36",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và ông xây ⟨את⟩ sân trong, ba hàng đá đục, và một hàng gỗ xẻ tuyết tùng.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "và xây"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sân trong"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "sân"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "trong"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "hàng"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "đá đục"
+    },
+    {
+      "surface": "וטור",
+      "gloss": "và một hàng"
+    },
+    {
+      "surface": "כרתת",
+      "gloss": "gỗ xẻ"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "tuyết tùng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:48:41.543499059Z",
+  "model": "glm-5.3"
+}

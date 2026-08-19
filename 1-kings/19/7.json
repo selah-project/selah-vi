@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 19:7",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Sứ giả của Yahweh quay lại lần thứ hai, chạm vào người và nói: Hãy đứng dậy, ăn đi, vì con đường quá lớn so với ngươi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "quay lại"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "sứ giả của"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "lần thứ hai"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "và chạm"
+    },
+    {
+      "surface": "בו",
+      "gloss": "vào người"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "קום",
+      "gloss": "hãy đứng dậy"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ăn đi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "רב",
+      "gloss": "quá lớn"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "so với ngươi"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "con đường"
+    }
+  ],
+  "timestamp": "2026-08-19T03:53:48.212263654Z",
+  "model": "glm-5.3"
+}

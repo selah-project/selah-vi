@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 6:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Nguyện tất cả kẻ thù tôi bị xấu hổ và kinh hoàng vô cùng; nguyện chúng lui lại, bị xấu hổ trong chốc lát.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "bị xấu hổ"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "và kinh hoàng"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "vô cùng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "kẻ thù tôi"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "nguyện chúng lui lại"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "bị xấu hổ"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "trong chốc lát"
+    }
+  ],
+  "timestamp": "2026-08-19T04:54:38.128580211Z",
+  "model": "glm-5.3"
+}

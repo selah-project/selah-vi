@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Và Yehoshua đã đánh bại ⟨את⟩ Amalek và ⟨את⟩ dân của ông theo lưỡi gươm.",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "và đã đánh yếu"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "dân của ông"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "dân của ông"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "theo miệng"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "gươm"
+    }
+  ],
+  "timestamp": "2026-08-19T02:31:53.279337447Z",
+  "model": "glm-5.3"
+}

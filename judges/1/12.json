@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 1:12",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Kalev nói: Kẻ nào đánh ⟨את⟩ Kiryat-Sefer và chiếm lấy nó, thì ta sẽ ban cho người ấy ⟨את⟩ Akhsa con gái ta làm vợ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kẻ nào"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "đánh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kiryat-Sefer"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "và chiếm lấy nó"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "thì ta sẽ ban"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho người ấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akhsa con gái ta"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Akhsa"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "con gái ta"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "làm vợ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:21:40.256780212Z",
+  "model": "glm-5.3"
+}

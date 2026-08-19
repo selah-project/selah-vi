@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 46:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 46,
+  "translation": "Yahweh của các đạo binh ⟨ở⟩ với chúng ta; בáo che ⟨là⟩ của chúng ta, Elohim của Yaakov. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "các đạo binh"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "với chúng ta"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "nơi trú ẩn cao"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "cho chúng ta"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:18.819194838Z",
+  "model": "glm-5.3"
+}

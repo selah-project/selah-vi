@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 105,
+  "translation": "Họ xin, và Ngài đem chim cut, và bánh của các tầng trời Ngài cho họ no đầy.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Họ xin"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "và Ngài đem"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "chim cut"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "và bánh"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "của các tầng trời"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "Ngài cho họ no đầy"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:38.582476140Z",
+  "model": "glm-5.3"
+}

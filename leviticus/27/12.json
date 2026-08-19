@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Và thầy tế lễ sẽ định giá ⟨את⟩ nó, giữa tốt và giữa xấu; theo giá định của ngươi — thầy tế lễ — thì nó sẽ như vậy.",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "và sẽ định giá"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "thầy tế lễ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nó"
+    },
+    {
+      "surface": "בין",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tốt"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "và giữa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "xấu"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "theo giá định của ngươi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "thầy tế lễ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "như vậy"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "nó sẽ là"
+    }
+  ],
+  "timestamp": "2026-08-19T02:51:36.524929111Z",
+  "model": "glm-5.3"
+}

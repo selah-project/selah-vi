@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 8:7",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và David lấy ⟨את⟩ các chiếc khiên vàng vốn ở trên người tôi tớ của Hadadezer, và mang ⟨chúng⟩ về Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "và lấy"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các chiếc khiên vàng"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "các chiếc khiên"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "vàng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vốn"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ở"
+    },
+    {
+      "surface": "אל",
+      "gloss": "trên"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "người tôi tớ của"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "và mang chúng về"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-19T03:40:25.267863301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 135,
+  "translation": "Đấng đã đánh nhiều dân tộc, và giết các vua hùng mạnh.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Đấng đã đánh"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "dân tộc"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nhiều"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "và giết"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "các vua"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "hùng mạnh"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:00.546388356Z",
+  "model": "glm-5.3"
+}

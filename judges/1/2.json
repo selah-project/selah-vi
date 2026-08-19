@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và Yahweh phán: Yehudah sẽ lên; kìa, Ta đã trao ⟨את⟩ đất vào tay hắn.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và Ngài phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "sẽ lên"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kìa"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Ta đã trao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đất"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "vào tay hắn"
+    }
+  ],
+  "timestamp": "2026-08-19T03:21:56.736849807Z",
+  "model": "glm-5.3"
+}

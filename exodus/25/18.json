@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Ngươi sẽ làm hai keruvim bằng vàng, công việc chạm đánh ⟨אתם⟩ ngươi sẽ làm, từ hai đầu của nắp xá tội.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ngươi sẽ làm"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "hai"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "keruvim"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "vàng"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "công việc chạm đánh"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ngươi sẽ làm"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "keruvim"
+    },
+    {
+      "surface": "משני",
+      "gloss": "từ hai"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "đầu"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "của nắp xá tội"
+    }
+  ],
+  "timestamp": "2026-08-19T02:34:49.490958135Z",
+  "model": "glm-5.3"
+}

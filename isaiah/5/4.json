@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 5:4",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Còn gì để làm nữa cho vườn nho tôi mà tôi đã không làm trong nó? Tại sao tôi trông đợi nó sinh nho, mà nó sinh trái độc?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "còn gì"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "để làm"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nữa"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "cho vườn nho tôi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mà không"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "tôi đã làm"
+    },
+    {
+      "surface": "בו",
+      "gloss": "trong nó"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "tại sao"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "tôi trông đợi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "để sinh"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "nho"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "mà nó sinh"
+    },
+    {
+      "surface": "באשים",
+      "gloss": "trái độc"
+    }
+  ],
+  "timestamp": "2026-08-19T04:05:12.163276548Z",
+  "model": "glm-5.3"
+}

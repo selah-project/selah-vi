@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 115,
+  "translation": "Yahweh sẽ thêm ⟨phước⟩ cho anh em, cho anh em và cho con cái anh em.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "sẽ thêm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "cho anh em"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "cho anh em"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "và cho"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "con cái anh em"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:33.440115701Z",
+  "model": "glm-5.3"
+}

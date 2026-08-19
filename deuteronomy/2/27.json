@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 2:27",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Xin cho tôi đi qua trong đất của ngươi; tôi sẽ đi trên con đường, trên con đường; tôi sẽ không lệch bên phải và bên trái.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "tôi sẽ đi qua"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "trong đất của ngươi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "trên con đường"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "trên con đường"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "tôi sẽ đi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "tôi sẽ lệch"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "bên phải"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "và bên trái"
+    }
+  ],
+  "timestamp": "2026-08-19T03:04:39.189991549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Và Elohim phán cùng Avraham: Sarai vợ ngươi — ngươi chớ gọi ⟨את⟩ tên nàng là Sarai; vì Sarah là tên nàng.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và Ngài phán"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cùng"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "vợ ngươi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ngươi gọi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tên nàng"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tên nàng"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tên nàng"
+    }
+  ],
+  "timestamp": "2026-08-19T00:58:43.399850099Z",
+  "model": "glm-5.3"
+}

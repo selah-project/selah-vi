@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "người dũng sĩ và người chiến trận, quan xét và nhà tiên tri, người bói toán và người già.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "người dũng sĩ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "và người"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "chiến trận"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "quan xét"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "và nhà tiên tri"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "và người bói toán"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "và người già"
+    }
+  ],
+  "timestamp": "2026-08-19T04:03:36.593127717Z",
+  "model": "glm-5.3"
+}

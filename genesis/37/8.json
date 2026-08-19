@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 37:8",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Và các anh em người nói với người: Ngươi có thật sự làm vua ○trên○ chúng tôi, hay thật sự cai trị ○chúng tôi○? Và họ thêm nữa○ghét ⟨את⟩○người, ○vì○ những chiêm bao của người và ○vì○ lời của người.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "và họ nói"
+    },
+    {
+      "surface": "לו",
+      "gloss": "với người"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "các anh em người"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "làm vua"
+    },
+    {
+      "surface": "תמלך",
+      "gloss": "ngươi sẽ làm vua"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "trên chúng tôi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hay"
+    },
+    {
+      "surface": "משול",
+      "gloss": "cai trị"
+    },
+    {
+      "surface": "תמשל",
+      "gloss": "ngươi sẽ cai trị"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "chúng tôi"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "và họ thêm"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nữa"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ghét"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "người"
+    },
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "חלמתיו",
+      "gloss": "những chiêm bao của người"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "và vì"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "lời của người"
+    }
+  ],
+  "timestamp": "2026-08-19T01:24:00.807039624Z",
+  "model": "glm-5.3"
+}

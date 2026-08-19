@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 42,
+  "translation": "Linh hồn tôi khát ⟨vì⟩ Elohim, ⟨vì⟩ El hằng sống; đến khi nào tôi sẽ đến và thấy mặt Elohim?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "khát"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "linh hồn tôi"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "vì Elohim"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "vì El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "hằng sống"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "đến khi nào"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "tôi sẽ đến"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "và thấy"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:09.602800734Z",
+  "model": "glm-5.3"
+}

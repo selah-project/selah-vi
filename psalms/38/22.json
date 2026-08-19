@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 38,
+  "translation": "Xin đừng lìa bỏ tôi, Yahweh Elohim của tôi; xin đừng ở xa tôi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "xin đừng"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "lìa bỏ tôi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của tôi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "xin đừng"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ở xa"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "khỏi tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:22.209626536Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 3:21",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Những kẻ chờ đợi cái chết mà nó không đến, và đào tìm nó hơn cả các báu vật chôn giấu.",
+  "tokens": [
+    {
+      "surface": "המחכים",
+      "gloss": "những kẻ chờ đợi"
+    },
+    {
+      "surface": "למות",
+      "gloss": "cái chết"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "mà nó không đến"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "và đào tìm nó"
+    },
+    {
+      "surface": "ממטמונים",
+      "gloss": "hơn các báu vật chôn giấu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:20:14.637481362Z",
+  "model": "glm-5.3"
+}

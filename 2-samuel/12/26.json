@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Và Yoav đánh trận chống Rabbat của con cái Ammon, và chiếm lấy ⟨את⟩ thành của vương quyền.",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "đánh trận"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "chống Rabbat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "và chiếm lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thành"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "thành"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "của vương quyền"
+    }
+  ],
+  "timestamp": "2026-08-19T03:41:40.292400483Z",
+  "model": "glm-5.3"
+}

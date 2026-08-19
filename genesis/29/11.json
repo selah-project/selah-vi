@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Và Yaakov hôn Rachel, rồi cất lên ⟨את⟩ tiếng mình và khóc.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "và hôn"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "rồi cất lên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiếng mình"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "tiếng mình"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "và khóc"
+    }
+  ],
+  "timestamp": "2026-08-19T01:11:27.690911875Z",
+  "model": "glm-5.3"
+}

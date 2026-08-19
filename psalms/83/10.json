@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 83,
+  "translation": "Hãy làm với chúng như với Midian, như với Sisera, như với Yavin, tại suối Kishon.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "hãy làm"
+    },
+    {
+      "surface": "להם",
+      "gloss": "với chúng"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "như với Midian"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "như với Sisera"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "như với Yavin"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "tại suối"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Kishon"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:39.937842713Z",
+  "model": "glm-5.3"
+}

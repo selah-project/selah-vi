@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 77,
+  "translation": "Tôi nhớ Elohim và rên rỉ; tôi suy gẫm, và thần khí tôi ngất đi. Selah.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "tôi nhớ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "và rên rỉ"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "tôi suy gẫm"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "và ngất đi"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "thần khí tôi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:48.513546343Z",
+  "model": "glm-5.3"
+}

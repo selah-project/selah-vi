@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Yahweh sẽ ban ⟨את⟩ mưa đất ngươi ⟨thành⟩ bụi và cát bụi; từ trời nó sẽ rơi xuống trên ngươi cho đến khi ngươi bị hủy diệt.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "sẽ ban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mưa"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "mưa"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "đất ngươi"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "bụi"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "và cát bụi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "trời"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "sẽ rơi xuống"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "trên ngươi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến khi"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "ngươi bị hủy diệt"
+    }
+  ],
+  "timestamp": "2026-08-19T03:12:36.173404477Z",
+  "model": "glm-5.3"
+}

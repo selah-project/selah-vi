@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Tôi sẽ tạ ơn Yahweh theo sự công chính của Ngài, và tôi sẽ hát xướng danh Yahweh Đấng Tối Cao.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "tôi sẽ tạ ơn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "theo sự công chính của Ngài"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "và tôi sẽ hát xướng"
+    },
+    {
+      "surface": "שם",
+      "gloss": "danh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Đấng Tối Cao"
+    }
+  ],
+  "timestamp": "2026-08-19T04:54:38.937064744Z",
+  "model": "glm-5.3"
+}

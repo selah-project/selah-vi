@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 87:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 87,
+  "translation": "Ta sẽ nhắc đến Rahav và Bavel giữa những người biết Ta; này, Phlishtia và Tzor cùng với Kush: kẻ này đã sinh ra tại đó.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "ta sẽ nhắc đến"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahav"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "và Bavel"
+    },
+    {
+      "surface": "לידעי",
+      "gloss": "cho những người biết"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "này"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Phlishtia"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "và Tzor"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cùng với"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kẻ này"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "đã sinh ra"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tại đó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:40.241198085Z",
+  "model": "glm-5.3"
+}

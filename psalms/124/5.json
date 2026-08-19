@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 124,
+  "translation": "Thì ⟨các⟩ nước kiêu ngạo đã tràn qua ⟨trên⟩ sinh mạng chúng ta.",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "bấy giờ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "đã tràn qua"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "sinh mạng chúng ta"
+    },
+    {
+      "surface": "המים",
+      "gloss": "⟨các⟩ nước"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "kiêu ngạo"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:59.400732921Z",
+  "model": "glm-5.3"
+}

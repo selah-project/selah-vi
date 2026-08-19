@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và ông dâng ⟨את⟩ lễ thiêu, và làm nó theo lệ định.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "và ông dâng gần"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lễ thiêu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "lễ thiêu"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "và làm nó"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "theo lệ định"
+    }
+  ],
+  "timestamp": "2026-08-19T02:41:56.366382517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 9:20",
+  "book": "esther",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và Mordechai ghi chép ⟨את⟩ những lời này, và gửi các thư đến toàn thể người Yehuda ở khắp các tỉnh của vua Achashverosh, kẻ gần và kẻ xa.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "và người ta ghi chép — Mordechai đã viết"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "những lời này"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "những lời"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "này"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "và người gửi"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "các thư"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "người Yehuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kẻ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ở khắp"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "các tỉnh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "của vua"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "הקרובים",
+      "gloss": "kẻ gần"
+    },
+    {
+      "surface": "והרחוקים",
+      "gloss": "và kẻ xa"
+    }
+  ],
+  "timestamp": "2026-08-19T05:36:21.508515668Z",
+  "model": "glm-5.3"
+}

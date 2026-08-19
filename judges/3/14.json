@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và con cái Yisrael làm tôi phục ⟨את⟩ Eglon vua của Moav mười tám năm.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "và làm tôi phục"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eglon"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "tám"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "mười"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "năm"
+    }
+  ],
+  "timestamp": "2026-08-19T03:22:22.062006128Z",
+  "model": "glm-5.3"
+}

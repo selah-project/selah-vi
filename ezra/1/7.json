@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 1:7",
+  "book": "ezra",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và vua Koresh đem ra ⟨את⟩ các器 vật của nhà Yahweh, những vật mà Nevukhadnetstsar đã đem ra khỏi Yerushalayim và đặt trong nhà của các thần mình.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "và vua"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Koresh"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "đem ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các器 vật của nhà Yahweh"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "các器 vật"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "đã đem ra"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevukhadnetstsar"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "khỏi Yerushalayim"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "và đặt chúng"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "trong nhà"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "các thần mình"
+    }
+  ],
+  "timestamp": "2026-08-19T05:40:41.467402540Z",
+  "model": "glm-5.3"
+}

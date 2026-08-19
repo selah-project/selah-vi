@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Và ⟨họ⟩ sẽ kinh hãi và xấu hổ vì Kush — niềm trông đợi của ⟨họ⟩ — và vì Mitsrajim — vinh quang của ⟨họ⟩.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "và sẽ kinh hãi"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "và xấu hổ"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "vì Kush"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "niềm trông đợi của họ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "và vì"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "vinh quang của họ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:07:04.336257804Z",
+  "model": "glm-5.3"
+}

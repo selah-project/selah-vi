@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Tôi đã thấy ⟨את⟩ sự nhọc nhằn mà Elohim đã ban cho con cái loài người, để họ khổ công trong đó.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "tôi đã thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sự nhọc nhằn"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "sự nhọc nhằn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "đã ban"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "cho con cái"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "loài người"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "để khổ công"
+    },
+    {
+      "surface": "בו",
+      "gloss": "trong đó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:24.989766913Z",
+  "model": "glm-5.3"
+}

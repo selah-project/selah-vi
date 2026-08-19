@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Trừ ra huyết-thân của người, là kẻ gần gũi với người: vì mẹ người, và vì cha người, và vì con trai người, và vì con gái người, và vì anh em người.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "trừ ra (nếu)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nhưng"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "vì huyết-thân của người"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "kẻ gần gũi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "với người"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "vì mẹ người"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "và vì cha người"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "và vì con trai người"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "và vì con gái người"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "và vì anh em người"
+    }
+  ],
+  "timestamp": "2026-08-19T02:46:18.466959947Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Và ⟨họ⟩ sẽ tàn phá ⟨את⟩ đất Ashshur bằng gươm, và ⟨את⟩ đất Nimrod tại các cửa của nó; và ⟨ngài⟩ sẽ giải cứu khỏi Ashshur, khi nó vào đất chúng ta, và khi nó dẫm chân trong biên giới chúng ta.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "và tàn phá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đất Ashshur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "bằng gươm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "đất Nimrod"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "tại các cửa của nó"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "và sẽ giải cứu"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "khỏi Ashshur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "khi"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "nó vào"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "trong đất chúng ta"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "và khi"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "nó dẫm chân"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "trong biên giới chúng ta"
+    }
+  ],
+  "timestamp": "2026-08-19T04:49:13.116613255Z",
+  "model": "glm-5.3"
+}

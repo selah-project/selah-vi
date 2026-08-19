@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 25:40",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Như kẻ làm thuê, như khách trú, hắn sẽ ở với ngươi; đến năm haYovel hắn sẽ làm việc với ngươi.",
+  "tokens": [
+    {
+      "surface": "כשכיר",
+      "gloss": "như kẻ làm thuê"
+    },
+    {
+      "surface": "כתושב",
+      "gloss": "như khách trú"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sẽ ở"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "với ngươi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "năm"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "haYovel"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "sẽ làm việc"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "với ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:47:33.039332994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 68,
+  "translation": "Hỡi các vương quốc ⟨của⟩ đất, hãy hát cho Elohim, hãy gảy đàn ngợi Adonai. Selah.",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "hỡi các vương quốc"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨của⟩ đất"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "hãy hát"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "cho Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "hãy gảy đàn ngợi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:10.983242990Z",
+  "model": "glm-5.3"
+}

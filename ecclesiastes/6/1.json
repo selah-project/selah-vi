@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Có một điều dữ mà tôi đã thấy dưới mặt trời, và nó ⟨là⟩ điều nặng trên con người.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "có"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "điều dữ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "tôi đã thấy"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dưới"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "mặt trời"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "và nó nặng"
+    },
+    {
+      "surface": "היא",
+      "gloss": "nó"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "con người"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:52.761950698Z",
+  "model": "glm-5.3"
+}

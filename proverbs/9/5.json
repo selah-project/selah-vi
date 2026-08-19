@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Hãy đến, hãy ăn bánh của ta, và hãy uống rượu ta đã pha chế.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "hãy đi\/đến"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "hãy ăn"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "bánh của ta"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "và hãy uống"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "rượu"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "ta đã pha chế"
+    }
+  ],
+  "timestamp": "2026-08-19T05:15:28.856134116Z",
+  "model": "glm-5.3"
+}

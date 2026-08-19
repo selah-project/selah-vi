@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 4:31",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và ⟨את⟩ tất cả mỡ nó thì ⟨hắn⟩ lấy đi, như mỡ được lấy đi khỏi sinh tế tha bình, và thầy tế lễ đốt nó trên bàn thờ làm hương thơm dễ chịu cho Yahweh; và thầy tế lễ làm lễ chuộc tội cho hắn, thì hắn được tha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "tất cả mỡ nó"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "חלבה",
+      "gloss": "mỡ nó"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "thì lấy đi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "הוסר",
+      "gloss": "được lấy đi"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mỡ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sinh tế"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "tha bình"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "và đốt (làm khói)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "thầy tế lễ"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "trên bàn thờ"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "làm hương"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "dễ chịu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "cho Yahweh"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "và chuộc tội"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "cho hắn"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "thầy tế lễ"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "thì được tha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho hắn"
+    }
+  ],
+  "timestamp": "2026-08-19T02:40:42.598105824Z",
+  "model": "glm-5.3"
+}

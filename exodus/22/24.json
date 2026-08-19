@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Nếu ngươi cho vay bạc ⟨את⟩ dân Ta, ⟨את⟩ người nghèo ở cùng ngươi, ngươi đừng đối với hắn như chủ nợ; đừng đặt lên hắn tiền lai.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "bạc"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "ngươi cho vay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân Ta"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "dân Ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người nghèo"
+    },
+    {
+      "surface": "העני",
+      "gloss": "người nghèo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ở cùng ngươi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ngươi sẽ là"
+    },
+    {
+      "surface": "לו",
+      "gloss": "với hắn"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "như chủ nợ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "các ngươi đặt"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lên hắn"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "tiền lai"
+    }
+  ],
+  "timestamp": "2026-08-19T02:33:26.226776482Z",
+  "model": "glm-5.3"
+}

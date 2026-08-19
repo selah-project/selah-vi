@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và Elohim nhớ lại ⟨את⟩ Noach, ⟨את⟩ mọi sinh vật và ⟨את⟩ mọi súc vật vốn ⟨את⟩ nó trong tàu; và Elohrenim cho một luồng gió đi qua trên đất, và các nguồn nước lắng xuống.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "và nhớ lại"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "mọi sinh vật"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "sinh vật"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "mọi súc vật"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "súc vật"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vốn"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nó"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "trong tàu"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "và làm đi qua"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "gió"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "và lắng xuống"
+    },
+    {
+      "surface": "המים",
+      "gloss": "các nguồn nước"
+    }
+  ],
+  "timestamp": "2026-08-19T02:23:59.092357154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và Elohim đã làm ⟨את⟩ hai nguồn sáng lớn: ⟨את⟩ nguồn sáng lớn để cai-trị ngày, và ⟨את⟩ nguồn sáng nhỏ để cai-trị đêm, ⟨và⟩ ⟨את⟩ các ngôi-sao.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "và đã-làm"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hai nguồn sáng lớn"
+    },
+    {
+      "surface": "שני",
+      "gloss": "hai"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "các nguồn sáng"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "lớn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguồn sáng lớn"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "nguồn sáng"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "lớn"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "để cai-trị"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "nguồn sáng nhỏ"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "nguồn sáng"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "nhỏ"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "để cai-trị"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "đêm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các ngôi-sao"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "các ngôi-sao"
+    }
+  ],
+  "timestamp": "2026-08-19T00:45:31.045508011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 89:21",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 89,
+  "translation": "Tôi đã tìm thấy David, tôi tớ của tôi; với dầu thánh của tôi tôi đã xức dầu cho ông.",
+  "tokens": [
+    {
+      "surface": "מצאתי",
+      "gloss": "tôi đã tìm thấy"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "tôi tớ của tôi"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "với dầu"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "thánh của tôi"
+    },
+    {
+      "surface": "משחתיו",
+      "gloss": "tôi đã xức dầu cho ông"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:26.785287073Z",
+  "model": "glm-5.3"
+}

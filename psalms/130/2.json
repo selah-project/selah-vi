@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 130,
+  "translation": "Hỡi Adonai, xin nghe tiếng tôi; xin tai Ngài ⟨hãy⟩ chú tâm lắng nghe tiếng khẩn cầu của tôi.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "xin nghe"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "tiếng tôi"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "⟨hãy⟩ là"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "tai Ngài"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "chú tâm lắng nghe"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "(đối với) tiếng"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "khẩn cầu của tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:01.629578936Z",
+  "model": "glm-5.3"
+}

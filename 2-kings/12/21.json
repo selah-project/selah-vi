@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Và các tôi tớ ông chỗi dậy, và lập mưu phản, và đánh ⟨את⟩ Yoash tại Bet-Millo, nơi dốc xuống Silla.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "và chỗi dậy"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "các tôi tớ ông"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "và lập mưu"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "mưu phản"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "và đánh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoash"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tại Bet"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "nơi dốc xuống"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "Silla"
+    }
+  ],
+  "timestamp": "2026-08-19T03:59:09.443054527Z",
+  "model": "glm-5.3"
+}

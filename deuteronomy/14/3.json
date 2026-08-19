@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Ngươi chớ ăn bất kỳ vật gớm ghiếc nào.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ăn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bất kỳ"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "vật gớm ghiếc"
+    }
+  ],
+  "timestamp": "2026-08-19T03:08:19.332967424Z",
+  "model": "glm-5.3"
+}

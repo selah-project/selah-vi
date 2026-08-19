@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 35,
+  "translation": "Và Elohim lên khỏi mặt ông, tại nơi mà Ngài đã phán cùng ⟨את⟩ ông.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "và lên"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "khỏi mặt ông"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "tại nơi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "đã phán"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ông"
+    }
+  ],
+  "timestamp": "2026-08-19T01:22:30.525045095Z",
+  "model": "glm-5.3"
+}

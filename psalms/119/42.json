@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 119:42",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Và con sẽ đáp lời kẻ sỉ nhục con, vì con đã tin cậy vào lời phán của Ngài.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "và con sẽ đáp"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "kẻ sỉ nhục con"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lời"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "con đã tin cậy"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "vào lời phán của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:31.328819436Z",
+  "model": "glm-5.3"
+}

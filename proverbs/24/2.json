@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Vì lòng chúng nó suy tính ⟨sự⟩ tàn phá, và môi chúng nó nói ra ⟨sự⟩ gian ác.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שד",
+      "gloss": "tàn phá"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "suy tính"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "lòng chúng nó"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "và gian ác"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "môi chúng nó"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "nói ra"
+    }
+  ],
+  "timestamp": "2026-08-19T06:19:56.809078703Z",
+  "model": "glm-5.3"
+}

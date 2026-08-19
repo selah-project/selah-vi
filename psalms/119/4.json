@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Chính Ngài đã truyền lệnh các giới răn của Ngài ⟨phải⟩ giữ cách chăm chỉ.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "chính Ngài"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "Ngài đã truyền lệnh"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "các giới răn của Ngài"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "⟨phải⟩ giữ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cách chăm chỉ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:38.853160740Z",
+  "model": "glm-5.3"
+}

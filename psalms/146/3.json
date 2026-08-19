@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 146,
+  "translation": "Đừng tin cậy nơi các quý tộc, nơi con trai của loài người, mà ⟨trong đó⟩ không có sự cứu cứu nguy cho hắn.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "các ngươi tin cậy"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "nơi các quý tộc"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "nơi con trai của"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "loài người"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "mà không có"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho hắn"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "sự cứu nguy"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:34.275434259Z",
+  "model": "glm-5.3"
+}

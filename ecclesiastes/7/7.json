@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Vì sự ức hiếp làm kẻ khôn ngoan hóa điên, và món quà hủy hoại ⟨את⟩ trái tim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "sự ức hiếp"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "làm hóa điên"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "kẻ khôn ngoan"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "và hủy hoại"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trái tim"
+    },
+    {
+      "surface": "לב",
+      "gloss": "trái tim"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "món quà"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:14.141055454Z",
+  "model": "glm-5.3"
+}

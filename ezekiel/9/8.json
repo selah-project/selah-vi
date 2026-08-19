@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 9:8",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Vả xảy ra, khi họ đang đánh và tôi còn sót lại, thì tôi sấp mặt xuống đất, và kêu lên, và nói: Ôi than ôi, Adonai Yahweh, Ngài ⟨là⟩ Đấng hủy diệt ⟨את⟩ toàn thể phần sót lại của Yisrael, khi Ngài đổ ⟨את⟩ cơn thịnh nộ của Ngài trên Yerushalayim?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "vả xảy ra"
+    },
+    {
+      "surface": "כהכותם",
+      "gloss": "khi họ đang đánh"
+    },
+    {
+      "surface": "ונאשאר",
+      "gloss": "và tôi còn sót lại"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "và tôi sấp mặt"
+    },
+    {
+      "surface": "על",
+      "gloss": "xuống trên"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt tôi"
+    },
+    {
+      "surface": "ואזעק",
+      "gloss": "và kêu lên"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "ôi than ôi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "המשחית",
+      "gloss": "Đấng hủy diệt"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toàn thể phần sót lại của Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "phần sót lại"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בשפכך",
+      "gloss": "khi Ngài đổ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cơn thịnh nộ của Ngài"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "cơn thịnh nộ của Ngài"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-19T04:33:52.157491378Z",
+  "model": "glm-5.3"
+}

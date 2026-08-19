@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 107:34",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 107,
+  "translation": "Đất hoa trái thành đồng muối, vì sự gian ác của những cư dân trong nó.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "hoa trái"
+    },
+    {
+      "surface": "למלחה",
+      "gloss": "thành đồng muối"
+    },
+    {
+      "surface": "מרעת",
+      "gloss": "vì sự gian ác"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "của những cư dân"
+    },
+    {
+      "surface": "בה",
+      "gloss": "trong nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:16.882344881Z",
+  "model": "glm-5.3"
+}

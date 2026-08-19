@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 15:3",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Yahweh ⟨là⟩ người chiến tranh, Yahweh là danh Ngài.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "chiến tranh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "danh Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T02:31:28.511539876Z",
+  "model": "glm-5.3"
+}

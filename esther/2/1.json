@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Sau những sự việc này, khi cơn thịnh nộ của vua Achashverosh đã lắng xuống, vua nhớ lại ⟨את⟩ Vashti, và ⟨את⟩ điều bà đã làm, và ⟨את⟩ điều đã được quyết định chống lại bà.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "sau"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "những sự việc"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "này"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "khi lắng xuống"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "cơn thịnh nộ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "của vua"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "đã nhớ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vashti"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vashti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "điều bà đã làm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "điều mà"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "bà đã làm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "điều đã được quyết định"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "điều mà"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "đã được quyết định"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "chống lại bà"
+    }
+  ],
+  "timestamp": "2026-08-19T05:35:01.279767596Z",
+  "model": "glm-5.3"
+}

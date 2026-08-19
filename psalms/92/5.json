@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 92,
+  "translation": "Vì Yahweh đã làm tôi vui mừng trong việc Ngài làm; công việc đôi tay Ngài, tôi sẽ reo hò.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "đã làm tôi vui mừng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "trong việc làm của Ngài"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "về công việc"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "đôi tay Ngài"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "tôi sẽ reo hò"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:12.952563024Z",
+  "model": "glm-5.3"
+}

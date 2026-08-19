@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 13:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Mais moi, en ta fidélité j'ai confiance ; mon cœur jubilera en ton salut ; je chanterai pour Yahweh, car il a agi avec bonté envers moi.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mais moi"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "en ta fidélité"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "j'ai confiance"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "jubilera"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mon cœur"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "en ton salut"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "je chanterai"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pour Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "car"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "il a agi avec bonté"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "envers moi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:12.326937270Z",
+  "model": "glm-5.3"
+}

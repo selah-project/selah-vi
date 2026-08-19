@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 3:23",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Vua nói: \"Người này nói: 'Đứa sống là con ta, còn con bà là đứa chết'; còn người kia nói: 'Không, nhưng con bà là đứa chết, còn con ta là đứa sống.'\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và vua nói"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "người này"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "nói"
+    },
+    {
+      "surface": "זה",
+      "gloss": "đây là"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con ta"
+    },
+    {
+      "surface": "החי",
+      "gloss": "đứa sống"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "và con bà"
+    },
+    {
+      "surface": "המת",
+      "gloss": "đứa chết"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "và người kia"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "nói"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nhưng"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "con bà"
+    },
+    {
+      "surface": "המת",
+      "gloss": "đứa chết"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "và con ta"
+    },
+    {
+      "surface": "החי",
+      "gloss": "đứa sống"
+    }
+  ],
+  "timestamp": "2026-08-19T06:09:20.390955224Z",
+  "model": "glm-5.3"
+}

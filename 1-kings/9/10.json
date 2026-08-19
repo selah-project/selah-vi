@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 9:10",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và ⟨điều đó⟩ xảy ra vào cuối hai mươi năm, khi Shelomoh đã xây ⟨את⟩ hai ngôi nhà: ⟨את⟩ nhà của Yahweh và ⟨את⟩ nhà của vua.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "và đã xảy ra"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "vào cuối"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "hai mươi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "năm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "đã xây"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hai ngôi nhà"
+    },
+    {
+      "surface": "שני",
+      "gloss": "hai"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "ngôi nhà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhà của Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "nhà của vua"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "của vua"
+    }
+  ],
+  "timestamp": "2026-08-19T03:49:51.824674582Z",
+  "model": "glm-5.3"
+}

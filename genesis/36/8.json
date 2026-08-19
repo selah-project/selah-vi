@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 36,
+  "translation": "Và Esav ở trong núi Seir — Esav, chính ⟨hắn⟩ là Edom.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "và ở"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "trong núi"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chính là"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-19T01:22:26.552789409Z",
+  "model": "glm-5.3"
+}

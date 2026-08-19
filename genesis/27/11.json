@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 27:11",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Va Yaakov nói với Rivkah mẹ mình: Kìa, Esav anh tôi ⟨là⟩ người lông lá, còn tôi ⟨là⟩ người nhẵn nhụi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và ngài nói"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivkah"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mẹ mình"
+    },
+    {
+      "surface": "הן",
+      "gloss": "kìa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "anh tôi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "שער",
+      "gloss": "lông lá"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "còn tôi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "nhẵn nhụi"
+    }
+  ],
+  "timestamp": "2026-08-19T01:10:40.149021441Z",
+  "model": "glm-5.3"
+}

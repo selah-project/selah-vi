@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Xảy ra ngày hôm sau, dân Plish-tim đến để lột áo ⟨את⟩ những người bị giết; họ tìm thấy ⟨את⟩ Sha-ul và ⟨את⟩ ba con trai ông ngã trên núi Gil-boa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "xảy ra"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ngày hôm sau"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "đến"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "dân Plish-tim"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "để lột áo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "những người bị giết"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "những người bị giết"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "họ tìm thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sha-ul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ba con trai ông"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "con trai ông"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "ngã"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "trên núi"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Gil-boa"
+    }
+  ],
+  "timestamp": "2026-08-19T03:38:20.475992249Z",
+  "model": "glm-5.3"
+}

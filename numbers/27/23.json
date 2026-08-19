@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 27:23",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Và người đặt ⟨את⟩ hai tay mình trên người, và truyền lệnh cho người, theo như Yahweh đã phán qua tay Moshe.",
+  "tokens": [
+    {
+      "surface": "ויסמך",
+      "gloss": "và người đặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hai tay mình"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "hai tay mình"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "trên người"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "và truyền lệnh cho người"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "theo như"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "đã phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "qua tay"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-19T03:01:10.836632287Z",
+  "model": "glm-5.3"
+}

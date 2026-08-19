@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Tôi đã ghét hội chúng của kẻ làm điều dữ, và cùng với kẻ ác tôi sẽ không ngồi.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "tôi đã ghét"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "hội chúng"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "của kẻ làm điều dữ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "và cùng với"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "tôi ngồi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:46.528802913Z",
+  "model": "glm-5.3"
+}

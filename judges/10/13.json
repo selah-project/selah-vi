@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 10:13",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Còn các ngươi đã bỏ ⟨את⟩ Ta và hầu việc các elohim khác; vì vậy Ta sẽ không tiếp thêm ⟨את⟩ các ngươi nữa để cứu.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "còn các ngươi"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "đã bỏ"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ Ta",
+      "marks": "Ta (Yahweh)"
+    },
+    {
+      "surface": "ותעבדו",
+      "gloss": "và hầu việc"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "các elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "khác"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "vì vậy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "tiếp thêm"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "để cứu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ các ngươi",
+      "marks": "các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:24:29.751162983Z",
+  "model": "glm-5.3"
+}

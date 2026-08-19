@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 25:17",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Hãy bách hại ⟨את⟩ người Midian, và các ngươi hãy đánh ⟨את⟩ họ.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "hãy bách hại"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người Midian"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "người Midian"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "và các ngươi hãy đánh"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ họ",
+      "marks": "họ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:59:54.708951634Z",
+  "model": "glm-5.3"
+}

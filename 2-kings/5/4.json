@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 5:4",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Và ⟨người⟩ đã vào và kể lại cho chúa mình, nói rằng: Như thế này và như thế này cô thiếu nữ từ đất Yisrael đã nói.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "và đã vào"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "và kể lại"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "cho chúa mình"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nói rằng"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "như thế này"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "và như thế này"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "đã nói"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "cô thiếu nữ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "từ đất"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T06:10:45.695896762Z",
+  "model": "glm-5.3"
+}

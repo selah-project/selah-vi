@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 13:8",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Ông chờ đợi bảy ngày theo thời hẹn của Shmuel, nhưng Shmuel không đến Gilgal, và dân tản ra khỏi ông.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "và ông chờ đợi"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "bảy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "theo thời hẹn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nhưng không"
+    },
+    {
+      "surface": "בא",
+      "gloss": "đến"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal"
+    },
+    {
+      "surface": "ויפץ",
+      "gloss": "nên đã tản ra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "khỏi ông"
+    }
+  ],
+  "timestamp": "2026-08-19T03:31:46.672847096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 91,
+  "translation": "Chỉ với mắt ngươi ngươi sẽ nhìn, và ⟨ngươi⟩ sẽ thấy số phận của kẻ ác.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "chỉ"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "với mắt ngươi"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "ngươi sẽ nhìn"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "và sự đền trả"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "của kẻ ác"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ngươi sẽ thấy"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:00.444466757Z",
+  "model": "glm-5.3"
+}

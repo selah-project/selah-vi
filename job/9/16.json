@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 9:16",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Dù tôi có kêu cầu và Ngài đáp lời tôi, tôi cũng không tin rằng Ngài lắng nghe tiếng tôi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "dù"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "tôi kêu cầu"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "và Ngài đáp lời tôi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אאמין",
+      "gloss": "tôi tin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "Ngài lắng nghe"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "tiếng của tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:21:50.463747552Z",
+  "model": "glm-5.3"
+}

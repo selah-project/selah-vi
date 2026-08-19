@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Và Yosef đến với họ vào buổi sáng, thấy ⟨את⟩ họ, và kìa họ buồn rầu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "và-đến"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "với họ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "vào buổi sáng"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "và-thấy"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "họ"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "và kìa họ"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "buồn rầu"
+    }
+  ],
+  "timestamp": "2026-08-19T01:26:10.807700573Z",
+  "model": "glm-5.3"
+}

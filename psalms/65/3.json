@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 65,
+  "translation": "⟨Đấng⟩ nghe lời cầu nguyện; đến với Ngài mọi xác thịt sẽ đến.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "nghe"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "lời cầu nguyện"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "đến với Ngài"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "xác thịt"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "sẽ đến"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:54.226806157Z",
+  "model": "glm-5.3"
+}

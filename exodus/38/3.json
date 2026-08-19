@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 38:3",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 38,
+  "translation": "Người ta làm ⟨את⟩ mọi dụng cụ của bàn thờ: ⟨את⟩ các nồi, và ⟨את⟩ các xẻng, và ⟨את⟩ các chậu, ⟨את⟩ các nĩa, và ⟨את⟩ các hỏa bình; mọi dụng cụ của nó người ta làm bằng đồng.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi dụng cụ của bàn thờ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "dụng cụ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "của bàn thờ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các nồi"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "các nồi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các xẻng"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "các xẻng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các chậu"
+    },
+    {
+      "surface": "המזרקת",
+      "gloss": "các chậu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các nĩa"
+    },
+    {
+      "surface": "המזלגת",
+      "gloss": "các nĩa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các hỏa bình"
+    },
+    {
+      "surface": "המחתת",
+      "gloss": "các hỏa bình"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "dụng cụ của nó"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "bằng đồng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:38:46.416256229Z",
+  "model": "glm-5.3"
+}

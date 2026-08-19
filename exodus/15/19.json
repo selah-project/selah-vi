@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 15:19",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Vì ngựa của Pharaoh đã đi vào với chiến xa và kỵ binh của ông trong biển, và Yahweh đã đem ⟨את⟩ nước biển trở lại trên họ; còn con cái Yisrael đi trên đất khô giữa lòng biển.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "בא",
+      "gloss": "đã-đi-vào"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "ngựa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaoh"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "với-chiến-xa-của-ông"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "và-kỵ-binh-của-ông"
+    },
+    {
+      "surface": "בים",
+      "gloss": "trong-biển"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "và-đem-trở-lại"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "trên-họ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nước biển"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nước"
+    },
+    {
+      "surface": "הים",
+      "gloss": "biển"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "và-con-cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "đã-đi"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "trên-đất-khô"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "giữa-lòng"
+    },
+    {
+      "surface": "הים",
+      "gloss": "biển"
+    }
+  ],
+  "timestamp": "2026-08-19T02:31:29.528367652Z",
+  "model": "glm-5.3"
+}

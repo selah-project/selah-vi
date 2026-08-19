@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và người lấy ⟨את⟩ toàn bộ mỳ trên ruột, và ⟨את⟩ thùy trên gan, và ⟨את⟩ hai quả thận cùng ⟨את⟩ mỳ của chúng, và Moshe đốt lên hương trên bàn thờ.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "và lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toàn bộ mỳ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn bộ"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mỡ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ruột"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "thùy trên gan"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "thùy"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "gan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "hai quả thận"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "hai"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "quả thận"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "mỡ của chúng"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "mỡ của chúng"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "và đốt lên hương"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "trên bàn thờ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:41:47.751920074Z",
+  "model": "glm-5.3"
+}

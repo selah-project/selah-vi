@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 78,
+  "translation": "Các thầy tế lễ của họ ngã bởi gươm, và các góa phụ của họ không khóc than.",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "các thầy tế lễ của họ"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "bởi gươm"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "đã ngã"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "và các góa phụ của họ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "khóc than"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:00.191119022Z",
+  "model": "glm-5.3"
+}

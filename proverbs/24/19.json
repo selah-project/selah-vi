@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 24:19",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Chớ bừng bừng vì kẻ làm ác, chớ ghen tị với đứa ác",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "bừng bừng"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "vì kẻ làm ác"
+    },
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "ghen tị"
+    },
+    {
+      "surface": "ברשעים",
+      "gloss": "với đứa ác"
+    }
+  ],
+  "timestamp": "2026-08-19T05:18:30.002607411Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 31:12",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Mọi chiến sĩ đều trỗi dậy, đi suốt đêm, lấy ⟨את⟩ xác Shaol và ⟨את⟩ xác các con trai ông khỏi tường thành Beth-Shan, về đến Yavesh, và thiêu ⟨אתם⟩ tại đó.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "và họ trỗi dậy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "chiến sĩ"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "và họ đi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "suốt"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "đêm"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "và họ lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xác Shaol"
+    },
+    {
+      "surface": "גוית",
+      "gloss": "xác"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "xác các con trai ông"
+    },
+    {
+      "surface": "גוית",
+      "gloss": "xác"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "các con trai ông"
+    },
+    {
+      "surface": "מחומת",
+      "gloss": "khỏi tường thành"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Shan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "và họ đến"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "và họ thiêu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "chúng (các xác)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tại đó"
+    }
+  ],
+  "timestamp": "2026-08-19T03:38:32.935563124Z",
+  "model": "glm-5.3"
+}

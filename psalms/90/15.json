@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 90,
+  "translation": "Hãy làm chúng tôi vui thích tương xứng với những ngày Ngài đã làm khổ chúng tôi, ⟨với⟩ những năm chúng tôi đã thấy điều ác.",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "hãy làm chúng tôi vui"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "như những ngày"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "Ngài đã làm khổ chúng tôi"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "những năm"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "chúng tôi đã thấy"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "điều ác"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:58.631344513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Đừng lấy từ nó ⟨את⟩ lãi tiền và lãi thêm, nhưng hãy kính sợ Elohim của ngươi, và anh em ngươi sẽ sống với ngươi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "lấy"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "từ ⟨את⟩ nó",
+      "marks": "lãi tiền và lãi thêm"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "lãi tiền"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "và lãi thêm"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "nhưng hãy kính sợ"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohim của ngươi"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "và sẽ sống"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "anh em ngươi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "với ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:47:39.699445883Z",
+  "model": "glm-5.3"
+}

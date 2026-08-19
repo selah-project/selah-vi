@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Vua đã chết, và ⟨được⟩ đưa về Shomeron, và họ chôn ⟨את⟩ vua tại Shomeron.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "đã chết"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "và được đưa đến"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "và họ chôn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vua"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "tại Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-19T03:55:15.645548005Z",
+  "model": "glm-5.3"
+}

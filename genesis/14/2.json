@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 14:2",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Họ làm chiến tranh với ⟨את⟩ Bera vua của Sedom, và ⟨את⟩ Birsha vua của Amorah, Shinav vua của Admah, và Shemever vua của Tsevoim, và vua của Bela — đó là Tsoar.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "họ làm"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "chiến tranh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bera vua của Sedom"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "Bera"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua của"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Birsha vua của Amorah"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "Birsha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua của"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amorah"
+    },
+    {
+      "surface": "שנאב",
+      "gloss": "Shinav"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua của"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "Admah"
+    },
+    {
+      "surface": "ושמאבר",
+      "gloss": "và Shemever"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua của"
+    },
+    {
+      "surface": "צביים",
+      "gloss": "Tsevoim"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "và vua của"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "היא",
+      "gloss": "đó là"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoar"
+    }
+  ],
+  "timestamp": "2026-08-19T00:56:26.498001237Z",
+  "model": "glm-5.3"
+}

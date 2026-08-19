@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 11:11",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và họ đã đánh ⟨את⟩ tất cả linh hồn nào ở trong nó theo lưỡi gươm — tận diệt, không còn sót một hơi thở nào; và ⟨את⟩ Chatzor thì đốt trong lửa.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "và họ đã đánh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả linh hồn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "linh hồn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "בה",
+      "gloss": "trong nó"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "theo miệng"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "gươm"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "tận diệt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "còn sót"
+    },
+    {
+      "surface": "כל",
+      "gloss": "một"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "hơi thở"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Chatzor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chatzor"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "đã đốt"
+    },
+    {
+      "surface": "באש",
+      "gloss": "trong lửa"
+    }
+  ],
+  "timestamp": "2026-08-19T03:18:18.949531303Z",
+  "model": "glm-5.3"
+}

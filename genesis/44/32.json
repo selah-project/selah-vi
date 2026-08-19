@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 44:32",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Vì đầy tớ ngươi đã bảo lãnh ⟨את⟩ thiếu niên với cha tôi, rằng: Nếu tôi không đem nó đến cùng ngươi, thì tôi sẽ phạm tội với cha tôi suốt mọi ngày.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "đầy tớ ngươi"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "đã bảo lãnh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thiếu niên"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "thiếu niên"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "với"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "cha tôi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אביאנו",
+      "gloss": "tôi đem nó"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "đến cùng ngươi"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "thì tôi sẽ phạm tội"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "với cha tôi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "suốt mọi"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ngày"
+    }
+  ],
+  "timestamp": "2026-08-19T02:25:25.101671637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,141 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 8:30",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Moshe lấy dầu xức và huyết trên bàn thờ, và rảy trên Aharon, trên áo xức của ông, trên các con trai ông, và trên áo xức của các con trai ông ⟨את⟩ cùng ông; và người thánh hóa ⟨את⟩ Aharon ⟨את⟩ áo xức của ông, và ⟨את⟩ các con trai ông, và ⟨את⟩ áo xức của các con trai ông ⟨את⟩ cùng ông.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "lấy"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "từ dầu"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "xức"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "và từ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "huyết"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "ויז",
+      "gloss": "và rảy"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "áo xức của ông"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "và trên"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "các con trai ông"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "và trên"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "áo xức của"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "các con trai ông"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ cùng ông"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "và thánh hóa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "áo xức của ông"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "áo xức của ông"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các con trai ông"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "các con trai ông"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "áo xức của các con trai"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "áo xức của"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "các con trai ông"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ cùng ông"
+    }
+  ],
+  "timestamp": "2026-08-19T02:41:42.353129417Z",
+  "model": "glm-5.3"
+}

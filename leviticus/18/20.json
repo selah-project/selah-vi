@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Và với vợ của đồng bọn ngươi, ngươi không cho sự nằm của ngươi cho hạt giống, để làm ô uế với nàng.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "và với"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vợ của"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "đồng bọn ngươi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ngươi cho"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "sự nằm của ngươi"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "cho hạt giống"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "để làm ô uế"
+    },
+    {
+      "surface": "בה",
+      "gloss": "với nàng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:45:11.491338162Z",
+  "model": "glm-5.3"
+}

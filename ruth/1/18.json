@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Bà thấy rằng nàng quyết tâm đi ⟨את⟩ cùng mình, thì thôi không còn khuyên nàng nữa.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "bà thấy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "quyết tâm"
+    },
+    {
+      "surface": "היא",
+      "gloss": "nàng"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "đi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "cùng mình"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "thì thôi"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "với nàng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:30:09.791685172Z",
+  "model": "glm-5.3"
+}

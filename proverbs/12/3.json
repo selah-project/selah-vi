@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Con người không ⟨được⟩ làm vững bẳng sự ác, nhưng rễ của người công chính không hề lung lay.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "được làm vững"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "con người"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "bằng sự ác"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "và rễ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "của người công chính"
+    },
+    {
+      "surface": "בל",
+      "gloss": "không hề"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "lung lay"
+    }
+  ],
+  "timestamp": "2026-08-19T05:16:23.365233910Z",
+  "model": "glm-5.3"
+}

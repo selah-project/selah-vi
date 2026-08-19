@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 4:11",
+  "book": "song-of-songs",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Mật ong nhỏ giọt từ đôi môi em, hỡi nàng dâu; mật ong và sữa ở dưới lưỡi em, và hương quần áo em như hương núi Levanon.",
+  "tokens": [
+    {
+      "surface": "נפת",
+      "gloss": "mật ong nhỏ giọt"
+    },
+    {
+      "surface": "תטפנה",
+      "gloss": "thấm ra (từng giọt)"
+    },
+    {
+      "surface": "שפתותיך",
+      "gloss": "đôi môi em"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "hỡi nàng dâu"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "mật ong"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "và sữa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ở dưới"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "lưỡi em"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "và hương"
+    },
+    {
+      "surface": "שלמתיך",
+      "gloss": "quần áo em"
+    },
+    {
+      "surface": "כריח",
+      "gloss": "như hương"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Levanon"
+    }
+  ],
+  "timestamp": "2026-08-19T06:20:51.705481968Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 78,
+  "translation": "Bao nhiêu lần họ phản nghịch chống Ngài trong đồng vắng, làm đau lòng Ngài trong nơi hoang vu!",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "bao nhiêu lần"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "họ phản nghịch chống Ngài"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "trong đồng vắng"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "họ làm đau lòng Ngài"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "trong nơi hoang vu"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:49.098959621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 22:33",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "(Đấng) đã đưa ⟨את⟩ các ngươi ra khỏi đất Mitsrajim, để được làm Elohim cho các ngươi; ta ⟨là⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "המוציא",
+      "gloss": "Đấng-đưa-ra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ các ngươi",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "khỏi đất"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "để-trở-nên"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho-các-ngươi"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "làm Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:45:43.723863519Z",
+  "model": "glm-5.3"
+}

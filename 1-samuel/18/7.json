@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 18:7",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Và những người đàn bà đang vui đùa đáp lại nhau và nói: Shaul đã giết trong hàng ngàn của ông, và David trong hàng vạn của ông.",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "và đáp lại nhau"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "những người đàn bà"
+    },
+    {
+      "surface": "המשחקות",
+      "gloss": "đang vui đùa"
+    },
+    {
+      "surface": "ותאמרן",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "đã giết"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "באלפו",
+      "gloss": "trong hàng ngàn của ông"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "và David"
+    },
+    {
+      "surface": "ברבבתיו",
+      "gloss": "trong hàng vạn của ông"
+    }
+  ],
+  "timestamp": "2026-08-19T03:34:33.905468123Z",
+  "model": "glm-5.3"
+}

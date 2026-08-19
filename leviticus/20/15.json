@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Và người đàn ông nào trao sự nằm của mình cho một con thú — chắc chắn sẽ bị xử tử, và ⟨את⟩ con thú các ngươi phải giết.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "và người đàn ông"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "trao"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "sự nằm của mình"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "cho con thú"
+    },
+    {
+      "surface": "מות",
+      "gloss": "chết"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "sẽ bị xử tử"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con thú"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "con thú"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "các ngươi phải giết"
+    }
+  ],
+  "timestamp": "2026-08-19T02:47:00.586280981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Đây là dòng dõi của Shem: Shem ⟨là⟩ con một trăm năm, và đã sinh ra ⟨את⟩ Arpakhshad, hai năm sau cơn đại hồng thủy.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "đây là"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "dòng dõi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "một trăm"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "năm"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "và đã sinh ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakhshad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakhshad"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "hai năm"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sau"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "cơn đại hồng thủy"
+    }
+  ],
+  "timestamp": "2026-08-19T00:54:03.982325485Z",
+  "model": "glm-5.3"
+}

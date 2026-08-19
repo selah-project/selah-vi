@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Và Rechavam đi đến Shkhem, vì Shkhem là nơi toàn thể Yisrael đến để tôn ⟨את⟩ ông làm vua.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "và đi đến"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechavam"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shkhem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shkhem"
+    },
+    {
+      "surface": "בא",
+      "gloss": "đến"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "để tôn làm vua"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ông"
+    }
+  ],
+  "timestamp": "2026-08-19T03:52:07.335070126Z",
+  "model": "glm-5.3"
+}

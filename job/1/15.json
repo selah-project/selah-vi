@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 1:15",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và Shva xông vào, và bắt lấy chúng, còn ⟨את⟩ các đầy tớ thì chúng giết bằng lưỡi gươm; và tôi đã thoát, chỉ một mình tôi thôi, để báo cho ngài",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "và xông vào"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Shva"
+    },
+    {
+      "surface": "ותקחם",
+      "gloss": "và bắt lấy chúng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "các đầy tớ"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "các đầy tớ"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "thì chúng giết"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "bằng miệng"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "gươm"
+    },
+    {
+      "surface": "ואמלטה",
+      "gloss": "và tôi đã thoát"
+    },
+    {
+      "surface": "רק",
+      "gloss": "chỉ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "một mình"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "để báo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:20:38.598610003Z",
+  "model": "glm-5.3"
+}

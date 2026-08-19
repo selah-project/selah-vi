@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Tất cả đều đi đến một nơi; tất cả đều ⟨là⟩ từ bụi đất, và tất cả đều trở lại về bụi đất.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "đều đi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "một nơi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "một"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "היה",
+      "gloss": "đều là"
+    },
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "bụi đất"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "và tất cả"
+    },
+    {
+      "surface": "שב",
+      "gloss": "đều trở lại"
+    },
+    {
+      "surface": "אל",
+      "gloss": "về"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "bụi đất"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:36.803315789Z",
+  "model": "glm-5.3"
+}

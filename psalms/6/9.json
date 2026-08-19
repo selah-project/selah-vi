@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Hãy lùi khỏi tôi, hết thảy những kẻ làm điều vô ích; vì Yahweh đã nghe tiếng khóc của tôi.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "hãy lùi khỏi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hết thảy"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "những kẻ làm"
+    },
+    {
+      "surface": "און",
+      "gloss": "điều vô ích"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "đã nghe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tiếng"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "khóc của tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:54:38.128135740Z",
+  "model": "glm-5.3"
+}

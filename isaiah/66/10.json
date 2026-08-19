@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 66:10",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 66,
+  "translation": "Hãy vui mừng với ⟨את⟩ Yerushalayim, và hãy nhảy mừng trong nàng, hết thảy những kẻ yêu mến nàng; hãy hớn hở cùng nàng trong sự vui sướng, hết thảy những kẻ than khóc vì nàng.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "Hãy vui mừng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "và hãy nhảy mừng"
+    },
+    {
+      "surface": "בה",
+      "gloss": "trong nàng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hết thảy"
+    },
+    {
+      "surface": "אהביה",
+      "gloss": "những kẻ yêu mến nàng"
+    },
+    {
+      "surface": "שישו",
+      "gloss": "hãy hớn hở"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "cùng nàng"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "trong sự vui sướng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hết thảy"
+    },
+    {
+      "surface": "המתאבלים",
+      "gloss": "những kẻ than khóc"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "vì nàng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:16:23.464019288Z",
+  "model": "glm-5.3"
+}

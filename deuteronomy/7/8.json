@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 7:8",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Vì vì lòng yêu mến của Yahweh ⟨אתכם⟩ các ngươi, và vì giữ lời thề mà Ngài đã thề với các tổ phụ của các ngươi, Yahweh đã đưa các ngươi ra ⟨אתכם⟩ bằng tay mạnh mẽ, và đã chuộc ngươi khỏi nhà nô lệ, khỏi tay Paroh vua Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "מאהבת",
+      "gloss": "vì lòng yêu mến"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "của Yahweh"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ các ngươi",
+      "marks": "các ngươi (đối tượng được yêu)"
+    },
+    {
+      "surface": "ומשמרו",
+      "gloss": "và vì giữ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lời thề"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "lời thề"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "đã thề"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "với các tổ phụ của các ngươi"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "đã đưa ra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ các ngươi",
+      "marks": "các ngươi (đối tượng được đưa ra)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bằng tay"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "mạnh mẽ"
+    },
+    {
+      "surface": "ויפדך",
+      "gloss": "và đã chuộc ngươi"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "khỏi nhà"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "nô lệ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "khỏi tay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T03:06:35.918974495Z",
+  "model": "glm-5.3"
+}

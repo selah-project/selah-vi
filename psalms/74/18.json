@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 74:18",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 74,
+  "translation": "Hãy nhớ điều nầy: kẻ thù đã nhạo mạ Yahweh, và dân sự ngu dại đã khinh nhạo Danh Ngài.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "hãy nhớ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "điều nầy"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "kẻ thù"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "đã nhạo mạ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "và dân sự"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ngu dại"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "đã khinh nhạo"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Danh Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:31.849081911Z",
+  "model": "glm-5.3"
+}

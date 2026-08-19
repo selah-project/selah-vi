@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Vào ngày chín của tháng, nạn đói trở nên khốc liệt trong thành, và không còn bánh mì cho dân của đất.",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "vào ngày chín"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "của tháng"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "và trở nên mạnh"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "nạn đói"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "trong thành"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "היה",
+      "gloss": "có"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bánh mì"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "cho dân"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "của đất"
+    }
+  ],
+  "timestamp": "2026-08-19T04:03:40.611361174Z",
+  "model": "glm-5.3"
+}

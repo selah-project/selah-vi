@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 10:12",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "mọi tráng sĩ đều đứng dậy, mang ⟨את⟩ xác Shaul và ⟨את⟩ xác các con ông, đưa họ về Yavesh, chôn ⟨את⟩ xương cốt của họ dưới cây tếch tại Yavesh, và nhịn ăn bảy ngày.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "họ đứng dậy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "tráng sĩ"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "họ mang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xác Shaul"
+    },
+    {
+      "surface": "גופת",
+      "gloss": "xác"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "xác các con ông"
+    },
+    {
+      "surface": "גופת",
+      "gloss": "xác"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "các con ông"
+    },
+    {
+      "surface": "ויביאום",
+      "gloss": "họ đưa họ về"
+    },
+    {
+      "surface": "יבישה",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "họ chôn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xương cốt của họ"
+    },
+    {
+      "surface": "עצמותיהם",
+      "gloss": "xương cốt của họ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dưới"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "cây tếch"
+    },
+    {
+      "surface": "ביבש",
+      "gloss": "tại Yavesh"
+    },
+    {
+      "surface": "ויצומו",
+      "gloss": "họ nhịn ăn"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "bảy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ngày"
+    }
+  ],
+  "timestamp": "2026-08-19T05:49:26.194258393Z",
+  "model": "glm-5.3"
+}

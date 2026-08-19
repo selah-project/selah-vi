@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Xin quay mặt về phía tôi, và ban ơn cho tôi, vì tôi ⟨là⟩ kẻ cô độc và nghèo khổ.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "hãy quay về"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "về phía tôi"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "và ban ơn cho tôi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "kẻ cô độc"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "và nghèo khổ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:12.240106405Z",
+  "model": "glm-5.3"
+}

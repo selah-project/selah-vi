@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 9:31",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và cây lanh và cây lúa mạch bị đánh; vì lúa mạch đã có bông xanh, còn lanh đã trổ hoa.",
+  "tokens": [
+    {
+      "surface": "והפשתה",
+      "gloss": "và cây lanh"
+    },
+    {
+      "surface": "והשערה",
+      "gloss": "và cây lúa mạch"
+    },
+    {
+      "surface": "נכתה",
+      "gloss": "bị đánh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "lúa mạch"
+    },
+    {
+      "surface": "אביב",
+      "gloss": "bông xanh"
+    },
+    {
+      "surface": "והפשתה",
+      "gloss": "và cây lanh"
+    },
+    {
+      "surface": "גבעל",
+      "gloss": "đã trổ hoa"
+    }
+  ],
+  "timestamp": "2026-08-19T02:29:50.123509203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 73,
+  "translation": "Chúng đặt miệng mình ⟨trên⟩ các tầng trời, và lưỡi chúng rảo khắp ⟨trên⟩ đất.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "đặt"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "⟨trên⟩ các tầng trời"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "miệng mình"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "và lưỡi chúng"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "rảo khắp"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨trên⟩ đất"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:36.925891932Z",
+  "model": "glm-5.3"
+}

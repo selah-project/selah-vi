@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 39,
+  "translation": "Hãy dời vết thương Ngài khỏi trên tôi; từ sự đánh phạt của tay Ngài, tôi đã hao mòn.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "hãy dời đi"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "khỏi trên tôi"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "vết thương của Ngài"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "từ sự đánh phạt"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "của tay Ngài"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "đã hao mòn"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:43.086758631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 4:8",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Còn ⟨את⟩ toàn bộ mỡ con bò của lễ tha tội thì người sẽ nhấc khỏi nó: ⟨את⟩ lớp mỡ phủ trên ruột, và ⟨את⟩ tất cả mỡ vốn trên ruột.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "toàn bộ mỡ con bò"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn-bộ"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mỡ"
+    },
+    {
+      "surface": "פר",
+      "gloss": "con-bò"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "lễ-tha-tội"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "người-sẽ-nhấc-lên"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "khỏi-nó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lớp mỡ phủ trên ruột"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lớp-mỡ"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "phủ"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ruột"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả mỡ trên ruột"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất-cả"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mỡ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vốn"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ruột"
+    }
+  ],
+  "timestamp": "2026-08-19T02:40:10.408033194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 108:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 108,
+  "translation": "Vì sự nhân từ của Ngài ⟨vượt lên⟩ trên các tầng trời, và sự chân thật của Ngài ⟨đến⟩ tận các đám mây.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lớn lao"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "trên"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "các tầng trời"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sự nhân từ của Ngài"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "và tận"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "các đám mây mỏng"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "sự chân thật của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:32.496942544Z",
+  "model": "glm-5.3"
+}

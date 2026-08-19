@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 15:4",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Lưỡi chữa lành ⟨là⟩ cây của sự sống; nhưng sự xiên xẹo trong nó ⟨là⟩ sự gãy đổ trong tâm thần.",
+  "tokens": [
+    {
+      "surface": "מרפא",
+      "gloss": "chữa lành"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lưỡi"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "cây"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "của sự sống"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "và sự xiên xẹo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "trong nó"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "sự gãy đổ"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "trong tâm thần"
+    }
+  ],
+  "timestamp": "2026-08-19T05:16:53.659636640Z",
+  "model": "glm-5.3"
+}

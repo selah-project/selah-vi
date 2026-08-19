@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Này, những ngày đang đến, và ta sẽ chặt đứt ⟨את⟩ cánh tay ngươi và ⟨את⟩ cánh tay của nhà cha ngươi, để không còn người già trong nhà ngươi.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "này"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "những ngày"
+    },
+    {
+      "surface": "באים",
+      "gloss": "đang đến"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "và ta sẽ chặt đứt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cánh tay ngươi"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "cánh tay ngươi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "cánh tay của nhà cha ngươi"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "cánh tay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "cha ngươi"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "khỏi việc có"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "người già"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "trong nhà ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:30:12.962029783Z",
+  "model": "glm-5.3"
+}

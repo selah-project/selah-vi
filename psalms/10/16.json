@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Yahweh ⟨là⟩ Vua muôn đời và mãi mãi; các dân tộc đã bị diệt khỏi đất của Ngài.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Vua"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "muôn đời"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "và mãi mãi"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "đã bị diệt"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "các dân tộc"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "khỏi đất của ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:07.730426254Z",
+  "model": "glm-5.3"
+}

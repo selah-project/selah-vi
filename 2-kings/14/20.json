@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Và họ chở ⟨את⟩-ngài trên những con ngựa, và ⟨את⟩-ngài được chôn tại Yerushalayim với các tổ phụ ngài, trong thành Dawid.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "và họ chở"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ngài (Amatsyahu)"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "những con ngựa"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "và được chôn"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "tại Yerushalayim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "với"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "các tổ phụ ngài"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "trong thành"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-19T03:59:32.902556093Z",
+  "model": "glm-5.3"
+}

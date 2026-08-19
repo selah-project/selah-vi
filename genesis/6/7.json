@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 6:7",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và Yahweh phán: Ta sẽ xóa bỏ ⟨את⟩ con người mà Ta đã tạo dựng khỏi mặt đất, từ con người đến gia súc, đến loài bò sát, và đến loài chim trời, vì Ta hối tiếc vì đã làm chúng.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "Ta sẽ xóa bỏ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con người"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "con người"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "Ta đã tạo dựng"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "đất"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "từ con người"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "gia súc"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "loài bò sát"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "và đến"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "loài chim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "trời"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "Ta hối tiếc"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "đã làm chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T00:51:23.269946930Z",
+  "model": "glm-5.3"
+}

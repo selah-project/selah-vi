@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 31:9",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Họ cắt ⟨את⟩ đầu ông, và lột ⟨את⟩ khí giới của ông, và gởi đi khắp xứ Philistim, để báo tin trong đền thần tượng của họ, và ⟨את⟩ cho dân chúng.",
+  "tokens": [
+    {
+      "surface": "ויכרתו",
+      "gloss": "và họ cắt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đầu ông"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "đầu ông"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "và họ lột"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khí giới của ông"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "khí giới của ông"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "và họ gởi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trong xứ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Philistim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "khắp bốn phía"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "để báo tin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "đền"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "thần tượng của họ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "dân chúng"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:38:32.934960566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Chính Ngài, Yahweh, sẽ gìn giữ họ, sẽ bảo vệ ⟨את⟩ họ khỏi thế hệ này, đến đời đời",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "chính Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "sẽ gìn giữ họ"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "sẽ bảo vệ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "thế hệ"
+    },
+    {
+      "surface": "זו",
+      "gloss": "này"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "đến đời đời"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:03.524321703Z",
+  "model": "glm-5.3"
+}

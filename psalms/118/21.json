@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 118:21",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 118,
+  "translation": "Tôi sẽ tạ ơn Ngài, vì Ngài đã đáp lời tôi, và Ngài đã trở thành sự cứu cứu-độ cho tôi.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "tôi sẽ tạ ơn Ngài"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "Ngài đã đáp lời tôi"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "và đã trở thành"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "cho sự cứu-độ"
+    }
+  ],
+  "timestamp": "2026-08-19T06:19:02.264729155Z",
+  "model": "glm-5.3"
+}

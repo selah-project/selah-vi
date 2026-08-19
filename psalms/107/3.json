@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 107,
+  "translation": "và đã quy tụ họ từ các xứ, từ hướng đông và từ hướng tây, từ hướng bắc và từ biển.",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "và từ các xứ"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "đã quy tụ họ"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "từ hướng đông"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "và từ hướng tây"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "từ hướng bắc"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "và từ biển"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:17.690175405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Và người phá đổ ⟨את⟩ các nhà của những kẻ hiến thân dâm, chúng ở trong nhà Yahweh, nơi những phụ nữ dệt tại đó các tấm màn cho Asherah.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "và người phá đổ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các nhà"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "các nhà"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "của những kẻ hiến thân dâm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "trong nhà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nơi mà"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "những phụ nữ"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "dệt"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tại đó"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "các tấm màn"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "cho Asherah"
+    }
+  ],
+  "timestamp": "2026-08-19T04:02:49.306755535Z",
+  "model": "glm-5.3"
+}

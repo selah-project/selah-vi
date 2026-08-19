@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 9:1",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và Yahweh phán cùng Moshe: Hãy đến cùng Pharaoh, và ngươi hãy nói với người rằng: Như vầy Yahweh, Elohim của người Hípri, phán rằng: Hãy buông ⟨את⟩ dân ta thả đi, để họ phục vụ ta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến cùng"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hãy vào"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến cùng"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaoh"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "và ngươi hãy nói"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "với người"
+    },
+    {
+      "surface": "כה",
+      "gloss": "như vầy"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "đã phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "người Hípri"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "hãy thả đi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân ta"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "dân ta"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "để họ phục vụ ta"
+    }
+  ],
+  "timestamp": "2026-08-19T02:29:55.149370424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và Shemuël nghe ⟨את⟩ tất cả lời của dân chúng, và nói chúng trong tai Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "và nghe"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả lời của dân chúng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "lời của"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân chúng"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "và nói chúng"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "trong tai của"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T03:30:08.851515187Z",
+  "model": "glm-5.3"
+}

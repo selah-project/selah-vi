@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 57,
+  "translation": "Cho người hướng dẫn. «Đừng hủy diệt». Của David, một michtam, khi ⟨ông⟩ trốn tránh Sha-ul trong hang.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "cho người hướng dẫn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Đừng"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "hủy diệt"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "của David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "một michtam"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "khi ⟨ông⟩ trốn tránh"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tránh mặt"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "trong hang"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:19.312159107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 139,
+  "translation": "cả sự tối tăm cũng chẳng tối đối với Ngài, và đêm tối sáng như ban ngày; như bóng tối, như ánh sáng — cả hai như nhau.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "cả"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "sự tối tăm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chẳng"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "tối"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "đối với Ngài"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "và đêm tối"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "như ban ngày"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "sẽ sáng"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "như bóng tối"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "như ánh sáng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:37.855282429Z",
+  "model": "glm-5.3"
+}

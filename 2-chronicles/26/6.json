@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Và ông ra đi và giao chiến với người Pelishtim, và phá vỡ ⟨את⟩ tường thành của Gat, và ⟨את⟩ tường thành của Yavneh, và ⟨את⟩ tường thành của Ashdod; và ông xây các thành ở Ashdod và giữa người Pelishtim.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "và ông ra đi"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "và giao chiến"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "với người Pelishtim"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "và phá vỡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tường thành của Gat"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "tường thành của"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "tường thành của Yavneh"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "tường thành của"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "Yavneh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "tường thành của Ashdod"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "tường thành của"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "và ông xây"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "các thành"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "ở Ashdod"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "và giữa người Pelishtim"
+    }
+  ],
+  "timestamp": "2026-08-19T05:59:58.215577187Z",
+  "model": "glm-5.3"
+}

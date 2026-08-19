@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 135,
+  "translation": "Vì Yahweh sẽ đoán xét dân Ngài, và về các tôi tớ Ngài Ngài sẽ ⟨nanày an ủi⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "sẽ đoán xét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "dân Ngài"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "và về"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "các tôi tớ Ngài"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "sẽ nanày an ủi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:11.911637724Z",
+  "model": "glm-5.3"
+}

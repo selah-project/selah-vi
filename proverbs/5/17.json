@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Nguyện chúng thuộc về ngươi, chỉ riêng ngươi thôi, và không ⟨את⟩-cùng người lạ với ngươi.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "nguyện-chúng-là"
+    },
+    {
+      "surface": "לך",
+      "gloss": "của ngươi"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "chỉ riêng ngươi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "và không"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "cho người lạ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ với ngươi",
+      "marks": "với ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:19:43.405708664Z",
+  "model": "glm-5.3"
+}

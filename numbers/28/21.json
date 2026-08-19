@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 28:21",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "một phần mười, một phần mười ngươi phải làm cho mỗi con chiên con, cho bảy con chiên con.",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "một phần mười"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "một phần mười"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ngươi phải làm"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "cho con chiên con"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "một (mỗi)"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "cho số bảy"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "các con chiên con"
+    }
+  ],
+  "timestamp": "2026-08-19T03:01:43.779437508Z",
+  "model": "glm-5.3"
+}

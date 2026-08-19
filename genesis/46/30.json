@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 46,
+  "translation": "Và Yisrael nói với Yosef: Hãy để ta chết lần này, sau khi ta thấy ⟨את⟩ mặt ngươi, vì ngươi vẫn còn sống.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "ta hãy chết"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "lần này"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sau khi"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "ta thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mặt ngươi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "mặt ngươi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "ngươi vẫn còn"
+    },
+    {
+      "surface": "חי",
+      "gloss": "sống"
+    }
+  ],
+  "timestamp": "2026-08-19T02:26:28.513350217Z",
+  "model": "glm-5.3"
+}

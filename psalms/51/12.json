@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 51,
+  "translation": "Elohim ơi, xin dựng nên trong tôi một trái tim tinh sạch, và đổi mới một thần linh vững vàng trong lòng tôi.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "một trái tim"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tinh sạch"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "xin dựng nên"
+    },
+    {
+      "surface": "לי",
+      "gloss": "trong tôi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "và một thần linh"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "vững vàng"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "xin đổi mới"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "trong lòng tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:21.700370333Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và Moshe mang ⟨את⟩ vợ mình và ⟨את⟩ các con trai mình, cho họ cưỡi trên con lừa, và trở về đất Mitsrayim; và Moshe cầm ⟨את⟩ cây gậy của Elohim trong tay mình.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "và mang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vợ mình"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vợ mình"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các con trai mình"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "các con trai mình"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "cho họ cưỡi"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "con lừa"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "và trở về"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "đất"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "và cầm"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cây gậy của Elohim"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "cây gậy"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "của Elohim"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "trong tay mình"
+    }
+  ],
+  "timestamp": "2026-08-19T02:28:24.147245638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 26:2",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Anh đã giúp gì kẻ không có sức lực, đã cứu gì cánh tay không có quyền năng!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "gì (biểu cảm)"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "anh đã giúp"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "đến kẻ không"
+    },
+    {
+      "surface": "כח",
+      "gloss": "sức lực"
+    },
+    {
+      "surface": "הושעת",
+      "gloss": "anh đã cứu"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "cánh tay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "עז",
+      "gloss": "quyền năng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:24:58.956028631Z",
+  "model": "glm-5.3"
+}

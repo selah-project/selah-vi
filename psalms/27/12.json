@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Xin đừng nộp tôi cho ⟨từng⟩ kẻ thù nghịch tôi, vì kẻ làm chứng dối đã nổi dậy chống lại tôi, và ⟨họ⟩ thở ra bạo hành.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "nộp tôi"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "cho ý muốn"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "kẻ thù nghịch tôi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "đã nổi dậy"
+    },
+    {
+      "surface": "בי",
+      "gloss": "chống lại tôi"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "kẻ làm chứng"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dối"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "và thở ra"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "bạo hành"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:19.026295914Z",
+  "model": "glm-5.3"
+}

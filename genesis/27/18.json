@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Người đến với cha mình và nói: Cha ơi. Người đáp: Đây tôi; con là ai, con trai tôi?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "người đến"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "cha mình"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "cha ơi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "đây tôi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "con là"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con trai tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T01:11:45.517126804Z",
+  "model": "glm-5.3"
+}

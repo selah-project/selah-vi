@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Đavid lấy ⟨את⟩ tất cả đàn cừu và đàn bò; chúng đánh đàn đó đi trước nguồn gia súc kia, và người ta nói: đây là chiến lợi phẩm của Đavid.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "và lấy"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Đavid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả đàn cừu và đàn bò"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "đàn cừu"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "và đàn bò"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "chúng đánh (gia súc) đi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "nguồn gia súc"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "kia"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "זה",
+      "gloss": "đây"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "chiến lợi phẩm"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "của Đavid"
+    }
+  ],
+  "timestamp": "2026-08-19T03:37:53.574091411Z",
+  "model": "glm-5.3"
+}

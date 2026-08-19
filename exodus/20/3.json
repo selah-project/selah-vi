@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Không sẽ có cho ngươi các elohim khác trên mặt Ta.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sẽ có"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngươi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "các elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "khác"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt"
+    }
+  ],
+  "timestamp": "2026-08-19T06:03:46.086000712Z",
+  "model": "glm-5.3"
+}

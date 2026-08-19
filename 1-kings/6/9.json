@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 6:9",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và Shlomo xây ⟨את⟩ ngôi nhà và hoàn tất nó; và lát phủ ⟨את⟩ ngôi nhà bằng các dầm gỗ và từng hàng ván bằng gỗ bá hương.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "và xây"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngôi nhà"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ngôi nhà"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "và hoàn tất nó"
+    },
+    {
+      "surface": "ויספן",
+      "gloss": "và lát phủ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngôi nhà"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ngôi nhà"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "các dầm gỗ"
+    },
+    {
+      "surface": "ושדרת",
+      "gloss": "và từng hàng ván"
+    },
+    {
+      "surface": "בארזים",
+      "gloss": "bằng gỗ bá hương"
+    }
+  ],
+  "timestamp": "2026-08-19T03:48:22.377567614Z",
+  "model": "glm-5.3"
+}

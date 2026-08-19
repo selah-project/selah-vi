@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 48,
+  "translation": "Vì đây ⟨là⟩ Elohim, Elohim của chúng ta, đời đời và mãi mãi; chính Ngài sẽ dẫn dắt chúng ta qua cái chết.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "זה",
+      "gloss": "đây"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim của chúng ta"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "đời đời"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "và mãi mãi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chính Ngài"
+    },
+    {
+      "surface": "ינהגנו",
+      "gloss": "sẽ dẫn dắt chúng ta"
+    },
+    {
+      "surface": "על",
+      "gloss": "qua"
+    },
+    {
+      "surface": "מות",
+      "gloss": "cái chết"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:29.407884522Z",
+  "model": "glm-5.3"
+}

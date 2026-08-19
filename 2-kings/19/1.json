@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Va Alexandro khi vua Chizkiyahu nghe, ông xé ⟨את⟩ áo mình, và lấy vải thô che mình, và vào nhà Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Xảy ra"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "khi nghe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "và xé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "áo mình"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "áo mình"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "và che mình"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "bằng vải thô"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "và vào"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T04:01:24.056763137Z",
+  "model": "glm-5.3"
+}

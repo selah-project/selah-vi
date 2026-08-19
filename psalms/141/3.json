@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 141,
+  "translation": "Xin đặt, Yahweh, một sự canh giữ cho miệng con; xin giữ gìn cánh cửa của đôi môi con.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "xin đặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "sự canh giữ"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "cho miệng con"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "xin giữ gìn"
+    },
+    {
+      "surface": "על",
+      "gloss": "tại"
+    },
+    {
+      "surface": "דל",
+      "gloss": "cánh cửa"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "của đôi môi con"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:59.264828580Z",
+  "model": "glm-5.3"
+}

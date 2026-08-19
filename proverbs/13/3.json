@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 13:3",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Kẻ giữ miệng mình giữ ⟨linh hồn⟩ mình; kẻ mở rộng môi mình — sự hủy diệt dành cho hắn.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "giữ"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "miệng mình"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "giữ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "linh hồn mình"
+    },
+    {
+      "surface": "פשק",
+      "gloss": "mở rộng"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "môi mình"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "sự hủy diệt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho hắn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:16:27.198054991Z",
+  "model": "glm-5.3"
+}

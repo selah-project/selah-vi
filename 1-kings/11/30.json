@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 11:30",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Akhiya nắm lấy tấm áo choàng mới đang trên mình hắn, và xé nó ra làm mười hai mảnh.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "nắm lấy"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Akhiya"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "tấm áo choàng"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "mới"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "trên mình hắn"
+    },
+    {
+      "surface": "ויקרעה",
+      "gloss": "xé nó"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "hai"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mười"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "mảnh"
+    }
+  ],
+  "timestamp": "2026-08-19T03:51:04.561698392Z",
+  "model": "glm-5.3"
+}

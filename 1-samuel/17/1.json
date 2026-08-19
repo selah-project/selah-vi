@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Và người Pelishtim tập hợp ⟨את⟩ trại binh của họ ra trận, và họ tụ lại tại Sokoh, thuộc về Yehudah, và đóng trại giữa Sokoh và Azekah, tại Eifes-Damim.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "và tập hợp"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "người Pelishtim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trại binh của họ"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "trại binh của họ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ra trận"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "và tụ lại"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Sokoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "thuộc về"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "và đóng trại"
+    },
+    {
+      "surface": "בין",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Sokoh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "và giữa"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azekah"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "tại Eifes"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "-Damim"
+    }
+  ],
+  "timestamp": "2026-08-19T03:34:10.795882051Z",
+  "model": "glm-5.3"
+}

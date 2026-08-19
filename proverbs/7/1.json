@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Hỡi con trai ta, hãy giữ các lời của ta, và các điều răn của ta, con hãy cất giấu ⟨את⟩ cùng con mình.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "hỡi con trai ta"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "hãy giữ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "các lời của ta"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "và các điều răn của ta"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "hãy cất giấu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ cùng con",
+      "marks": "cùng con"
+    }
+  ],
+  "timestamp": "2026-08-19T05:15:36.116059340Z",
+  "model": "glm-5.3"
+}

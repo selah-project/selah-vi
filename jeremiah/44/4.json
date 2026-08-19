@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 44:4",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Và Ta đã sai đến các ngươi ⟨את⟩ tất cả các đầy tớ Ta, các nhà tiên tri, dậy sớm sai đi, phán rằng: Xin chớ làm ⟨את⟩ việc gớm ghiếc đáng ghê tởm này, điều mà Ta ghét.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "Ta đã sai"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "đến các ngươi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả các đầy tớ Ta, các nhà tiên tri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "các đầy tớ của Ta"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "các nhà tiên tri"
+    },
+    {
+      "surface": "השכים",
+      "gloss": "dậy sớm"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "và sai đi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "phán rằng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xin"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "việc gớm ghiếc đáng ghê tởm này"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "việc"
+    },
+    {
+      "surface": "התעבה",
+      "gloss": "gớm ghiếc đáng ghê tởm"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "này"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "Ta ghét"
+    }
+  ],
+  "timestamp": "2026-08-19T04:28:45.557918448Z",
+  "model": "glm-5.3"
+}

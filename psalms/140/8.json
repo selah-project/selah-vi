@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 140,
+  "translation": "Yahweh, Adonai, sức mạnh của sự cứu con — Ngài đã che phủ đầu con trong ngày giao chiến.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עז",
+      "gloss": "sức mạnh"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "sự cứu con"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "Ngài đã che phủ"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "đầu con"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "trong ngày"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "giao chiến"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:11.286567157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 17:6",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Và những con quạ mang đến cho hắn bánh và thịt vào buổi sáng, và bánh và thịt vào buổi tối; và từ suối hắn uống.",
+  "tokens": [
+    {
+      "surface": "והערבים",
+      "gloss": "và-những-con-quạ"
+    },
+    {
+      "surface": "מביאים",
+      "gloss": "mang-đến"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho-hắn"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bánh"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "và-thịt"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "vào-buổi-sáng"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "và-bánh"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "và-thịt"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "vào-buổi-tối"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "và-từ"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "suối"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "hắn-uống"
+    }
+  ],
+  "timestamp": "2026-08-19T03:52:23.991872899Z",
+  "model": "glm-5.3"
+}

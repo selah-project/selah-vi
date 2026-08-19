@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 27:9",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Và Yotam nằm xuống với các tổ phụ của mình, và người ta chôn cất ⟨אתו⟩ trong thành của David; và Achaz con trai ông làm vua thay cho ông.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "và nằm xuống"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "với"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "các tổ phụ của mình"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "và người ta chôn cất"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ông (Yotam)"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "trong thành"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "và làm vua"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "con trai ông"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "thay cho ông"
+    }
+  ],
+  "timestamp": "2026-08-19T05:58:59.993419556Z",
+  "model": "glm-5.3"
+}

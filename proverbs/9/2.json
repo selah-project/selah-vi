@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Nàng đã làm thịt con mồi mình, đã pha rượu mình, thậm chí đã dọn bàn mình.",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "đã làm thịt"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "con mồi mình"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "đã pha"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "rượu mình"
+    },
+    {
+      "surface": "אף",
+      "gloss": "thậm chí"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "đã dọn"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "bàn mình"
+    }
+  ],
+  "timestamp": "2026-08-19T05:15:36.314162241Z",
+  "model": "glm-5.3"
+}

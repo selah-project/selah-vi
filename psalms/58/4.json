@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 58,
+  "translation": "Kẻ ác đã lìa khỏi từ trong mẹ; chúng lầm lạc từ trong bụng, nói điều dối trá.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "đã lìa khỏi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "từ trong mẹ"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "chúng lầm lạc"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "từ trong bụng"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nói"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "điều dối trá"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:04.220935226Z",
+  "model": "glm-5.3"
+}

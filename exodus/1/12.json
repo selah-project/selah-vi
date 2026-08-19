@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Nhưng càng áp bức ⟨את⟩ nó, nó lại càng đông đảo và bùng nổ thêm; và họ ghê sợ vì mặt con cái Yisrael.",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "nhưng càng như"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "họ áp bức"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nó",
+      "marks": "nó (dân Yisrael)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "càng như vậy"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "nó đông đảo"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "và càng như vậy"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "nó bùng nổ"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "và họ ghê sợ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vì mặt"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T02:27:22.875511186Z",
+  "model": "glm-5.3"
+}

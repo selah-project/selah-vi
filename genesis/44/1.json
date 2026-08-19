@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 44:1",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Người sai bảo kẻ quản lý nhà mình, rằng: Hãy đổ đầy ⟨את⟩ các túi của những người kia lương thực, theo như họ có thể mang, và hãy đặt bạc của mỗi người vào miệng túi y.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "và người sai bảo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kẻ quản lý nhà mình"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kẻ mà"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nhà của người"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "hãy đổ đầy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các túi"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "các túi"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "của những người kia"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "lương thực"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "theo như"
+    },
+    {
+      "surface": "יוכלון",
+      "gloss": "họ có thể"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "mang"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "và hãy đặt"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "bạc"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mỗi người"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "trong miệng"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "túi của y"
+    }
+  ],
+  "timestamp": "2026-08-19T02:25:22.489475763Z",
+  "model": "glm-5.3"
+}

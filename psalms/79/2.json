@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 79,
+  "translation": "Họ đãGiving cho ⟨את⟩ xác chết của các tôi tớ Ngài làm thức ăn cho chim trời, thịt của các tín đồ trung thành Ngài cho thú đất.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "họ đã giving"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xác chết"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "xác chết"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "của các tôi tớ Ngài"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "làm thức ăn"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "cho chim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "của các tầng trời"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "thịt"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "của các tín đồ trung thành Ngài"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "cho thú"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:50.815986607Z",
+  "model": "glm-5.3"
+}

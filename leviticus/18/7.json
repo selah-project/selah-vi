@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Sự trần trụi của cha ngươi và sự trần trụi của mẹ ngươi, ngươi đừng phơi bày; bà ⟨là⟩ mẹ ngươi, ngươi đừng phơi bày sự trần trụi của bà.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "sự trần trụi của"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "cha ngươi"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "và sự trần trụi của"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mẹ ngươi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ngươi phơi bày"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mẹ ngươi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bà là"
+    },
+    {
+      "surface": "לא",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ngươi phơi bày"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "sự trần trụi của bà"
+    }
+  ],
+  "timestamp": "2026-08-19T02:44:44.900744424Z",
+  "model": "glm-5.3"
+}

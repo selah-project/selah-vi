@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 1:25",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và các ngươi đã khinh bỏ mọi lời khuyên dạy của tôi, và lời trách phạt của tôi, các ngươi đã không ưng chịu.",
+  "tokens": [
+    {
+      "surface": "ותפרעו",
+      "gloss": "và-các-ngươi-đã-khinh-bỏ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "lời-khuyên-dạy-của-tôi"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "và-lời-trách-phạt-của-tôi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "các-ngươi-đã-ưng-chịu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:59.907452591Z",
+  "model": "glm-5.3"
+}

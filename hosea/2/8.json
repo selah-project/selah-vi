@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Vì thế, này, Ta sẽ rào con đường ngươi bằng gai, và Ta sẽ dựng ⟨את⟩ rào chắn của nàng, và các lối mòn của nàng nàng sẽ không tìm thấy.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "vì thế"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "này"
+    },
+    {
+      "surface": "שך",
+      "gloss": "Ta sẽ rào"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con đường ngươi"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "con đường ngươi"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "bằng gai"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "và Ta sẽ dựng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rào chắn của nàng"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "rào chắn của nàng"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "và các lối mòn của nàng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "nàng sẽ tìm thấy"
+    }
+  ],
+  "timestamp": "2026-08-19T04:44:15.591673033Z",
+  "model": "glm-5.3"
+}

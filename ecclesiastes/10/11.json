@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Nếu con rắn cắn mà không có bùa chú, thì chủ tước lưỡi không được lợi gì.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "cắn"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "con rắn"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "mà không"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "bùa chú"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "thì không có"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "lợi"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "cho chủ"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "tước lưỡi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:16.612313238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 7:21",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Ngài dựng ⟨את⟩ các trụ trước tiền sảnh của đền; ngài dựng ⟨את⟩ trụ bên phải, và gọi ⟨את⟩ tên nó là Yakhin; ngài dựng ⟨את⟩ trụ bên trái, và gọi ⟨את⟩ tên nó là Boaz.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ngài dựng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các trụ"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "các trụ"
+    },
+    {
+      "surface": "לאלם",
+      "gloss": "tiền sảnh"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "đền"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ngài dựng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trụ bên phải"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "trụ"
+    },
+    {
+      "surface": "הימני",
+      "gloss": "bên phải"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "và gọi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tên nó"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "tên nó"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Yakhin"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ngài dựng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trụ bên trái"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "trụ"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "bên trái"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "và gọi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tên nó"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "tên nó"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-08-19T03:48:52.479534008Z",
+  "model": "glm-5.3"
+}

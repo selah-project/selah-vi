@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Tôi đã nhận ⟨làm cơ nghiệp⟩ các chứng ngôn của Ngài đến đời đời, vì ⟨là⟩ niềm vui mừng của lòng tôi — chính chúng ⟨thế⟩.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "tôi đã nhận làm cơ nghiệp"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "các chứng ngôn của Ngài"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "đến đời đời"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "niềm vui mừng"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "của lòng tôi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "chính chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:30.262798184Z",
+  "model": "glm-5.3"
+}

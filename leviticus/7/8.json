@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Và thầy tế lễ dâng ⟨את⟩ tế lễ thiêu của một người nào, thì da của tế lễ thiêu mà người ấy đã dâng sẽ thuộc về thầy tế lễ đó.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "và thầy tế lễ"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "dâng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tế lễ thiêu"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "tế lễ thiêu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "của một người nào"
+    },
+    {
+      "surface": "עור",
+      "gloss": "da"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "của tế lễ thiêu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "đã dâng"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "cho thầy tế lễ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho người ấy"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sẽ thuộc về"
+    }
+  ],
+  "timestamp": "2026-08-19T02:40:41.609828504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Xin đoái nhìn, đáp lời tôi, Yahweh, Elohim của tôi; xin làm sáng ⟨את⟩ mắt tôi, kẻo tôi ngủ giấc ngủ của sự chết.",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "xin đoái nhìn"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "đáp lời tôi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của tôi"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "xin làm sáng"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mắt tôi"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kẻo"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "tôi ngủ"
+    },
+    {
+      "surface": "המות",
+      "gloss": "của sự chết"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:27.381876237Z",
+  "model": "glm-5.3"
+}

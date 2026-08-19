@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 108,
+  "translation": "Há không phải Ngài, Elohim, đã bỏ chúng tôi, và Elohim không ra đi cùng các đạo quân chúng tôi?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "há không phải"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "đã bỏ chúng tôi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ra đi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "cùng các đạo quân chúng tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:20.279678594Z",
+  "model": "glm-5.3"
+}

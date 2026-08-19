@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 45,
+  "translation": "Ta là Yahweh, và không còn ⟨ai⟩ nữa; ngoài Ta không có Elohim nào; Ta thắt đai cho ngươi, mà ngươi đã không biết Ta.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "và không có"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nữa"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "ngoài Ta"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "Ta thắt đai cho ngươi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mà không"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "ngươi đã biết Ta"
+    }
+  ],
+  "timestamp": "2026-08-19T04:13:09.137478854Z",
+  "model": "glm-5.3"
+}

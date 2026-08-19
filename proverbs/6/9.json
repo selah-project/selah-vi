@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Đến bao lâu, hỡi kẻ lười biếng, ngươi còn nằm? Bao giờ ngươi mới chỗi dậy khỏi giấc ngủ của ngươi?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "bao lâu"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "hỡi kẻ lười biếng"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ngươi nằm"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "bao giờ"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ngươi chỗi dậy"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "khỏi giấc ngủ của ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:14:43.171150377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 51,
+  "translation": "Chính Ta, chính Ta, ⟨là Đấng⟩ an ủi ⟨các⟩ ngươi. Ngươi là ai mà sợ một người phàm phải chết, và con loài người được ban cho như cỏ?",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Chính Ta"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "chính Ta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "là Đấng"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "an ủi ngươi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngươi là"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "mà ngươi sợ"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "một người phàm"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "phải chết"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "và con của"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "loài người"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "như cỏ"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "được ban cho"
+    }
+  ],
+  "timestamp": "2026-08-19T04:14:03.219987675Z",
+  "model": "glm-5.3"
+}

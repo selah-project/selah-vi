@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Các ngươi đừng làm ô uế ⟨את⟩ danh thánh của Ta, và Ta sẽ được nên thánh giữa con cái Yisra'el: Ta là Yahweh, ⟨Đấng⟩ làm các ngươi nên thánh.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "và đừng"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "các ngươi làm ô uế"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "danh thánh của Ta"
+    },
+    {
+      "surface": "שם",
+      "gloss": "danh"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "thánh của Ta"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "và Ta sẽ được nên thánh"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "làm các ngươi nên thánh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:46:37.057015875Z",
+  "model": "glm-5.3"
+}

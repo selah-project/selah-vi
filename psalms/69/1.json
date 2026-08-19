@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 69,
+  "translation": "Cho người chỉ huy, theo điệu Shoshannim; của David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "cho người chỉ huy"
+    },
+    {
+      "surface": "על",
+      "gloss": "theo điệu"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "Shoshannim"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "của David"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:39.312604518Z",
+  "model": "glm-5.3"
+}

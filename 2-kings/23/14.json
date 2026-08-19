@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Người đã đập vỡ ⟨את⟩ các trụ standing, chặt hạ ⟨את⟩ các cây Asherah, và lấp đầy chỗ của chúng bằng xương người.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "đã đập vỡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các trụ standing"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "các trụ standing"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "đã chặt hạ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các cây Asherah"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "các cây Asherah"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "đã lấp đầy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chỗ của chúng"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "chỗ của chúng"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "xương"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "người"
+    }
+  ],
+  "timestamp": "2026-08-19T04:02:51.729326187Z",
+  "model": "glm-5.3"
+}

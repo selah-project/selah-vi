@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Không ⟨được⟩ cưới: người đàn ông ⟨את⟩ vợ của cha mình, và không được lật mở vạt áo của cha mình.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "cưới (lấy)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người đàn ông"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vợ của cha mình"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vợ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "của cha mình"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "lật mở (lộ ra)"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "vạt áo (cánh áo)"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "của cha mình"
+    }
+  ],
+  "timestamp": "2026-08-19T03:11:07.924115614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Đến sự kiêu ngạo, thì ⟨את⟩ kẻ nhún nhường sự khinh bỉ cũng đến, và ⟨את⟩ kẻ khiêm cung là sự khôn ngoan.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "đến"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "sự kiêu ngạo"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "thì cũng đến"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "sự khinh bỉ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kẻ khiêm cung"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "kẻ khiêm cung"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "sự khôn ngoan"
+    }
+  ],
+  "timestamp": "2026-08-19T05:16:13.658318971Z",
+  "model": "glm-5.3"
+}

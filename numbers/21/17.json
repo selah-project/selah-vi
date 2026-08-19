@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Bấy giờ Yisrael hát ⟨את⟩ bài ca này: Hãy trồi lên, hỡi giếng; hãy đáp lại nó!",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "bấy giờ"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "hát"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bài ca"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "bài ca"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "này"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "hãy trồi lên"
+    },
+    {
+      "surface": "באר",
+      "gloss": "hỡi giếng"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "hãy đáp lại"
+    },
+    {
+      "surface": "לה",
+      "gloss": "nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:59:17.149490878Z",
+  "model": "glm-5.3"
+}

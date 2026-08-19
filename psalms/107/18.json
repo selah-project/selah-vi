@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 107,
+  "translation": "Mọi đồ ăn, linh hồn họ gớm ghiếc, và họ tiến gần đến các cổng của sự chết.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "đồ ăn"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "gớm ghiếc"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "linh hồn họ"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "và họ tiến gần đến"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "các cổng của"
+    },
+    {
+      "surface": "מות",
+      "gloss": "sự chết"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:09.979237595Z",
+  "model": "glm-5.3"
+}

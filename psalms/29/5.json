@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Tiếng Yahweh đập gãy những cây bách tùng; Yahweh đã đập gãy ⟨את⟩ những cây bách tùng của Levanon.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "tiếng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "đập gãy"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "những cây bách tùng"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "và đã đập gãy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "những cây bách tùng của Levanon"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "những cây bách tùng của"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Levanon"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:07.677119844Z",
+  "model": "glm-5.3"
+}

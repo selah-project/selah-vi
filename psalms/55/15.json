@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 55,
+  "translation": "Đấng cùng tôi làm ngọt ⟨את⟩ những bí mật tâm giao, trong nhà Elohim chúng ta đi cùng đám đông.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "đấng mà"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "cùng nhau"
+    },
+    {
+      "surface": "נמתיק",
+      "gloss": "làm ngọt"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "⟨את⟩ những bí mật tâm giao"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "trong nhà"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "chúng ta đi"
+    },
+    {
+      "surface": "ברגש",
+      "gloss": "cùng đám đông"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:29.503706810Z",
+  "model": "glm-5.3"
+}

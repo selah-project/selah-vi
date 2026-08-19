@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 6:5",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Lừa rừng có hý lên khi có cỏ non không? Bò có rống lên trên thức ăn của nó không?",
+  "tokens": [
+    {
+      "surface": "הינהק",
+      "gloss": "có hý lên không?"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "lừa rừng"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "khi có"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "cỏ non"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hoặc"
+    },
+    {
+      "surface": "יגעה",
+      "gloss": "có rống lên không"
+    },
+    {
+      "surface": "שור",
+      "gloss": "bò"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "בלילו",
+      "gloss": "thức ăn của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:21:07.304756769Z",
+  "model": "glm-5.3"
+}

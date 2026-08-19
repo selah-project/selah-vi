@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 82,
+  "translation": "Hãy đứng dậy, Elohim, hãy xét đoán ⟨את⟩ đất, vì chính Ngài sẽ nhận sản nghiệp trong mọi dân tộc.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Hãy đứng dậy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "hãy xét đoán"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨את⟩ đất"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "chính Ngài"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "sẽ nhận sản nghiệp"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "trong mọi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "dân tộc"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:31.784988178Z",
+  "model": "glm-5.3"
+}

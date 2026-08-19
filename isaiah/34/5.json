@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 34:5",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 34,
+  "translation": "Vì gươm của Ta đã no say ở trên trời; kìa, nó sẽ giáng xuống trên Edom, trên dân bị Ta cherem, để xét xử.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Vì"
+    },
+    {
+      "surface": "רותה",
+      "gloss": "đã no say"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ở trên trời"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "gươm của Ta"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kìa"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "sẽ giáng xuống"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "và trên"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "bị Ta cherem"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "để xét xử"
+    }
+  ],
+  "timestamp": "2026-08-19T04:09:58.722505272Z",
+  "model": "glm-5.3"
+}

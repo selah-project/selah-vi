@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 3:3",
+  "book": "micah",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và ⟨những kẻ⟩ đã ăn thịt dân tôi, và lột da họ khỏi họ; đã đập vỡ ⟨את⟩ xương họ và xắt ra như ⟨vật⟩ trong nồi, như thịt giữa cái soong.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "và những kẻ mà"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "đã ăn"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "thịt"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "dân tôi"
+    },
+    {
+      "surface": "ועורם",
+      "gloss": "và da họ"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "khỏi họ"
+    },
+    {
+      "surface": "הפשיטו",
+      "gloss": "đã lột"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "xương họ"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "xương họ"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "đã đập vỡ"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "và xắt ra"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "trong nồi"
+    },
+    {
+      "surface": "וכבשר",
+      "gloss": "như thịt"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "קלחת",
+      "gloss": "cái soong"
+    }
+  ],
+  "timestamp": "2026-08-19T04:49:42.014590624Z",
+  "model": "glm-5.3"
+}

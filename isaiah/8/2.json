@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và ta sẽ khiến cho ta những chứng nhân đáng tin: ⟨את⟩ Uriyah thầy tế lễ, và ⟨את⟩ Zekharyah con trai Yeverekhyahu.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "và-ta-sẽ-khiến-làm-chứng"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho ta"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "những chứng nhân"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "đáng tin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriyah"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "thầy tế lễ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zekharyah"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekharyah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Yeverekhyahu"
+    }
+  ],
+  "timestamp": "2026-08-19T04:05:00.153414046Z",
+  "model": "glm-5.3"
+}

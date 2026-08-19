@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Từ các phán quyết của Ngài tôi không lìa bỏ, vì chính Ngài đã dạy dỗ tôi.",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "từ các phán quyết của Ngài"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "tôi lìa bỏ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "đã dạy dỗ tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:01.834922126Z",
+  "model": "glm-5.3"
+}

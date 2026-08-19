@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Ngươi hãy làm một bàn thờ để đốt hương; gỗ keo ⟨את⟩ nó hãy làm bằng gỗ keo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "và ngươi hãy làm"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "một bàn thờ"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "để đốt"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "hương"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "gỗ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "keo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "hãy làm"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nó",
+      "marks": "nó (bàn thờ)"
+    }
+  ],
+  "timestamp": "2026-08-19T02:36:22.022218970Z",
+  "model": "glm-5.3"
+}

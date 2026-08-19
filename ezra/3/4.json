@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và họ làm ⟨את⟩ lễ hội Lều Tạm như đã chép, và lễ thiêu ngày trong ngày, theo số lượng, như quy định của phận sự ngày trong ngày của nó.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "và họ làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lễ hội Lều Tạm"
+    },
+    {
+      "surface": "חג",
+      "gloss": "lễ hội"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "các lều tạm"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "như đã chép"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "và lễ thiêu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "trong ngày"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "theo số lượng"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "như quy định"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "phận sự"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "trong ngày của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T06:21:02.885917189Z",
+  "model": "glm-5.3"
+}

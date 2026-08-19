@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 147,
+  "translation": "Đấng sai phán lệnh truyền của Ngài xuống đất, rất nhanh chóng lời Ngài chạy.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "Đấng sai phán"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "lệnh truyền của Ngài"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến khi"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "rất nhanh chóng"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "chạy"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "lời của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:35.389196838Z",
+  "model": "glm-5.3"
+}

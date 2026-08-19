@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 89:52",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 89,
+  "translation": "Mà kẻ thù Ngài đã sỉ nhục, Yahweh; mà chúng đã sỉ nhục ⟨את⟩ dấu bước của Mashíach của Ngài.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "chúng đã sỉ nhục"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "kẻ thù Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "chúng đã sỉ nhục"
+    },
+    {
+      "surface": "עקבות",
+      "gloss": "dấu bước"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashíach của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:14.495003040Z",
+  "model": "glm-5.3"
+}

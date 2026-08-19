@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 68,
+  "translation": "Chúng đã thấy các cuộc rước kiệu của Ngài, Elohim, các cuộc rước kiệu của El tôi, Vua tôi, trong nơi thánh.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "chúng đã thấy"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "các cuộc rước kiệu của Ngài"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "các cuộc rước kiệu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El của tôi"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Vua của tôi"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "trong nơi thánh"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:21.792440654Z",
+  "model": "glm-5.3"
+}

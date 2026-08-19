@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Nàng cai sữa ⟨את⟩ Lo-Ruhamah, rồi nàng thụ thai và sinh một con trai.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "nàng cai sữa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Ruhamah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhamah"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "và nàng thụ thai"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "và sinh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    }
+  ],
+  "timestamp": "2026-08-19T04:44:28.810191998Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Nếu các mây đầy mưa, chúng đổ xuống trên đất; và nếu cây ngã về hướng nam, và nếu về hướng bắc, nơi cây ngã, ở đó nó sẽ nằm.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Nếu"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "đầy"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "các mây"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "mưa"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "chúng đổ xuống"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "và nếu"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ngã"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "cây"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "về hướng nam"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "và nếu"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "về hướng bắc"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "nơi"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "ngã"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "cây"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ở đó"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "nó sẽ là"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:48.849782953Z",
+  "model": "glm-5.3"
+}

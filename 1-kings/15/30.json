@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 15:30",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Vì các tội lỗi của Yaroveam mà ông đã phạm, và khiến Yisrael phạm, do sự chọc giận mà ông đã chọc giận ⟨את⟩ Yahweh, Elohim của Yisrael.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "các tội lỗi"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "của Yaroveam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "đã phạm"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "và mà"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "đã khiến phạm tội"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בכעסו",
+      "gloss": "do sự chọc giận của ông"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "הכעיס",
+      "gloss": "đã chọc giận"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T03:52:49.552505132Z",
+  "model": "glm-5.3"
+}

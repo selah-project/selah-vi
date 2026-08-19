@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 60,
+  "translation": "Moav ⟨là⟩ nồi rửa của ta; lên Edom ta ném đôi dép của ta; lên Peleshet, hãy tung hô vì ta!",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "nồi"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "rửa của ta"
+    },
+    {
+      "surface": "על",
+      "gloss": "lên"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "ta ném"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "đôi dép của ta"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lên"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleshet"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "hãy tung hô"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:15.916132697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Vì tôi chết trong xứ nầy, tôi không qua ⟨את⟩ sông Yarden; còn các ngươi sẽ qua và chiếm hữu ⟨את⟩ xứ tốt đẹp nầy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "מת",
+      "gloss": "chết"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trong xứ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nầy"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "không"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "qua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sông Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sông Yarden"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "còn các ngươi"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "sẽ qua"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "và chiếm hữu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xứ tốt đẹp nầy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "xứ"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "tốt đẹp"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nầy"
+    }
+  ],
+  "timestamp": "2026-08-19T03:06:12.763875689Z",
+  "model": "glm-5.3"
+}

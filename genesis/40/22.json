@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 40:22",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Còn ⟨את⟩ quan trưởng những người làm bánh thì người treo lên, như Yosef đã giải cho họ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "còn ⟨את⟩"
+    },
+    {
+      "surface": "שר",
+      "gloss": "quan trưởng",
+      "marks": "quan trưởng những người làm bánh"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "những người làm bánh"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "treo lên"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "đã giải"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho họ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    }
+  ],
+  "timestamp": "2026-08-19T01:24:09.389673186Z",
+  "model": "glm-5.3"
+}

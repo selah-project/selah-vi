@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 60,
+  "translation": "Elohim, Ngài đã bỏ rơi chúng con, đã làm chúng con tan vỡ, đã nổi giận — hãy quay lại cùng chúng con!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "Ngài đã bỏ rơi chúng con"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "Ngài đã làm chúng con tan vỡ"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "Ngài đã nổi giận"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "hãy quay lại"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "cùng chúng con"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:27.497068859Z",
+  "model": "glm-5.3"
+}

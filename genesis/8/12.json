@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 8:12",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và ông đợi thêm bảy ngày nữa, và sai ⟨את⟩ chim bồ câu ra; và nó không quay về với ông nữa.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "ông đợi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "thêm"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "bảy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "nữa"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "sai đi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chim bồ câu"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "chim bồ câu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יספה",
+      "gloss": "tiếp tục"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "quay về"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "với ông"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nữa"
+    }
+  ],
+  "timestamp": "2026-08-19T00:50:13.612369189Z",
+  "model": "glm-5.3"
+}

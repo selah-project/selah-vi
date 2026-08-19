@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 19:37",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Chút ít tôi tớ ngài sẽ qua ⟨את⟩ sông Yarden cùng ⟨את⟩ vua; còn vì cớ gì vua sẽ đáp đền tôi tớ mình bằng sự đền đáp như thế này?",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "chút ít"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "sẽ qua"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tôi tớ ngài"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sông Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sông Yarden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vua"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "còn vì cớ gì"
+    },
+    {
+      "surface": "יגמלני",
+      "gloss": "sẽ đáp đền tôi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "הגמולה",
+      "gloss": "sự đền đáp"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "như thế này"
+    }
+  ],
+  "timestamp": "2026-08-19T03:44:38.600032786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 22:25",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Còn nếu trong cánh đồng người kia gặp ⟨את⟩ thiếu nữ đã đính hôn, và người kia nắm giữ nàng, nằm với nàng, thì người nam đã nằm với nàng phải chết, một mình hắn thôi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "còn nếu"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "trong cánh đồng"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "gặp"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "người kia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thiếu nữ đã đính hôn"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "thiếu nữ"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "đã đính hôn"
+    },
+    {
+      "surface": "והחזיק",
+      "gloss": "và nắm giữ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nàng"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "người kia"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "và nằm"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "với nàng"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "và phải chết"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "người nam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "đã nằm"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "với nàng"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "một mình hắn"
+    }
+  ],
+  "timestamp": "2026-08-19T03:10:49.944023495Z",
+  "model": "glm-5.3"
+}

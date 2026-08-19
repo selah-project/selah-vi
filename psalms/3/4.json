@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Còn Ngài, Yahweh, là khiên che chung quanh con, là vinh quang con, và Đấng nhấc đầu con lên.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "còn Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "khiên"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "che chung quanh con"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "vinh quang con"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "và Đấng nhấc lên"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "đầu con"
+    }
+  ],
+  "timestamp": "2026-08-19T04:55:00.623838900Z",
+  "model": "glm-5.3"
+}

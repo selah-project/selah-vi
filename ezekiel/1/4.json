@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 1:4",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Tôi nhìn, và kìa, một cơn gió bão tố từ phương bắc đến, một đám mây lớn và lửa đang bùng cháy, và ánh sáng bao quanh nó; và từ giữa nó như hình dạng của hashmal, từ giữa đám lửa.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "và tôi nhìn"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "và kìa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "gió"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "bão tố"
+    },
+    {
+      "surface": "באה",
+      "gloss": "đang đến"
+    },
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "phương bắc"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "đám mây"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lớn"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "và lửa"
+    },
+    {
+      "surface": "מתלקחת",
+      "gloss": "đang bùng cháy"
+    },
+    {
+      "surface": "ונגה",
+      "gloss": "và ánh sáng"
+    },
+    {
+      "surface": "לו",
+      "gloss": "của nó"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "bao quanh"
+    },
+    {
+      "surface": "ומתוכה",
+      "gloss": "và từ giữa nó"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "như hình dạng của"
+    },
+    {
+      "surface": "החשמל",
+      "gloss": "hashmal"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "từ giữa"
+    },
+    {
+      "surface": "האש",
+      "gloss": "đám lửa"
+    }
+  ],
+  "timestamp": "2026-08-19T04:31:18.051058338Z",
+  "model": "glm-5.3"
+}

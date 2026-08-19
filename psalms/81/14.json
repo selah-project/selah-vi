@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 81,
+  "translation": "Ôi giá như dân Ta đang nghe Ta, Israel ⟨thì⟩ sẽ đi trong đường lối của Ta!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "ôi-giá-như"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "dân-Ta"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nghe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "trong-đường-lối-của-Ta"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "sẽ-đi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:37.331323547Z",
+  "model": "glm-5.3"
+}

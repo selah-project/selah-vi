@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 44:23",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Và ⟨את⟩ dân Ta họ sẽ dạy dạy phân biệt giữa thánh và profane, và giữa ô uế và tinh sạch họ sẽ làm cho họ biết.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dân Ta"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "dân-Ta"
+    },
+    {
+      "surface": "יורו",
+      "gloss": "họ-sẽ-dạy"
+    },
+    {
+      "surface": "בין",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "thánh"
+    },
+    {
+      "surface": "לחol",
+      "gloss": "và-profane"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "và-giữa"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ô-uế"
+    },
+    {
+      "surface": "לטהור",
+      "gloss": "và-tinh-sạch"
+    },
+    {
+      "surface": "יודעם",
+      "gloss": "họ-làm-cho-biết"
+    }
+  ],
+  "timestamp": "2026-08-19T04:42:53.694699787Z",
+  "model": "glm-5.3"
+}

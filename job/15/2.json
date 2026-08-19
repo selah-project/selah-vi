@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 15:2",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Người khôn ngoan có đáp lời bằng tri thức-gió, và làm đầy bụng mình bằng gió đông?",
+  "tokens": [
+    {
+      "surface": "החכם",
+      "gloss": "người khôn ngoan"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "đáp lời"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tri thức"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "gió"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "và làm đầy"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "gió đông"
+    },
+    {
+      "surface": "בטנו",
+      "gloss": "bụng mình"
+    }
+  ],
+  "timestamp": "2026-08-19T05:23:12.382130693Z",
+  "model": "glm-5.3"
+}

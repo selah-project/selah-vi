@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Lời của Qohelet, con trai Dawid, vua trong Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "lời của"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Qohelet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "trong Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:20.677196992Z",
+  "model": "glm-5.3"
+}

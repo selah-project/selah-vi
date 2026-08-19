@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và ta đã phán cùng ngươi: hãy saithả ⟨את⟩ con trai ta để nó phục vụ ta; mà ngươi đã khước từ saithả nó — thấy đây, ta đang giết ⟨את⟩ con trai ngươi, con trưởng nam ngươi.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "và-ta-phán"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "cùng-ngươi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "hãy-saithả"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con trai ta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con-trai-ta"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "để-nó-phục-vụ-ta"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "mà-ngươi-khước-từ"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "saithả-nó"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "thấy-đây"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "đang-giết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con trai ngươi"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "con-trai-ngươi"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "trưởng-nam-ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:28:16.340857544Z",
+  "model": "glm-5.3"
+}

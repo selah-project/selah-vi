@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 80,
+  "translation": "và ⟨vườn nho⟩ mà tay phải Ngài đã trồng, và ⟨về⟩ con trai mà Ngài đã làm mạnh mẽ cho ⟨phần⟩ Ngài.",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "và vườn nho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "đã trồng"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tay phải của Ngài"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "và trên"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "đã làm mạnh mẽ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:23.392083485Z",
+  "model": "glm-5.3"
+}

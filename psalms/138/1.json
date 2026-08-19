@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 138,
+  "translation": "Của David. Tôi tạ ơn Ngài với hết lòng tôi; trước mặt Elohim tôi sẽ đàn ca ngợi Ngài.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Của David"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "tôi tạ ơn Ngài"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "với hết"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "lòng tôi"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "tôi sẽ đàn ca ngợi Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:03.838770065Z",
+  "model": "glm-5.3"
+}

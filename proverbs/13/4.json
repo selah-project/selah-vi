@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "⟨Linh hồn⟩ của kẻ lười biếng mong muốn mà không có gì, nhưng ⟨linh hồn⟩ của người chăm chỉ sẽ được béo mập.",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "mong muốn"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mà không có gì"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "linh hồn của"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "kẻ lười biếng"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "nhưng linh hồn"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "của người chăm chỉ"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "sẽ được béo mập"
+    }
+  ],
+  "timestamp": "2026-08-19T05:16:27.198220846Z",
+  "model": "glm-5.3"
+}

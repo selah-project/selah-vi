@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 16:24",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Hãy kể lại giữa các nước ⟨את⟩ vinh quang của Ngài, giữa mọi dân sự lạ lùng của Ngài.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "hãy kể lại"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "giữa các nước"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vinh quang của Ngài"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "vinh quang của Ngài"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "giữa mọi"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "các dân"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "sự lạ lùng của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:50:17.008991311Z",
+  "model": "glm-5.3"
+}

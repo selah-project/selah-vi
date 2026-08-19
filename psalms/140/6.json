@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 140:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 140,
+  "translation": "Kẻ kiêu ngạo đã giấu bẫy cho con, và dây; chúng trải lưới bên cạnh lối đi, đặt bẫy chông cho con. Selah.",
+  "tokens": [
+    {
+      "surface": "טמנו",
+      "gloss": "đã giấu"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "kẻ kiêu ngạo"
+    },
+    {
+      "surface": "פח",
+      "gloss": "bẫy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho con"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "và dây"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "chúng trải"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "lưới"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "bên cạnh"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "lối đi"
+    },
+    {
+      "surface": "מקשים",
+      "gloss": "bẫy chông"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "đặt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho con"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:11.286266609Z",
+  "model": "glm-5.3"
+}

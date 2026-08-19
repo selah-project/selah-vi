@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 10:8",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Sứ giả đến và báo cho người, nói: Họ đã đem đến các đầu của con trai vua. Người nói: Hãy đặt ⟨אתם⟩ chúng thành hai đống trước cổng thành, cho đến sáng.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "đã đến"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "sứ giả"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "đã báo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho người"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nói rằng"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "họ đã đem đến"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "các đầu của"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và người nói"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "hãy đặt"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "chúng (các đầu)"
+    },
+    {
+      "surface": "שני",
+      "gloss": "hai"
+    },
+    {
+      "surface": "צברים",
+      "gloss": "đống"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "trước"
+    },
+    {
+      "surface": "השער",
+      "gloss": "cổng thành"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sáng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:58:57.929303052Z",
+  "model": "glm-5.3"
+}

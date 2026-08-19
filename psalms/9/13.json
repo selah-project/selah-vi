@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Vì Đấc truy hỏi huyết đã nhớ ⟨את⟩ chúng; Ngài không quên tiếng kêu của những kẻ nghèo khổ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "truy hỏi"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "huyết"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "chúng (các người nghèo khổ)"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "đã nhớ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "quên"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "tiếng kêu"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "những kẻ nghèo khổ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:55:48.433572930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và nhà vua tháo ⟨את⟩ ấn của ngài khỏi tay ngài, và ban nó cho Haman con trai Hamdata người Agagi, kẻ áp bức người Yehudim.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "và ngài tháo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "nhà vua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ấn của ngài"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "ấn của ngài"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tay ngài"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "và ban nó"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "cho Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamdata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "người Agagi"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "kẻ áp bức"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "người Yehudim"
+    }
+  ],
+  "timestamp": "2026-08-19T05:34:52.500474880Z",
+  "model": "glm-5.3"
+}

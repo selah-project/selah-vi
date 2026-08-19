@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Vào ngày các ngươi giết tế, nó sẽ được ăn, và vào ngày mai; còn phần còn lại đến ngày thứ ba thì phải thiêu trong lửa.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "vào ngày"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "sự giết tế của các ngươi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "sẽ được ăn"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "và ngày mai"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "và phần còn lại"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "thứ ba"
+    },
+    {
+      "surface": "באש",
+      "gloss": "trong lửa"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "phải bị thiêu"
+    }
+  ],
+  "timestamp": "2026-08-19T02:45:31.459048624Z",
+  "model": "glm-5.3"
+}

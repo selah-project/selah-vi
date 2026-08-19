@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Và Moshe và Aharon đi đến trước mặt trại hội kiến.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "đi đến"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "và Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tới"
+    },
+    {
+      "surface": "פני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "trại"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "hội kiến"
+    }
+  ],
+  "timestamp": "2026-08-19T02:57:38.258986128Z",
+  "model": "glm-5.3"
+}

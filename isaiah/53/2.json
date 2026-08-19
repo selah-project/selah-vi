@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 53:2",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 53,
+  "translation": "Người đã mọc lên như chồi non trước mặt ⟨Ngài⟩, và như rễ từ đất khô cằn; không có hình dáng cũng không có oai nghi cho người; chúng tôi nhìn thấy người, nhưng không có vẻ gì nên xem, và không có gì nên ước mong người.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "đã mọc lên"
+    },
+    {
+      "surface": "כיונק",
+      "gloss": "như chồi non"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "trước mặt Ngài"
+    },
+    {
+      "surface": "וכשרש",
+      "gloss": "và như rễ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "từ đất"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "khô cằn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "hình dáng"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho người"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "cũng không"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "oai nghi"
+    },
+    {
+      "surface": "ונראהו",
+      "gloss": "và chúng tôi nhìn thấy người"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nhưng không"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "vẻ nên xem"
+    },
+    {
+      "surface": "ונחמדהו",
+      "gloss": "và không nên ước mong người"
+    }
+  ],
+  "timestamp": "2026-08-19T04:14:08.573597978Z",
+  "model": "glm-5.3"
+}

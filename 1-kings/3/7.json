@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và nay, Yahweh Elohim của tôi, chính Ngài đã khiến tôi tớ của Ngài ⟨את⟩ lên làm vua thay David cha tôi; còn tôi là một trẻ nhỏ, không biết đi ra hay đi vào.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "và nay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của tôi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "chính Ngài"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "đã khiến làm vua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tôi tớ của Ngài"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tôi tớ của Ngài"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "cha tôi"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "còn tôi"
+    },
+    {
+      "surface": "נער",
+      "gloss": "một đứa trẻ"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "nhỏ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "biết"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "đi ra"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "hay đi vào"
+    }
+  ],
+  "timestamp": "2026-08-19T03:47:51.409102440Z",
+  "model": "glm-5.3"
+}

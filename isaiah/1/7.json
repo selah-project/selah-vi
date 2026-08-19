@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Đất của các ngươi thành hoang vu, các thành của các ngươi bị thiêu bởi lửa; đất đai của các ngươi — ngay trước mặt các ngươi — người ngoại bang đang ăn nuốt ⟨את⟩ nó, và ⟨nó⟩ hoang vu như sự lật đổ của người ngoại bang.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "đất của các ngươi"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "thành hoang vu"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "các thành của các ngươi"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "bị thiêu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "bởi lửa"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "đất đai của các ngươi"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "ngay trước mặt các ngươi"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "người ngoại bang"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "đang ăn nuốt"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nó (đất đai của các ngươi)"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "và ⟨nó⟩ hoang vu"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "như sự lật đổ"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "của người ngoại bang"
+    }
+  ],
+  "timestamp": "2026-08-19T04:03:21.620515902Z",
+  "model": "glm-5.3"
+}

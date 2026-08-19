@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 36:21",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 36,
+  "translation": "Và ⟨họ⟩ im lặng, và không trả lời ⟨את⟩ ông ấy một lời, vì mệnh lệnh của vua là: 'Đừng trả lời ông ấy.'",
+  "tokens": [
+    {
+      "surface": "ויחרישו",
+      "gloss": "và họ im lặng"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "trả lời"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ông ấy"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "một lời"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mệnh lệnh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "của vua"
+    },
+    {
+      "surface": "היא",
+      "gloss": "là"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תענהו",
+      "gloss": "trả lời ông ấy"
+    }
+  ],
+  "timestamp": "2026-08-19T04:10:12.184699232Z",
+  "model": "glm-5.3"
+}

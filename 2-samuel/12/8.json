@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 12:8",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "và Ta đã ban cho ngươi ⟨את⟩ nhà của chúa ngươi, và ⟨את⟩ các vợ của chúa ngươi vào lòng ngươi; và Ta đã ban cho ngươi ⟨את⟩ nhà Yisrael và Yehudah; và nếu ⟨điều đó⟩ ít ỏi, thì Ta sẽ thêm cho ngươi như thế này và như thế này.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "và Ta đã ban"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngươi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhà của chúa ngươi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "của chúa ngươi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các vợ của chúa ngươi"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "các vợ"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "của chúa ngươi"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "vào lòng ngươi"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "và Ta đã ban"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngươi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhà Yisrael và Yehudah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "và Yehudah"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "và nếu"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ít ỏi"
+    },
+    {
+      "surface": "ואספה",
+      "gloss": "thì Ta sẽ thêm"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngươi"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "như thế này"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "và như thế này"
+    }
+  ],
+  "timestamp": "2026-08-19T06:08:38.790810470Z",
+  "model": "glm-5.3"
+}

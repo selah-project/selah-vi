@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 107,
+  "translation": "Những người ngay thẳng nhìn thấy và vui mừng, và mọi sự gian ác bịt miệng mình lại.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "nhìn thấy"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "những người ngay thẳng"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "và vui mừng"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "sự gian ác"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "bịt lại"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "miệng mình"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:17.863376640Z",
+  "model": "glm-5.3"
+}

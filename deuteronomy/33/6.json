@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 33,
+  "translation": "Nguyện Reuven sống, và đừng chết, và những người của ông hãy thành một con số ⟨được đếm⟩.",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "nguyện sống"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và đừng"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "chết"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "và hãy là"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "những người của ông"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "con số"
+    }
+  ],
+  "timestamp": "2026-08-19T03:14:27.600644149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 23:3",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Ôi ai cho rằng tôi biết được và tìm thấy Ngài, tôi sẽ đi đến tận chỗ ngai của Ngài!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "cho"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "tôi biết"
+    },
+    {
+      "surface": "ואמצאהו",
+      "gloss": "và tôi sẽ tìm thấy Ngài"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "tôi sẽ đi đến"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến tận"
+    },
+    {
+      "surface": "תכונתו",
+      "gloss": "chỗ ngai của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:24:28.447714492Z",
+  "model": "glm-5.3"
+}

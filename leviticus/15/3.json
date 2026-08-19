@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Và này là sự ô uế của nó trong sự chảy của nó: thịt nó chảy ⟨את⟩ sự chảy của nó, hoặc thịt nó bị bịt lại khỏi sự chảy của nó — sự ô uế của nó ⟨là⟩ vậy.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "và này"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "là"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "sự ô uế của nó"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "trong sự chảy của nó"
+    },
+    {
+      "surface": "רר",
+      "gloss": "chảy"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "thịt nó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sự chảy của nó"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "sự chảy của nó"
+    },
+    {
+      "surface": "או",
+      "gloss": "hoặc"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "bị bịt lại"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "thịt nó"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "khỏi sự chảy của nó"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "sự ô uế của nó"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "là vậy"
+    }
+  ],
+  "timestamp": "2026-08-19T02:44:29.381892123Z",
+  "model": "glm-5.3"
+}

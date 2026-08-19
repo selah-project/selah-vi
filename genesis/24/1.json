@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Và Avraham đã già, ⟨đã⟩ bước vào những ngày tháng; và Yahweh đã phúc cho ⟨את⟩ Avraham trong mọi sự.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Và Avraham"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "đã già"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bước vào"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "trong những ngày tháng"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "và Yahweh"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "đã phúc cho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "trong mọi sự"
+    }
+  ],
+  "timestamp": "2026-08-19T01:05:34.319442384Z",
+  "model": "glm-5.3"
+}

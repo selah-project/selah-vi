@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và ông phủ ⟨את⟩ các kerubim bằng vàng.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "và ông phủ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các kerubim"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "các kerubim"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "vàng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:48:50.146179555Z",
+  "model": "glm-5.3"
+}

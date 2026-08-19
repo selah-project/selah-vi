@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 17:5",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Người ta đi và làm theo lời Yahweh; người đi và ở tại suối Kerith, nơi trước mặt sông Yarden.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "người-đi"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "và-làm"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "theo-lời"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "và-người-đi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "và-ở-tại"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "tại-suối"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "Kerith"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nơi-mà"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt-của"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sông-Yarden"
+    }
+  ],
+  "timestamp": "2026-08-19T03:52:23.991539116Z",
+  "model": "glm-5.3"
+}

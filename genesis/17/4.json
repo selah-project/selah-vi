@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Còn Ta, nầy, giao ước của Ta ⟨את⟩ cùng ngươi, và ngươi sẽ thành cha của muôn dân tộc.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "nầy"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "giao ước của Ta"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ cùng",
+      "marks": "ngươi"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "và ngươi sẽ thành"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "cha"
+    },
+    {
+      "surface": "המון",
+      "gloss": "muôn vàn"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "dân tộc"
+    }
+  ],
+  "timestamp": "2026-08-19T01:00:53.104344099Z",
+  "model": "glm-5.3"
+}

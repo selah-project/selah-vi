@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 42,
+  "translation": "Và họ chất ⟨את〕 ngũ cốc của mình lên trên những con lừa của mình, và đi từ đó.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "và họ chất lên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngũ cốc của mình"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "ngũ cốc của mình"
+    },
+    {
+      "surface": "על",
+      "gloss": "lên trên"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "những con lừa của mình"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "và đi"
+    },
+    {
+      "surface": "משם",
+      "gloss": "từ đó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:24:28.301731812Z",
+  "model": "glm-5.3"
+}

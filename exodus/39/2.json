@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 39,
+  "translation": "Và người ta làm ⟨את⟩ cái êphod: vàng, màu xanh tím, màu tía, đỏ son, và gai dầu mảnh xe sợi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "và người ta làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cái êphod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "cái êphod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "vàng"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "màu xanh tím"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "và màu tía"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "và con sâu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "đỏ son"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "và gai dầu"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "xe sợi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:38:56.224019066Z",
+  "model": "glm-5.3"
+}

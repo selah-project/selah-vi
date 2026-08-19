@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Và ngươi sẽ xức bằng nó ⟨את⟩ trại hội mộ, và ⟨את⟩ hòm lời chứng.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "và ngươi sẽ xức"
+    },
+    {
+      "surface": "בו",
+      "gloss": "bằng nó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trại hội mộ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "trại"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "hội mộ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "hòm lời chứng"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "hòm"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "của lời chứng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:35:56.452330664Z",
+  "model": "glm-5.3"
+}

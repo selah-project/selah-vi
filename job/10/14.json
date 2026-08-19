@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 10:14",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Nếu tôi phạm tội, ngài ⟨thì⟩ canh giữ tôi, và không tha tôi khỏi tội lỗi tôi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "tôi phạm tội"
+    },
+    {
+      "surface": "ושמרתני",
+      "gloss": "ngài canh giữ tôi"
+    },
+    {
+      "surface": "ומעוני",
+      "gloss": "khỏi tội ác của tôi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תנקני",
+      "gloss": "ngài tuyên tôi vô tội"
+    }
+  ],
+  "timestamp": "2026-08-19T05:22:28.036849034Z",
+  "model": "glm-5.3"
+}

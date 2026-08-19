@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Phải chăng ngày của Ngài như ngày của kẻ phàm, hay năm của Ngài như năm của người tráng sĩ?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "phải chăng như ngày"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "kẻ phàm"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ngày của Ngài"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hay"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "năm của Ngài"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "như ngày"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "người tráng sĩ"
+    }
+  ],
+  "timestamp": "2026-08-19T06:20:13.300933689Z",
+  "model": "glm-5.3"
+}

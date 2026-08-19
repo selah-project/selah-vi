@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Nhưng họ không hãy vào để xem, như nuốt xuống ⟨את⟩ ⟨các thứ⟩ thánh, và họ chết.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "nhưng không"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "họ hãy vào"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "để xem"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "như nuốt xuống"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các thứ thánh"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "các thứ thánh"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "và họ chết"
+    }
+  ],
+  "timestamp": "2026-08-19T02:52:51.295450701Z",
+  "model": "glm-5.3"
+}

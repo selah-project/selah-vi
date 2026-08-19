@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 2:25",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Vua Shlomo sai ⟨bởi tay⟩ Benayahyu con trai Yehoyada, và ⟨người⟩ đánh phạt ⟨את⟩ ông, và ông chết.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "và sai"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bởi tay"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benayahyu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "và đánh phạt"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ông"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "và chết"
+    }
+  ],
+  "timestamp": "2026-08-19T03:47:38.725442721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Sáu ngày ngươi sẽ làm việc và làm mọi công việc của ngươi,",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "sáu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "ngươi-sẽ-làm-việc"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "và-ngươi-sẽ-làm"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "công-việc-của-ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:32:39.064971558Z",
+  "model": "glm-5.3"
+}

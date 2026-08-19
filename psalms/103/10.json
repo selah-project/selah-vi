@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 103,
+  "translation": "Không theo các tội lỗi của chúng ta Ngài làm cho chúng ta, và không theo các sự gian ác của chúng ta Ngài trả lại trên chúng ta.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "theo các tội lỗi của chúng ta"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Ngài làm"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "cho chúng ta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "theo các sự gian ác của chúng ta"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "Ngài trả lại"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "trên chúng ta"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:54.498506342Z",
+  "model": "glm-5.3"
+}

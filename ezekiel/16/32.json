@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 16:32",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Hỡi người đàn bà ngoại tình, ngươi nhận ⟨את⟩ những người lạ thay cho chồng mình.",
+  "tokens": [
+    {
+      "surface": "האשה",
+      "gloss": "hỡi người đàn bà"
+    },
+    {
+      "surface": "המנאפת",
+      "gloss": "ngoại tình"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thay cho"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "chồng mình"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ngươi nhận"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "những người lạ"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "những người lạ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:34:19.730424371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,142 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 4:16",
+  "book": "esther",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Hãy đi, tập hợp ⟨את⟩ tất cả người Yehuda đang có mặt tại Shushan, và hãy nhịn ăn vì tôi; đừng ăn và đừng uống ba ngày, đêm và ngày; cả tôi cùng các nữ tỳ của tôi cũng nhịn ăn như vậy; và như thế tôi sẽ vào đến vua — điều không đúng theo luật — và nếu tôi phải diệt vong, thì tôi diệt vong.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "hãy đi"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "tập hợp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả người Yehuda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "người Yehuda"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "đang có mặt"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "tại Shushan"
+    },
+    {
+      "surface": "וצומו",
+      "gloss": "và hãy nhịn ăn"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "vì tôi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và đừng"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ăn"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và đừng"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "uống"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "đêm"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "và ngày"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cả"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "ונערתי",
+      "gloss": "và các nữ tỳ của tôi"
+    },
+    {
+      "surface": "אצום",
+      "gloss": "nhịn ăn"
+    },
+    {
+      "surface": "כן",
+      "gloss": "như vậy"
+    },
+    {
+      "surface": "ובכן",
+      "gloss": "và như thế"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "tôi sẽ vào"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "điều mà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "כדת",
+      "gloss": "đúng theo luật"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "và nếu"
+    },
+    {
+      "surface": "אבדתי",
+      "gloss": "tôi phải diệt vong"
+    },
+    {
+      "surface": "אבדתי",
+      "gloss": "tôi diệt vong"
+    }
+  ],
+  "timestamp": "2026-08-19T06:21:02.862862206Z",
+  "model": "glm-5.3"
+}

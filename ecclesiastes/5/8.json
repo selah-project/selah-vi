@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Còn lợi ích của đất thì thuộc về mọi người; ⟨thậm chí⟩ vua ⟨cũng⟩ nhờ cánh đồng mà được phục vụ.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "và lợi ích"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "của đất"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "thuộc về mọi người"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨nó⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "nhờ cánh đồng"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "được phục vụ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:53.789219982Z",
+  "model": "glm-5.3"
+}

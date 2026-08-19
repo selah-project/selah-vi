@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 31:4",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Chớ — cho các vua, hỡi Lemu'el, chớ — cho các vua, uống rượu nho, và cho các quan quyền ⟨khao khát⟩ thứ uống mạnh.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "cho các vua"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "hỡi Lemu'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "cho các vua"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "uống"
+    },
+    {
+      "surface": "יין",
+      "gloss": "rượu nho"
+    },
+    {
+      "surface": "ולרוזנים",
+      "gloss": "và cho các quan quyền"
+    },
+    {
+      "surface": "או",
+      "gloss": "khao khát"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "thứ uống mạnh"
+    }
+  ],
+  "timestamp": "2026-08-19T05:19:53.339576955Z",
+  "model": "glm-5.3"
+}

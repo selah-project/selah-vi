@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 14:14",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Và Yahweh sẽ lập cho mình một vua trên Yisra'el, kẻ sẽ cắt diệt ⟨את⟩ nhà Yarav'am — ngay hôm nay, và còn gì nữa? ngay bây giờ!",
+  "tokens": [
+    {
+      "surface": "והקים",
+      "gloss": "và sẽ lập lên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho mình"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "một vua"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kẻ"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "sẽ cắt diệt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhà Yarav'am"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarav'am"
+    },
+    {
+      "surface": "זה",
+      "gloss": "này"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hôm nay"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "và còn gì"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cả"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "bây giờ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:51:45.962759805Z",
+  "model": "glm-5.3"
+}

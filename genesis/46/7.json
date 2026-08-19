@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 46:7",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 46,
+  "translation": "Các con trai ông và các con trai của con trai ông ⟨את⟩ ông, các con gái ông và các con gái của con trai ông, và toàn thể dòng dõi ông — ngài đã đem ⟨את⟩ chúng ⟨את⟩ mình vào Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "בניו",
+      "gloss": "các con trai ông"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "và các con trai của"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "con trai ông"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ cùng ông",
+      "marks": "cùng ông"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "các con gái ông"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "và các con gái của"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "con trai ông"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và toàn thể"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "dòng dõi ông"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "ngài đã đem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ với mình",
+      "marks": "cùng với mình"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "vào Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T02:26:03.614405599Z",
+  "model": "glm-5.3"
+}

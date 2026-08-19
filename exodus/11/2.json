@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Hãy nói, xin ngươi, vào tai dân sự, và mỗi người nam sẽ xin ⟨את⟩ từ bạn mình, mỗi người nữ ⟨את⟩ từ bạn nữ mình, đồ vật bằng bạc và đồ vật bằng vàng.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "hãy nói"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xin ngươi"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "vào tai"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "và sẽ xin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mỗi người nam"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ từ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "bạn mình"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "và mỗi người nữ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ từ"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "bạn nữ mình"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "đồ vật"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "bạc"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "và đồ vật"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "vàng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:30:23.134321663Z",
+  "model": "glm-5.3"
+}

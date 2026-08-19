@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 104,
+  "translation": "Ngài đặt sự tối tăm và ⟨is⟩ đêm; trong nó mọi thú của rừng bò tới.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "Ngài đặt"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "sự tối tăm"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "và ⟨is⟩"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "đêm"
+    },
+    {
+      "surface": "בו",
+      "gloss": "trong nó"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "bò tới"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "thú của"
+    },
+    {
+      "surface": "יער",
+      "gloss": "rừng"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:47.642864827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 137,
+  "translation": "Làm sao chúng tôi hát ⟨את⟩ bài hát của Yahweh trên đất nước lạ?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "làm sao"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "chúng tôi hát"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bài hát của Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "bài hát"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "đất"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "nước lạ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:35.845043978Z",
+  "model": "glm-5.3"
+}

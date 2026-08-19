@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 59,
+  "translation": "Hỡi Sức mạnh của con, con sẽ canh giữ hướng về Ngài; vì Elohim ⟨là⟩ đồn lũy của con.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "sức mạnh của con"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "hướng về Ngài"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "con sẽ canh giữ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "đồn lũy của con"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:52.799785081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Và cơn thịnh nộ của Yahweh lại thêm lên chống lại Yisra'el, và Ngài khiến Dawid trỗi dậy chống lại họ, phán rằng: Hãy đi, đếm Yisra'el và ⟨את⟩ Yehudah.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "và thêm nữa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "cơn thịnh nộ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "bừng cháy chống lại"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "vào Yisra'el"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "và khiến trỗi dậy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "chống lại họ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "phán rằng"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hãy đi"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "hãy đếm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-19T03:46:42.149928115Z",
+  "model": "glm-5.3"
+}

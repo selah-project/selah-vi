@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 147,
+  "translation": "Hãy tôn vinh, hỡi Yerushalayim, ⟨את⟩ Yahweh; hãy ngợi khen Elohim của ngươi, hỡi Tziyon.",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "Hãy tôn vinh"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "hỡi Yerushalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "hãy ngợi khen"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim của ngươi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "hỡi Tziyon"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:17.184145317Z",
+  "model": "glm-5.3"
+}

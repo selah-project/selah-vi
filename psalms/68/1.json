@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 68,
+  "translation": "Cho đấng chỉ huy ca đoàn. Của David. Thánh thi, bài ca.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "cho đấng chỉ huy ca đoàn"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "của David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "thánh thi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "bài ca"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:03.989646380Z",
+  "model": "glm-5.3"
+}

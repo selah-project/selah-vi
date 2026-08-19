@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Tôi mỏi mệt ⟨với⟩ tiếng thở dài của mình; suốt đêm tôi làm giường mình trôi ngập; bằng nước mắt tôi làm phên giường mình tan chảy.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "tôi mỏi mệt"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "với tiếng thở dài của tôi"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "tôi làm trôi ngập"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "suốt mọi"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "đêm"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "giường của tôi"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "bằng nước mắt của tôi"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "phên giường của tôi"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "tôi làm tan chảy"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:11.280729261Z",
+  "model": "glm-5.3"
+}

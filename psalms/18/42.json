@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Chúng kêu cứu nhưng không ai cứu; hướng về Yahweh nhưng Ngài không đáp lại chúng.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "chúng kêu cứu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nhưng không có"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "người cứu"
+    },
+    {
+      "surface": "על",
+      "gloss": "hướng về"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nhưng không"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "đáp lại chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:44.742406781Z",
+  "model": "glm-5.3"
+}

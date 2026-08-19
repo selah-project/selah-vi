@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 104,
+  "translation": "Con người ra đi đến công việc mình, và đến lao động mình cho đến tối mịt.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "ra đi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "con người"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "đến công việc mình"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "và đến lao động mình"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "tối mịt"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:18.946855481Z",
+  "model": "glm-5.3"
+}

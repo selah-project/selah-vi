@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 78,
+  "translation": "Chúng không giữ giao ước ⟨của⟩ Elohim, và trong luật pháp Ngài chúng từ chối đi theo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "chúng giữ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "giao ước"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "và trong luật pháp Ngài"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "chúng từ chối"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "đi theo"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:47.631553290Z",
+  "model": "glm-5.3"
+}

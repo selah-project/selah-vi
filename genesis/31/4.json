@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 31:4",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Và Yaakov sai người đi, và gọi Rachel và Leah đến cánh đồng, đến đàn chiên của mình.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "và sai người đi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "và gọi"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "וללאה",
+      "gloss": "và Leah"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "cánh đồng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "đàn chiên của mình"
+    }
+  ],
+  "timestamp": "2026-08-19T01:16:39.628954958Z",
+  "model": "glm-5.3"
+}

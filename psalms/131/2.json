@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 131,
+  "translation": "Quả thật, tôi đã làm cho yên lặng và tĩnh lặng linh hồn tôi, như đứa trẻ cai sữa ⟨với⟩ mẹ nó; như đứa trẻ cai sữa đối với tôi, linh hồn tôi ⟨vậy⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "quả thật"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "tôi đã làm cho yên lặng"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "và tĩnh lặng"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "linh hồn tôi"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "như đứa trẻ cai sữa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "với"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mẹ nó"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "như đứa trẻ cai sữa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "đối với tôi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "linh hồn tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:19:05.601093623Z",
+  "model": "glm-5.3"
+}

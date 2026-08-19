@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 135,
+  "translation": "Hãy ca ngợi Yah, vì Yahweh ⟨là⟩ tốt lành; hãy gảy đàn ca ngợi danh Ngài, vì ⟨nó⟩ ⟨là⟩ dễ chịu.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "hãy ca ngợi"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tốt lành"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "hãy gảy đàn ca ngợi"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "danh Ngài"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "dễ chịu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:20.853641091Z",
+  "model": "glm-5.3"
+}

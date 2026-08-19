@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 11:7",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Uriyah đến cùng người; David hỏi về sự bình an của Joab, về sự bình an của dân, và về sự bình an của cuộc chiến.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "đến"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "cùng người"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "hỏi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "về sự bình an"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "và về sự bình an"
+    },
+    {
+      "surface": "העם",
+      "gloss": "của dân"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "và về sự bình an"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "của cuộc chiến"
+    }
+  ],
+  "timestamp": "2026-08-19T03:41:40.716547235Z",
+  "model": "glm-5.3"
+}

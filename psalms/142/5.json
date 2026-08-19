@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 142:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 142,
+  "translation": "Hãy nhìn về bên phải và xem, và không có ai nhận biết tôi; nơi trốn tránh đã hủy mất khỏi tôi, không có ai tìm hỏi cho linh hồn tôi.",
+  "tokens": [
+    {
+      "surface": "הביט",
+      "gloss": "Hãy nhìn"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "bên phải"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "và xem"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "và không có"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "người nhận biết"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "đã hủy mất"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "nơi trốn tránh"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "khỏi tôi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "דורש",
+      "gloss": "người tìm hỏi"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "cho linh hồn tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:45.215135615Z",
+  "model": "glm-5.3"
+}

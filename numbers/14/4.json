@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 14:4",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Và họ nói, người này với anh em mình: Hãy lập một người đầu và hãy quay về Mitzrayim!",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mỗi người"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "anh em mình"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "hãy lập"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "người đầu"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "và hãy quay về"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T02:56:44.169245798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 3:5",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Vì Elohim biết rằng ngay ngày các ngươi ăn nó, mắt các ngươi sẽ được mở ra, và các ngươi sẽ như Elohim, biết điều thiện và điều ác.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "biết"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngay ngày"
+    },
+    {
+      "surface": "אכלכם",
+      "gloss": "các ngươi ăn"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nó"
+    },
+    {
+      "surface": "ונפקחו",
+      "gloss": "sẽ được mở ra"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "mắt các ngươi"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "các ngươi sẽ như"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "như Elohim"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "biết"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "điều thiện"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "và điều ác"
+    }
+  ],
+  "timestamp": "2026-08-19T00:46:35.995544983Z",
+  "model": "glm-5.3"
+}

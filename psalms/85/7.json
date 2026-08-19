@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 85,
+  "translation": "Chẳng ⟨phải⟩ Ngài sẽ quay lại, làm cho chúng con sống lại, để dân sự của Ngài mừng rỡ trong Ngài sao?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "chẳng ⟨phải⟩... sao"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "sẽ quay lại"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "làm cho chúng con sống lại"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "và dân sự của Ngài"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "mừng rỡ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "trong Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:24.592154007Z",
+  "model": "glm-5.3"
+}

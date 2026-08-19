@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "và ⟨את⟩ người Arvadi, và ⟨את⟩ người Tzemari, và ⟨את⟩ người Chamati.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người Arvadi"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "người Arvadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người Tzemari"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "người Tzemari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người Chamati"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "người Chamati"
+    }
+  ],
+  "timestamp": "2026-08-19T05:46:36.399331625Z",
+  "model": "glm-5.3"
+}

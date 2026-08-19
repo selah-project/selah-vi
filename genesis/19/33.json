@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 19:33",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Đêm đó她们 cho cha mình uống ⟨את⟩ rượu, và con cả vào nằm với ⟨את⟩ cha mình; ngài không biết khi nàng nằm xuống, cũng không biết khi nàng chỗi dậy.",
+  "tokens": [
+    {
+      "surface": "ותשקין",
+      "gloss": "và-họ-cho-uống"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cha mình"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "cha-của-họ"
+    },
+    {
+      "surface": "יין",
+      "gloss": "rượu"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "trong-đêm"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "đó"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "và-nàng-đã-vào"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "người-con-cả"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "và-nàng-nằm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cha của nàng"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "cha-của-nàng"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và-không"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "biết"
+    },
+    {
+      "surface": "בשכבה",
+      "gloss": "khi-nàng-nằm"
+    },
+    {
+      "surface": "ובקומה",
+      "gloss": "và-khi-nàng-dậy"
+    }
+  ],
+  "timestamp": "2026-08-19T01:01:55.483529679Z",
+  "model": "glm-5.3"
+}

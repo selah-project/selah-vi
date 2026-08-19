@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 20:13",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Hãy hát cho Yahweh, hãy ngợi khen ⟨את⟩ Yahweh, vì Ngài đã cứu ⟨את⟩ sinh mạng của kẻ nghèo khó khỏi tay của kẻ làm điều dữ.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "hãy hát"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "cho Yahweh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "hãy ngợi khen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "đã cứu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinh mạng của kẻ nghèo khó"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sinh mạng"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "kẻ nghèo khó"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "khỏi tay"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "kẻ làm điều dữ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:21:51.112067408Z",
+  "model": "glm-5.3"
+}

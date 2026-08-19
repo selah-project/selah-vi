@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joel 2:7",
+  "book": "joel",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Như những dũng sĩ chúng nó chạy; như người chiến trận chúng nó trèo tường thành; mỗi người trong đường lối mình sẽ đi, và chúng nó không vướng víu các lối mình.",
+  "tokens": [
+    {
+      "surface": "כגבורים",
+      "gloss": "như những dũng sĩ"
+    },
+    {
+      "surface": "ירצון",
+      "gloss": "chúng nó chạy"
+    },
+    {
+      "surface": "כאנשי",
+      "gloss": "như người"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "chiến trận"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "chúng nó trèo lên"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "tường thành"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "và mỗi người"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "trong đường lối mình"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "sẽ đi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יעבטון",
+      "gloss": "vướng víu"
+    },
+    {
+      "surface": "ארחותם",
+      "gloss": "các lối mình"
+    }
+  ],
+  "timestamp": "2026-08-19T04:46:26.419125946Z",
+  "model": "glm-5.3"
+}

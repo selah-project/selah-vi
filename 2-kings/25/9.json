@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Người ta đã đốt ⟨את⟩ nhà Yahweh, và ⟨את⟩ nhà vua, và ⟨את⟩ mọi nhà của Yerushalayim — ⟨את⟩ mọi nhà lớn người ta đã đốt bằng lửa.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "đã đốt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhà Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "nhà vua"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "mọi nhà của Yerushalayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "mọi nhà lớn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lớn"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "đã đốt"
+    },
+    {
+      "surface": "באש",
+      "gloss": "bằng lửa"
+    }
+  ],
+  "timestamp": "2026-08-19T04:02:57.139075060Z",
+  "model": "glm-5.3"
+}

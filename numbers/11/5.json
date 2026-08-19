@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 11:5",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Chúng tôi nhớ lại ⟨את⟩ con cá mà chúng tôi ăn ở Mitsrayim một cách miễn phí, ⟨את⟩ dưa chuột, và ⟨את⟩ dưa hấu, và ⟨את⟩ tỏi tây, và ⟨את⟩ củ hành, và ⟨את⟩ tỏi.",
+  "tokens": [
+    {
+      "surface": "זכרנו",
+      "gloss": "chúng tôi nhớ lại"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con cá"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "con cá"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "chúng tôi ăn"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ở Mitsrayim"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "miễn phí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dưa chuột"
+    },
+    {
+      "surface": "הקשאים",
+      "gloss": "dưa chuột"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "dưa hấu"
+    },
+    {
+      "surface": "האבטחים",
+      "gloss": "dưa hấu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "tỏi tây"
+    },
+    {
+      "surface": "החציר",
+      "gloss": "tỏi tây"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "củ hành"
+    },
+    {
+      "surface": "הבצלים",
+      "gloss": "củ hành"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "tỏi"
+    },
+    {
+      "surface": "השומים",
+      "gloss": "tỏi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:04:55.917976730Z",
+  "model": "glm-5.3"
+}

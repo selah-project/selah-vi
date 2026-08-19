@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 7:18",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Đừng sợ chúng; hãy nhớ — nhớ kỹ ⟨את⟩ điều mà Yahweh Elohim của ngươi đã làm cho Pharaoh và cho cả Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "sợ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "chúng"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "hãy nhớ"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "nhớ kỹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "điều mà Yahweh Elohim của ngươi đã làm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim của ngươi"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "cho Pharaoh"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "và cho cả"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T03:06:57.721112541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 19:5",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Người nằm xuống và ngủ dưới một cây rotem, và kìa, một sứ giả chạm vào người và nói với người: Hãy đứng dậy, ăn đi.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "người nằm xuống"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "và ngủ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dưới"
+    },
+    {
+      "surface": "רתם",
+      "gloss": "cây rotem"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "một"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "và kìa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "này"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "một sứ giả"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "chạm"
+    },
+    {
+      "surface": "בו",
+      "gloss": "vào người"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "לו",
+      "gloss": "với người"
+    },
+    {
+      "surface": "קום",
+      "gloss": "hãy đứng dậy"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "ăn đi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:53:48.211851909Z",
+  "model": "glm-5.3"
+}

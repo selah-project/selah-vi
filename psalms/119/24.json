@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Vâng, các chứng cứ của Ngài là niềm vui thích của tôi, ⟨là⟩ những người mưu sĩ của tôi.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "vâng, cũng"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "các chứng cứ của Ngài"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "niềm vui thích của tôi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "những người"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "mưu sĩ của tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:48.060768621Z",
+  "model": "glm-5.3"
+}

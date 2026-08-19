@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Mỗi người với ⟨את⟩ vật thánh của mình sẽ là của mình; điều gì người nào cho thầy tế lễ thì sẽ thuộc về người.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "mỗi người"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vật thánh của mình"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "vật thánh của mình"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho mình"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "sẽ là"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người nào"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "cho"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "cho thầy tế lễ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho người"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sẽ thuộc về"
+    }
+  ],
+  "timestamp": "2026-08-19T02:53:24.100298922Z",
+  "model": "glm-5.3"
+}

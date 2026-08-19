@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 77,
+  "translation": "Cho đốc ca, theo Yedutun, cho Asaf, một thánh thi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "cho đốc ca"
+    },
+    {
+      "surface": "על",
+      "gloss": "theo"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Yedutun"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "cho Asaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "một thánh thi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:48.512928778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 48,
+  "translation": "Và Yosef đưa ⟨את⟩ chúng ra khỏi giữa hai đầu gối của ngài, và sấp mặt xuống đất lạy.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "và đưa ra"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chúng"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "khỏi giữa"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "đầu gối của ngài"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "và sấp mình lạy"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "mặt của ngài"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "xuống đất"
+    }
+  ],
+  "timestamp": "2026-08-19T02:26:24.027321484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Và dân đã mang ⟨את⟩ bột nhào của mình, trước khi nó men lên; các thùng nhồi bột của họ được bọc trong áo choàng của họ, trên vai họ.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "đã mang"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bột nhào của mình"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "bột nhào của mình"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "trước khi"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "men lên"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "các thùng nhồi bột của họ"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "được bọc lại"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "trong áo choàng của họ"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "vai họ"
+    }
+  ],
+  "timestamp": "2026-08-19T06:03:32.325561980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 41,
+  "translation": "Yahweh sẽ nâng đỡ hắn trên giường đau yếu; ngươi đã lật chuyển cả chỗ nằm của hắn trong bệnh tật ⟨của hắn⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "sẽ nâng đỡ hắn"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "giường"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "đau yếu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cả"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "chỗ nằm của hắn"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "ngươi đã lật chuyển"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "trong bệnh tật của hắn"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:47.521381348Z",
+  "model": "glm-5.3"
+}

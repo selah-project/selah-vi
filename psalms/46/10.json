@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 46,
+  "translation": "Ngài làm các cuộc chiến ngừng lại đến tận cuối đất; Ngài bẻ gãy cung, chặt đứt giáo, đốt các chiến xa trong lửa.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "làm ngừng lại"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "các cuộc chiến"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến tận"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "cuối"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "cung"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "bẻ gãy"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "và chặt đứt"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "giáo"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "các chiến xa"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "đốt"
+    },
+    {
+      "surface": "באש",
+      "gloss": "trong lửa"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:18.818894122Z",
+  "model": "glm-5.3"
+}

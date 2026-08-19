@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 19:18",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Và một nghìn người nam ⟨את⟩ cùng ông từ Binyamin, và Tziva, người phục vụ nhà Sha'ul, và mười lăm con trai ông, và hai mươi đầy tớ ông ⟨את⟩ cùng ông; và họ vượt qua sông Yarden trước mặt vua.",
+  "tokens": [
+    {
+      "surface": "ואלף",
+      "gloss": "và một nghìn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người nam"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "cùng ông"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "từ Binyamin"
+    },
+    {
+      "surface": "וציבא",
+      "gloss": "và Tziva"
+    },
+    {
+      "surface": "נער",
+      "gloss": "người phục vụ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "וחמשת",
+      "gloss": "và năm"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mười"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "con trai ông"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "và hai mươi"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "đầy tớ ông"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ cùng ông",
+      "marks": "người phục vụ, con trai và đầy tớ của Tziva"
+    },
+    {
+      "surface": "וצלחו",
+      "gloss": "và họ vượt qua"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sông Yarden"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    }
+  ],
+  "timestamp": "2026-08-19T06:09:10.477543913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 63,
+  "translation": "Khi tôi nhớ ⟨את⟩ Ngài trên giường mình, trong các canh khuya tôi suy gẫm về Ngài.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "khi"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "tôi nhớ Ngài"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "giường tôi"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "trong các canh khuya"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "tôi lẩm nhẩm\/suy gẫm"
+    },
+    {
+      "surface": "בך",
+      "gloss": "về Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:44.624567200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Tốt là Ngài, và ⟨Ngài⟩ làm tốt; xin dạy tôi các luật lệ Ngài.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "tốt"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "là Ngài"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "và làm tốt"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "xin dạy tôi"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "các luật lệ Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:45.369343412Z",
+  "model": "glm-5.3"
+}

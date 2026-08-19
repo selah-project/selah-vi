@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Với các ngươi, hỡi những người남, tôi kêu gọi; và tiếng tôi ⟨hướng⟩ đến con cháu của loài người.",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "với các ngươi"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "hỡi những người"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "tôi kêu gọi"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "và tiếng tôi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến, hướng về"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cháu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "loài người"
+    }
+  ],
+  "timestamp": "2026-08-19T05:15:34.453210951Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 27:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Và bây giờ đầu tôi sẽ được nhấc cao lên trên kẻ thù tôi, những kẻ vây quanh tôi; và tôi sẽ dâng trong trại Ngài các sinh tế với tiếng hô reo; tôi sẽ hát, phải, tôi sẽ đàn ca cho Yahweh.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "và-bây-giờ"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "sẽ-được-nhấc-cao"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "đầu-tôi"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "kẻ-thù-tôi"
+    },
+    {
+      "surface": "סביבותי",
+      "gloss": "những-kẻ-vây-quanh-tôi"
+    },
+    {
+      "surface": "ואזבחה",
+      "gloss": "và-tôi-sẽ-dâng-sinh-tế"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "trong-trại-Ngài"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "các-sinh-tế"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "với-tiếng-hô-reo"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "tôi-sẽ-hát"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "và-tôi-sẽ-đàn-ca"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "cho-Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:04.512979963Z",
+  "model": "glm-5.3"
+}

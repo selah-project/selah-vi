@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Con đã đặt Yahweh ở trước mặt con luôn luôn; vì ở bên hữu con, con sẽ không xiêu đổ.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "con đã đặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "ở trước mặt con"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "luôn luôn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "ở bên hữu con"
+    },
+    {
+      "surface": "בל",
+      "gloss": "không"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "xiêu đổ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:02.933817483Z",
+  "model": "glm-5.3"
+}

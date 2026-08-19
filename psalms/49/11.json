@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 49,
+  "translation": "Vì hắn thấy ⟨rằng⟩ người khôn cũng chết, kẻ ngu dại và kẻ ngu tầm thường cùng nhau bị diệt vong, và bỏ lại của cải mình cho kẻ khác.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "hắn thấy"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "người khôn"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "chết"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "cùng nhau"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "kẻ ngu dại"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "và kẻ ngu tầm thường"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "bị diệt vong"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "và bỏ lại"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "cho kẻ khác"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "của cải họ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:49.034084819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 112,
+  "translation": "Dõng sĩ trong đất sẽ có dòng dõi ⟨của ông⟩; thế hệ những người ngay thẳng sẽ được phước.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "dõng sĩ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trong đất"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sẽ có"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "dòng dõi của ông"
+    },
+    {
+      "surface": "דור",
+      "gloss": "thế hệ"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "những người ngay thẳng"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "sẽ được phước"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:47.059938418Z",
+  "model": "glm-5.3"
+}

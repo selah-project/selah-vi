@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Ôi khốn thay cho ngươi, hỡi đất, khi vua ngươi là trẻ con, và các quan trưởng ngươi ban sáng ăn uống!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "ôi khốn thay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngươi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "khi vua ngươi"
+    },
+    {
+      "surface": "נער",
+      "gloss": "trẻ con"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "và các quan trưởng ngươi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ban sáng"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ăn uống"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:19.004634590Z",
+  "model": "glm-5.3"
+}

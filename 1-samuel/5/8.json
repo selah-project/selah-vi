@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 5:8",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Họ sai người và tập hợp ⟨את⟩ tất cả các condue của người Philistinet đến với mình, và nói: Ta sẽ làm gì với hòm của Elohim của Yisrael? Họ nói: Hãy đem hòm của Elohim của Yisrael đi vòng đến Gat. Và họ đem đi vòng ⟨את⟩ hòm của Elohim của Yisrael.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "và họ sai người"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "và tập hợp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả các condue của người Philistinet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "các condue của"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "người Philistinet"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "đến với mình"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ta sẽ làm"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "với hòm của"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "và họ nói"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "hãy đem đi vòng"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "hòm của"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויסבו",
+      "gloss": "và họ đem đi vòng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hòm của Elohim của Yisrael"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "hòm của"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T03:31:10.570389227Z",
+  "model": "glm-5.3"
+}

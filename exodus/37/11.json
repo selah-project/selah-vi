@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Ông bọc ⟨את⟩ nó bằng vàng tinh khiết, và làm cho nó một vành vàng chung quanh.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "và ông bọc"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nó (cái bàn)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "vàng"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tinh khiết"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "và ông làm"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho nó"
+    },
+    {
+      "surface": "זר",
+      "gloss": "vành"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "vàng"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "chung quanh"
+    }
+  ],
+  "timestamp": "2026-08-19T06:04:05.230183132Z",
+  "model": "glm-5.3"
+}

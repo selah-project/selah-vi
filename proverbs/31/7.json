@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 31:7",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Nó sẽ uống và quên cảnh nghèo của nó, và cực nhọc của nó nó sẽ không nhớ nữa.",
+  "tokens": [
+    {
+      "surface": "ישתה",
+      "gloss": "nó sẽ uống"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "và quên"
+    },
+    {
+      "surface": "רישו",
+      "gloss": "cảnh nghèo của nó"
+    },
+    {
+      "surface": "ועמלו",
+      "gloss": "và cực nhọc của nó"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "sẽ nhớ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nữa"
+    }
+  ],
+  "timestamp": "2026-08-19T05:20:00.357148366Z",
+  "model": "glm-5.3"
+}

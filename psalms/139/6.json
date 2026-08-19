@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 139,
+  "translation": "Sự hiểu biết ấy quá diệu kỳ vượt quá tôi; nó quá cao siêu, tôi không thể với tới nó.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "quá diệu kỳ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "sự hiểu biết"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "vượt quá tôi"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "nó quá cao siêu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "tôi có thể"
+    },
+    {
+      "surface": "לה",
+      "gloss": "với tới nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:44.989109369Z",
+  "model": "glm-5.3"
+}

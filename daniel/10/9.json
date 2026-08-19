@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Và tôi nghe ⟨את⟩ tiếng của lời ngươi; và khi tôi nghe ⟨את⟩ tiếng của lời ngươi, thì tôi nằm sâu ngủ trên mặt mình, và mặt tôi hướng xuống đất.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "và tôi nghe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiếng"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tiếng"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "của lời ngươi"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "và khi tôi nghe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiếng"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tiếng"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "của lời ngươi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "và tôi"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "tôi đã ở"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "sâu ngủ"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt mình"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "và mặt tôi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "hướng xuống đất"
+    }
+  ],
+  "timestamp": "2026-08-19T05:38:37.108837989Z",
+  "model": "glm-5.3"
+}

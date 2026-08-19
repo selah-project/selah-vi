@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 45,
+  "translation": "Hỡi con gái, hãy lắng nghe và hãy nhìn, và nghiêng tai ngươi; hãy quên dân ngươi và nhà cha ngươi.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "hãy lắng nghe"
+    },
+    {
+      "surface": "בת",
+      "gloss": "hỡi con gái"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "và hãy nhìn"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "và hãy nghiêng"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "tai ngươi"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "và hãy quên"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dân ngươi"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "và nhà"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "cha ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:30.348064997Z",
+  "model": "glm-5.3"
+}

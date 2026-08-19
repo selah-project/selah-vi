@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Hỡi con trai ta, nếu con nhận lấy lời nói của cha, và cất giấu mệnh lệnh của cha ⟨את⟩ cùng con,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "hỡi con trai ta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "con nhận lấy"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "lời nói của ta"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "và mệnh lệnh của ta"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "con cất giấu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ cùng con"
+    }
+  ],
+  "timestamp": "2026-08-19T06:19:13.831893802Z",
+  "model": "glm-5.3"
+}

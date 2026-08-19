@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 129,
+  "translation": "và những kẻ đi qua không nói: 'Phước lành của Yahweh trên các ngươi; chúng tôi đã chúc phúc ⟨את⟩ các ngươi trong Danh Yahweh'",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "họ nói"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "những kẻ đi qua"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "phước lành của"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "trên các ngươi"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "chúng tôi đã chúc phúc"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "trong Danh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:50.426330151Z",
+  "model": "glm-5.3"
+}

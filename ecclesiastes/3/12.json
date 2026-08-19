@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Tôi biết rằng không có điều gì tốt cho họ, ngoài việc vui mừng và làm điều tốt trong đời sống của mình.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "tôi biết"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tốt"
+    },
+    {
+      "surface": "בם",
+      "gloss": "cho họ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoài"
+    },
+    {
+      "surface": "אם",
+      "gloss": "việc"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "vui mừng"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "và làm"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "điều tốt"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "trong đời sống của mình"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:24.990203684Z",
+  "model": "glm-5.3"
+}

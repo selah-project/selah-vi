@@ -1,0 +1,146 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 7:12",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Vua thức dậy trong đêm và nói với các tôi tớ mình: Xin cho tôi báo cho các ngươi ⟨את⟩ điều mà Aram đã làm cho chúng ta. Chúng biết rằng chúng ta đói, nên đã ra khỏi trại để nấp ngoài đồng, rằng: Khi họ ra khỏi thành, chúng ta sẽ bắt họ sống, và vào thành ta sẽ vào.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Và thức dậy"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "trong đêm"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "các tôi tớ mình"
+    },
+    {
+      "surface": "אגידה",
+      "gloss": "tôi sẽ báo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho các ngươi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "điều mà Aram đã làm cho chúng ta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "điều mà"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "cho chúng ta"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "chúng biết"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "רעבים",
+      "gloss": "đói"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "chúng ta"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "nên đã ra"
+    },
+    {
+      "surface": "מן",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "trại"
+    },
+    {
+      "surface": "להחבה",
+      "gloss": "để nấp"
+    },
+    {
+      "surface": "בהשדה",
+      "gloss": "ngoài đồng"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "khi"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "họ ra"
+    },
+    {
+      "surface": "מן",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "thành"
+    },
+    {
+      "surface": "ונתפשם",
+      "gloss": "chúng ta sẽ bắt họ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "sống"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và vào"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "thành"
+    },
+    {
+      "surface": "נבא",
+      "gloss": "ta sẽ vào"
+    }
+  ],
+  "timestamp": "2026-08-19T03:57:58.931201397Z",
+  "model": "glm-5.3"
+}

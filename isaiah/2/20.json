@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Trong ngày ấy con người sẽ ném bỏ ⟨את⟩ các thần giả bạc của mình và ⟨את⟩ các thần giả vàng của mình, những thứ họ đã làm cho mình để thờ lạy, cho chuột chũi và cho dơi.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "trong ngày"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ấy"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "sẽ ném"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "con người"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các thần giả bạc"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "các thần giả"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "bạc của mình"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các thần giả vàng"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "các thần giả"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "vàng của mình"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "những thứ mà"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "họ đã làm"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho mình"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "để thờ lạy"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "cho chuột chũi"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "các hốc"
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "và cho dơi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:03:25.735878952Z",
+  "model": "glm-5.3"
+}

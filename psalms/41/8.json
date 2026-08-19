@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 41,
+  "translation": "Chung lại, chống tôi tất cả kẻ ghét tôi thì thầm với nhau; chống tôi chúng mưu điều ác cho tôi.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "chung lại"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "chống tôi"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "thì thầm với nhau"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "kẻ ghét tôi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "chống tôi"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "chúng mưu"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "điều ác"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:53.053246086Z",
+  "model": "glm-5.3"
+}

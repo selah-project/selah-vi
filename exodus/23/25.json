@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Và các ngươi sẽ phụng sự ⟨את⟩ Yahweh Elohim của các ngươi, và Ngài sẽ ban phước cho ⟨את⟩ bánh của ngươi và ⟨את⟩ nước của ngươi; và Ta sẽ cất bệnh tật khỏi giữa ngươi.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "và các ngươi sẽ phụng sự"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim của các ngươi"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "và Ngài sẽ ban phước"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bánh của ngươi"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "bánh của ngươi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "nước của ngươi"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "nước của ngươi"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "và Ta sẽ cất"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "bệnh tật"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "khỏi giữa ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:03:43.984957575Z",
+  "model": "glm-5.3"
+}

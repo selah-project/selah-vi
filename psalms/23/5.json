@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Ngươi dọn trước mặt tôi một bàn ăn, đối diện với những kẻ áp bức tôi; Ngươi xức dầu trên đầu tôi; chén tôi ⟨tràn đầy⟩.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "Ngươi dọn"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "bàn ăn"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "đối diện với"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "những kẻ áp bức tôi"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "Ngươi xức"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "dầu"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "trên đầu tôi"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "chén tôi"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "tràn đầy"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:56.585332720Z",
+  "model": "glm-5.3"
+}

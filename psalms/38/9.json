@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 38,
+  "translation": "Tôi trở nên uể oải và bị nghiền nát ⟨đến⟩ cùng cực; tôi rú lên vì tiếng rên xiết của lòng tôi.",
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "tôi trở nên uể oải"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "và bị nghiền nát"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "cùng cực"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "tôi rú lên"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "vì tiếng rên xiết"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "của lòng tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:32.698355179Z",
+  "model": "glm-5.3"
+}

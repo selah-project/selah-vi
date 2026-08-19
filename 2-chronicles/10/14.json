@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 10:14",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Người nói với ⟨họ⟩ theo lời khuyên của các đứa trẻ, rằng: Cha tôi làm ⟨את⟩ ách các ngươi nặng thêm, còn tôi sẽ thêm lên nữa; cha tôi sửa phạt ⟨את⟩các ngươi bằng roi, còn tôi bằng bọ cạp.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "và-người-nói"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "với-họ"
+    },
+    {
+      "surface": "כעצת",
+      "gloss": "theo-lời-khuyên của"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "các-đứa-trẻ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "אכביד",
+      "gloss": "tôi-làm-nặng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ách các ngươi"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "ách-của-các-ngươi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "và-tôi"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "tôi-sẽ-thêm"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lên-nó"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "cha-tôi"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "đã-sửa-phạt"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩các-ngươi",
+      "marks": "các ngươi (đối tượng của sự sửa phạt)"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "bằng-roi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "và-tôi"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "bằng-bọ-cạp"
+    }
+  ],
+  "timestamp": "2026-08-19T05:56:05.098272792Z",
+  "model": "glm-5.3"
+}

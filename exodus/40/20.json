@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Và ⟨người⟩ lấy và đặt ⟨את⟩ lời chứng vào hòm, gắn ⟨את⟩ các đòn扛 vào hòm, và đặt ⟨את⟩ nắp xá tội lên trên hòm, ở phía trên.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "lấy"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "đặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lời chứng"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "lời chứng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vào"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "hòm"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "gắn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các đòn"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "các đòn"
+    },
+    {
+      "surface": "על",
+      "gloss": "vào"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "hòm"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "đặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nắp xá tội"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "nắp xá tội"
+    },
+    {
+      "surface": "על",
+      "gloss": "lên trên"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "hòm"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ở phía trên"
+    }
+  ],
+  "timestamp": "2026-08-19T02:39:39.304953205Z",
+  "model": "glm-5.3"
+}

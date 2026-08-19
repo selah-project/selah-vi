@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Và ⟨את⟩ dẫn họ đến trước mặt vua Moav, và họ ở lại với ông suốt những ngày David ở trong đồn luỹ.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "và dẫn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mặt"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "và ở lại"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "với ông"
+    },
+    {
+      "surface": "כל",
+      "gloss": "suốt"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "những ngày"
+    },
+    {
+      "surface": "היות",
+      "gloss": "khi ở"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "trong đồn luỹ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:36:08.292553683Z",
+  "model": "glm-5.3"
+}

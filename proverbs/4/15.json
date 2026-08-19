@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Hãy tránh nó, đừng đi ngang qua nó; hãy lệch khỏi nó và đi qua.",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "hãy tránh nó"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "ngươi đi ngang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "qua nó"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "hãy lệch đi"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "khỏi nó"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "và đi qua"
+    }
+  ],
+  "timestamp": "2026-08-19T05:14:30.341465075Z",
+  "model": "glm-5.3"
+}

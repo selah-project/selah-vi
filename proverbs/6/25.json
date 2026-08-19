@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 6:25",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Đừng ham muốn vẻ đẹp của nàng ⟨trong⟩ lòng ngươi, và đừng để nàng bắt lấy ngươi bằng mí mắt của nàng.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "ham muốn"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "vẻ đẹp của nàng"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "trong lòng ngươi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và đừng"
+    },
+    {
+      "surface": "תקחך",
+      "gloss": "bắt lấy ngươi"
+    },
+    {
+      "surface": "בעפעפיה",
+      "gloss": "bằng mí mắt của nàng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:15:17.051698296Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 26:19",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Ta sẽ đập tan ⟨את⟩ sự kiêu ngạo của sức mạnh các ngươi, và Ta sẽ làm ⟨את⟩ trời các ngươi như sắt, và ⟨את⟩ đất các ngươi như đồng đỏ.",
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "Ta sẽ đập tan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sự kiêu ngạo của sức mạnh các ngươi"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "sự kiêu ngạo"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "sức mạnh của các ngươi"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "và Ta sẽ làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trời các ngươi"
+    },
+    {
+      "surface": "שמיכם",
+      "gloss": "trời các ngươi"
+    },
+    {
+      "surface": "כברזל",
+      "gloss": "như sắt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "đất các ngươi"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "đất các ngươi"
+    },
+    {
+      "surface": "כנחשה",
+      "gloss": "như đồng đỏ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:48:26.258569832Z",
+  "model": "glm-5.3"
+}

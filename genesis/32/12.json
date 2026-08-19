@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 32:12",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Xin cứu con khỏi tay anh con, khỏi tay Esav; vì con sợ ⟨את⟩ hắn, e rằng hắn đến và đánh con, mẹ lẫn con.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "xin cứu tôi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xin"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "khỏi tay"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "anh tôi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "khỏi tay"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "sợ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hắn (Esav)"
+    },
+    {
+      "surface": "פן",
+      "gloss": "e rằng"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "hắn đến"
+    },
+    {
+      "surface": "והכני",
+      "gloss": "và đánh tôi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mẹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "con children"
+    }
+  ],
+  "timestamp": "2026-08-19T01:16:16.528152243Z",
+  "model": "glm-5.3"
+}

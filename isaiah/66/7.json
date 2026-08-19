@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 66:7",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 66,
+  "translation": "Trước khi nàng xoắn xót, nàng đã sinh; trước khi cơn đau đến cho nàng, nàng đã sinh được một con trai.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "trước khi"
+    },
+    {
+      "surface": "תחיל",
+      "gloss": "nàng xoắn xót"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "nàng đã sinh"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "trước khi"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "đến"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "cơn đau chuyển dạ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "cho nàng"
+    },
+    {
+      "surface": "והמליטה",
+      "gloss": "và nàng đã được giải thoát"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "một con trai"
+    }
+  ],
+  "timestamp": "2026-08-19T04:16:27.531987438Z",
+  "model": "glm-5.3"
+}

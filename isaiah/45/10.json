@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 45,
+  "translation": "Khốn cho kẻ nói với cha: Ngươi sinh ra cái gì? và với người đàn bà: Ngươi cưu mang điều gì?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Khốn cho"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kẻ nói"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "với cha"
+    },
+    {
+      "surface": "מה",
+      "gloss": "cái gì"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "ngươi sinh ra"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "và với người đàn bà"
+    },
+    {
+      "surface": "מה",
+      "gloss": "điều gì"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "ngươi cưu mang"
+    }
+  ],
+  "timestamp": "2026-08-19T06:12:38.616638023Z",
+  "model": "glm-5.3"
+}

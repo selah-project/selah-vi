@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 14:1",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Sự khôn ngoan của người nữ đã xây ⟨את⟩ nhà mình, nhưng sự dại dột bằng tay mình phá hủy nó.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "sự khôn ngoan"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "người nữ"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "đã xây"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "nhà mình"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "nhưng sự dại dột"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "bằng tay mình"
+    },
+    {
+      "surface": "תהרסנו",
+      "gloss": "phá hủy nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:16:30.406283914Z",
+  "model": "glm-5.3"
+}

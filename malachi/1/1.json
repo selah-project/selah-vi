@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Gánh nặng của lời Yahweh dành cho Yisraël, bởi tay Malkhi.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "gánh nặng"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lời"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến \/ cho"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraël"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bởi tay"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Malkhi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:54:32.537382580Z",
+  "model": "glm-5.3"
+}

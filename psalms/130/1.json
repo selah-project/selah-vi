@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 130,
+  "translation": "Bài ca đi lên. Từ nơi sâu thẳm tôi kêu cầu Ngài, hỡi Yahweh.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "bài ca"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "(của) sự đi lên"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "từ nơi sâu thẳm"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "tôi kêu cầu Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:01.629302255Z",
+  "model": "glm-5.3"
+}

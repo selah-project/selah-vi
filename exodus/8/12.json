@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và Yahweh phán cùng Moshe: Hãy nói cùng Aharon: Hãy giơ ⟨את⟩ gậy của ngươi, và hãy đánh ⟨את⟩ bụi của đất, và nó sẽ trở thành muỗi trong toàn xứ Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cùng"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hãy nói"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cùng"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "hãy giơ ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gậy của ngươi"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "gậy của ngươi"
+    },
+    {
+      "surface": "והך",
+      "gloss": "và hãy đánh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bụi của đất"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "bụi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "của đất"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "và sẽ trở thành"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "thành muỗi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "trong toàn"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "xứ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T02:29:29.689973402Z",
+  "model": "glm-5.3"
+}

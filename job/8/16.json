@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 8:16",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Nó xanh mướt trước mặt mặt trời, và trên vườn ⟨của nó⟩ chồi non ⟨của nó⟩ mọc ra.",
+  "tokens": [
+    {
+      "surface": "רטב",
+      "gloss": "xanh mướt"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "mặt trời"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "và trên"
+    },
+    {
+      "surface": "גנתו",
+      "gloss": "vườn của nó"
+    },
+    {
+      "surface": "ינקתו",
+      "gloss": "chồi non của nó"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "mọc ra"
+    }
+  ],
+  "timestamp": "2026-08-19T05:21:19.818195960Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Của David, thánh thi. Của Yahweh ⟨là⟩ đất và sự đầy dẫy của nó; thế giới và những cư dân trong nó.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Của David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "thánh thi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "của Yahweh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "và sự đầy dẫy của nó"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "thế giới"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "và những cư dân"
+    },
+    {
+      "surface": "בה",
+      "gloss": "trong nó"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:25.678867057Z",
+  "model": "glm-5.3"
+}

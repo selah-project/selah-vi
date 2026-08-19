@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Ta đã sai ⟨את⟩ Moshe và ⟨את⟩ Aharon, và Ta đã đánh phạt ⟨את⟩ Mitsrayim, như điều Ta đã làm giữa lòng nó; và sau đó Ta đã đưa ⟨את⟩ các ngươi ra.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "Ta đã sai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "và Ta đã đánh phạt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như điều"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "Ta đã làm"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "giữa lòng nó"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "và sau đó"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "Ta đã đưa ra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:21:43.192402159Z",
+  "model": "glm-5.3"
+}

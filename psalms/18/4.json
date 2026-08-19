@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Đấng đáng ca ngợi, con kêu cầu Yahweh, và khỏi kẻ thù con ⟨được⟩ cứu.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "Đấng đáng ca ngợi"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "con kêu cầu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "và khỏi"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "kẻ thù con"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "con được cứu"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:38.858555270Z",
+  "model": "glm-5.3"
+}

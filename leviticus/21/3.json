@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Và vì chị em gái người, trinh nữ, kẻ gần gũi với người, là kẻ chưa thuộc về một người đàn ông nào — vì nàng, người được làm mình ô uế.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "và vì chị em gái người"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "trinh nữ"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "kẻ gần gũi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "với người"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "là kẻ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chưa"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "thuộc về"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "một người đàn ông"
+    },
+    {
+      "surface": "לה",
+      "gloss": "vì nàng"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "người được làm mình ô uế"
+    }
+  ],
+  "timestamp": "2026-08-19T02:46:18.467105242Z",
+  "model": "glm-5.3"
+}

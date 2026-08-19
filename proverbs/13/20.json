@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Đi ⟨את⟩ với người khôn ngoan thì ⟨trở nên⟩ khôn ngoan, còn kẻ chăn-dắt kẻ ngu dắt sẽ bị hư hại.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "đi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người khôn ngoan"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "người khôn ngoan"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "và khôn ngoan"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "còn kẻ chăn-dắt"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "kẻ ngu dắt"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "sẽ bị hư hại"
+    }
+  ],
+  "timestamp": "2026-08-19T05:16:15.731644526Z",
+  "model": "glm-5.3"
+}

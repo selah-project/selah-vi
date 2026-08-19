@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Khiên che của con ⟨với⟩ Elohim, Đấng cứu những người thẳng lòng.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "khiên che của con"
+    },
+    {
+      "surface": "על",
+      "gloss": "với \/ trên"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "Đấng cứu"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "những người thẳng"
+    },
+    {
+      "surface": "לב",
+      "gloss": "lòng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:54:44.042552443Z",
+  "model": "glm-5.3"
+}

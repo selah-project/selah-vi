@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Nơi nào họ giết ⟨את⟩ con sinh tế thiêu, tại đó họ sẽ giết ⟨את⟩ con sinh tế tội lỗi; và ⟨את⟩ máu của nó người ta sẽ rắc lên bàn thờ, chung quanh.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "nơi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "họ giết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con sinh tế thiêu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sinh tế thiêu"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "họ sẽ giết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con sinh tế tội lỗi"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "sinh tế tội lỗi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "máu của nó"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "máu của nó"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "sẽ rắc"
+    },
+    {
+      "surface": "על",
+      "gloss": "lên trên"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "chung quanh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:40:59.761569616Z",
+  "model": "glm-5.3"
+}

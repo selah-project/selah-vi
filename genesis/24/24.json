@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 24:24",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Và nàng nói với ⟨anh⟩: Tôi là con-gái của Betuel, con trai của Milkah, mà bà đã sinh cho Nahor.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "và nàng nói"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "với ⟨anh⟩"
+    },
+    {
+      "surface": "בת",
+      "gloss": "con-gái"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Betuel"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Milkah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "bà đã sinh"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "cho Nahor"
+    }
+  ],
+  "timestamp": "2026-08-19T02:23:42.348959962Z",
+  "model": "glm-5.3"
+}

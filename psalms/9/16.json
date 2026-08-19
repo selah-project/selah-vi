@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 9:16",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Các dân đã chìm xuống hố mà chúng đã đào; trong lưới mà chúng đã giấu, chân chúng đã bị bắt.",
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "đã chìm xuống"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "các dân"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "trong hố"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "chúng đã làm\/đào"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "trong lưới"
+    },
+    {
+      "surface": "זו",
+      "gloss": "mà"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "chúng đã giấu"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "đã bị bắt"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "chân của chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:55:48.434171734Z",
+  "model": "glm-5.3"
+}

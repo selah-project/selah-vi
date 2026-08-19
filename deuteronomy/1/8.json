@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 1:8",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Hãy xem, Ta đã đặt trước mặt các ngươi ⟨את⟩ đất: hãy vào và chiếm lấy ⟨את⟩ đất mà Yahweh đã thề với tổ phụ các ngươi — với Avraham, với Yitschak và với Yaakov — để ban cho họ và cho dòng dõi họ sau họ.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "hãy xem"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Ta đã đặt\/đã ban"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "trước mặt các ngươi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đất"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "באו",
+      "gloss": "hãy vào"
+    },
+    {
+      "surface": "ורשו",
+      "gloss": "và hãy chiếm lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đất"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "đã thề"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "với tổ phụ các ngươi"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "với Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "với Yitschak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "và với Yaakov"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "để ban"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho họ"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "và cho dòng dõi họ"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "sau họ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:05:03.762079672Z",
+  "model": "glm-5.3"
+}

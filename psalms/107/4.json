@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 107:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 107,
+  "translation": "Họ lang thang trong hoang mạc, trong sa mạc hoang vu, trên con đường ⟨nào⟩; thành để ở họ không tìm thấy.",
+  "tokens": [
+    {
+      "surface": "תעו",
+      "gloss": "họ lang thang"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "trong hoang mạc"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "trong sa mạc hoang vu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "con đường"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "thành"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "chốn ở"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "họ tìm thấy"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:17.690309678Z",
+  "model": "glm-5.3"
+}

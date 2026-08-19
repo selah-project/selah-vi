@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Người không rút lui cột mây ban ngày, và cột lửa ban đêm, khỏi trước mặt ⟨the⟩ dân.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "rút lui \/ dời away"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "cột"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "của mây"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ban ngày"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "và cột"
+    },
+    {
+      "surface": "האש",
+      "gloss": "của lửa"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ban đêm"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨the⟩ dân"
+    }
+  ],
+  "timestamp": "2026-08-19T02:30:27.715654621Z",
+  "model": "glm-5.3"
+}

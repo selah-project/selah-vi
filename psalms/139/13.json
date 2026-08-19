@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 139,
+  "translation": "Vì chính Ngài đã dựng nên ⟨את⟩ thận tôi, đã dệt tôi lại trong bụng mẹ tôi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "chính Ngài"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "đã dựng nên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thận tôi"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "thận tôi"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "đã dệt tôi lại"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "trong bụng"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mẹ tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:53.427548170Z",
+  "model": "glm-5.3"
+}

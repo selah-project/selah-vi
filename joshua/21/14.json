@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "và ⟨את⟩ Yattir cùng đất chung của nó, và ⟨את⟩ Eshtemoa cùng đất chung của nó.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Yattir"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yattir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "đất chung của nó"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "đất chung của nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Eshtemoa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshtemoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "đất chung của nó"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "đất chung của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T03:20:47.821036100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Thì tôi sẽ không xấu hổ, khi tôi chiêm ngắm mọi điều răn của Ngài.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "thì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "tôi sẽ xấu hổ"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "khi tôi chiêm ngắm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hướng đến"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "điều răn của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:27.498118747Z",
+  "model": "glm-5.3"
+}

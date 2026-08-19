@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "từ hai mươi tuổi trở lên, mọi người ra quân dịch trong Yisrael, các ngươi hãy kiểm điểm ⟨אתם⟩ theo đạo binh của chúng, ngươi cùng Aharon.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "từ con trai"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "hai mươi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuổi"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "và trở lên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ra"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "quân dịch"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "trong Yisrael"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "hãy kiểm điểm"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "(đạo binh của chúng — đối tượng bị kiểm điểm)"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "theo đạo binh của chúng"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "cùng Aharon"
+    }
+  ],
+  "timestamp": "2026-08-19T02:52:00.307253514Z",
+  "model": "glm-5.3"
+}

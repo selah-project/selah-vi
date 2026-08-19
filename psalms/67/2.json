@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 67,
+  "translation": "Elohim xin ban ơn cho chúng ta và ban phước cho chúng ta, xin làm mặt Ngài chiếu sáng ⟨את⟩-cùng chúng ta. Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "xin ban ơn cho chúng ta"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "và ban phước cho chúng ta"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "xin làm chiếu sáng"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mặt Ngài"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩-cùng",
+      "marks": "chúng ta"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:57.361134288Z",
+  "model": "glm-5.3"
+}

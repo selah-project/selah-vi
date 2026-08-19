@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và Aharon lại gần bàn thờ, và giết ⟨את⟩ con bò con làm lễ tội, cái belonging-là của chính ông.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "và lại gần"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "và giết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con bò con làm lễ tội"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "con bò con"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "làm lễ tội"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cái mà"
+    },
+    {
+      "surface": "לו",
+      "gloss": "thuộc về ông"
+    }
+  ],
+  "timestamp": "2026-08-19T02:41:43.308528352Z",
+  "model": "glm-5.3"
+}

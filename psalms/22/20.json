@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Còn Ngài, Yahweh ôi, xin đừng ở xa; sức mạnh tôi ơi, xin nhanh đến giúp tôi.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "còn Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "xin đừng"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ở xa"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "sức mạnh tôi"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "đến giúp tôi"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "xin nhanh"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:09.190420119Z",
+  "model": "glm-5.3"
+}

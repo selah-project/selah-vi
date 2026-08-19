@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Vua Achashverosh đặt ⟨את⟩ thuế劳 dịch lên đất và các đảo biển. — Vua Achashverosh đã đặt mức cống dịch lên ⟨את⟩ đất và các hải đảo.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "đã đặt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "מס",
+      "gloss": "cống dịch (thuế lao役)"
+    },
+    {
+      "surface": "על",
+      "gloss": "lên"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "và các đảo"
+    },
+    {
+      "surface": "הים",
+      "gloss": "của biển"
+    }
+  ],
+  "timestamp": "2026-08-19T05:35:36.666988390Z",
+  "model": "glm-5.3"
+}

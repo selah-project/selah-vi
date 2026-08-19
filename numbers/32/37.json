@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 32:37",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Và con cháu của Reuven đã xây ⟨את⟩ Cheshbon và ⟨את⟩ Elale và ⟨את⟩ Kiryataim.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Và con cháu của"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "đã xây"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cheshbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Cheshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Elale"
+    },
+    {
+      "surface": "אלעלא",
+      "gloss": "Elale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Kiryataim"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Kiryataim"
+    }
+  ],
+  "timestamp": "2026-08-19T03:02:57.453419676Z",
+  "model": "glm-5.3"
+}

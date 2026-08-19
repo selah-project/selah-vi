@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Vì như vậy Yahweh phán: Tiếng của run rẩy chúng ta đã nghe, kinh hãi, và không có sự bình an.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Vì"
+    },
+    {
+      "surface": "כה",
+      "gloss": "như vậy"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tiếng"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "của run rẩy"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "chúng ta đã nghe"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "kinh hãi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "và không có"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sự bình an"
+    }
+  ],
+  "timestamp": "2026-08-19T04:24:44.786358953Z",
+  "model": "glm-5.3"
+}

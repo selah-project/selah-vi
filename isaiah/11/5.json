@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 11:5",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Sự công chính sẽ là đai lưng của ngài, và sự tín thành là đai hông của ngài.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "và sẽ là"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sự công chính"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "đai"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "lưng của ngài"
+    },
+    {
+      "surface": "והאמונה",
+      "gloss": "và sự tín thành"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "đai"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "hông của ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T04:06:06.624852388Z",
+  "model": "glm-5.3"
+}

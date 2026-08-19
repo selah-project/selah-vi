@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 38:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 38,
+  "translation": "Những kẻ yêu tôi và bạn hữu tôi đứng tránh xa vết thương của tôi, và thân thuộc tôi đứng từ đàng xa.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "những kẻ yêu tôi"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "và bạn hữu tôi"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "tránh xa"
+    },
+    {
+      "surface": "נגעי",
+      "gloss": "vết thương của tôi"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "đứng"
+    },
+    {
+      "surface": "וקרובי",
+      "gloss": "và thân thuộc tôi"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "từ đàng xa"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "đã đứng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:32.699001639Z",
+  "model": "glm-5.3"
+}

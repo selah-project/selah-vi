@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 94,
+  "translation": "El của sự báo thù ⟨là⟩ Yahweh, El của sự báo thù, hãy soi sáng hiện ra!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "của sự báo thù"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "của sự báo thù"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "hãy soi sáng hiện ra"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:33.368249983Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 12:1",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Con trai bảy năm ⟨tuổi⟩ Yehoash khi ⟨ông⟩ làm vua.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "bảy"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "năm"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoash"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "khi làm vua của ông"
+    }
+  ],
+  "timestamp": "2026-08-19T03:59:13.854778758Z",
+  "model": "glm-5.3"
+}

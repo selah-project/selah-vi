@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Khi ngài phô bày ⟨את⟩ sự giàu có vinh quang của vương quốc mình, và ⟨את⟩ sự quý giá rực rỡ của sự vĩ đại mình, nhiều ngày — tám mươi và một trăm ngày.",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "khi ngài phô bày"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sự giàu có vinh quang của vương quốc mình"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sự giàu có"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "vinh quang"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "của vương quốc mình"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sự quý giá rực rỡ của sự vĩ đại mình"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "sự quý giá"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "rực rỡ"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "của sự vĩ đại mình"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nhiều"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "tám mươi"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "và một trăm"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ngày"
+    }
+  ],
+  "timestamp": "2026-08-19T05:35:09.217257593Z",
+  "model": "glm-5.3"
+}

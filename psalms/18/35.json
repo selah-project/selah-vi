@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Đấng dạy đôi tay tôi cho chiến trận, và đôi cánh tay tôi hạ xuống cây cung bằng đồng.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "Đấng dạy"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "đôi tay tôi"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "cho chiến trận"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "và ⟨cung⟩ bị hạ xuống"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "cây cung"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "bằng đồng"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "đôi cánh tay tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:57.847973855Z",
+  "model": "glm-5.3"
+}

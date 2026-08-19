@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Vì nó không biết điều sẽ xảy ra là gì; vì khi nó xảy ra, ai sẽ báo cho nó?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nó không"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "biết"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "sẽ xảy ra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "khi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "nó xảy ra"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "sẽ báo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:52.175430630Z",
+  "model": "glm-5.3"
+}

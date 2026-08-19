@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 51,
+  "translation": "Xin cứu con khỏi ⟨את⟩ huyết, Elohim ôi, Elohim của sự cứu độ của con; lưỡi con sẽ reo vui ⟨về⟩ sự công chính của Ngài.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "xin cứu con"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "khỏi những huyết"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "sự cứu độ của con"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "sẽ reo vui"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "lưỡi con"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "sự công chính của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:22.278311114Z",
+  "model": "glm-5.3"
+}

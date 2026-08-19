@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Moshe đi và nói ⟨את⟩ những lời này với toàn thể Yisra'el.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "đi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "những lời này"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "những lời"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "này"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-19T03:13:06.090848668Z",
+  "model": "glm-5.3"
+}

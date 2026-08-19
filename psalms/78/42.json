@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 78,
+  "translation": "Không, họ không nhớ ⟨את⟩ tay Ngài, ngày mà Ngài chuộc họ khỏi kẻ thù.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "họ nhớ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tay Ngài"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tay của Ngài"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "Ngài chuộc họ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "צר",
+      "gloss": "kẻ thù"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:04.285953340Z",
+  "model": "glm-5.3"
+}

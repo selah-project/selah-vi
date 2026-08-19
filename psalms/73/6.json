@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 73,
+  "translation": "Vì vậy sự kiêu ngạo là vòng cổ ⟨cho⟩ chúng, sự bạo hành che phủ chúng như áo choàng.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "vì vậy"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "là vòng cổ của chúng"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "sự kiêu ngạo"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "che phủ"
+    },
+    {
+      "surface": "שית",
+      "gloss": "như áo choàng"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "sự bạo hành"
+    },
+    {
+      "surface": "למו",
+      "gloss": "chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:56.288307741Z",
+  "model": "glm-5.3"
+}

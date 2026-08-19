@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 2:20",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và con người đặt tên cho mọi súc vật, cho chim trời, và cho mọi thú vật đồng ruộng; nhưng với Adàm không tìm thấy sự trợ giúp tương xứng với ⟨nó⟩.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "và-nó-đặt-tên"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "con-người"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "những-tên"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "cho-mọi"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "súc-vật"
+    },
+    {
+      "surface": "ולעוף",
+      "gloss": "và-cho-chim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "của-trời"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "và-cho-mọi"
+    },
+    {
+      "surface": "חית",
+      "gloss": "thú-vật"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "của-đồng-ruộng"
+    },
+    {
+      "surface": "ולאדם",
+      "gloss": "nhưng-với-Adàm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "tìm-thấy"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "sự-trợ-giúp"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "tương-xứng-với-nó"
+    }
+  ],
+  "timestamp": "2026-08-19T00:47:18.177405224Z",
+  "model": "glm-5.3"
+}

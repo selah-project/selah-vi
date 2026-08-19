@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Linh hồn tôi dính chặt vào bụi đất; xin làm tôi sống lại theo lời Ngài.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "dính chặt"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "vào bụi đất"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "linh hồn tôi"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "xin làm tôi sống lại"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "theo lời Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:41.229793246Z",
+  "model": "glm-5.3"
+}

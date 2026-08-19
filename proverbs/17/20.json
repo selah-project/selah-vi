@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Kẻ lòng vặn vẹo không tìm thấy điều tốt, và kẻ lưỡi đảo điệu ngã vào điều dữ.",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "vặn vẹo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "lòng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "tìm thấy"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "điều tốt"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "và đảo ngược"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "trong lưỡi mình"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ngã"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "vào điều dữ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:17:06.713152443Z",
+  "model": "glm-5.3"
+}

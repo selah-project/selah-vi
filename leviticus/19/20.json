@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 19:20",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Và một người nếu nằm ⟨את⟩ với một phụ nữ — sự nằm của hạt giống — mà nàng là nữ tỳ đã hứa gả cho một người, và sự chuộc ra chưa được thực hiện cho nàng, hoặc tự do chưa được ban cho nàng, thì sẽ có sự tra xét; họ chẳng bị giết, vì nàng chưa được tự do.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "và một người"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "nằm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ với",
+      "marks": "một phụ nữ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "một phụ nữ"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "sự nằm"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "của hạt giống"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mà nàng"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "nữ tỳ"
+    },
+    {
+      "surface": "נחרפת",
+      "gloss": "đã hứa gả"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "cho một người"
+    },
+    {
+      "surface": "והפדה",
+      "gloss": "và sự chuộc ra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chưa"
+    },
+    {
+      "surface": "נפדתה",
+      "gloss": "được thực hiện cho nàng"
+    },
+    {
+      "surface": "או",
+      "gloss": "hoặc"
+    },
+    {
+      "surface": "חפשה",
+      "gloss": "tự do"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chưa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "được ban"
+    },
+    {
+      "surface": "לה",
+      "gloss": "cho nàng"
+    },
+    {
+      "surface": "בקרת",
+      "gloss": "sự tra xét"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sẽ có"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chẳng"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "bị giết"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chưa"
+    },
+    {
+      "surface": "חפשה",
+      "gloss": "được tự do"
+    }
+  ],
+  "timestamp": "2026-08-19T02:46:04.502410479Z",
+  "model": "glm-5.3"
+}

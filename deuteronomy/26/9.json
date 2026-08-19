@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "và Người đã dẫn chúng ta đến nơi này, và đã ban cho chúng ta ⟨את⟩ đất này, đất đúc chảy sữa và mật.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "và Người đã dẫn vào"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "nơi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "và đã ban"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "cho chúng ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đất này"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "này"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "chảy"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "sữa"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "và mật"
+    }
+  ],
+  "timestamp": "2026-08-19T03:11:51.284281202Z",
+  "model": "glm-5.3"
+}

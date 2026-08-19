@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Kẻ tôi tớ đã cai trị trên chúng tôi; ⟨người⟩ gỡ ách ⟨thì⟩ không có, khỏi tay chúng nó.",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "kẻ tôi tớ"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "đã cai trị"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "trên chúng tôi"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "gỡ ách"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "khỏi tay chúng nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:11.784721198Z",
+  "model": "glm-5.3"
+}

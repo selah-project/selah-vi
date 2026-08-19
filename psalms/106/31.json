@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 106,
+  "translation": "Và điều đó được kể cho ông ⟨là⟩ sự công chính, cho thế hệ và thế hệ, mãi mãi.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "và nó được kể"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho ông"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "là sự công chính"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "cho thế hệ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "và thế hệ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mãi mãi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:06.242099408Z",
+  "model": "glm-5.3"
+}

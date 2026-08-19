@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 14:18",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Họ chôn cất ⟨אתו⟩ và cả Yisra'el than khóc cho người, theo lời Yahweh mà Ngài đã phán qua tay tôi tớ Ngài, Achiya đấng tiên tri.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "và-họ-chôn"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "người (tước vị vua trẻ)"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "và-họ-than-khóc"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho-người"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cả"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "theo-lời"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Ngài-đã-phán"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "qua-tay"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "tôi-tớ-Ngài"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "Achiya"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "đấng-tiên-tri"
+    }
+  ],
+  "timestamp": "2026-08-19T03:51:54.880437051Z",
+  "model": "glm-5.3"
+}

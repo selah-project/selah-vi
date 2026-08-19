@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 1:4",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và người sẽ đặt tay mình trên đầu con lễ toàn thiêu, và nó sẽ được chấp nhận cho người, để làm lễ chuộc tội cho người.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "và người sẽ đặt"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tay mình"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "đầu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "con lễ toàn thiêu"
+    },
+    {
+      "surface": "ונרצה",
+      "gloss": "và nó sẽ được chấp nhận"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho người"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "để chuộc tội"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "cho người"
+    }
+  ],
+  "timestamp": "2026-08-19T02:40:08.016024747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 107:35",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 107,
+  "translation": "Ngài biến hoang mạc thành ao nước, và đất khô thành các suối nước.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "biến thành"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "hoang mạc"
+    },
+    {
+      "surface": "לאגם",
+      "gloss": "thành ao"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "và đất"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "khô"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "thành các suối"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:16.882507910Z",
+  "model": "glm-5.3"
+}

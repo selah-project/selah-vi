@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 6:23",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Aharon lấy ⟨את⟩ Elishéva con gái của Amminadav, chị của Nachshon, làm vợ cho mình; và nàng sinh cho ông ⟨את⟩ Nadav và ⟨את⟩ Avihu, ⟨את⟩ Elazar và ⟨את⟩ Itamar.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "lấy"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elishéva"
+    },
+    {
+      "surface": "אלישבע",
+      "gloss": "Elishéva"
+    },
+    {
+      "surface": "בת",
+      "gloss": "con gái của"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amminadav"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "chị của"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nachshon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho mình"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "làm vợ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "và sinh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho ông"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nadav"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Avihu"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "Avihu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Itamar"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    }
+  ],
+  "timestamp": "2026-08-19T02:28:45.286206716Z",
+  "model": "glm-5.3"
+}

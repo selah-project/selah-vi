@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 7:15",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Thịt của sinh lễ tạ ơn thuộc các lễ hòa bình của người phải được ăn vào ngày dâng lễ vật của người; không được để lại gì từ nó cho đến sáng.",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "và thịt"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sinh lễ"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "tạ ơn"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "các lễ hòa bình của người"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "vào ngày"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "dâng lễ vật của người"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "phải được ăn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "được để lại"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "từ nó"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sáng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:40:44.211700755Z",
+  "model": "glm-5.3"
+}

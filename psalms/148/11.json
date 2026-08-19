@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 148,
+  "translation": "Các vua của đất và mọi dân tộc, các quan trưởng và mọi thẩm phán của đất",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "các vua của"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "dân tộc"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "các quan trưởng"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "thẩm phán của"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:31.816050566Z",
+  "model": "glm-5.3"
+}

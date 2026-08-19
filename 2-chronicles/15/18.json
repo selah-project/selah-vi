@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 15:18",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Và ông đem ⟨את⟩ những vật thánh của cha mình và những vật thánh của chính mình vào nhà ⟨của⟩ Elohim: bạc, vàng, và các khí cụ.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "và ông đem vào"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "những vật thánh của cha mình"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "những vật thánh của"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "cha mình"
+    },
+    {
+      "surface": "וקדשיו",
+      "gloss": "và những vật thánh của mình"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "bạc"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "và vàng"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "và các khí cụ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:56:34.556156134Z",
+  "model": "glm-5.3"
+}

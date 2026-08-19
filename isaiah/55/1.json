@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 55:1",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 55,
+  "translation": "Hỡi mọi kẻ khát, hãy đến với nước; và kẻ không có bạc, hãy đến, hãy mua và ăn; phải, hãy đến, hãy mua rượu và sữa, không cần bạc, không cần giá tiền.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "hỡi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "kẻ khát"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "hãy đến"
+    },
+    {
+      "surface": "למים",
+      "gloss": "với nước"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "và kẻ mà"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho mình"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "bạc"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "hãy đến"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "hãy mua"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "và hãy ăn"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "và hãy đến"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "hãy mua"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "không cần"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "bạc"
+    },
+    {
+      "surface": "ובלוא",
+      "gloss": "và không cần"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "giá tiền"
+    },
+    {
+      "surface": "יין",
+      "gloss": "rượu"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "và sữa"
+    }
+  ],
+  "timestamp": "2026-08-19T04:14:30.987192178Z",
+  "model": "glm-5.3"
+}

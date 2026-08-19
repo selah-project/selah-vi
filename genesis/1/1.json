@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Ban đầu Elohim đã sáng tạo ⟨את⟩ các tầng trời và ⟨את⟩ đất.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "Ban đầu"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "đã sáng tạo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các tầng trời"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "các tầng trời"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "đất"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T00:44:46.332241824Z",
+  "model": "glm-5.3"
+}

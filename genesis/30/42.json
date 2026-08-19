@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 30:42",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Còn khi đàn chiên yếu ớt thì ⟨⟨ông⟩⟩ không đặt; và những con yếu ớt trở thành của Lavan, còn những con khỏe mạnh thuộc về Yaakov.",
+  "tokens": [
+    {
+      "surface": "ובהעטיף",
+      "gloss": "còn khi yếu ớt"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "đàn chiên"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "đặt"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "và trở thành"
+    },
+    {
+      "surface": "העטפים",
+      "gloss": "những con yếu ớt"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "của Lavan"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "còn những con khỏe mạnh"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "của Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-19T01:14:39.775542045Z",
+  "model": "glm-5.3"
+}

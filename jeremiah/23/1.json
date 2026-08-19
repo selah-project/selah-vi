@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 23:1",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Khốn thay cho các kẻ chăn đang hủy hoại và làm tan tác ⟨את⟩ bầy chiên đồng cỏ của Ta, sấm phán của Yahweh.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Khốn thay"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "các kẻ chăn"
+    },
+    {
+      "surface": "מאבדים",
+      "gloss": "đang hủy hoại"
+    },
+    {
+      "surface": "ומפצים",
+      "gloss": "và làm tan tác"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bầy chiên"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "bầy chiên"
+    },
+    {
+      "surface": "מרעיתי",
+      "gloss": "đồng cỏ của Ta"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sấm phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T04:22:37.975011472Z",
+  "model": "glm-5.3"
+}

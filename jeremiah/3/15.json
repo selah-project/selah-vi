@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 3:15",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và Ta sẽ ban cho các ngươi những người chăn chiên theo lòng Ta, và họ sẽ chăn ⟨אתכם⟩ với sự hiểu biết và sự thông sáng.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "và Ta sẽ ban"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho các ngươi"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "những người chăn"
+    },
+    {
+      "surface": "כלבי",
+      "gloss": "theo lòng Ta"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "và họ sẽ chăn"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "các ngươi (đối tượng được chăn)"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "sự hiểu biết"
+    },
+    {
+      "surface": "והשכיל",
+      "gloss": "và sự thông sáng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:17:30.735924935Z",
+  "model": "glm-5.3"
+}

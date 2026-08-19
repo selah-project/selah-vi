@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 132,
+  "translation": "Yahweh đã thề cùng David trong sự chân thật, Ngài sẽ không lui khỏi nó: từ trái bông của ngươi ta sẽ đặt ⟨את⟩ ngôi cho ngươi.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "đã thề"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "cùng David"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "trong sự chân thật"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "sẽ lui"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "khỏi nó"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "từ trái"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "bông của ngươi"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ta sẽ đặt"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "ngôi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngươi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngôi (lãnh vực ngôi vua David)"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:15.587105293Z",
+  "model": "glm-5.3"
+}

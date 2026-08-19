@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và Elohim đã phước lành ⟨את⟩ ngày thứ bảy và đã thánh hóa nó, vì trong ngày đó Ngài đã nghỉ khỏi mọi công việc của Ngài — việc mà Elohim đã sáng tạo để làm.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "và đã phước lành"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngày thứ bảy"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "thứ bảy"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "và đã thánh hóa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nó",
+      "marks": "ngày thứ bảy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "בו",
+      "gloss": "trong nó"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "đã nghỉ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "khỏi mọi"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "công việc của Ngài"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "đã sáng tạo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "để làm"
+    }
+  ],
+  "timestamp": "2026-08-19T00:48:19.057036961Z",
+  "model": "glm-5.3"
+}

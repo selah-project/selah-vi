@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 24:7",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Vì con trai của ATalyahu, kẻ đàn bà độc ác, đã phá ⟨את⟩ nhà của Đức Chúa Trời; và cả mọi vật thánh của nhà Yahweh chúng nó đã làm cho các Baalim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "ATalyahu"
+    },
+    {
+      "surface": "המרשעת",
+      "gloss": "kẻ đàn bà độc ác"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "con trai của nàng"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "chúng đã phá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhà"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà của"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Đức Chúa Trời"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "và cả"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "vật thánh của"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "chúng đã làm"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "cho các Baalim"
+    }
+  ],
+  "timestamp": "2026-08-19T05:58:18.416821902Z",
+  "model": "glm-5.3"
+}

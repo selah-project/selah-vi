@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "David đã điểm binh ⟨את⟩ dân sự là những kẻ ở cùng ⟨את⟩ ông, và đặt lên họ các trưởng ngàn và trưởng trăm.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "đã điểm binh"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân sự"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "là những kẻ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ở cùng ⟨את⟩ ông"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "và đặt"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "lên họ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "các trưởng"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ngàn"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "và các trưởng"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "trăm"
+    }
+  ],
+  "timestamp": "2026-08-19T03:43:57.837125489Z",
+  "model": "glm-5.3"
+}

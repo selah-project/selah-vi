@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 86,
+  "translation": "Mọi dân tộc mà ngươi đã làm nên sẽ đến và sẽ quỳ lạy trước mặt ngươi, Adonai, và sẽ tôn vinh danh ngươi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "dân tộc"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ngươi đã làm"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "sẽ đến"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "và sẽ quỳ lạy"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "trước mặt ngươi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "và sẽ tôn vinh"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "danh ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:09.637640116Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và Kayin nói với Yahweh: Lỗi của tôi quá lớn, không thể mang nổi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "quá lớn"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "lỗi của tôi"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "để mang"
+    }
+  ],
+  "timestamp": "2026-08-19T00:47:50.904703021Z",
+  "model": "glm-5.3"
+}

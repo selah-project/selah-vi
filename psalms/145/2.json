@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 145,
+  "translation": "Mỗi ngày tôi sẽ chúc phúc Ngài, và tôi sẽ ngợi khen Danh Ngài đến đời đời và mãi mãi.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "trong mọi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "tôi sẽ chúc phúc Ngài"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "và tôi sẽ ngợi khen"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Danh Ngài"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "đến đời đời"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "và mãi mãi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:33.485646304Z",
+  "model": "glm-5.3"
+}

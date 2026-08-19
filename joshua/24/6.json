@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 24:6",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Ta đã đưa ⟨את⟩ các tổ phụ các ngươi ra khỏi Mitsrayim, và các ngươi đến đến biển; còn người Mitsrayim đuổi theo các tổ phụ các ngươi bằng chiến xa và kỵ binh, đến biển Súp.",
+  "tokens": [
+    {
+      "surface": "ואוציא",
+      "gloss": "Ta đã đưa ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các tổ phụ các ngươi"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "các tổ phụ các ngươi"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "khỏi Mitsrayim"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "và các ngươi đến"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "đến biển"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "và họ đuổi theo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "người Mitsrayim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "theo sau"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "các tổ phụ các ngươi"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "bằng chiến xa"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "và kỵ binh"
+    },
+    {
+      "surface": "ים",
+      "gloss": "biển"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Súp"
+    }
+  ],
+  "timestamp": "2026-08-19T03:21:43.192695100Z",
+  "model": "glm-5.3"
+}

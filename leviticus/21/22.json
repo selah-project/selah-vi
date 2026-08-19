@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Bánh của Elohim nó, từ các vật chí thánh và từ các vật thánh, nó sẽ ăn.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "bánh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "của Elohim nó"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "từ các vật thánh"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "chí thánh"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "và từ"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "các vật thánh"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "nó sẽ ăn"
+    }
+  ],
+  "timestamp": "2026-08-19T02:46:18.447654232Z",
+  "model": "glm-5.3"
+}

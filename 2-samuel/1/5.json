@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 1:5",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và David nói với người trai trẻ đang kể cho ⟨anh⟩: Sao ngươi biết rằng Shaul đã chết, và Yehonatan con trai ⟨ông⟩?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Và nói"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "người trai trẻ"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "đang-kể"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho ⟨anh⟩"
+    },
+    {
+      "surface": "איך",
+      "gloss": "sao"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ngươi biết"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "מת",
+      "gloss": "đã chết"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "và Yehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "con ⟨ông⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T03:38:36.861746023Z",
+  "model": "glm-5.3"
+}

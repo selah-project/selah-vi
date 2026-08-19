@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 84,
+  "translation": "Phước thay con người có sức mạnh ⟨là⟩ ở trong Ngài, có những con đường ⟨thiêng⟩ trong lòng mình.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "phước thay"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "con người"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "sức mạnh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho hắn"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ở trong Ngài"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "những con đường"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "trong lòng họ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:49.638641091Z",
+  "model": "glm-5.3"
+}

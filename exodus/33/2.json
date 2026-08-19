@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 33,
+  "translation": "Và ta sẽ sai một sứ giả đi trước mặt ngươi, và ta sẽ đuổi ra ⟨את⟩ người Kena'an, người Emori, người Chitti, người Perizzi, người Chivvi, và người Yevusi.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "và ta sẽ sai"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "trước mặt ngươi"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "sứ giả"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "và ta sẽ đuổi ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người Kena'an, người Emori, người Chitti, người Perizzi, người Chivvi, và người Yevusi"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "người Kena'an"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "người Emori"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "và người Chitti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "và người Perizzi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "người Chivvi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "và người Yevusi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:37:29.693086337Z",
+  "model": "glm-5.3"
+}

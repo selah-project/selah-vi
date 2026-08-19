@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 16:13",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Và ông tế hương ⟨את⟩ của lễ thiêu của mình và ⟨את⟩ của lễ chay của mình, và ông đổ ⟨את⟩ lễ quán của mình, và ông rắc ⟨את⟩ máu của các của lễ hòa bình thuộc về mình trên bàn thờ.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "và ông tế hương"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "của lễ thiêu của mình"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "của lễ thiêu của mình"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "của lễ chay của mình"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "của lễ chay của mình"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "và ông đổ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lễ quán của mình"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "lễ quán của mình"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "và ông rắc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "máu"
+    },
+    {
+      "surface": "דם",
+      "gloss": "máu"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "của các của lễ hòa bình"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "לו",
+      "gloss": "thuộc về mình"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bàn thờ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:00:25.481574727Z",
+  "model": "glm-5.3"
+}

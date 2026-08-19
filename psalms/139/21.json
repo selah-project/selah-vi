@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 139:21",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 139,
+  "translation": "Há không phải ⟨à⟩, những kẻ ghét Ngài, Yahweh, tôi ghét, và với những kẻ nổi lên chống Ngài tôi ôm căm ghét?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "há không phải"
+    },
+    {
+      "surface": "משנאיך",
+      "gloss": "những kẻ ghét Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשנא",
+      "gloss": "tôi ghét"
+    },
+    {
+      "surface": "ובתקוממיך",
+      "gloss": "và với những kẻ nổi lên chống Ngài"
+    },
+    {
+      "surface": "אתקוטט",
+      "gloss": "tôi ôm căm ghét"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:43.793995076Z",
+  "model": "glm-5.3"
+}

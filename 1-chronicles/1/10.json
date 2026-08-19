@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và Kush sinh ⟨את⟩ Nimrod; ⟨he⟩ khởi đầu trở thành dũng sĩ trên đất.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "và Kush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ông ta"
+    },
+    {
+      "surface": "החל",
+      "gloss": "khởi đầu"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "trở thành"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "dũng sĩ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trên đất"
+    }
+  ],
+  "timestamp": "2026-08-19T05:46:44.457580077Z",
+  "model": "glm-5.3"
+}

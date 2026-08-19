@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 34,
+  "translation": "Mắt của Yahweh hướng về những người công bình, và tai Ngài hướng về tiếng kêu cứu của họ.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "mắt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hướng về"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "những người công bình"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "và tai Ngài"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hướng về"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "tiếng kêu cứu của họ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:38.605092058Z",
+  "model": "glm-5.3"
+}

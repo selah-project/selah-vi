@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 145,
+  "translation": "Vương quyền của ngài ⟨là⟩ vương quyền của mọi thời đại, và sự thống trị của ngài qua mọi thế hệ nối thế hệ.",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "vương quyền của ngài"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "vương quyền"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "thời đại"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "và sự thống trị của ngài"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "qua mọi"
+    },
+    {
+      "surface": "דור",
+      "gloss": "thế hệ"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "và thế hệ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:24.963790487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 6:20",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và sứ giả của HaElohim phán với ông: Hãy lấy ⟨את⟩ thịt và ⟨את⟩ các bánh không men, và đặt lên hòn đá này, còn ⟨את⟩ nước xúp hãy đổ ra. Và ông làm y như vậy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và phán"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "với ông"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "sứ giả"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "của HaElohim"
+    },
+    {
+      "surface": "קח",
+      "gloss": "hãy lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thịt"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "thịt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các bánh không men"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "các bánh không men"
+    },
+    {
+      "surface": "והנח",
+      "gloss": "và hãy đặt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lên"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "hòn đá"
+    },
+    {
+      "surface": "הלז",
+      "gloss": "này"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "còn ⟨את⟩",
+      "marks": "nước xúp"
+    },
+    {
+      "surface": "המרק",
+      "gloss": "nước xúp"
+    },
+    {
+      "surface": "שפוך",
+      "gloss": "hãy đổ ra"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "và ông làm"
+    },
+    {
+      "surface": "כן",
+      "gloss": "y như vậy"
+    }
+  ],
+  "timestamp": "2026-08-19T03:23:56.297142355Z",
+  "model": "glm-5.3"
+}

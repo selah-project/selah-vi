@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Đủ lắm rồi cho các ngươi ⟨את⟩ vòng quanh núi này; hãy quay các ngươi về phía bắc.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "đủ lắm rồi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho các ngươi"
+    },
+    {
+      "surface": "סב",
+      "gloss": "vòng quanh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "núi"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "núi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "hãy quay"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho các ngươi"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "về phía bắc"
+    }
+  ],
+  "timestamp": "2026-08-19T06:05:52.980977735Z",
+  "model": "glm-5.3"
+}

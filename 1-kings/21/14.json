@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 21:14",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Và họ sai người đến với Izebel, rằng: Naboth đã bị ném đá, và đã chết.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "và họ sai người đến"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến với"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "סקל",
+      "gloss": "đã bị ném đá"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Naboth"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "và đã chết"
+    }
+  ],
+  "timestamp": "2026-08-19T03:53:55.653566314Z",
+  "model": "glm-5.3"
+}

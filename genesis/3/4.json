@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Con rắn nói với người phụ nữ: \"Chắc chắn các ngươi sẽ không chết.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nó nói"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "con rắn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "người phụ nữ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "מות",
+      "gloss": "chết"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "các ngươi sẽ chết"
+    }
+  ],
+  "timestamp": "2026-08-19T00:48:05.975655480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Ya'ir qua đời và được chôn cất tại Qamon.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "qua đời"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Ya'ir"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "được chôn cất"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "tại Qamon"
+    }
+  ],
+  "timestamp": "2026-08-19T03:24:55.558304779Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 23:6",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Và người đem ⟨את⟩ cây Asherah ra khỏi nhà Yahweh, ra ngoài Yerushalayim, đến suối Kidron; và người đốt ⟨את⟩ nó tại suối Kidron, nghiền nó thành bụi, và ném ⟨את⟩ bụi của nó trên mộ của con cái dân chúng.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "và người đem ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cây Asherah"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "cây Asherah"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "khỏi nhà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ra ngoài"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "suối"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidron"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "và người đốt"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ nó",
+      "marks": "cây Asherah"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "tại suối"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidron"
+    },
+    {
+      "surface": "וידק",
+      "gloss": "và nghiền nát"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "thành bụi"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "và ném"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bụi của nó"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "bụi của nó"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "mộ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "העם",
+      "gloss": "của dân chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:02:49.306573459Z",
+  "model": "glm-5.3"
+}

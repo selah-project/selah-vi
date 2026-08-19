@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Gấu phục kích — ấy là ⟨người⟩ đối với tôi, sư tử trong những nơi ẩn nấp.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "gấu"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "phục kích"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ấy là ⟨người⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "đối với tôi"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "sư tử"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "trong những nơi ẩn nấp"
+    }
+  ],
+  "timestamp": "2026-08-19T05:30:58.521533960Z",
+  "model": "glm-5.3"
+}

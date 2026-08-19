@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 76,
+  "translation": "Ngài, ⟨là⟩ Đấng đáng kinh khiếp, chính Ngài; và ai có thể đứng trước mặt Ngài, từ lúc Ngài giận dữ?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "đáng kinh khiếp"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "chính Ngài"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "và ai"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "có thể đứng"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "trước mặt Ngài"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "từ lúc"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "cơn giận của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:23.714410380Z",
+  "model": "glm-5.3"
+}

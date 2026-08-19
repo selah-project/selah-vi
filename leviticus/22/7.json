@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Và khi mặt trời lặn thì ⟨anh ta⟩ sẽ được sạch, và sau đó ăn của các vật thánh, vì đó là bánh ⟨lương thực⟩ của ⟨anh ta⟩",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "và khi... đi vào"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "mặt trời"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "thì được sạch"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "và sau đó"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ăn"
+    },
+    {
+      "surface": "מן",
+      "gloss": "của"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "các vật thánh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "bánh của mình"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "đó là"
+    }
+  ],
+  "timestamp": "2026-08-19T02:46:15.130434847Z",
+  "model": "glm-5.3"
+}

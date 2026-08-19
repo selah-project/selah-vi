@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 55,
+  "translation": "Sợ hải và run rẩy xâm chiếm ⟨vào⟩ tôi, và kinh hoàng phủ lấp tôi.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "sợ hải"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "và run rẩy"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "xâm chiếm"
+    },
+    {
+      "surface": "בי",
+      "gloss": "vào tôi"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "và phủ lấp tôi"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "kinh hoàng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:21.485239537Z",
+  "model": "glm-5.3"
+}

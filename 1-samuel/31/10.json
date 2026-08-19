@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Họ đặt ⟨את⟩ khí giới của ông trong đền Ashtarot, còn ⟨את⟩ xác ông thì đóng lên tường thành Beth-Shan.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "và họ đặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khí giới của ông"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "khí giới của ông"
+    },
+    {
+      "surface": "בית",
+      "gloss": "đền"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "Ashtarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "còn ⟨את⟩",
+      "marks": "xác ông"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "xác ông"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "họ đóng"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "lên tường thành"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Shan"
+    }
+  ],
+  "timestamp": "2026-08-19T03:38:32.935220654Z",
+  "model": "glm-5.3"
+}

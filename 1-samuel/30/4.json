@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "David cùng dân sự ⟨את⟩ ở với ông cất lên ⟨את⟩ tiếng của họ và khóc, cho đến khi không còn trong họ sức lực để khóc.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "cất lên"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "cùng dân sự"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ở với"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiếng của họ"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "tiếng của họ"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "và khóc"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến khi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không còn"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "trong họ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "sức lực"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "để khóc"
+    }
+  ],
+  "timestamp": "2026-08-19T03:38:17.635065765Z",
+  "model": "glm-5.3"
+}

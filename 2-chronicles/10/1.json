@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Vậy Rơ-kha-ve-am đi đến Sh khem, vì tại Sh khem toàn thể Yitsrael đã đến để tôn ⟨את⟩ ông làm vua.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "thì đi"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rơ-kha-ve-am"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "đến Sh khem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "tại Sh khem"
+    },
+    {
+      "surface": "באו",
+      "gloss": "đã đến"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yitsrael"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "để tôn làm vua"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ông (Rơ-kha-ve-am)"
+    }
+  ],
+  "timestamp": "2026-08-19T06:22:17.859564326Z",
+  "model": "glm-5.3"
+}

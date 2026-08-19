@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 27:2",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "David đứng dậy và vượt qua, ông cùng sáu trăm người theo ông, đến với Akhít con của Maók, vua của Gat.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "đứng dậy"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "và vượt qua"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ông"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "và sáu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "trăm"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "là những kẻ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "theo ông"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến với"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akhít"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con của"
+    },
+    {
+      "surface": "מעוך",
+      "gloss": "Maók"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua của"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    }
+  ],
+  "timestamp": "2026-08-19T03:37:34.034745162Z",
+  "model": "glm-5.3"
+}

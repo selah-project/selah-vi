@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 3:14",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và vì thế Ta đã thề với nhà Eli: tội lỗi nhà nhà Eli sẽ không được chuộc bằng sinh tế hay bằng lễ vật, cho đến đời đời.",
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "và vì thế"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "Ta đã thề"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "với nhà"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "יתכפר",
+      "gloss": "được chuộc"
+    },
+    {
+      "surface": "עון",
+      "gloss": "tội lỗi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "bằng sinh tế"
+    },
+    {
+      "surface": "ובמנחה",
+      "gloss": "hay bằng lễ vật"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "đời đời"
+    }
+  ],
+  "timestamp": "2026-08-19T03:30:14.622515321Z",
+  "model": "glm-5.3"
+}

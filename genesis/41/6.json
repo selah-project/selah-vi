@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 41:6",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 41,
+  "translation": "Và kìa, bảy bông lúa gầy gò và bị gió đông thiêu đốt, trồi lên sau chúng.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "và kìa"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "bảy"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "bông lúa"
+    },
+    {
+      "surface": "דקות",
+      "gloss": "gầy gò"
+    },
+    {
+      "surface": "ושדופת",
+      "gloss": "và bị thiêu đốt"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "gió đông"
+    },
+    {
+      "surface": "צמחות",
+      "gloss": "trồi lên"
+    },
+    {
+      "surface": "אחריהן",
+      "gloss": "sau chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T01:27:53.184386497Z",
+  "model": "glm-5.3"
+}

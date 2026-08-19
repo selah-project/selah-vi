@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 4:18",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và ⟨con⟩ được sinh ra cho Khanokh ⟨את⟩ Irad; và Irad sinh ⟨את⟩ Mechuyael; và Mechiyael sinh ⟨את⟩ Metushael; và Metushael sinh ⟨את⟩ Lamekh.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "và được sinh ra"
+    },
+    {
+      "surface": "לחנוך",
+      "gloss": "cho Khanokh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Irad"
+    },
+    {
+      "surface": "עירד",
+      "gloss": "Irad"
+    },
+    {
+      "surface": "ועירד",
+      "gloss": "và Irad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mechuyael"
+    },
+    {
+      "surface": "מחויאל",
+      "gloss": "Mechuyael"
+    },
+    {
+      "surface": "ומחייאל",
+      "gloss": "và Mechiyael"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metushael"
+    },
+    {
+      "surface": "מתושאל",
+      "gloss": "Metushael"
+    },
+    {
+      "surface": "ומתושאל",
+      "gloss": "và Metushael"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lamekh"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lamekh"
+    }
+  ],
+  "timestamp": "2026-08-19T00:48:42.984997198Z",
+  "model": "glm-5.3"
+}

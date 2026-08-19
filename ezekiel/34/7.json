@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 34:7",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 34,
+  "translation": "Vì vậy, hỡi những kẻ chăn, hãy nghe ⟨את⟩ lời của Yahweh:",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "vì vậy"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "hỡi những kẻ chăn"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hãy nghe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lời"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lời"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T04:39:49.251225535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và tôi đã nói với các ngài vào thời điểm ấy, rằng: Tôi không thể một mình gánh lấy ⟨אתכם⟩.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "và tôi đã nói"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "với các ngài"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "vào thời điểm"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ấy"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "tôi có thể"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "một mình"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "gánh lấy"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "các ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T06:06:00.829392450Z",
+  "model": "glm-5.3"
+}

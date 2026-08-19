@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Tôi kêu van cùng Ngài, mà Ngài không đáp lại tôi; tôi đứng dậy, và Ngài chỉ chăm nhìn vào tôi.",
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "gloss": "tôi kêu van"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "cùng Ngài"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mà không"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "Ngài đáp lại tôi"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "tôi đứng dậy"
+    },
+    {
+      "surface": "ותתבנן",
+      "gloss": "và Ngài chăm nhìn"
+    },
+    {
+      "surface": "בי",
+      "gloss": "vào tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:26:07.991854641Z",
+  "model": "glm-5.3"
+}

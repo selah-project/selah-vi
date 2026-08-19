@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Buổi sáng hãy gieo ⟨את⟩ giống của ngươi, và buổi chiều chớ để tay ngươi nghỉ, vì ngươi không biết cái nào sẽ thành, cái này hay cái kia, hay cả hai cùng tốt như nhau.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "buổi sáng"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "hãy gieo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "giống của ngươi"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "giống của ngươi"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "và buổi chiều"
+    },
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "để nghỉ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tay ngươi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "ngươi không"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "biết"
+    },
+    {
+      "surface": "אי",
+      "gloss": "nơi nào"
+    },
+    {
+      "surface": "זה",
+      "gloss": "cái nào"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "sẽ thành"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "cái này"
+    },
+    {
+      "surface": "או",
+      "gloss": "hay"
+    },
+    {
+      "surface": "זה",
+      "gloss": "cái kia"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "hay cả"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "hai cái"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "như một"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "tốt"
+    }
+  ],
+  "timestamp": "2026-08-19T05:34:10.815477030Z",
+  "model": "glm-5.3"
+}

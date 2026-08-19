@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 114,
+  "translation": "Từ trước mặt Adonai, hỡi đất, hãy run rẩy; từ trước mặt Elohim của Yaakov.",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "từ trước mặt"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "hỡi đất, hãy run rẩy"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "từ trước mặt"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "của Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:58.141223442Z",
+  "model": "glm-5.3"
+}

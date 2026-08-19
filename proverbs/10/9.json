@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 10:9",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Kẻ đi trong sự trọn vẹn sẽ đi an toàn, nhưng kẻ làm cong đường lối mình sẽ bị nhận biết ra.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "kẻ đi"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "trong sự trọn vẹn"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "sẽ đi"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "an toàn"
+    },
+    {
+      "surface": "ומעקש",
+      "gloss": "nhưng kẻ làm cong"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "đường lối mình"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "sẽ bị nhận biết ra"
+    }
+  ],
+  "timestamp": "2026-08-19T05:15:15.233190041Z",
+  "model": "glm-5.3"
+}

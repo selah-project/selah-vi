@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 32:20",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Và ⟨hắn⟩ lấy ⟨את⟩ con bò con mà chúng đã làm, và thiêu trong lửa, và nghiền đến khi mịn, và rải trên mặt nước, và cho con cái Yisrael uống.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "và lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con bò con"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "con bò con"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "chúng đã làm"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "và thiêu"
+    },
+    {
+      "surface": "באש",
+      "gloss": "trong lửa"
+    },
+    {
+      "surface": "ויטחן",
+      "gloss": "và nghiền"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến khi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "דק",
+      "gloss": "mịn"
+    },
+    {
+      "surface": "ויזר",
+      "gloss": "và rải"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt"
+    },
+    {
+      "surface": "המים",
+      "gloss": "của nước"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "và cho uống"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con cái Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T02:37:05.221403283Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 107,
+  "translation": "Và họ vui mừng vì sóng đã yên; và Ngài dẫn họ đến bến cảng mong muốn của họ.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "và họ vui mừng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "đã lắng xuống"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "và Ngài dẫn đến"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "bến cảng"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "sự mong muốn của họ"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:38.483353363Z",
+  "model": "glm-5.3"
+}

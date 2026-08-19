@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "và ⟨את⟩ dầu xức và ⟨את⟩ hương của các vị thơm cho nơi thánh — theo mọi điều Ta đã truyền cho ngươi, họ sẽ làm.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dầu xức"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "dầu"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "xức"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hương của các vị thơm"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "hương"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "các vị thơm"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "cho nơi thánh"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "theo mọi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "điều mà"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "Ta đã truyền cho ngươi"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "họ sẽ làm"
+    }
+  ],
+  "timestamp": "2026-08-19T02:35:51.301145665Z",
+  "model": "glm-5.3"
+}

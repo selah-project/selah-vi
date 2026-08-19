@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 27:19",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Và nếu người thánh hóa nó thật sự chuộc lại ⟨את⟩ cánh đồng, thì người ấy phải thêm một phần năm bạc theo định giá của ngươi lên trên nó, và nó sẽ được确立 cho người ấy.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "và nếu"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "chuộc lại (thật sự)"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "người ấy chuộc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cánh đồng"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "cánh đồng"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "người thánh hóa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-nó",
+      "marks": "cánh đồng (tân ngữ)"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "và người ấy thêm"
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "một phần năm"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "bạc"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "định giá của ngươi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lên trên nó"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "và nó sẽ được确立"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho người ấy"
+    }
+  ],
+  "timestamp": "2026-08-19T02:51:16.654230869Z",
+  "model": "glm-5.3"
+}

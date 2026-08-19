@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 24:23",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Và bây giờ, hãy dẹp bỏ ⟨את⟩ các thần dân ngoại ở giữa các ngươi, và hãy nghiêng ⟨את⟩ lòng các ngươi về phía Yahweh, Elohim của Yisrael.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "và-bây-giờ"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "hãy-dẹp-bỏ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các thần dân ngoại"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "các-thần"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "dân-ngoại"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "ở-giữa-các-ngươi"
+    },
+    {
+      "surface": "והטו",
+      "gloss": "và-hãy-nghiêng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lòng các ngươi"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "lòng-các-ngươi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "về-phía"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T03:21:36.330769982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và tôi sẽ đặt ⟨את⟩ Yerushalayim thành đống đổ nát, thành sào huyệt chó rừng; và ⟨את⟩ các thành của Yehudah tôi sẽ cho thành hoang tàn, không người cư ngụ.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "và tôi sẽ đặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "thành đống đổ nát"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "thành sào huyệt"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "chó rừng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "các thành của Yehudah"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "các thành"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "của Yehudah"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "tôi sẽ cho"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "thành hoang tàn"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "không"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "người cư ngụ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:19:04.099321230Z",
+  "model": "glm-5.3"
+}

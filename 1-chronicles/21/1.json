@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 21:1",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Và Shatan đứng lên chống lại Yisra'el, và xúi giục ⟨את⟩ David đếm ⟨את⟩ Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "và đứng lên"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "Shatan"
+    },
+    {
+      "surface": "על",
+      "gloss": "chống lại"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "và xúi giục"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "để đếm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-19T05:51:46.472294687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Và ⟨với את⟩ người nam, ngươi chớ nằm như nằm với người nữ; điều gớm ghiếc nó ⟨là⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người nam"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "người nam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ngươi nằm"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "nằm với"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "người nữ"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "điều gớm ghiếc"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:45:14.167153171Z",
+  "model": "glm-5.3"
+}

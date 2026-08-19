@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 42,
+  "translation": "Và ông nói với họ: Không, mà là để xem ⟨את⟩ sự trần trụi của đất này các ngươi đã đến.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "với họ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mà là"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sự trần trụi của đất"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "sự trần trụi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "của đất"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "các ngươi đã đến"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "để xem"
+    }
+  ],
+  "timestamp": "2026-08-19T02:24:26.262294592Z",
+  "model": "glm-5.3"
+}

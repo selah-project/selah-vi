@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 4:6",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và Yahweh phán cùng người: «Hãy còn đưa tay ngươi vào trong lòng ngươi.» Người đưa tay vào trong lòng, rút nó ra, và kìa, tay người bị phung ⟨trắng⟩ như tuyết.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Và ... phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cùng người"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "còn"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "hãy đưa vào"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nào"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tay ngươi"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "vào trong lòng ngươi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "và đưa vào"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tay người"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "vào trong lòng người"
+    },
+    {
+      "surface": "ויוצאה",
+      "gloss": "và rút nó ra"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "và kìa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tay người"
+    },
+    {
+      "surface": "מצרעת",
+      "gloss": "bị phung"
+    },
+    {
+      "surface": "כשלג",
+      "gloss": "như tuyết"
+    }
+  ],
+  "timestamp": "2026-08-19T02:28:19.190439359Z",
+  "model": "glm-5.3"
+}

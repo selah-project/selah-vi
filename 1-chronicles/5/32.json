@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "và Uzzi sinh ra ⟨את⟩ Zerachyah, và Zerachyah sinh ra ⟨את⟩ Merayot.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "và Uzzi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "sinh ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zerachyah"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Zerachyah"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "và Zerachyah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "sinh ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merayot"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Merayot"
+    }
+  ],
+  "timestamp": "2026-08-19T05:47:45.826488742Z",
+  "model": "glm-5.3"
+}

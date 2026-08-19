@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 19:5",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Vậy các tôi tớ của vua Chizkiyahu đi đến với Yeshayahu.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "đã đi đến"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "các tôi tớ của"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến với"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    }
+  ],
+  "timestamp": "2026-08-19T06:11:13.454440059Z",
+  "model": "glm-5.3"
+}

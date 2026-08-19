@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Đavid gọi một trong những người trai trẻ và nói: Lại gần, giết nó đi; y đánh nó, và nó chết.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "gọi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Đavid"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "một"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "trong những người trai trẻ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "גש",
+      "gloss": "lại gần"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "xông đánh"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nó"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "y đánh nó"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "nó chết"
+    }
+  ],
+  "timestamp": "2026-08-19T03:38:33.267815050Z",
+  "model": "glm-5.3"
+}

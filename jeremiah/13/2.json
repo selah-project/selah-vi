@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Và tôi đã mua ⟨את⟩ cái đai lưng, theo lời Yahweh, và tôi đã đặt nó trên hông tôi.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "và tôi đã mua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cái đai lưng"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "cái đai lưng"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "theo lời"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "và tôi đã đặt"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "hông tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:20:23.964983933Z",
+  "model": "glm-5.3"
+}

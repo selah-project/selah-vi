@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Còn Ta, Ta sẽ làm cho cứng ⟨את⟩ lòng của Pharaoh, và Ta sẽ nhân thêm ⟨את⟩ các dấu-lạ của Ta và ⟨את⟩ các phép-lạ của Ta trong đất Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "còn-Ta"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "Ta-sẽ-làm-cho-cứng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lòng của Pharaoh"
+    },
+    {
+      "surface": "לב",
+      "gloss": "lòng"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaoh"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "và-Ta-sẽ-nhân-thêm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các dấu-lạ của Ta"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "các-dấu-lạ-của-Ta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và-⟨את⟩",
+      "marks": "các phép-lạ của Ta"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "các-phép-lạ-của-Ta"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trong-đất"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T02:29:09.272838825Z",
+  "model": "glm-5.3"
+}

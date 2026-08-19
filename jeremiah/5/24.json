@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 5:24",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Và chúng không nói trong lòng mình: 'Hãy sợ, xin hãy, ⟨את⟩ Yahweh Elohim của chúng ta, Đấng ban mưa sớm và mưa muộn đúng kỳ của nó, các tuần đã định của mùa gặt, Người giữ gìn cho chúng ta.'",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "chúng nói"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "trong lòng mình"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "hãy sợ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xin hãy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Elohim của chúng ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim của chúng ta"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "Đấng ban"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "mưa"
+    },
+    {
+      "surface": "וירה",
+      "gloss": "và mưa sớm"
+    },
+    {
+      "surface": "ומלקוש",
+      "gloss": "và mưa muộn"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "đúng kỳ của nó"
+    },
+    {
+      "surface": "שבעות",
+      "gloss": "các tuần"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "đã định"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "mùa gặt"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "Người giữ gìn"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "cho chúng ta"
+    }
+  ],
+  "timestamp": "2026-08-19T04:18:14.323257883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 6:19",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Để đuổi xa ⟨את⟩ tất cả kẻ thù nghịch ngươi khỏi mặt ngươi, như Yahweh đã phán.",
+  "tokens": [
+    {
+      "surface": "להדף",
+      "gloss": "để đuổi xa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả kẻ thù nghịch ngươi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "kẻ thù nghịch ngươi"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "khỏi mặt ngươi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "đã phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T03:06:14.985782325Z",
+  "model": "glm-5.3"
+}

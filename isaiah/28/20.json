@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 28:20",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Vì giường quá ngắn để ⟨người⟩ duỗi mình, và chăn quá hẹp khi cuộn mình lại.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "quá ngắn"
+    },
+    {
+      "surface": "המצע",
+      "gloss": "giường"
+    },
+    {
+      "surface": "מהשתרע",
+      "gloss": "để duỗi mình"
+    },
+    {
+      "surface": "והמסכה",
+      "gloss": "và chăn"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "quá hẹp"
+    },
+    {
+      "surface": "כהתכנס",
+      "gloss": "khi cuộn mình lại"
+    }
+  ],
+  "timestamp": "2026-08-19T04:08:36.313959850Z",
+  "model": "glm-5.3"
+}

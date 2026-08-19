@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 38,
+  "translation": "Vết thương của tôi thối rữa và lở loét, vì sự dại dột của tôi.",
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "thối rữa"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "lở loét"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "vết thương của tôi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "sự dại dột của tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:25.300453440Z",
+  "model": "glm-5.3"
+}

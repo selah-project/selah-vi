@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 25:37",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Ngươi sẽ làm ⟨את⟩ các đèn của nó, bảy cái, và đem lên ⟨את⟩ các đèn của nó, để soi chiếu qua phía trước mặt nó.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ngươi sẽ làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các đèn của nó"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "các đèn của nó"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "bảy"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "và đem lên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các đèn của nó"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "các đèn của nó"
+    },
+    {
+      "surface": "והאיר",
+      "gloss": "và soi chiếu"
+    },
+    {
+      "surface": "על",
+      "gloss": "qua"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "phía"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "trước mặt nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:34:14.488964050Z",
+  "model": "glm-5.3"
+}

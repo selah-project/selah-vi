@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 17:10",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Và bất kỳ người nào của nhà Yisrael, hay trong những kiều dân kiều ngụ giữa họ, ăn huyết nào — thì Ta sẽ đặt mặt Ta chống lại ⟨את⟩ huyết — người sinh mạng ăn huyết đó — và Ta sẽ cắt bỏ ⟨אתה⟩ nó khỏi giữa dân sự của nó.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "và người"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bất kỳ người nào"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "từ nhà"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "và từ"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "người kiều dân"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "kiều ngụ"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "giữa họ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ăn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "דם",
+      "gloss": "huyết"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "và Ta sẽ đặt"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt của Ta"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "chống lại sinh mạng"
+    },
+    {
+      "surface": "האכלת",
+      "gloss": "kẻ ăn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huyết"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "huyết"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "và Ta sẽ cắt bỏ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨אתה⟩",
+      "marks": "nó khỏi giữa dân sự của nó"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "khỏi giữa"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "dân sự của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T06:04:33.374128122Z",
+  "model": "glm-5.3"
+}

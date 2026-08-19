@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 6:24",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và con trai của Korach: Assir, và Elkanah, và Aviasaf; đây là các gia tộc của người Korachi.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "và con trai của"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "Assir"
+    },
+    {
+      "surface": "ואלקנה",
+      "gloss": "và Elkanah"
+    },
+    {
+      "surface": "ואביאסף",
+      "gloss": "và Aviasaf"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "đây là"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "các gia tộc của"
+    },
+    {
+      "surface": "הקרחי",
+      "gloss": "người Korachi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:28:45.286411868Z",
+  "model": "glm-5.3"
+}

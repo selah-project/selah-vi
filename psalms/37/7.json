@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Hãy lặng yên trước Yahweh và khao khát mong chờ Ngài; chớ nóng giận vì kẻ thành công trong đường lối mình, vì kẻ làm ⟨את⟩ những mưu chước ác.",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "hãy lặng yên"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vì \/ trước Yahweh"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "và khao khát mong chờ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho Ngài"
+    },
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "nóng giận"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "vì kẻ thành công"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "trong đường lối mình"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "vì người kia"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "làm"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "những mưu chước ác"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:04.860376283Z",
+  "model": "glm-5.3"
+}

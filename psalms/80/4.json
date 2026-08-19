@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 80,
+  "translation": "Elohim ơi, xin khiến chúng tôi trở-lại, và xin làm sáng-rực gương-mặt Ngài, thì chúng tôi sẽ được cứu.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "xin khiến-chúng-tôi-trở-lại"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "và xin làm-sáng-rực"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "gương-mặt của Ngài"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "thì chúng tôi sẽ được cứu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:31.092291958Z",
+  "model": "glm-5.3"
+}

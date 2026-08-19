@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 28:10",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Bấy giờ Khananyah nhà ngôn sứ lấy ⟨את⟩ cái ách khỏi cổ Yirmeyah nhà ngôn sứ, và đập vỡ nó.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "bấy giờ lấy"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Khananyah"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nhà ngôn sứ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cái ách"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "cái ách"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "cổ"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Yirmeyah"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nhà ngôn sứ"
+    },
+    {
+      "surface": "וישברהו",
+      "gloss": "và đập vỡ nó"
+    }
+  ],
+  "timestamp": "2026-08-19T04:23:51.688256516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 109,
+  "translation": "Và chúng sẽ biết rằng chính tay Ngài — ⟨את⟩ này — Ngài, Yahweh, đã làm ⟨את⟩ nó.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "và chúng sẽ biết"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tay Ngài"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "này"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "đã làm nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:32.306994083Z",
+  "model": "glm-5.3"
+}

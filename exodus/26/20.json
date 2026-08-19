@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Và cho cạnh thứ hai của Mishkan, phía bắc, hai mươi ván.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "và cho cạnh"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "thứ hai"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "phía"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "bắc"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "hai mươi"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "ván"
+    }
+  ],
+  "timestamp": "2026-08-19T02:35:00.025882663Z",
+  "model": "glm-5.3"
+}

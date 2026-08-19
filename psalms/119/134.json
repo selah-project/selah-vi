@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 134,
+  "ref": "psalms 119:134",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Hãy cứu chuộc con khỏi sự áp bức của loài người, và con sẽ giữ các điều Ngài đã phán định.",
+  "tokens": [
+    {
+      "surface": "פדני",
+      "gloss": "hãy cứu chuộc con"
+    },
+    {
+      "surface": "מעשק",
+      "gloss": "khỏi sự áp bức"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "của loài người"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "và con sẽ giữ"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "các điều Ngài đã phán định"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:05.616380568Z",
+  "model": "glm-5.3"
+}

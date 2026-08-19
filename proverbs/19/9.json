@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Kẻ làm chứng dối sẽ không thoát ⟨tội⟩, và kẻ phun ra lời dối trá sẽ bị diệt vong.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kẻ làm chứng"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "dối"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "thoát ⟨tội⟩"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "và phun ra"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "lời dối trá"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "sẽ bị diệt vong"
+    }
+  ],
+  "timestamp": "2026-08-19T05:17:29.978827163Z",
+  "model": "glm-5.3"
+}

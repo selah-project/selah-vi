@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 140,
+  "translation": "Tôi biết rằng Yahweh sẽ làm ⟨את⟩ công lý cho người khốn khổ, ⟨את⟩ phán quyết cho những người thiếu thốn.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "tôi biết"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "sẽ làm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דין",
+      "gloss": "công lý"
+    },
+    {
+      "surface": "עני",
+      "gloss": "người khốn khổ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "phán quyết"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "những người thiếu thốn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:26.809052595Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Của Yahweh ⟨là⟩ sự cứu giải; trên dân ngài ⟨là⟩ phước lành của ngài. Selah.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "của Yahweh"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "sự cứu giải"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dân ngài"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "phước lành của ngài"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T04:54:29.333186406Z",
+  "model": "glm-5.3"
+}

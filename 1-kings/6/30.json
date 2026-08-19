@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và ⟨את⟩ nền của ngôi đền người đã dát bằng vàng, phía trong và phía ngoài.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nền của ngôi đền"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "nền"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "của ngôi đền"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "dát bằng"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "vàng"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "phía trong"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "và phía ngoài"
+    }
+  ],
+  "timestamp": "2026-08-19T03:48:34.531413336Z",
+  "model": "glm-5.3"
+}

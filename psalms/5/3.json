@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Xin nghiêng nghe tiếng kêu cứu của con, vua của con và Elohim của con, vì đến Ngài con cầu nguyện.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "xin nghiêng nghe"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "tiếng"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "kêu cứu của con"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "vua của con"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "và Elohim của con"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "đến Ngài"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "con cầu nguyện"
+    }
+  ],
+  "timestamp": "2026-08-19T04:55:13.758181467Z",
+  "model": "glm-5.3"
+}

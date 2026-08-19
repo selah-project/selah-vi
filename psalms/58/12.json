@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 58,
+  "translation": "Và người ta sẽ nói: \"Quả thật có hoa trái cho người công chính; quả thật có Elohim phán xét trên đất.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và sẽ nói"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "người ta"
+    },
+    {
+      "surface": "אך",
+      "gloss": "quả thật"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "hoa trái"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "cho người công chính"
+    },
+    {
+      "surface": "אך",
+      "gloss": "quả thật"
+    },
+    {
+      "surface": "יש",
+      "gloss": "có"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "phán xét"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trên đất"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:52.399310850Z",
+  "model": "glm-5.3"
+}

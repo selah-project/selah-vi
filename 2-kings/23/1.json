@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 23:1",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Vua sai người đi, và họ tụ họp về với vua tất cả các trưởng lão của Yehudah và của Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "và-vua-sai-người"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "và-họ-tụ-họp"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "về-với-vua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất-cả"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "các-trưởng-lão"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "và-Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-19T04:02:47.761975769Z",
+  "model": "glm-5.3"
+}

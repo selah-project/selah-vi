@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Hãy nghe, Yahweh, và ban ơn cho tôi; Yahweh, hãy là Đấng phù trợ tôi.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "hãy nghe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "và ban ơn cho tôi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היה",
+      "gloss": "hãy là"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "Đấng phù trợ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:38.094267795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 132,
+  "translation": "Các thầy tế lễ của ngươi sẽ mặc sự công bình, và các người trung tín của ngươi sẽ reo vui.",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "các thầy tế lễ của ngươi"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "sẽ mặc"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sự công bình"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "và các người trung tín của ngươi"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "sẽ reo vui"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:15.586756221Z",
+  "model": "glm-5.3"
+}

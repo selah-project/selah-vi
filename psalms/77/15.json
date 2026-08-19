@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 77,
+  "translation": "Chính Ngài ⟨là⟩ HaEl, Đấng làm nên sự kỳ diệu; Ngài đã bày tỏ giữa các dân sự quyền năng của Ngài.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Chính Ngài"
+    },
+    {
+      "surface": "האל",
+      "gloss": "HaEl"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Đấng làm nên"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "sự kỳ diệu"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "Ngài đã bày tỏ"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "giữa các dân"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "sức mạnh của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:40.964662345Z",
+  "model": "glm-5.3"
+}

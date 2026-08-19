@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 38:31",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 38,
+  "translation": "và ⟨את⟩ các nền móng của khu sân vườn chung quanh, và ⟨את⟩ các nền móng của cổng khu sân, và ⟨את⟩ mọi cọc của Đền Tạm, và ⟨את⟩ mọi cọc của khu sân vườn chung quanh.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các nền móng của khu sân vườn"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "các nền móng"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "của khu sân vườn"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "chung quanh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các nền móng của cổng"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "các nền móng"
+    },
+    {
+      "surface": "שער",
+      "gloss": "cổng"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "của khu sân vườn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "mọi cọc của Đền Tạm"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "cọc"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "của Đền Tạm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "mọi cọc của khu sân vườn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "cọc"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "của khu sân vườn"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "chung quanh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:38:30.063210117Z",
+  "model": "glm-5.3"
+}

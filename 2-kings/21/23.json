@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 21:23",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Và các tôi tớ của Amon âm mưu chống lại ông, và chúng giết ⟨את⟩ vua trong nhà của ông.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "và âm mưu"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "các tôi tớ của"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "chống lại ông"
+    },
+    {
+      "surface": "וימיתו",
+      "gloss": "và chúng giết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vua"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "trong nhà của ông"
+    }
+  ],
+  "timestamp": "2026-08-19T06:34:32.885426420Z",
+  "model": "glm-5.3"
+}

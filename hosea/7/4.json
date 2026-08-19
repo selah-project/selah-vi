@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 7:4",
+  "book": "hosea",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Tất cả chúng đều ngoại tình, như lò nung cháy bừng của thợ làm bánh, người nghỉ khuấy lửa từ khi nhào bột cho đến khi bột ⟨được⟩ dậy men.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "tất cả chúng"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "đều ngoại tình"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "như"
+    },
+    {
+      "surface": "תנור",
+      "gloss": "lò nung"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "cháy bừng"
+    },
+    {
+      "surface": "מאפה",
+      "gloss": "của thợ làm bánh"
+    },
+    {
+      "surface": "ישבות",
+      "gloss": "người nghỉ"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "khởi sự khuấy lửa"
+    },
+    {
+      "surface": "מלוש",
+      "gloss": "từ khi nhào"
+    },
+    {
+      "surface": "בצק",
+      "gloss": "bột"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến khi"
+    },
+    {
+      "surface": "חמצתו",
+      "gloss": "dậy men của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T04:44:55.047311131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 50,
+  "translation": "Còn ngươi, ngươi ghét sự sửa dạy, và đã ném lời Ta ra sau lưng ngươi.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "còn ngươi"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "ngươi đã ghét"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "sự sửa dạy"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "và đã ném"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "lời Ta"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "sau lưng ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:37.059299727Z",
+  "model": "glm-5.3"
+}

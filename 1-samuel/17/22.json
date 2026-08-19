@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 17:22",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Đavid bỏ ⟨את⟩ đồ đạc xuống khỏi mình, dưới tay người canh giữ đồ đạc, rồi chạy đến hàng trận, đến và hỏi thăm các anh em về sự bình an.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "bỏ xuống"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Đavid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đồ đạc"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "đồ đạc"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "khỏi mình"
+    },
+    {
+      "surface": "על",
+      "gloss": "dưới"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tay"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "người canh giữ"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "đồ đạc"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "chạy đến"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "hàng trận"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "đến"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "hỏi thăm"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "các anh em mình"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "về sự bình an"
+    }
+  ],
+  "timestamp": "2026-08-19T03:34:06.409596169Z",
+  "model": "glm-5.3"
+}

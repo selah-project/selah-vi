@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 20:25",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Các ngươi hãy phân biệt giữa con vật sạch và ⟨את⟩ con vật không sạch, và giữa loài chim không sạch và loài chim sạch; các ngươi đừng làm cho linh hồn mình ghê tởm bằng thú vật, bằng loài chim, hay bằng mọi vật bò trườn trên đất mà Ta đã phân biệt cho các ngươi là không sạch.",
+  "tokens": [
+    {
+      "surface": "והבדלתם",
+      "gloss": "hãy phân biệt"
+    },
+    {
+      "surface": "בין",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "con vật"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "sạch"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "và con vật không sạch"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "và giữa"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "loài chim"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "không sạch"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "và loài chim sạch"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "làm cho ghê tởm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "linh hồn mình"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "linh hồn mình"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "bằng thú vật"
+    },
+    {
+      "surface": "ובעוף",
+      "gloss": "bằng loài chim"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "hay bằng mọi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "bò trườn"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "trên đất"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "הבדלתי",
+      "gloss": "Ta đã phân biệt"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho các ngươi"
+    },
+    {
+      "surface": "לטמא",
+      "gloss": "là không sạch"
+    }
+  ],
+  "timestamp": "2026-08-19T02:45:59.399747326Z",
+  "model": "glm-5.3"
+}

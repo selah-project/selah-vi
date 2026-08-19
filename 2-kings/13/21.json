@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 13:21",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Và có việc ⟨họ⟩ đang chôn một người, thì kìa, họ thấy ⟨את⟩ toán cướp, và họ ném ⟨את⟩ người ấy vào mộ của Elisha; rồi ⟨người ấy⟩ đi và chạm đến xương của Elisha, người ấy sống lại và đứng dậy trên chân mình.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "và có việc"
+    },
+    {
+      "surface": "הם",
+      "gloss": "họ"
+    },
+    {
+      "surface": "קברים",
+      "gloss": "đang chôn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "một người"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "thì kìa"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "họ thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toán cướp"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "toán cướp"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "và họ ném"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người ấy"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "người ấy"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "vào mộ"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "rồi đi"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "và chạm đến"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "người ấy"
+    },
+    {
+      "surface": "בעצמות",
+      "gloss": "xương"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "sống lại"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "và đứng dậy"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "chân mình"
+    }
+  ],
+  "timestamp": "2026-08-19T03:59:38.811047262Z",
+  "model": "glm-5.3"
+}

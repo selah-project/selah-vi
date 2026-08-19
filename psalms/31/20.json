@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 31:20",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Ôi lớn dường nào ⟨sự⟩ tốt lành của Ngài, mà Ngài đã cất giấu cho những kẻ kính sợ Ngài, Ngài đã làm cho những kẻ nương náu nơi Ngài, trước mặt con cái ⟨của⟩ loài người.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ôi dường nào"
+    },
+    {
+      "surface": "רב",
+      "gloss": "lớn"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "tốt lành của Ngài"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "Ngài đã cất giấu"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "cho những kẻ kính sợ Ngài"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "Ngài đã làm"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "cho những kẻ nương náu"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nơi Ngài"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái ⟨của⟩"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "loài người"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:42.222965174Z",
+  "model": "glm-5.3"
+}

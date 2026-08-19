@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 6:20",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Chúng xấu hổ vì đã trông cậy; chúng đã đến đó và bị bẽ mặt.",
+  "tokens": [
+    {
+      "surface": "בשו",
+      "gloss": "chúng xấu hổ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "đã trông cậy"
+    },
+    {
+      "surface": "באו",
+      "gloss": "chúng đã đến"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "đến đó"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "và bị bẽ mặt"
+    }
+  ],
+  "timestamp": "2026-08-19T05:21:24.755604133Z",
+  "model": "glm-5.3"
+}

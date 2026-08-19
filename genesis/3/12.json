@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Người thưa: “Người nữ mà Ngài đã đặt với con — chính ⟨bà ta⟩ đã cho con từ cây, và con đã ăn.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "người (adam)"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "người nữ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "Ngài đã đặt"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "với con"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chính bà ta"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "đã cho"
+    },
+    {
+      "surface": "לי",
+      "gloss": "con"
+    },
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "cây"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "và con đã ăn"
+    }
+  ],
+  "timestamp": "2026-08-19T00:46:10.903022073Z",
+  "model": "glm-5.3"
+}

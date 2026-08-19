@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "và chúng sẽ làm cho Ta một đền thánh, và Ta sẽ ngự giữa chúng",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "và chúng sẽ làm"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho Ta"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "đền thánh"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "và Ta sẽ ngự"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "giữa chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:34:11.655259334Z",
+  "model": "glm-5.3"
+}

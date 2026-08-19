@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Điều hư không họ nói với ⟨את⟩ bạn đồng mình; môi trơn tru, với tim và tim, họ nói.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "điều hư không"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "họ nói"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mỗi người"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bạn đồng mình"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "bạn đồng mình"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "môi"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "trơn tru (nịnh bợ)"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "với một tim"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "và một tim"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "họ nói"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:04.648017443Z",
+  "model": "glm-5.3"
+}

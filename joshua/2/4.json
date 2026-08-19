@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 2:4",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Người đàn bà lấy ⟨את⟩ hai người đàn ông và giấu họ đi, rồi nói: Thật, những người ấy đã đến với tôi, nhưng tôi không biết họ từ đâu đến.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "và nàng lấy"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "người đàn bà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hai người đàn ông"
+    },
+    {
+      "surface": "שני",
+      "gloss": "hai"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "người đàn ông"
+    },
+    {
+      "surface": "ותצפנו",
+      "gloss": "và giấu họ đi"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "כן",
+      "gloss": "thật"
+    },
+    {
+      "surface": "באו",
+      "gloss": "đã đến"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "với tôi"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "những người ấy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nhưng không"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "tôi biết"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "từ đâu"
+    },
+    {
+      "surface": "המה",
+      "gloss": "họ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:15:55.566750773Z",
+  "model": "glm-5.3"
+}

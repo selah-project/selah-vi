@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Và El Shaddai sẽ chúc phúc cho ⟨את⟩-ngươi, và sẽ làm ngươi sinh trái, và sẽ làm ngươi đông đúc, và ngươi sẽ thành một hội chúng các dân tộc.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "và El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "sẽ chúc phúc"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ngươi"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "và sẽ làm ngươi sinh trái"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "và sẽ làm ngươi đông đúc"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "và ngươi sẽ thành"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "một hội chúng"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "các dân tộc"
+    }
+  ],
+  "timestamp": "2026-08-19T01:13:25.612395225Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 29:37",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Bảy ngày ngươi hãy chuộc tội cho bàn thờ, và thánh hóa ⟨את⟩ nó; bàn thờ sẽ nên thánh các thánh; mọi vật chạm vào bàn thờ sẽ nên thánh.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "bảy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "ngươi hãy chuộc tội"
+    },
+    {
+      "surface": "על",
+      "gloss": "cho"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "và ngươi hãy thánh hóa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nó (bàn thờ)"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "và sẽ là"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "thánh"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "các thánh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi vật"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "chạm vào"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "sẽ nên thánh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:35:43.735723878Z",
+  "model": "glm-5.3"
+}

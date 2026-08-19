@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Và ⟨ông⟩ đặt ⟨את⟩ bàn thờ vàng trong lều hội đồng, trước bức màn che.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "và đặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bàn thờ vàng"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "vàng"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "trong lều"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "hội đồng"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "bức màn che"
+    }
+  ],
+  "timestamp": "2026-08-19T02:39:11.883147582Z",
+  "model": "glm-5.3"
+}

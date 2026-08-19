@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Và Yahweh ban ⟨את⟩ sự ưu ái của dân này trong mắt người Mitzrayim, và họ được cho xin; và họ lột sạch ⟨את⟩ người Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "và Yahweh"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sự ưu ái"
+    },
+    {
+      "surface": "חן",
+      "gloss": "sự ưu ái"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân này"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "trong mắt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "người Mitzrayim"
+    },
+    {
+      "surface": "וישאלום",
+      "gloss": "và họ được cho xin"
+    },
+    {
+      "surface": "וינצלו",
+      "gloss": "và họ lột sạch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người Mitzrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "người Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T06:03:29.452819076Z",
+  "model": "glm-5.3"
+}

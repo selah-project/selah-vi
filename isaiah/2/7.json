@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 2:7",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Đất hắn đã đầy bạc và vàng, và không có cùng tận cho kho tàng của hắn; đất hắn đã đầy ngựa, và không có cùng tận cho chiến xa của hắn.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "đã đầy"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "đất hắn"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "bạc"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "và vàng"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "và không có"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "cùng tận"
+    },
+    {
+      "surface": "לאצרתיו",
+      "gloss": "cho kho tàng của hắn"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "đã đầy"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "đất hắn"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ngựa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "và không có"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "cùng tận"
+    },
+    {
+      "surface": "למרכבתיו",
+      "gloss": "cho chiến xa của hắn"
+    }
+  ],
+  "timestamp": "2026-08-19T06:11:02.810867819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 9:24",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Chỉ có con gái Pharaoh lên từ thành David về nhà bà, người mà ⟨ông⟩ đã xây cho bà; bấy giờ ⟨ông⟩ xây ⟨את⟩ Millo.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "chỉ có"
+    },
+    {
+      "surface": "בת",
+      "gloss": "con gái"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaoh"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "lên"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "từ thành"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "về"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "nhà bà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "đã xây"
+    },
+    {
+      "surface": "לה",
+      "gloss": "cho bà"
+    },
+    {
+      "surface": "אז",
+      "gloss": "bấy giờ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "xây"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Millo"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Millo"
+    }
+  ],
+  "timestamp": "2026-08-19T03:49:55.820995672Z",
+  "model": "glm-5.3"
+}

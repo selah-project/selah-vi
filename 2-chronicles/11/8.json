@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "và ⟨את⟩ Gat, và ⟨את⟩ Mareshah, và ⟨את⟩ Ziph,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Gat"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Mareshah"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Mareshah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Ziph"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Ziph"
+    }
+  ],
+  "timestamp": "2026-08-19T05:55:34.303024093Z",
+  "model": "glm-5.3"
+}

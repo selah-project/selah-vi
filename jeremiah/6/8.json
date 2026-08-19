@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 6:8",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Hãy chịu sửa dạy, hỡi Yerushalayim, kẻo linh hồn Tôi lìa khỏi ngươi; kẻo Tôi làm ngươi thành hoang tàn, đất không ai cư ngụ.",
+  "tokens": [
+    {
+      "surface": "הוסרי",
+      "gloss": "Hãy chịu sửa dạy"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kẻo"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "lìa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "linh hồn Tôi"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "khỏi ngươi"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kẻo"
+    },
+    {
+      "surface": "אשימך",
+      "gloss": "Tôi làm ngươi"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "thành hoang tàn"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "không"
+    },
+    {
+      "surface": "נושבה",
+      "gloss": "ai cư ngụ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:18:23.408721597Z",
+  "model": "glm-5.3"
+}

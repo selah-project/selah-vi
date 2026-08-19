@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 6:10",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Chút chút ngủ, chút chút mơ, chút chút ôm tay để nằm nghỉ.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "chút chút"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ngủ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "chút chút"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "mơ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "chút chút"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "ôm"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "tay"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "để nằm nghỉ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:14:43.171449763Z",
+  "model": "glm-5.3"
+}

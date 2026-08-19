@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 42,
+  "translation": "Như vết đâm trong xương tôi, kẻ thù nghịch tôi sỉ nhục tôi, khi chúng nói với tôi suốt ngày: Elohim của ngươi ở đâu?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "như vết đâm"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "trong xương tôi"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "chúng sỉ nhục tôi"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "kẻ thù nghịch tôi"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "khi chúng nói"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "với tôi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "suốt"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ở đâu"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim của ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:59.163829239Z",
+  "model": "glm-5.3"
+}

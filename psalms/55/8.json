@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 55,
+  "translation": "Này, tôi sẽ bay xa, phiêu bạt, trú đêm trong hoang mạc. Selah.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "này"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "tôi sẽ bay xa"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "phiêu bạt"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "trú đêm"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "trong hoang mạc"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:21.485482622Z",
+  "model": "glm-5.3"
+}

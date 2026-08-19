@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 42,
+  "translation": "Vì vậy tôi ghê tởm ⟨mình⟩, và tôi hối hận, trên bụi và tro.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vậy"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "tôi ghê tởm"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "và tôi hối hận"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "bụi"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "và tro"
+    }
+  ],
+  "timestamp": "2026-08-19T05:29:21.077969969Z",
+  "model": "glm-5.3"
+}

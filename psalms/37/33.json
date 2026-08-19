@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Yahweh sẽ không bỏ ⟨nó⟩ vào tay hắn, và sẽ không lên án nó khi nó bị xử xét.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "sẽ-bỏ-nó"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "vào-tay-hắn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và-không"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "sẽ-lên-án-nó"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "khi-nó-bị-xử-xét"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:27.115162999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và đây là những tên của những người sẽ đứng cùng ⟨את⟩ các ngươi: cho Reuven, Elitsur con của Shedejur.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "và đây là"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "những tên"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "của những người"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "sẽ đứng"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ cùng các ngươi",
+      "marks": "cùng các ngươi"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "cho Reuven"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elitsur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con của"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "Shedejur"
+    }
+  ],
+  "timestamp": "2026-08-19T02:50:49.728180117Z",
+  "model": "glm-5.3"
+}

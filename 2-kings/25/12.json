@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 25:12",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Còn những người nghèo khốn cùng của xứ thì vị trưởng đao phủ để lại làm người trồng nho và người cày ruộng.",
+  "tokens": [
+    {
+      "surface": "ומדלת",
+      "gloss": "còn những người nghèo khốn cùng của"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "xứ"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "để lại"
+    },
+    {
+      "surface": "רב",
+      "gloss": "vị trưởng"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "đao phủ"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "làm người trồng nho"
+    },
+    {
+      "surface": "וליגבים",
+      "gloss": "và người cày ruộng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:02:57.139702107Z",
+  "model": "glm-5.3"
+}

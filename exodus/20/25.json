@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Và nếu ngươi làm cho ta một bàn thờ bằng đá, ngươi không được xây nó bằng đá đục ⟨את⟩ đá khối; vì khi giơ gươm của ngươi lên trên nó, ngươi đã làm ô uế nó.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "và nếu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "đá"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ngươi làm"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ngươi xây"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "đá khối (גזית)"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "đá đục khối"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "gươm của ngươi"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "ngươi đã giơ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "trên nó"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "và ngươi làm ô uế nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:31:34.182419809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 103,
+  "translation": "Như xa phương đông khỏi phương tây, Ngài đã đem xa khỏi chúng ta ⟨את⟩ các sự phạm tội của chúng ta.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "như xa"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "phương đông"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "khỏi phương tây"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "Ngài đã đem xa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "khỏi chúng ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các sự phạm tội của chúng ta"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "các sự phạm tội của chúng ta"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:54.498943346Z",
+  "model": "glm-5.3"
+}

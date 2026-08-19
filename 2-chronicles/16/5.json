@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 16:5",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Và có-lẽ, khi Baasha nghe, thì ⟨hắn⟩ ngừng xây ⟨את⟩ HaRamah, và cho công-việc của-hắn ngừng-lại.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "và có-lẽ"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "khi nghe"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "thì ngừng"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "xây"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "HaRamah"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "HaRamah"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "và cho-ngừng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "công-việc của-hắn"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "công-việc của-hắn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:57:33.519864310Z",
+  "model": "glm-5.3"
+}

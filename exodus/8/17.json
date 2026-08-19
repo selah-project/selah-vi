@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 8:17",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Vì nếu ngươi không thả ⟨את⟩ dân ta đi, nầy, ta sẽ sai ⟨את⟩ đàn ruồi nhặng đến trên ngươi, trên các tôi tớ ngươi, trên dân ngươi và vào nhà ngươi; các nhà của người Mitsrayim sẽ đầy ⟨את⟩ đàn ruồi nhặng, và cả đất mà chúng đang ở trên đó.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "ngươi không"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "thả đi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân ta"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "dân ta"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "nầy"
+    },
+    {
+      "surface": "משליח",
+      "gloss": "ta sẽ sai"
+    },
+    {
+      "surface": "בך",
+      "gloss": "trên ngươi"
+    },
+    {
+      "surface": "ובעבדיך",
+      "gloss": "và trên các tôi tớ ngươi"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "và trên dân ngươi"
+    },
+    {
+      "surface": "ובבתיך",
+      "gloss": "và vào nhà ngươi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đàn ruồi nhặng"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "đàn ruồi nhặng"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "và sẽ đầy"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "các nhà của"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "người Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đàn ruồi nhặng"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "đàn ruồi nhặng"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "và cả"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "đất"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "הם",
+      "gloss": "chúng"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ở trên đó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:29:24.653635090Z",
+  "model": "glm-5.3"
+}

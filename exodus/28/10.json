@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Sáu tên của họ trên viên đá thứ nhất, và ⟨את⟩ các tên của sáu người còn lại trên viên đá thứ hai, theo thứ tự sinh ra của họ.",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "sáu"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "từ các tên của họ"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "viên đá"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "thứ nhất"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các tên của sáu người còn lại"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "các tên"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "của sáu"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "còn lại"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "viên đá"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "thứ hai"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "theo thứ tự sinh ra của họ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:34:48.019073325Z",
+  "model": "glm-5.3"
+}

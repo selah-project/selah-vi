@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 150,
+  "ref": "psalms 119:150",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Chúng đã đến gần, những kẻ theo đuổi mưu đồ xấu; từ torát của Ngài chúng đã xa lìa.",
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "chúng đã đến gần"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "những kẻ theo đuổi"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "mưu đồ xấu"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "từ torát của Ngài"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "chúng đã xa lìa"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:51.138489087Z",
+  "model": "glm-5.3"
+}

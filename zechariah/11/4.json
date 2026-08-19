@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Như vầy Yahweh Elohim của tôi phán: Hãy chăn giữ ⟨את⟩ đàn chiên bị giết.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "như vậy"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của tôi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "hãy chăn giữ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đàn chiên bị giết"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "đàn chiên"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "bị giết"
+    }
+  ],
+  "timestamp": "2026-08-19T04:53:43.898273058Z",
+  "model": "glm-5.3"
+}

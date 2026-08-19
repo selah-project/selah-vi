@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 14:25",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Và nó sẽ giết ⟨את⟩ chiên con của lễ chuộc tội, và thầy tế lễ sẽ lấy từ máu của lễ chuộc tội, và đặt trên vành tai phải của người được làm sạch, và trên ngón tay cái của tay phải, và trên ngón chân cái của chân phải.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "và nó sẽ giết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiên con của lễ chuộc tội"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "chiên con"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "của lễ chuộc tội"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "và... sẽ lấy"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "thầy tế lễ"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "từ máu"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "của lễ chuộc tội"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "và đặt"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "תנוך",
+      "gloss": "vành tai"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "tai"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "của người được làm sạch"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "phải"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "và trên"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "ngón cái"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tay của nó"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "phải"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "và trên"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "ngón cái"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "chân của nó"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "phải"
+    }
+  ],
+  "timestamp": "2026-08-19T06:04:25.509203872Z",
+  "model": "glm-5.3"
+}

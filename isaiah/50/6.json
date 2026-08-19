@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 50:6",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 50,
+  "translation": "Lưng tôi tôi đã đưa cho kẻ đánh, má tôi cho kẻ nhổ tóc; mặt tôi tôi không giấu khỏi điều sỉ nhục và nước bọt.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "lưng tôi"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "tôi đã đưa"
+    },
+    {
+      "surface": "למכים",
+      "gloss": "cho kẻ đánh"
+    },
+    {
+      "surface": "ולחיי",
+      "gloss": "má tôi"
+    },
+    {
+      "surface": "למרטים",
+      "gloss": "cho kẻ nhổ tóc"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt tôi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "tôi giấu"
+    },
+    {
+      "surface": "מכלמות",
+      "gloss": "khỏi điều sỉ nhục"
+    },
+    {
+      "surface": "ורק",
+      "gloss": "và nước bọt"
+    }
+  ],
+  "timestamp": "2026-08-19T04:13:50.751381804Z",
+  "model": "glm-5.3"
+}

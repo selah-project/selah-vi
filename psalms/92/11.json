@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 92,
+  "translation": "Và Ngài đã nhấc cao ⟨sừng⟩ tôi như bò rừng; tôi được xức ⟨dầu⟩ tươi mới.",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "và đã nhấc cao"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "như bò rừng"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "sừng tôi"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "tôi được xức"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "bằng dầu"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "tươi mới"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:36.198897953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và một vua mới nổi lên trên Mitzrayim, là kẻ không biết ⟨את⟩ Yosef.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "và nổi lên"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mới"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "là kẻ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "biết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    }
+  ],
+  "timestamp": "2026-08-19T02:26:57.705366003Z",
+  "model": "glm-5.3"
+}

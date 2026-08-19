@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 144,
+  "translation": "Duỗi các tay của Ngài từ trên cao; giải thoát con và cứu con khỏi nước thật nhiều, khỏi tay con trai ngoại bang.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "duỗi ra"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "các tay của Ngài"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "từ trên cao"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "giải thoát con"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "và cứu con"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "khỏi nước"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "thật nhiều"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "khỏi tay"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con trai của"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ngoại bang"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:06.886548264Z",
+  "model": "glm-5.3"
+}

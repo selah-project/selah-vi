@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 133,
+  "translation": "Như dầu thơm tốt đọng trên đầu, chảy xuống trên râu, râu của Aharon, mà chảy xuống trên miệng áo phục của ông",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "Như dầu"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "tốt"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "đầu"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "chảy xuống"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "râu"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "râu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "của Aharon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "mà chảy xuống"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "פי",
+      "gloss": "miệng"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "áo phục của ông"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:09.609578724Z",
+  "model": "glm-5.3"
+}

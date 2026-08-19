@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 42,
+  "translation": "Bằng việc tai nghe, tôi đã nghe ⟨về⟩ Ngài; nhưng nay mắt tôi đã thấy Ngài.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "bằng việc nghe"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "tai"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "tôi đã nghe Ngài"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "và nay"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mắt tôi"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "đã thấy Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:29:21.077712044Z",
+  "model": "glm-5.3"
+}

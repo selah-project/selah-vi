@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 17:24",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Và mọi người Israel, khi thấy ⟨את⟩ người kia, đều chạy trốn khỏi mặt hắn và sợ hãi vô cùng.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בראותם",
+      "gloss": "khi thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người kia"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "người kia"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "đều chạy trốn"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "khỏi mặt hắn"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "và sợ hãi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "vô cùng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:34:06.409937116Z",
+  "model": "glm-5.3"
+}

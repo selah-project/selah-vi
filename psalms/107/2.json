@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 107,
+  "translation": "Người được cứu chuộc của Yahweh hãy nói ⟨điều đó⟩, ⟨những kẻ⟩ Ngài đã chuộc khỏi tay kẻ thù nghịch.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "hãy nói"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "người được cứu chuộc của"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟹"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "đã chuộc họ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "khỏi tay"
+    },
+    {
+      "surface": "צר",
+      "gloss": "kẻ thù nghịch"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:17.689960786Z",
+  "model": "glm-5.3"
+}

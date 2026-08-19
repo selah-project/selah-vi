@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Đáng chúc phong là Yahweh, vì Ngài đã nghe tiếng nài xin của tôi.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "đáng chúc phong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Ngài đã nghe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tiếng"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "nài xin của tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:56.749049991Z",
+  "model": "glm-5.3"
+}

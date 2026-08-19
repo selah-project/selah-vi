@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 78,
+  "translation": "Người đã phân rẽ biển và cho họ đi qua; Người làm nước đứng lại như đống sóng.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "phân rẽ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "biển"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "và cho họ đi qua"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "và làm đứng lại"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "như"
+    },
+    {
+      "surface": "נד",
+      "gloss": "đống sóng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:48.977486899Z",
+  "model": "glm-5.3"
+}

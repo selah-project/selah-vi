@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 39,
+  "translation": "Và người ta làm ⟨את⟩ áo choàng của êphốt, công việc của người dệt, toàn màu xanh tía.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "và người ta làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "áo choàng"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "áo choàng"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "của êphốt"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "công việc"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "của người dệt"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "toàn"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "màu xanh tía"
+    }
+  ],
+  "timestamp": "2026-08-19T02:38:01.812523031Z",
+  "model": "glm-5.3"
+}

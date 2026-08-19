@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Ông trở về với các anh em mình và nói: Đứa trẻ không còn nữa; còn tôi, tôi sẽ đi đâu?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "trở về"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "các anh em mình"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "đứa trẻ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "không còn nữa"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "còn tôi"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "đâu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "đi"
+    }
+  ],
+  "timestamp": "2026-08-19T01:24:44.874153751Z",
+  "model": "glm-5.3"
+}

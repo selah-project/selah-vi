@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 24:16",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Vì bảy lần người công bình ngã xuống và đứng dậy, nhưng kẻ ác vấp ngã trong điều ác.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "bảy lần"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ngã xuống"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "người công bình"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "và đứng dậy"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "nhưng kẻ ác"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "vấp ngã"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "trong điều ác"
+    }
+  ],
+  "timestamp": "2026-08-19T05:18:38.779396760Z",
+  "model": "glm-5.3"
+}

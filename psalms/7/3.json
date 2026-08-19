@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Kẻo ⟨hắn⟩ xé mạng sống tôi như sư tử, bứt tan tành, mà không có ai giải cứu.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "kẻo"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "xé"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "như sư tử"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mạng sống tôi"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "bứt tan tành"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mà không có"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "ai giải cứu"
+    }
+  ],
+  "timestamp": "2026-08-19T04:55:19.435761161Z",
+  "model": "glm-5.3"
+}

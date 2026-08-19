@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Còn khi hội tụ ⟨את⟩ hội chúng, các ngươi hãy thổi, nhưng đừng thổi hiệu lệnh.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "và khi hội tụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hội chúng"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "hội chúng"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "các ngươi hãy thổi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nhưng không"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "các ngươi thổi hiệu lệnh"
+    }
+  ],
+  "timestamp": "2026-08-19T06:04:52.836665311Z",
+  "model": "glm-5.3"
+}

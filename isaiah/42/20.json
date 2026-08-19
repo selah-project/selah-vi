@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 42,
+  "translation": "Ngươi thấy nhiều sự, nhưng ngươi không giữ; tai mở ra, nhưng nó không nghe.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "ngươi thấy"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "nhiều sự"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nhưng không"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ngươi giữ"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "mở ra"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "tai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nhưng không"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "nó nghe"
+    }
+  ],
+  "timestamp": "2026-08-19T04:12:17.238598501Z",
+  "model": "glm-5.3"
+}

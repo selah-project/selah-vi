@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Ngươi hãy đặt ⟨את⟩ bàn thờ tha thứ перед cửa vào lều — Lều Hẹn.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "ngươi hãy đặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bàn thờ tha thứ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "tha thứ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "cửa vào"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "lều"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "lều trại"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "hẹn"
+    }
+  ],
+  "timestamp": "2026-08-19T02:39:18.465234112Z",
+  "model": "glm-5.3"
+}

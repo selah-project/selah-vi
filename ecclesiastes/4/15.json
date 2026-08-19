@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Tôi đã thấy ⟨את⟩ tất cả người đang sống, những kẻ đi lại dưới mặt trời, cùng với đứa trẻ thứ hai, kẻ sẽ đứng lên thay thế nó.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "tôi đã thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả người đang sống"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "người đang sống"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "những kẻ đi lại"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dưới"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "mặt trời"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cùng với"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "đứa trẻ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "thứ hai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kẻ"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "sẽ đứng lên"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "thay thế nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:35.854153234Z",
+  "model": "glm-5.3"
+}

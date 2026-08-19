@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "và da cừu đực nhuộm đỏ, và da tahash, và gỗ keo shit-tim",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "và da của"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "cừu đực"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "nhuộm đỏ"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "và da của"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "tahash"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "và gỗ của"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "keo shit-tim"
+    }
+  ],
+  "timestamp": "2026-08-19T02:34:11.654597488Z",
+  "model": "glm-5.3"
+}

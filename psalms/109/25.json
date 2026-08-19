@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 109,
+  "translation": "Còn tôi, tôi đã trở thành sự sỉ nhục cho chúng nó; chúng nhìn thấy tôi, chúng lắc đầu mình.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "còn tôi"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "tôi đã trở thành"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "sự sỉ nhục"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho chúng nó"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "chúng nhìn thấy tôi"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "chúng lắc"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "đầu mình"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:32.306501952Z",
+  "model": "glm-5.3"
+}

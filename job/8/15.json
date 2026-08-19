@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 8:15",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "⟨Nó⟩ tựa vào nhà ⟨của nó⟩ nhưng không đứng vững; ⟨nó⟩ níu lấy nó nhưng không đứng dậy được.",
+  "tokens": [
+    {
+      "surface": "ישען",
+      "gloss": "tựa vào"
+    },
+    {
+      "surface": "על",
+      "gloss": "vào"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nhà của nó"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nhưng không"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "đứng vững"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "níu lấy"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nó"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nhưng không"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "đứng dậy"
+    }
+  ],
+  "timestamp": "2026-08-19T05:21:19.818030686Z",
+  "model": "glm-5.3"
+}

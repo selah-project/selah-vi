@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Hỡi con ta, đừng đi trong đường với ⟨את⟩ chúng; hãy cầm chân ngươi khỏi lối mòn của chúng.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "hỡi con ta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "đi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "trong đường"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "với chúng"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "hãy cầm"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "chân ngươi"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "khỏi lối mòn của chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T06:19:15.994284209Z",
+  "model": "glm-5.3"
+}

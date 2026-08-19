@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 132,
+  "translation": "Nếu tôi vào lều nhà tôi, nếu tôi lên giường nằm của mình —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "tôi vào"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "trong lều"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "nhà tôi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "tôi lên"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "giường"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "nằm của tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:12.139255002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 51,
+  "translation": "Khi Natan đấng tiên tri đến cùng người, sau khi ⟨người⟩ đã vào với Bath-Sheva.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "khi đến"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "đến cùng người"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "đấng tiên tri"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "khi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "đã vào"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bath"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:55.460481070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Những kẻ béo mập ⟨trên⟩ đất sẽ ăn và sẽ phủ phục; trước mặt ⟨Ngài⟩ sẽ quỳ xuống, mọi kẻ đi xuống bụi đất; và linh hồn ⟨kẻ⟩ không-làm-được-sống.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "sẽ ăn"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "và sẽ phủ phục"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "những kẻ béo mập"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "trước mặt Ngài"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "sẽ quỳ xuống"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "những kẻ đi xuống"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "bụi đất"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "và linh hồn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "làm sống"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:33.662202658Z",
+  "model": "glm-5.3"
+}

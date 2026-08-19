@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Ông nói: Đây, xin nghe, cha đã già, cha không biết ngày cha chết.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ông nói"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "đây"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xin nghe"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "cha đã già"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "cha biết"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "cha chết"
+    }
+  ],
+  "timestamp": "2026-08-19T01:10:22.654947699Z",
+  "model": "glm-5.3"
+}

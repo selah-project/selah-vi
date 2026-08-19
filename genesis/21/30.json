@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 21:30",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Và ⟨ngài⟩ nói: \"Vì ⟨את⟩ bảy con cừu cái ngươi sẽ nhận từ tay tôi, để nó làm chứng cho tôi rằng tôi đã đào ⟨את⟩ giếng này.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bảy con cừu cái"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "bảy"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "con cừu cái"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ngươi sẽ nhận"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "từ tay tôi"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "để"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "nó sẽ là"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "làm chứng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "חפרתי",
+      "gloss": "tôi đã đào"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "giếng này"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "giếng"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "này"
+    }
+  ],
+  "timestamp": "2026-08-19T01:02:45.168569745Z",
+  "model": "glm-5.3"
+}

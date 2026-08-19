@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 1:17",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Các bà đỡ sợ Elohim, và không làm như vua Mitzrayim đã nói với các bà, nên các bà đã cho ⟨את⟩ các trẻ trai sống.",
+  "tokens": [
+    {
+      "surface": "ותיראן",
+      "gloss": "các bà sợ"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "các bà đỡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "làm"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "đã nói"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "với các bà"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "các bà cho sống"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các trẻ trai"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "các trẻ trai"
+    }
+  ],
+  "timestamp": "2026-08-19T02:27:39.637069227Z",
+  "model": "glm-5.3"
+}

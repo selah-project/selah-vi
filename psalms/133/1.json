@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 133,
+  "translation": "Bài hát lên đệ, của David. Này, chi là tốt và chi là dễ chịu, anh em ngụ cũng nhau",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Bài hát"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "lên đệ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "của David"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Này"
+    },
+    {
+      "surface": "מה",
+      "gloss": "chi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tốt"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "và chi"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "dễ chịu"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ngụ"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "anh em"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cũng"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "nhau"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:09.609229291Z",
+  "model": "glm-5.3"
+}

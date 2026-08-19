@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Trong ngày đó Ta sẽ Raises lên cho Eli ⟨את⟩ tất cả điều mà Ta đã phán về nhà của người — bắt đầu và kết thúc.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "trong ngày"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "đó"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "Ta sẽ raises lên"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cho"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả điều mà Ta đã phán"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "Ta đã phán"
+    },
+    {
+      "surface": "אל",
+      "gloss": "về"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nhà của người"
+    },
+    {
+      "surface": "החל",
+      "gloss": "bắt đầu"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "và kết thúc"
+    }
+  ],
+  "timestamp": "2026-08-19T03:30:01.904457287Z",
+  "model": "glm-5.3"
+}

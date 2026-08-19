@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 96,
+  "translation": "Vì Yahweh ⟨là⟩ lớn lao và đáng được ngợi kãi hết sức; Ngài ⟨là⟩ đáng kinh khiếp trên mọi elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lớn lao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "và đáng được ngợi kãi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hết sức"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "đáng kinh khiếp"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:15.901716651Z",
+  "model": "glm-5.3"
+}

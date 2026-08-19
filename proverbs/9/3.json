@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 9:3",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Nàng đã sai các nữ tỳ mình, nàng kêu trên các chóp nơi cao của thành.",
+  "tokens": [
+    {
+      "surface": "שלחה",
+      "gloss": "đã sai"
+    },
+    {
+      "surface": "נערתיה",
+      "gloss": "các nữ tỳ mình"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "nàng kêu"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "גפי",
+      "gloss": "các chóp"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "nơi cao"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "của thành"
+    }
+  ],
+  "timestamp": "2026-08-19T05:15:36.314304128Z",
+  "model": "glm-5.3"
+}

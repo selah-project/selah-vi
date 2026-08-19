@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 20:5",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Và nếu người chuộc máu đuổi theo sau hắn, thì họ sẽ không nộp kẻ giết người ⟨את⟩ vào tay hắn, vì hắn đã đánh ⟨את⟩ người lân cận mình mà không có sự nhận biết, và hắn không ghét hắn từ hôm qua hay trước hôm kia.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "và nếu"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "đuổi theo"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "người chuộc"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "máu"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "sau hắn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יסגרו",
+      "gloss": "họ sẽ nộp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kẻ giết người"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "kẻ giết người"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "vào tay hắn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "mà không có"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "sự nhận biết"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "đã đánh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người lân cận mình"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "người lân cận mình"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ghét"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hắn"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hắn"
+    },
+    {
+      "surface": "מתמול",
+      "gloss": "từ hôm qua"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "trước hôm kia"
+    }
+  ],
+  "timestamp": "2026-08-19T03:21:00.891402035Z",
+  "model": "glm-5.3"
+}

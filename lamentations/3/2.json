@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "⟨את⟩ tôi Ngài đã dắt đi, và đưa vào nơi tối tăm, chứ không phải ánh sáng.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ tôi",
+      "marks": "Ngài đã dắt đi"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "Ngài đã dắt"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "và đưa đi"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "nơi tối tăm"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "chứ không"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ánh sáng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:31:04.136302336Z",
+  "model": "glm-5.3"
+}

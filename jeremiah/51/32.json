@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 51:32",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 51,
+  "translation": "Và các chỗ vượt sông đã bị chiếm, và ⟨את⟩ các đầm lau sậy họ đã đốt bằng lửa, và các người chiến tranh hoảng loạn.",
+  "tokens": [
+    {
+      "surface": "והמעברות",
+      "gloss": "và các chỗ vượt sông"
+    },
+    {
+      "surface": "נתפשו",
+      "gloss": "đã bị chiếm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "các đầm lau sậy"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "các đầm lau sậy"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "họ đã đốt"
+    },
+    {
+      "surface": "באש",
+      "gloss": "bằng lửa"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "và các người"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "chiến tranh"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "hoảng loạn"
+    }
+  ],
+  "timestamp": "2026-08-19T04:30:37.707367893Z",
+  "model": "glm-5.3"
+}

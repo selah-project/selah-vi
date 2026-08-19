@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Các ngươi là kẻ phản nghịch với Yahweh, từ ngày tôi biết ⟨את⟩ các ngươi.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "kẻ phản nghịch"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "các ngươi là"
+    },
+    {
+      "surface": "עם",
+      "gloss": "với"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "từ ngày"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "tôi biết"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ các ngươi",
+      "marks": "các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:07:13.428761225Z",
+  "model": "glm-5.3"
+}

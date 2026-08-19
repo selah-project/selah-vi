@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 33,
+  "translation": "Hãy hát cho Ngài một bài ca mới; hãy gảy thật hay, ⟨với⟩ tiếng reo hò.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "hãy hát"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho Ngài"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "bài ca"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mới"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "hãy gảy thật hay"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "gảy đàn"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "⟨với⟩ tiếng reo hò"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:01.363611254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Và ⟨את⟩ con cừu cái hắn phải đền bốn lần, vì hắn đã làm ⟨את⟩ việc này, và vì hắn không thương xót.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con cừu cái"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "con cừu cái"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "phải đền"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "bốn lần"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hắn đã làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "việc này"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "việc"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "và vì"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "thương xót"
+    }
+  ],
+  "timestamp": "2026-08-19T06:08:27.401975945Z",
+  "model": "glm-5.3"
+}

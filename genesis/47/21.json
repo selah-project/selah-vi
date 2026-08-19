@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 47:21",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 47,
+  "translation": "Còn ⟨את⟩ dân thì ông chuyển họ ⟨את⟩ đến các thành, từ đầu bờ cõi Mitzrayim cho đến đầu kia của nó.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "còn ⟨את⟩",
+      "marks": "dân"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "chuyển đi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ họ",
+      "marks": "đến các thành"
+    },
+    {
+      "surface": "לערים",
+      "gloss": "đến các thành"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "từ đầu"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "bờ cõi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "קצהו",
+      "gloss": "đầu kia của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:26:46.484410352Z",
+  "model": "glm-5.3"
+}

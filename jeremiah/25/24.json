@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 25:24",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "và ⟨את⟩ tất cả các vua của Arav, và ⟨את⟩ tất cả các vua của dòng-hốn-người-pha-trộn đang ở trong hoang mạc.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "tất cả các vua của Arav"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "các vua của"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Arav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "tất cả các vua của הערב"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "các vua của"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "dòng-hốn-người-pha-trộn"
+    },
+    {
+      "surface": "השכנים",
+      "gloss": "đang ở"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "trong hoang mạc"
+    }
+  ],
+  "timestamp": "2026-08-19T04:22:44.711142765Z",
+  "model": "glm-5.3"
+}

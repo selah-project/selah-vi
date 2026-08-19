@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 30:11",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Hãy tránh khỏi đường, hãy lệch khỏi lối; hãy làm Đấng Thánh của Yisrael ngừng ⟨hiện⟩ trước mặt chúng tôi — ⟨את⟩ Đấng Thánh của Yisrael.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "hãy tránh"
+    },
+    {
+      "surface": "מני",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "đường"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "hãy lệch"
+    },
+    {
+      "surface": "מני",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "lối"
+    },
+    {
+      "surface": "השביתו",
+      "gloss": "hãy làm ngừng"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "khỏi trước mặt chúng tôi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Đấng Thánh của Yisrael"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Đấng Thánh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "của Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T04:09:12.978625572Z",
+  "model": "glm-5.3"
+}

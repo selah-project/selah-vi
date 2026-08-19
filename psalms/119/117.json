@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 117,
+  "ref": "psalms 119:117",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Xin đỡ nâng con, và con sẽ được cứu, và con sẽ ngắm xem các mạng lệnh của Ngài luôn luôn.",
+  "tokens": [
+    {
+      "surface": "סעדני",
+      "gloss": "xin đỡ nâng con"
+    },
+    {
+      "surface": "ואושעה",
+      "gloss": "và con sẽ được cứu"
+    },
+    {
+      "surface": "ואשעה",
+      "gloss": "và con sẽ ngắm xem"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "các mạng lệnh của Ngài"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "luôn luôn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:25.039153192Z",
+  "model": "glm-5.3"
+}

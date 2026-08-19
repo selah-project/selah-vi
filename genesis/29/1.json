@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Yaakov nhấc chân mình lên và đi đến đất của con cái phía đông.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "nhấc lên"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "chân mình"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "và đi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "đến đất"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái của"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "phía đông"
+    }
+  ],
+  "timestamp": "2026-08-19T01:13:53.018025286Z",
+  "model": "glm-5.3"
+}

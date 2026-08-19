@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 69,
+  "translation": "Kẻ lạ lẫm ⟨là⟩ tôi đối với anh em tôi, và người dị đối với con trai của mẹ tôi.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "kẻ lạ lẫm"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "tôi đã thành"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "đối với anh em tôi"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "và người dị"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "đối với con trai"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "của mẹ tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:06.328660772Z",
+  "model": "glm-5.3"
+}

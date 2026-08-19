@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Hỡi con ta, đừng quên giáo huấn của cha, và các điều răn của cha, lòng con hãy gìn giữ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "hỡi con ta"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "giáo huấn của ta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "quên"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "và các điều răn của ta"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "hãy gìn giữ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "lòng con"
+    }
+  ],
+  "timestamp": "2026-08-19T05:14:34.537459289Z",
+  "model": "glm-5.3"
+}

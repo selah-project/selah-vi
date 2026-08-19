@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 33:4",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 33,
+  "translation": "Esav chạy đón meet ngài, ôm lấy ngài, quỳ lên cổ ngài, hôn ngài, và họ khóc.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "và chạy"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "đón ngài"
+    },
+    {
+      "surface": "ויחבקהו",
+      "gloss": "ôm lấy ngài"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "và quỳ xuống"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "cổ ngài"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "và hôn ngài"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "và họ khóc"
+    }
+  ],
+  "timestamp": "2026-08-19T01:19:21.381086710Z",
+  "model": "glm-5.3"
+}

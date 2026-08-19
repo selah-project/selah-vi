@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 10:17",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Và người ta báo cho Yehoshua biết, rằng: Năm vị vua đã bị tìm thấy, đang ẩn trốn trong hang động tại Makkedah.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "và được báo cho"
+    },
+    {
+      "surface": "ליהושע",
+      "gloss": "cho Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "đã bị tìm thấy"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "năm"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "vị vua"
+    },
+    {
+      "surface": "נחבאים",
+      "gloss": "đang ẩn trốn"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "trong hang động"
+    },
+    {
+      "surface": "במקדה",
+      "gloss": "tại Makkedah"
+    }
+  ],
+  "timestamp": "2026-08-19T03:16:51.603842656Z",
+  "model": "glm-5.3"
+}

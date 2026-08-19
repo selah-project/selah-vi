@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 104:19",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 104,
+  "translation": "Ngài đã làm mặt trăng cho các kỳ tiết; mặt trời biết lối vào của nó.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "mặt trăng"
+    },
+    {
+      "surface": "למועדים",
+      "gloss": "cho các kỳ tiết"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "mặt trời"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "biết"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "lối vào của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:47.642612635Z",
+  "model": "glm-5.3"
+}

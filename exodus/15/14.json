@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 15:14",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Các dân tộc đã nghe, chúng run rẩy; cơn đau đớn đã nắm lấy các cư dân của Philistia.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "đã nghe"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "các dân tộc"
+    },
+    {
+      "surface": "ירגזון",
+      "gloss": "chúng run rẩy"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "cơn đau đớn"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "đã nắm lấy"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "các cư dân của"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Philistia"
+    }
+  ],
+  "timestamp": "2026-08-19T02:31:01.055217745Z",
+  "model": "glm-5.3"
+}

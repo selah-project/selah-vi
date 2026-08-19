@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Và những người Kehat khởi hành, những người khiêng ⟨את⟩ nơi thánh, và họ dựng lên ⟨את⟩ Đền Tạm trước khi họ đến.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "và khởi hành"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "những người Kehat"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "những người khiêng"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "nơi thánh"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "và dựng lên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Đền Tạm"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Đền Tạm"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến khi"
+    },
+    {
+      "surface": "באם",
+      "gloss": "họ đến"
+    }
+  ],
+  "timestamp": "2026-08-19T02:54:52.734688360Z",
+  "model": "glm-5.3"
+}

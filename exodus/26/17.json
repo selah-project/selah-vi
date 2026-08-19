@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 26:17",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Hai lưỡi gỗ cho một ván, khớp nối lẫn nhau, cái này với cái kia; ngươi hãy làm như vậy cho mọi ván của Mishkan.",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "hai"
+    },
+    {
+      "surface": "ידות",
+      "gloss": "lưỡi gỗ (chốt)"
+    },
+    {
+      "surface": "לקרש",
+      "gloss": "cho ván"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "một"
+    },
+    {
+      "surface": "משלבת",
+      "gloss": "khớp nối lẫn nhau"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "cái này (nữ)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "cái kia"
+    },
+    {
+      "surface": "כן",
+      "gloss": "như vậy"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ngươi hãy làm"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "cho mọi"
+    },
+    {
+      "surface": "קרשי",
+      "gloss": "ván"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    }
+  ],
+  "timestamp": "2026-08-19T02:35:00.025120822Z",
+  "model": "glm-5.3"
+}

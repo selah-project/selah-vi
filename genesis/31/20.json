@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Yaacob đánh cắp ⟨את⟩ trái tim Lavan người Aram, vì không báo cho ông biết rằng ⟨hắn⟩ đang trốn đi.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "và đánh cắp"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trái tim Lavan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "trái tim"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "người Aram"
+    },
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "không"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "báo cho biết"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho ông"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "đang trốn đi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨hắn⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T02:23:19.878530963Z",
+  "model": "glm-5.3"
+}

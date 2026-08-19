@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 51,
+  "translation": "Con sẽ dạy kẻ phạm trọng tội các đường lối của Ngài, và các kẻ có tội sẽ quay về với Ngài.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "con sẽ dạy"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "kẻ phạm trọng tội"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "các đường lối của Ngài"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "và các kẻ có tội"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "với Ngài"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "sẽ quay về"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:22.278186020Z",
+  "model": "glm-5.3"
+}

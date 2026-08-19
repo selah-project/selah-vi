@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 96:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 96,
+  "translation": "Hãy hát cho Yahweh, hãy chúc phúc danh Ngài; hãy loan báo sự cứu cứu của Ngài từ ngày nầy sang ngày kia.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "hãy hát"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "cho Yahweh"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "hãy chúc phúc"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "danh Ngài"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "hãy loan báo"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "từ ngày"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "sang ngày"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "sự cứu cứu của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:15.901460240Z",
+  "model": "glm-5.3"
+}

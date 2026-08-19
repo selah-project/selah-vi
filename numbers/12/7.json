@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 12:7",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Không như vậy ⟨với⟩ tôi tớ tôi Moshe; trong cả nhà tôi, ông là trung tín.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "כן",
+      "gloss": "như vậy"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "tôi tớ của tôi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "trong cả"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "nhà của tôi"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "trung tín"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ông"
+    }
+  ],
+  "timestamp": "2026-08-19T02:56:15.354862847Z",
+  "model": "glm-5.3"
+}

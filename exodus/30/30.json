@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 30:30",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Còn ⟨את⟩ Aharon và ⟨את⟩ các con trai ngươi, ngươi sẽ xức dầu, và ngươi sẽ thánh hóa ⟨אתם⟩ chúng để làm thầy tế lễ cho Ta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "còn ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các con trai ngươi"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "các con trai của ngươi"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "ngươi sẽ xức dầu"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "và ngươi sẽ thánh hóa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chúng"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "để làm thầy tế lễ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho Ta"
+    }
+  ],
+  "timestamp": "2026-08-19T06:03:47.551697979Z",
+  "model": "glm-5.3"
+}

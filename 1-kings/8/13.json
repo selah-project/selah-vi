@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Xây xây-một-cái tôi đã ⟨tôi⟩ xây một nhà, một chỗ ở cho Ngài, một nơi định để Ngài ngự muôn đời.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "xây"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "tôi đã xây"
+    },
+    {
+      "surface": "בית",
+      "gloss": "một nhà"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "một chỗ ở"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho Ngài"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "nơi định"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "để Ngài ngự"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "muôn đời"
+    }
+  ],
+  "timestamp": "2026-08-19T03:49:42.050162109Z",
+  "model": "glm-5.3"
+}

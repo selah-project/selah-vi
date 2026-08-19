@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 6:7",
+  "book": "esther",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Haman nói với vua: Về người mà vua muốn tôn vinh,",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "muốn"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "tôn vinh ông ta"
+    }
+  ],
+  "timestamp": "2026-08-19T05:35:13.106394441Z",
+  "model": "glm-5.3"
+}

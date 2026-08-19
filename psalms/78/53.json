@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 78,
+  "translation": "Và Ngài dẫn họ đi an toàn, nên họ không kinh sợ; còn ⟨את⟩ kẻ thù của họ, biển đã che phủ.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "và Ngài dẫn đi an toàn"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "an toàn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "họ kinh sợ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "kẻ thù của họ"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "kẻ thù của họ"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "đã che phủ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "biển"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:51.935272933Z",
+  "model": "glm-5.3"
+}

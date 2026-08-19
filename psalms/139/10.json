@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 139,
+  "translation": "cả ở đó bàn tay Ngài sẽ dẫn dắt tôi, và tay hữu Ngài sẽ nắm giữ tôi.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "cả"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ở đó"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "bàn tay Ngài"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "sẽ dẫn dắt tôi"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "và sẽ nắm giữ tôi"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tay hữu Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:37.855000157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 22:9",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Người mắt lành ⟨là⟩ kẻ sẽ được phước, vì ⟨hắn⟩ cho bánh ⟨của mình⟩ cho kẻ nghèo.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "lành"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mắt"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hắn"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "sẽ được phước"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "cho"
+    },
+    {
+      "surface": "מלחמו",
+      "gloss": "bánh của mình"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "cho kẻ nghèo"
+    }
+  ],
+  "timestamp": "2026-08-19T05:17:44.280562508Z",
+  "model": "glm-5.3"
+}

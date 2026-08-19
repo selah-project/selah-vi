@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 25:14",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Và ⟨את⟩ các nồi, và ⟨את⟩ các cái xẻng, và ⟨את⟩ các cái bấm tim đèn, và ⟨את⟩ các chén, và ⟨את⟩ tất cả dụng cụ đồng mà người ta dùng chúng để phục vụ — họ đã lấy đi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "các nồi"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "các nồi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "các cái xẻng"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "các cái xẻng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "các cái bấm tim đèn"
+    },
+    {
+      "surface": "המזמרות",
+      "gloss": "các cái bấm tim đèn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "các chén"
+    },
+    {
+      "surface": "הכפות",
+      "gloss": "các chén"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả dụng cụ đồng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "dụng cụ"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "đồng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "người ta phục vụ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "với chúng"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "họ đã lấy đi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:03:14.957828551Z",
+  "model": "glm-5.3"
+}

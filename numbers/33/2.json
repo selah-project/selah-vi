@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 33:2",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 33,
+  "translation": "Và Moshe đã chép ⟨את⟩ nơi xuất phát của họ theo các chặng hành trình của họ, theo phán truyền của Yahweh; và đây là các chặng hành trình của họ theo nơi xuất phát của họ.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "và người đã chép"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nơi xuất phát của họ"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "nơi xuất phát của họ"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "theo các chặng hành trình của họ"
+    },
+    {
+      "surface": "על",
+      "gloss": "theo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "miệng\/phán truyền"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "và đây là"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "các chặng hành trình của họ"
+    },
+    {
+      "surface": "למוצאיהם",
+      "gloss": "theo nơi xuất phát của họ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:03:21.512198190Z",
+  "model": "glm-5.3"
+}

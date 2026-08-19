@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Và David hạn chế ⟨את⟩ những người của mình bằng lời, và không cho phép họ nổi lên chống Shaul. Shaul đứng dậy khỏi hang và đi trên đường.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "và hạn chế \/ chia cắt"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "những người của mình"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "những người của mình"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "bằng lời"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "cho phép họ"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "nổi lên"
+    },
+    {
+      "surface": "אל",
+      "gloss": "chống"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "và Shaul"
+    },
+    {
+      "surface": "קם",
+      "gloss": "đứng dậy"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "khỏi hang"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "và đi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "trên đường"
+    }
+  ],
+  "timestamp": "2026-08-19T03:36:32.668906571Z",
+  "model": "glm-5.3"
+}

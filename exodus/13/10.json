@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Và ngươi phải giữ ⟨את⟩ lề luật này theo kỳ định của nó, từ ngày nầy sang ngày kia.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "và ngươi phải giữ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lề luật này"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "lề luật"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "này"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "theo kỳ định của nó"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "từ ngày"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "sang ngày kia"
+    }
+  ],
+  "timestamp": "2026-08-19T02:30:40.806784361Z",
+  "model": "glm-5.3"
+}

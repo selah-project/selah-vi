@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 84:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 84,
+  "translation": "Những kẻ đi qua trũng Baca biến nó thành suối nguồn; cả mưa sớm cũng phủ nó bằng phước lành.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "những kẻ đi qua"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "trũng"
+    },
+    {
+      "surface": "הבכא",
+      "gloss": "Baca"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "suối nguồn"
+    },
+    {
+      "surface": "ישיתוהו",
+      "gloss": "biến nó thành"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cả"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "phước lành"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "phủ"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "mưa sớm"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:49.638802496Z",
+  "model": "glm-5.3"
+}

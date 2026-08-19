@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 27:12",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Những người này sẽ đứng để chúc phúc cho ⟨את⟩ dân sự trên núi Gerizim, khi các ngươi vượt qua ⟨את⟩ sông Yarden: Shim'on, và Levi, và Yehudah, và Yissakhar, và Yosef, và Binyamin.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "những người này"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "sẽ đứng"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "để chúc phúc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân sự"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "הר",
+      "gloss": "núi"
+    },
+    {
+      "surface": "גרזים",
+      "gloss": "Gerizim"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "khi các ngươi vượt qua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sông Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sông Yarden"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shim'on"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "và Levi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "và Yehudah"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "và Yissakhar"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "và Yosef"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "và Binyamin"
+    }
+  ],
+  "timestamp": "2026-08-19T03:10:56.009983946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 67,
+  "translation": "Elohim sẽ ban phước cho chúng ta, và mọi nơi tận cùng của đất sẽ kính sợ ⟨את⟩ Ngài.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "sẽ ban phước cho chúng ta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "và sẽ kính sợ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Ngài"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "nơi tận cùng"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "của đất"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:47.341329706Z",
+  "model": "glm-5.3"
+}

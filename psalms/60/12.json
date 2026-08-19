@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 60:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 60,
+  "translation": "Há không phải Ngài, ôi Elohim, đã bỏ chúng ta? Và Ngài không ra đi, ôi Elohim, cùng các đạo binh của chúng ta!",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "há không phải"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "đã bỏ chúng ta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "Ngài ra đi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "cùng các đạo binh của chúng ta"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:15.916430809Z",
+  "model": "glm-5.3"
+}

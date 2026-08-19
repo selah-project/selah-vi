@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Và trong ngày thứ tám, da thừa của cậu bé phải được cắt bì.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "và trong ngày"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "thứ tám"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "phải được cắt bì"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "da thịt"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "da thừa của cậu"
+    }
+  ],
+  "timestamp": "2026-08-19T02:42:03.438321856Z",
+  "model": "glm-5.3"
+}

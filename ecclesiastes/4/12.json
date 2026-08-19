@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 4:12",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và nếu người một bị áp đảo, thì hai người đứng vững trước mặt ⟨nó⟩; còn sợi dây ba sợi thì chẳng sớm bị đứt.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "và nếu"
+    },
+    {
+      "surface": "יתקפו",
+      "gloss": "bị áp đảo"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "người một"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "hai người"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "đứng vững"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "trước mặt nó"
+    },
+    {
+      "surface": "והחוט",
+      "gloss": "còn sợi dây"
+    },
+    {
+      "surface": "המשלש",
+      "gloss": "ba sợi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chẳng"
+    },
+    {
+      "surface": "במהרה",
+      "gloss": "sớm"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "bị đứt"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:23.745012480Z",
+  "model": "glm-5.3"
+}

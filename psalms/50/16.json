@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 50,
+  "translation": "Và với kẻ ác, Elohim đã phán: Sao ngươi ⟨lại⟩ kể ra các luật lệ của Ta, và ngươi nhấc giao ước của Ta lên trên miệng ngươi?",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "và với kẻ ác"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "đã phán"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sao\/what"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngươi"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "để kể ra"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "các luật lệ của Ta"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "và ngươi nhấc lên"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "giao ước của Ta"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "trên"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "miệng ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:47.606221905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "và ⟨את⟩ người Ar-va-di, và ⟨את⟩ người Tse-ma-ri, và ⟨את⟩ người Cha-ma-ti; và sau đó các gia tộc của người Kena-an đã tản lạc ra",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người Ar-va-di"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "người Ar-va-di"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người Tse-ma-ri"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "người Tse-ma-ri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người Cha-ma-ti"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "người Cha-ma-ti"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "và sau đó"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "đã tản lạc ra"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "các gia tộc"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "của người Kena-an"
+    }
+  ],
+  "timestamp": "2026-08-19T00:54:00.056222459Z",
+  "model": "glm-5.3"
+}

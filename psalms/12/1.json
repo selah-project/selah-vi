@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Cho đấng chỉ huy nhạc công, theo bản tám — Sheminith; thánh thi của Đavít.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "cho đấng chỉ huy nhạc công"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "bản tám — Sheminith"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "thánh thi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "của Đavít"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:04.647605245Z",
+  "model": "glm-5.3"
+}

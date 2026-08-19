@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 45,
+  "translation": "Ngươi đã yêu công bình và ghét sự ác; vì vậy Elohim, Elohim của ngươi, đã xức dầu cho ngươi với dầu hoan lạc hơn các đồng bạn của ngươi.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "ngươi đã yêu"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "công bình"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "và ngươi ghét"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sự ác"
+    },
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vậy"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "đã xức dầu ngươi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim của ngươi"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "dầu"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "hoan lạc"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "hơn các đồng bạn của ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:05.289677651Z",
+  "model": "glm-5.3"
+}

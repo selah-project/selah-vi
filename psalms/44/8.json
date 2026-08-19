@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Vì Ngài đã cứu chúng tôi khỏi kẻ thù nghịch ⟨của chúng tôi⟩, và đã làm xấu hổ những kẻ ghét chúng tôi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "Ngài đã cứu chúng tôi"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "khỏi kẻ thù nghịch chúng ta"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "và những kẻ ghét chúng ta"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "Ngài đã làm xấu hổ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:05.608069528Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Yahweh ban sức mạnh cho dân của Ngài; Yahweh ban phước ⟨את⟩ dân của Ngài với sự bình an.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "sức mạnh"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "cho dân của Ngài"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ban phước"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân của Ngài"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "dân của Ngài"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "với sự bình an"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:46.947874163Z",
+  "model": "glm-5.3"
+}

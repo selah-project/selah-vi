@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Còn lúa mì và lúa spelt không bị đánh, vì chúng còn xanh muộn.",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "còn lúa mì"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "và lúa spelt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "bị đánh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "còn xanh muộn"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:29:50.123650469Z",
+  "model": "glm-5.3"
+}

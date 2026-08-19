@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 35,
+  "translation": "⟨את⟩ cái bàn và ⟨את⟩ các đòn khiêng nó và ⟨את⟩ mọi dụng cụ của nó, và ⟨את⟩ bánh trưng bày trước mặt ⟨thượng đế⟩;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cái bàn"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "cái bàn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các đòn khiêng nó"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "các đòn khiêng nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "mọi dụng cụ của nó"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "dụng cụ của nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "bánh của các mặt"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bánh"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "của các mặt"
+    }
+  ],
+  "timestamp": "2026-08-19T02:37:51.319100064Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 37:10",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Ông làm ⟨את⟩ cái bàn bằng gỗ cây keo: dài hai amma, rộng một amma, và cao một amma rưỡi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ông làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cái bàn"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "cái bàn"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "gỗ của"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "cây keo"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "hai amma"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dài của nó"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "và một amma"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "rộng của nó"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "và một amma"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "và một nửa"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "cao của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T06:04:05.229952901Z",
+  "model": "glm-5.3"
+}

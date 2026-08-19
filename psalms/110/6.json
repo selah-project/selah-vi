@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 110,
+  "translation": "Ngài sẽ xét xử giữa các dân tộc, làm đầy xác chết, Ngài đập nát đầu trên đất rộng lớn.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "sẽ xét xử"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "giữa các dân tộc"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "làm đầy"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "xác chết"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "đập nát"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "đầu"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "rộng lớn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:53.131494535Z",
+  "model": "glm-5.3"
+}

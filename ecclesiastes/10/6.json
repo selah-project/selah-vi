@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Kẻ dại được đặt ở nơi cao cả, còn người giàu ngồi ở nơi hạ thấp.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "được đặt"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "kẻ dại"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "ở nơi cao"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "cả"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "còn người giàu"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "ở nơi hạ thấp"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ngồi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:35.082695001Z",
+  "model": "glm-5.3"
+}

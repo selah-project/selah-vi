@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 92,
+  "translation": "Trên mười dây, và trên đàn navel, trên tiếng ngân du dương với đàn kinnor.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "Trên"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "mười dây"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "và trên"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "đàn navel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "trên"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "tiếng ngân du dương"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "với đàn kinnor"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:11.575273817Z",
+  "model": "glm-5.3"
+}

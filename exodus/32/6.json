@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 32:6",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Họ khởi sự sớm ngày hôm sau, dâng lên của lễ thiêu, và dâng của lễ bình an; dân ngồi xuống để ăn và uống, rồi đứng dậy để đùa giỡn.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "khởi sự sớm"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ngày hôm sau"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "dâng lên"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "của lễ thiêu"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "dâng lên"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "của lễ bình an"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ngồi xuống"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "để ăn"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "và uống"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "rồi đứng dậy"
+    },
+    {
+      "surface": "לצחק",
+      "gloss": "để đùa giỡn"
+    }
+  ],
+  "timestamp": "2026-08-19T02:36:49.172512130Z",
+  "model": "glm-5.3"
+}

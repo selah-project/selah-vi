@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 4:8",
+  "book": "joel",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "và Ta sẽ bán ⟨את⟩ con trai các ngươi và ⟨את⟩ con gái các ngươi vào tay con trai Yehudah, và chúng sẽ bán họ cho người Sheva, đến một dân tộc xa xôi; vì Yahweh đã phán.",
+  "tokens": [
+    {
+      "surface": "ומכרתי",
+      "gloss": "và Ta sẽ bán"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con trai các ngươi"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "con trai các ngươi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con gái các ngươi"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "con gái các ngươi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "vào tay"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ומכרום",
+      "gloss": "và chúng sẽ bán họ"
+    },
+    {
+      "surface": "לשבאים",
+      "gloss": "cho người Sheva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "một dân tộc"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "xa xôi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "đã phán"
+    }
+  ],
+  "timestamp": "2026-08-19T04:46:27.944534992Z",
+  "model": "glm-5.3"
+}

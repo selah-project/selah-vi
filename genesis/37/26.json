@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 37:26",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Yehuda nói với các anh em mình: Được lợi gì nếu chúng ta giết ⟨את⟩ anh em mình và che ⟨את⟩ máu nó?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "các anh em mình"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "lợi lộc"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "נהרג",
+      "gloss": "chúng ta giết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anh em mình"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "anh em mình"
+    },
+    {
+      "surface": "וכסינו",
+      "gloss": "và che"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "máu nó"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "máu của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T01:24:28.125064404Z",
+  "model": "glm-5.3"
+}

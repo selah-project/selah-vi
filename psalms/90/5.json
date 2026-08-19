@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 90,
+  "translation": "Ngài cuốn họ đi như nước lũ; họ như giấc ngủ; buổi sáng ⟨họ⟩ như cỏ non mọc lên rồi trôi qua.",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "Ngài cuốn họ đi như nước lũ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "giấc ngủ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "họ như"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "buổi sáng"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "như cỏ non"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "mọc lên rồi trôi qua"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:02.504942123Z",
+  "model": "glm-5.3"
+}

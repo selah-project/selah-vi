@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 128,
+  "translation": "Này, quả thật như vậy người đàn ông kính sợ Yahweh sẽ được ban phước.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "này"
+    },
+    {
+      "surface": "כי",
+      "gloss": "quả thật"
+    },
+    {
+      "surface": "כן",
+      "gloss": "như vậy"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "sẽ được ban phước"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "người đàn ông"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "kính sợ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:44.761572068Z",
+  "model": "glm-5.3"
+}

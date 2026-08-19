@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezekiel 16:40",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Họ sẽ đưa lên chống lại ngươi một đám đông, và ném đá ngươi ⟨את⟩ bằng đá, và đâm ngươi bằng gươm của họ.",
+  "tokens": [
+    {
+      "surface": "והעלו",
+      "gloss": "và họ sẽ đưa lên"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "chống lại ngươi"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "một đám đông"
+    },
+    {
+      "surface": "ורגמו",
+      "gloss": "và ném đá"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ngươi",
+      "marks": "ngươi (bị ném đá)"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "bằng đá"
+    },
+    {
+      "surface": "ובתקוך",
+      "gloss": "và đâm ngươi"
+    },
+    {
+      "surface": "בחרבותם",
+      "gloss": "bằng gươm của họ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:34:47.694533339Z",
+  "model": "glm-5.3"
+}

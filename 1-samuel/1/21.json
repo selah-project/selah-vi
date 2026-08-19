@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Người chồng Elkanah cùng cả nhà mình lên, để dâng cho Yahweh ⟨את⟩ lễ vật thường niên và ⟨את⟩ lời khấn nguyền của mình.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "đã lên"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "người chồng"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanah"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "cùng cả"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nhà mình"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "để dâng"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "cho Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lễ vật"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "lễ vật"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "thường niên"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lời khấn nguyền của mình"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "lời khấn nguyền của mình"
+    }
+  ],
+  "timestamp": "2026-08-19T03:29:33.375718458Z",
+  "model": "glm-5.3"
+}

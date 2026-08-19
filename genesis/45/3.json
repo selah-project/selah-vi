@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 45:3",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 45,
+  "translation": "Và Yosef nói với các anh em mình: Tôi là Yosef! Cha tôi còn sống không? Và các anh em ông không thể trả lời ⟨את⟩ ông, vì họ kinh hoàng trước mặt ông.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "các anh em mình"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi là"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "còn không"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "cha tôi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "sống"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "có thể"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "các anh em ông"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "trả lời"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ông"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "kinh hoàng"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "trước mặt ông"
+    }
+  ],
+  "timestamp": "2026-08-19T02:26:27.510026428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Ngươi hãy làm một con đường cho thanh gươm tiến đến ⟨את⟩ Rabbah của con cái Ammon, và ⟨את⟩ Yehudah tại Yerushalayim được укреп — ⟨trấn giữ kiên cố⟩.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "con đường"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "ngươi hãy làm"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "để đến"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "thanh gươm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rabbah"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Rabbah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "tại Yerushalayim"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "được trấn giữ kiên cố"
+    }
+  ],
+  "timestamp": "2026-08-19T04:35:43.985797734Z",
+  "model": "glm-5.3"
+}

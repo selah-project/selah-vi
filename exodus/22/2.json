@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Nếu mặt trời đã mọc lên trên hắn, có huyết-trách cho hắn; hắn phải bồi thường trọn vẹn; nếu hắn không có gì, thì hắn sẽ bị bán đi vì vụ trộm của hắn.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Nếu"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "đã mọc"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "mặt trời"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lên trên hắn"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "huyết-trách"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho hắn"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "bồi thường trọn vẹn"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "hắn phải bồi thường"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho hắn"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "thì hắn sẽ bị bán"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "vì vụ trộm của hắn"
+    }
+  ],
+  "timestamp": "2026-08-19T02:33:59.827335903Z",
+  "model": "glm-5.3"
+}

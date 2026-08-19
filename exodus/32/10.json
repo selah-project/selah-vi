@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 32:10",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Vậy bây giờ, hãy để mặc Ta, để cơn nóng giận của Ta bừng lên cùng chúng nó và Ta tiêu diệt chúng nó; rồi Ta sẽ làm ⟨את⟩ ngươi thành dân tộc lớn.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "và bây giờ"
+    },
+    {
+      "surface": "הניחה",
+      "gloss": "hãy để mặc"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "và bừng cháy"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "cơn giận (mũi) của Ta"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "chúng nó"
+    },
+    {
+      "surface": "ואכלם",
+      "gloss": "và tiêu diệt chúng"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "và Ta sẽ làm"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ngươi",
+      "marks": "ngươi"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "thành dân tộc"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lớn"
+    }
+  ],
+  "timestamp": "2026-08-19T06:03:59.096938442Z",
+  "model": "glm-5.3"
+}

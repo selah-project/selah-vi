@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 32:12",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Vì ngực, người ta sẽ đánh đấm; vì những cánh đồng yêu dấu, vì cây nho trái ngập tràn.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "ngực"
+    },
+    {
+      "surface": "ספדים",
+      "gloss": "người ta sẽ đánh đấm"
+    },
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "những cánh đồng"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "yêu dấu"
+    },
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "cây nho"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "trái ngập tràn"
+    }
+  ],
+  "timestamp": "2026-08-19T04:09:06.170580666Z",
+  "model": "glm-5.3"
+}

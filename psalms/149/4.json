@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 149,
+  "translation": "Vì Yahweh đẹp lòng trong dân của Ngài; Ngài sẽ làm nên rực rỡ những kẻ khiêm nhường trong sự cứu giúp.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "đẹp lòng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "trong dân của Ngài"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "sẽ làm nên rực rỡ"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "những kẻ khiêm nhường"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "trong sự cứu giúp"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:22.919139222Z",
+  "model": "glm-5.3"
+}

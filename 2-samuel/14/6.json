@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 14:6",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Tớ gái của ngươi có hai đứa con trai, và chúng đánh nhau trong cánh đồng, không có ai giải cứu ở giữa chúng; đứa này đánh ⟨את⟩ đứa kia, và nó giết chết ⟨אתו⟩ nó.",
+  "tokens": [
+    {
+      "surface": "ולשפחתך",
+      "gloss": "và tớ gái của ngươi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "hai"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "đứa con trai"
+    },
+    {
+      "surface": "וינצו",
+      "gloss": "và chúng đánh nhau"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "cả hai"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "trong cánh đồng"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "và không có"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "người giải cứu"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "ở giữa chúng"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "và đánh"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "đứa này"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đứa kia"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "đứa kia"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "và giết chết"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "nó"
+    }
+  ],
+  "timestamp": "2026-08-19T03:42:35.819266326Z",
+  "model": "glm-5.3"
+}

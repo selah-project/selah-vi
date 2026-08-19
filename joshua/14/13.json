@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Và Yehoshua chúc phước cho ông, và ban ⟨את⟩ Chevron cho Kalev con trai Yefunhê làm sản nghiệp.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "và chúc phước cho ông"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "và ban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "cho Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefunhê"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "làm sản nghiệp"
+    }
+  ],
+  "timestamp": "2026-08-19T03:18:07.627609295Z",
+  "model": "glm-5.3"
+}

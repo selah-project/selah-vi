@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Nhưng hãy biết rằng Yahweh đã biệt riêng ⟨את⟩ người kính tin cho chính Ngài; Yahweh sẽ nghe khi tôi kêu xin đến Ngài.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "nhưng hãy biết"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "đã biệt riêng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người kính tin"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "người kính tin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho chính Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "sẽ nghe"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "khi tôi kêu xin"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "đến Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T04:54:53.645374143Z",
+  "model": "glm-5.3"
+}

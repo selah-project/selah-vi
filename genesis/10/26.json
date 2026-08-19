@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Và Yoktan đã sinh ⟨את⟩ Almodad, và ⟨את⟩ Sheleph, và ⟨את⟩ Chatsarmaveth, và ⟨את⟩ Yerach.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "và Yoktan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "đã sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Sheleph"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Sheleph"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Chatsarmaveth"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Chatsarmaveth"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Yerach"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yerach"
+    }
+  ],
+  "timestamp": "2026-08-19T00:54:09.903825685Z",
+  "model": "glm-5.3"
+}

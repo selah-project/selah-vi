@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và loài người đã cúi xuống, và con người đã tự hạ; ngài đừng tha thứ cho họ.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "và đã cúi xuống"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "loài người"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "và đã tự hạ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "con người"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "tha thứ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho họ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:02:52.074987146Z",
+  "model": "glm-5.3"
+}

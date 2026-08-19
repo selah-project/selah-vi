@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Chính Ngài, Yahweh, đừng ngăn giữ các lòng thương xót của Ngài ⟨xa⟩ con; lòng nhân từ và sự thành thật của Ngài luôn luôn gìn giữ con.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "chính Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "ngăn giữ"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "các lòng thương xót của Ngài"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "xa con"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "lòng nhân từ của Ngài"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "và sự thành thật của Ngài"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "luôn luôn"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "gìn giữ con"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:53.224702995Z",
+  "model": "glm-5.3"
+}

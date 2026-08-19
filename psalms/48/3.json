@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 48:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 48,
+  "translation": "Đẹp về thế đất, niềm vui của cả đất, là núi Tsiyon, sườn phía bắc, thành của vị vua lớn.",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "đẹp"
+    },
+    {
+      "surface": "נוף",
+      "gloss": "về thế đất"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "niềm vui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cả"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "הר",
+      "gloss": "núi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "sườn"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "phía bắc"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "thành"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "רב",
+      "gloss": "lớn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:41.246531402Z",
+  "model": "glm-5.3"
+}

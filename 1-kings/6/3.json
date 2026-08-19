@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 6:3",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Còn hành lang trước mặt điện của nhà: dài hai mươi amma theo mặt rộng của nhà, mười amma là bề rộng của nó, trước mặt nhà.",
+  "tokens": [
+    {
+      "surface": "והאולם",
+      "gloss": "còn hành lang"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt của"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "điện"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "của nhà"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "hai mươi"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dài của nó"
+    },
+    {
+      "surface": "על",
+      "gloss": "theo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt của"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "bề rộng"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "của nhà"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mười"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "bằng amma"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "rộng của nó"
+    },
+    {
+      "surface": "על",
+      "gloss": "trước"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt của"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "nhà"
+    }
+  ],
+  "timestamp": "2026-08-19T03:48:26.734033150Z",
+  "model": "glm-5.3"
+}

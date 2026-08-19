@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 25:22",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Và các ngươi sẽ gieo ⟨את⟩ năm thứ tám, và các ngươi sẽ ăn từ mùa màng cũ cho đến năm thứ chín, cho đến khi mùa màng của nó đến, các ngươi sẽ ăn cũ.",
+  "tokens": [
+    {
+      "surface": "וזרעתם",
+      "gloss": "và các ngươi sẽ gieo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "năm thứ tám"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "năm"
+    },
+    {
+      "surface": "השמינת",
+      "gloss": "thứ tám"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "và các ngươi sẽ ăn"
+    },
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "mùa màng"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "cũ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "năm"
+    },
+    {
+      "surface": "התשיעת",
+      "gloss": "thứ chín"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "khi đến"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "mùa màng của nó"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "các ngươi sẽ ăn"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "cũ"
+    }
+  ],
+  "timestamp": "2026-08-19T06:04:32.334335159Z",
+  "model": "glm-5.3"
+}

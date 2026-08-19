@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Và ⟨ông⟩ nói: “Tôi không thể quay lại ⟨את⟩ cùng ngươi, cũng không thể vào ⟨את⟩ cùng ngươi; và tôi sẽ không ăn bánh, không uống ⟨את⟩ cùng ngươi nước, tại nơi này.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và ⟨ông⟩ nói"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "tôi có thể"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "quay lại"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ cùng ngươi",
+      "marks": "cùng ngươi"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "và để vào"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ cùng ngươi",
+      "marks": "cùng ngươi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "tôi ăn"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bánh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "tôi uống"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ cùng ngươi",
+      "marks": "cùng ngươi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "tại nơi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    }
+  ],
+  "timestamp": "2026-08-19T03:51:32.860228414Z",
+  "model": "glm-5.3"
+}

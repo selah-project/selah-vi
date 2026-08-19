@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Và Achimaats sinh ⟨את⟩ Azarjah, và Azarjah sinh ⟨את⟩ Yochanan.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "và Achimaats"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjah"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "và Azarjah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yochanan"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yochanan"
+    }
+  ],
+  "timestamp": "2026-08-19T05:47:49.749289892Z",
+  "model": "glm-5.3"
+}

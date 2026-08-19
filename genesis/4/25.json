@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và Adam lại biết ⟨את⟩ vợ mình, và nàng sinh một con trai, và nàng gọi tên ông là Shet: vì Elohim đã đặt cho tôi một dòng giống khác thay cho Hevel, vì Qayin đã giết ông.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "và biết"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lại"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vợ mình"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vợ mình"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "và nàng sinh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "và nàng gọi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tên ông"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "tên ông"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שת",
+      "gloss": "đã đặt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "dòng giống"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "khác"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thay cho"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "đã giết"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qayin"
+    }
+  ],
+  "timestamp": "2026-08-19T00:45:12.030810459Z",
+  "model": "glm-5.3"
+}

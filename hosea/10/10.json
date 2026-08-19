@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 10:10",
+  "book": "hosea",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Khi Ta muốn, Ta sẽ trói buộc chúng; các dân sẽ bị nhóm lại chống lại chúng, khi chúng bị trói vì hai điều gian ác của chúng.",
+  "tokens": [
+    {
+      "surface": "באותי",
+      "gloss": "khi Ta muốn"
+    },
+    {
+      "surface": "ואסרם",
+      "gloss": "Ta sẽ trói chúng"
+    },
+    {
+      "surface": "ואספו",
+      "gloss": "và sẽ nhóm lại"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "chống lại chúng"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "các dân"
+    },
+    {
+      "surface": "באסרם",
+      "gloss": "khi chúng bị trói"
+    },
+    {
+      "surface": "לשתי",
+      "gloss": "cho hai"
+    },
+    {
+      "surface": "עינתם",
+      "gloss": "điều gian ác của chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:45:25.251352361Z",
+  "model": "glm-5.3"
+}

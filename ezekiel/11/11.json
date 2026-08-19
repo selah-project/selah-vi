@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 11:11",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Nó sẽ không ⟨is⟩ nồi cho các ngươi, và các ngươi sẽ ⟨is⟩ thịt ở giữa nó; tại biên giới Yisrael Ta sẽ phán xét ⟨את⟩các ngươi.",
+  "tokens": [
+    {
+      "surface": "היא",
+      "gloss": "nó"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sẽ là"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho các ngươi"
+    },
+    {
+      "surface": "לסיר",
+      "gloss": "làm nồi"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "và các ngươi"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "sẽ là"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "ở giữa nó"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "làm thịt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tại"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "biên giới"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "Ta sẽ phán xét"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩các ngươi",
+      "marks": "các ngươi (tân ngữ của 'phán xét')"
+    }
+  ],
+  "timestamp": "2026-08-19T04:33:25.773271521Z",
+  "model": "glm-5.3"
+}

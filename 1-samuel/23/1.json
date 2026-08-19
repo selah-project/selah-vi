@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Người ta báo cho David biết, rằng: Này, người Philistine đang giao chiến với Keilah, và họ đang cướp phá ⟨את⟩ các sân đập lúa.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "họ báo tin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "cho David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "này"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "người Philistine"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "đang giao chiến"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "với Keilah"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "và họ"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "đang cướp phá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các sân đập lúa"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "các sân đập lúa"
+    }
+  ],
+  "timestamp": "2026-08-19T03:36:15.234858270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 13:6",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Bảy ngày ngươi sẽ ăn bánh không men, và trong ngày thứ bảy ⟨là⟩ lễ cho Yahweh.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "bảy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ngươi sẽ ăn"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "bánh không men"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "và trong ngày"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "thứ bảy"
+    },
+    {
+      "surface": "חג",
+      "gloss": "lễ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "cho Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:30:47.197460743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và Moshe làm đúng như Yahweh đã truyền lệnh cho ⟨את⟩ ông; và hội chúng được tập họp tại cửa lều hội kiến.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "và-làm"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "đúng như"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "đã truyền lệnh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ông",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "và-được tập họp"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "hội chúng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tại"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "cửa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "lều"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "hội kiến"
+    }
+  ],
+  "timestamp": "2026-08-19T02:41:16.785913705Z",
+  "model": "glm-5.3"
+}

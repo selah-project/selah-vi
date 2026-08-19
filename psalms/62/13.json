@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 62,
+  "translation": "Và với Ngài, Adonai, ⟨là⟩ sự nhân từ; vì chính Ngài trả công cho mỗi người theo việc làm của họ.",
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "và với Ngài"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "sự nhân từ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "chính Ngài"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "trả công"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "cho mỗi người"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "theo việc làm của họ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:01.494882714Z",
+  "model": "glm-5.3"
+}

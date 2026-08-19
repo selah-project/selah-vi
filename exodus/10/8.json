@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Và người ta đưa ⟨את⟩ Moshe và ⟨את⟩ Aharon trở lại đến cùng Paroh, và ngài nói với họ: Hãy đi, hãy phục vụ ⟨את⟩ Yahweh Elohim của các ngươi — ai và ai là những người đi?",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "và người ta đưa trở lại"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến cùng"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và ngài nói"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "với họ"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "hãy đi"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "hãy phục vụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim của các ngươi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "và ai"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "là những người đi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:29:59.726302027Z",
+  "model": "glm-5.3"
+}

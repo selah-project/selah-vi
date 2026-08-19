@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ruth 2:15",
+  "book": "ruth",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và nàng đứng_dậy để nhặt, và Boaz ra_lệnh cho ⟨את⟩ các người_trẻ_của_ông, nói rằng: Cả giữa các bó nàng_hãy nhặt, và các_ngươi đừng làm nàng xấu_hổ.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "Và nàng đứng dậy"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "để nhặt"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "và ông ra lệnh"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các người trẻ của ông"
+    },
+    {
+      "surface": "נעריו",
+      "gloss": "các người trẻ của ông"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nói rằng"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cả"
+    },
+    {
+      "surface": "בין",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "העמרים",
+      "gloss": "các bó"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "nàng hãy nhặt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và đừng"
+    },
+    {
+      "surface": "תכלימוה",
+      "gloss": "các ngươi làm nàng xấu hổ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:30:13.791899830Z",
+  "model": "glm-5.3"
+}

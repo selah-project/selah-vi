@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Vì mỗi người ném cây gậy của mình xuống, và chúng thành những con rắn lớn; nhưng cây gậy của Aharon đã nuốt ⟨את⟩ các cây gậy của họ.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "họ ném xuống"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mỗi người"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "cây gậy của mình"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "và chúng thành"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "những con rắn lớn"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "nhưng đã nuốt"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "cây gậy"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các cây gậy của họ"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "các cây gậy của họ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:28:43.520962425Z",
+  "model": "glm-5.3"
+}

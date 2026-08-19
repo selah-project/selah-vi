@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 88:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 88,
+  "translation": "Giữa những kẻ chết, tôi bị ruồng bỏ, như những người bị đâm chết nằm xuống trong mộ, những kẻ ⟨mà⟩ Ngài không còn nhớ nữa, và họ đã bị cắt đứt khỏi tay Ngài.",
+  "tokens": [
+    {
+      "surface": "במתים",
+      "gloss": "giữa những kẻ chết"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "bị ruồng bỏ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "như"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "những người bị đâm chết"
+    },
+    {
+      "surface": "שכבי",
+      "gloss": "nằm xuống"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "trong mộ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨mà⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "זכרתם",
+      "gloss": "Ngài nhớ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "còn nữa"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "và họ"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "khỏi tay Ngài"
+    },
+    {
+      "surface": "נגזרו",
+      "gloss": "đã bị cắt đứt"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:03.407470844Z",
+  "model": "glm-5.3"
+}

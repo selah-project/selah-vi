@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 10:16",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Và Hadadezer sai đi và đem ra ⟨את⟩ Aram ở bên kia sông; và chúng đến Cheilam, còn Shovach tướng quân đội của Hadadezer ở trước mặt chúng.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "sai đi"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "đem ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ở"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "bên kia"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "sông"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "và chúng đến"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "Cheilam"
+    },
+    {
+      "surface": "ושובך",
+      "gloss": "còn Shovach"
+    },
+    {
+      "surface": "שר",
+      "gloss": "tướng"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "quân đội"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "của Hadadezer"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "trước mặt chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:40:56.454823213Z",
+  "model": "glm-5.3"
+}

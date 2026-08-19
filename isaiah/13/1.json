@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Gánh nặng của Bavel, điều mà Yeshayahu con trai Amotz đã thấy.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "gánh nặng"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "của Bavel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "điều mà"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "đã thấy"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amotz"
+    }
+  ],
+  "timestamp": "2026-08-19T06:12:06.461371117Z",
+  "model": "glm-5.3"
+}

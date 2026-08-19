@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 16:17",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Mỗi người tùy theo sự ban tặng của tay mình, tùy theo phước lành của Yahweh Elohim của ngươi mà Ngài đã ban cho ngươi.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "mỗi người"
+    },
+    {
+      "surface": "כמתנת",
+      "gloss": "tùy theo sự ban tặng"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "của tay mình"
+    },
+    {
+      "surface": "כברכת",
+      "gloss": "tùy theo phước lành"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim của ngươi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "đã ban"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:09:16.912833184Z",
+  "model": "glm-5.3"
+}

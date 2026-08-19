@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 141,
+  "translation": "Bài thơ thánh ca của David. Yahweh, con đã kêu cầu Ngài, xin mau đến với con; xin lắng tai nghe tiếng con, khi con kêu cầu cùng Ngài.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "bài thơ thánh ca"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "của David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "con đã kêu cầu Ngài"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "xin mau đến"
+    },
+    {
+      "surface": "לי",
+      "gloss": "với con"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "xin lắng tai nghe"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "tiếng con"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "khi con kêu cầu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cùng Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:59.264394811Z",
+  "model": "glm-5.3"
+}

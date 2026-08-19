@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và Moshe đưa ⟨את⟩ Aharon cùng ⟨את⟩ các con trai ông lại gần, và tắm rửa ⟨את⟩ họ trong nước.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "và đưa lại gần"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "cùng ⟨את⟩",
+      "marks": "các con trai ông"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "các con trai ông"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "và tắm rửa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ họ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "trong nước"
+    }
+  ],
+  "timestamp": "2026-08-19T02:41:20.393863035Z",
+  "model": "glm-5.3"
+}

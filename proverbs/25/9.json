@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Hãy tranh luận vụ ⟨את⟩ của ngươi với người lân cận ngươi, và sự bí mật của người khác chớ bày lộ.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "vụ của ngươi"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "hãy tranh luận"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vụ của ngươi"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "người lân cận ngươi"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "và sự bí mật"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "người khác"
+    },
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "bày lộ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:18:42.685917837Z",
+  "model": "glm-5.3"
+}

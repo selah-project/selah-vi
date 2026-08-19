@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 132,
+  "translation": "Bài ca lên đỉnh. Yahweh ôi, hãy nhớ cho Daviđ, ⟨את⟩ mọi khổ cực của người.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "bài ca"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "lên đỉnh"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "hãy nhớ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "cho Daviđ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi khổ cực của người"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "khổ cực của người"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:12.138418687Z",
+  "model": "glm-5.3"
+}

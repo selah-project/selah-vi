@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 14:26",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Ông ta chiếm ⟨את⟩ các kho tàng của nhà Yahweh và ⟨את⟩ các kho tàng của nhà vua; ⟨את⟩ tất cả ông ta đều lấy; và ông ta lấy ⟨את⟩ hết thảy các khiên vàng mà Shlomo đã làm.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ông ta chiếm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các kho tàng của nhà Yahweh"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "các kho tàng"
+    },
+    {
+      "surface": "בית",
+      "gloss": "của nhà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các kho tàng của nhà vua"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "các kho tàng"
+    },
+    {
+      "surface": "בית",
+      "gloss": "của nhà"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "tất cả"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ông ta đều lấy"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "và ông ta lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hết thảy các khiên vàng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hết thảy"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "các khiên"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "vàng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    }
+  ],
+  "timestamp": "2026-08-19T03:52:30.529842015Z",
+  "model": "glm-5.3"
+}

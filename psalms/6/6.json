@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Vì trong sự chết không có sự ghi nhớ Ngài; trong Sheol ai sẽ cảm tạ ⟨cho⟩ Ngài?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "במות",
+      "gloss": "trong sự chết"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "sự ghi nhớ Ngài"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "trong Sheol"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "sẽ cảm tạ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:11.280479223Z",
+  "model": "glm-5.3"
+}

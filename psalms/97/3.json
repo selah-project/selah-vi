@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 97,
+  "translation": "Lửa đi trước mặt ⟨Ngài⟩, và thiêu rụi khắp quanh các kẻ thù nghịch của ⟨Ngài⟩.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "lửa"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "trước mặt Ngài"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "đi"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "và thiêu rụi"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "khắp quanh"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "các kẻ thù nghịch của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:25.128193959Z",
+  "model": "glm-5.3"
+}

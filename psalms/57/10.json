@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 57,
+  "translation": "Tôi sẽ cảm tạ Ngài giữa các dân, Adonai; tôi sẽ đàn hát ngợi khen Ngài giữa các nước.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "tôi sẽ cảm tạ Ngài"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "giữa các dân"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "tôi sẽ đàn hát ngợi khen Ngài"
+    },
+    {
+      "surface": "בל",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "các nước"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:48.687722542Z",
+  "model": "glm-5.3"
+}

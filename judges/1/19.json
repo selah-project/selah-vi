@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 1:19",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và Yahweh ở với ⟨את⟩ Yehudah, và chiếm giữ ⟨את⟩ vùng núi; nhưng không thể đuổi khỏi ⟨את⟩ dân cư của thung lũng, vì chúng có xe ngựa bằng sắt.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "và xảy ra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וירש",
+      "gloss": "và chiếm giữ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vùng núi"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "vùng núi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nhưng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "להוריש",
+      "gloss": "đuổi khỏi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân cư"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "dân cư"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "của thung lũng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "xe ngựa"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "bằng sắt"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:21:59.936094160Z",
+  "model": "glm-5.3"
+}

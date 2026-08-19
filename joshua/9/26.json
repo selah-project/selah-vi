@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 9:26",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và ông làm cho họ như vậy, và giải cứu ⟨את⟩ họ khỏi tay con cái Yisra'el, và họ đã không giết họ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "và ông làm"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho họ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "như vậy"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "và giải cứu"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "họ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "khỏi tay"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "הרגום",
+      "gloss": "giết họ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:16:31.748216922Z",
+  "model": "glm-5.3"
+}

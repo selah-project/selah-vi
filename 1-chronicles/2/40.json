@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Va Elasah sinh ra ⟨את⟩ Sismay, va Sismay sinh ra ⟨את⟩ Shallum.",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "va Elasah"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "sinh ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sismay"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "Sismay"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "va Sismay"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "sinh ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shallum"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shallum"
+    }
+  ],
+  "timestamp": "2026-08-19T05:47:05.307924408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 15:21",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Và ai chạm vào giường nàng nằm thì phải giặt quần áo mình, tắm rửa trong nước, và ô uế cho đến chiều.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "và mọi ai"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "kẻ chạm vào"
+    },
+    {
+      "surface": "במשכבה",
+      "gloss": "giường nàng nằm"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "phải giặt"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "quần áo mình"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "và tắm rửa"
+    },
+    {
+      "surface": "במים",
+      "gloss": "trong nước"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "và ô uế"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "chiều"
+    }
+  ],
+  "timestamp": "2026-08-19T02:44:40.855704987Z",
+  "model": "glm-5.3"
+}

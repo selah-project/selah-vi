@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 14:11",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Và chúng bắt ⟨את⟩ toàn bộ tài sản của Sedom và Amorah, và ⟨את⟩ toàn bộ lương thực của chúng, và đi away.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "và chúng bắt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toàn bộ tài sản"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn bộ"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "tài sản"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "và Amorah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "toàn bộ lương thực"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn bộ"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "lương thực của chúng"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "và đi"
+    }
+  ],
+  "timestamp": "2026-08-19T00:55:08.540735718Z",
+  "model": "glm-5.3"
+}

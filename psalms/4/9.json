@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Trong sự bình an, cả вместе — không — Tôi sẽ nằm xuống và ngủ, vì chính Ngài, Yahweh, một mình, cho tôi ở trong an toàn.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "trong sự bình an"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "cả вместе — cùng một lúc"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "tôi sẽ nằm xuống"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "và ngủ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "chính Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "một mình"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "trong an toàn"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "cho tôi ở"
+    }
+  ],
+  "timestamp": "2026-08-19T04:54:30.385949576Z",
+  "model": "glm-5.3"
+}

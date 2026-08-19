@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 2:4",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "để Yahweh có thể giữ vững ⟨את⟩ lời của Ngài, điều mà Ngài đã phán về tôi, rằng: Nếu con cái ngươi giữ ⟨את⟩ con đường mình, để đi trước mặt Ta trong chân lý, với hết lòng mình và với hết linh hồng mình, rằng: sẽ không bị cắt đứt cho ngươi một người đàn ông khỏi ngai của Yisrael.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "để"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "có thể giữ vững"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lời của Ngài"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "lời của Ngài"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "điều mà"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Ngài đã phán"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "về tôi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "chúng giữ"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "con cái ngươi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con đường mình"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "con đường mình"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "để đi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "trong chân lý"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "với hết"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "lòng mình"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "và với hết"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "linh hồng mình"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "bị cắt đứt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngươi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "một người đàn ông"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "của Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T03:47:50.686377777Z",
+  "model": "glm-5.3"
+}

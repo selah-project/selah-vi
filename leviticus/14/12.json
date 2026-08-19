@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 14:12",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Và thầy tế lễ sẽ lấy ⟨את⟩ một con cừu đực, và dâng nó làm tế lễ chuộc tội, cùng ⟨את⟩ log dầu, và sẽ vẫy chúng làm lễ vẫy trước mặt Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "và sẽ lấy"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "thầy tế lễ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "một con cừu đực"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "con cừu đực"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "một"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "và dâng"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nó",
+      "marks": "nó (con cừu)"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "làm tế lễ chuộc tội"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "log dầu"
+    },
+    {
+      "surface": "לג",
+      "gloss": "log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "dầu"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "và sẽ vẫy"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ chúng",
+      "marks": "chúng (cừu và dầu)"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "lễ vẫy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:43:54.802595665Z",
+  "model": "glm-5.3"
+}

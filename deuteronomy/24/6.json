@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Không được lấy cối xay hay tấm đá trên làm залог, vì ⟨đó là⟩ lấy một mạng sống làm залог.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "được lấy làm залог"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "cối xay"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "và tấm đá trên"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mạng sống"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨đó⟩"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "đang lấy làm залог"
+    }
+  ],
+  "timestamp": "2026-08-19T03:11:08.918196251Z",
+  "model": "glm-5.3"
+}

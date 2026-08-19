@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 30:14",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Một thế hệ mà răng nó như gươm, và hàm răng nó như dao, để ăn nuốt người nghèo khó khỏi đất, và người thiếu thốn khỏi loài người.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "thế hệ"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "như gươm"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "răng nó"
+    },
+    {
+      "surface": "ומאכלות",
+      "gloss": "và như dao"
+    },
+    {
+      "surface": "מתלעתיו",
+      "gloss": "hàm răng nó"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "để ăn nuốt"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "người nghèo khó"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "khỏi đất"
+    },
+    {
+      "surface": "ואביונים",
+      "gloss": "và người thiếu thốn"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "khỏi loài người"
+    }
+  ],
+  "timestamp": "2026-08-19T05:19:40.080437234Z",
+  "model": "glm-5.3"
+}

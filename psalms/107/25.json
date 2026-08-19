@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 107:25",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 107,
+  "translation": "Người phán, và dựng lên gió bão tố; nó nhấc cao các sóng của nó.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "phán"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "dựng lên"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "gió"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "bão tố"
+    },
+    {
+      "surface": "ותרומם",
+      "gloss": "nhấc cao"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "các sóng của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:42.957400440Z",
+  "model": "glm-5.3"
+}

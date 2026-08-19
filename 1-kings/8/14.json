@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Vua quay ⟨את⟩ mặt mình lại và chúc phúc ⟨את⟩ toàn thể hội chúng Yisraél, còn toàn thể hội chúng Yisraél đang đứng.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "và quay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mặt mình"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mặt mình"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "và chúc phúc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toàn thể hội chúng Yisraél"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "hội chúng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraél"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "còn toàn thể"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "hội chúng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraél"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "đang đứng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:49:42.050419723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 139,
+  "translation": "Hãy soi xét tôi, El, và biết lòng tôi; hãy thử tôi, và biết những suy tưởng tôi.",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "hãy soi xét tôi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "và biết"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "lòng tôi"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "hãy thử tôi"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "và biết"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "những suy tưởng tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:43.794326785Z",
+  "model": "glm-5.3"
+}

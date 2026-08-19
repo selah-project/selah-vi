@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 9:16",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Paroh vua Mitsrayim đã lên, và đã chiếm ⟨את⟩ Gezer, và đã đốt nó trong lửa, và ⟨את⟩ người Kenaan cư ngụ trong thành đã giết; và đã ban nó làm của sính lễ cho con gái ông, vợ của Shlomo.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "đã lên"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "và đã chiếm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "וישרפה",
+      "gloss": "và đã đốt nó"
+    },
+    {
+      "surface": "באש",
+      "gloss": "trong lửa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người Kenaan cư ngụ trong thành"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "người Kenaan"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "cư ngụ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "trong thành"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "đã giết"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "và đã ban nó"
+    },
+    {
+      "surface": "שלחים",
+      "gloss": "làm của sính lễ"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "cho con gái ông"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vợ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    }
+  ],
+  "timestamp": "2026-08-19T06:09:57.024653363Z",
+  "model": "glm-5.3"
+}

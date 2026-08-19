@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 22:3",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Mọi thủ lãnh của ngươi đã bỏ trốn cùng nhau, khỏi cung tên bị trói; mọi người bị bắt của ngươi bị trói với nhau, từ xa đã chạy trốn.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "קציניך",
+      "gloss": "thủ lãnh của ngươi"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "đã bỏ trốn"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "cùng nhau"
+    },
+    {
+      "surface": "מקשת",
+      "gloss": "khỏi cung tên"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "bị trói"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi người"
+    },
+    {
+      "surface": "נמצאיך",
+      "gloss": "bị bắt của ngươi"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "bị trói"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "với nhau"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "từ xa"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "đã chạy trốn"
+    }
+  ],
+  "timestamp": "2026-08-19T04:07:29.865706654Z",
+  "model": "glm-5.3"
+}

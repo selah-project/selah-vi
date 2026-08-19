@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Và Ornan quay lại và thấy ⟨את⟩ sứ giả, và bốn con trai ông cùng với ông đang nấp; còn Ornan thì đạp lúa mì.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "và quay lại"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Ornan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "và thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sứ giả"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "sứ giả"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "và bốn"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "con trai ông"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "cùng với ông"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "đang nấp"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "còn Ornan"
+    },
+    {
+      "surface": "דש",
+      "gloss": "đạp"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "lúa mì"
+    }
+  ],
+  "timestamp": "2026-08-19T05:51:34.631923973Z",
+  "model": "glm-5.3"
+}

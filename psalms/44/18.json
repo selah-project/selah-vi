@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Mọi điều này đã đến trên chúng con, và chúng con không quên Ngài, và không làm gian dối trong giao ước của Ngài.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "điều này"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "đã đến trên chúng con"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "quên Ngài"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "làm gian dối"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "trong giao ước của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:13.608267106Z",
+  "model": "glm-5.3"
+}

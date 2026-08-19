@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 115,
+  "translation": "Yahweh đã nhớ đến chúng ta; Ngài sẽ ban phước — sẽ ban phước ⟨את⟩ nhà Yisra'el, sẽ ban phước ⟨את⟩ nhà Aharon.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "đã nhớ đến chúng ta"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "sẽ ban phước"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "sẽ ban phước"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhà Yisra'el"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "sẽ ban phước"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhà Aharon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:36.811822685Z",
+  "model": "glm-5.3"
+}

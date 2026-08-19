@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 23:20",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Này, để ban phước ⟨mà⟩ tôi đã nhận lệnh; và ⟨Ngài⟩ đã ban phước, và tôi không thể đảo lại nó.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "này"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ban-phước"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "tôi-đã-nhận"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "và-đã-ban-phước"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và-không"
+    },
+    {
+      "surface": "אשיבנה",
+      "gloss": "đảo-lại-nó"
+    }
+  ],
+  "timestamp": "2026-08-19T03:00:37.257203054Z",
+  "model": "glm-5.3"
+}

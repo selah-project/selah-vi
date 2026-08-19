@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 8:7",
+  "book": "amos",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Yahweh đã thề bởi sự vinh hiển của Yaakov: Nếu Ta quên mọi việc làm của chúng nó cho đến đời đời!",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "đã thề"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "bởi sự vinh hiển"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "Ta quên"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "đến đời đời"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "việc làm của chúng nó"
+    }
+  ],
+  "timestamp": "2026-08-19T04:48:05.904985404Z",
+  "model": "glm-5.3"
+}

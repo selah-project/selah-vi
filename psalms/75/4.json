@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 75,
+  "translation": "Tan chảy ⟨là⟩ đất và mọi cư dân của nó; chính Ta đã cân đặt các trụ của nó. Selah.",
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "tan chảy"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "cư dân của nó"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "chính Ta"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "Ta đã cân đặt"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "các trụ của nó"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:37.785676338Z",
+  "model": "glm-5.3"
+}

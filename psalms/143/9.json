@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 143:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 143,
+  "translation": "Xin giải cứu con khỏi kẻ thù con, Yahweh; nơi Ngài con đã trốn ẩn.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "xin giải cứu con"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "khỏi kẻ thù con"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nơi Ngài"
+    },
+    {
+      "surface": "כסתי",
+      "gloss": "con đã trốn ẩn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:51.131183640Z",
+  "model": "glm-5.3"
+}

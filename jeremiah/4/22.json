@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 4:22",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Vì dân sự Ta là dại dột, ⟨את⟩ Ta họ không biết; chúng là con trai ngu ngốc, và không thông sáng — chúng là khôn ngoan để làm điều dữ, nhưng để làm điều lành chúng không biết.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "dại dột"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "dân sự Ta"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ Ta",
+      "marks": "Ta (đối tượng của 'không biết')"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "biết"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "סכלים",
+      "gloss": "ngu ngốc"
+    },
+    {
+      "surface": "המה",
+      "gloss": "chúng là"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "נבונים",
+      "gloss": "thông sáng"
+    },
+    {
+      "surface": "המה",
+      "gloss": "chúng là"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "khôn ngoan"
+    },
+    {
+      "surface": "המה",
+      "gloss": "chúng là"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "để làm điều dữ"
+    },
+    {
+      "surface": "ולהיטיב",
+      "gloss": "và để làm điều lành"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "biết"
+    }
+  ],
+  "timestamp": "2026-08-19T04:17:38.155885511Z",
+  "model": "glm-5.3"
+}

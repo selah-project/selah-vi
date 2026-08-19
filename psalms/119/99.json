@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Trên mọi thầy dạy tôi, tôi ⟨được⟩ sáng suốt hơn, vì sự chứng cứ của Ngài ⟨là⟩ sự suy gẫm của tôi.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "trên mọi"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "thầy dạy tôi"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "tôi sáng suốt hơn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "sự chứng cứ của Ngài"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "sự suy gẫm"
+    },
+    {
+      "surface": "לי",
+      "gloss": "của tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:29.391337338Z",
+  "model": "glm-5.3"
+}

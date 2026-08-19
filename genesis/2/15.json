@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và Yahweh Elohim đã lấy ⟨את⟩ con người và đặt nó trong vườn Eden để canh tác và giữ gìn nó.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "đã lấy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con người"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "con người"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "và đặt nó"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "trong vườn"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "để canh tác nó"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "và giữ gìn nó"
+    }
+  ],
+  "timestamp": "2026-08-19T00:46:50.068678828Z",
+  "model": "glm-5.3"
+}

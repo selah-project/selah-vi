@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Vì Yisrael ⟨là⟩ đứa trẻ, và ta đã yêu nó; và từ Mitsrayim ta đã gọi con trai mình.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "נער",
+      "gloss": "đứa trẻ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "và-ta-đã-yêu-nó"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "và-từ-Mitsrayim"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ta-đã-gọi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "con-trai-mình"
+    }
+  ],
+  "timestamp": "2026-08-19T04:45:22.237466252Z",
+  "model": "glm-5.3"
+}

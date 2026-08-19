@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 80,
+  "translation": "⟨Ngài⟩ đã cho họ ăn bánh nước mắt, và cho họ uống những giọt nước mắt ⟨theo⟩ lượng ba phần.",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "⟨Ngài⟩ đã cho họ ăn"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bánh"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "nước mắt"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "và cho họ uống"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "trong những giọt nước mắt"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "lượng ba phần"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:22.428087716Z",
+  "model": "glm-5.3"
+}

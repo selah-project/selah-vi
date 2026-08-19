@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 136:24",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 136,
+  "translation": "và đã cứu gỡ chúng ta khỏi những kẻ thù nghịch của chúng ta, vì sự nhân từ của Người tồn tại mãi mãi.",
+  "tokens": [
+    {
+      "surface": "ויפרקנו",
+      "gloss": "và đã cứu gỡ chúng ta"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "khỏi kẻ thù nghịch của chúng ta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mãi mãi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sự nhân từ của Người"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:24.974540123Z",
+  "model": "glm-5.3"
+}

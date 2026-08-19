@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 47,
+  "translation": "Và Yaakov chúc phúc ⟨את⟩ Pha-ra-ôn, và đi ra khỏi trước mặt Pha-ra-ôn.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "và chúc phúc"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pha-ra-ôn"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pha-ra-ôn"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "và đi ra"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "khỏi trước mặt"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pha-ra-ôn"
+    }
+  ],
+  "timestamp": "2026-08-19T02:26:10.377746525Z",
+  "model": "glm-5.3"
+}

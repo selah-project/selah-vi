@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Khi con đi, nó sẽ dẫn dắt ⟨את⟩ con; khi con nằm xuống, nó sẽ canh giữ trên con; và khi con thức dậy, nó sẽ trò chuyện với con.",
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "khi con đi lại"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "nó sẽ dẫn dắt"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "con"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "khi con nằm xuống"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "nó sẽ canh giữ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "trên con"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "và khi con thức dậy"
+    },
+    {
+      "surface": "היא",
+      "gloss": "chính nó"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "sẽ trò chuyện với con"
+    }
+  ],
+  "timestamp": "2026-08-19T05:14:59.330036136Z",
+  "model": "glm-5.3"
+}

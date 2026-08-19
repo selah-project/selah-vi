@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và ông dâng ⟨את⟩ của lễ của dân, và ông lấy ⟨את⟩ con dê đực của lễ tội, cái thuộc về dân, và giết nó, và làm nó thành lễ tội như con thứ nhất.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "và ông dâng gần"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "của lễ"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "của lễ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "của dân"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "và ông lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con dê đực"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "con dê đực"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "của lễ tội"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cái mà"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "thuộc về dân"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "và giết nó"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "và làm nó thành lễ tội"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "như con thứ nhất"
+    }
+  ],
+  "timestamp": "2026-08-19T02:41:56.366242342Z",
+  "model": "glm-5.3"
+}

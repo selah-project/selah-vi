@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 5:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Những kẻ hoang đường sẽ không đứng vững trước mắt Ngài; Ngài ghét mọi kẻ làm điều ác.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יתיצבו",
+      "gloss": "sẽ đứng vững"
+    },
+    {
+      "surface": "הוללים",
+      "gloss": "những kẻ hoang đường"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "trước"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "mắt Ngài"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "Ngài ghét"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "kẻ làm"
+    },
+    {
+      "surface": "און",
+      "gloss": "điều ác"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:22.742427669Z",
+  "model": "glm-5.3"
+}

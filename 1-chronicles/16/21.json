@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 16:21",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Ngài không cho phép ⟨ai⟩ áp bức họ, và trách phạt các vua nhân vì họ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "cho phép"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "⟨ai⟩ người nào"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "áp bức họ"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "và trách phạt"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nhân vì họ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "các vua"
+    }
+  ],
+  "timestamp": "2026-08-19T05:50:17.008461172Z",
+  "model": "glm-5.3"
+}

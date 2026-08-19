@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 10:15",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Nếu tôi gian ác — khổ thay cho tôi; và nếu tôi công chính, tôi không ngẩng đầu tôi; no đầy sỉ nhục, và ngài ⟨hãy⟩ xem nỗi khổ của tôi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "tôi gian ác"
+    },
+    {
+      "surface": "אללי",
+      "gloss": "khổ thay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "và tôi công chính"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "tôi ngẩng"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "đầu tôi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "no đầy"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "sỉ nhục"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "và ngài xem"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "nỗi khổ của tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:22:28.036984068Z",
+  "model": "glm-5.3"
+}

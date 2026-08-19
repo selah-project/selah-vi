@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 115,
+  "translation": "Còn Elohim của chúng ta ⟨is⟩ trong các tầng trời; mọi điều Ngài muốn, Ngài đã làm.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "Còn Elohim của chúng ta"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "trong các tầng trời"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi điều"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "Ngài muốn"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Ngài đã làm"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:05.001671310Z",
+  "model": "glm-5.3"
+}

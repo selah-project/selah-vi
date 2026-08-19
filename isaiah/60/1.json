@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 60:1",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 60,
+  "translation": "Hãy đứng dậy, hãy tỏa sáng, vì ánh sáng ngươi đã đến, và vinh hiển của Yahweh đã mọc chiếu trên ngươi.",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "Hãy đứng dậy"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "hãy tỏa sáng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "בא",
+      "gloss": "đã đến"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "ánh sáng ngươi"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "và vinh hiển"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "trên ngươi"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "đã mọc chiếu"
+    }
+  ],
+  "timestamp": "2026-08-19T04:15:38.252500587Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 140:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 140,
+  "translation": "Con đã nói cùng Yahweh: El của con ⟨là⟩ Ngài; hãy lắng nghe, Yahweh, tiếng nài xin của con.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "con đã nói"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "cùng Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El của con"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "hãy lắng nghe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tiếng"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "nài xin của con"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:11.286422755Z",
+  "model": "glm-5.3"
+}

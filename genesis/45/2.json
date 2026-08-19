@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 45,
+  "translation": "Và ông cất ⟨את⟩ tiếng mình lên trong khóc lóc, và Mitsrayim nghe thấy, và nhà Pharaoh nghe thấy.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "và ông cất lên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiếng mình"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "tiếng mình"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "trong khóc lóc"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "và nghe thấy"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "và nghe thấy"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaoh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:26:27.509857307Z",
+  "model": "glm-5.3"
+}

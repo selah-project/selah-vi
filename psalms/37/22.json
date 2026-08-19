@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 37:22",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Vì những người được Ngài ban phước sẽ thừa hưởng đất, còn những người bị Ngài rủa sả sẽ bị tuyệt diệt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "מברכיו",
+      "gloss": "những người được Ngài ban phước"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "sẽ thừa hưởng"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "ומקלליו",
+      "gloss": "còn những người bị Ngài rủa sả"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "sẽ bị tuyệt diệt"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:51.241851754Z",
+  "model": "glm-5.3"
+}

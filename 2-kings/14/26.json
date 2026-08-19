@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Vì Yahweh đã thấy ⟨את⟩ nỗi khốn khổ của Israel rất cay đắng, và hết kẻ bị giam giữ, hết kẻ bị bỏ lại, không có ai cứu giúp cho Israel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "đã thấy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nỗi khốn khổ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nỗi khốn khổ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "của Israel"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "cay đắng"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "rất"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "và hết"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "kẻ bị giam giữ"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "và hết"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "kẻ bị bỏ lại"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "ai cứu giúp"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "cho Israel"
+    }
+  ],
+  "timestamp": "2026-08-19T03:59:50.330355643Z",
+  "model": "glm-5.3"
+}

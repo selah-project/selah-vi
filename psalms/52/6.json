@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 52,
+  "translation": "Ngươi yêu mọi lời nuốt chửng, hỡi lưỡi gian dối!",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "ngươi yêu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "lời"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "nuốt chửng"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lưỡi"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "gian dối"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:33.527004378Z",
+  "model": "glm-5.3"
+}

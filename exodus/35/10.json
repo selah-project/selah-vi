@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 35,
+  "translation": "và mọi người khôn ngoan trong lòng giữa các ngươi, hãy đến và hãy làm ⟨את⟩ mọi điều mà Yahweh đã phán dặn",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "khôn ngoan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "lòng"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "giữa các ngươi"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "hãy đến"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "và hãy làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi điều"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi điều"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "đã phán dặn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:36:43.790894715Z",
+  "model": "glm-5.3"
+}

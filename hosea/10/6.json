@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 10:6",
+  "book": "hosea",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Cả nó ⟨את⟩ cũng sẽ bị đem đến Ashshur, làm cống phẩm cho vua Yarev; Efrayim sẽ nhận điều ô nhục, và Yisrael sẽ hổ thẹn về mưu kế của mình.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "cả"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "nó (con bê)"
+    },
+    {
+      "surface": "לאשור",
+      "gloss": "đến Ashshur"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "sẽ bị đem"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "làm cống phẩm"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "cho vua"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Yarev"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "điều ô nhục"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "sẽ nhận"
+    },
+    {
+      "surface": "ויבוש",
+      "gloss": "và sẽ hổ thẹn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מעצתו",
+      "gloss": "về mưu kế của mình"
+    }
+  ],
+  "timestamp": "2026-08-19T04:45:28.879053718Z",
+  "model": "glm-5.3"
+}

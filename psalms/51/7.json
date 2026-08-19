@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 51,
+  "translation": "Này, trong sự ác tôi đã được hình thành, và trong tội lỗi mẹ tôi đã thụ thai tôi.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Này"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "trong sự ác"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "tôi đã được hình thành"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "và trong tội lỗi"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "mẹ tôi đã thụ thai tôi"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mẹ tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:44.611007954Z",
+  "model": "glm-5.3"
+}

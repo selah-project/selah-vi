@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Ở khắp mọi nơi, mắt của Yahweh đang quan sát ⟪kẻ⟩ ác và người lành.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ở khắp mọi"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "nơi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mắt của"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צפות",
+      "gloss": "đang quan sát"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "và người lành"
+    }
+  ],
+  "timestamp": "2026-08-19T05:16:53.659455626Z",
+  "model": "glm-5.3"
+}

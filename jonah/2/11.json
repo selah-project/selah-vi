@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và Yahweh phán cùng con cá, và nó nôn ⟨את⟩ Yonah ra onto ⟨ra⟩⟨vào⟩ đất khô.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "cùng con cá"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "và nó nôn ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ra onto"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "đất khô"
+    }
+  ],
+  "timestamp": "2026-08-19T04:48:33.120153069Z",
+  "model": "glm-5.3"
+}

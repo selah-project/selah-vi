@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và ông thả ⟨את⟩ con bồ câu từ ⟨את⟩ bên mình, để xem liệu nước đã vơi khỏi mặt đất hay chưa.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Và ông thả"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con bồ câu"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "con bồ câu"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "từ ⟨את⟩ bên mình"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "để xem"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "liệu... đã vơi hay chưa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T00:52:55.105684535Z",
+  "model": "glm-5.3"
+}

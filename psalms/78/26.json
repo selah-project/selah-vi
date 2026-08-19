@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 78:26",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 78,
+  "translation": "Ngài cho gió đông khởi hành giữa các tầng trời, và bằng quyền năng Ngài dẫn gió nam đến.",
+  "tokens": [
+    {
+      "surface": "יסע",
+      "gloss": "Ngài cho khởi hành"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "gió đông"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "giữa các tầng trời"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "và Ngài dẫn"
+    },
+    {
+      "surface": "בעזו",
+      "gloss": "bằng quyền năng Ngài"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "gió nam"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:34.259880688Z",
+  "model": "glm-5.3"
+}

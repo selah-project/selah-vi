@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 137,
+  "translation": "Lưỡi tôi hãy dính chặt vào vòm miệng tôi, nếu tôi không nhớ ngài, nếu tôi không tôn Yerushalayim ⟨את⟩ lên trên đầu niềm vui tôi.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "hãy dính chặt"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "lưỡi tôi"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "vòm miệng tôi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "tôi nhớ ngài"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "tôi tôn lên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "đầu"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "niềm vui tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:46.850046594Z",
+  "model": "glm-5.3"
+}

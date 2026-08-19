@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Vì sáu tháng Yoav và cả Yisrael đã ở lại đó, cho đến khi tiêu diệt mọi nam giới ở Edom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "sáu"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "tháng"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "đã ở lại"
+    },
+    {
+      "surface": "שם",
+      "gloss": "đó"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và cả"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến khi"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "tiêu diệt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nam giới"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "ở Edom"
+    }
+  ],
+  "timestamp": "2026-08-19T03:51:09.131753321Z",
+  "model": "glm-5.3"
+}

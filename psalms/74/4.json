@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 74,
+  "translation": "Kẻ thù nghịch của Ngài đã gầm thét giữa nơi hội họp của Ngài; chúng đã đặt cờ hiệu của chúng làm dấu hiệu.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "đã gầm thét"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "kẻ thù nghịch của Ngài"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "nơi hội họp của Ngài"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "chúng đã đặt"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "cờ hiệu của chúng"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "làm dấu hiệu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:42.372465529Z",
+  "model": "glm-5.3"
+}

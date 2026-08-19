@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 21:15",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Và lại có chiến tranh giữa Pelishtim với ⟨את⟩ Yisra'el; và David xuống, cùng các tôi tớ người, và họ giao chiến với ⟨את⟩ Pelishtim; và David mệt nhọc.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "và-có"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lại"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "chiến-tranh"
+    },
+    {
+      "surface": "לפלשתים",
+      "gloss": "với-Pelishtim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "và-người-xuống"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "và-các-tôi-tớ-người"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "cùng-người"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "và-họ-giao-chiến"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelishtim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "và-người-mệt-nhọc"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-19T03:45:21.113473731Z",
+  "model": "glm-5.3"
+}

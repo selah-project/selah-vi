@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và một người nói: Xin ⟨⟩ vui lòng, và hãy đi ⟨את⟩ các tôi tớ của ngài. Và ngài nói: Tôi, tôi sẽ đi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và người nói"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "một người"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "xin vui lòng"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xin"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "và hãy đi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cùng với các tôi tớ của ngài"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "các tôi tớ của ngài"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và ngài nói"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "sẽ đi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:57:03.980146537Z",
+  "model": "glm-5.3"
+}

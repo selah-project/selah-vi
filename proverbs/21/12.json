@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 21:12",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Đấng Công Bình xét kỹ nhà kẻ ác, lật đổ những kẻ ác vào điều ác.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "xét kỹ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Đấng Công Bình"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "về nhà"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "מסלף",
+      "gloss": "lật đổ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "những kẻ ác"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "vào điều ác"
+    }
+  ],
+  "timestamp": "2026-08-19T05:18:01.826102175Z",
+  "model": "glm-5.3"
+}

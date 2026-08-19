@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và những người biết danh Ngài sẽ tin cậy nơi Ngài, vì Ngài không hề bỏ rơi những người tìm kiếm Ngài, hỡi Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "và sẽ tin cậy"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nơi Ngài"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "những người biết"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "danh Ngài"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "đã bỏ rơi"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "những người tìm kiếm Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T04:55:46.122312737Z",
+  "model": "glm-5.3"
+}

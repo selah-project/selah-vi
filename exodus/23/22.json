@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 23:22",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Vì nếu ngươi thật lòng lắng nghe theo tiếng của ⟨ông ấy⟩, và làm mọi điều Ta phán, thì Ta sẽ làm kẻ thù của kẻ thù ngươi, và Ta sẽ bó chặt những kẻ bó chặt ngươi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "thật lòng lắng nghe"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "nghe"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "theo tiếng của ông ấy"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "và làm"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi điều"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "Ta phán"
+    },
+    {
+      "surface": "ואיבתי",
+      "gloss": "thì Ta sẽ làm kẻ thù"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kẻ thù của ngươi"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "kẻ thù của ngươi"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "và Ta sẽ bó chặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "những kẻ bó chặt ngươi"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "những kẻ bó chặt ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:33:26.953034964Z",
+  "model": "glm-5.3"
+}

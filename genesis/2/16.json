@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và Yahweh Elohui đã truyền lệnh cho con người, phán rằng: Từ mọi cây trong vườn, ngươi hãy ăn, chắc chắn ăn.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "đã truyền lệnh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "cho"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "con người"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "phán rằng"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "từ mọi"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "cây"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "trong vườn"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "hãy ăn"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "chắc chắn ăn"
+    }
+  ],
+  "timestamp": "2026-08-19T00:46:50.068846045Z",
+  "model": "glm-5.3"
+}

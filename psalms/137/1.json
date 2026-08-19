@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 137,
+  "translation": "Bên các dòng sông Bavel, đó chúng tôi ngồi, cũng khóc, khi nhớ lại ⟨את⟩ Tsiyon.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "bên"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "các dòng sông"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "שם",
+      "gloss": "đó"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "chúng tôi ngồi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cũng"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "khóc"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "khi nhớ lại"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:35.844354170Z",
+  "model": "glm-5.3"
+}

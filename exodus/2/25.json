@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 2:25",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và Elohim đã thấy ⟨את⟩ các con trai của Yisrael, và Elohim đã biết.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "và đã thấy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các con trai của Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "các con trai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "và đã biết"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T02:26:40.619578018Z",
+  "model": "glm-5.3"
+}

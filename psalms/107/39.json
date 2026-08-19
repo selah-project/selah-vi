@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 107:39",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 107,
+  "translation": "Và họ bị giảm bớt và hạ thấp, vì sự áp bức, điều ác và nỗi buồn rầu.",
+  "tokens": [
+    {
+      "surface": "וימעטו",
+      "gloss": "và họ bị giảm bớt"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "và bị hạ thấp"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "sự áp bức"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "điều ác"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "và nỗi buồn rầu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:19.676578826Z",
+  "model": "glm-5.3"
+}

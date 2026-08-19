@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 19:11",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Còn ⟨את⟩ những người ở cửa nhà, họ đánh bằng sự mù loà, từ nhỏ đến lớn, và họ mỏi mệt tìm ⟨את⟩ lối vào.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "những người"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "những người"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "là những kẻ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "cửa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "của nhà"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "họ đánh"
+    },
+    {
+      "surface": "בסנורים",
+      "gloss": "bằng sự mù loà"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "từ nhỏ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lớn"
+    },
+    {
+      "surface": "וילאו",
+      "gloss": "và họ mỏi mệt"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "tìm"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "lối vào"
+    }
+  ],
+  "timestamp": "2026-08-19T00:59:18.152837039Z",
+  "model": "glm-5.3"
+}

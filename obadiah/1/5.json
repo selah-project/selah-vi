@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "obadiah 1:5",
+  "book": "obadiah",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Nếu kẻ trộm đã đến với ngươi, nếu kẻ cướp ban đêm — ôi ngươi bị hủy diệt thế nào! — chúng岂 chẳng trộm đến đủ sao? Nếu người hái nho đến với ngươi, chúng岂 chẳng để lại vài chùm sót sao?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "גנבים",
+      "gloss": "kẻ trộm"
+    },
+    {
+      "surface": "באו",
+      "gloss": "đã đến"
+    },
+    {
+      "surface": "לך",
+      "gloss": "với ngươi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "שודדי",
+      "gloss": "kẻ cướp"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ban đêm"
+    },
+    {
+      "surface": "איך",
+      "gloss": "thế nào"
+    },
+    {
+      "surface": "נדמיתה",
+      "gloss": "ngươi bị hủy diệt"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "há chẳng"
+    },
+    {
+      "surface": "יגנבו",
+      "gloss": "chúng trộm"
+    },
+    {
+      "surface": "דים",
+      "gloss": "đến đủ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "בצרים",
+      "gloss": "người hái nho"
+    },
+    {
+      "surface": "באו",
+      "gloss": "đến"
+    },
+    {
+      "surface": "לך",
+      "gloss": "với ngươi"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "há chẳng"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "chúng để lại"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "vài chùm sót"
+    }
+  ],
+  "timestamp": "2026-08-19T04:47:58.300575706Z",
+  "model": "glm-5.3"
+}

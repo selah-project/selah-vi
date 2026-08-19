@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 21:16",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Vì Adonai đã phán cùng tôi như vầy: Còn trong một năm, như năm của người làm thuê, thì hết thảy vinh quang của Kê-đar sẽ bị tận số.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "כה",
+      "gloss": "như vầy"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "đã phán"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "cùng tôi"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "còn trong"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "một năm"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "như năm của"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "người làm thuê"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "sẽ bị tận số"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hết thảy"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "vinh quang"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kê-đar"
+    }
+  ],
+  "timestamp": "2026-08-19T04:07:08.459851135Z",
+  "model": "glm-5.3"
+}

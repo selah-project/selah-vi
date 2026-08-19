@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 13:27",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Avshalom nài nấp người, vua bèn sai đi cùng người ⟨את⟩ Amnon và ⟨את⟩ hết thảy các con trai vua.",
+  "tokens": [
+    {
+      "surface": "ויפרץ",
+      "gloss": "nài nấp"
+    },
+    {
+      "surface": "בו",
+      "gloss": "người"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "bèn sai"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ người",
+      "marks": "cùng người"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amnon"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "hết thảy các con trai vua"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hết thảy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "các con trai"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    }
+  ],
+  "timestamp": "2026-08-19T03:41:48.759017500Z",
+  "model": "glm-5.3"
+}

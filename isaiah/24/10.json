@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Bị đập vỡ ⟨là⟩ thành phố hoang tàn; mọi nhà đều bị đóng kín, không ai ⟨có thể⟩ vào.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "bị đập vỡ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "thành phố"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "hoang tàn"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "bị đóng kín"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "khỏi việc vào"
+    }
+  ],
+  "timestamp": "2026-08-19T06:11:58.834546705Z",
+  "model": "glm-5.3"
+}

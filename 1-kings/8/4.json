@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và họ đưa lên ⟨את⟩ hòm bia của Yahweh, và ⟨את⟩ trại hội mộ̂p, và ⟨את⟩ tất cả các khí cụ thánh đang ở trong trại; và các thầy tế lễ cùng các người Levi đưa ⟨את⟩ chúng lên.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "và họ đưa lên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hòm bia của Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "hòm bia của"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "trại hội mộp"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "trại"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "hội mộp"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "tất cả các khí cụ thánh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "các khí cụ của"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sự thánh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ở trong trại"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "và họ đưa lên"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ chúng"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "các thầy tế lễ"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "và các người Levi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:49:32.355880576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Ít mà thuộc về người công bình thì tốt hơn của cải dồi dào của nhiều kẻ ác.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "tốt hơn"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ít"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "cho người công bình"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "hơn của cải"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "của kẻ ác"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nhiều"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:06.242010623Z",
+  "model": "glm-5.3"
+}

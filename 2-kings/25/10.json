@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Và ⟨את⟩ tường thành Yerushalayim chung quanh, toàn thể đạo quân của người Kasdi, vốn ⟨thuộc⟩ posición của đao phủ, đã phá đổ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "tường thành Yerushalayim"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "tường thành"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "chung quanh"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "đã phá đổ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "đạo quân"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "của người Kasdi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vốn"
+    },
+    {
+      "surface": "רב",
+      "gloss": "vị trưởng"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "đao phủ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:02:57.139322645Z",
+  "model": "glm-5.3"
+}

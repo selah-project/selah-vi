@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 43,
+  "translation": "Và người kia làm đúng như Yosef đã nói, và người kia đưa ⟨את⟩ các người kia vào nhà Yosef.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "và làm"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "người kia"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "đúng như"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "đã nói"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "và đưa vào"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "người kia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các người kia"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "các người kia"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "vào nhà"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    }
+  ],
+  "timestamp": "2026-08-19T06:03:09.732744456Z",
+  "model": "glm-5.3"
+}

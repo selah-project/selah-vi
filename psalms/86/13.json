@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 86:13",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 86,
+  "translation": "Vì lòng nhân từ của Ngài ⟨là⟩ lớn đối với con, và Ngài đã giải cứu ⟨את⟩ mạng sống con khỏi Sheol dưới sâu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "lòng nhân từ của Ngài"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lớn"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "đối với con"
+    },
+    {
+      "surface": "והצלת",
+      "gloss": "và Ngài đã giải cứu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨את⟩ mạng sống con",
+      "marks": "mạng sống con"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "khỏi Sheol"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "dưới sâu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:16.308409694Z",
+  "model": "glm-5.3"
+}

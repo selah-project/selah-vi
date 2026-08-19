@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Và bây giờ, con ta, hãy nghe theo tiếng ta, về điều mà ta truyền lệnh ⟨את⟩ con.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "và bây giờ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con ta"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hãy nghe"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "theo tiếng ta"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "về điều mà"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "truyền lệnh"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "con"
+    }
+  ],
+  "timestamp": "2026-08-19T01:10:07.822084170Z",
+  "model": "glm-5.3"
+}

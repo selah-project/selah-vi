@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 72,
+  "translation": "Chúa sẽ xót thương kẻ nghèo hèn và người thiếu thốn, và sẽ cứu ⟨את⟩ mạng sống của những kẻ thiếu thốn.",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "sẽ xót thương"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "דל",
+      "gloss": "kẻ nghèo hèn"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "và người thiếu thốn"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "và các mạng sống"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "của những kẻ thiếu thốn"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "sẽ cứu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:46.777384556Z",
+  "model": "glm-5.3"
+}

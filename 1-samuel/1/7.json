@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 1:7",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và như vậy ông làm năm này sang năm kia; mỗi lần bà lên nhà Yahweh thì đối thủ cứ làm thế ganh gây, và bà khóc và không ăn.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "và như vậy"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ông làm"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "năm"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "trong năm"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "mỗi lần"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "bà lên"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "trong nhà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כן",
+      "gloss": "như vậy"
+    },
+    {
+      "surface": "תכעסנה",
+      "gloss": "ganh gây"
+    },
+    {
+      "surface": "ותבכה",
+      "gloss": "và bà khóc"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "bà ăn"
+    }
+  ],
+  "timestamp": "2026-08-19T03:29:17.018721223Z",
+  "model": "glm-5.3"
+}

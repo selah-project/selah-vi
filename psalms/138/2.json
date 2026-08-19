@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 138,
+  "translation": "Tôi sẽ sấp mình hướng về đền thánh của Ngài, và tạ ơn ⟨את⟩ danh Ngài, vì lòng nhân từ của Ngài và vì sự chân thật của Ngài; vì Ngài đã làm cho lời phán của Ngài được cao vượt tất cả danh Ngài.",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "tôi sẽ sấp mình"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hướng về"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "đền"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "thánh của Ngài"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "và tạ ơn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "danh Ngài"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "danh Ngài"
+    },
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "lòng nhân từ của Ngài"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "và vì"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "sự chân thật của Ngài"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "Ngài đã làm cho... được cao vượt"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "danh Ngài"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "lời phán của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:03.839041556Z",
+  "model": "glm-5.3"
+}

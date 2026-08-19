@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 11:9",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và khi sương giáng xuống trên trại đêm lại, man-na giáng xuống trên nó.",
+  "tokens": [
+    {
+      "surface": "וברדת",
+      "gloss": "và khi giáng xuống"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "sương"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "trại"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "đêm"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "giáng xuống"
+    },
+    {
+      "surface": "המן",
+      "gloss": "man-na"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "trên nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:55:48.374268476Z",
+  "model": "glm-5.3"
+}

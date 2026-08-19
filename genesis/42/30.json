@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 42,
+  "translation": "Người kia, chúa của xứ, nói ⟨את⟩ chúng tôi cách gay gắt, và đặt chúng tôi như những kẻ do thám ⟨את⟩ xứ.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "người kia"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "chúa của"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "xứ"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ chúng tôi"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "cách gay gắt"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "và đặt"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ chúng tôi",
+      "marks": "chúng tôi"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "như những kẻ do thám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xứ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "xứ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:24:55.018290172Z",
+  "model": "glm-5.3"
+}

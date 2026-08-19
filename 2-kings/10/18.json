@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 10:18",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Và Yehu tập hợp ⟨את⟩ toàn thể dân sự, và ngài nói với họ: Achav đã thờ phụng ⟨את⟩ Baal ít, Yehu sẽ thờ phụng nó nhiều.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "và ngài tập hợp"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toàn thể dân sự"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và ngài nói"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "với họ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "đã thờ phụng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ít"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "sẽ thờ phụng nó"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "nhiều"
+    }
+  ],
+  "timestamp": "2026-08-19T03:58:38.080846152Z",
+  "model": "glm-5.3"
+}

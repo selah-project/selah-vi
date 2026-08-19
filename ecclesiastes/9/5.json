@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 9:5",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Vì người sống biết rằng họ sẽ chết, nhưng người chết không biết gì cả, và không còn cho họ phần thưởng nào, vì ký ức về họ đã bị quên lãng.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "người sống"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "biết"
+    },
+    {
+      "surface": "שימתו",
+      "gloss": "rằng họ sẽ chết"
+    },
+    {
+      "surface": "והמתים",
+      "gloss": "nhưng người chết"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "không"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "biết"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "gì cả"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "và không còn"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nữa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho họ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "phần thưởng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "đã bị quên lãng"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ký ức về họ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:58.207153010Z",
+  "model": "glm-5.3"
+}

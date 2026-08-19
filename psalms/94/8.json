@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 94,
+  "translation": "Hãy hiểu biết, hỡi kẻ đần độn trong dân, và hỡi kẻ dại dột, đến bao giờ các ngươi mới khôn ngoan?",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "hãy hiểu biết"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "hỡi kẻ đần độn"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "trong dân"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "và hỡi kẻ dại dột"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "đến bao giờ"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "các ngươi mới khôn ngoan"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:28.087900859Z",
+  "model": "glm-5.3"
+}

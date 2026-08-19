@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Nếu ngươi cầm áo choàng của người lân cận mình làm đồ cầm, đến khi mặt trời lặn ngươi phải trả lại nó cho hắn.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "cầm làm đồ thế"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "ngươi cầm"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "áo choàng"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "của người lân cận ngươi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến khi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "lặn"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "mặt trời"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "ngươi phải trả lại nó"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho hắn"
+    }
+  ],
+  "timestamp": "2026-08-19T02:33:02.230649004Z",
+  "model": "glm-5.3"
+}

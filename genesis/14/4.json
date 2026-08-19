@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Mười hai năm họ phục vụ ⟨את⟩ Kedorlaomer, còn năm thứ mười ba thì họ nổi loạn.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "hai"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "mười"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "năm"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "họ phục vụ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedorlaomer"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedorlaomer"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "và ba"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "mười"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "năm"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "họ nổi loạn"
+    }
+  ],
+  "timestamp": "2026-08-19T00:56:26.498297016Z",
+  "model": "glm-5.3"
+}

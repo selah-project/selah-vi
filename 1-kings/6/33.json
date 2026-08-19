@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 6:33",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và như thế, ông làm cho lối vào ⟨את⟩ đền thờ những khung cửa bằng gỗ ô-liu, tính theo phần tư ⟨את⟩ bức tường.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "và như thế"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "làm"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "cho lối vào"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "đền thờ"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "những khung cửa"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "gỗ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ô-liu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "phần tư bức tường"
+    },
+    {
+      "surface": "רבעית",
+      "gloss": "phần tư"
+    }
+  ],
+  "timestamp": "2026-08-19T03:48:41.543034169Z",
+  "model": "glm-5.3"
+}

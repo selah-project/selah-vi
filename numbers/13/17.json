@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 13:17",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Và Moshe sai ⟨את⟩ họ đi thám xem ⟨את⟩ đất Kenaan, và người nói với họ: Hãy đi lên phía này vào Neghev, và các ngươi hãy lên ⟨את⟩ núi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "và-sai-đi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ họ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לתור",
+      "gloss": "để-thám-xem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đất"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và-người-nói"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "với-họ"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "hãy-lên"
+    },
+    {
+      "surface": "זה",
+      "gloss": "phía-này"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "vào-Neghev"
+    },
+    {
+      "surface": "ועליתם",
+      "gloss": "và-các-ngươi-hãy-lên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "núi"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "núi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:56:49.549148883Z",
+  "model": "glm-5.3"
+}

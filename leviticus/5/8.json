@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Và ⟨he⟩ sẽ đem ⟨את⟩ chúng đến thầy tế lễ, và ⟨the priest⟩ sẽ dâng ⟨את⟩ con dùng làm lễ tội trước tiên, và vặn ⟨את⟩ đầu nó ngay sau gáy nhưng không lìa ra.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "và sẽ đem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chúng (đến)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "thầy tế lễ"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "và sẽ dâng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con dùng làm lễ tội"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "con mà"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "dùng làm lễ tội"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "trước tiên"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "và sẽ vặn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đầu nó"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "đầu của nó"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "ngay tại"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "gáy của nó"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nhưng không"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "lìa ra \/ tách rời"
+    }
+  ],
+  "timestamp": "2026-08-19T02:41:19.882638739Z",
+  "model": "glm-5.3"
+}

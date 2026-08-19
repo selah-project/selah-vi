@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 30:22",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Và Elohim nhớ đến ⟨את⟩ Rachel, và Elohim nghe nàng, và Người mở ⟨את⟩ dạ con nàng.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "và Người nhớ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rachel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "và Người nghe"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "đến nàng"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "và Người mở"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dạ con nàng"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "dạ con nàng"
+    }
+  ],
+  "timestamp": "2026-08-19T01:11:08.983165347Z",
+  "model": "glm-5.3"
+}

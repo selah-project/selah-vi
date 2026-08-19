@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Tay ngươi sẽ tìm ra mọi kẻ thù nghịch ngươi, tay phải ngươi sẽ tìm ra những kẻ ghét ngươi.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "sẽ tìm ra"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tay ngươi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "kẻ thù nghịch ngươi"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tay phải ngươi"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "sẽ tìm ra"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "những kẻ ghét ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:57.351765807Z",
+  "model": "glm-5.3"
+}

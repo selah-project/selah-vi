@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Elohim của tôi, tôi kêu ban ngày nhưng Ngài không đáp, và ban đêm nhưng không có sự yên lặng cho tôi.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của tôi"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "tôi kêu"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ban ngày"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nhưng không"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "Ngài đáp"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "và ban đêm"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "sự yên lặng"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:09.440372984Z",
+  "model": "glm-5.3"
+}

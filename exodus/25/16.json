@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Và ngươi sẽ đặt vào trong Hòm ⟨את⟩ Lời chứng mà Ta sẽ ban cho ngươi.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "và ngươi sẽ đặt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vào trong"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Hòm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lời chứng"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "Lời chứng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "Ta sẽ ban"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "cho ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:34:29.705969998Z",
+  "model": "glm-5.3"
+}

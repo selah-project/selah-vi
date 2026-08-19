@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 12:25",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Sự lo lắng trong lòng người nam làm nó sụp xuống, nhưng lời nói tốt làm nó vui mừng.",
+  "tokens": [
+    {
+      "surface": "דאגה",
+      "gloss": "sự lo lắng"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "trong lòng"
+    },
+    {
+      "surface": "איש",
+      "gloss": "của người nam"
+    },
+    {
+      "surface": "ישחנה",
+      "gloss": "làm nó sụp xuống"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "nhưng lời nói"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tốt"
+    },
+    {
+      "surface": "ישמחנה",
+      "gloss": "làm nó vui mừng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:16:19.773310741Z",
+  "model": "glm-5.3"
+}

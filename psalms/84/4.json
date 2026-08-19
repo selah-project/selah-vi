@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 84,
+  "translation": "Chim se sẻ cũng tìm được nhà, và chim nhạn một ổ cho mình, nơi nó đặt các con của nó — ⟨את⟩ các bàn thờ của Ngài, Yahweh vạn quân, Vua tôi và Elohim tôi.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "cũng"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "chim se sẻ"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "tìm được"
+    },
+    {
+      "surface": "בית",
+      "gloss": "một nhà"
+    },
+    {
+      "surface": "ודרור",
+      "gloss": "và chim nhạn"
+    },
+    {
+      "surface": "קן",
+      "gloss": "một ổ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "cho mình"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nơi"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "nó đặt"
+    },
+    {
+      "surface": "אפרחיה",
+      "gloss": "các con của nó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các bàn thờ của Ngài"
+    },
+    {
+      "surface": "מזבחותיך",
+      "gloss": "các bàn thờ của Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "vạn quân"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Vua tôi"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "và Elohim tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:58.943860842Z",
+  "model": "glm-5.3"
+}

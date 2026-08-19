@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 80,
+  "translation": "Ngươi đã nhổ một cây nho khỏi Mitsrayim, ngươi đã đuổi các dân tộc ra và trồng nó.",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "cây nho"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "khỏi Mitsrayim"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "ngươi đã nhổ chuyển"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "ngươi đã đuổi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "các dân tộc"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "và trồng nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:14.657335122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Còn mọi nô lệ, nô lệ của người, mua bằng bạc, ngươi hãy cắt bì ⟨את⟩ nó, bấy giờ nó được ăn ⟨trong⟩ đó.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "còn mọi"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "nô lệ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "của người"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "mua"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "bằng bạc"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "ngươi hãy cắt bì"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nó"
+    },
+    {
+      "surface": "אז",
+      "gloss": "bấy giờ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "nó được ăn"
+    },
+    {
+      "surface": "בו",
+      "gloss": "trong đó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:30:40.330224882Z",
+  "model": "glm-5.3"
+}

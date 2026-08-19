@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 7:3",
+  "book": "amos",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Yahweh đã nguôi lòng về điều này: Nó sẽ không xảy ra, Yahweh phán.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "đã nguôi lòng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "về"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "điều này"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sẽ xảy ra"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T04:48:16.351644528Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Bàn chân sẽ gi đạp nó — bàn chân của người nghèo khó, bước chân của kẻ khốn cùng.",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "sẽ gi đạp nó"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "bàn chân"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "bàn chân của"
+    },
+    {
+      "surface": "עני",
+      "gloss": "người nghèo khó"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "bước chân của"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "kẻ khốn cùng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:07:58.820408976Z",
+  "model": "glm-5.3"
+}

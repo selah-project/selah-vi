@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 147,
+  "translation": "Vĩ đại thay Adonai chúng ta, và dồi dào sức mạnh; sự thông sáng của Ngài không có số đếm.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "vĩ đại"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "Adonai chúng ta"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "và dồi dào"
+    },
+    {
+      "surface": "כח",
+      "gloss": "sức mạnh"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "sự thông sáng của Ngài"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "số đếm"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:40.797862996Z",
+  "model": "glm-5.3"
+}

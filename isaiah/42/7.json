@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 42,
+  "translation": "để mở mắt những kẻ mù, để dẫn tù nhân ra khỏi nơi giam, khỏi nhà tù những kẻ ngồi trong tối tăm:",
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "để mở"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "mắt"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "những kẻ mù"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "để dẫn ra"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "khỏi nơi giam"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "tù nhân"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "khỏi nhà"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "tù"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "những kẻ ngồi"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "trong tối tăm"
+    }
+  ],
+  "timestamp": "2026-08-19T04:12:01.745858683Z",
+  "model": "glm-5.3"
+}

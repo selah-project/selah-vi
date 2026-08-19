@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Tiếng của Yahweh ⟨là⟩ với sức mạnh; tiếng của Yahweh ⟨là⟩ với sự uy nghi.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "tiếng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "của Yahweh"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "với sức mạnh"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tiếng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "của Yahweh"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "với sự uy nghi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:09.366997264Z",
+  "model": "glm-5.3"
+}

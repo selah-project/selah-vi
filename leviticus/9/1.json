@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Xảy ra vào ngày thứ tám, Moshe gọi Aharon và các con trai ông, và các trưởng lão của Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Xảy ra"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "vào ngày"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "thứ tám"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "gọi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "và các con trai ông"
+    },
+    {
+      "surface": "ולזקני",
+      "gloss": "và các trưởng lão"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T02:42:15.869960082Z",
+  "model": "glm-5.3"
+}

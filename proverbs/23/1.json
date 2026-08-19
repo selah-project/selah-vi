@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Khi ngươi ngồi để ăn cùng ⟨את⟩ một bậc cai trị, hãy hiểu cho kỹ ⟨את⟩ điều gì ⟨is⟩ trước mặt ngươi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "khi"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ngươi ngồi"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "để ăn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "một bậc cai trị"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "một bậc cai trị"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hãy hiểu"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "cho kỹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "điều gì trước mặt ngươi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "điều gì"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "trước mặt ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:19:59.467649983Z",
+  "model": "glm-5.3"
+}

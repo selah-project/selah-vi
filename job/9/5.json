@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 9:5",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Đấng dời núi mà chúng không hay biết, Đấng lật nhào chúng trong cơn giận Ngài.",
+  "tokens": [
+    {
+      "surface": "המעתיק",
+      "gloss": "Đấng dời"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "núi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mà không"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "chúng hay biết"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Đấng mà"
+    },
+    {
+      "surface": "הפכם",
+      "gloss": "lật nhào chúng"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "trong cơn giận Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:21:39.590464335Z",
+  "model": "glm-5.3"
+}

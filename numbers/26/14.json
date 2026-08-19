@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 26:14",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Đây là các họ của người Shimeoni: hai mươi hai ngàn và hai trăm.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "này"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "các họ"
+    },
+    {
+      "surface": "השמעני",
+      "gloss": "người Shimeoni"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "hai"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "và hai mươi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ngàn"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "và hai trăm"
+    }
+  ],
+  "timestamp": "2026-08-19T03:00:50.358714137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 22:13",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Kẻ lười biếng nói rằng: «Có sư tử ở ngoài đường, giữa phố chợ ⟨is⟩ ta sẽ bị giết.»",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "kẻ lười biếng"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "sư tử"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ở ngoài"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "רחבות",
+      "gloss": "phố chợ"
+    },
+    {
+      "surface": "ארצח",
+      "gloss": "ta sẽ bị giết"
+    }
+  ],
+  "timestamp": "2026-08-19T05:18:13.062126677Z",
+  "model": "glm-5.3"
+}

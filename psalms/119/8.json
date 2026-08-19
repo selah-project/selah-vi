@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "⟨את⟩ các luật lệ Ngài tôi sẽ giữ; xin đừng lìa bỏ tôi hoàn toàn.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các luật lệ Ngài"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "các luật lệ Ngài"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "tôi sẽ giữ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "xin đừng"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "lìa bỏ tôi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hoàn toàn"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "đến cùng cực"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:27.498406469Z",
+  "model": "glm-5.3"
+}

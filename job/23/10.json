@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 23:10",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Vì ngài biết con đường ⟨của⟩ tôi; khi ngài thử luyện tôi, tôi sẽ bước ra như vàng.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ngài biết"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "con đường"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "với tôi"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "ngài thử luyện tôi"
+    },
+    {
+      "surface": "כזהב",
+      "gloss": "như vàng"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "tôi bước ra"
+    }
+  ],
+  "timestamp": "2026-08-19T05:24:09.994251337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 50:24",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 50,
+  "translation": "Và Yosef nói với anh em mình: tôi chết; và Elohim chắc chắn sẽ thăm viếng ⟨אתכם⟩, và sẽ đưa ⟨אתכם⟩ lên khỏi đất này, đến đất mà Ngài đã thề với Avraham, với Yitschak, và với Yaakov.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "anh em mình"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "מת",
+      "gloss": "chết"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "và Elohim"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "sẽ thăm viếng"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "chắc chắn thăm viếng"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "và sẽ đưa lên"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "này"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "đã thề"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "với Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "với Yitschak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "và với Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-19T02:27:39.395898086Z",
+  "model": "glm-5.3"
+}

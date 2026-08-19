@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 18:18",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Ngài cứu tôi khỏi kẻ thù mạnh mẽ ⟨của tôi⟩, và khỏi kẻ ghét tôi, vì chúng đã hùng mạnh hơn ⟨so với⟩ tôi.",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "Ngài cứu tôi"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "khỏi kẻ thù của tôi"
+    },
+    {
+      "surface": "עז",
+      "gloss": "mạnh mẽ"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "và khỏi kẻ ghét tôi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "chúng đã hùng mạnh"
+    },
+    {
+      "surface": "mמני",
+      "gloss": "hơn tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:35.685845159Z",
+  "model": "glm-5.3"
+}

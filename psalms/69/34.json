@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 69,
+  "translation": "Vì Yahweh nghe ⟨את⟩ những kẻ nghèo khổ, và ⟨את⟩ những tù nhân của Ngài, Ngài không khinh miệt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nghe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "những kẻ nghèo khổ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "những tù nhân của Ngài"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "những tù nhân của Ngài"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "khinh miệt"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:22.675497818Z",
+  "model": "glm-5.3"
+}

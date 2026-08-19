@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 19:2",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Và ông gửi ⟨את⟩ Elyaqim người quản ⟨sự⟩ nhà, và Shevna thư ký, và ⟨את⟩ các trưởng lão của các thầy tế lễ, mặc vải thô, đến với Yeshayahu nhà tiên tri con của Amotz.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "và gửi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyaqim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyaqim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "người"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ngôi nhà"
+    },
+    {
+      "surface": "ושבנא",
+      "gloss": "và Shevna"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "thư ký"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "các trưởng lão của các thầy tế lễ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "các trưởng lão"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "các thầy tế lễ"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "mặc che mình"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "vải thô"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nhà tiên tri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amotz"
+    }
+  ],
+  "timestamp": "2026-08-19T04:01:24.057061711Z",
+  "model": "glm-5.3"
+}

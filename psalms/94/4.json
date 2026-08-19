@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 94,
+  "translation": "Chúng trào ra ⟨lời⟩, chúng nói sự trơ trẽn, tất cả những kẻ làm điều gian ác tự cao mình lên.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "chúng trào ra"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "chúng nói"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "sự trơ trẽn"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "tự cao mình lên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "những kẻ làm"
+    },
+    {
+      "surface": "און",
+      "gloss": "điều gian ác"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:33.368786641Z",
+  "model": "glm-5.3"
+}

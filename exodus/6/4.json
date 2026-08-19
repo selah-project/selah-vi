@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 6:4",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và Ta cũng đã lập ⟨את⟩ giao ước của Ta với ⟨את⟩ họ, để ban cho họ ⟨את⟩ đất Kenaan, ⟨את⟩ đất tạm trú của họ, nơi mà họ đã sống như khách.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "và cũng"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "Ta đã lập"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "giao ước của Ta"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "giao ước của Ta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "họ"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "để ban"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho họ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đất Kenaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đất tạm trú của họ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "מגריהם",
+      "gloss": "tạm trú của họ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nơi mà"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "họ đã sống như khách"
+    },
+    {
+      "surface": "בה",
+      "gloss": "trong đó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:29:07.419492021Z",
+  "model": "glm-5.3"
+}

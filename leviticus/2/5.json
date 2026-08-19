@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và nếu lễ vật của ngươi là một mikhnah dâng trên chảo nướng, thì nó là bột mịn trộn với dầu, một bánh không men.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Và nếu"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "lễ minh-cha"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "chảo nướng"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "lễ vật của ngươi"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "bột mịn"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "trộn"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "với dầu"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "bánh không men"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "nó sẽ là"
+    }
+  ],
+  "timestamp": "2026-08-19T02:39:41.077822165Z",
+  "model": "glm-5.3"
+}

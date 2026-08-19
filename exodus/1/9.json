@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Người nói với dân mình: Kìa, dân của con cái Yisrael đông và hùng mạnh hơn chúng ta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "người nói"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "dân mình"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kìa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "רב",
+      "gloss": "đông"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "và hùng mạnh"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "hơn chúng ta"
+    }
+  ],
+  "timestamp": "2026-08-19T02:27:22.874866795Z",
+  "model": "glm-5.3"
+}

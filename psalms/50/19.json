@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 50:19",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 50,
+  "translation": "Miệng ngươi, ngươi buông ra cho điều ác, và lưỡi ngươi kết dối sự dối trá.",
+  "tokens": [
+    {
+      "surface": "פיך",
+      "gloss": "miệng ngươi"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "ngươi đã buông ra"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "cho điều ác"
+    },
+    {
+      "surface": "ולשונך",
+      "gloss": "và lưỡi ngươi"
+    },
+    {
+      "surface": "תצמיד",
+      "gloss": "kết dối"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "sự dối trá"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:37.059944574Z",
+  "model": "glm-5.3"
+}

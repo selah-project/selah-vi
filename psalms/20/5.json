@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Người sẽ ban cho ngươi theo lòng ngươi, và mọi mưu kế của ngươi người sẽ làm trọn.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "sẽ ban"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngươi"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "theo lòng ngươi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "mưu kế của ngươi"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "sẽ làm trọn"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:20.711856362Z",
+  "model": "glm-5.3"
+}

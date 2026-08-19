@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Lòng kẻ khôn ⟨nghiêng⟩ về bên phải mình, còn lòng kẻ dại ⟨nghiêng⟩ về bên trái mình.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "lòng"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "kẻ khôn"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "về bên phải mình"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "còn lòng"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "kẻ dại"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "về bên trái mình"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:39.526180446Z",
+  "model": "glm-5.3"
+}

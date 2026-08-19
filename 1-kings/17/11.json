@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 17:11",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Bà đang đi để lấy, thì ông kêu cùng bà và nói: Xin bà lấy cho tôi một miếng bánh trong tay bà.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "và bà đi"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "để lấy"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "và ông kêu"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "cùng bà"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "hãy lấy"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    },
+    {
+      "surface": "פת",
+      "gloss": "một miếng"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bánh"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "trong tay bà"
+    }
+  ],
+  "timestamp": "2026-08-19T03:52:31.553602804Z",
+  "model": "glm-5.3"
+}

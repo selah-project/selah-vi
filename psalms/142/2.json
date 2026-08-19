@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 142,
+  "translation": "Tiếng tôi hướng về Yahweh, tôi kêu cầu; tiếng tôi hướng về Yahweh, tôi khẩn nguyện.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "tiếng tôi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hướng về"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "tôi kêu cầu"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "tiếng tôi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hướng về"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "tôi khẩn nguyện"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:32.924904319Z",
+  "model": "glm-5.3"
+}

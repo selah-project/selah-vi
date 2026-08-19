@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 49,
+  "translation": "Hắn sẽ về ⟨với⟩ thế hệ các tổ phụ mình; ⟨đến⟩ đời đời chúng sẽ không thấy ánh sáng.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "sẽ đi đến"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨với⟩"
+    },
+    {
+      "surface": "דור",
+      "gloss": "thế hệ"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "các tổ phụ mình"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨đến⟩"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "đời đời"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "sẽ thấy"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ánh sáng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:51.145873491Z",
+  "model": "glm-5.3"
+}

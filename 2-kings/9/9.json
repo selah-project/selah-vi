@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Ta sẽ làm ⟨את⟩ nhà Achav như nhà Yarov'am con của Nevat, và như nhà Ba'sha con của Achiyah.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Ta sẽ làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhà Achav"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "như nhà"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarov'am"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con của"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "và như nhà"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Ba'sha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con của"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Achiyah"
+    }
+  ],
+  "timestamp": "2026-08-19T03:57:52.502906839Z",
+  "model": "glm-5.3"
+}

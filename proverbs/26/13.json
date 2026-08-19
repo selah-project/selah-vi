@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 26:13",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Kẻ lười biếng nói rằng: Có sư tử trên đường, có sư tử giữa các quảng trường.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "nói rằng"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "kẻ lười biếng"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "sư tử"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "trên đường"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "sư tử"
+    },
+    {
+      "surface": "בין",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "הרחבות",
+      "gloss": "các quảng trường"
+    }
+  ],
+  "timestamp": "2026-08-19T05:18:42.472361456Z",
+  "model": "glm-5.3"
+}

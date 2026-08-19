@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 145,
+  "translation": "Yahweh ⟨vĩ đại⟩ và đáng được ngợi khen vô cùng, và sự vĩ đại của Ngài ⟨không có⟩ sự dò xét.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "vĩ đại"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "và được ngợi khen"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "vô cùng"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "và đối với sự vĩ đại của Ngài"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨không có⟩"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "sự dò xét"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:33.485810044Z",
+  "model": "glm-5.3"
+}

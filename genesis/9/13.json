@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 9:13",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Cái cung của Ta — Ta đã đặt ⟨את⟩ nó vào đám mây, và nó sẽ thành dấu hiệu của giao ước giữa Ta và đất.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cái cung của Ta"
+    },
+    {
+      "surface": "קשתי",
+      "gloss": "cái cung của Ta"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Ta đã đặt"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "vào đám mây"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "và nó sẽ thành"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "dấu hiệu"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "của giao ước"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "giữa Ta"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "và giữa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T00:51:39.730040411Z",
+  "model": "glm-5.3"
+}

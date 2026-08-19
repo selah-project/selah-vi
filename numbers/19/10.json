@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 19:10",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Và người thu ⟨את⟩ tro của con bò cái sẽ giặt ⟨את⟩ áo mình, và ô uế cho đến tối; và nó sẽ là cho con trai Yitsrael và cho khách cư ngụ giữa họ, làm luật định đời đời.",
+  "tokens": [
+    {
+      "surface": "וכבס",
+      "gloss": "và sẽ giặt"
+    },
+    {
+      "surface": "האסף",
+      "gloss": "người thu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tro của con bò cái"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "tro"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "của con bò cái"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "áo mình"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "áo mình"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "và ô uế"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "tối"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "và nó sẽ là"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "cho con trai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yitsrael"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "và cho khách"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "đang cư ngụ"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "giữa họ"
+    },
+    {
+      "surface": "לחקת",
+      "gloss": "làm luật định"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "đời đời"
+    }
+  ],
+  "timestamp": "2026-08-19T02:59:19.741054033Z",
+  "model": "glm-5.3"
+}

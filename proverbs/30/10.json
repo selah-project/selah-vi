@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Đừng gièm pha đầy tớ với chủ nó, kẻo ông ta nguyền rủa ngươi và ngươi mắc lỗi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "gièm pha"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "đầy tớ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "chủ nó"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kẻo"
+    },
+    {
+      "surface": "יקללך",
+      "gloss": "ông ta nguyền rủa ngươi"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "và ngươi mắc lỗi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:19:23.427746037Z",
+  "model": "glm-5.3"
+}

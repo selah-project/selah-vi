@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 13:24",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Và ChazaEl vua Aram chết, và Ben-Hadad con trai ông làm vua thay cho ông.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "và chết"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "ChazaEl"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "và làm vua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "con trai ông"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "thay cho ông"
+    }
+  ],
+  "timestamp": "2026-08-19T03:59:38.811561759Z",
+  "model": "glm-5.3"
+}

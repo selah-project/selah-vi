@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 132:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 132,
+  "translation": "Chúng ta hãy vào những nơi ngụ của Ngài, chúng ta hãy quỳ lạy tại bệ chân của Ngài.",
+  "tokens": [
+    {
+      "surface": "נבואה",
+      "gloss": "chúng ta hãy vào"
+    },
+    {
+      "surface": "למשכנותיו",
+      "gloss": "những nơi ngụ của Ngài"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "chúng ta hãy quỳ lạy"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "tại bệ chân"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:16.625650726Z",
+  "model": "glm-5.3"
+}

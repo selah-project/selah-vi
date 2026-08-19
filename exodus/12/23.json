@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 12:23",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Yahweh sẽ đi ngang qua để đánh ⟨את⟩ Mitsrayim, và khi Ngài thấy ⟨את⟩ máu trên cửa trên và trên hai cửa bên, thì Yahweh sẽ vượt qua ô cửa ấy, và sẽ không để kẻ hủy diệt vào nhà các ngươi để đánh.",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "và sẽ đi ngang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לנגף",
+      "gloss": "để đánh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "và sẽ thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "máu"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "máu"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "cửa trên"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "và trên"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "hai"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "cửa bên"
+    },
+    {
+      "surface": "ופסח",
+      "gloss": "và sẽ vượt qua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ô cửa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "sẽ để"
+    },
+    {
+      "surface": "המשחית",
+      "gloss": "kẻ hủy diệt"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "vào"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "nhà các ngươi"
+    },
+    {
+      "surface": "לנגף",
+      "gloss": "để đánh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:30:51.715281097Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 18:21",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Yahweh đã ban ơn cho tôi theo sự công chính của tôi; theo sự tinh sạch của tay tôi, Ngài ⟨đã⟩ trả lại cho tôi.",
+  "tokens": [
+    {
+      "surface": "יגמלני",
+      "gloss": "đã ban ơn cho tôi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "theo sự công chính của tôi"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "theo sự tinh sạch"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "của tay tôi"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "trả lại"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:33.547407433Z",
+  "model": "glm-5.3"
+}

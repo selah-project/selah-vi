@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 17:11",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Và có việc xảy ra: khi Moshe giơ tay lên thì Yisrael thắng thế, và khi ⟨ anh ⟩ ta hạ tay xuống thì Amalek thắng thế.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "và có việc xảy ra"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "khi"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "giơ lên"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tay của ⟨anh⟩ ta"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "thì thắng thế"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "và khi"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "hạ xuống \/ để nghỉ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tay của ⟨anh⟩ ta"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "thì thắng thế"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    }
+  ],
+  "timestamp": "2026-08-19T02:31:59.661744826Z",
+  "model": "glm-5.3"
+}

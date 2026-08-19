@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 40:7",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Cỏ héo, hoa tàn, vì hơi-thở của Yahweh thổi trên nó; quả thật, dân ⟨là⟩ cỏ.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "héo"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "cỏ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "tàn"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "hoa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "hơi-thở"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "thổi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "trên nó"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "quả thật"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "cỏ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    }
+  ],
+  "timestamp": "2026-08-19T04:11:16.914831865Z",
+  "model": "glm-5.3"
+}

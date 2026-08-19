@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Và họ treo ⟨את⟩ Haman trên cây gỗ mà ông đã chuẩn bị cho Mordekhai; rồi cơn thịnh nộ của vua đã lắng xuống.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "và họ treo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "cây gỗ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "đã chuẩn bị"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "cho Mordekhai"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "và cơn thịnh nộ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "của vua"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "đã lắng xuống"
+    }
+  ],
+  "timestamp": "2026-08-19T05:35:29.348024286Z",
+  "model": "glm-5.3"
+}

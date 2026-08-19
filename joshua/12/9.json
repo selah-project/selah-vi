@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 12:9",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Vua của Yericho, một; vua của HaAi, nơi ở bên cạnh Beit-El, một;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yericho"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "một"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "העי",
+      "gloss": "HaAi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nơi"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "ở bên cạnh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "một"
+    }
+  ],
+  "timestamp": "2026-08-19T03:17:57.685603168Z",
+  "model": "glm-5.3"
+}

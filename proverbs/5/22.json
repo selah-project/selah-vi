@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 5:22",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Các sự trái nghịch của mình sẽ bắt lấy ⟨את⟩ kẻ ác, và trong các dây thòng của tội lỗi mình nó bị níu giữ.",
+  "tokens": [
+    {
+      "surface": "עוונותיו",
+      "gloss": "các sự trái nghịch của mình"
+    },
+    {
+      "surface": "ילכדנו",
+      "gloss": "sẽ bắt lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kẻ ác"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "ובחבלי",
+      "gloss": "và trong các dây thòng của"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "tội lỗi mình"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "bị níu giữ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:14:11.139191911Z",
+  "model": "glm-5.3"
+}

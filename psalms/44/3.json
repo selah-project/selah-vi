@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Chính tay Ngài đã đuổi các dân tộc đi và trồng ⟨họ⟩; Ngài đã nghiền nát các nước và tung chúng đi.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "chính Ngài"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tay Ngài"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "các dân tộc"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "đã đuổi đi"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "và trồng ⟨họ⟩"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "Ngài đã nghiền nát"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "các nước"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "và tung chúng đi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:13.370064515Z",
+  "model": "glm-5.3"
+}

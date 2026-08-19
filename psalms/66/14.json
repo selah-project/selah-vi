@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 66,
+  "translation": "mà môi tôi đã mở ra, và miệng tôi đã nói trong cơn khốn khổ của tôi.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "đã mở ra"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "môi tôi"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "và đã nói"
+    },
+    {
+      "surface": "פי",
+      "gloss": "miệng tôi"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "trong cơn khốn khổ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "của tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:40.126565165Z",
+  "model": "glm-5.3"
+}

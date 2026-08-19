@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 118,
+  "translation": "Tốt hơn ⟨nên⟩ nương náu trong Yahweh hơn là tin cậy nơi con người.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "tốt hơn"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "nương náu"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "trong Yahweh"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "hơn là tin cậy"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "nơi con người"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:12.031541359Z",
+  "model": "glm-5.3"
+}

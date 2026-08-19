@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 139,
+  "translation": "Nếu Ngài giết, hỡi Elohim, kẻ ác — thì hỡi những kẻ đổ máu, hãy lánh xa tôi!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "Ngài giết"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "hỡi Elohim"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "thì hỡi những kẻ"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "đổ máu"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "hãy lánh xa"
+    },
+    {
+      "surface": "מני",
+      "gloss": "khỏi tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:19:20.082685042Z",
+  "model": "glm-5.3"
+}

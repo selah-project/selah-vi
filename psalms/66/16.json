@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 66,
+  "translation": "Hãy đến, hãy nghe, và tôi sẽ kể lại, mọi người nào kính sợ Elohim, điều Ngài đã làm cho linh hồn tôi.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "hãy đến"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hãy nghe"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "và tôi sẽ kể lại"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "người kính sợ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "điều mà"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Ngài đã làm"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "cho linh hồn tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:40.126925588Z",
+  "model": "glm-5.3"
+}

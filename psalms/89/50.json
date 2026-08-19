@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 89,
+  "translation": "Đâu rồi, Adonai, những sự nhân từ xưa trước của Ngài, mà Ngài đã thề với David trong sự trung tín của Ngài?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Đâu rồi"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "những sự nhân từ của Ngài"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "xưa trước"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "Ngài đã thề"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "với David"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "trong sự trung tín của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:14.494743543Z",
+  "model": "glm-5.3"
+}

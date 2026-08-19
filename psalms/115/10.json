@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 115,
+  "translation": "Hỡi nhà Aharon, hãy nương náu nơi Yahweh; Ngài ⟨là⟩ sự trợ giúp và khiên che của họ.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "hãy nương náu tin cậy"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "nơi Yahweh"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "sự trợ giúp của họ"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "và khiên che của họ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ngài là"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:36.811436891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Và xảy ra, khi vương quốc ⟨đã⟩ vững mạnh trên mình ⟨ông⟩, thì ⟨ông⟩ giết ⟨את⟩ các tôi tớ của mình, những kẻ đã đánh ⟨את⟩ vua cha của ⟨ông⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "và xảy ra"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "khi"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "vững mạnh"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "vương quốc"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "trên mình ông"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "thì ông giết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các tôi tớ của mình"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "các tôi tớ của mình"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "những kẻ đã đánh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vua"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "cha của ông"
+    }
+  ],
+  "timestamp": "2026-08-19T06:00:09.796020145Z",
+  "model": "glm-5.3"
+}

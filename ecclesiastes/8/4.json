@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Nơi lời của vua ⟨là⟩ quyền thống trị, và ai sẽ nói với ⟨vua⟩: ngươi làm gì?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "nơi mà"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lời"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "quyền thống trị"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "và ai"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "לו",
+      "gloss": "với ông"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ngươi làm"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:49.335869976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 14:4",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Vì đất nứt nẻ, vì không có mưa trong đất, những người nông dân xấu hổ, phủ đầu mình.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "vì"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "đất"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "nứt nẻ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "היה",
+      "gloss": "có"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "mưa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trong đất"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "xấu hổ"
+    },
+    {
+      "surface": "אכרים",
+      "gloss": "những người nông dân"
+    },
+    {
+      "surface": "חפו",
+      "gloss": "phủ"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "đầu mình"
+    }
+  ],
+  "timestamp": "2026-08-19T06:13:23.512385026Z",
+  "model": "glm-5.3"
+}

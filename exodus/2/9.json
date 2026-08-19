@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 2:9",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và con gái Pharaoh nói với nàng: Hãy mang ⟨את⟩ đứa trẻ này đi, và hãy cho nó bú thay ta, rồi ta sẽ trả ⟨את⟩ công bạc của nàng. Và người đàn bà mang đứa trẻ về và cho nó bú.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "לה",
+      "gloss": "với nàng"
+    },
+    {
+      "surface": "בת",
+      "gloss": "con gái"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaoh"
+    },
+    {
+      "surface": "היליכי",
+      "gloss": "hãy mang đi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đứa trẻ này"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "đứa trẻ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "והינקהו",
+      "gloss": "và hãy cho nó bú"
+    },
+    {
+      "surface": "לי",
+      "gloss": "thay ta"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "và ta"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "sẽ trả"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "công bạc của nàng"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "công bạc của nàng"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "và mang"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "người đàn bà"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "đứa trẻ"
+    },
+    {
+      "surface": "ותניקהו",
+      "gloss": "và cho nó bú"
+    }
+  ],
+  "timestamp": "2026-08-19T02:27:08.264888448Z",
+  "model": "glm-5.3"
+}

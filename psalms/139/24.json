@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 139,
+  "translation": "Và hãy xem liệu có con đường gây đau đớn nào trong tôi, và hãy dẫn tôi trong con đường đời đời.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "và hãy xem"
+    },
+    {
+      "surface": "אם",
+      "gloss": "liệu có"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "con đường"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "gây đau đớn"
+    },
+    {
+      "surface": "בי",
+      "gloss": "trong tôi"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "và hãy dẫn tôi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "trong con đường"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "đời đời"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:43.794458012Z",
+  "model": "glm-5.3"
+}

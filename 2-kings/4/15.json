@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và ông nói: Hãy gọi nàng. Và người gọi nàng, và nàng đứng tại cửa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và ông nói"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "hãy gọi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "nàng"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "và người gọi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "nàng"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "và nàng đứng"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "tại cửa"
+    }
+  ],
+  "timestamp": "2026-08-19T03:56:43.052028600Z",
+  "model": "glm-5.3"
+}

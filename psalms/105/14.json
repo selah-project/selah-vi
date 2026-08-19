@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 105,
+  "translation": "Ngài không để cho bất kỳ người nào áp bức họ, và đã quở trách các vua vì họ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "để cho"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "người"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "áp bức họ"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "và đã quở trách"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "vì họ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "các vua"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:40.784352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 12:5",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Hãy đàn ca Yahweh, vì Ngài đã làm việc huy hoàng; việc này ⟨được⟩ biết đến trong khắp ⟨cả⟩ đất.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "hãy đàn ca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "sự huy hoàng"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "מידעת",
+      "gloss": "⟨được⟩ biết"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "việc này"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "trong khắp"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨cả⟩ đất"
+    }
+  ],
+  "timestamp": "2026-08-19T04:05:27.642755511Z",
+  "model": "glm-5.3"
+}

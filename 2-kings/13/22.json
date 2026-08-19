@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Và ChazaEl vua Aram đã hà hiếp ⟨את⟩ Yisrael suốt các ngày của Yehoachaz.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "và ChazaEl"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "hà hiếp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "suốt tất cả"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "các ngày"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoachaz"
+    }
+  ],
+  "timestamp": "2026-08-19T03:59:38.811266210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và ⟨את⟩ các cái kiệu ngài, ⟨הו⟩ làm; và ⟨את⟩ các cái chậu, ⟨הו⟩ làm trên các kiệu ngài.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các cái kiệu ngài"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "các cái kiệu ngài"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "làm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các cái chậu"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "các cái chậu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "làm"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "các cái kiệu ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:54:32.065878412Z",
+  "model": "glm-5.3"
+}

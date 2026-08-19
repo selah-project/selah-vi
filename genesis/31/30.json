@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 31:30",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Và bây giờ, đi ngươi đã nhất định đi, vì nhà cha ngươi ngươi đã khát khao mãnh liệt — tại sao ngươi đã trộm ⟨את⟩ elohim của ta?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "và bây giờ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "đi"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "ngươi đã đi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "khát khao"
+    },
+    {
+      "surface": "נכספתה",
+      "gloss": "ngươi đã khát khao"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "về nhà"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "cha ngươi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "tại sao"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "ngươi đã trộm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elohim của ta"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "elohim của ta"
+    }
+  ],
+  "timestamp": "2026-08-19T01:18:36.717570111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 16:33",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Người sẽ đền tội cho ⟨את⟩ đền thánh cực thánh, và ⟨את⟩ trại hội mạc, và ⟨את⟩ bàn thờ người sẽ đền tội; và cho các thầy tế lễ, và cho toàn thể dân sự của hội chúng người sẽ đền tội.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "và người sẽ đền tội"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đền thánh cực thánh"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "đền thánh"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "cực thánh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "trại hội mạc"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "trại"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "hội mạc"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "bàn thờ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "người sẽ đền tội"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "và cho"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "các thầy tế lễ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "và cho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "của hội chúng"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "người sẽ đền tội"
+    }
+  ],
+  "timestamp": "2026-08-19T02:44:39.983731006Z",
+  "model": "glm-5.3"
+}

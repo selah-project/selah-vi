@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 68,
+  "translation": "Adonai đã phán: «Từ Bashan Ta sẽ đưa về, Ta sẽ đưa về từ những vực sâu của biển.»",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "đã phán"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "từ Bashan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "Ta sẽ đưa về"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "Ta sẽ đưa về"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "từ những vực sâu"
+    },
+    {
+      "surface": "ים",
+      "gloss": "biển"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:03.918858534Z",
+  "model": "glm-5.3"
+}

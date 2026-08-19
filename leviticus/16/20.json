@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Và khi ông làm xong việc chuộc tội cho ⟨את⟩ nơi thánh, ⟨את⟩ lều hội gặp, và ⟨את⟩ bàn thờ, ông sẽ dẫn đến ⟨את⟩ con dê đực còn sống.",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "và khi làm xong"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "việc chuộc tội"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nơi thánh"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "nơi thánh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lều hội gặp"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "lều"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "hội gặp"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bàn thờ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "và ông sẽ dẫn đến"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con dê đực còn sống"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "con dê đực"
+    },
+    {
+      "surface": "החי",
+      "gloss": "còn sống"
+    }
+  ],
+  "timestamp": "2026-08-19T02:45:14.943468594Z",
+  "model": "glm-5.3"
+}

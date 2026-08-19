@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 7:2",
+  "book": "micah",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Kẻ nhân đức đã biến mất khỏi đất, người ngay thẳng giữa loài người ⟨thì⟩ không còn; tất cả chúng rình hông huyết; người nọ săn bắt ⟨את⟩ anh em mình bằng lưới.",
+  "tokens": [
+    {
+      "surface": "אבד",
+      "gloss": "đã biến mất"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "kẻ nhân đức"
+    },
+    {
+      "surface": "מן",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "và người ngay thẳng"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "giữa loài người"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không còn"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "tất cả chúng"
+    },
+    {
+      "surface": "לדמים",
+      "gloss": "hông huyết"
+    },
+    {
+      "surface": "יארבו",
+      "gloss": "rình"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người nọ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anh em mình"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "anh em mình"
+    },
+    {
+      "surface": "יצודו",
+      "gloss": "săn bắt"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "bằng lưới"
+    }
+  ],
+  "timestamp": "2026-08-19T04:50:28.821123323Z",
+  "model": "glm-5.3"
+}

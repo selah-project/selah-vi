@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Và nếu một người bán ⟨את⟩ con gái mình làm nữ tỳ, nàng không được ra đi như cách ra đi của các đầy tớ nam.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Và nếu"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "một người bán"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con gái mình"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "con gái mình"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "làm nữ tỳ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "nàng được ra đi"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "như cách ra đi"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "của các đầy tớ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:33:41.178236817Z",
+  "model": "glm-5.3"
+}

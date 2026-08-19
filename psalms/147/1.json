@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 147,
+  "translation": "Hãy ngợi khen Yah, vì tốt thay khi đàn hát thờ phượng Elohim chúng ta, vì ⟨điều đó⟩ diệu dịu, đẹp xứng — sự ngợi khen.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "hãy ngợi khen"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tốt"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "đàn hát"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim chúng ta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "diệu dịu"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "đẹp xứng"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "sự ngợi khen"
+    }
+  ],
+  "timestamp": "2026-08-19T06:19:15.363569916Z",
+  "model": "glm-5.3"
+}

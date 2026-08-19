@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 30:3",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "David cùng những người của ông đến thành, và kìa, ⟨nó⟩ bị thiêu trong lửa; còn các vợ của họ, các con trai và các con gái của họ đều bị bắt đi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "đến"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "cùng những người của ông"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "thành"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "và kìa"
+    },
+    {
+      "surface": "שרופה",
+      "gloss": "bị thiêu"
+    },
+    {
+      "surface": "באש",
+      "gloss": "trong lửa"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "còn các vợ của họ"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "và các con trai của họ"
+    },
+    {
+      "surface": "ובנתיהם",
+      "gloss": "và các con gái của họ"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "đều bị bắt đi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:38:17.634928096Z",
+  "model": "glm-5.3"
+}

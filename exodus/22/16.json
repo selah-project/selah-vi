@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Nếu cha nàng nhất quyết từ chối không отд nàng cho hắn, thì hắn phải cân bạc theo tiền cưới của các trinh nữ.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "từ chối"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "nhất quyết"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "cha của nàng"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "để отд nàng"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho hắn"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "bạc"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "phải cân"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "theo tiền cưới"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "của các trinh nữ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:33:46.629763431Z",
+  "model": "glm-5.3"
+}

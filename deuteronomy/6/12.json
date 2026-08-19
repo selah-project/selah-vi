@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Hãy canh giữ mình, kẻo ngươi quên ⟨את⟩ Yahweh, ⟨Đấng⟩ đã đưa ngươi ra khỏi đất Mitzrayim, khỏi nhà nô lệ.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "hãy canh giữ mình"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mình"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kẻo"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ngươi quên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨Đấng⟩"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "đã đưa ngươi ra"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "khỏi đất"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "khỏi nhà"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "nô lệ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:05:55.019189806Z",
+  "model": "glm-5.3"
+}

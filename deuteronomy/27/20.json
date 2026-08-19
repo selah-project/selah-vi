@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Nguyền rủa kẻ nằm với vợ của cha mình, vì người ấy đã lột lộ vạt áo của cha mình; và toàn thể dân sự sẽ nói: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "nguyền rủa"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "nằm với"
+    },
+    {
+      "surface": "עם",
+      "gloss": "với"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vợ của"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "cha mình"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "đã lột lộ"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "vạt áo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "cha mình"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "và sẽ nói"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-19T06:06:45.309980299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Tôi đã thấy những tôi tớ cưỡi trên ngựa, còn các quan trưởng đi bộ như tôi tớ trên đất.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "tôi đã thấy"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "những tôi tớ"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ngựa"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "còn các quan trưởng"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "đi"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "như tôi tớ"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:35.082854856Z",
+  "model": "glm-5.3"
+}

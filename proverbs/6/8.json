@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 6:8",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "nó sắm sẵn lương thực của nó trong mùa hè, nó thu gom thức ăn của nó trong mùa gặt.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "nó sắm sẵn"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "trong mùa hè"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "lương thực của nó"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "nó thu gom"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "trong mùa gặt"
+    },
+    {
+      "surface": "מאכלה",
+      "gloss": "thức ăn của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:14:46.067079927Z",
+  "model": "glm-5.3"
+}

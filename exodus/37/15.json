@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 37:15",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Và người làm ⟨את⟩ các đòn khiêng bằng gỗ keo, và quép ⟨את⟩ chúng bằng vàng, để khiêng ⟨את⟩ cái bàn.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "và làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các đòn khiêng"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "các đòn khiêng"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "gỗ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "keo"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "và quép"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ chúng"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "vàng"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "để khiêng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cái bàn"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "cái bàn"
+    }
+  ],
+  "timestamp": "2026-08-19T02:38:44.592168701Z",
+  "model": "glm-5.3"
+}

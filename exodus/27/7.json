@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 27:7",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Và ⟨את⟩ các cán của nó sẽ được đưa vào các vòng, và các cán sẽ ở trên hai bên hông bàn thờ, khi khiêng ⟨את⟩ nó.",
+  "tokens": [
+    {
+      "surface": "והובא",
+      "gloss": "và ... được đưa vào"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các cán của nó"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "các cán của nó"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "vào các vòng"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "và chúng sẽ là"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "các cán"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "hai"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "bên hông"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "của bàn thờ"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "khi khiêng"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nó (bàn thờ)"
+    }
+  ],
+  "timestamp": "2026-08-19T02:34:28.855824435Z",
+  "model": "glm-5.3"
+}

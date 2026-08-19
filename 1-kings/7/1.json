@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Và ⟨את⟩ nhà của mình Shelomoh đã xây mười ba năm, và ⟨han⟩ đã hoàn tất ⟨את⟩ toàn bộ nhà của mình.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nhà của mình"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nhà của mình"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "đã xây"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ba"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "mười"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "năm"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "và đã hoàn tất"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toàn bộ nhà của mình"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn bộ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nhà của mình"
+    }
+  ],
+  "timestamp": "2026-08-19T03:49:03.893604026Z",
+  "model": "glm-5.3"
+}

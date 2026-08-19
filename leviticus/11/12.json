@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Mọi vật nào không có vây và vảy trong nước, nó ⟨là⟩ điều gớm ghiếc cho các ngươi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nào"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho nó"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "vây"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "và vảy"
+    },
+    {
+      "surface": "במים",
+      "gloss": "trong nước"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "điều gớm ghiếc"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:04:13.231271918Z",
+  "model": "glm-5.3"
+}

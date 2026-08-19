@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 104,
+  "translation": "Nguyện kẻ có tội bị tận diệt khỏi đất, và kẻ ác không còn nữa. Hỡi linh hồn tôi, hãy chúc phúc cho ⟨את⟩ Yahweh. Hallelujah!",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "nguyện bị tận diệt"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "kẻ có tội"
+    },
+    {
+      "surface": "מן",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "và kẻ ác"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "còn nữa"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "không (là gì) nữa"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "hãy chúc phúc"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "hỡi linh hồn tôi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "hãy ca ngợi"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:12.452516200Z",
+  "model": "glm-5.3"
+}

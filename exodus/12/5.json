@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Chiên ⟨phải⟩ toàn vẹn, con đực, một tuổi, sẽ có cho các ngươi; từ các con chiên hoặc từ các con dê các ngươi lấy nó.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "chiên"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "toàn vẹn"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "con đực"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con (của)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "một năm"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sẽ có"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho các ngươi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "các con chiên"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "và từ"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "các con dê"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "các ngươi lấy"
+    }
+  ],
+  "timestamp": "2026-08-19T02:30:20.886217065Z",
+  "model": "glm-5.3"
+}

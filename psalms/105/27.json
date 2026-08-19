@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 105,
+  "translation": "Họ đã đặt giữa họ ⟨את⟩ những lời của các dấu lạ của Ngài, và các điềm kỳ diệu, trong đất Cham.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "họ đã đặt"
+    },
+    {
+      "surface": "בם",
+      "gloss": "giữa họ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "những lời của các dấu lạ của Ngài"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "những lời"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "các dấu lạ của Ngài"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "và các điềm kỳ diệu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trong đất"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:46.255255854Z",
+  "model": "glm-5.3"
+}

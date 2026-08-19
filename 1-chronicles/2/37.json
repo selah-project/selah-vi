@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Va Zabad sinh ra ⟨את⟩ Ephlal, va Ephlal sinh ra ⟨את⟩ Oved.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "va Zabad"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "sinh ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ephlal"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "Ephlal"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "va Ephlal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "sinh ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Oved"
+    }
+  ],
+  "timestamp": "2026-08-19T05:47:05.307431953Z",
+  "model": "glm-5.3"
+}

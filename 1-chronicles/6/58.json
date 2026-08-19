@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "1-chronicles 6:58",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Cùng ⟨את⟩ Ramoth và ⟨את⟩ đất đồng của nó, ⟨את⟩ Anem và ⟨את⟩ đất đồng của nó.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "cùng ⟨את⟩",
+      "marks": "Ramoth"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Ramoth"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "đất đồng của nó"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "đất đồng của nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Anem"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "Anem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "đất đồng của nó"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "đất đồng của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:48:02.420435473Z",
+  "model": "glm-5.3"
+}

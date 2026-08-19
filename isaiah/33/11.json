@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 33:11",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 33,
+  "translation": "Các ngươi thụ thai rơm rạ, các ngươi sinh ra rơm khô; hơi thở các ngươi là lửa, sẽ thiêu nuốt các ngươi.",
+  "tokens": [
+    {
+      "surface": "תהרו",
+      "gloss": "các ngươi thụ thai"
+    },
+    {
+      "surface": "חשש",
+      "gloss": "rơm rạ"
+    },
+    {
+      "surface": "תלדו",
+      "gloss": "các ngươi sinh ra"
+    },
+    {
+      "surface": "קש",
+      "gloss": "rơm khô"
+    },
+    {
+      "surface": "רוחכם",
+      "gloss": "hơi thở các ngươi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "lửa"
+    },
+    {
+      "surface": "תאכלכם",
+      "gloss": "sẽ thiêu nuốt các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:09:02.994175303Z",
+  "model": "glm-5.3"
+}

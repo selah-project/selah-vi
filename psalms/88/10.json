@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 88,
+  "translation": "Mắt tôi héo mòn vì khổ nạn tôi; tôi kêu cứu cùng Yahweh mỗi ngày, tôi xoè tay mình ra về phía Ngươi.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "mắt tôi"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "héo mòn"
+    },
+    {
+      "surface": "מני",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עני",
+      "gloss": "khổ nạn tôi"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "tôi kêu cứu cùng Ngươi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "trong mọi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "tôi đã xoè ra"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "về phía Ngươi"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "lòng bàn tay tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:22.377002290Z",
+  "model": "glm-5.3"
+}

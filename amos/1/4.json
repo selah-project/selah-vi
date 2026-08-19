@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 1:4",
+  "book": "amos",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Ta sẽ sai lửa vào nhà của Chazael, và nó sẽ thiêu nuốt các pháo đài của Ben-Hadad.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Ta sẽ sai"
+    },
+    {
+      "surface": "אש",
+      "gloss": "lửa"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "vào nhà của"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Chazael"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "và nó sẽ thiêu nuốt"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "các pháo đài của"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    }
+  ],
+  "timestamp": "2026-08-19T04:47:12.555263116Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Bánh không men sẽ được ăn suốt bảy ngày, và men ⟨chua⟩ sẽ không được thấy với ngươi, và men sẽ không được thấy với ngươi trong toàn cõi địa phận ngươi.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "bánh không men"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "sẽ được ăn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bảy ngày"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "bảy"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "sẽ được thấy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "với ngươi"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "đồ có men"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "sẽ được thấy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "với ngươi"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "men"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "trong toàn"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "địa phận ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:30:47.197652779Z",
+  "model": "glm-5.3"
+}

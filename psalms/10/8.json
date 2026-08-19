@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Anh ta ngồi nấp trong chỗ phục kích nơi các thôn xóm; trong những nơi bí mật ⟨anh ta⟩ giết người vô tội; mắt anh ta rình mò kẻ bất hạnh, lén lút.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "anh ta ngồi"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "trong chỗ phục kích"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "các thôn xóm"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "trong những nơi bí mật"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "⟨anh ta⟩ giết"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "người vô tội"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "mắt anh ta"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "rình mò kẻ bất hạnh"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "lén lút rình"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:13.642397161Z",
+  "model": "glm-5.3"
+}

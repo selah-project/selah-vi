@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 15:3",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Có lấy gỗ từ nó ra để làm nên công việc chăng? Hay người ta lấy từ nó một cái peg để treo lên đó mọi đồ vật chăng?",
+  "tokens": [
+    {
+      "surface": "היקח",
+      "gloss": "có lấy chăng"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "từ nó"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "gỗ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "để làm"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "công việc"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hay"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "người ta lấy"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "từ nó"
+    },
+    {
+      "surface": "יתד",
+      "gloss": "peg"
+    },
+    {
+      "surface": "לתלות",
+      "gloss": "để treo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "trên nó"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "đồ vật"
+    }
+  ],
+  "timestamp": "2026-08-19T04:34:12.360983126Z",
+  "model": "glm-5.3"
+}

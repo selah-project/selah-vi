@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Lời cầu nguyện của David. Hãy nghe điều công chính, Yahweh, hãy lắng tiếng kêu cứu của tôi, hãy chú tai đến lời cầu nguyện ⟨của tôi⟩ — ⟨nguyện nó⟩ không xuất phát từ đôi môi dối trá.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "lời cầu nguyện"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "của David"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "hãy nghe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sự công chính"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "hãy lắng nghe"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "tiếng kêu của tôi"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "hãy chú tai"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "lời cầu nguyện của tôi"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "không"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "đôi môi"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "dối trá"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:22.906935188Z",
+  "model": "glm-5.3"
+}

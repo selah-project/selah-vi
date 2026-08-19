@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Yahweh phán: Ta đã thật thấy ⟨את⟩ sự khổ cực của dân Ta ở Mitsrayim, và ⟨את⟩ tiếng kêu cứu của họ Ta đã nghe, vì các cai ép họ; vì Ta biết ⟨את⟩ nỗi đau khổ của họ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "thật thấy"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Ta đã thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sự khổ cực của dân Ta"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sự khổ cực"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "của dân Ta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ở"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "tiếng kêu cứu của họ"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "tiếng kêu cứu của họ"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "Ta đã nghe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vì"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "các cai ép họ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "Ta biết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nỗi đau khổ của họ"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "nỗi đau khổ của họ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:27:53.595713811Z",
+  "model": "glm-5.3"
+}

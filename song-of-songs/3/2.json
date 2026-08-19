@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 3:2",
+  "book": "song-of-songs",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Tôi sẽ đứng dậy na, và rảo quanh trong thành, trong các phố chợ và các quảng trường, tôi sẽ tìm ⟨את⟩ đấng mà linh hồn tôi yêu; tôi đã tìm người mà không tìm thấy.",
+  "tokens": [
+    {
+      "surface": "אקומה",
+      "gloss": "tôi sẽ đứng dậy"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ואסובבה",
+      "gloss": "và rảo quanh"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "trong thành"
+    },
+    {
+      "surface": "בשוקים",
+      "gloss": "trong các phố chợ"
+    },
+    {
+      "surface": "וברחבות",
+      "gloss": "và trong các quảng trường"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "tôi sẽ tìm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đấng mà linh hồn tôi yêu"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "đấng mà"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "linh hồn tôi"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "tôi đã tìm người"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mà không"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "tìm thấy người"
+    }
+  ],
+  "timestamp": "2026-08-19T05:29:08.354440825Z",
+  "model": "glm-5.3"
+}

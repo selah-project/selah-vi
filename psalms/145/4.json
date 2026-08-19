@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 145,
+  "translation": "Thế hệ này sang thế hệ khác sẽ ngợi khen công việc của Ngài, và việc quyền năng của Ngài họ sẽ tường thuật.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "thế hệ"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "sang thế hệ khác"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "sẽ ngợi khen"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "công việc của Ngài"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "và việc quyền năng của Ngài"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "họ sẽ tường thuật"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:33.485955078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 17:17",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Và họ cho ⟨את⟩ con trai mình và ⟨את⟩ con gái mình đi qua trong lửa, và họ bói quẻ, và họ niêm along xem điềm, và họ bán chính mình để làm điều ác trong mắt Yahweh, để chọc giận Ngài.",
+  "tokens": [
+    {
+      "surface": "ויעבירו",
+      "gloss": "và họ cho đi qua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con trai mình"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "con trai mình"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con gái mình"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "con gái mình"
+    },
+    {
+      "surface": "באש",
+      "gloss": "trong lửa"
+    },
+    {
+      "surface": "ויקסמו",
+      "gloss": "và họ bói quẻ"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "các quẻ bói"
+    },
+    {
+      "surface": "וינחשו",
+      "gloss": "và họ xem điềm"
+    },
+    {
+      "surface": "ויתמכרו",
+      "gloss": "và họ bán chính mình"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "để làm"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "điều ác"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "trong mắt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להכעיסו",
+      "gloss": "để chọc giận Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T04:00:43.068131455Z",
+  "model": "glm-5.3"
+}

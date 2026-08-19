@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 21:5",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Họ dọn bàn, canh giữ ⟨trên⟩ đài canh, ăn đi, uống đi; hãy đứng dậy, hỡi các quan trưởng, xức dầu ⟨cho⟩ khiên!",
+  "tokens": [
+    {
+      "surface": "ערך",
+      "gloss": "dọn"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "bàn"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "canh giữ"
+    },
+    {
+      "surface": "הצפית",
+      "gloss": "đài canh"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "ăn"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "uống"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "hãy đứng dậy"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "các quan trưởng"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "xức dầu"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "khiên"
+    }
+  ],
+  "timestamp": "2026-08-19T04:07:11.984262453Z",
+  "model": "glm-5.3"
+}

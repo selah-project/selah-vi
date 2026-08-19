@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Ngươi đã đánh bại ⟨את⟩ Edom, và lòng ngươi đã nâng ngươi lên; hãy tự trọng và ngồi trong nhà ngươi; còn vì sao ngươi khích động điều ác để ngươi ngã, chính ngươi và Yehudah cùng với ngươi?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "quả đã đánh"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "ngươi đã đánh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "và đã nâng ngươi lên"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "lòng ngươi"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "hãy tự trọng"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "và hãy ngồi"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "trong nhà ngươi"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "còn vì sao"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "ngươi khích động"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "điều ác"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "để ngươi ngã"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "chính ngươi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "và Yehudah"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "cùng với ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:59:28.521110269Z",
+  "model": "glm-5.3"
+}

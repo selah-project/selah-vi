@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 109,
+  "translation": "Như bóng khi nó nghiêng, tôi đã đi qua; tôi bị quăng đi như châu chấu.",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "như bóng"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "khi nó nghiêng"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "tôi đã đi qua"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "tôi bị quăng đi"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "như châu chấu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:37.592317718Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 50,
+  "translation": "Elohim của chúng ta sẽ đến, và đừng để Ngài lặng im; lửa trước mặt Ngài sẽ thiêu nuốt, và chung quanh Ngài cơn bão tố gào thét mãnh liệt.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "sẽ đến"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim của chúng ta"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và đừng"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "lặng im"
+    },
+    {
+      "surface": "אש",
+      "gloss": "lửa"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "trước mặt Ngài"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "sẽ thiêu nuốt"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "và chung quanh Ngài"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "gào thét như bão tố"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mãnh liệt"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:59.519875701Z",
+  "model": "glm-5.3"
+}

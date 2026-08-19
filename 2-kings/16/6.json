@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 16:6",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Trong lúc ấy Retzin vua Aram đưa ⟨את⟩ Eylat về cho Aram, và đuổi ⟨את⟩ người Yehuda khỏi Eylot; người Aram đến Eylat và ở đó cho đến ngày nay.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "trong lúc"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ấy"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "đưa về"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retzin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eylat"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Eylat"
+    },
+    {
+      "surface": "לארם",
+      "gloss": "cho Aram"
+    },
+    {
+      "surface": "וינשל",
+      "gloss": "và đuổi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người Yehuda"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "người Yehuda"
+    },
+    {
+      "surface": "מאילות",
+      "gloss": "khỏi Eylot"
+    },
+    {
+      "surface": "וארמים",
+      "gloss": "và người Aram"
+    },
+    {
+      "surface": "באו",
+      "gloss": "đến"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Eylat"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "và ở lại"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ở đó"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    }
+  ],
+  "timestamp": "2026-08-19T04:00:37.643943393Z",
+  "model": "glm-5.3"
+}

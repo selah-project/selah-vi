@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 10:20",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Há chẳng phải ít ỏi ⟨là⟩ các ngày của tôi? Ngươi hãy dừng lại, hãy buông bỏ khỏi tôi, và tôi sẽ được vui ⟨một⟩ chút.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "há chẳng phải"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ít ỏi"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "các ngày của tôi"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "ngươi hãy dừng lại"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "hãy buông bỏ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "khỏi tôi"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "và tôi sẽ được vui"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "một chút"
+    }
+  ],
+  "timestamp": "2026-08-19T05:22:21.667994611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 19:9",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "và Ta sẽ làm chúng nó ăn ⟨את⟩ thịt con trai chúng nó và ⟨את⟩ thịt con gái chúng nó; mỗi người thịt bạn mình sẽ ăn, trong sự vây hãm và trong sự khốn cùng mà kẻ thù chúng nó và những kẻ tìm sinh mạng chúng nó sẽ gây ra cho chúng nó.",
+  "tokens": [
+    {
+      "surface": "והאכלתים",
+      "gloss": "và Ta sẽ làm-chúng-nó-ăn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thịt con trai chúng nó"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "thịt"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "con trai chúng nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "thịt con gái chúng nó"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "thịt"
+    },
+    {
+      "surface": "בנתיהם",
+      "gloss": "con gái chúng nó"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "và mỗi người"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "thịt"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "bạn mình"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "sẽ ăn"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "trong sự vây hãm"
+    },
+    {
+      "surface": "ובמצוק",
+      "gloss": "và trong sự khốn cùng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "יציקו",
+      "gloss": "sẽ gây-ra"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho chúng nó"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "kẻ thù chúng nó"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "và những kẻ tìm"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "sinh mạng chúng nó"
+    }
+  ],
+  "timestamp": "2026-08-19T04:21:44.977864941Z",
+  "model": "glm-5.3"
+}

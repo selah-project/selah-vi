@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Và Paroh ra lệnh về hắn cho những người, và họ tiễn đi ⟨את⟩ hắn, và ⟨את⟩ vợ hắn, và ⟨את⟩ tất cả những gì ông có.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "và đã ra lệnh"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "về hắn"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "những người"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "và họ đã tiễn đi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hắn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "vợ hắn"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vợ hắn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "tất cả những gì ông có"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "những gì"
+    },
+    {
+      "surface": "לו",
+      "gloss": "của ông"
+    }
+  ],
+  "timestamp": "2026-08-19T00:56:10.102031651Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Hãy xây những nhà và hãy ở; và hãy trồng những vườn và hãy ăn ⟨את⟩ trái cây của chúng.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "hãy xây"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "và hãy ở"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "và hãy trồng"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "vườn"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "và hãy ăn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trái cây của chúng"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "trái cây của chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:24:15.360377718Z",
+  "model": "glm-5.3"
+}

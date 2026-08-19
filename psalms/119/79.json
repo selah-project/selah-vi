@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 79,
+  "ref": "psalms 119:79",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Nguyện những kẻ kính sợ Ngài quay về cùng tôi, và họ nhận biết các chứng cứ của Ngài.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "nguyện họ quay về"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cùng tôi"
+    },
+    {
+      "surface": "יראיך",
+      "gloss": "những kẻ kính sợ Ngài"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "và họ biết"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "các chứng cứ của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:16.717541733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 109,
+  "translation": "Và lời lẽ căm thù đã vây quanh tôi; chúng nó đã đánh nhau với tôi vô cớ.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "và lời lẽ"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "căm thù"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "đã vây quanh tôi"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "và đã đánh tôi"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "vô cớ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:00.837402867Z",
+  "model": "glm-5.3"
+}

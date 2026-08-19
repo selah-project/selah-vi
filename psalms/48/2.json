@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 48,
+  "translation": "Vĩ đại là Yahweh và đáng ngợi kha vô cùng, trong thành của Elohim chúng ta, núi thánh của Ngài.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "vĩ đại"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "và đáng ngợi kha"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "vô cùng"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "trong thành"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "của Elohim chúng ta"
+    },
+    {
+      "surface": "הר",
+      "gloss": "núi"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "thánh của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:41.246354056Z",
+  "model": "glm-5.3"
+}

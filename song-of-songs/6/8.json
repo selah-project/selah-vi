@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 6:8",
+  "book": "song-of-songs",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Sáu mươi là các vị nữ hoàng, và tám mươi là các lẽ gỡ, và các thiếu nữ không đếm xỉa.",
+  "tokens": [
+    {
+      "surface": "ששים",
+      "gloss": "sáu mươi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "là (chúng nó)"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "các vị nữ hoàng"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "và tám mươi"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "các lẽ gỡ"
+    },
+    {
+      "surface": "ועלמות",
+      "gloss": "và các thiếu nữ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "số đếm"
+    }
+  ],
+  "timestamp": "2026-08-19T05:29:07.500100815Z",
+  "model": "glm-5.3"
+}

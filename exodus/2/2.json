@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và người đàn bà thụ thai, và sinh một con trai; và bà thấy ⟨אתו⟩ rằng ⟨hắn⟩ tốt, và bà giấu hắn ba tháng.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "và thụ thai"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "người đàn bà"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "và sinh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "một con trai"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "và thấy"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "hắn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tốt"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hắn"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "và bà giấu hắn"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "tháng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:27:48.389936890Z",
+  "model": "glm-5.3"
+}

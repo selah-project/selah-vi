@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Và ⟨את⟩ con thứ hai người ta sẽ làm thành tế lễ thiêu theo quy định, và thầy tế lễ sẽ làm lễ chuộc tội cho người ấy về tội của người ấy mà người ấy đã phạm, và người ấy sẽ được tha thứ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con thứ hai"
+    },
+    {
+      "surface": "השני",
+      "gloss": "con thứ hai"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "sẽ làm"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "tế lễ thiêu"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "theo quy định"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "và sẽ làm lễ chuộc tội"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "cho người ấy"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "thầy tế lễ"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "về tội của người ấy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "đã phạm"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "và sẽ được tha thứ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho người ấy"
+    }
+  ],
+  "timestamp": "2026-08-19T02:40:59.300133308Z",
+  "model": "glm-5.3"
+}

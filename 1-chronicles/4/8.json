@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 4:8",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và Kotz sinh ⟨את⟩ Anuv, và ⟨את⟩ HaTsov'vah, và các gia tộc của Akharkhel con trai của Harum.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "và Kotz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anuv"
+    },
+    {
+      "surface": "ענוב",
+      "gloss": "Anuv"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "HaTsov'vah"
+    },
+    {
+      "surface": "הצבבה",
+      "gloss": "HaTsov'vah"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "và các gia tộc của"
+    },
+    {
+      "surface": "אחרחל",
+      "gloss": "Akharkhel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai của"
+    },
+    {
+      "surface": "הרום",
+      "gloss": "Harum"
+    }
+  ],
+  "timestamp": "2026-08-19T05:47:35.760410466Z",
+  "model": "glm-5.3"
+}

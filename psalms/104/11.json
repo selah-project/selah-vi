@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 104,
+  "translation": "Chúng cho mọi thú vật đồng ruộng uống; các lừa hoang làm dịu cơn khát của chúng.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "chúng cho uống"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "thú vật"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "đồng ruộng"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "chúng làm dịu \/ chúng bẻ gãy"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "các lừa hoang"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "cơn khát của chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:05.106291316Z",
+  "model": "glm-5.3"
+}

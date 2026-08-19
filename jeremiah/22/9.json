@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 22:9",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Và họ sẽ nói: Vì họ đã bỏ ⟨את⟩ giao ước của Yahweh Elohim của họ, và cúi mình lạy các elohim khác và phục vụ chúng.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "và họ sẽ nói"
+    },
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "họ đã bỏ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "giao ước"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "giao ước"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim của họ"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "và cúi mình lạy"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "các elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "khác"
+    },
+    {
+      "surface": "ויעבדום",
+      "gloss": "và phục vụ chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:21:50.817291230Z",
+  "model": "glm-5.3"
+}

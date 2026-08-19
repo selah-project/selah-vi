@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 89,
+  "translation": "Yahweh, Elohim của các đạo binh, ai giống như Ngài — bậc quyền năng, Yah — và sự tín thành của Ngài vây quanh Ngài?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "các đạo binh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "giống như Ngài"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "bậc quyền năng"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "và sự tín thành của Ngài"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "vây quanh Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:29.231493719Z",
+  "model": "glm-5.3"
+}

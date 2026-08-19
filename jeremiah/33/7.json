@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 33,
+  "translation": "Và ta sẽ đem ⟨את⟩ sự trở lại của Yehudah và ⟨את⟩ sự trở lại của Yisrael, và ta sẽ xây lại họ như thuở ban đầu.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "và ta sẽ đem trở lại"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sự trở lại của Yehudah"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "sự trở lại (tù đày)"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "sự trở lại của Yisrael"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "sự trở lại (tù đày)"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "và ta sẽ xây lại"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "như thuở ban đầu"
+    }
+  ],
+  "timestamp": "2026-08-19T04:25:17.159714541Z",
+  "model": "glm-5.3"
+}

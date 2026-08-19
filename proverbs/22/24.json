@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Chớ kết bạn ⟨את⟩ kẻ hay giận, và ⟨את⟩ người nóng nực chớ đi cùng.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "kết bạn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kẻ hay giận"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "kẻ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "giận"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "nóng nực"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "đi cùng"
+    }
+  ],
+  "timestamp": "2026-08-19T06:19:51.040667995Z",
+  "model": "glm-5.3"
+}

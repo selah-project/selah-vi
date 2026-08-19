@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 33:5",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 33,
+  "translation": "⟨Người ta⟩ đến để giao tranh với ⟨את⟩ người Kasdim và để lấp đầy ⟨את⟩ xác chết của loài người, mà ta đã đánh trong cơn giận ta và trong cơn thịnh nộ ta; và ta đã che giấu mặt ta khỏi thành này vì mọi điều ác của họ.",
+  "tokens": [
+    {
+      "surface": "באים",
+      "gloss": "đến"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "để giao tranh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người Kasdim"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "người Kasdim"
+    },
+    {
+      "surface": "ולמלאם",
+      "gloss": "và để lấp đầy chúng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xác chết của loài người"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "xác chết của"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "loài người"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "ta đã đánh"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "trong cơn giận ta"
+    },
+    {
+      "surface": "ובחמתי",
+      "gloss": "và trong cơn thịnh nộ ta"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "và điều mà"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "ta đã che giấu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt ta"
+    },
+    {
+      "surface": "מהעיר",
+      "gloss": "khỏi thành"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "này"
+    },
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "điều ác của họ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:25:17.159308812Z",
+  "model": "glm-5.3"
+}

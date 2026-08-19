@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Và dù chúng nói: 'Yahweh đang sống', chắc chắn chúng thề dối trá.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "và nếu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "sống"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "chúng nói"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "chắc chắn"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "dối trá"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "chúng thề"
+    }
+  ],
+  "timestamp": "2026-08-19T04:18:05.691929022Z",
+  "model": "glm-5.3"
+}

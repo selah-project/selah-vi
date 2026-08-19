@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Tôi đã làm cho mình những khu vườn và những vườn cây ăn trái, và tôi đã trồng trong chúng cây ra mọi loại trái.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "tôi đã làm"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho mình"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "những khu vườn"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "và những vườn cây ăn trái"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "và tôi đã trồng"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "trong chúng"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "cây"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "loại trái"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:54.854446851Z",
+  "model": "glm-5.3"
+}

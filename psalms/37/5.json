@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 37:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Hãy lăn ⟨את⟩ con đường ngươi trao cho Yahweh, và tin cậy nơi Ngài, rồi chính ⟨הוא⟩ Ngài sẽ hành động.",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "hãy lăn (trao trọn)"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên \/ cho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "con đường ngươi"
+    },
+    {
+      "surface": "ובטח",
+      "gloss": "và tin cậy"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nơi Ngài"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "và chính Ngài"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "sẽ hành động"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:04.859971795Z",
+  "model": "glm-5.3"
+}

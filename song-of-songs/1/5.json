@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 1:5",
+  "book": "song-of-songs",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Sẫm màu ⟨là⟩ tôi, và xinh đẹp, hỡi các con gái Yerushalayim, như các trại của Qedar, như các màn trướng của Shelomoh.",
+  "tokens": [
+    {
+      "surface": "שחורה",
+      "gloss": "sẫm màu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "ונאוה",
+      "gloss": "và xinh đẹp"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "các con gái"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "כאהלי",
+      "gloss": "như các trại của"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Qedar"
+    },
+    {
+      "surface": "כיריעות",
+      "gloss": "như các màn trướng của"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    }
+  ],
+  "timestamp": "2026-08-19T05:29:15.061151097Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 4:3",
+  "book": "lamentations",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Cả chó rừng cái cũng rút vú ra, cho con mình bú; con gái của dân tôi lại trở nên tàn nhẫn, như đà điểu trong đồng vắng.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "cả"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "chó rừng cái"
+    },
+    {
+      "surface": "חלצו",
+      "gloss": "rút vú ra"
+    },
+    {
+      "surface": "שד",
+      "gloss": "vú"
+    },
+    {
+      "surface": "היניקו",
+      "gloss": "cho bú"
+    },
+    {
+      "surface": "גוריהן",
+      "gloss": "con của chúng"
+    },
+    {
+      "surface": "בת",
+      "gloss": "con gái của"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "dân tôi"
+    },
+    {
+      "surface": "לאכזר",
+      "gloss": "tàn nhẫn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "như"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "đà điểu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "trong đồng vắng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:31:44.994234430Z",
+  "model": "glm-5.3"
+}

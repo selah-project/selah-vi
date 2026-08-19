@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "esther 9:25",
+  "book": "esther",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và khi nàng đến trước mặt vua, người phán cùng bức thư: mưu toan ác của hắn, mà hắn đã toan tính ⟨את⟩ nhằm người Do-thái, hãy quay lại trên đầu chính hắn; và chúng đã treo ⟨את⟩ hắn và ⟨את⟩ các con trai hắn trên cây gỗ.",
+  "tokens": [
+    {
+      "surface": "ובבאה",
+      "gloss": "và khi nàng đến"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "người phán"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cùng"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "bức thư"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "hãy quay lại"
+    },
+    {
+      "surface": "מחשבתו",
+      "gloss": "mưu toan của hắn"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ác"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "hắn đã toan tính"
+    },
+    {
+      "surface": "על",
+      "gloss": "nhằm"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "người Do-thái"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "đầu hắn"
+    },
+    {
+      "surface": "ותלו",
+      "gloss": "và chúng đã treo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hắn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các con trai hắn"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "các con trai hắn"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "cây gỗ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:36:13.457671213Z",
+  "model": "glm-5.3"
+}

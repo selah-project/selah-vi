@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 20:7",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Ngươi đừng nhấc ⟨את⟩ danh Yahweh Elohim của ngươi lên vì sự hư không; vì Yahweh sẽ không tha kẻ nào nhấc ⟨את⟩ danh Người ⟨את⟩ lên vì sự hư không.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "nhấc lên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "danh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "danh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim của ngươi"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "vì sự hư không"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "sẽ tha (tội)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kẻ nào nhấc danh Người lên"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kẻ nào"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "nhấc lên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "danh của Người"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "danh của Người"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "vì sự hư không"
+    }
+  ],
+  "timestamp": "2026-08-19T02:31:57.315006006Z",
+  "model": "glm-5.3"
+}

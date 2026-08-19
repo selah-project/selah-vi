@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Vì nếu ngươi khước từ thả ⟨את⟩ dân Ta đi, này Ta sẽ đem châu chấu đến trong bờ cõi ngươi, ngày mai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "khước từ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "thả đi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân Ta"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "dân Ta"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "này Ta"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "sẽ đem đến"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ngày mai"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "châu chấu"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "trong bờ cõi ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:30:04.536556931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 95:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 95,
+  "translation": "Vì biển là của Ngài, và chính Ngài đã làm nên nó; còn đất khô thì tay Ngài đã nắn thành.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לו",
+      "gloss": "là của Ngài"
+    },
+    {
+      "surface": "הים",
+      "gloss": "biển"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "và chính Ngài"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "đã làm nên nó"
+    },
+    {
+      "surface": "ויבשת",
+      "gloss": "còn đất khô"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "tay Ngài"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "đã nắn thành"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:33.904357397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 11:10",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Khi công chính được tốt lành, thành ⟨thị⟩ reo vui; khi kẻ ác bị diệt, ⟨có⟩ tiếng hò reo.",
+  "tokens": [
+    {
+      "surface": "בטוב",
+      "gloss": "khi được tốt lành"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "[các] công chính"
+    },
+    {
+      "surface": "תעלץ",
+      "gloss": "reo vui"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "thị"
+    },
+    {
+      "surface": "ובאבד",
+      "gloss": "và khi bị diệt"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "tiếng hò reo"
+    }
+  ],
+  "timestamp": "2026-08-19T05:15:53.774676561Z",
+  "model": "glm-5.3"
+}

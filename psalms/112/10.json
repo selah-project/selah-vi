@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 112,
+  "translation": "Kẻ dữ sẽ thấy và nổi giận; nó sẽ nghiến răng mình và tan chảy; ước muốn của kẻ dữ sẽ灭亡 hủy diệt.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "kẻ dữ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "sẽ thấy"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "và nổi giận"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "răng của nó"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "sẽ nghiến"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "và tan chảy"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "ước muốn của"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kẻ dữ"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "sẽ hủy diệt"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:24.614066732Z",
+  "model": "glm-5.3"
+}

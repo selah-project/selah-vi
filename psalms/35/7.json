@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 35,
+  "translation": "Vì vô cớ chúng nó đã giấu hầm bẫy cho tôi — lưới của chúng nó; vô cớ chúng nó đã đào hầm để hại sinh mạng tôi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "vô cớ"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "chúng nó đã giấu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho tôi"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "hầm bẫy"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "lưới của chúng nó"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "vô cớ"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "chúng nó đã đào"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "để hại sinh mạng tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:58.543851286Z",
+  "model": "glm-5.3"
+}

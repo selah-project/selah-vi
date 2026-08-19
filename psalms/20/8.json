@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Kẻ này ⟨dựa⟩ xe chiến, kẻ kia ⟨dựa⟩ ngựa, nhưng chúng ta — trong danh Yahweh Elohim của chúng ta — sẽ nhớ đến.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "kẻ này"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "xe chiến"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "kẻ kia"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "ngựa"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "nhưng chúng ta"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "trong danh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim của chúng ta"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "sẽ nhớ đến"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:20.712470767Z",
+  "model": "glm-5.3"
+}

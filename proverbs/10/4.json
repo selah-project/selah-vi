@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Kẻ tay làm việc lười biếng ⟨thì⟩ nghèo, nhưng tay của người siêng năng làm nên giàu.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "nghèo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "làm"
+    },
+    {
+      "surface": "כף",
+      "gloss": "tay (lòng bàn)"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "lười biếng"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "nhưng tay"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "của người siêng năng"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "làm nên giàu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:15:48.625429355Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 5:20",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Trong nạn đói Ngài chuộc ngươi khỏi sự chết, và trong chiến tranh khỏi tay gươm.",
+  "tokens": [
+    {
+      "surface": "ברעב",
+      "gloss": "Trong nạn đói"
+    },
+    {
+      "surface": "פדך",
+      "gloss": "Ngài chuộc ngươi"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "khỏi sự chết"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "và trong chiến tranh"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "khỏi tay"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "gươm"
+    }
+  ],
+  "timestamp": "2026-08-19T05:21:01.095578769Z",
+  "model": "glm-5.3"
+}

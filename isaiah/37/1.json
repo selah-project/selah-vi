@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 37:1",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Và xảy ra, khi vua Chizkiyahu nghe điều đó, thì ông xé ⟨את⟩ áo mình, và mình phủ vải thô, và vào nhà Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "và xảy ra"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "khi nghe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "thì ông xé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "áo mình"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "áo mình"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "và mình phủ"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "vải thô"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "và vào"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T04:11:00.639833545Z",
+  "model": "glm-5.3"
+}

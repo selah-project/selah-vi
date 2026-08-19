@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "và làm ⟨các⟩ ơn lành cho đến hàng ngàn đời, cho những kẻ yêu mến ta và giữ các điều răn của ta.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "và làm"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ơn lành"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "cho đến hàng ngàn"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "cho những kẻ yêu mến ta"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "và cho những kẻ giữ"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "các điều răn của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T06:06:11.016715271Z",
+  "model": "glm-5.3"
+}

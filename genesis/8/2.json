@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 8:2",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và các suối của vực sâu bị đóng lại, và các cửa sổ của các tầng trời bị đóng lại, và mưa bị kiềm chế khỏi các tầng trời.",
+  "tokens": [
+    {
+      "surface": "ויסכרו",
+      "gloss": "và bị đóng lại"
+    },
+    {
+      "surface": "מעינת",
+      "gloss": "các suối của"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "vực sâu"
+    },
+    {
+      "surface": "וארבת",
+      "gloss": "và các cửa sổ của"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "các tầng trời"
+    },
+    {
+      "surface": "ויכלא",
+      "gloss": "và bị kiềm chế"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "mưa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "các tầng trời"
+    }
+  ],
+  "timestamp": "2026-08-19T02:23:59.092900357Z",
+  "model": "glm-5.3"
+}

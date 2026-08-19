@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 148,
+  "translation": "Lửa và mưa đá, tuyết và sương khói, gió bão tố đang làm theo lời Ngài.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "lửa"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "và mưa đá"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "tuyết"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "và sương khói"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "gió"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "bão tố"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "đang làm theo"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "lời Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:43.594861293Z",
+  "model": "glm-5.3"
+}

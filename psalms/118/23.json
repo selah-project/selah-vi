@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 118,
+  "translation": "Từ phía Yahweh ⟨את⟩ việc này đã xảy ra; nó là điều kỳ diệu trong mắt chúng ta.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ từ phía",
+      "marks": "việc này"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "đã xảy ra"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "việc này"
+    },
+    {
+      "surface": "היא",
+      "gloss": "nó"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "kỳ diệu"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "trong mắt chúng ta"
+    }
+  ],
+  "timestamp": "2026-08-19T06:19:12.474022840Z",
+  "model": "glm-5.3"
+}

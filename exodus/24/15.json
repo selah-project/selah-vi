@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Và Moshe lên núi, và đám mây che phủ ⟨את⟩ núi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "lên"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "núi"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "che phủ"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "đám mây"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "núi"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "núi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:33:44.777053522Z",
+  "model": "glm-5.3"
+}

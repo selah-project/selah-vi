@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 8:2",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Đến chừng nào ngươi còn nói ra những lời này, và lời nói của miệng ngươi ⟨như⟩ gió mạnh?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "אן",
+      "gloss": "chừng nào"
+    },
+    {
+      "surface": "תמלל",
+      "gloss": "ngươi nói"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "những lời này"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "và gió"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "mạnh"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "lời nói"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "của miệng ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:21:26.922072441Z",
+  "model": "glm-5.3"
+}

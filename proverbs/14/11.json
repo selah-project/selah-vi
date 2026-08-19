@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 14:11",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Nhà của kẻ ác sẽ bị hủy diệt, nhưng trại của người ngay thẳng sẽ trổ hoa.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "của kẻ ác"
+    },
+    {
+      "surface": "ישמד",
+      "gloss": "sẽ bị hủy diệt"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "nhưng trại"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "của người ngay thẳng"
+    },
+    {
+      "surface": "יפריח",
+      "gloss": "sẽ trổ hoa"
+    }
+  ],
+  "timestamp": "2026-08-19T05:15:59.678236041Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 30:33",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Vì sự vắt sữa làm ra bơ, và sự bóp mũi làm ra máu, và sự nén cơn giận làm ra tranh cãi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "מיץ",
+      "gloss": "sự vắt"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "sữa"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "làm ra"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "bơ"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "và sự bóp"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mũi"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "làm ra"
+    },
+    {
+      "surface": "דם",
+      "gloss": "máu"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "và sự nén"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "cơn giận"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "làm ra"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "tranh cãi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:18:59.427774416Z",
+  "model": "glm-5.3"
+}

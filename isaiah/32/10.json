@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 32:10",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Trên một năm và những ngày nữa, hỡi các người tự tin, các người sẽ run rẩy; vì mùa hái nho đã tàn, vụ thu hoạch sẽ không đến.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "những ngày"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "một năm"
+    },
+    {
+      "surface": "תרגזנה",
+      "gloss": "các người sẽ run rẩy"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "tự tin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "đã tàn"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "mùa hái nho"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "vụ thu hoạch"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "không"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "sẽ đến"
+    }
+  ],
+  "timestamp": "2026-08-19T04:09:06.170267974Z",
+  "model": "glm-5.3"
+}

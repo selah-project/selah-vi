@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 8:12",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "từ Aram, từ Moab, từ con cháu Ammon, từ người Philistine, từ Amalek, và từ chiến lợi phẩm của Hadadezer con trai Rechob, vua của Tsova.",
+  "tokens": [
+    {
+      "surface": "מארם",
+      "gloss": "từ Aram"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "và từ Moab"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "và từ con cháu"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "và từ người Philistine"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "và từ Amalek"
+    },
+    {
+      "surface": "ומשלל",
+      "gloss": "và từ chiến lợi phẩm"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rechob"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsova"
+    }
+  ],
+  "timestamp": "2026-08-19T03:40:30.988305660Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Cũng vậy, nếu hai người nằm chung, thì chúng có hơi ấm; nhưng người một mình thì lấy đâu ra hơi ấm?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "cũng vậy"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "nằm"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "hai người"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "thì có hơi ấm"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho chúng"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "nhưng người một mình"
+    },
+    {
+      "surface": "איך",
+      "gloss": "lấy đâu ra"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "hơi ấm"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:23.744868296Z",
+  "model": "glm-5.3"
+}

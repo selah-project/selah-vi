@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 34,
+  "translation": "Hãy đến, hỡi các con, hãy lắng nghe tôi; sự kính sợ Yahweh, tôi sẽ dạy các con.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "hãy đến"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "hỡi các con"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hãy lắng nghe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "sự kính sợ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "tôi sẽ dạy các con"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:28.613697098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Hãy mưu bàn một mưu kế, và nó sẽ bị thấu phá; hãy nói ra một lời, và nó sẽ không đứng vững, vì El ở cùng chúng ta.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "hãy mưu bàn"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "một mưu kế"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "và nó sẽ bị thấu phá"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "hãy nói ra"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "một lời"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "nó đứng vững"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ở cùng chúng ta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-19T04:04:53.470823209Z",
+  "model": "glm-5.3"
+}

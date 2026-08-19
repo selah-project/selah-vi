@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 9:8",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và Elohim phán cùng ⟨את⟩ Noach, và cùng các con trai của ngài ở với ngài, rằng:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Và phán"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cùng"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và cùng"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "các con trai của ngài"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ở với ngài"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    }
+  ],
+  "timestamp": "2026-08-19T00:49:42.985012717Z",
+  "model": "glm-5.3"
+}

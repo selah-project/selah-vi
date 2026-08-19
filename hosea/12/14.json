@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Va bởi một tiên tri, Yahweh đã đưa lên ⟨את⟩ Yitsrael khỏi Mitsrayim, và bởi một tiên tri ⟨người⟩ được giữ gìn.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "và bởi một tiên tri"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "đã đưa lên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yitsrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "khỏi Mitsrayim"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "và bởi một tiên tri"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "được giữ gìn"
+    }
+  ],
+  "timestamp": "2026-08-19T04:45:02.252017361Z",
+  "model": "glm-5.3"
+}

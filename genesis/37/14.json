@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 37:14",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Người nói với ông: Hãy đi, xin hãy xem ⟨את⟩ sự bình an của anh em ngươi và ⟨את⟩ sự bình an của đàn chiên, rồi hãy thuật lại cho ta một lời. Vậy người sai Yosep từ thung lũng Chevron, và Yosep đến Shkhem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "người nói"
+    },
+    {
+      "surface": "לו",
+      "gloss": "với ông"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hãy đi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xin"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "hãy xem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sự bình an của anh em ngươi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sự bình an"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "của anh em ngươi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "sự bình an của đàn chiên"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sự bình an"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "của đàn chiên"
+    },
+    {
+      "surface": "והשבני",
+      "gloss": "rồi hãy thuật lại cho ta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "một lời"
+    },
+    {
+      "surface": "וישלחהו",
+      "gloss": "người sai nó (Yosef)"
+    },
+    {
+      "surface": "מעמק",
+      "gloss": "từ thung lũng"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "và người đến"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "Shkhem"
+    }
+  ],
+  "timestamp": "2026-08-19T01:23:43.344606379Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 3:4",
+  "book": "amos",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Sư tử có gầm trong rừng, khi không có con mồi cho nó? Sư tử con có cất tiếng khỏi hang mình, nếu chẳng bắt được?",
+  "tokens": [
+    {
+      "surface": "הישאג",
+      "gloss": "có gầm"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "sư tử"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "trong rừng"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "và con mồi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho nó"
+    },
+    {
+      "surface": "היתן",
+      "gloss": "có cất"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "sư tử con"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "tiếng của nó"
+    },
+    {
+      "surface": "ממענתו",
+      "gloss": "khỏi hang mình"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "nếu chẳng"
+    },
+    {
+      "surface": "אם",
+      "gloss": "(trừ khi)"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "bắt được"
+    }
+  ],
+  "timestamp": "2026-08-19T04:47:01.585709116Z",
+  "model": "glm-5.3"
+}

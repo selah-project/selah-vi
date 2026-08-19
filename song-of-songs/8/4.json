@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Tôi đã khiến các con gái Yerushalayim ⟨את⟩ ngươi thề: đừng đánh thức, đừng thúc ⟨את⟩ tình yêu dậy, cho đến khi ⟨nó⟩ muốn.",
+  "tokens": [
+    {
+      "surface": "הִשְׁבַּעְתִּי",
+      "gloss": "tôi đã khiến thề"
+    },
+    {
+      "surface": "אֶתְכֶם",
+      "gloss": "⟨את⟩",
+      "marks": "các con gái Yerushalayim"
+    },
+    {
+      "surface": "בָּנוֹת",
+      "gloss": "các con gái"
+    },
+    {
+      "surface": "יְרוּשָׁלִַ͏ם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "đừng (sao lại)"
+    },
+    {
+      "surface": "תָּעִירוּ",
+      "gloss": "các ngươi đánh thức"
+    },
+    {
+      "surface": "וּמַה",
+      "gloss": "và đừng (sao lại)"
+    },
+    {
+      "surface": "תָּעֹרְרוּ",
+      "gloss": "các ngươi thúc dậy"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "tình yêu"
+    },
+    {
+      "surface": "הָאַהֲבָה",
+      "gloss": "tình yêu"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "cho đến khi"
+    },
+    {
+      "surface": "שֶׁתֶּחְפָּץ",
+      "gloss": "nó muốn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:29:58.998222362Z",
+  "model": "glm-5.3"
+}

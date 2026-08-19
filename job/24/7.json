@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 24:7",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Trần trụi chúng nằm đêm ⟨trong⟩ không có áo mặc, và không có chi phủ trong rét lạnh.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "trần trụi"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "chúng nằm đêm"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "trong không có"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "áo mặc"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "và không có"
+    },
+    {
+      "surface": "כסות",
+      "gloss": "chi phủ"
+    },
+    {
+      "surface": "בקרה",
+      "gloss": "trong rét lạnh"
+    }
+  ],
+  "timestamp": "2026-08-19T05:24:51.513389045Z",
+  "model": "glm-5.3"
+}

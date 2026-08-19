@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 73,
+  "translation": "Ai ⟨là của⟩ ta trên các tầng trời? Cùng với Ngài, con không ước muốn gì trên đất.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho ta \/ của ta"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "trên các tầng trời"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "và cùng với Ngài"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "con ước muốn"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trên đất"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:10.277337612Z",
+  "model": "glm-5.3"
+}

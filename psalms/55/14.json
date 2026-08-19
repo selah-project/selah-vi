@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 55,
+  "translation": "Nhưng chính ngài — phàm nhân ngang hàng với tôi, bạn thân thiết của tôi, người quen biết của tôi!",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "nhưng chính ngài"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "phàm nhân"
+    },
+    {
+      "surface": "כערכי",
+      "gloss": "ngang hàng với tôi"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "bạn thân thiết của tôi"
+    },
+    {
+      "surface": "ומידעי",
+      "gloss": "người quen biết của tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:29.503543862Z",
+  "model": "glm-5.3"
+}

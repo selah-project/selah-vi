@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 1:4",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và các con trai ông vẫn đi và làm tiệc trong nhà, mỗi người vào ngày mình; và họ sai đi và mời ba chị em gái của mình đến ăn và uống với họ.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "và vẫn đi"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "các con trai ông"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "và làm"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "tiệc"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mỗi người"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "ngày mình"
+    },
+    {
+      "surface": "ושלחו",
+      "gloss": "và sai đi"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "và mời"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אחיתיהם",
+      "gloss": "chị em gái của họ"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "đến ăn"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "và uống"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "với họ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:20:42.924142577Z",
+  "model": "glm-5.3"
+}

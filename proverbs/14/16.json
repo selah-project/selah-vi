@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Kẻ khôn sợ hãi và lìa khỏi điều ác; còn kẻ dại giận dữ quá mức và tự tin.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "kẻ khôn"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "sợ hãi"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "và lìa khỏi"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "điều ác"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "còn kẻ dại"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "nóng giận quá mức"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "và tự tin"
+    }
+  ],
+  "timestamp": "2026-08-19T05:16:31.134995843Z",
+  "model": "glm-5.3"
+}

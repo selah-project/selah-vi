@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 7:1",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Và Yahweh phán cùng Noach: Hãy vào, ngươi và cả nhà ngươi, vào trong chiếc tàu, vì ngươi — ⟨את⟩ngươi — ta đã thấy là công chính trước mặt ta trong thế hệ này.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và-phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לנח",
+      "gloss": "cùng-Noach"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hãy-vào"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và-cả"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nhà-ngươi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vào-trong"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "chiếc-tàu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ngươi",
+      "marks": "ngươi (đối tượng được 'thấy')"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ta-đã-thấy"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "công-chính"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước-mặt"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "trong-thế-hệ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    }
+  ],
+  "timestamp": "2026-08-19T00:52:58.612290482Z",
+  "model": "glm-5.3"
+}

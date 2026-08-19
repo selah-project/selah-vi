@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 103,
+  "translation": "Hãy chúc phước cho Yahweh, hỡi hết thảy các công trình của Ngài, tại mọi nơi trong vương quyền Ngài; hỡi linh hồn ta, hãy chúc phước cho ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "hãy chúc phước cho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hết thảy"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "các công trình của Ngài"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tại mọi"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "nơi chốn"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "trong vương quyền của Ngài"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "hỡi (linh hồn) hãy chúc phước cho"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "linh hồn ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:53.116936461Z",
+  "model": "glm-5.3"
+}

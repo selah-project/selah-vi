@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và Yahweh Elohim đã nắn ⟨את⟩ con người từ bụi đất, và thổi vào lỗ mũi người hơi thở của sự sống, và con người trở thành ⟨một⟩ sinh linh sống.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "và đã nắn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con người"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "con người"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "bụi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "đất"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "và thổi"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "vào lỗ mũi người"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "hơi thở của"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "sự sống"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "và trở thành"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "con người"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "sinh linh"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "sống"
+    }
+  ],
+  "timestamp": "2026-08-19T00:45:45.454920274Z",
+  "model": "glm-5.3"
+}

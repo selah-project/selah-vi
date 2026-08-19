@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Và các ngươi phải giữ ⟨את⟩ toàn bộ các luật lệ của Ta và ⟨את⟩ toàn bộ các phán quyết của Ta, và làm ⟨את⟩ chúng; Ta là Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "và các ngươi phải giữ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toàn bộ các luật lệ của Ta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn bộ"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "các luật lệ của Ta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "toàn bộ các phán quyết của Ta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn bộ"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "các phán quyết của Ta"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "và làm"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ chúng"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:45:42.325560439Z",
+  "model": "glm-5.3"
+}

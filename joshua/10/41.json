@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "joshua 10:41",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Và Yehoshua đã đánh bại họ từ Qedesh-Barnea cho đến Azzah, và ⟨את⟩ toàn vùng đất Goshen cho đến Giv'on.",
+  "tokens": [
+    {
+      "surface": "ויכם",
+      "gloss": "đã đánh bại"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "từ Qedesh"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "toàn vùng đất Goshen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "vùng đất"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Goshen"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Giv'on"
+    }
+  ],
+  "timestamp": "2026-08-19T03:18:00.319237482Z",
+  "model": "glm-5.3"
+}

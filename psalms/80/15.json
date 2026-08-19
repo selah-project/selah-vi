@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 80,
+  "translation": "Elohim Sevaot, xin hãy quay lại; hãy nhìn từ trời và xem, và thăm viếng cây nho này;",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sevaot"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "hãy quay lại"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xin"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "hãy nhìn"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "từ trời"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "và xem"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "và thăm viếng"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "cây nho"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "này"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:23.391952579Z",
+  "model": "glm-5.3"
+}

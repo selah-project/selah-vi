@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 8:2",
+  "book": "esther",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Vua tháo ⟨את⟩ ấn ngự của ngài, ấn mà ngài đã lấy lại từ Haman, và trao nó cho Mordechai; còn Ester đặt Mordechai trên nhà của Haman.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "vua tháo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ấn ngự của ngài"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "ấn ngự của ngài"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "đã lấy lại"
+    },
+    {
+      "surface": "מהמן",
+      "gloss": "từ Haman"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "và trao nó"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "cho Mordechai"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "và đặt"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordechai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    }
+  ],
+  "timestamp": "2026-08-19T05:36:00.227868370Z",
+  "model": "glm-5.3"
+}

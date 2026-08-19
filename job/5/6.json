@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 5:6",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Vì ⟨⟨rắc rối⟩⟩ không ra từ bụi đất, và từ đất không mọc lên ⟨⟨cực nhọc⟩⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ra"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "từ bụi đất"
+    },
+    {
+      "surface": "און",
+      "gloss": "rắc rối"
+    },
+    {
+      "surface": "ומאדמה",
+      "gloss": "và từ đất"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "mọc lên"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "cực nhọc"
+    }
+  ],
+  "timestamp": "2026-08-19T05:20:41.401342422Z",
+  "model": "glm-5.3"
+}

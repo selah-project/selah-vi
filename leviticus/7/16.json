@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 7:16",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Còn nếu lễ vật dâng lên của người là sinh lễ vì lời khấn nguyện hoặc tự nguyện, thì phải được ăn vào ngày người ấy dâng ⟨את⟩ sinh lễ của mình; và ngày mai, phần còn lại từ nó cũng được ăn.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "còn nếu"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "lời khấn nguyện"
+    },
+    {
+      "surface": "או",
+      "gloss": "hoặc"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "sự tự nguyện"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sinh lễ"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "lễ vật của người"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "vào ngày"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "người ấy dâng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinh lễ của mình"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "sinh lễ của mình"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "phải được ăn"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "và ngày mai"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "và phần còn lại"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "từ nó"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "được ăn"
+    }
+  ],
+  "timestamp": "2026-08-19T02:40:44.211882772Z",
+  "model": "glm-5.3"
+}

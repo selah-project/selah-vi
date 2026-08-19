@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 4:1",
+  "book": "lamentations",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Ôi than sao, vàng đã bị làm tối, vàng ròng quý giá đã bị đổi khác! Đá thánh của đền thánh bị đổ ra ở đầu mọi con phố ngoài trời.",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "ôi than sao"
+    },
+    {
+      "surface": "יועם",
+      "gloss": "đã bị làm tối"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "vàng"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "đã bị đổi khác"
+    },
+    {
+      "surface": "הכתם",
+      "gloss": "vàng ròng quý giá"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "tốt nhất"
+    },
+    {
+      "surface": "תשתפכנה",
+      "gloss": "bị đổ ra"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "đá"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "thánh"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "ở đầu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "con phố ngoài trời"
+    }
+  ],
+  "timestamp": "2026-08-19T05:31:44.993870583Z",
+  "model": "glm-5.3"
+}

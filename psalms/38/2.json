@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 38,
+  "translation": "Yahweh, xin đừng trách móc con trong cơn giận của Ngài, và đừng sửa phạt con trong cơn thịnh nộ của Ngài.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "xin đừng"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "trong cơn giận của Ngài"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "trách móc con"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "và trong cơn thịnh nộ của Ngài"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "sửa phạt con"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:35.741178853Z",
+  "model": "glm-5.3"
+}

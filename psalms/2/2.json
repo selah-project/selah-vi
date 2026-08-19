@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Các vua của đất đứng lên, và các thủ lĩnh hợp mưu cùng nhau, chống đối Yahweh và chống đối Đấng Meshíach của Ngài,",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "đứng lên"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "các vua của"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "và các thủ lĩnh"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "hợp mưu"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "cùng nhau"
+    },
+    {
+      "surface": "על",
+      "gloss": "chống đối"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "và chống đối"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Đấng Meshíach của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:34.988277463Z",
+  "model": "glm-5.3"
+}

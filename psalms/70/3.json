@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 70,
+  "translation": "Nguyện chúng xấu hổ và bối rối, là những kẻ tìm kiếm sinh mạng tôi; nguyện chúng thối lui ra đằng sau và bị sỉ nhục, là những kẻ ưa thích điều ác hại tôi.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "xấu hổ"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "và bối rối"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "những kẻ tìm kiếm"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sinh mạng tôi"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "thối lui"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ra đằng sau"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "và bị sỉ nhục"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "những kẻ ưa thích"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "điều ác hại tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:49.313248884Z",
+  "model": "glm-5.3"
+}

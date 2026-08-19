@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 86,
+  "translation": "Không ai như Ngài giữa các elohim, Adonai, và không có công trình nào như công trình của Ngài.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Không ai"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "như Ngài"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "giữa các elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "và không có"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "như công trình của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:23.834851540Z",
+  "model": "glm-5.3"
+}

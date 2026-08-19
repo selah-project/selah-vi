@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 6:30",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Người ta không khinh miệt ⟨kẻ⟩ trộm, khi hắn trộm để lấp đầy ⟨linh hồn⟩ mình, khi hắn đói.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "khinh miệt"
+    },
+    {
+      "surface": "לגנב",
+      "gloss": "⟨kẻ⟩ trộm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "khi"
+    },
+    {
+      "surface": "יגנוב",
+      "gloss": "hắn trộm"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "để lấp đầy"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "⟨linh hồn⟩ mình"
+    },
+    {
+      "surface": "כי",
+      "gloss": "khi"
+    },
+    {
+      "surface": "ירעב",
+      "gloss": "hắn đói"
+    }
+  ],
+  "timestamp": "2026-08-19T06:19:46.384728254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 104,
+  "translation": "Các cây của Yahweh được no đầy, bạc hà Lebanon mà Ngài đã trồng.",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "được no đầy"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "các cây của"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "bách tùng"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebanon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "đã trồng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:28.794838566Z",
+  "model": "glm-5.3"
+}

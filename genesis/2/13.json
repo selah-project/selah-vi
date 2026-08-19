@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và tên của dòng sông thứ hai là Gichon; nó ⟨là⟨⟩⟩ dòng bao quanh ⟨את⟩ toàn xứ Kush.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "và tên"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "của dòng sông"
+    },
+    {
+      "surface": "השני",
+      "gloss": "thứ hai"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Gichon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó là"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "dòng bao quanh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toàn xứ Kush"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "xứ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    }
+  ],
+  "timestamp": "2026-08-19T00:46:50.068104082Z",
+  "model": "glm-5.3"
+}

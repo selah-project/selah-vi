@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 83,
+  "translation": "Chúng đã nói: Hãy đến, và chúng ta sẽ tẩy chastừ giữa các dân tộc, để tên Yisrael không còn được nhớ đến nữa.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "chúng đã nói"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "hãy đến"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "và chúng ta sẽ tẩy chastừ"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "từ giữa các dân tộc"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "để không"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "được nhớ đến"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tên"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nữa"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:38.458619991Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Đến khi nào, Yahweh, Ngài sẽ quên tôi mãi mãi? Đến khi nào Ngài sẽ giấu ⟨את⟩ mặt Ngài khỏi tôi?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "khi nào"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "Ngài sẽ quên tôi"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "mãi mãi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "khi nào"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "Ngài sẽ giấu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mặt Ngài"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "mặt Ngài"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "khỏi tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:27.381596950Z",
+  "model": "glm-5.3"
+}

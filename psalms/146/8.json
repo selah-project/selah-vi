@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 146,
+  "translation": "Yahweh mở mắt cho người mù; Yahweh dựng đứng kẻ cong lưng; Yahweh yêu thương người công chính.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "mở mắt cho"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "người mù"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "dựng đứng"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "kẻ cong lưng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "yêu thương"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "người công chính"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:46.935439877Z",
+  "model": "glm-5.3"
+}

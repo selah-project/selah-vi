@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Nếu một người khiến ruộng hay vườn nho bị ăn hại, và thả ⟨את⟩ súc vật của mình mà nó ăn trong ruộng người khác, thì từ phần tốt nhất ruộng mình và phần tốt nhất vườn nho mình hắn phải bồi thường.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nếu"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "khiến bị ăn hại"
+    },
+    {
+      "surface": "איש",
+      "gloss": "một người"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ruộng"
+    },
+    {
+      "surface": "או",
+      "gloss": "hay"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "vườn nho"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "và thả"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "súc vật của mình"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "súc vật của mình"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "và nó ăn hại"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "trong ruộng"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "của người khác"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "từ phần tốt nhất"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "ruộng mình"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "và phần tốt nhất"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "vườn nho mình"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "hắn phải bồi thường"
+    }
+  ],
+  "timestamp": "2026-08-19T02:33:59.827750525Z",
+  "model": "glm-5.3"
+}

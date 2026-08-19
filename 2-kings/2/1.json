@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 2:1",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và đã xảy ra, khi Yahweh sắp đưa ⟨את⟩ Eliyahu lên bằng cơn lốc xoáy ⟨vào⟩ các tầng trời, thì Eliyahu đi cùng Elisha từ HaGilgal.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "và đã xảy ra"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "khi đưa lên"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "bằng cơn lốc xoáy"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "các tầng trời"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "và đi"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ואלישע",
+      "gloss": "và Elisha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "HaGilgal"
+    }
+  ],
+  "timestamp": "2026-08-19T06:10:35.682366041Z",
+  "model": "glm-5.3"
+}

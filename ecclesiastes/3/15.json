@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Điều gì đã từng có — nó đã có từ lâu rồi; và điều gì sẽ có — cũng đã có từ lâu rồi; và Elohim tìm kiếm ⟨את⟩ điều bị đuổi bắt.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "điều gì"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "đã từng có"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "từ lâu rồi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "và điều mà"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "sẽ có"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "từ lâu rồi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "đã có"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "và Elohim"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "tìm kiếm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "điều bị đuổi bắt"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "điều bị đuổi bắt"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:29.687866071Z",
+  "model": "glm-5.3"
+}

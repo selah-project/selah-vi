@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Hai người có đi cùng nhau, nếu chưa hẹn nhau?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "có đi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "hai (người)"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "cùng nhau"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "nếu chưa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "(trừ khi)"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "hẹn nhau"
+    }
+  ],
+  "timestamp": "2026-08-19T04:47:01.585528633Z",
+  "model": "glm-5.3"
+}

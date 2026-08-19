@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 55,
+  "translation": "El sẽ nghe và đáp trả chúng, ⟨Đấng⟩ ngự từ xưa. Selah. Vì không có sự thay đổi nơi chúng, và chúng không kính sợ Elohim.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "sẽ nghe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "và sẽ đáp trả chúng"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "và Đấng ngự"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "từ xưa\/đông"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "sự thay đổi"
+    },
+    {
+      "surface": "למו",
+      "gloss": "nơi chúng"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "chúng kính sợ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:35.001820195Z",
+  "model": "glm-5.3"
+}

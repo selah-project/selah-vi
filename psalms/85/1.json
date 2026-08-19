@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 85,
+  "translation": "Cho người hướng dẫn âm nhạc, cho con cái Korach, một bài thánh ca.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "cho người hướng dẫn âm nhạc"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "cho con cái"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "bài thánh ca"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:14.100168806Z",
+  "model": "glm-5.3"
+}

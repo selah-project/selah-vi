@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Và ⟨ông⟩ đặt ⟨את⟩ màn che lối vào cho đền trại.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "và đặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "màn che lối vào"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "màn che"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "lối vào"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "cho đền trại"
+    }
+  ],
+  "timestamp": "2026-08-19T02:39:11.883492367Z",
+  "model": "glm-5.3"
+}

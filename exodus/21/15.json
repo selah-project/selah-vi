@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Kẻ nào đánh cha mình hay mẹ mình thì chắc chắn bị xử tử.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "kẻ nào đánh"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "cha mình"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "hay mẹ mình"
+    },
+    {
+      "surface": "מות",
+      "gloss": "chết"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bị khiến chết"
+    }
+  ],
+  "timestamp": "2026-08-19T02:33:03.520443639Z",
+  "model": "glm-5.3"
+}

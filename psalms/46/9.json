@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 46,
+  "translation": "Hãy đến, hãy ngắm các công trình của Yahweh, Đấng đã đặt những tàn phá trong đất.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "hãy đến"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "hãy ngắm"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "các công trình"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Đấng mà"
+    },
+    {
+      "surface": "שם",
+      "gloss": "đã đặt"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "những tàn phá"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trong đất"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:18.818532457Z",
+  "model": "glm-5.3"
+}

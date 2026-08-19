@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Vua Yisra'el nói với Elisha khi ông thấy ⟨את⟩ họ: Hỡi cha tôi, con có nên đánh ⟨את⟩ họ chăng, con có nên đánh chăng?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "khi ông thấy"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "họ"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "con có nên đánh?"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "con có nên đánh?"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "hỡi cha tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:56:44.956238986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Vì ʿEzraʾ đã chuẩn bị lòng mình để tìm kiếm ⟨את⟩ Torah của Yahweh, và để làm, và để dạy trong Yisraʾel luật lệ và phán quyết.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "ʿEzraʾ"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "đã chuẩn bị"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "lòng mình"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "để tìm kiếm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Torah của Yahweh"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torah của"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "và để làm"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "và để dạy"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "trong Yisraʾel"
+    },
+    {
+      "surface": "חק",
+      "gloss": "luật lệ"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "và phán quyết"
+    }
+  ],
+  "timestamp": "2026-08-19T05:41:26.934595667Z",
+  "model": "glm-5.3"
+}

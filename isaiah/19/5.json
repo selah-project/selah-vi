@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Và nước sẽ vơi cạn khỏi biển, và sông sẽ khô cằn và héo khô.",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "và sẽ vơi cạn"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "khỏi biển"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "và sông"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "sẽ khô cằn"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "và héo khô"
+    }
+  ],
+  "timestamp": "2026-08-19T04:06:53.242949073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 71,
+  "translation": "nói rằng: Elohim đã bỏ lìa hắn; đuổi bắt và túm lấy hắn, vì không có ai giải cứu.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "nói rằng"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "đã bỏ lìa hắn"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "đuổi bắt"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "và túm lấy hắn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "ai giải cứu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:19.133918194Z",
+  "model": "glm-5.3"
+}

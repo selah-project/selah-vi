@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 44:24",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Như vậy Yahweh đã phán, Đấng chuộc ngươi, và Đấng dựng nên ngươi từ trong lòng mẹ: Ta là Yahweh, Đấng làm mọi sự, Đấng trải ra các tầng trời một mình Ta, Đấng trải rộng ⟨את⟩ đất — ai ⟨את⟩ cùng ta?",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "như vậy"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "đã phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גאלך",
+      "gloss": "Đấng chuộc ngươi"
+    },
+    {
+      "surface": "ויצרך",
+      "gloss": "và Đấng dựng nên ngươi"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "từ trong lòng mẹ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Đấng làm"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi sự"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Đấng trải ra"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "các tầng trời"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "một mình Ta"
+    },
+    {
+      "surface": "רקע",
+      "gloss": "Đấng trải rộng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ cùng ta",
+      "marks": "đất (đối tượng của הארץ שרקע; אתי là giới từ 'với ta')"
+    }
+  ],
+  "timestamp": "2026-08-19T04:13:01.520629905Z",
+  "model": "glm-5.3"
+}

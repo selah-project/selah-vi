@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Vậy hãy tự thánh hóa các ngươi, và các ngươi sẽ nên thánh; vì Ta là Yahweh Elohim của các ngươi.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "Vậy hãy tự thánh hóa các ngươi"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "và các ngươi sẽ nên"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "thánh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim của các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:46:10.800888346Z",
+  "model": "glm-5.3"
+}

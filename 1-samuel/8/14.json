@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và ⟨את⟩ các cánh đồng của các ngươi, và ⟨את⟩ các vườn nho của các ngươi, và các cây ô liu của các ngươi — những cái tốt — nó sẽ lấy, và ban cho các đầy tớ của nó.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "các cánh đồng của các ngươi"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "các cánh đồng của các ngươi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "các vườn nho của các ngươi"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "các vườn nho của các ngươi"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "và các cây ô liu của các ngươi"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "những cái tốt"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "nó sẽ lấy"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "và ban cho"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "các đầy tớ của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T03:30:19.466470142Z",
+  "model": "glm-5.3"
+}

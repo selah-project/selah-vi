@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 74:21",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 74,
+  "translation": "Nguyện kẻ bị nghiền nát đừng quay trở lại trong sỉ nhục; người nghèo khó và kẻ thiếu thốn sẽ ngợi khen Danh ngài.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "quay trở lại"
+    },
+    {
+      "surface": "דך",
+      "gloss": "kẻ bị nghiền nát"
+    },
+    {
+      "surface": "נכלם",
+      "gloss": "trong sỉ nhục"
+    },
+    {
+      "surface": "עני",
+      "gloss": "người nghèo khó"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "và kẻ thiếu thốn"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "sẽ ngợi khen"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Danh ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:15.318560956Z",
+  "model": "glm-5.3"
+}

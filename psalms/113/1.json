@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 113,
+  "translation": "Hãy ca ngợi Yah! Hãy ca ngợi, hỡi các tôi tớ của Yahweh; hãy ca ngợi ⟨את⟩ danh Yahweh.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "hãy ca ngợi"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "hãy ca ngợi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "các tôi tớ của"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "hãy ca ngợi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "danh Yahweh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "danh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:38.124284752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 1:15",
+  "book": "song-of-songs",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Này, em đẹp lắm, người yêu của tôi; này, em đẹp lắm; mắt em ⟨là⟩ bồ câu.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "này (ngươi)"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "đẹp"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "người yêu của tôi (nữ)"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "này (ngươi)"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "đẹp"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "mắt của em"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "bồ câu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:28:27.235840750Z",
+  "model": "glm-5.3"
+}

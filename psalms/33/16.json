@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 33,
+  "translation": "Vua không được cứu bởi đông đảo binh lực; người dũng sĩ không thoát khỏi bởi sự dồi dào sức mạnh.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "không"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "được cứu"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "bởi đông đảo"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "binh lực"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "người dũng sĩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "thoát khỏi"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "bởi sự dồi dào"
+    },
+    {
+      "surface": "כח",
+      "gloss": "sức mạnh"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:48.099151921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 7:27",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Người ta làm ⟨את⟩ mười chiếc kiệng bằng đồng; bốn ammat là chiều dài của một kiệng, và bốn ammat là bề rộng của nó, và ba ammat là chiều cao của nó.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "và người ta làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mười chiếc kiệng"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "các kiệng (đế đỡ)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mười"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "bằng đồng"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "bốn"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "bằng ammat"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "chiều dài"
+    },
+    {
+      "surface": "המכונה",
+      "gloss": "của kiệng"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "một"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "và bốn"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "bằng ammat"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "bề rộng của nó"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "và ba"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "bằng ammat"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "chiều cao của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T03:49:21.350754314Z",
+  "model": "glm-5.3"
+}

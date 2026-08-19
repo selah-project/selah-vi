@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Chớ ghét ⟨את⟩ anh của ngươi trong lòng ngươi; chắc chắn hãy trách ⟨את⟩ đồng bạn của ngươi, và chớ mang tội trên hắn.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "ghét"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anh của ngươi"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "anh của ngươi"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "trong lòng ngươi"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "hãy trách"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "chắc chắn trách"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đồng bạn của ngươi"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "đồng bạn của ngươi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và chớ"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "mang"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "trên hắn"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "tội"
+    }
+  ],
+  "timestamp": "2026-08-19T02:46:04.501732198Z",
+  "model": "glm-5.3"
+}

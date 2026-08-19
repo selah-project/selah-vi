@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và xảy ra vào buổi sáng, lúc dâng lễ vật ⟨thực⟩, thì kìa, nước đang đến từ hướng Edom, và xứ được đầy ⟨את⟩ nước.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Và xảy ra"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "vào buổi sáng"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "lúc dâng lên"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "lễ vật"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "thì kìa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "באים",
+      "gloss": "đang đến"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "từ hướng"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "và được đầy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "xứ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nước"
+    },
+    {
+      "surface": "המים",
+      "gloss": "nước"
+    }
+  ],
+  "timestamp": "2026-08-19T03:56:11.699349361Z",
+  "model": "glm-5.3"
+}

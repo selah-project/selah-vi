@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 3:20",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Vì sao Ngài ban ánh sáng cho kẻ khốn khổ, và sự sống cho kẻ có tâm hồn đắng cay?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "vì sao"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "Ngài ban"
+    },
+    {
+      "surface": "לעמל",
+      "gloss": "cho kẻ khốn khổ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ánh sáng"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "và sự sống"
+    },
+    {
+      "surface": "למרי",
+      "gloss": "cho kẻ đắng cay"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "tâm hồn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:20:25.000412584Z",
+  "model": "glm-5.3"
+}

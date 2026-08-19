@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 56,
+  "translation": "Cho người chỉ huy, về 'bồ câu câm giữa những nơi xa', của David, Mikhtam, khi Pelishtim bắt ⟨את⟩ ông tại Gat.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "cho người chỉ huy"
+    },
+    {
+      "surface": "על",
+      "gloss": "về"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "bồ câu"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "câm"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "những nơi xa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "của David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Mikhtam"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "khi bắt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ông"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "tại Gat"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:50.993789017Z",
+  "model": "glm-5.3"
+}

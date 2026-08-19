@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 8:14",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Ngươi hãy tách riêng ⟨את⟩ người Ha-Levi khỏi giữa con cái Yisrael, và người Ha-Levi sẽ thuộc về Ta.",
+  "tokens": [
+    {
+      "surface": "והבדלת",
+      "gloss": "và ngươi hãy tách riêng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người Ha-Levi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "người Ha-Levi"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "khỏi giữa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "và họ sẽ là"
+    },
+    {
+      "surface": "לי",
+      "gloss": "của Ta"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "người Ha-Levi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:55:11.689402920Z",
+  "model": "glm-5.3"
+}

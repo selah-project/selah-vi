@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 9:32",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Vì Ngài không phải là người như tôi, để tôi có thể trả lời Ngài, để chúng tôi cùng nhau đến trước tòa phán xét.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "כמני",
+      "gloss": "như tôi"
+    },
+    {
+      "surface": "אעננו",
+      "gloss": "tôi trả lời Ngài"
+    },
+    {
+      "surface": "נבוא",
+      "gloss": "chúng tôi đến"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "cùng nhau"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "trước tòa phán xét"
+    }
+  ],
+  "timestamp": "2026-08-19T05:21:51.134744473Z",
+  "model": "glm-5.3"
+}

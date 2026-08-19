@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Và sau đó nàng sinh một con gái, và nàng gọi tên nàng là Dinah.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "và sau đó"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "nàng đã sinh"
+    },
+    {
+      "surface": "בת",
+      "gloss": "một con gái"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "và nàng gọi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tên nàng"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tên nàng"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinah"
+    }
+  ],
+  "timestamp": "2026-08-19T01:11:08.982902021Z",
+  "model": "glm-5.3"
+}

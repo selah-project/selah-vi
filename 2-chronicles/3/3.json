@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 3:3",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và đây là nền móng Shlomoh đặt để xây ⟨את⟩ nhà của Elohim: chiều dài, theo thước đo thứ nhất, sáu mươi ama; và bề ngang hai mươi ama.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "và đây là"
+    },
+    {
+      "surface": "הוסד",
+      "gloss": "được đặt nền"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomoh"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "để xây"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhà của Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "của Elohim"
+    },
+    {
+      "surface": "הארך",
+      "gloss": "chiều dài"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "theo thước đo"
+    },
+    {
+      "surface": "הראשונה",
+      "gloss": "thứ nhất"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "sáu mươi"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "và bề ngang"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "hai mươi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:22:19.735597628Z",
+  "model": "glm-5.3"
+}

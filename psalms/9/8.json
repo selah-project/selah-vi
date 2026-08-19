@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Còn Yahweh ngự đến đời đời; Ngài đã thiết lập ngai của Ngài cho sự phán xét.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Còn Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "đến đời đời"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ngự"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "đã thiết lập"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "cho sự phán xét"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ngai của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T04:55:51.978216536Z",
+  "model": "glm-5.3"
+}

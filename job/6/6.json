@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 6:6",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Đồ nhạt nhẽo có ăn được khi thiếu muối không? Hay là có vị gì trong nước cốt rau sam?",
+  "tokens": [
+    {
+      "surface": "היאכל",
+      "gloss": "có ăn được không"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "đồ nhạt nhẽo"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "khi thiếu"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "muối"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hay là"
+    },
+    {
+      "surface": "יש",
+      "gloss": "có"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "vị"
+    },
+    {
+      "surface": "בריר",
+      "gloss": "nước cốt"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "rau sam"
+    }
+  ],
+  "timestamp": "2026-08-19T05:21:07.305004614Z",
+  "model": "glm-5.3"
+}

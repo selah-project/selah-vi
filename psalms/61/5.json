@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 61,
+  "translation": "Tôi sẽ ở trú trong lều ngươi mãi mãi, tôi sẽ nương náu trong bóng che cánh của ngươi. Selah",
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "tôi sẽ ở trú"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "trong lều ngươi"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "mãi mãi"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "tôi sẽ nương náu"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "trốn tích — nơi ẩn kín"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "cánh của ngươi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:44.019371925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và các con của Elpaal: Ever, và Misham, và Shamed — chính hắn đã xây ⟨את⟩ Ono và ⟨את⟩ Lod cùng các làng của nó.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "và các con"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaal"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "và Misham"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "và Shamed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chính hắn"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "đã xây"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Lod"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lod"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "và các làng của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:48:23.695732828Z",
+  "model": "glm-5.3"
+}

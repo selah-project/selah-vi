@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 105,
+  "translation": "Người đã sai sự tối tăm, và nó tối lại; và họ đã không phản nghịch ⟨את⟩ lời của Người.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "đã sai"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "sự tối tăm"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "và nó tối lại"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "họ đã phản nghịch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lời của Người"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "lời của Người"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:29.552435287Z",
+  "model": "glm-5.3"
+}

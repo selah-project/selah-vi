@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Tôi là tôi tớ của Ngài; xin cho tôi sự thông hiểu, để tôi biết các chứng cớ của Ngài.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "tôi tớ Ngài"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "xin cho tôi thông hiểu"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "và tôi biết"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "các chứng cớ Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:20.848076721Z",
+  "model": "glm-5.3"
+}

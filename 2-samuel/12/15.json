@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Natan đi về nhà mình. Yahweh đánh ⟨את⟩ đứa trẻ mà vợ của Uriyah đã sinh cho David, và nó bệnh nặng không cứu chữa được.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "đi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "về"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nhà mình"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "đánh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đứa trẻ"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "đứa trẻ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "đã sinh"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vợ"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "của Uriyah"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "cho David"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "bệnh không cứu chữa được"
+    }
+  ],
+  "timestamp": "2026-08-19T03:41:43.689079226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 120,
+  "translation": "Đã quá lâu linh hồn tôi cư ngụ ⟨cùng⟩ kẻ ghét sự bình an.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "đã quá lâu"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "nó cư ngụ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "cho nó"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "linh hồn tôi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨cùng⟩"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "kẻ ghét"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sự bình an"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:31.181332321Z",
+  "model": "glm-5.3"
+}

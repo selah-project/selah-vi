@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 34:30",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 34,
+  "translation": "Aharon và mọi con cái Yisrael thấy ⟨את⟩ Moshe, và kìa, da mặt ⟨anh⟩ phát ra tia sáng; và họ sợ không dám đến gần ⟨anh⟩.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "và thấy"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "và kìa"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "phát ra tia sáng"
+    },
+    {
+      "surface": "עור",
+      "gloss": "da"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mặt ⟨anh⟩"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "và họ sợ"
+    },
+    {
+      "surface": "מגשת",
+      "gloss": "không dám đến gần"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "với ⟨anh⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T02:37:32.938555189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 7:4",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Và Pharaoh sẽ không nghe các ngươi; và Ta sẽ đặt ⟨את⟩ tay Ta trên Mitzrayim, và Ta sẽ đưa ra ⟨את⟩ các đạo binh của Ta, ⟨את⟩ dân Ta, con cái Yisrael, khỏi đất Mitzrayim bằng các phép-xét lớn lao.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "và-không"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "sẽ-nghe"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "các-ngươi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaoh"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "và-Ta-sẽ-đặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tay Ta"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tay-Ta"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "trên-Mitzrayim"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "và-Ta-sẽ-đưa-ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các đạo binh của Ta"
+    },
+    {
+      "surface": "צבאתי",
+      "gloss": "các-đạo-binh-của-Ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân Ta"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "dân-Ta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con-cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "khỏi-đất"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "בשפטים",
+      "gloss": "bằng-các-phép-xét"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "lớn-lao"
+    }
+  ],
+  "timestamp": "2026-08-19T02:29:09.273012735Z",
+  "model": "glm-5.3"
+}

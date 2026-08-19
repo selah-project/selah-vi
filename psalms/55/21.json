@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 55:21",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 55,
+  "translation": "Hắn đưa tay ra chống những kẻ hòa bình với mình, hắn đã làm ô uế ⟨את⟩ giao ước của mình.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "đưa ra"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "tay hắn"
+    },
+    {
+      "surface": "בשלמיו",
+      "gloss": "vào những kẻ hòa bình với mình"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "làm ô uế"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "giao ước của mình"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "giao ước của mình"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:46.981473999Z",
+  "model": "glm-5.3"
+}

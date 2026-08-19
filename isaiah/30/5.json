@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 30:5",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Tất cả đều xấu hổ vì ⟨một⟩ dân không làm lợi gì cho họ; không phải để giúp đỡ và không phải để làm lợi, nhưng để sỉ nhục và cũng để điều nhục nhã.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tất cả"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "đều xấu hổ"
+    },
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עם",
+      "gloss": "một dân"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "làm lợi"
+    },
+    {
+      "surface": "למו",
+      "gloss": "cho họ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "để giúp đỡ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "להועיל",
+      "gloss": "để làm lợi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nhưng"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "để sỉ nhục"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "và cũng"
+    },
+    {
+      "surface": "לחרפה",
+      "gloss": "để điều nhục nhã"
+    }
+  ],
+  "timestamp": "2026-08-19T04:09:43.169759886Z",
+  "model": "glm-5.3"
+}

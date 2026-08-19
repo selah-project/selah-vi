@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 26:16",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Và Avimelekh nói với Yitschak: Hãy đi khỏi chúng ta, vì ngươi đã mạnh hơn chúng ta rất nhiều.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hãy đi"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "khỏi chúng ta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עצמת",
+      "gloss": "ngươi đã mạnh"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "hơn chúng ta"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "rất nhiều"
+    }
+  ],
+  "timestamp": "2026-08-19T01:09:23.857037061Z",
+  "model": "glm-5.3"
+}

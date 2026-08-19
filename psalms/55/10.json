@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 55,
+  "translation": "Hãy nuốt đi, Adonai, hãy chia xé lưỡi họ, vì tôi đã thấy bạo hành và tranh chấp trong thành.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "hãy nuốt"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "hãy chia xé"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "lưỡi họ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "tôi đã thấy"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "bạo hành"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "và tranh chấp"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "trong thành"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:20.052096185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 24:17",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Khi kẻ thù ngươi ngã xuống, chớ vui mừng; và khi hắn vấp ngã, chớ để lòng ngươi hớn hở.",
+  "tokens": [
+    {
+      "surface": "בנפל",
+      "gloss": "khi ngã xuống"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "kẻ thù ngươi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תשמח",
+      "gloss": "vui mừng"
+    },
+    {
+      "surface": "ובכשלו",
+      "gloss": "và khi hắn vấp ngã"
+    },
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "hớn hở"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "lòng ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:18:30.002231907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 73,
+  "translation": "Còn tôi thì dại dột và không biết; tôi đã ⟨như⟩ con vật thú ở với Ngài.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "còn tôi"
+    },
+    {
+      "surface": "בער",
+      "gloss": "dại dột"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "biết"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "con vật thú"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "tôi đã là"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ở với Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:08.931945844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Vì bảy lần Cain được báo thù, còn Lemek bảy mươi bảy lần.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "bảy lần"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "được báo thù"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Cain"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "còn Lemek"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "bảy mươi"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "và bảy"
+    }
+  ],
+  "timestamp": "2026-08-19T00:48:23.758663751Z",
+  "model": "glm-5.3"
+}

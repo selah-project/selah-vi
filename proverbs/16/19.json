@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Thắng hơn là tinh thần khiêm hạ ⟨את⟩ người nghèo khó, hơn là chia chiến lợi phẩm ⟨את⟩ kẻ kiêu căng.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "thắng hơn"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "khiêm hạ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "tinh thần"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người nghèo khó"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "người nghèo khó"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "chia"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "chiến lợi phẩm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kẻ kiêu căng"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "kẻ kiêu căng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:17:06.499317719Z",
+  "model": "glm-5.3"
+}

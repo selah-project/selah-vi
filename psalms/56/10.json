@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 56,
+  "translation": "Bấy giờ kẻ thù của con sẽ lùi lại vào ngày con kêu cầu; điều này con biết: rằng Elohim ⟨là⟩ đấng vì con.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "bấy giờ"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "sẽ lùi lại"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "kẻ thù của con"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "lùi ra sau"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "vào ngày"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "con kêu cầu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "điều này"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "con biết"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vì con \/ cho con"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:53.606856097Z",
+  "model": "glm-5.3"
+}

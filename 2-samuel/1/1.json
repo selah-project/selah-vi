@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Xảy ra là sau khi Sha-ul chết, và Dav-id quay về từ việc đánh ⟨את⟩ người Amalek, thì Dav-id ở lại tại Tsiklag hai ngày.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "xảy ra là"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sau khi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "chết"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "và Dav-id"
+    },
+    {
+      "surface": "שב",
+      "gloss": "quay về"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "từ việc đánh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người Amalek"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "người Amalek"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "và ở lại"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dav-id"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "tại Tsiklag"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "hai"
+    }
+  ],
+  "timestamp": "2026-08-19T03:38:55.836288406Z",
+  "model": "glm-5.3"
+}

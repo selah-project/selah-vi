@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 50,
+  "translation": "Hãy nhóm lại cho Ta các kẻ tin kính của Ta, những kẻ cắt giao ước với Ta trên hy sinh.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "Hãy nhóm lại"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho Ta"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "các kẻ tin kính của Ta"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "những kẻ cắt"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "giao ước với Ta"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "trên"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "hy sinh"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:41.392778181Z",
+  "model": "glm-5.3"
+}

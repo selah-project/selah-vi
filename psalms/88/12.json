@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 88,
+  "translation": "Há sự nhân từ của Ngươi được kể lại trong mồ mả sao? Sự tín thực của Ngươi trong Abaddon sao?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "há được kể lại"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "trong mồ mả"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sự nhân từ của Ngươi"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "sự tín thực của Ngươi"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "trong Abaddon"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:22.377287597Z",
+  "model": "glm-5.3"
+}

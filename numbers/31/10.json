@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Và ⟨את⟩ tất cả các thành của họ tại nơi cư ngụ của họ, và ⟨את⟩ tất cả các đồn lũy của họ, họ đã đốt bằng lửa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "tất cả các thành của họ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "các thành của họ"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "tại nơi cư ngụ của họ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "tất cả các đồn lũy của họ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "các đồn lũy của họ"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "họ đã đốt"
+    },
+    {
+      "surface": "באש",
+      "gloss": "bằng lửa"
+    }
+  ],
+  "timestamp": "2026-08-19T03:03:04.381257125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Cho người hướng dẫn nhạc, theo điệu Gittith. Thánh thi của David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "cho người hướng dẫn nhạc"
+    },
+    {
+      "surface": "על",
+      "gloss": "theo (điệu)"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gittith"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "thánh thi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "của David"
+    }
+  ],
+  "timestamp": "2026-08-19T04:55:23.573124208Z",
+  "model": "glm-5.3"
+}

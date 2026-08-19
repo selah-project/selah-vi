@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 37:36",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Và nó qua đi, và này, nó không còn; và tôi tìm nó, nhưng không thấy được.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "và-nó-qua-đi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "và-này"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nó-không-còn"
+    },
+    {
+      "surface": "ואבקשהו",
+      "gloss": "và-tôi-tìm-nó"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nhưng-không"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "được-tìm-thấy"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:27.115755323Z",
+  "model": "glm-5.3"
+}

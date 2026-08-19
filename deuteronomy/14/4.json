@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Đây là con vật mà các ngươi được ăn: bò, chiên của tuần cừu, và dê của bầy dê.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "đây là"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "con vật"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "các ngươi ăn"
+    },
+    {
+      "surface": "שור",
+      "gloss": "bò"
+    },
+    {
+      "surface": "שה",
+      "gloss": "chiên\/con vật nhỏ"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "của tuần cừu"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "và con vật nhỏ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "của bầy dê"
+    }
+  ],
+  "timestamp": "2026-08-19T03:08:19.333108200Z",
+  "model": "glm-5.3"
+}

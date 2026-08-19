@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 41:3",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 41,
+  "translation": "Người đuổi theo họ, đi qua trong bình an — một con đường mà chân người không hề bước vào.",
+  "tokens": [
+    {
+      "surface": "ירדפם",
+      "gloss": "Người đuổi theo họ"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "đi qua"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "trong bình an"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "một con đường"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "bằng chân người"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "bước vào"
+    }
+  ],
+  "timestamp": "2026-08-19T04:12:05.186380119Z",
+  "model": "glm-5.3"
+}

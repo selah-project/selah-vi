@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 126,
+  "translation": "Yahweh đã làm việc lớn lao cho chúng tôi; chúng tôi được vui mừng.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "đã làm lớn lao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "cho việc làm"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "cho chúng tôi \/ với chúng tôi"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "chúng tôi đã trở thành"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "những người vui mừng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:03.650397992Z",
+  "model": "glm-5.3"
+}

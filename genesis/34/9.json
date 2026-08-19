@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 34,
+  "translation": "và hãy kết thông gia ⟨את⟩-chúng tôi: con gái của các ông hãy gả cho chúng tôi, và ⟨את⟩ con gái của chúng tôi các ông hãy cưới lấy cho mình.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "và hãy kết thông gia"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ chúng tôi",
+      "marks": "với chúng tôi"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "con gái của các ông"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "các ông hãy gả"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "cho chúng tôi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "con gái của chúng tôi"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "con gái của chúng tôi"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "các ông hãy cưới lấy"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho mình"
+    }
+  ],
+  "timestamp": "2026-08-19T01:19:46.066404891Z",
+  "model": "glm-5.3"
+}

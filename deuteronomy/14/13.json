@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "và diều hâu, và ⟨את⟩ chim ưng, và kitesh theo loài của nó",
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "và diều hâu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "chim ưng"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "chim ưng"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "và kitesh"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "theo loài của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T03:08:05.522472702Z",
+  "model": "glm-5.3"
+}

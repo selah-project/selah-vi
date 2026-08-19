@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Lòng chồng nàng tin cậy nơi nàng, và ⟨về⟩ lợi lộc nàng sẽ không thiếu thốn.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "tin cậy"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nơi nàng"
+    },
+    {
+      "surface": "לב",
+      "gloss": "lòng"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "chồng nàng"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "và lợi lược"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "thiếu thốn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:20:00.417071188Z",
+  "model": "glm-5.3"
+}

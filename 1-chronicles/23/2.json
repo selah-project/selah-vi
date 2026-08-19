@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Và người tập hợp ⟨את⟩ tất cả các thủ lãnh của Yisrael, và các thầy tế lễ, và người Lêvi.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "và người tập hợp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả các thủ lãnh của Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "các thủ lãnh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "và các thầy tế lễ"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "và người Lêvi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:52:30.397266900Z",
+  "model": "glm-5.3"
+}

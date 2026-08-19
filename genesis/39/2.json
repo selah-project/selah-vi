@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 39,
+  "translation": "Và Yahweh ⟨את⟩ ở cùng Yosef, và ⟨הוא⟩ trở thành người thành đạt, và ⟨הוא⟩ ở trong nhà chủ mình, người Mitsri.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Và có"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "và trở thành"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "thành đạt"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "và ở"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "trong nhà"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "chủ mình"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "người Mitsri"
+    }
+  ],
+  "timestamp": "2026-08-19T01:28:08.631340866Z",
+  "model": "glm-5.3"
+}

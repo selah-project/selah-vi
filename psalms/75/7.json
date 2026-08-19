@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 75,
+  "translation": "Vì ⟨sự nhấc lên⟩ không đến từ hướng đông, cũng không từ hướng tây, và không từ vùng hoang mạc núi non.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "từ hướng đi ra (đông)"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "và từ hướng tây"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "từ vùng hoang mạc"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "núi non"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:34.990193156Z",
+  "model": "glm-5.3"
+}

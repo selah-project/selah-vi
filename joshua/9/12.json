@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 9:12",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Này, bánh của chúng tôi — nóng chúng tôi đã lấy ⟨את⟩ nó từ nhà chúng tôi vào ngày chúng tôi ra đi để đến với các ngươi; và bây giờ này, nó khô rồi, và đã trở nên vụn nát.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "này"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "bánh của chúng tôi"
+    },
+    {
+      "surface": "חם",
+      "gloss": "nóng"
+    },
+    {
+      "surface": "הצטידנו",
+      "gloss": "chúng tôi đã lấy lương thực"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nó (bánh)"
+    },
+    {
+      "surface": "מבתינו",
+      "gloss": "từ nhà chúng tôi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "vào ngày"
+    },
+    {
+      "surface": "צאתנו",
+      "gloss": "chúng tôi ra đi"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "để đi"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "đến với các ngươi"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "và bây giờ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "này"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "khô"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "và đã trở nên"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "vụn nát"
+    }
+  ],
+  "timestamp": "2026-08-19T03:17:03.006244709Z",
+  "model": "glm-5.3"
+}

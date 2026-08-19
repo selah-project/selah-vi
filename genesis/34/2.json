@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 34:2",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 34,
+  "translation": "Và Shechem con trai của Hamor người Hivvites, thủ lĩnh của xứ, thấy ⟨את⟩ nàng; và hắn bắt ⟨את⟩ nàng, nằm với ⟨את⟩ nàng, và làm nhục nàng.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "và thấy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nàng (Dinah)"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shechem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "người Hivvites"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "thủ lĩnh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "của xứ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "và bắt"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nàng"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "và nằm với"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nàng"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "và làm nhục"
+    }
+  ],
+  "timestamp": "2026-08-19T02:23:38.747180559Z",
+  "model": "glm-5.3"
+}

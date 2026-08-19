@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Vậy vua Shlomoh ⟨là⟩ vua trên toàn thể Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "vậy đã xảy ra"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomoh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "làm vua"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T03:47:46.031693287Z",
+  "model": "glm-5.3"
+}

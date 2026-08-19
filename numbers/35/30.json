@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 35:30",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 35,
+  "translation": "Bất cứ ai đánh giết ⟨את⟩ mạng sống, theo lời các chứng nhân, kẻ giết người đó sẽ bị giết; nhưng một chứng nhân duy nhất không được chứng chống ⟨vì⟩ một mạng sống để phải chết.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bất cứ ai"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "đánh giết"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mạng sống"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "theo lời"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "các chứng nhân"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "sẽ bị giết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kẻ giết người"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "kẻ giết người"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "và một chứng nhân"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "duy nhất"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "được chứng chống"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "⟨vì⟩ một mạng sống"
+    },
+    {
+      "surface": "למות",
+      "gloss": "để phải chết"
+    }
+  ],
+  "timestamp": "2026-08-19T03:03:56.232040269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 64,
+  "translation": "Và mọi người sẽ kinh sợ, và sẽ kể ra công việc ⟨của⟩ Elohim, và hành động của Ngài họ sẽ suy gẫm khôn ngoan.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "và sẽ kinh sợ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "người"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "và sẽ kể ra"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "công việc"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "và hành động của Ngài"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "họ suy gẫm khôn ngoan"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:11.930518076Z",
+  "model": "glm-5.3"
+}

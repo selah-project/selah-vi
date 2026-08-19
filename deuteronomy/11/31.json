@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 11:31",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Vì các ngươi đang qua ⟨את⟩ sông Yorden để vào chiếm lấy ⟨את⟩ đất mà Yahweh Elohim của các ngươi ban cho các ngươi; và các ngươi sẽ chiếm lấy nó và sẽ ở trong nó.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "các ngươi"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "đang qua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sông Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sông Yarden"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "để vào"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "đặng chiếm lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đất"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim của các ngươi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "đang ban"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho các ngươi"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "và các ngươi sẽ chiếm lấy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ nó",
+      "marks": "đất (được chiếm lấy)"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "và sẽ ở"
+    },
+    {
+      "surface": "בה",
+      "gloss": "trong nó"
+    }
+  ],
+  "timestamp": "2026-08-19T03:07:42.403994365Z",
+  "model": "glm-5.3"
+}

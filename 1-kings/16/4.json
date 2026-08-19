@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 16:4",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Kẻ thuộc về Baasha chết trong thành thì chó sẽ ăn, và kẻ thuộc về nó chết ngoài đồng thì chim của các tầng trời sẽ ăn.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "kẻ chết"
+    },
+    {
+      "surface": "לבעשא",
+      "gloss": "thuộc về Baasha"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "trong thành"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "sẽ ăn"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "chó"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "và kẻ chết"
+    },
+    {
+      "surface": "לו",
+      "gloss": "thuộc về nó"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ngoài đồng"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "sẽ ăn"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "chim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "của các tầng trời"
+    }
+  ],
+  "timestamp": "2026-08-19T03:53:06.454169466Z",
+  "model": "glm-5.3"
+}

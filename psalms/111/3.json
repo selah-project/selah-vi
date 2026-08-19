@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 111,
+  "translation": "Vinh-quang và lộng-lẫy ⟨là⟩ việc-làm của Ngài, và sự-công-bình của Ngài đứng-đơ đời-đời.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "vinh-quang"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "và lộng-lẫy"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "việc-làm của Ngài"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "và sự-công-bình của Ngài"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "đứng-đơ"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "đời-đời"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:38.522135245Z",
+  "model": "glm-5.3"
+}

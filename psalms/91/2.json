@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 91,
+  "translation": "Tôi sẽ nói cùng Yahweh: '⟨Ngài là⟩ nơi nương náu của tôi và thành lũy của tôi, Elohim của tôi, tôi tin cậy nơi Ngài.'",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "tôi sẽ nói"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "cùng Yahweh"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "nơi nương náu của tôi"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "và thành lũy của tôi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của tôi"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "tôi tin cậy"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nơi Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:15.233281609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 11:4",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và David cùng toàn thể Yisrael đi đến Yerushalayim — ⟨đó⟩ là Yevus — và tại đó ⟨có⟩ người Yevus, dân cư của đất.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "đã đi đến"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "cùng toàn thể"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨đó⟩ là"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "Yevus"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "và tại đó"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "người Yevus"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "dân cư"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "của ⟨nước⟩ đất"
+    }
+  ],
+  "timestamp": "2026-08-19T05:49:49.750496248Z",
+  "model": "glm-5.3"
+}

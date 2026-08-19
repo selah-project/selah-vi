@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 17:2",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Và có lời của Yahweh đến với ông, phán rằng:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "và có"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lời"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "đến với ông"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "phán rằng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:52:50.078931221Z",
+  "model": "glm-5.3"
+}

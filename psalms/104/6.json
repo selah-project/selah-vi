@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 104,
+  "translation": "Vực sâu như áo choàng, Ngài phủ lấy ⟨nó⟩; trên các núi nước đứng.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "vực sâu"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "như áo choàng"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "Ngài phủ lấy nó"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "các núi"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "đứng"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:19.629102068Z",
+  "model": "glm-5.3"
+}

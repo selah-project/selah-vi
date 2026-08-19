@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 11:20",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và sau nàng, hắn lấy ⟨את⟩ Maakhah con gái của Avshalom; và nàng sinh cho hắn ⟨את⟩ Aviyah, và ⟨את⟩ Attai, và ⟨את⟩ Ziza, và ⟨את⟩ Shelomit.",
+  "tokens": [
+    {
+      "surface": "ואחריה",
+      "gloss": "và sau nàng"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "hắn lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maakhah con gái Avshalom"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakhah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "con gái"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "và nàng sinh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho hắn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aviyah"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Aviyah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Attai"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "Attai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Ziza"
+    },
+    {
+      "surface": "זיזא",
+      "gloss": "Ziza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Shelomit"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "Shelomit"
+    }
+  ],
+  "timestamp": "2026-08-19T05:56:01.953222694Z",
+  "model": "glm-5.3"
+}

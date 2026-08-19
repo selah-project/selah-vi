@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 144:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 144,
+  "translation": "Xin giải thoát con và cứu con khỏi tay con trai ngoại bang, miệng chúng nói điều hư không, và tay hữu chúng là tay hữu dối trá.",
+  "tokens": [
+    {
+      "surface": "פצני",
+      "gloss": "xin giải thoát con"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "và cứu con"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "khỏi tay"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ngoại bang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "miệng chúng"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "điều hư không"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "và tay hữu chúng"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "tay hữu"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "dối trá"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:06.254271178Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Bất kỳ người nào thuộc nhà Yitsrael slaughtered — mỗi người, mỗi người — giết bò, hoặc chiên, hoặc dê trong trại, hoặc giết ở ngoài trại:",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bất-kỳ-người-nào"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "thuộc-nhà"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yitsrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "giết"
+    },
+    {
+      "surface": "שור",
+      "gloss": "bò"
+    },
+    {
+      "surface": "או",
+      "gloss": "hoặc"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "chiên"
+    },
+    {
+      "surface": "או",
+      "gloss": "hoặc"
+    },
+    {
+      "surface": "עז",
+      "gloss": "dê"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "trong-trại"
+    },
+    {
+      "surface": "או",
+      "gloss": "hoặc"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "giết"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ở-ngoài"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "trại"
+    }
+  ],
+  "timestamp": "2026-08-19T02:45:36.077769137Z",
+  "model": "glm-5.3"
+}

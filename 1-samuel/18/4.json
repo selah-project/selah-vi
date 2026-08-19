@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Yehonatan lột khỏi mình ⟨את⟩ chiếc áo choàng đang mặc trên mình, và ban nó cho David, cùng áo xống của người, cho đến thanh gươm, cho đến cây cung, và cho đến đai lưng người.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "và người lột khỏi mình"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiếc áo choàng"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "chiếc áo choàng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "trên mình"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "và ban nó"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "cho David"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "cùng áo xống của người"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "thanh gươm người"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "cây cung người"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "đai lưng người"
+    }
+  ],
+  "timestamp": "2026-08-19T03:34:34.984521167Z",
+  "model": "glm-5.3"
+}

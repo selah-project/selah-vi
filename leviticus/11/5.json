@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và ⟨את⟩ con sha-phán, vì nó nhả lại thức ăn nhai nhưng móng không chẻ ra — nó ô uế đối với các ngươi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "con sha-phán"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "con sha-phán (hyrax đá)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "nhả lại"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "thức ăn nhai"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "và móng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "chẻ ra"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ô uế"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "đối với các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:42:33.359454955Z",
+  "model": "glm-5.3"
+}

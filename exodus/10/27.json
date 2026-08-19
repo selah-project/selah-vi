@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Và Yahweh làm cứng ⟨את⟩ lòng của Paroh, và người không muốn tha họ đi.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "và làm cứng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lòng"
+    },
+    {
+      "surface": "לב",
+      "gloss": "lòng"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "của Paroh"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "muốn"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "tha họ đi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:29:45.262335612Z",
+  "model": "glm-5.3"
+}

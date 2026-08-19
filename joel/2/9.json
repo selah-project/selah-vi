@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joel 2:9",
+  "book": "joel",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Trong thành phố chúng nó ào qua; trên tường thành chúng nó chạy; vào các nhà chúng nó leo lên; qua các cửa sổ chúng nó xông vào, như kẻ trộm.",
+  "tokens": [
+    {
+      "surface": "בעיר",
+      "gloss": "trong thành phố"
+    },
+    {
+      "surface": "ישקו",
+      "gloss": "chúng nó ào qua"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "trên tường thành"
+    },
+    {
+      "surface": "ירצון",
+      "gloss": "chúng nó chạy"
+    },
+    {
+      "surface": "בבתים",
+      "gloss": "vào các nhà"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "chúng nó leo lên"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "qua"
+    },
+    {
+      "surface": "החלונים",
+      "gloss": "các cửa sổ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "chúng nó xông vào"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "như kẻ trộm"
+    }
+  ],
+  "timestamp": "2026-08-19T04:46:30.313653437Z",
+  "model": "glm-5.3"
+}

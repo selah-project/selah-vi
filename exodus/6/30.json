@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 6:30",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và Moshe nói trước mặt Yahweh: Này, ta ⟨là⟩ người môi chưa cắt bì, và sao Paroh nghe ta?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הן",
+      "gloss": "này"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "chưa cắt bì"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "môi"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "và sao"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "nghe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:28:00.167917099Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 21:23",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Về Izevel cũng vậy, Yahweh đã phán rằng: Những con chó sẽ ăn ⟨את⟩ Izevel tại vạt thành Yizre'el.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "cũng vậy"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "về Izevel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "đã phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "những con chó"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "sẽ ăn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izevel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevel"
+    },
+    {
+      "surface": "בחל",
+      "gloss": "tại vạt thành"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizre'el"
+    }
+  ],
+  "timestamp": "2026-08-19T03:53:44.310813594Z",
+  "model": "glm-5.3"
+}

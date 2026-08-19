@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 122,
+  "translation": "Đang đứng ⟨is⟩ chân chúng ta trong các cổng của ngươi, hỡi Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "đang đứng"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨is⟩"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "chân chúng ta"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "trong các cổng của ngươi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:36.462432935Z",
+  "model": "glm-5.3"
+}

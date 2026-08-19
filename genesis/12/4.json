@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 12:4",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Và Avram đi, như Yahweh đã phán cùng ⟨את⟩ ông; và Lot đi cùng ⟨את⟩ ông; và Avram được bảy mươi lăm năm khi ông ra khỏi Haran.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "và-đi"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "đã-phán"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "cùng-ông"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "và-đi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ông (Avram — đi cùng ông)"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ואברם",
+      "gloss": "và-Avram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "được…-tuổi"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "năm"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "năm-thời-gian"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "và-bảy-mươi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "năm"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "khi-ông-ra"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "khỏi-Haran"
+    }
+  ],
+  "timestamp": "2026-08-19T00:56:13.166986733Z",
+  "model": "glm-5.3"
+}

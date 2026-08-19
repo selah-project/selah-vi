@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Và họ góp ⟨את⟩ nó mỗi sáng, mỗi sáng, mỗi người theo lượng ăn của mình; và khi mặt trời nóng lên thì nó tan ra.",
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "và họ góp"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nó (manna)"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "vào buổi sáng"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mỗi buổi sáng"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mỗi người"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "theo lượng"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ăn của mình"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "và khi nóng lên"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "mặt trời"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "thì nó tan ra"
+    }
+  ],
+  "timestamp": "2026-08-19T02:31:54.401595128Z",
+  "model": "glm-5.3"
+}

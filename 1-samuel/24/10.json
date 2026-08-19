@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "David nói với Shaul: Vì sao ngươi nghe ⟨את⟩ lời người ta, rằng: Này, David tìm điều ác hại ngươi?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "với Shaul"
+    },
+    {
+      "surface": "למה",
+      "gloss": "vì sao"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ngươi nghe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lời người ta"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "lời"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "người ta"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "này"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "tìm kiếm"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "điều ác hại ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:37:15.895012759Z",
+  "model": "glm-5.3"
+}

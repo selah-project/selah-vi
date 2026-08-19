@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 108,
+  "translation": "Xin ban cho chúng tôi sự trợ giúp khỏi cơn khốn cùng, vì sự cứu của loài người ⟨là⟩ phù không.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "xin ban cho"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "cho chúng tôi"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "sự trợ giúp"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "khỏi cơn khốn cùng"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "vì phù không"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "sự cứu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "của loài người"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:15.861753223Z",
+  "model": "glm-5.3"
+}

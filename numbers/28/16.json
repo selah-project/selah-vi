@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "và trong tháng thứ nhất, ngày mười bốn của tháng, là Lễ Vượt Qua của Yahweh.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "và trong tháng"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "thứ nhất"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "bốn"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mười"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "của tháng"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Lễ Vượt Qua"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "của Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T03:01:38.051119546Z",
+  "model": "glm-5.3"
+}

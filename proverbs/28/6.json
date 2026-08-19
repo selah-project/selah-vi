@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 28:6",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Tốt hơn là kẻ nghèo đi ⟨trong⟩ sự vẹn toàn, hơn kẻ cong quẹo đường lối ⟨mà⟩ ⟨là⟩ người giàu.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "tốt"
+    },
+    {
+      "surface": "רש",
+      "gloss": "kẻ nghèo"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "đi"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "trong sự vẹn toàn"
+    },
+    {
+      "surface": "מעקש",
+      "gloss": "cong quẹo"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "đường lối"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "và ⟨hắn⟩"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "người giàu"
+    }
+  ],
+  "timestamp": "2026-08-19T06:20:05.017477450Z",
+  "model": "glm-5.3"
+}

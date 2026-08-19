@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 22:21",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Bilam đứng dậy buổi sáng, thắng yên ⟨את⟩ con lừa cái của mình, và đi cùng các quan trưởng của Moav.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "đứng dậy"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "buổi sáng"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "thắng yên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con lừa cái của mình"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "con lừa cái của mình"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "và đi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cùng"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "các quan trưởng"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    }
+  ],
+  "timestamp": "2026-08-19T02:59:29.367799104Z",
+  "model": "glm-5.3"
+}

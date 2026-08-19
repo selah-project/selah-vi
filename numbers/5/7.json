@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 5:7",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "thì họ phải xưng认 ⟨את⟩ tội mình đã phạm, và đền lại món mắc nợ đủ vốn của nó, cộng thêm phần năm vào đó, và đưa cho người mà họ đã phạm tội với người ấy.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "thì họ xưng tội"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tội mình"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "tội của họ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "họ đã phạm"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "và người ấy đền lại"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "món mắc nợ của người ấy"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "món mắc nợ của người ấy"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "đủ vốn của nó"
+    },
+    {
+      "surface": "וחמישתו",
+      "gloss": "và phần năm của nó"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "cộng thêm"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "vào đó"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "và đưa"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "cho người mà"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "đã phạm tội"
+    },
+    {
+      "surface": "לו",
+      "gloss": "với người ấy"
+    }
+  ],
+  "timestamp": "2026-08-19T06:04:52.145036421Z",
+  "model": "glm-5.3"
+}

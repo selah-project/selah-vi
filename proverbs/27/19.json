@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 27:19",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Như trong nước, gương mặt ⟨soi⟩ gương mặt, vậy ⟨cũng⟩ lòng người ⟨soi⟩ ⟨đúng⟩ người.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "như trong nước"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "gương mặt"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "đối với gương mặt"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vậy cũng"
+    },
+    {
+      "surface": "לב",
+      "gloss": "lòng"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "của người"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "đối với người"
+    }
+  ],
+  "timestamp": "2026-08-19T05:19:11.624613298Z",
+  "model": "glm-5.3"
+}

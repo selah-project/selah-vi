@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 91,
+  "translation": "Một ngàn ngã xuống bên cạnh ngươi, và vạn bên hữu ngươi; ⟨nó⟩ sẽ không đến gần ngươi.",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "ngã xuống"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "bên cạnh ngươi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "một ngàn"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "và vạn"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "bên hữu ngươi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "đến với ngươi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "sẽ đến gần"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:00.444358425Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 25:22",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "và ⟨את⟩ tất cả các vua của Tzor, và ⟨את⟩ tất cả các vua của Tzidon, và ⟨את⟩ các vua của hòn đảo ở bên kia biển.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "tất cả các vua của Tzor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "các vua của"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tzor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "tất cả các vua của Tzidon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "các vua của"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tzidon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các vua của hòn đảo"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "các vua của"
+    },
+    {
+      "surface": "האי",
+      "gloss": "hòn đảo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ở bên kia"
+    },
+    {
+      "surface": "הים",
+      "gloss": "biển"
+    }
+  ],
+  "timestamp": "2026-08-19T04:22:44.710773312Z",
+  "model": "glm-5.3"
+}

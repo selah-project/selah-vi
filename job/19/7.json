@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 19:7",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Này, tôi kêu van: 'Bạo động!' nhưng không được đáp; tôi la cầu cứu, nhưng ⟨không⟩ có sự phán xử.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "này"
+    },
+    {
+      "surface": "אצעק",
+      "gloss": "tôi kêu van"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "bạo động"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nhưng không"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "được đáp"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "tôi la cầu cứu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nhưng không có"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sự phán xử"
+    }
+  ],
+  "timestamp": "2026-08-19T05:23:32.408454503Z",
+  "model": "glm-5.3"
+}

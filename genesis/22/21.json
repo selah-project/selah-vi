@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "⟨את⟩ Utz con trưởng tử của ông, và ⟨את⟩ Buz anh em ông, và ⟨את⟩ Kemuel cha của Aram.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Utz"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Utz"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "con trưởng tử của ông"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Buz"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buz"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "anh em ông"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Kemuel"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Kemuel"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "cha của"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-19T01:03:42.871453865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 21:32",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Nếu con bò húc một tôi trai hoặc một tớ gái, thì chủ nó sẽ trả ba mươi sêken bạc cho chủ của họ, và con bò sẽ bị ném đá.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Nếu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "tôi trai"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "húc"
+    },
+    {
+      "surface": "השור",
+      "gloss": "con bò"
+    },
+    {
+      "surface": "או",
+      "gloss": "hoặc"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "tớ gái"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "bạc"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ba mươi"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "sêken"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "sẽ trả"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "cho chủ của họ"
+    },
+    {
+      "surface": "והשור",
+      "gloss": "và con bò"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "sẽ bị ném đá"
+    }
+  ],
+  "timestamp": "2026-08-19T02:33:40.480581360Z",
+  "model": "glm-5.3"
+}

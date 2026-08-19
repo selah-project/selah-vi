@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Và ngươi hãy cảnh báo ⟨את⟩ họ về ⟨את⟩ các luật lệ và ⟨את⟩ các giáo huấn, và cho họ biết ⟨את⟩ con đường họ sẽ đi trong nó, và ⟨את⟩ công việc họ sẽ làm.",
+  "tokens": [
+    {
+      "surface": "והזהרתה",
+      "gloss": "và ngươi hãy cảnh báo"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ họ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các luật lệ"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "các luật lệ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các giáo huấn"
+    },
+    {
+      "surface": "התורת",
+      "gloss": "các giáo huấn"
+    },
+    {
+      "surface": "והודעת",
+      "gloss": "và cho biết"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho họ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con đường"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "con đường"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "họ sẽ đi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "trong nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "công việc"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "công việc"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "họ sẽ làm"
+    }
+  ],
+  "timestamp": "2026-08-19T02:32:35.816073173Z",
+  "model": "glm-5.3"
+}

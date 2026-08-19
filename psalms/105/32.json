@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 105:32",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 105,
+  "translation": "Ngài ban mưa của chúng thành mưa đá, lửa ngọn cháy trong đất của chúng.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "Ngài ban"
+    },
+    {
+      "surface": "גשמיהם",
+      "gloss": "mưa của chúng"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "mưa đá"
+    },
+    {
+      "surface": "אש",
+      "gloss": "lửa"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "ngọn cháy"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "trong đất của chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:06.493839144Z",
+  "model": "glm-5.3"
+}

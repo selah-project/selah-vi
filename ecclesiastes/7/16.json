@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Đừng quá công chính, và đừng khôn ngoan quá mức; tại sao ⟨bạn⟩ phải tự hủy hoại mình?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "hãy là"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "công chính"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "quá nhiều"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và đừng"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "khôn ngoan"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "quá mức"
+    },
+    {
+      "surface": "למה",
+      "gloss": "tại sao"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "phải tự hủy hoại"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:23.231806622Z",
+  "model": "glm-5.3"
+}

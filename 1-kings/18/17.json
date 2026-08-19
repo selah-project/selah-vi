@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Xảy ra, khi Achav thấy ⟨את⟩ Eliyahu, thì Achav nói với ⟨ông⟩: \"Ông là ⟨đấng⟩ này, kẻ làm nhiễu loạn Yisrael sao?\"",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "xảy ra"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "khi thấy"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "thì nói"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "với ông"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "ông là"
+    },
+    {
+      "surface": "זה",
+      "gloss": "đấng này"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "kẻ làm nhiễu loạn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T03:53:27.176043750Z",
+  "model": "glm-5.3"
+}

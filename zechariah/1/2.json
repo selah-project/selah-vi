@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Yahweh đã thịnh nộ với các tổ phụ của các ngươi — thịnh nộ!",
+  "tokens": [
+    {
+      "surface": "קצף",
+      "gloss": "đã thịnh nộ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "với"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "các tổ phụ các ngươi"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "thịnh nộ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:51:30.268544562Z",
+  "model": "glm-5.3"
+}

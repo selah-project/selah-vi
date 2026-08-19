@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 30:28",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Và ⟨את⟩ bàn thờ thiêu cùng ⟨את⟩ mọi dụng cụ của nó, và ⟨את⟩ cái chậu, và ⟨את⟩ đế của nó.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "bàn thờ thiêu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "thiêu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "mọi dụng cụ của nó"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "dụng cụ của nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "cái chậu"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "cái chậu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "đế của nó"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "đế của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:35:56.452786777Z",
+  "model": "glm-5.3"
+}

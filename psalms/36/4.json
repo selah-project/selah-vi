@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 36,
+  "translation": "Lời của miệng nó ⟨là⟩ điều hư không và dối trá; nó đã thôi không khôn sáng, không làm điều thiện.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "lời"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "của miệng nó"
+    },
+    {
+      "surface": "און",
+      "gloss": "điều hư không"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "và dối trá"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "nó đã thôi"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "không khôn sáng"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "không làm điều thiện"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:54.014344809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 33,
+  "translation": "Như thế Yahweh đã phán: nếu các ngươi phá ⟨את⟩ giao ước của tôi ban ngày và ⟨את⟩ giao ước của tôi ban đêm, đến nỗi không còn ngày và đêm vào giờ định của chúng,",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "như thế"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "đã phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "các ngươi phá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "giao ước của tôi ban ngày"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "giao ước của tôi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ban ngày"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "giao ước của tôi ban đêm"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "giao ước của tôi"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ban đêm"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "đến nỗi không"
+    },
+    {
+      "surface": "היות",
+      "gloss": "còn tồn tại"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ban ngày"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "và ban đêm"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "vào giờ định của chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:25:24.379183368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-kings 22:38",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Và người ta rửa ⟨את⟩ cỗ xe tại hồ nước Shomeron, và các con chó liếm ⟨את⟩ máu ông, còn các gái điếm tắm rửa — theo lời Yahweh đã phán.",
+  "tokens": [
+    {
+      "surface": "וישטף",
+      "gloss": "và rửa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cỗ xe"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "cỗ xe"
+    },
+    {
+      "surface": "על",
+      "gloss": "tại"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "hồ nước"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "וילקו",
+      "gloss": "và liếm"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "các con chó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "máu ông"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "máu ông"
+    },
+    {
+      "surface": "והזנות",
+      "gloss": "và các gái điếm"
+    },
+    {
+      "surface": "רחצו",
+      "gloss": "tắm rửa"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "theo lời"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "đã phán"
+    }
+  ],
+  "timestamp": "2026-08-19T03:55:15.645853452Z",
+  "model": "glm-5.3"
+}

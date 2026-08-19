@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Và nếu một người đánh ⟨את⟩ nô lệ nam của mình hay ⟨את⟩ nô lệ nữ của mình bằng gậy, và ⟨nô lệ⟩ chết ngay dưới tay mình, thì chắc chắn bị trừng phạt.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "và-nếu"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "đánh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "một-người"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nô lệ nam của mình"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "nô-le-nam-của-mình"
+    },
+    {
+      "surface": "או",
+      "gloss": "hay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nô lệ nữ của mình"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "nô-le-nữ-của-mình"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "bằng-gậy"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "và-chết"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dưới"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tay-mình"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "trừng-phạt"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "chắc-chắn-bị-trừng-phạt"
+    }
+  ],
+  "timestamp": "2026-08-19T02:33:24.284538158Z",
+  "model": "glm-5.3"
+}

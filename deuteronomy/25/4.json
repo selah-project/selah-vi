@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Ngươi không được bịt miệng con bò đang đạp lúa của nó.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "được bịt miệng"
+    },
+    {
+      "surface": "שור",
+      "gloss": "con bò"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "đang đạp lúa của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T03:11:09.760793238Z",
+  "model": "glm-5.3"
+}

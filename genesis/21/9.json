@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Sarah thấy ⟨את⟩ con trai của Hagar người Mitsri — người đã sinh cho Avraham — đang cười giễu.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "thấy"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con trai của Hagar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "người Mitsri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "người mà"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "đã sinh"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "cho Avraham"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "cười giễu"
+    }
+  ],
+  "timestamp": "2026-08-19T01:02:11.834196377Z",
+  "model": "glm-5.3"
+}

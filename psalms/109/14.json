@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 109,
+  "translation": "Nguyện sự gian ác của tổ phụ nó được nhớ trước Yahweh, và tội của mẹ nó đừng bị xóa.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "được nhớ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "sự gian ác"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "tổ phụ của nó"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến trước"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "và tội"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mẹ của nó"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "bị xóa"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:52.752523063Z",
+  "model": "glm-5.3"
+}

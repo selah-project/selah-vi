@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 102:16",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 102,
+  "translation": "Và các dân tộc sẽ kính sợ ⟨את⟩ danh Yahweh, và hết thảy các vua của đất ⟨sẽ kính sợ⟩ ⟨את⟩ vinh quang Ngài.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "và sẽ kính sợ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "các dân tộc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "danh Yahweh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "danh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và hết thảy"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "các vua của"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vinh quang Ngài"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "vinh quang Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:12.416214405Z",
+  "model": "glm-5.3"
+}

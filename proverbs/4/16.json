@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 4:16",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Vì chúng không ngủ nếu không làm điều ác, và giấc ngủ của chúng bị cướp mất nếu chúng không làm ai vấp ngã.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "chúng ngủ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "chúng làm điều ác"
+    },
+    {
+      "surface": "ונגזלה",
+      "gloss": "và bị cướp mất"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "giấc ngủ của chúng"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יכשולו",
+      "gloss": "chúng làm vấp ngã"
+    }
+  ],
+  "timestamp": "2026-08-19T05:14:30.341636450Z",
+  "model": "glm-5.3"
+}

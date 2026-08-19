@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 89:46",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 89,
+  "translation": "Ngươi đã cắt ngắn các ngày tuổi trẻ của ông; ngươi đã phủ ô nhục lên ông. Selah.",
+  "tokens": [
+    {
+      "surface": "הקצרת",
+      "gloss": "ngươi đã cắt ngắn"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "các ngày"
+    },
+    {
+      "surface": "עלומיו",
+      "gloss": "tuổi trẻ của ông"
+    },
+    {
+      "surface": "העטית",
+      "gloss": "ngươi đã phủ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "lên ông"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "ô nhục"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:44.743580027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 24:16",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Nó đào xuyên vào trong bóng tối ⟨các⟩ nhà; ban ngày chúng niêm kín ⟨cho⟩ chính mình; chúng không biết ánh sáng.",
+  "tokens": [
+    {
+      "surface": "חתר",
+      "gloss": "đào xuyên qua"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "trong bóng tối"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "các nhà"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ban ngày"
+    },
+    {
+      "surface": "חתמו",
+      "gloss": "chúng niêm kín"
+    },
+    {
+      "surface": "למו",
+      "gloss": "cho chính mình"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "chúng biết"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ánh sáng"
+    }
+  ],
+  "timestamp": "2026-08-19T06:20:40.676988521Z",
+  "model": "glm-5.3"
+}

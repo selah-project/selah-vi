@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 12:16",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "và người ta không kiểm kê ⟨את⟩ những người mà người ta trao ⟨את⟩ số bạc vào tay họ để đưa cho những người làm công việc, vì trong sự trung tín họ đang làm.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "người ta kiểm kê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "những người"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "những người"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "người ta trao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "số bạc"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "số bạc"
+    },
+    {
+      "surface": "על",
+      "gloss": "vào"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "tay họ"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "để đưa"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "cho những người làm"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "công việc"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "trong sự trung tín"
+    },
+    {
+      "surface": "הם",
+      "gloss": "họ"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "đang làm"
+    }
+  ],
+  "timestamp": "2026-08-19T03:59:15.943938814Z",
+  "model": "glm-5.3"
+}

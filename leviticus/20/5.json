@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 20:5",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "thì chính Ta sẽ đặt ⟨את⟩ mặt Ta chống lại người ấy và gia đình hắn, và Ta sẽ cắt hắn cùng ⟨את⟩ tất cả những kẻ dâm loạn theo hắn mà dâm loạn theo Molech, khỏi giữa dân sự họ.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "thì Ta sẽ đặt"
+    },
+    {
+      "surface": "אני",
+      "gloss": "chính Ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mặt Ta"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "chống lại người"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ấy"
+    },
+    {
+      "surface": "ובמשפחתו",
+      "gloss": "và gia đình hắn"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "và Ta sẽ cắt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "hắn ⟨את⟩",
+      "marks": "hắn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "tất cả những kẻ dâm loạn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "הזנים",
+      "gloss": "những kẻ dâm loạn"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "theo hắn"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "mà dâm loạn"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "theo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Molech"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "khỏi giữa"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "dân sự họ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:46:10.800464134Z",
+  "model": "glm-5.3"
+}

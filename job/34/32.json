@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 34:32",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 34,
+  "translation": "Ngoài điều tôi thấy, Ngài hãy chỉ dạy tôi; nếu tôi đã làm điều trái lỗi, tôi sẽ không làm nữa.",
+  "tokens": [
+    {
+      "surface": "בלעדי",
+      "gloss": "ngoài điều"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "tôi thấy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "הרני",
+      "gloss": "hãy chỉ dạy tôi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "עול",
+      "gloss": "điều trái lỗi"
+    },
+    {
+      "surface": "פעלתי",
+      "gloss": "tôi đã làm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "làm nữa"
+    }
+  ],
+  "timestamp": "2026-08-19T05:27:01.093869959Z",
+  "model": "glm-5.3"
+}

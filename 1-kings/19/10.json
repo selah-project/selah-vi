@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 19:10",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Và ngài nói: Tôi đã hết lòng sốt sắng vì Yahweh, Elohim của các đạo binh; vì con cái Yisrael đã bỏ giao ước của Ngài, đã phá ⟨את⟩ các bàn thờ của Ngài, và đã giết ⟨את⟩ các nhà tiên tri của Ngài bằng gươm; và tôi bị bỏ lại, chỉ mình tôi thôi; và họ tìm ⟨את⟩ mạng sống tôi để lấy nó đi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và ngài nói"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "sốt sắng"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "tôi đã sốt sắng"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vì Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "các đạo binh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "đã bỏ"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "giao ước của Ngài"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái của"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các bàn thờ của Ngài"
+    },
+    {
+      "surface": "מזבחתיך",
+      "gloss": "các bàn thờ của Ngài"
+    },
+    {
+      "surface": "הרסו",
+      "gloss": "đã phá"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các nhà tiên tri của Ngài"
+    },
+    {
+      "surface": "נביאיך",
+      "gloss": "các nhà tiên tri của Ngài"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "đã giết"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "bằng gươm"
+    },
+    {
+      "surface": "ואותר",
+      "gloss": "và tôi bị bỏ lại"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "chỉ mình tôi"
+    },
+    {
+      "surface": "ויבקשו",
+      "gloss": "và họ tìm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mạng sống tôi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mạng sống tôi"
+    },
+    {
+      "surface": "לקחתה",
+      "gloss": "để lấy nó"
+    }
+  ],
+  "timestamp": "2026-08-19T03:54:09.592973248Z",
+  "model": "glm-5.3"
+}

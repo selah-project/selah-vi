@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Vì cớ đó, giữa các dân ngoại tôi sẽ cảm tạ Yahweh, và danh Ngài tôi sẽ đàn hát.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "vì cớ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "đó"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "tôi sẽ cảm tạ Ngài"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "giữa các dân ngoại"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "và danh Ngài"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "tôi sẽ đàn hát"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:48.907090774Z",
+  "model": "glm-5.3"
+}

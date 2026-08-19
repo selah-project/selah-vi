@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Gánh nặng của đồng vắng biển. Như những cơn lốc xoáy ở phương nam quét qua, từ đồng vắng nó đến, từ một xứ đáng kinh khiếp.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "gánh nặng"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "đồng vắng"
+    },
+    {
+      "surface": "ים",
+      "gloss": "biển"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "như những cơn lốc xoáy"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "ở phương nam"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "quét qua"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "từ đồng vắng"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nó đến"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "từ một xứ"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "đáng kinh khiếp"
+    }
+  ],
+  "timestamp": "2026-08-19T04:07:32.248574509Z",
+  "model": "glm-5.3"
+}

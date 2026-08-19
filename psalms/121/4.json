@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 121,
+  "translation": "Này, Đấng canh giữ Yisrael sẽ chẳng lười buồn ngủ và chẳng ngủ.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "này"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chẳng"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "lười buồn ngủ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và chẳng"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "ngủ"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Đấng canh giữ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:30.733341172Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Và ngươi sẽ lấy ⟨את⟩ con cừu của lễ nhậm chức, và ngươi sẽ nấu ⟨את⟩ thịt nó tại nơi thánh.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con cừu của lễ nhậm chức"
+    },
+    {
+      "surface": "איל",
+      "gloss": "con cừu"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "của lễ nhậm chức"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ngươi sẽ lấy"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "và ngươi sẽ nấu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thịt nó"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "thịt của nó"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "tại nơi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "thánh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:36:00.479943264Z",
+  "model": "glm-5.3"
+}

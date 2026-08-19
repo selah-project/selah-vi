@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 105,
+  "translation": "Và ⟨họ⟩ đã đi lang thang từ dân này sang dân kia, từ vương quốc này sang dân khác.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "và đã đi lang thang"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "từ dân"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "dân kia"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "từ vương quốc"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "khác"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:40.784137601Z",
+  "model": "glm-5.3"
+}

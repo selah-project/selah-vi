@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 33,
+  "translation": "Vì chính Ngài đã phán, và ⟨nó⟩ đã có; chính Ngài đã ra lệnh, và ⟨nó⟩ đứng vững.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chính Ngài"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "đã phán"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "và ⟨nó⟩ đã có"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chính Ngài"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "đã ra lệnh"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "và ⟨nó⟩ đứng vững"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:29.696948342Z",
+  "model": "glm-5.3"
+}

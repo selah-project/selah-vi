@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 126,
+  "translation": "Bài ca thềm bậc. Khi Yahweh đưa ⟨את⟩ sự trở về của Tziyon, chúng tôi như người đang mơ.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Bài ca"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "thềm bậc"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "khi... đưa về"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sự trở về của Tziyon"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "sự trở về"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tziyon"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "chúng tôi đã trở thành"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "như người đang mơ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:03.650034421Z",
+  "model": "glm-5.3"
+}

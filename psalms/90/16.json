@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 90,
+  "translation": "Nguyện công việc của Ngài ⟨được⟩ hiện ra cho các tôi tớ của Ngài, và sự oai nghiêm của Ngài trên con cái của họ.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "nguyện ⟨nó⟩ hiện ra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến với"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "các tôi tớ của Ngài"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "công việc của Ngài"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "và sự oai nghiêm của Ngài"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "con cái của họ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:58.631488665Z",
+  "model": "glm-5.3"
+}

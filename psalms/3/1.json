@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Bài thánh ca của David, khi Người chạy trốn khỏi mặt Avshalom, con trai mình.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Bài thánh ca"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "của David"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "khi chạy trốn"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "khỏi mặt"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "con trai mình"
+    }
+  ],
+  "timestamp": "2026-08-19T04:55:00.623307148Z",
+  "model": "glm-5.3"
+}

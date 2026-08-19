@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 141:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 141,
+  "translation": "Như kẻ cày và kẻ xẻ đất, xương của chúng tôi bị rải ra trước miệng Shêol.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "như"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "kẻ cày"
+    },
+    {
+      "surface": "ובקע",
+      "gloss": "và kẻ xẻ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "נפזרו",
+      "gloss": "bị rải ra"
+    },
+    {
+      "surface": "עצמינו",
+      "gloss": "xương của chúng tôi"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "trước miệng"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shêol"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:12.267817052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "và nói: Khi các ngươi đỡ đẻ cho các phụ nữ Híp-ri ⟨את⟩ và nhìn thấy trên hai hòn đá sinh, nếu ⟨là⟩ con trai thì các ngươi hãy giết nó ⟨את⟩, còn nếu ⟨là⟩ con gái thì nó sẽ sống",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "khi các ngươi đỡ đẻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các phụ nữ Híp-ri"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "các phụ nữ Híp-ri"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "và các ngươi nhìn thấy"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "hai hòn đá sinh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨là⟩"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "thì các ngươi hãy giết"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nó (con trai)"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "còn nếu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "con gái"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨là⟩"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "thì nó sẽ sống"
+    }
+  ],
+  "timestamp": "2026-08-19T02:27:17.608141310Z",
+  "model": "glm-5.3"
+}

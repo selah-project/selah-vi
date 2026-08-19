@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Nếu ngươi khôn ngoan, ngươi khôn ngoan cho ⟨chính⟩ mình; còn nếu ngươi mocks, một mình ngươi sẽ gánh lấy.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ngươi khôn ngoan"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ngươi khôn ngoan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho mình"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "còn nếu ngươi mocks"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "một mình ngươi"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "sẽ gánh lấy"
+    }
+  ],
+  "timestamp": "2026-08-19T05:14:57.404101201Z",
+  "model": "glm-5.3"
+}

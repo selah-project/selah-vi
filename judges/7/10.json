@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 7:10",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Còn nếu ngươi sợ đi xuống, hãy đi xuống — ngươi cùng Purah đầy tớ ngươi — đến trại quân.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "còn nếu"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "sợ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "đi xuống"
+    },
+    {
+      "surface": "רד",
+      "gloss": "hãy đi xuống"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "ופרה",
+      "gloss": "và Purah"
+    },
+    {
+      "surface": "נערך",
+      "gloss": "đầy tớ-ngươi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "trại quân"
+    }
+  ],
+  "timestamp": "2026-08-19T03:23:46.447101638Z",
+  "model": "glm-5.3"
+}

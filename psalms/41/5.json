@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 41,
+  "translation": "Tôi đã nói: Yahweh, xin ban ơn cho tôi, chữa lành nefesh tôi, vì tôi đã phạm tội với Ngài.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "tôi đã nói"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "xin ban ơn cho tôi"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "hãy chữa lành"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefesh tôi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "tôi đã phạm tội"
+    },
+    {
+      "surface": "לך",
+      "gloss": "với Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:53.052708408Z",
+  "model": "glm-5.3"
+}

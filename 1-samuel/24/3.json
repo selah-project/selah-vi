@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 24:3",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Sha-ul lấy ba ngàn người tuyển chọn từ toàn Yisra-el, và đi tìm ⟨את⟩ David và các người của ông, dọc theo các vách đá của loài dê rừng.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "lấy"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ngàn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "tuyển chọn"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "từ toàn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra-el"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "và đi"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "để tìm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "và các người của ông"
+    },
+    {
+      "surface": "על",
+      "gloss": "dọc theo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "các vách đá"
+    },
+    {
+      "surface": "היעלים",
+      "gloss": "của loài dê rừng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:36:34.755272142Z",
+  "model": "glm-5.3"
+}

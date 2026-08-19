@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 112,
+  "translation": "Hãy ca ngợi Yah! Phước thay người đàn ông kính sợ Yahweh, ⟨את⟩ Yahweh, người lấy làm vui thích trong các điều răn của Ngài rất nhiều.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Hãy ca ngợi"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "phước thay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người đàn ông"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "kính sợ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "trong các điều răn của Ngài"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "lấy làm vui thích"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "rất nhiều"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:47.059727436Z",
+  "model": "glm-5.3"
+}

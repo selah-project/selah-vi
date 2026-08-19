@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "và con gái ông ⟨là⟩ Sheera; và nàng đã xây ⟨את⟩ Beit-Choron dưới và ⟨את⟩ trên, và ⟨את⟩ Uzen-Sheera.",
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "và con gái ông"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sheera"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "và nàng đã xây"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beit-Choron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Choron"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "dưới"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "trên"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "trên"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Uzen-Sheera"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "Uzen"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sheera"
+    }
+  ],
+  "timestamp": "2026-08-19T05:48:55.048794280Z",
+  "model": "glm-5.3"
+}

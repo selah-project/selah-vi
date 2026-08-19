@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và ⟨đã⟩ có chiều hôm, và ⟨đã⟩ có sớm mai — ngày thứ năm.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "và có"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "chiều hôm"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "và có"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sớm mai"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "thứ năm"
+    }
+  ],
+  "timestamp": "2026-08-19T02:23:29.046821855Z",
+  "model": "glm-5.3"
+}

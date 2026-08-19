@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Và các ngươi chớ để sót gì từ nó cho đến sáng; điều còn sót từ nó cho đến sáng, trong lửa các ngươi hãy đốt.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "và chớ"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "các ngươi để sót"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "từ nó"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sáng"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "và điều còn sót"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "từ nó"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sáng"
+    },
+    {
+      "surface": "באש",
+      "gloss": "trong lửa"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "các ngươi hãy đốt"
+    }
+  ],
+  "timestamp": "2026-08-19T02:30:21.370462061Z",
+  "model": "glm-5.3"
+}

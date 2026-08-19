@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Rồi tôi quay lại, tôi, và tôi thấy hư không dưới mặt trời.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "rồi tôi quay lại"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "và tôi thấy"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hư không"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dưới"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "mặt trời"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:53.503550682Z",
+  "model": "glm-5.3"
+}

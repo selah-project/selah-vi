@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 69,
+  "translation": "Và điều đó sẽ đẹp lòng Yahweh hơn một con bò đực, một con bò mộng có sừng và có móng chia.",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "và sẽ đẹp lòng"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משור",
+      "gloss": "hơn một con bò đực"
+    },
+    {
+      "surface": "פר",
+      "gloss": "một con bò mộng"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "có sừng"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "có móng chia"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:56.418030146Z",
+  "model": "glm-5.3"
+}

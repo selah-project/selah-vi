@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 13:5",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Vậy David tập hợp ⟨את⟩ toàn thể Yisrael, từ Shichor của Mitsrayim cho đến lối vào Hamat, để đưa ⟨את⟩ hòm của Elohim từ Kiryat-Yearim.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "vậy tập hợp"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toàn thể Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "שיחור",
+      "gloss": "Shichor"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "của Mitsrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "lối vào"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "để đưa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hòm của Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "hòm"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "của Elohim"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "từ Kiryat"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "-Yearim"
+    }
+  ],
+  "timestamp": "2026-08-19T05:50:46.862209169Z",
+  "model": "glm-5.3"
+}

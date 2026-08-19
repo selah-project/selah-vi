@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 88,
+  "translation": "Trên con cơn nóng giận của Ngài đã đè nặng, và với tất cả các con sóng dữ của Ngài Ngài đã hà hiếp ⟨con⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "trên con"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "đã đè nặng"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "cơn nóng giận của Ngài"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và tất cả"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "các con sóng dữ của Ngài"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "Ngài đã hà hiếp"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:57.547691857Z",
+  "model": "glm-5.3"
+}

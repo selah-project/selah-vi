@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 37:19",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "và đã ném ⟨את⟩ các thần của chúng vào lửa; vì chúng không phải là elohim, mà là công việc của tay con người, gỗ và đá; nên chúng đã hủy diệt chúng.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "và đã ném"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các thần của chúng"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "các thần của chúng"
+    },
+    {
+      "surface": "באש",
+      "gloss": "vào lửa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "là elohim"
+    },
+    {
+      "surface": "המה",
+      "gloss": "chúng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mà"
+    },
+    {
+      "surface": "אם",
+      "gloss": "là"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "công việc"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "của tay"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "con người"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "gỗ"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "và đá"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "nên chúng đã hủy diệt chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:10:52.919846943Z",
+  "model": "glm-5.3"
+}

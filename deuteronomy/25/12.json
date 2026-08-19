@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "thì ngươi phải chặt bỏ ⟨את⟩ tay của bà; mắt ngươi không được thương xót bà.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "thì phải chặt bỏ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tay của bà"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "bàn tay của bà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "được thương xót"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "mắt ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:11:00.491765937Z",
+  "model": "glm-5.3"
+}

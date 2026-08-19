@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Và nếu người ấy không chuộc ⟨את⟩ cánh đồng, hoặc nếu người ấy đã bán ⟨את⟩ cánh đồng cho người khác, thì nó sẽ không được chuộc lại nữa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "và nếu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "người ấy chuộc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cánh đồng"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "cánh đồng"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "hoặc nếu"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "người ấy đã bán"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cánh đồng"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "cánh đồng"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "cho người"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "khác"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "nó được chuộc"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nữa"
+    }
+  ],
+  "timestamp": "2026-08-19T02:51:16.654392817Z",
+  "model": "glm-5.3"
+}

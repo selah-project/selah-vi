@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Khi tôi ngắm các tầng trời của Ngài, công việc của các ngón tay Ngài — mặt trăng và các ngôi sao mà Ngài đã thiết lập —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "khi"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "tôi ngắm"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "các tầng trời của Ngài"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "công việc của"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "các ngón tay Ngài"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "mặt trăng"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "và các ngôi sao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "Ngài đã thiết lập"
+    }
+  ],
+  "timestamp": "2026-08-19T04:55:23.573769512Z",
+  "model": "glm-5.3"
+}

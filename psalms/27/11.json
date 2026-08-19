@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 27:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Xin dạy con đường của Ngài, Yahweh, và dẫn con trên lối thẳng, vì những kẻ thù nghịch con.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "xin dạy con"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "đường của Ngài"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "và dẫn con"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "trên lối"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "thẳng"
+    },
+    {
+      "surface": "למען",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "kẻ thù nghịch con"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:15.675737770Z",
+  "model": "glm-5.3"
+}

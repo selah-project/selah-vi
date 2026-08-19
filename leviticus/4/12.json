@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 4:12",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và người ta sẽ đem ra ⟨את⟩ toàn bộ con bò ra ngoài trại quân, đến một nơi tinh sạch, đến nơi đổ tro, và sẽ đốt ⟨את nó⟩ trên củi trong lửa; tại nơi đổ tro nó sẽ bị đốt.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "và sẽ đem ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toàn bộ con bò"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn bộ"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "con bò"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "bên ngoài"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "trại quân"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "nơi"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tinh sạch"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "nơi đổ"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "tro"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "và sẽ đốt"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את nó⟩",
+      "marks": "nó (con bò)"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "củi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "trong lửa"
+    },
+    {
+      "surface": "על",
+      "gloss": "tại"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "nơi đổ"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "tro"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "nó sẽ bị đốt"
+    }
+  ],
+  "timestamp": "2026-08-19T02:39:55.212093968Z",
+  "model": "glm-5.3"
+}

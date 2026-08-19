@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 23:28",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Balak đem ⟨את⟩ Bilam đến đỉnh Peor, nơi nhìn ra mặt hoang mạc.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "đem"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "đỉnh"
+    },
+    {
+      "surface": "הפעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "הנשקף",
+      "gloss": "nơi nhìn ra"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "hoang mạc"
+    }
+  ],
+  "timestamp": "2026-08-19T03:00:11.390311311Z",
+  "model": "glm-5.3"
+}

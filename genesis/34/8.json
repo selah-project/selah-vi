@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 34:8",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 34,
+  "translation": "Hamor nói ⟨את⟩ với họ, rằng: Shkhem con trai tôi, linh hồn nó khao khát con gái các ông; xin hãy ban ⟨את⟩ nó cho nó làm vợ.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ với họ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shkhem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con trai tôi"
+    },
+    {
+      "surface": "חשקה",
+      "gloss": "khao khát"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "linh hồn nó"
+    },
+    {
+      "surface": "בבתכם",
+      "gloss": "con gái các ông"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "hãy ban"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nó (con gái)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho nó"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "làm vợ"
+    }
+  ],
+  "timestamp": "2026-08-19T01:20:28.245071206Z",
+  "model": "glm-5.3"
+}

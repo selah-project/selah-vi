@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Và nàng thụ thai, và sinh một con trai, và nói: Elohim đã cất đi ⟨את⟩ nỗi ô nhục của tôi.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "và nàng thụ thai"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "và nàng sinh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "một con trai"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "và nàng nói"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "đã cất đi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nỗi ô nhục của tôi"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "nỗi ô nhục của tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T01:11:08.983339187Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Ông phủ phục và nói: Tôi tớ của ngài là gì, mà ngài quay nhìn toward con chó chết như tôi?",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "và phủ phục"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tôi tớ của ngài"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mà"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "ngài đã quay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "về phía"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "con chó"
+    },
+    {
+      "surface": "המת",
+      "gloss": "chết"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "như tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:40:51.975733570Z",
+  "model": "glm-5.3"
+}

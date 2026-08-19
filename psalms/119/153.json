@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Hãy xem sự khốn khổ của tôi, và giải cứu tôi, vì luật pháp Ngài tôi không quên.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Hãy xem"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "sự khốn khổ của tôi"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "và giải cứu tôi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "luật pháp Ngài"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "tôi quên"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:07.204069884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 78:66",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 78,
+  "translation": "Ngài đánh các kẻ thù nghịch ⟨của Ngài⟩ lui về phía sau, ban cho chúng sự sỉ nhục muôn đời.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "đánh"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "các kẻ thù nghịch của Ngài"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "lui về phía sau"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "sự sỉ nhục"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "muôn đời"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ban cho"
+    },
+    {
+      "surface": "למו",
+      "gloss": "cho chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:09.950733978Z",
+  "model": "glm-5.3"
+}

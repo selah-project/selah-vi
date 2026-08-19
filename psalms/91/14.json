@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 91,
+  "translation": "Vì ⟨hắn⟩ đã gắn bó cùng Ta, nên Ta sẽ giải cứu hắn; Ta sẽ nhấc hắn lên cao, vì hắn đã biết Danh Ta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "בי",
+      "gloss": "cùng Ta"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "đã gắn bó"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "nên Ta sẽ giải cứu hắn"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "Ta sẽ nhấc hắn lên cao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "đã biết"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Danh Ta"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:01.247889946Z",
+  "model": "glm-5.3"
+}

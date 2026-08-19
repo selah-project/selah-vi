@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Lưỡi con sẽ hát về lời phán của Ngài, vì mọi điều răn của Ngài ⟨là⟩ công bình.",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "sẽ hát đáp"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "lưỡi con"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "lời phán của Ngài"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "điều răn của Ngài"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "công bình"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:07.705575086Z",
+  "model": "glm-5.3"
+}

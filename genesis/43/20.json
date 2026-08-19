@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 43:20",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 43,
+  "translation": "Và họ nói: Xin lỗi, thưa chúa tôi, chúng tôi thực lòng đã xuống trước đó để mua lương thực.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "và họ nói"
+    },
+    {
+      "surface": "בי",
+      "gloss": "xin (ngài)"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "thưa chúa tôi"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "đã xuống"
+    },
+    {
+      "surface": "ירדנו",
+      "gloss": "chúng tôi xuống"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "lần trước"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "để mua"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "lương thực"
+    }
+  ],
+  "timestamp": "2026-08-19T06:03:06.475497924Z",
+  "model": "glm-5.3"
+}

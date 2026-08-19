@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và Yahweh Eloheim đã đuổi ⟨את⟩ hắn ra khỏi vườn Eden, để canh tác ⟨את⟩ mặt đất mà từ đó ⟨hắn⟩ đã được lấy.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "và đã đuổi hắn ra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloheim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "khỏi vườn"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "để canh tác"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mặt đất"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "mặt đất"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "đã được lấy"
+    },
+    {
+      "surface": "משם",
+      "gloss": "từ đó"
+    }
+  ],
+  "timestamp": "2026-08-19T00:47:35.321151073Z",
+  "model": "glm-5.3"
+}

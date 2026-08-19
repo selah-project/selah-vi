@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 95,
+  "translation": "Chúng ta đến trước nhan ⟨Ngài⟩ với sự tạ ơn, bằng các bài thánh thi chúng ta reo hò ⟨với⟩ Ngài.",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "chúng ta đến trước"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "nhan Ngài"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "với sự tạ ơn"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "bằng các bài thánh thi"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "chúng ta reo hò"
+    },
+    {
+      "surface": "לו",
+      "gloss": "với Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:23.381312459Z",
+  "model": "glm-5.3"
+}

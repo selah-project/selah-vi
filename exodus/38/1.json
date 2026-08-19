@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 38:1",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 38,
+  "translation": "Người ta làm ⟨את⟩ bàn thờ thiêu của gỗ keo: dài năm cubit, rộng năm cubit, hình vuông, cao ba cubit.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bàn thờ thiêu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "thiêu"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "gỗ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "keo (shittim)"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "năm"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dài của nó"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "và năm"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "rộng của nó"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "hình vuông"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "và ba"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "cubit"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "cao của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:38:46.415731802Z",
+  "model": "glm-5.3"
+}

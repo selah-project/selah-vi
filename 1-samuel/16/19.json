@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 16:19",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Sha'ul sai các sứ giả đến Yishai, nói: Hãy sai đến tôi ⟨את⟩ David, con trai ngươi, kẻ ⟨đang⟩ ở cùng đàn chiên.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "sai"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "các sứ giả"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "hãy sai"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "đến tôi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "con trai ngươi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kẻ"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "ở cùng đàn chiên"
+    }
+  ],
+  "timestamp": "2026-08-19T03:33:10.107500251Z",
+  "model": "glm-5.3"
+}

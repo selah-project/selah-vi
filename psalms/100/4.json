@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 100,
+  "translation": "Hãy vào cổng thành của Ngài với sự tạ ơn, và vào sân đền của Ngài với sự ngợi khen; hãy cảm tạ Ngài, hãy chúc phúc danh Ngài.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "hãy vào"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "cổng của Ngài"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "với sự tạ ơn"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "sân của Ngài"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "với sự ngợi khen"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "hãy cảm tạ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "hãy chúc phúc"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "danh của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:05.840069224Z",
+  "model": "glm-5.3"
+}

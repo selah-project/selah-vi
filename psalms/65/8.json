@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 65,
+  "translation": "⟨Đấng⟩ làm im tiếng gầm của các biển, tiếng gầm của sóng chúng nó, và tiếng ồn ào của các dân tộc.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "làm im"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "tiếng gầm"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "các biển"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "tiếng gầm"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "sóng chúng nó"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "và tiếng ồn ào"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "các dân tộc"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:46.122724004Z",
+  "model": "glm-5.3"
+}

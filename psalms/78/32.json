@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 78,
+  "translation": "Trong mọi điều nầy họ vẫn phạm tội nữa, và không tin vào những việc lạ lùng của ⟨Ngài⟩.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "trong mọi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "điều nầy"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "họ đã phạm tội"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vẫn nữa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "tin"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "vào những việc lạ lùng của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:49.686509520Z",
+  "model": "glm-5.3"
+}

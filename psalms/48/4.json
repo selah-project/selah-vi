@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 48,
+  "translation": "Elohim trong các đền đài của nàng được biết là nơi ẩn náu.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "trong các đền đài của nàng"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "được biết"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "là nơi ẩn náu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:41.246701704Z",
+  "model": "glm-5.3"
+}

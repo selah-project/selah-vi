@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 6:8",
+  "book": "esther",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "thì hãy mang lại áo choàng vương giả mà vua đã từng mặc, và con ngựa mà vua đã cưỡi, và vương miện đặt trên đầu nó.",
+  "tokens": [
+    {
+      "surface": "יביאו",
+      "gloss": "hãy mang lại"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "áo choàng"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "vương giả"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "đã mặc"
+    },
+    {
+      "surface": "בו",
+      "gloss": "trong nó"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "và con ngựa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "đã cưỡi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "trên nó"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "và điều mà"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "được đặt"
+    },
+    {
+      "surface": "כתר",
+      "gloss": "vương miện"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "vương giả"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "trên đầu nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:35:13.106579375Z",
+  "model": "glm-5.3"
+}

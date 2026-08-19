@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 5:10",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Vì mười mẫu vườn nho sẽ chỉ ra một bat, và một homer hạt giống sẽ chỉ ra một epha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "mười"
+    },
+    {
+      "surface": "צמדי",
+      "gloss": "mẫu (đôi bò cày)"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "vườn nho"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "sẽ làm ra"
+    },
+    {
+      "surface": "בת",
+      "gloss": "một bat (đo lường)"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "một"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "và hạt giống"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "một homer"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "sẽ làm ra"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "một epha"
+    }
+  ],
+  "timestamp": "2026-08-19T04:04:23.574162873Z",
+  "model": "glm-5.3"
+}

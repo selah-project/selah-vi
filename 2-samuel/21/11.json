@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Và người ta kể cho David ⟨את⟩ điều mà Ritspah con gái Aya, vợ lẽ của Sha'ul, đã làm.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "và kể cho"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "điều mà Ritspah đã làm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "điều mà"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "Ritspah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "con gái"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Aya"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "vợ lẽ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    }
+  ],
+  "timestamp": "2026-08-19T03:44:58.110606877Z",
+  "model": "glm-5.3"
+}

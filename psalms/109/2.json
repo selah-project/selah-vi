@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 109,
+  "translation": "Vì miệng kẻ ác và miệng dối trá đã mở ra chống lại tôi; chúng nó đã nói ⟨את⟩ tôi bằng lưỡi giả dối.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "פי",
+      "gloss": "miệng"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "và miệng"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "dối trá"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "chống lại tôi"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "đã mở ra"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "chúng nó đã nói"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "tôi"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lưỡi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "giả dối"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:00.837282271Z",
+  "model": "glm-5.3"
+}

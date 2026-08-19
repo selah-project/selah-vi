@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 57,
+  "translation": "Ta sẽ kể ra sự công chính của ngươi, và ⟨את⟩ các việc làm của ngươi — chúng sẽ không ích lợi gì cho ngươi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "sẽ kể ra"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "sự công chính của ngươi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "các việc làm của ngươi"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "các việc làm của ngươi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "sẽ ích lợi gì cho ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:14:14.577671214Z",
+  "model": "glm-5.3"
+}

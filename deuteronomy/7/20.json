@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Và cả ⟨את⟩ con ong bò vò vẽ, Yahweh Elohim của ngươi sẽ sai đến giữa chúng, cho đến khi những kẻ còn lại và những kẻ trốn tránh mặt ngươi bị diệt mất.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "và cả"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con ong bò vò vẽ"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "con ong bò vò vẽ"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "sẽ sai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim của ngươi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "giữa chúng"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến khi"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "bị diệt"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "những kẻ còn lại"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "và những kẻ trốn tránh"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "mặt ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:06:57.721573314Z",
+  "model": "glm-5.3"
+}

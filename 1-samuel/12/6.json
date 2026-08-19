@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 12:6",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Và Shmuel nói với dân: Yahweh, Đấng đã làm ⟨את⟩ Moshe và ⟨את⟩ Aharon, và Đấng đã đưa ⟨את⟩ tổ phụ các ông lên khỏi đất Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và-nói"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Đấng-mà"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "đã-làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và-⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "và-Đấng-mà"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "đã-đưa-lên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tổ phụ các ông"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "tổ-phụ-các-ông"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "khỏi-đất"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T03:32:20.242005662Z",
+  "model": "glm-5.3"
+}

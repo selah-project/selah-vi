@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Và các ngươi hãy canh giữ ⟨את⟩ sự canh giữ của nơi thánh và ⟨את⟩ sự canh giữ của bàn thờ, thì không còn cơn thịnh nộ nào trên con cái Yisra'el nữa.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "và các ngươi hãy canh giữ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sự canh giữ của nơi thánh"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "sự canh giữ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "của nơi thánh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "sự canh giữ của bàn thờ"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "sự canh giữ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "của bàn thờ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "thì không"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "còn"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nữa"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "cơn thịnh nộ"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-19T06:05:40.808045329Z",
+  "model": "glm-5.3"
+}

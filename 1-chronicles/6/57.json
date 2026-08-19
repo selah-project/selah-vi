@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-chronicles 6:57",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và từ chi tộc Yissaskar: ⟨את⟩ Kedesh cùng ⟨את⟩ đất đồng của nó, ⟨את⟩ Daberath cùng ⟨את⟩ đất đồng của nó.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "và từ chi tộc"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedesh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedesh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "đất đồng của nó"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "đất đồng của nó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daberath"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Daberath"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "đất đồng của nó"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "đất đồng của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:48:02.420221443Z",
+  "model": "glm-5.3"
+}

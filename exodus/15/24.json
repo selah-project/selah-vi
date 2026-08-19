@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Dân sự kêu ca ⟨chống⟩ Moshe, nói: Chúng ta uống gì đây?",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "họ kêu ca"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "על",
+      "gloss": "chống"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nói rằng"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "chúng ta uống"
+    }
+  ],
+  "timestamp": "2026-08-19T02:30:58.461334868Z",
+  "model": "glm-5.3"
+}

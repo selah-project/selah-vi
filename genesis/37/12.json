@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Và các anh em hắn đi chăn ⟨את⟩ đàn chiên của cha họ tại Shkhem.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "và đi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "các anh em hắn"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "để chăn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đàn chiên"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "đàn chiên"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "cha họ"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "tại Shkhem"
+    }
+  ],
+  "timestamp": "2026-08-19T01:23:05.696394334Z",
+  "model": "glm-5.3"
+}

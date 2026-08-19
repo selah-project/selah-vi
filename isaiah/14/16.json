@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 14:16",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Những kẻ thấy ngươi sẽ chăm chú nhìn ngươi, sẽ suy ngẫm về ngươi: 'Đây ⟨phải chăng⟩ là người từng làm đất rung chuyển, từng làm các vương quốc chấn động?'",
+  "tokens": [
+    {
+      "surface": "ראיך",
+      "gloss": "những kẻ thấy ngươi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "về ngươi"
+    },
+    {
+      "surface": "ישגיחו",
+      "gloss": "sẽ chăm chú nhìn"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "về ngươi"
+    },
+    {
+      "surface": "יתבוננו",
+      "gloss": "sẽ suy ngẫm"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "đây"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "là người"
+    },
+    {
+      "surface": "מרגיז",
+      "gloss": "từng làm rung chuyển"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "từng làm chấn động"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "các vương quốc"
+    }
+  ],
+  "timestamp": "2026-08-19T04:06:21.130567648Z",
+  "model": "glm-5.3"
+}

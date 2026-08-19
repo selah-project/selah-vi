@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và Elohim đã làm ⟨את⟩ thú vật của đất theo loài của nó, và ⟨את⟩ súc vật theo loài của nó, và ⟨את⟩ mọi vật bò sát của đất đai theo loài của nó; và Elohim thấy rằng điều đó tốt lành.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "và đã làm"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thú vật của đất"
+    },
+    {
+      "surface": "חית",
+      "gloss": "thú vật của"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "theo loài của nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "súc vật"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "súc vật"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "theo loài của nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "mọi vật bò sát của đất đai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "vật bò sát"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "của đất đai"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "theo loài của nó"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "và thấy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tốt lành"
+    }
+  ],
+  "timestamp": "2026-08-19T02:23:29.047733801Z",
+  "model": "glm-5.3"
+}

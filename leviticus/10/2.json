@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Và lửa đi ra từ trước mặt Yahweh, và nuốt ⟨את⟩ họ, và họ chết trước mặt Yahweh.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "và đi ra"
+    },
+    {
+      "surface": "אש",
+      "gloss": "lửa"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "từ trước mặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "và nuốt"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "họ"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "và họ chết"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:42:37.694955862Z",
+  "model": "glm-5.3"
+}

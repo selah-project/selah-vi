@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "obadiah 1:6",
+  "book": "obadiah",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Ôi Esav bị lục soát thế nào! Các chỗ ẩn giấu của nó bị moi ra hết!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "ôi... thế nào"
+    },
+    {
+      "surface": "נחפשו",
+      "gloss": "bị lục soát"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "נבעו",
+      "gloss": "bị moi ra (tràn ra)"
+    },
+    {
+      "surface": "מצפניו",
+      "gloss": "các chỗ ẩn giấu của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T04:47:58.300786108Z",
+  "model": "glm-5.3"
+}

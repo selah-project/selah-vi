@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Bị rủa là kẻ khinh miệt cha mình và mẹ mình; và toàn dân sẽ nói: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "bị rủa"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "kẻ khinh miệt (coi nhẹ)"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "cha mình"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "và mẹ mình"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "và sẽ nói"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-19T03:11:25.650661925Z",
+  "model": "glm-5.3"
+}

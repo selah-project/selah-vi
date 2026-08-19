@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 11:10",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và Yehoshua đã quay lại vào lúc bấy giờ, và đã chiếm ⟨את⟩ Chatzor, và đã đánh ⟨את⟩ vua nó bằng gươm, vì Chatzor xưa kia là đầu của tất cả các vương quốc này.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "đã quay lại"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "vào lúc"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "bấy giờ"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "và đã chiếm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chatzor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chatzor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "vua nó"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "vua nó"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "đã đánh"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "bằng gươm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chatzor"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "xưa kia"
+    },
+    {
+      "surface": "היא",
+      "gloss": "là"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "đầu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "các vương quốc"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "này"
+    }
+  ],
+  "timestamp": "2026-08-19T03:18:18.949323909Z",
+  "model": "glm-5.3"
+}

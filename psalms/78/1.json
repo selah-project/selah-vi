@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 78,
+  "translation": "Bài giáo huấn của Asaph: Hãy lắng tai, hỡi dân ta, ⟨về⟩ giáo luật của ta; hãy nghiêng tai các ngươi ⟨về⟩ lời của miệng ta.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "bài giáo huấn"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "của Asaph"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "hãy lắng tai"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "dân ta"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "giáo luật của ta"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "hãy nghiêng"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "tai các ngươi"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "⟨về⟩ lời"
+    },
+    {
+      "surface": "פי",
+      "gloss": "của miệng ta"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:57.199901983Z",
+  "model": "glm-5.3"
+}

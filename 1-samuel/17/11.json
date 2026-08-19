@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 17:11",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Va Sha'ul và toàn thể Yisraen nghe ⟨את⟩ những lời của người Philistít này, thì họ kinh hãi và rất đỗi sợ hãi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "và nghe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và toàn thể"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "những lời của người Philistít này"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "những lời"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "của người Philistít"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "này"
+    },
+    {
+      "surface": "ויחתו",
+      "gloss": "thì kinh hãi"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "và sợ hãi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "rất đỗi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:34:02.871342515Z",
+  "model": "glm-5.3"
+}

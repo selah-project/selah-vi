@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 32:8",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Yaakov bèn rất sợ và lo lắng; người chia ⟨את⟩ dân sự đang ⟨את⟩ với mình, và ⟨את⟩ chiên, và ⟨את⟩ bò, và lạc đà, thành hai trại.",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "bèn sợ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "rất"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "và lo lắng"
+    },
+    {
+      "surface": "לו",
+      "gloss": "trong lòng"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "và người chia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân sự"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "đang"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ với"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "chiên"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "chiên"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bò"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "bò"
+    },
+    {
+      "surface": "והגמלים",
+      "gloss": "và lạc đà"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "thành hai"
+    },
+    {
+      "surface": "מחנות",
+      "gloss": "trại"
+    }
+  ],
+  "timestamp": "2026-08-19T01:19:03.227426713Z",
+  "model": "glm-5.3"
+}

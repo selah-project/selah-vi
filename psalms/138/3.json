@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 138,
+  "translation": "Vào ngày tôi kêu cầu, Ngài đã đáp lời tôi; Ngài đã khiến tôi can đảm trong linh hồn tôi ⟨với⟩ sức mạnh.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "vào ngày"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "tôi kêu cầu"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "và Ngài đã đáp lời tôi"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "Ngài đã khiến tôi can đảm"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "trong linh hồn tôi"
+    },
+    {
+      "surface": "עז",
+      "gloss": "sức mạnh"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:03.839204555Z",
+  "model": "glm-5.3"
+}

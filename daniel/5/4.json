@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 5:4",
+  "book": "daniel",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Họ uống rượu và ca ngợi các thần của vàng và của bạc, đồng, sắt, gỗ và đá.",
+  "tokens": [
+    {
+      "surface": "אשתיו",
+      "gloss": "họ uống"
+    },
+    {
+      "surface": "חמרא",
+      "gloss": "rượu"
+    },
+    {
+      "surface": "ושבחו",
+      "gloss": "và ca ngợi"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "các thần của"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "vàng"
+    },
+    {
+      "surface": "וכסספא",
+      "gloss": "và của bạc"
+    },
+    {
+      "surface": "נחשא",
+      "gloss": "đồng"
+    },
+    {
+      "surface": "פרזלא",
+      "gloss": "sắt"
+    },
+    {
+      "surface": "אעא",
+      "gloss": "gỗ"
+    },
+    {
+      "surface": "ואבנא",
+      "gloss": "và đá"
+    }
+  ],
+  "timestamp": "2026-08-19T05:37:49.470415541Z",
+  "model": "glm-5.3"
+}

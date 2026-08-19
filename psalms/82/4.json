@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 82,
+  "translation": "Hãy giải thoát kẻ yếu hạ và kẻ túng thiếu, khỏi tay kẻ ác hãy cứu ⟨họ⟩.",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "hãy giải thoát"
+    },
+    {
+      "surface": "דל",
+      "gloss": "kẻ yếu hạ"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "và kẻ túng thiếu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "khỏi tay"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "của kẻ ác"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "hãy cứu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:15.143924043Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 6:5",
+  "book": "nehemiah",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Sanballat gửi đến tôi lần thứ năm theo lời này ⟨את⟩ đầy tớ của ông, và một lá thư mở trong tay nó.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "và gửi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "đến tôi"
+    },
+    {
+      "surface": "סנבלט",
+      "gloss": "Sanballat"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "theo lời"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "lần"
+    },
+    {
+      "surface": "חמישית",
+      "gloss": "thứ năm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đầy tớ của ông"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "đầy tớ của ông"
+    },
+    {
+      "surface": "ואigret",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-19T05:44:11.227135454Z",
+  "model": "glm-5.3"
+}

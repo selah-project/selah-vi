@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 83,
+  "translation": "Như lửa thiêu rừng, và như ngọn lửa làm cháy bốc các núi.",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "như lửa"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "thiêu"
+    },
+    {
+      "surface": "יער",
+      "gloss": "rừng"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "và như ngọn lửa"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "làm cháy bốc"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "các núi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:45.142357849Z",
+  "model": "glm-5.3"
+}

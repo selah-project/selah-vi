@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 33:12",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 33,
+  "translation": "Và Esav nói: \"Chúng ta hãy lên đường và hãy đi, và tôi sẽ đi trước mặt anh.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "נסעה",
+      "gloss": "chúng ta hãy lên đường"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "và hãy đi"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "và tôi sẽ đi"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "trước mặt anh"
+    }
+  ],
+  "timestamp": "2026-08-19T01:18:06.477177486Z",
+  "model": "glm-5.3"
+}

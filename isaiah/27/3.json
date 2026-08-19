@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 27:3",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Tôi, Yahweh, ⟨là⟩ Đấng gìn giữ nó; từng khoảnh khắc tôi sẽ tưới nó; kẻo ai đó phạt nó — đêm và ngày tôi canh giữ nó.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Tôi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "gìn giữ nó"
+    },
+    {
+      "surface": "לרגעים",
+      "gloss": "từng khoảnh khắc"
+    },
+    {
+      "surface": "אשקנה",
+      "gloss": "sẽ tưới nó"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kẻo"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "phạt"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "nó"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "đêm"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "và ngày"
+    },
+    {
+      "surface": "אצרנה",
+      "gloss": "canh giữ nó"
+    }
+  ],
+  "timestamp": "2026-08-19T04:08:33.929243480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và họ nói với bà: Vì ⟨את⟩ với ngươi chúng tôi sẽ trở lại, cho dân sự của ngươi.",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "và họ nói"
+    },
+    {
+      "surface": "לה",
+      "gloss": "với bà"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ với ngươi",
+      "marks": "với ngươi (Naomi)"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "chúng tôi sẽ trở lại"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "cho dân sự của ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:29:47.950551661Z",
+  "model": "glm-5.3"
+}

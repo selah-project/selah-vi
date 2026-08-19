@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 32:5",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Người bèn sai lệnh cho ⟨את⟩ họ, phán rằng: Như vầy các ngươi hãy nói với chúa tôi, với Esau: Như vầy nói: tôi tớ ngài là Yaakov — cùng với Lavan tôi đã kiều ngụ, và tôi lưu lại cho đến bây giờ.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "bèn sai lệnh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "họ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "phán rằng"
+    },
+    {
+      "surface": "כה",
+      "gloss": "như vầy"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "các ngươi hãy nói"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "với chúa tôi"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "với Esau"
+    },
+    {
+      "surface": "כה",
+      "gloss": "như vầy"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tôi tớ ngài"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cùng với"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "tôi đã kiều ngụ"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "và tôi lưu lại"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "bây giờ"
+    }
+  ],
+  "timestamp": "2026-08-19T01:19:03.226833762Z",
+  "model": "glm-5.3"
+}

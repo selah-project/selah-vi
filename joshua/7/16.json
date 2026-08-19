@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Yehoshua dậy sớm vào buổi sáng và đưa ⟨את⟩ Yisrael đến theo các chi phái của mình; và chi phái Yehudah bị bắt.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "đã dậy sớm"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "vào buổi sáng"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "và đã đưa đến gần"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "theo các chi phái của mình"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "và bị bắt"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "chi phái"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-19T06:07:05.079823531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 51:20",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 51,
+  "translation": "Búa chiến của Ta là ngươi, ⟨là⟩ vũ khí chiến tranh; và Ta sẽ đập nát nơi ngươi ⟨את⟩ các dân tộc, và Ta sẽ hủy diệt nơi ngươi ⟨את⟩ các vương quốc.",
+  "tokens": [
+    {
+      "surface": "מפץ",
+      "gloss": "búa chiến"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "của Ta"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "vũ khí"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "chiến tranh"
+    },
+    {
+      "surface": "ונפצתי",
+      "gloss": "và Ta sẽ đập nát"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nơi ngươi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "⟨את⟩ các dân tộc",
+      "marks": "các dân tộc"
+    },
+    {
+      "surface": "והשחתי",
+      "gloss": "và Ta sẽ hủy diệt"
+    },
+    {
+      "surface": "בך",
+      "gloss": "nơi ngươi"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "⟨את⟩ các vương quốc",
+      "marks": "các vương quốc"
+    }
+  ],
+  "timestamp": "2026-08-19T06:14:48.708804225Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Khi Adonai đã rửa ⟨את⟩ sự dơ bẩn của các con gái Tzion, và ⟨את⟩ máu của Yerushalayim sẽ bị rửa sạch khỏi giữa nó, bằng thần của sự phán xét và bằng thần của sự thiêu đốt.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "khi"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "đã rửa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sự dơ bẩn của các con gái Tzion"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "sự dơ bẩn"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "các con gái của"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "máu của Yerushalayim"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "máu của"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "sẽ bị rửa sạch"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "khỏi giữa nó"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "bằng thần"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sự phán xét"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "và bằng thần"
+    },
+    {
+      "surface": "בער",
+      "gloss": "sự thiêu đốt"
+    }
+  ],
+  "timestamp": "2026-08-19T04:04:52.683365909Z",
+  "model": "glm-5.3"
+}

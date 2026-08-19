@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Bà sinh cho ông ⟨את⟩ Zimran và ⟨את⟩ Yokshan và ⟨את⟩ Medan và ⟨את⟩ Midyan và ⟨את⟩ Yishbak và ⟨את⟩ Shuach.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "và bà sinh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho ông"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimran"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Yokshan"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Yokshan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Medan"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Medan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Midyan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Yishbak"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "Yishbak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Shuach"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "Shuach"
+    }
+  ],
+  "timestamp": "2026-08-19T02:23:34.715258298Z",
+  "model": "glm-5.3"
+}

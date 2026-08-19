@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 4:30",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và mẹ của đứa trẻ nói: Yahweh hằng sống, và sinh mạng ⟨của⟩ ngươi hằng sống, tôi sẽ không lìa ngươi. Và người đứng dậy và đi theo bà.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "và bà nói"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mẹ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "của đứa trẻ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "hằng sống"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "và hằng sống"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "sinh mạng ngươi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "tôi lìa ngươi"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "và người đứng dậy"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "và đi"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "theo bà"
+    }
+  ],
+  "timestamp": "2026-08-19T03:57:01.325795226Z",
+  "model": "glm-5.3"
+}

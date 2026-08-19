@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 9:12",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Vì con người cũng chẳng biết ⟨את⟩ thì giờ của mình: như cá bị bắt trong lưới ác, và như chim bị giữ trong bẫy, thể nào đó con cháu loài người bị sa bẫy trong thì giờ ác, khi điều đó thình lình giáng xuống trên họ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cũng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chẳng"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "biết"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "con người"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thì giờ của mình"
+    },
+    {
+      "surface": "עתו",
+      "gloss": "thì giờ của mình"
+    },
+    {
+      "surface": "כדגים",
+      "gloss": "như cá"
+    },
+    {
+      "surface": "שנאחזים",
+      "gloss": "bị bắt"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "trong lưới"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ác"
+    },
+    {
+      "surface": "וכצפרים",
+      "gloss": "và như chim"
+    },
+    {
+      "surface": "האחזות",
+      "gloss": "bị giữ"
+    },
+    {
+      "surface": "בפח",
+      "gloss": "trong bẫy"
+    },
+    {
+      "surface": "כהם",
+      "gloss": "thể nào đó"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "bị sa bẫy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cháu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "loài người"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "trong thì giờ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ác"
+    },
+    {
+      "surface": "כשתפול",
+      "gloss": "khi giáng xuống"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "trên họ"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "thình lình"
+    }
+  ],
+  "timestamp": "2026-08-19T05:34:34.879094062Z",
+  "model": "glm-5.3"
+}

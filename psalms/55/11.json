@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 55,
+  "translation": "Ngày và đêm họ đi vòng quanh trên tường thành nó, và sự gian ác cùng lao khổ ở giữa nó.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "ban ngày"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "và đêm"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "họ đi vòng quanh nó"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "tường thành nó"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "và gian ác"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "và lao khổ"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "ở giữa nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:20.052247330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và Yehoshua ra lệnh cho ⟨את⟩ các viên chức của dân sự, rằng:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "và người ra lệnh"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các viên chức của dân sự"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "các viên chức"
+    },
+    {
+      "surface": "העם",
+      "gloss": "của dân sự"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    }
+  ],
+  "timestamp": "2026-08-19T06:06:24.737943998Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 11:22",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Chiên với bò sẽ bị giết cho họ, và ⟨sẽ⟩ đủ cho họ sao? Nếu ⟨את⟩ mọi cá biển bị gom lại cho họ, và ⟨sẽ⟩ đủ cho họ sao?",
+  "tokens": [
+    {
+      "surface": "הצאן",
+      "gloss": "chiên"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "với bò"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "sẽ bị giết"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho họ"
+    },
+    {
+      "surface": "ומצא",
+      "gloss": "và đủ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho họ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi cá biển"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "דגי",
+      "gloss": "cá"
+    },
+    {
+      "surface": "הים",
+      "gloss": "biển"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "sẽ bị gom lại"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho họ"
+    },
+    {
+      "surface": "ומצא",
+      "gloss": "và đủ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho họ"
+    }
+  ],
+  "timestamp": "2026-08-19T06:05:03.894012158Z",
+  "model": "glm-5.3"
+}

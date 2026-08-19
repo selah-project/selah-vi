@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 16:20",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Và Avshalom nói với Akhityofel: Hãy các ngươi đưa ⟨את⟩ lời khuyên — chúng ta phải làm gì?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và người nói"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "Akhityofel"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "hãy đưa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lời khuyên"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho các ngươi"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "lời khuyên"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "chúng ta phải làm"
+    }
+  ],
+  "timestamp": "2026-08-19T06:08:51.366412986Z",
+  "model": "glm-5.3"
+}

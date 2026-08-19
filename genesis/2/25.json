@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và cả hai ⟨were⟩ trần trụi, ha'adam và vợ của ông, và không xấu hổ.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "và đã là"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "cả hai"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "trần trụi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "con người (ha'adam)"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "và vợ của ông"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "xấu hổ"
+    }
+  ],
+  "timestamp": "2026-08-19T00:49:00.652478418Z",
+  "model": "glm-5.3"
+}

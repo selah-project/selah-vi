@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 95,
+  "translation": "Chớ làm cho lòng các ngươi cứng cỏi như tại Merivah, như ngày Massah trong đồng vắng.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "làm cho cứng cỏi"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "lòng các ngươi"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "như tại Merivah"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "như ngày"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "Massah"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "trong đồng vắng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:33.904998629Z",
+  "model": "glm-5.3"
+}

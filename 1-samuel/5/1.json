@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Và người Philistine đã lấy ⟨את⟩ aron của ha-Elohim, và đã đem nó từ Eben-ha-Ezer đến Ashdod.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "và người Philistine"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "đã lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aron — chiếc rương"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "của ha-Elohim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "và đã đem nó"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "từ Even"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ha-Ezer"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "đến Ashdod"
+    }
+  ],
+  "timestamp": "2026-08-19T03:30:41.325602758Z",
+  "model": "glm-5.3"
+}

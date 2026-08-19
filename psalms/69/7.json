@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 69,
+  "translation": "Xin đừng để họ xấu hổ vì tôi — những kẻ trông đợi Ngài, Adonai Yahweh Sevaot; xin đừng để họ hổ thẹn vì tôi — những kẻ tìm kiếm Ngài, Elohim của Yisrael.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "xin đừng"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "họ xấu hổ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "vì tôi"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "những kẻ trông đợi Ngài"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sevaot (các đạo binh)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "xin đừng"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "họ hổ thẹn"
+    },
+    {
+      "surface": "בי",
+      "gloss": "vì tôi"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "những kẻ tìm kiếm Ngài"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:13.513923998Z",
+  "model": "glm-5.3"
+}

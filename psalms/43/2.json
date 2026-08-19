@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 43,
+  "translation": "Vì Ngài là Elohim, chỗ nương tựa của tôi —为何 Nàng đã bỏ tôi? Vì sao tôi đi u sầu dưới sự áp bức của kẻ thù?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Vì"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "chỗ nương tựa của tôi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "vì sao"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "đã bỏ tôi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "vì sao"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "u sầu"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "tôi đi"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "trong sự áp bức"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "của kẻ thù"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:32.316403607Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Yoav đứng dậy, đi đến Geshur, và đưa ⟨את⟩ Avshalom về Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "đứng dậy"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "đi"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "Geshur"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "đưa về"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-19T03:42:32.583409218Z",
+  "model": "glm-5.3"
+}

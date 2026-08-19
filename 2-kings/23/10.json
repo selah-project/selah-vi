@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Và ông làm ô uế ⟨את⟩ Topheth ở trũng con cái Hinnom, để không cho phép ai dẫn ⟨את⟩ con trai mình và ⟨את⟩ con gái mình qua lửa cho Molech.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "và ông làm ô uế"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Topheth"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "Topheth"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "ở trũng"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hinnom"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "để không"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "cho phép dẫn qua"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con trai mình"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "con trai mình"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con gái mình"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "con gái mình"
+    },
+    {
+      "surface": "באש",
+      "gloss": "qua lửa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "cho Molech"
+    }
+  ],
+  "timestamp": "2026-08-19T04:02:15.910765957Z",
+  "model": "glm-5.3"
+}

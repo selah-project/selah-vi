@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Kẻ ác sẽ quay trở lại Sheol, tất cả các dân tộc lãng quên Elohim.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "sẽ quay trở lại"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "về phía Sheol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "các dân tộc"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "những kẻ lãng quên"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:21.505741866Z",
+  "model": "glm-5.3"
+}

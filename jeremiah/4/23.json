@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Tôi đã nhìn ⟨את⟩ đất, và kìa ⟨nó⟩ hoang vu trống rỗng; và ⟨tôi đã nhìn⟩ các tầng trời, và ánh sáng của chúng không còn.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "tôi đã nhìn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đất"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "và kìa"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "hoang vu"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "và trống rỗng"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và đến"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "các tầng trời"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "và không có"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "ánh sáng của chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:17:38.156088608Z",
+  "model": "glm-5.3"
+}

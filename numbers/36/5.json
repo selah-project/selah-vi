@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 36:5",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 36,
+  "translation": "Và Moshe truyền lệnh cho ⟨את⟩ con cái Israel theo miệng Yahweh, rằng: Đúng vậy, chi-phái con cái Yosep đang nói.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "và-truyền-lệnh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con cái Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "על",
+      "gloss": "theo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "miệng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "כן",
+      "gloss": "đúng vậy"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "chi-phái"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosep"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "đang-nói"
+    }
+  ],
+  "timestamp": "2026-08-19T06:05:47.590968519Z",
+  "model": "glm-5.3"
+}

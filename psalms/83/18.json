@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 83:18",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 83,
+  "translation": "Người ta xấu hổ và kinh hoàng mãi mãi, và họ hổ thẹn và diệt vong.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "họ xấu hổ"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "và kinh hoàng"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "mãi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mãi"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "và hổ thẹn"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "và diệt vong"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:27.983274569Z",
+  "model": "glm-5.3"
+}

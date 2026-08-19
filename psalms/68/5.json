@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 68:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 68,
+  "translation": "Hãy hát cho Elohim, hãy gảy đàn ca ngợi danh Ngài; hãy tôn cao Đấng cưỡi trên các sa mạc — trong Yah ⟨là⟩ danh Ngài — và hãy nhảy mừng trước mặt Ngài.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "hãy hát"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "cho Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "hãy gảy đàn ca ngợi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "danh Ngài"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "hãy tôn cao"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "Đấng cưỡi"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "trên các sa mạc"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "trong Yah"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "danh Ngài"
+    },
+    {
+      "surface": "ועלזו",
+      "gloss": "và hãy nhảy mừng"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "trước mặt Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:04.162872187Z",
+  "model": "glm-5.3"
+}

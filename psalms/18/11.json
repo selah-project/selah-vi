@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Ngài cưỡi ⟨trên⟩ keruv và bay đi, Ngài lượn bay trên cánh của gió.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "và Ngài cưỡi"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "keruv"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "và bay đi"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "và lượn bay"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "cánh của"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "gió"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:26.544594455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Không như vậy ⟨là⟩ những kẻ ác, nhưng ⟨họ⟩ như vỏ trấu mà gió thổi bay đi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "כן",
+      "gloss": "như vậy"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "những kẻ ác"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nhưng"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨họ⟩ như"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "như vỏ trấu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "thổi bay đi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "gió"
+    }
+  ],
+  "timestamp": "2026-08-19T06:16:25.090925807Z",
+  "model": "glm-5.3"
+}

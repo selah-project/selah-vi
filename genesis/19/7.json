@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 19:7",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Và ông nói: Xin đừng, các anh em của tôi, làm điều ác.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và ông nói"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xin"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "các anh em của tôi"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "làm điều ác"
+    }
+  ],
+  "timestamp": "2026-08-19T01:00:43.646252738Z",
+  "model": "glm-5.3"
+}

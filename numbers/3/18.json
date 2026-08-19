@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 3:18",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và đây là các tên của con trai Gershon theo chi tộc của họ: Livni và Shim'i.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "và đây là"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "các tên của"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con trai của"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gershon"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "theo chi tộc của họ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Livni"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "và Shim'i"
+    }
+  ],
+  "timestamp": "2026-08-19T02:52:45.513704722Z",
+  "model": "glm-5.3"
+}

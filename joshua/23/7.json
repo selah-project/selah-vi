@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 23:7",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "để không gia nhập ⟨אתכם⟩ vào giữa các dân tộc này, những kẻ còn lại này ⟨אתכם⟩; và danh của các thần của họ, các ngươi đừng nhắc tới, đừng khiến ai thề, đừng hầu việc họ, và đừng phủ phục trước họ.",
+  "tokens": [
+    {
+      "surface": "לבלתי",
+      "gloss": "để không"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "gia nhập"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "vào giữa các dân tộc"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "này"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "những kẻ còn lại"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "này"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "cùng các ngươi"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "và danh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "các thần của họ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תזכירו",
+      "gloss": "các ngươi nhắc tới"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và đừng"
+    },
+    {
+      "surface": "תשביעו",
+      "gloss": "các ngươi khiến thề"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và đừng"
+    },
+    {
+      "surface": "תעבדום",
+      "gloss": "các ngươi hầu việc họ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và đừng"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "các ngươi phủ phục"
+    },
+    {
+      "surface": "להם",
+      "gloss": "trước họ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:21:39.883776254Z",
+  "model": "glm-5.3"
+}

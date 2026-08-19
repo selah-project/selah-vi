@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Yahweh, xin đừng quở trách con trong cơn giận của Ngài, và đừng sửa phạt con trong cơn thịnh nộ của Ngài.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "trong cơn giận của Ngài"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "quở trách con"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và đừng"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "trong cơn thịnh nộ của Ngài"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "sửa phạt con"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:10.792666730Z",
+  "model": "glm-5.3"
+}

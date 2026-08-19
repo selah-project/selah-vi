@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 3:3",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Đây là tên các con trai của Aharon, các thầy tế lễ được xức dầu, mà ⟨tay⟩ họ được đầy để làm chức tế lễ.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "đây là"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "tên"
+    },
+    {
+      "surface": "בני",
+      "gloss": "các con trai"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "của Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "các thầy tế lễ"
+    },
+    {
+      "surface": "המשחים",
+      "gloss": "được xức dầu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "được đầy"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "tay họ"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "để làm chức tế lễ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:52:52.183512375Z",
+  "model": "glm-5.3"
+}

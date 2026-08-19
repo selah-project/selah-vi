@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 39,
+  "translation": "Xin nhìn đi khỏi tôi, để tôi được tươi sáng lại, trước khi tôi ra đi và không còn nữa.",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "xin nhìn"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "khỏi tôi"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "để tôi được tươi sáng lại"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "trước khi"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "tôi ra đi"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "và không còn tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:26.068163895Z",
+  "model": "glm-5.3"
+}

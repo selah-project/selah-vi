@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Còn ngươi và các tôi tớ ngươi — tôi biết rằng các ngươi chưa sợ trước mặt Yahweh, Elohim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "còn ngươi"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "và các tôi tớ ngươi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "tôi biết"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "chưa"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "các ngươi sợ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T02:29:50.123367656Z",
+  "model": "glm-5.3"
+}

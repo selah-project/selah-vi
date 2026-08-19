@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 85,
+  "translation": "Ngài đã nhấc bỏ ⟨את⟩ sự quái ngặc của dân Ngài, Ngài đã che phủ ⟨את⟩ mọi tội lỗi của họ. Selah.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "Ngài đã nhấc bỏ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "sự quái ngặc"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dân Ngài"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "Ngài đã che phủ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "tội lỗi của họ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:14.100702769Z",
+  "model": "glm-5.3"
+}

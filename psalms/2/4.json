@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Đấng ngự trên các tầng trời sẽ cười; Adonai sẽ nhạo báng chúng nó.",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "Đấng ngự"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "trên các tầng trời"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "sẽ cười"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "sẽ nhạo báng"
+    },
+    {
+      "surface": "למו",
+      "gloss": "chúng nó"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:07.602913363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 139,
+  "translation": "Tôi sẽ đi đâu xa khỏi Thần của Ngài? Và tôi sẽ trốn đâu khỏi mặt Ngài?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "đâu"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "tôi sẽ đi"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "xa khỏi Thần của Ngài"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "và đâu"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "khỏi mặt Ngài"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "tôi sẽ trốn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:44.989260354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 147,
+  "translation": "Đấng ban cho thú vật lương thực của nó, cho con của quạ kêu than.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "Đấng ban cho"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "cho thú vật"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "lương thực của nó"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "cho con của"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "quạ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "khi"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "chúng kêu than"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:17.183490577Z",
+  "model": "glm-5.3"
+}

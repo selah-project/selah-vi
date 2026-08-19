@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Và Ephron trả lời ⟨את⟩ Avraham, nói với ⟨ông⟩:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "và trả lời"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Ephron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "לו",
+      "gloss": "với ⟨ông⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T01:03:46.453615760Z",
+  "model": "glm-5.3"
+}

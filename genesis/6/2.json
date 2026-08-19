@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 6:2",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Các con trai của Elohim thấy ⟨את⟩ các con gái của con người, rằng chúng ⟨là⟩ tốt đẹp; và họ lấy cho mình vợ, từ tất cả mà họ đã chọn.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "thấy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "các con trai"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các con gái của con người"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "các con gái"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "của con người"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "tốt đẹp"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "chúng"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "và lấy"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho mình"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "vợ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "từ tất cả"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "đã chọn"
+    }
+  ],
+  "timestamp": "2026-08-19T00:53:21.767221704Z",
+  "model": "glm-5.3"
+}

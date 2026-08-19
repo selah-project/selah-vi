@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 26:10",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Một ranh giới Ngài vạch vòng tròn trên mặt nước, tận nơi ranh giới ánh sáng cùng tối tăm.",
+  "tokens": [
+    {
+      "surface": "חק",
+      "gloss": "ranh giới"
+    },
+    {
+      "surface": "חג",
+      "gloss": "vạch vòng tròn"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tận nơi"
+    },
+    {
+      "surface": "תכלית",
+      "gloss": "ranh giới cuối"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ánh sáng"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cùng"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tối tăm"
+    }
+  ],
+  "timestamp": "2026-08-19T05:24:57.462574892Z",
+  "model": "glm-5.3"
+}

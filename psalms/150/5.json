@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 150,
+  "translation": "Hãy ngợi khen Ngài bằng chũm chọe vang rõ, hãy ngợi khen Ngài bằng chũm chọe hô reo.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "hãy ngợi khen Ngài"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "bằng chũm chọe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "vang rõ"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "hãy ngợi khen Ngài"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "bằng chũm chọe"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "hô reo"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:18.244565085Z",
+  "model": "glm-5.3"
+}

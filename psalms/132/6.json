@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 132,
+  "translation": "Này, chúng tôi đã nghe về nó tại Efratah, chúng tôi đã tìm thấy nó trong các đồng ruộng của Yaar.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "này"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "chúng tôi đã nghe về nó"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "tại Efratah"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "chúng tôi đã tìm thấy nó"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "trong các đồng ruộng của"
+    },
+    {
+      "surface": "יער",
+      "gloss": "Yaar (rừng)"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:16.625484491Z",
+  "model": "glm-5.3"
+}

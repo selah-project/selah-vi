@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 63,
+  "translation": "Chúng sẽ bị trút xuống dưới lưỡi gươm, sẽ thành phần của chó rừng.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "sẽ bị trút xuống"
+    },
+    {
+      "surface": "על",
+      "gloss": "dưới"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "lưỡi"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "gươm"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "phần của"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "chó rừng"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "sẽ thành"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:15.436838537Z",
+  "model": "glm-5.3"
+}

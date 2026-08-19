@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 5:11",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Ngươi chớ nhấc ⟨את⟩ danh Yahweh Elohim của ngươi lên cách vô ích, vì Yahweh sẽ không tha cho kẻ nhấc ⟨את⟩ danh Ngài lên cách vô ích.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ngươi nhấc lên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "danh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "danh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim của ngươi"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "cách vô ích"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "sẽ tha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kẻ mà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kẻ mà"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "nhấc lên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "danh Ngài"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "danh Ngài"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "cách vô ích"
+    }
+  ],
+  "timestamp": "2026-08-19T06:06:08.059522074Z",
+  "model": "glm-5.3"
+}

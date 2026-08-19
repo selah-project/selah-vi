@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Và ⟨đ là⟩ khởi đầu vương quốc của ông: Bavel, và Erech, và Akkad, và Kalneh, trong đất Shinar.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "và ⟨là⟩"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "khởi đầu"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "vương quốc của ông"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "và Erech"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "và Akkad"
+    },
+    {
+      "surface": "ובכלנה",
+      "gloss": "và Kalneh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trong đất"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Shinar"
+    }
+  ],
+  "timestamp": "2026-08-19T00:53:35.251784701Z",
+  "model": "glm-5.3"
+}

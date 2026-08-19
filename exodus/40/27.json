@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 40:27",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Và ⟨ông⟩ đốt trên đó hương trầm của các thứ gia vị thơm, như Yahweh đã truyền lệnh ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "và đốt hương"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "trên đó"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "hương trầm"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "các thứ gia vị thơm"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "đã truyền lệnh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-19T02:39:11.883337264Z",
+  "model": "glm-5.3"
+}

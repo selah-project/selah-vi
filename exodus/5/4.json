@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Và vua của Mitzrayim nói với họ: Sao, Moshe và Aharon, các ngươi xả ⟨את⟩ dân ra khỏi công việc của họ? Hãy đi đến các gánh nặng của các ngươi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "với họ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "למה",
+      "gloss": "sao"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "và Aharon"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "các ngươi xả ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "khỏi công việc của họ"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "hãy đi"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "đến các gánh nặng của các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:29:02.466084693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 68,
+  "translation": "Và người công bình sẽ vui mừng, sẽ nhảy nhót hoan hỉ trước mặt Elohim, và sẽ mừng rỡ trong sự vui mừng.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "và người công bình"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "hãy vui mừng"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "hãy nhảy nhót hoan hỉ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "và hãy mừng rỡ"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "trong sự vui mừng"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:04.304239087Z",
+  "model": "glm-5.3"
+}

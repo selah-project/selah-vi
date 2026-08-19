@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 39:7",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 39,
+  "translation": "Còn ⟨את⟩ đôi mắt Tsidkiyahu thì ông làm mù, và ông trói ông ấy bằng xiềng đồng, để đưa ⟨את⟩ ông ấy đến Bavel.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "còn ⟨את⟩",
+      "marks": "đôi mắt Tsidkiyahu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "đôi mắt"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "làm mù"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "và trói ông ấy"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "bằng xiềng đồng"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "để đưa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ông ấy",
+      "marks": "đến Bavel"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Bavel"
+    }
+  ],
+  "timestamp": "2026-08-19T04:26:27.180248985Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 34:16",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 34,
+  "translation": "Và Shafan đem ⟨את⟩ cuốn sách tới nhà vua, và còn tâu lại ⟨את⟩ với nhà vua một lời, rằng: Mọi điều đã được giao vào tay các tôi tớ của ngài, họ đang làm.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "và đem tới"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shafan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cuốn sách"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "cuốn sách"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tới"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "nhà vua"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "và tâu lại"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "còn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhà vua"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "nhà vua"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "một lời"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi điều"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "đã được giao"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "vào tay"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "các tôi tớ của ngài"
+    },
+    {
+      "surface": "הם",
+      "gloss": "họ"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "đang làm"
+    }
+  ],
+  "timestamp": "2026-08-19T06:02:08.353155791Z",
+  "model": "glm-5.3"
+}

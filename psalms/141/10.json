@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 141,
+  "translation": "Người ác hãy ngã vào lưới của chính chúng, cho đến khi tôi vượt qua.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "hãy ngã"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "vào lưới của chúng"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "người ác"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "cùng nhau"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến khi"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "vượt qua"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:28.514673731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 98,
+  "translation": "Các sông hãy vỗ tay, cùng nhau các núi hãy hò reo.",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "các sông"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "hãy vỗ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "tay"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "cùng nhau"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "các núi"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "hãy hò reo"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:52.181324478Z",
+  "model": "glm-5.3"
+}

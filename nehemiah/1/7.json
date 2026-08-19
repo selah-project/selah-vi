@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Chúng tôi đã hành động hư hoại quá mức với Ngài, và đã không gìn giữ ⟨את⟩ các điều răn, và ⟨את⟩ các luật lệ, và ⟨את⟩ các phán quyết mà Ngài đã truyền cho Moshe, tôi tớ của Ngài.",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "quá mức hư hoại"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "chúng tôi đã hành động"
+    },
+    {
+      "surface": "לך",
+      "gloss": "với Ngài"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "chúng tôi đã gìn giữ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các điều răn"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "các điều răn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các luật lệ"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "các luật lệ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các phán quyết"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "các phán quyết"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "Ngài đã truyền"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tôi tớ của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:43:12.352477877Z",
+  "model": "glm-5.3"
+}

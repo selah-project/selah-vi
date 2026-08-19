@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Vì kẻ quanh co là điều gớm ghiếc trước mặt Yahweh, và ⟨את⟩ người ngay thẳng là sự thân mật bí mật của Ngài.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "điều gớm ghiếc"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "kẻ quanh co"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "người ngay thẳng"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "người ngay thẳng"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "sự thân mật bí mật của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:14:41.945271570Z",
+  "model": "glm-5.3"
+}

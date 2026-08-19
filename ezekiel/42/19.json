@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 42:19",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 42,
+  "translation": "Người vòng sang hướng tây mà đo: năm trăm cây sậy, bằng cây sậy đo.",
+  "tokens": [
+    {
+      "surface": "סבב",
+      "gloss": "vòng sang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sang đến"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "hướng\/gió"
+    },
+    {
+      "surface": "הים",
+      "gloss": "biển (phương tây)"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "người đã đo"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "năm"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "trăm"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "cây sậy"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "bằng cây sậy"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "của sự đo"
+    }
+  ],
+  "timestamp": "2026-08-19T04:42:33.971629314Z",
+  "model": "glm-5.3"
+}

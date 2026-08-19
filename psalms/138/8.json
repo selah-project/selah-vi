@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 138,
+  "translation": "Yahweh sẽ hoàn tất ⟨việc⟩ ⟨dành⟩ cho tôi; Yahweh ⟨ơi⟩, lòng nhân từ của Ngài ⟨bền⟩ đến muôn đời; công việc của tay Ngài, xin đừng bỏ rơi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "sẽ hoàn tất"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "⟨dành⟩ cho tôi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "lòng nhân từ của Ngài"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "đến muôn đời"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "công việc của"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "tay Ngài"
+    },
+    {
+      "surface": "אל",
+      "gloss": "xin đừng"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "bỏ rơi (tr slacken)"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:01.492494686Z",
+  "model": "glm-5.3"
+}

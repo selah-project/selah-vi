@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 69,
+  "translation": "Tôi đã chìm trong bùn lầy sâu, và không có chỗ đặt chân; tôi đã vào giữa nước sâu thẳm, và dòng cuộn đã cuốn trôi tôi.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "tôi đã chìm"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "trong bùn lầy"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "sâu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "và không có"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "chỗ đặt chân"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "tôi đã vào"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "giữa ... sâu thẳm"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "và dòng cuộn"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "đã cuốn trôi tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:39.313019729Z",
+  "model": "glm-5.3"
+}

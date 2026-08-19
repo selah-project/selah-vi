@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 84,
+  "translation": "Yahweh Elohim Tsevaot, xin nghe lời cầu nguyện của tôi; xin lắng tai, Elohim của Yaakov. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "xin nghe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "lời cầu nguyện của tôi"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "xin lắng tai"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:12.992714915Z",
+  "model": "glm-5.3"
+}

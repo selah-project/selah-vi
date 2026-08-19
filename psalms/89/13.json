@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 89:13",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 89,
+  "translation": "Phương bắc và phương nam, chính Ngài đã sáng tạo ⟨את⟩ chúng; Tavor và Chermon sẽ hát reo trong Danh Ngài.",
+  "tokens": [
+    {
+      "surface": "צפון",
+      "gloss": "phương bắc"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "và phương nam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "đã sáng tạo ⟨את⟩ chúng"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "Tavor"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "và Chermon"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "trong Danh Ngài"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "sẽ hát reo"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:29.840797256Z",
+  "model": "glm-5.3"
+}

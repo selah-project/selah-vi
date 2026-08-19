@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 80,
+  "translation": "Yahweh Elohim các đạo quân噢 Xin hãy đem chúng tôi trở lại; xin làm sáng chiếu mặt Ngài, và chúng tôi sẽ được cứu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "các đạo quân"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "xin hãy đem chúng tôi trở lại"
+    },
+    {
+      "surface": "האר",
+      "gloss": "xin làm sáng chiếu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "mặt Ngài"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "và chúng tôi sẽ được cứu"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:08.425815287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 118,
+  "translation": "Ngài xô đẩy tôi ngã xuống, nhưng Yahweh đã giúp đỡ tôi.",
+  "tokens": [
+    {
+      "surface": "דחה",
+      "gloss": "xô đẩy"
+    },
+    {
+      "surface": "דחיתני",
+      "gloss": "ngài đã xô tôi"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "để ngã"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "nhưng Yahweh"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "đã giúp đỡ tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:24.223271846Z",
+  "model": "glm-5.3"
+}

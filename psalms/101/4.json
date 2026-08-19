@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 101,
+  "translation": "Lòng quanh co sẽ lìa khỏi tôi; điều ác tôi sẽ không biết.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "lòng"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "quanh co"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "sẽ lìa"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "khỏi tôi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "điều ác"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "tôi sẽ biết"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:01.449024964Z",
+  "model": "glm-5.3"
+}

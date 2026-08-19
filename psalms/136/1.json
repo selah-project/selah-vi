@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 136,
+  "translation": "Hãy tạ ơn Yahweh, vì Ngài ⟨là⟩ tốt lành, vì sự nhân từ của Ngài tồn tại đến muôn đời.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Hãy tạ ơn"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tốt lành"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "đến muôn đời"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sự nhân từ của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:22.497740510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 43,
+  "translation": "Nếu ngài sẵn lòng sai ⟨את⟩ anh chúng tôi đi ⟨את⟩ cùng chúng tôi, chúng tôi sẽ xuống và mua lương thực cho ngài.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ngài sẵn lòng"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "sai đi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anh chúng tôi"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "anh chúng tôi"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ cùng chúng tôi"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "chúng tôi sẽ xuống"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "và mua"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngài"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "lương thực"
+    }
+  ],
+  "timestamp": "2026-08-19T02:24:40.220533274Z",
+  "model": "glm-5.3"
+}

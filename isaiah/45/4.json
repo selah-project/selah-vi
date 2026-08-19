@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 45:4",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 45,
+  "translation": "Vì cớ Yaakov tôi tớ Ta, và Yisrael kẻ Ta chọn, mà Ta đã gọi ngươi theo tên ngươi; Ta đã đặt danh hiệu cho ngươi, dù ngươi đã không biết Ta.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "vì cớ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "tôi tớ của Ta"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "và Yisrael"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "kẻ Ta chọn"
+    },
+    {
+      "surface": "ואקרא",
+      "gloss": "và Ta đã gọi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngươi"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "theo tên ngươi"
+    },
+    {
+      "surface": "אכנך",
+      "gloss": "Ta đặt danh hiệu cho ngươi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dù... không"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "ngươi đã biết Ta"
+    }
+  ],
+  "timestamp": "2026-08-19T04:13:26.534216315Z",
+  "model": "glm-5.3"
+}

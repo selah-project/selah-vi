@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 2:6",
+  "book": "micah",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Đừng nói tiên tri — chúng nó nói tiên tri — chúng nó sẽ không nói tiên tri về những điều này, sự sỉ nhục sẽ không lùi bỏ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Đừng"
+    },
+    {
+      "surface": "תטפו",
+      "gloss": "nói tiên tri"
+    },
+    {
+      "surface": "יטיפון",
+      "gloss": "chúng nó nói tiên tri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יטטפו",
+      "gloss": "chúng nó nói tiên tri"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "về những điều này"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יסג",
+      "gloss": "lùi bỏ"
+    },
+    {
+      "surface": "כלמות",
+      "gloss": "sự sỉ nhục"
+    }
+  ],
+  "timestamp": "2026-08-19T04:49:13.816456450Z",
+  "model": "glm-5.3"
+}

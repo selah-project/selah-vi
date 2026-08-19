@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 71:24",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 71,
+  "translation": "Cả lưỡi tôi nữa sẽ suốt ngày ngẫm nói sự công chính của Ngài, vì chúng nó đã xấu hổ, vì chúng nó đã bối rối, là kẻ tìm điều ác hại tôi.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "cả... nữa"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "lưỡi tôi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "suốt"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "sẽ ngẫm nói"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "sự công chính của Ngài"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "chúng nó đã xấu hổ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "chúng nó đã bối rối"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "là kẻ tìm"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "điều ác hại tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:22.548555665Z",
+  "model": "glm-5.3"
+}

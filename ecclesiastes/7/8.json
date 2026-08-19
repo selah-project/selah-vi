@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Tốt hơn cái cuối của một việc hơn sự khởi đầu của nó; tốt hơn trái tim dài hơn trái tim cao ngạo.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "tốt hơn"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "cái cuối"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "một việc"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "hơn sự khởi đầu của nó"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tốt hơn"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dài"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "hơi thở\/tâm linh"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "hơn sự cao"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "hơi thở\/tâm linh"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:14.141208605Z",
+  "model": "glm-5.3"
+}

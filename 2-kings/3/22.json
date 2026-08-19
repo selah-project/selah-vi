@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Họ dậy sớm ban mai, và mặt trời chiếu lên ⟨trên⟩ mặt nước, thì Moav từ phía đối diện nhìn thấy ⟨את⟩ nước đỏ như máu.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "họ dậy sớm"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ban mai"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "và mặt trời"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "đã chiếu rạng"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "המים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "thì nhìn thấy"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "từ phía đối diện"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nước"
+    },
+    {
+      "surface": "המים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "đỏ"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "như máu"
+    }
+  ],
+  "timestamp": "2026-08-19T03:55:53.928971693Z",
+  "model": "glm-5.3"
+}

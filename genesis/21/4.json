@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 21:4",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Và Avraham đã cắt bì ⟨את⟩ Yitschak con trai mình, con trai được tám ngày, như Elohim đã truyền lệnh ⟨את⟩ cho ông.",
+  "tokens": [
+    {
+      "surface": "וימל",
+      "gloss": "và đã cắt bì"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "con trai mình"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai của"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "tám"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "đã truyền lệnh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ với ông",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T01:03:03.241379941Z",
+  "model": "glm-5.3"
+}

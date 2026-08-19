@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Tôi đã nói với lòng mình: Elohim sẽ xét đoán ⟨את⟩ người công chính và ⟨את⟩ kẻ ác, vì có một thời cho mọi ý muốn, và cho mọi việc ở đó.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "tôi đã nói"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "với lòng mình"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người công chính"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "người công chính"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "kẻ ác"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "sẽ xét đoán"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עת",
+      "gloss": "một thời"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "cho mọi"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ý muốn"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "và cho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "việc"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ở đó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:36.802680327Z",
+  "model": "glm-5.3"
+}

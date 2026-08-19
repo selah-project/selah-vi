@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 9:15",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Vì những kẻ được coi là phước hạnh ⟨của⟩ dân này làm cho lạc lối, và những kẻ được họ làm cho phước hạc ⟨thì⟩ bị nuốt chửng.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "vì họ là"
+    },
+    {
+      "surface": "מאשרי",
+      "gloss": "những kẻ được coi là phước hạnh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "làm cho lạc lối"
+    },
+    {
+      "surface": "ומאשריו",
+      "gloss": "và những kẻ được ông ấy làm cho phước hạnh"
+    },
+    {
+      "surface": "מבלעים",
+      "gloss": "bị nuốt chửng"
+    }
+  ],
+  "timestamp": "2026-08-19T06:12:17.146891980Z",
+  "model": "glm-5.3"
+}

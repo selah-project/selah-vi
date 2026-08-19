@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 109,
+  "translation": "Và ⟨anh ta⟩ mặc điều rủa sả như áo ⟨mình⟩ mặc, thì nó vào như nước trong lòng ⟨anh ta⟩, và như dầu trong xương ⟨anh ta⟩.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "và mặc"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "điều rủa sả"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "như áo khoác của mình"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "thì nó vào"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "như nước"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "trong lòng anh ta"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "và như dầu"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "trong xương anh ta"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:53.769062117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 23:13",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Và nơi các tiên tri của Shomron tôi đã thấy sự điên rồ: họ đã nói tiên tri trong Baal, và đã làm cho ⟨את⟩ dân Ta, ⟨את⟩ Israel, lạc lối.",
+  "tokens": [
+    {
+      "surface": "ובנביאי",
+      "gloss": "và nơi các tiên tri của"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "tôi đã thấy"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "sự điên rồ"
+    },
+    {
+      "surface": "הנבאו",
+      "gloss": "họ đã nói tiên tri"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "trong Baal"
+    },
+    {
+      "surface": "ויתעו",
+      "gloss": "và đã làm cho… lạc lối"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân Ta"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "dân Ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-19T04:22:53.227125695Z",
+  "model": "glm-5.3"
+}

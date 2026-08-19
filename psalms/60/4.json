@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 60,
+  "translation": "Ngài đã làm đất rung chuyển, đã nứt vỡ nó ra; hãy chữa lành các vết nứt của nó, vì nó lung lay.",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "Ngài đã làm rung chuyển"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "Ngài đã nứt vỡ nó"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "hãy chữa lành"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "các vết nứt của nó"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "nó lung lay"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:27.497192270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Và Yahweh đã cứu ⟨את⟩ Yisrael trong ngày ấy; và cuộc chiến đã vượt qua ⟨את⟩ Beit-Aven.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "và đã cứu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "trong ngày"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "đó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "và cuộc chiến"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "đã vượt qua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beit-Aven"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "און",
+      "gloss": "Aven"
+    }
+  ],
+  "timestamp": "2026-08-19T03:33:00.653668917Z",
+  "model": "glm-5.3"
+}

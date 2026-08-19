@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Tôi hướng ⟨את⟩ mặt mình về Adonai, ⟨את⟩ Đức Chúa Trời, để cầu xin bằng lời nguyện cầu và khẩn nài, trong kiêng ăn, vải thô, và tro.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "tôi hướng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mặt mình"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Đức Chúa Trời"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "để cầu xin"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "lời nguyện cầu"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "và khẩn nài"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "trong kiêng ăn"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "và vải thô"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "và tro"
+    }
+  ],
+  "timestamp": "2026-08-19T06:21:18.309394295Z",
+  "model": "glm-5.3"
+}

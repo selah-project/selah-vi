@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 28:1",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Và Yitschak gọi Yaakov, và chúc phúc cho ⟨את⟩-người, và truyền lệnh cho người, và nói với người: Chớ lấy vợ từ các con gái Kenaan.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "và gọi"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "và chúc phúc"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov (người)"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "và truyền lệnh người"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "לו",
+      "gloss": "với người"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ngươi lấy"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "vợ"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "từ các con gái"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-19T01:13:25.611952809Z",
+  "model": "glm-5.3"
+}

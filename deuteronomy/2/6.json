@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 2:6",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Lương thực các ngươi sẽ mua ⟨את⟩ nơi chúng bằng bạc mà ăn; cả nước cũng hãy mua ⟨את⟩ nơi chúng bằng bạc mà uống.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "lương thực"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "các ngươi sẽ mua"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "từ ⟨את⟩ chúng"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "bằng bạc"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "và các ngươi ăn"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "cả"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "תכרו",
+      "gloss": "hãy mua"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "từ ⟨את⟩ chúng"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "bằng bạc"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "và các ngươi uống"
+    }
+  ],
+  "timestamp": "2026-08-19T03:05:17.714042392Z",
+  "model": "glm-5.3"
+}

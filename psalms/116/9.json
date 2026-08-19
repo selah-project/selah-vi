@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 116,
+  "translation": "Tôi sẽ đi trước mặt Yahweh, trong đất của ⟨những⟩ kẻ sống.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "tôi sẽ đi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "trong đất"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "của những kẻ sống"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:11.982217647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 4:11",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "huống chi khi những kẻ ác đã giết ⟨את⟩ người công chính trong nhà hắn, trên giường hắn — thì nay, há chẳng phải ta sẽ đòi ⟨את⟩ huyết hắn từ tay các ngươi, và ta sẽ tiêu diệt ⟨את⟩ các ngươi khỏi đất sao?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "huống chi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "khi mà"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "những người"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ác"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "đã giết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người công chính"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "công chính"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "trong nhà hắn"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "giường hắn"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "và nay"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "há chẳng phải"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "ta sẽ đòi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huyết hắn"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "huyết hắn"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "từ tay các ngươi"
+    },
+    {
+      "surface": "ובערתי",
+      "gloss": "và ta sẽ tiêu diệt"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T03:39:56.383641119Z",
+  "model": "glm-5.3"
+}

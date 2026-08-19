@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Kẻ nào kính sợ ⟨את⟩ lời Yahweh trong các tôi tớ của Pharaoh, thì đã dẫn các tôi tớ mình ⟨את⟩ và gia súc mình ⟨את⟩ vào nhà.",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "kẻ nào kính sợ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lời Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lời"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "trong các tôi tớ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaoh"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "đã dẫn chạy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các tôi tớ mình"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "các tôi tớ mình"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "gia súc mình"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "gia súc mình"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vào"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "nhà"
+    }
+  ],
+  "timestamp": "2026-08-19T02:29:58.606250810Z",
+  "model": "glm-5.3"
+}

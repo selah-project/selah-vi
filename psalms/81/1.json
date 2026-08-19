@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 81,
+  "translation": "Về đấng chỉ huy, theo điệu Gittith, của Asaph.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "về đấng chỉ huy"
+    },
+    {
+      "surface": "על",
+      "gloss": "theo"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "điệu Gittith"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "của Asaph"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:26.600866507Z",
+  "model": "glm-5.3"
+}

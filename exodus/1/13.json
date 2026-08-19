@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và Mitsrayim bắt con cái Yisrael làm việc ⟨את⟩ trong khắc nghiệt",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "và bắt làm việc"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con cái Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "trong khắc nghiệt"
+    }
+  ],
+  "timestamp": "2026-08-19T02:27:17.607485657Z",
+  "model": "glm-5.3"
+}

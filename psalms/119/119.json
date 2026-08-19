@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 119,
+  "ref": "psalms 119:119",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Ngài đã khiến ngưng đọng như cặn bã mọi kẻ ác của đất; vì vậy con yêu mến các lời chứng của Ngài.",
+  "tokens": [
+    {
+      "surface": "סגים",
+      "gloss": "như cặn bã"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Ngài đã khiến ngưng đọng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "của đất"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "vì vậy"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "con yêu mến"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "các lời chứng của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:25.039500601Z",
+  "model": "glm-5.3"
+}

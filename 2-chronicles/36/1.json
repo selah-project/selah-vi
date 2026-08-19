@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 36,
+  "translation": "Và dân sự của xứ lấy ⟨את⟩ Yehoachaz con của Yoshiyahu, và lập hắn làm vua thay cha mình tại Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "và lấy"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "của xứ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoachaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoachaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "của Yoshiyahu"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "và lập làm vua"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "thay"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "cha mình"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "tại Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-19T06:02:24.682703784Z",
+  "model": "glm-5.3"
+}

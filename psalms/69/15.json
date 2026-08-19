@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 69,
+  "translation": "Xin cứu tôi khỏi vũng bùn, để tôi không chìm xuống; xin giải cứu tôi khỏi kẻ thù ghét tôi, và khỏi vực sâu của nước.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "xin cứu tôi"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "khỏi vũng bùn"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "để không"
+    },
+    {
+      "surface": "אטבעה",
+      "gloss": "tôi chìm xuống"
+    },
+    {
+      "surface": "אנצלה",
+      "gloss": "tôi được giải cứu"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "khỏi kẻ thù ghét tôi"
+    },
+    {
+      "surface": "וממעמקי",
+      "gloss": "và khỏi vực sâu của"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:08.318757571Z",
+  "model": "glm-5.3"
+}

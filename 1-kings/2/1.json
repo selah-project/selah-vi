@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và những ngày của David đã gần đến để chết, và ông đã truyền lệnh cho ⟨את⟩ Shelomoh con trai ông, rằng:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "và đã gần đến"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "những ngày"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למות",
+      "gloss": "để chết"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "và ông đã truyền lệnh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "con trai ông"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:47:50.685689019Z",
+  "model": "glm-5.3"
+}

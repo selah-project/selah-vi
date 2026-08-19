@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 34:23",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 34,
+  "translation": "Yahweh chuộc mạng sống của các tôi tớ Ngài, và không ai trong kẻ nương náu nơi Ngài bị xử tội.",
+  "tokens": [
+    {
+      "surface": "פודה",
+      "gloss": "chuộc"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mạng sống"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "các tôi tớ của Ngài"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "bị xử tội"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi kẻ"
+    },
+    {
+      "surface": "החסים",
+      "gloss": "nương náu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nơi Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:27.404338518Z",
+  "model": "glm-5.3"
+}

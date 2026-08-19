@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 51,
+  "translation": "Hãy nhân thêm — giặt tôi khỏi sự gian ác của tôi, và khỏi tội lỗi tôi, hãy làm tôi tinh sạch.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "hãy nhân thêm"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "giặt tôi"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "khỏi sự gian ác của tôi"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "và khỏi tội lỗi của tôi"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "hãy làm tôi tinh sạch"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:55.460737089Z",
+  "model": "glm-5.3"
+}

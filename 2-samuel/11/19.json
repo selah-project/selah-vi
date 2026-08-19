@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 11:19",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "và người ấy truyền lệnh cho ⟨את⟩ người đưa tin rằng: khi ngươi đã trình xong ⟨את⟩ mọi việc của cuộc chiến để nói với vua,",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "và-truyền-lệnh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người đưa tin"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "người-đưa-tin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "ככלותך",
+      "gloss": "khi-ngươi-trình-xong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi việc của cuộc chiến"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "việc"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "của-cuộc-chiến"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "để-nói"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    }
+  ],
+  "timestamp": "2026-08-19T03:41:27.193758368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 7:12",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Và ⟨người⟩ dâng lễ vật ngày thứ nhất là Nakhshon con trai Aminadav, thuộc chi tộc Yehudah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "và có"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "người dâng"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "vào ngày"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "thứ nhất"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lễ vật của ông"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "lễ vật của ông"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nakhshon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadav"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "thuộc chi tộc"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-19T06:04:54.878444218Z",
+  "model": "glm-5.3"
+}

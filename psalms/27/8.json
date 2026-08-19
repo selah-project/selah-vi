@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 27,
+  "translation": "Về phần Ngài, lòng tôi đã nói: Hãy tìm kiếm mặt Ta — ⟨את⟩ mặt Ngài, Yahweh, tôi sẽ tìm kiếm.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "về-phần-Ngài"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "đã-nói"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "lòng-tôi"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "hãy-tìm-kiếm"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mặt Ngài (פניך)"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "mặt-Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "tôi-sẽ-tìm-kiếm"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:04.513193288Z",
+  "model": "glm-5.3"
+}

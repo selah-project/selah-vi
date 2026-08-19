@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 29:3",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Và lễ chay của chúng: bột mịn trộn với dầu, ba phần mười cho con bò đực, hai phần mười cho con chiên đực.",
+  "tokens": [
+    {
+      "surface": "ומנחתם",
+      "gloss": "và lễ chay của chúng"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "bột mịn"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "trộn"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "với dầu"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "phần mười"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "cho con bò đực"
+    },
+    {
+      "surface": "שני",
+      "gloss": "hai"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "phần mười"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "cho con chiên đực"
+    }
+  ],
+  "timestamp": "2026-08-19T03:01:33.473571211Z",
+  "model": "glm-5.3"
+}

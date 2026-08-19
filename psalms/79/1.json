@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 79,
+  "translation": "Thiên ca của Asaph. Elohim ơi, các dân tộc đã vào cơ nghiệp của Ngài, họ đã làm ô uế ⟨את⟩ đền thánh của Ngài, họ đã đặt ⟨את⟩ Yerushalayim thành đống đổ nát.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Thiên ca"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "của Asaph"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "đã vào"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "các dân tộc"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "trong cơ nghiệp của Ngài"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "họ đã làm ô uế"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đền thánh"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "đền thánh"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "của sự thánh của Ngài"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "họ đã đặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "thành đống đổ nát"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:50.815707512Z",
+  "model": "glm-5.3"
+}

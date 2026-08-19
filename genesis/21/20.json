@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Và Elohim ở ⟨את⟩ cùng cậu bé, và cậu lớn lên, và định cư trong hoang mạc, và trở thành kẻ cung thủ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "và đã ở"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cùng cậu bé"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "cậu bé"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "và đã lớn lên"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "và định cư"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "trong hoang mạc"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "và trở thành"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "kẻ lớn lên"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "cung thủ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:24:03.194197541Z",
+  "model": "glm-5.3"
+}

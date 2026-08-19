@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và Elohim phán: Hãy có vòm trời giữa ⟨các⟩ nước, và nó hãy phân cách giữa nước với nước.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và phán"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "hãy có"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "vòm trời"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "các nước"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "và nó hãy"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "phân cách"
+    },
+    {
+      "surface": "בין",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "למים",
+      "gloss": "với nước"
+    }
+  ],
+  "timestamp": "2026-08-19T00:46:28.452452200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 17:12",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Đêm họ đặt thành ngày; ánh sáng gần kề vì cớ sự tối tăm.",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "đêm"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "thành ngày"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "họ đặt"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ánh sáng"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "gần kề"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vì cớ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "sự tối tăm"
+    }
+  ],
+  "timestamp": "2026-08-19T05:23:27.515889396Z",
+  "model": "glm-5.3"
+}

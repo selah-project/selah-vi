@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và các tôi tớ của hắn chở ⟨את⟩ hắn về Yerushalayim, và chôn ⟨את⟩ hắn trong mộ phần của hắn, với các tổ phụ của hắn, trong thành của David.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "và chở bằng xe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hắn",
+      "marks": "hắn"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "các tôi tớ của hắn"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "đến Yerushalayim"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "và chôn"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hắn",
+      "marks": "hắn"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "trong mộ phần của hắn"
+    },
+    {
+      "surface": "עם",
+      "gloss": "với"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "các tổ phụ của hắn"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "trong thành"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-19T03:58:41.347668197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 12:13",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Và sau ông ấy, Avdon con trai Hillel người Piraton, đã xét xử ⟨את⟩ Yisrael.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "đã xét xử"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "sau ông ấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "Hillel"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "người Piraton"
+    }
+  ],
+  "timestamp": "2026-08-19T03:25:36.781291291Z",
+  "model": "glm-5.3"
+}

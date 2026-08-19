@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 4:1",
+  "book": "daniel",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Tôi, Nevukhadnettsar, đang yên ổn trong nhà tôi và thịnh vượng trong cung điện tôi.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Tôi"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevukhadnettsar"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "yên ổn"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "đang"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "trong nhà tôi"
+    },
+    {
+      "surface": "ורענן",
+      "gloss": "và thịnh vượng"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "trong cung điện tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:37:41.810330535Z",
+  "model": "glm-5.3"
+}

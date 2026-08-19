@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Vua Shelomoh sai người đi, và brought ⟨את⟩ Hiram từ Tzor.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "và vua sai đi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "và đem về"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hiram"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "từ Tzor"
+    }
+  ],
+  "timestamp": "2026-08-19T06:09:39.911057547Z",
+  "model": "glm-5.3"
+}

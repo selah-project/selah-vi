@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 65,
+  "translation": "Cho người chỉ huy. Thánh thi của David. Bài ca.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "cho người chỉ huy"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "thánh thi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "của David"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "bài ca"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:54.226402930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 48:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 48,
+  "translation": "Hãy vui mừng, hỡi núi Tzion; hãy nhảy múa, hỡi các con gái Yehudah, vì các phán quyết của Ngài.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "hãy vui mừng"
+    },
+    {
+      "surface": "הר",
+      "gloss": "núi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "hãy nhảy múa"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "các con gái"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "למען",
+      "gloss": "vì"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "các phán quyết của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:25.730342059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 56,
+  "translation": "Trong Elohim tôi sẽ ngợi khen lời của Ngài; trong Elohim tôi đã nương náu — tôi sẽ không sợ; xác thịt làm gì được tôi?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "trong Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "tôi sẽ ngợi khen"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "lời của Ngài"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "trong Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "tôi đã nương náu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "tôi sẽ sợ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "làm được"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "xác thịt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:50.959703742Z",
+  "model": "glm-5.3"
+}

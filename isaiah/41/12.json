@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 41:12",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 41,
+  "translation": "Ngươi sẽ tìm kiếm họ mà không tìm thấy họ — những kẻ tranh chấp với ngươi; họ sẽ thành như không có và như hư vô, những kẻ giao tranh với ngươi.",
+  "tokens": [
+    {
+      "surface": "תבקשם",
+      "gloss": "ngươi-sẽ-tìm-kiếm-họ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mà-không"
+    },
+    {
+      "surface": "תמצאם",
+      "gloss": "tìm-thấy-họ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "những-kẻ"
+    },
+    {
+      "surface": "מצתך",
+      "gloss": "tranh-chấp-với-ngươi"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "họ-sẽ-thành"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "như-không-có"
+    },
+    {
+      "surface": "וכאפס",
+      "gloss": "và-như-hư-vô"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "những-kẻ"
+    },
+    {
+      "surface": "מלחמתך",
+      "gloss": "giao-tranh-với-ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:11:46.993647451Z",
+  "model": "glm-5.3"
+}

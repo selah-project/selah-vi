@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Nơi không có bò, máng cỏ trống không, nhưng hoa lợi dồi dào ⟨là⟩ nhờ sức con bò.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "nơi không có"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "bò"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "máng cỏ"
+    },
+    {
+      "surface": "בר",
+      "gloss": "trống sạch (thóc)"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "nhưng nhiều"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "hoa lợi"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "nhờ sức"
+    },
+    {
+      "surface": "שור",
+      "gloss": "con bò"
+    }
+  ],
+  "timestamp": "2026-08-19T05:16:30.406824681Z",
+  "model": "glm-5.3"
+}

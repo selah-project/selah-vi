@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 34,
+  "translation": "Hãy kính sợ Yahweh, ⟨את⟩ các thánh của Ngài; vì không có sự thiếu thốn cho những người kính sợ Ngài.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "hãy kính sợ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "các thánh của Ngài"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "sự thiếu thốn"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "cho những người kính sợ Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:28.613420610Z",
+  "model": "glm-5.3"
+}

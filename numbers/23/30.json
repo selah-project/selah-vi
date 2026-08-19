@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 23:30",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Balak làm như Bilam đã nói, và dâng một con bò đực và một con cừu đực trên mỗi bàn thờ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "làm"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "đã nói"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "và dâng lên"
+    },
+    {
+      "surface": "פר",
+      "gloss": "bò đực"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "và cừu đực"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "trên bàn thờ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:59:53.055707444Z",
+  "model": "glm-5.3"
+}

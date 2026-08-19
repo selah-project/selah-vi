@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 14:20",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Ngươi sẽ không được hiệp một ⟨את⟩ chúng trong sự chôn cất, vì ngươi đã hủy hoại đất của ngươi, đã giết dân của ngươi; dòng dõi của kẻ làm ác sẽ không còn được nhắc đến mãi mãi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תחד",
+      "gloss": "được hiệp một"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chúng (các vua được chôn cất)"
+    },
+    {
+      "surface": "בקבורה",
+      "gloss": "trong sự chôn cất"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "đất của ngươi"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "đã hủy hoại"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dân của ngươi"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "đã giết"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "được nhắc đến (tên)"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mãi mãi"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "dòng dõi"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "của kẻ làm ác"
+    }
+  ],
+  "timestamp": "2026-08-19T04:06:25.475240Z",
+  "model": "glm-5.3"
+}

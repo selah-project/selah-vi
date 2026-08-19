@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và nó bị giết; và Moshe rắc ⟨את⟩ máu lên quanh bàn thờ.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "và nó bị giết"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "và rắc"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "máu"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "máu"
+    },
+    {
+      "surface": "על",
+      "gloss": "lên"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "quanh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:41:38.070671403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 33,
+  "translation": "Từ các tầng trời Yahweh đã ngắm xuống, Ngài thấy ⟨את⟩ mọi con cái của loài người.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "từ các tầng trời"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "đã ngắm xuống"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Ngài thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi con cái của loài người"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "của loài người"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:48.098604595Z",
+  "model": "glm-5.3"
+}

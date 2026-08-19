@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 106,
+  "translation": "Ai sẽ kể lại ⟨các⟩ công việc quyền năng của Yahweh, ai sẽ làm cho ⟨mọi⟩ lời ca ngợi của Ngài ⟨được nghe⟩?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "sẽ kể lại"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "các công việc quyền năng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "sẽ làm cho được nghe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "lời ca ngợi của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:03.955073108Z",
+  "model": "glm-5.3"
+}

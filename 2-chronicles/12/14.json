@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 12:14",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Và người làm điều ác, vì người không chuẩn bị lòng mình để tìm kiếm ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "và làm"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "điều ác"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "chuẩn bị"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "lòng người"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "để tìm kiếm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T05:56:20.579605903Z",
+  "model": "glm-5.3"
+}

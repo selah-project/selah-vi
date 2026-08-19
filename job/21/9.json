@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 21:9",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Nhà cửa của chúng ⟨là⟩ bình an, không sợ hãi, và không có roi của Eloah trên chúng.",
+  "tokens": [
+    {
+      "surface": "בתיהם",
+      "gloss": "nhà cửa của chúng"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "bình an"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "khỏi sợ hãi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "roi"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "trên chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:24:19.474715067Z",
+  "model": "glm-5.3"
+}

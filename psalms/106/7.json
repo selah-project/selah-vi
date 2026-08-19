@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 106,
+  "translation": "Cha ông chúng tôi tại Mitzrayim không hiểu sự việc các kỳ công của Ngài, không nhớ ⟨את⟩ sự dồi dào lòng nhân từ của Ngài, và họ phản nghịch bên biển, tại biển Súp.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "cha ông chúng tôi"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "tại Mitzrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "hiểu sự việc"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "các kỳ công của Ngài"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "họ nhớ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sự dồi dào lòng nhân từ của Ngài"
+    },
+    {
+      "surface": "רב",
+      "gloss": "sự dồi dào"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "lòng nhân từ của Ngài"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "và họ phản nghịch"
+    },
+    {
+      "surface": "על",
+      "gloss": "bên"
+    },
+    {
+      "surface": "ים",
+      "gloss": "biển"
+    },
+    {
+      "surface": "בים",
+      "gloss": "tại biển"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Súp"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:50.123494189Z",
+  "model": "glm-5.3"
+}

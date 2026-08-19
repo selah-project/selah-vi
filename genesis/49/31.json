@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 49:31",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 49,
+  "translation": "Tại đó họ đã chôn ⟨את⟩ Avraham và ⟨את⟩ Sarah vợ ông; tại đó họ đã chôn ⟨את⟩ Yitschak và ⟨את⟩ Rivka vợ ông; và tại đó tôi đã chôn ⟨את⟩ Leah.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "tại đó"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "họ đã chôn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Sarah"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vợ ông"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tại đó"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "họ đã chôn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Rivka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vợ ông"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "và tại đó"
+    },
+    {
+      "surface": "קברתי",
+      "gloss": "tôi đã chôn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Leah"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leah"
+    }
+  ],
+  "timestamp": "2026-08-19T02:27:14.055597151Z",
+  "model": "glm-5.3"
+}

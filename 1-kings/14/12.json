@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Còn ngươi, hãy đứng dậy, hãy đi về nhà ngươi; khi chân ngươi bước vào thành, thì đứa trẻ sẽ chết.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "còn ngươi"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "hãy đứng dậy"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "hãy đi"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "về nhà ngươi"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "khi bước vào"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "chân ngươi"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "thành"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "thì sẽ chết"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "đứa trẻ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:51:17.715963624Z",
+  "model": "glm-5.3"
+}

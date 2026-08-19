@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 8:9",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Vì ⟨của⟩ ngày hôm qua chúng ta ⟩là⟨, và không biết gì; vì bóng mờ ⟨là⟩ ngày của chúng ta trên đất.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "ngày hôm qua"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "chúng ta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "biết"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "צל",
+      "gloss": "bóng mờ"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ngày của chúng ta"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "trên"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T05:21:20.949188485Z",
+  "model": "glm-5.3"
+}

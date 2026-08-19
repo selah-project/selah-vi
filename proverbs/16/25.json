@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 16:25",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Có một con đường ⟨thấy⟩ thẳng trước mặt người, nhưng cuối cùng của nó là những con đường của sự chết.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "có"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "con đường"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "thẳng"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "nhưng cuối cùng của nó"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "những con đường"
+    },
+    {
+      "surface": "מות",
+      "gloss": "của sự chết"
+    }
+  ],
+  "timestamp": "2026-08-19T05:16:57.400357393Z",
+  "model": "glm-5.3"
+}

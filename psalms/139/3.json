@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 139,
+  "translation": "Lối con đi và chỗ con nằm, Ngài đã đo lường; và với mọi nẻo đường con, Ngài quen thuộc ",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "lối con đi"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "và chỗ con nằm"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "Ngài đã đo lường"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "nẻo đường con"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "Ngài quen thuộc"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:44.301692829Z",
+  "model": "glm-5.3"
+}

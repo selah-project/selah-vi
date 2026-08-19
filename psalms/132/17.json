@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 132:17",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 132,
+  "translation": "Nơi đó Ta sẽ làm mọc lên sừng cho David, Ta đã sắp đặt một ngọn đèn cho Đấng Meshíach của Ta.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "nơi đó"
+    },
+    {
+      "surface": "אצמיח",
+      "gloss": "Ta sẽ làm mọc lên"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "sừng"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "cho David"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "Ta đã sắp đặt"
+    },
+    {
+      "surface": "נר",
+      "gloss": "ngọn đèn"
+    },
+    {
+      "surface": "למשיחי",
+      "gloss": "cho Đấng Meshíach của Ta"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:42.400472196Z",
+  "model": "glm-5.3"
+}

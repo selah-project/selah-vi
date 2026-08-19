@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 25:19",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "⟨את⟩ Paroh vua của Mitzrayim, và ⟨את⟩ các tôi tớ ông, và ⟨את⟩ các quan trưởng ông, và ⟨את⟩ toàn thể dân sự ông;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh vua của Mitzrayim"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các tôi tớ ông"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "các tôi tớ ông"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các quan trưởng ông"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "các quan trưởng ông"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "toàn thể dân sự ông"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "dân sự ông"
+    }
+  ],
+  "timestamp": "2026-08-19T04:23:27.135448339Z",
+  "model": "glm-5.3"
+}

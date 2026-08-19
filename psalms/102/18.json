@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 102,
+  "translation": "Ngài đã quay mặt đến lời cầu nguyện của kẻ cô thế, và không khinh miệt ⟨את⟩ lời cầu nguyện của chúng.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "đã quay mặt đến"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "lời cầu nguyện của"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "kẻ cô thế"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "khinh miệt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lời cầu nguyện của chúng"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "lời cầu nguyện của chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:15.546496895Z",
+  "model": "glm-5.3"
+}

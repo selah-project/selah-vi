@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Vì ngươi đã làm việc ấy trong nơi kín ẩn, còn Ta sẽ làm ⟨את⟩ việc này trước mặt toàn Yisrael và trước mặt mặt trời.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "trong nơi kín ẩn"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "còn Ta"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "sẽ làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "việc này"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "việc"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "và trước mặt"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "mặt trời"
+    }
+  ],
+  "timestamp": "2026-08-19T03:41:29.385832601Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 7:4",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Và ⟨את⟩ hai cái thận, và ⟨את⟩ cái mỡ ở trên chúng, tức ở trên hai bên hông, và ⟨את⟩ cái màng trên gan, người ta sẽ lấy away nó trên hai cái thận.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "hai cái thận"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "hai"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "cái thận"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "cái mỡ"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "cái mỡ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "ở trên chúng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tức"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "hai bên hông"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "cái màng trên gan"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "cái màng trên gan"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "gan"
+    },
+    {
+      "surface": "על",
+      "gloss": "cùng với"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "hai cái thận"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "sẽ lấy away"
+    }
+  ],
+  "timestamp": "2026-08-19T02:40:59.761978680Z",
+  "model": "glm-5.3"
+}

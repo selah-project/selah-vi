@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Xảy ra là khi Rachel đã sinh ⟨את⟩ Yosef, Yaakov nói với Lavan: Hãy cho tôi đi, và tôi sẽ về nơi của tôi và đến xứ của tôi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "xảy ra là"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "khi"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "đã sinh"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "hãy cho tôi đi"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "và tôi sẽ đi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "nơi của tôi"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "và đến xứ của tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T01:14:24.853103111Z",
+  "model": "glm-5.3"
+}

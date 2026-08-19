@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 15:22",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Moshe dẫn ⟨את⟩ Yisrael ra khỏi Biển Sậy, và họ đi vào hoang mạc Shur; họ đi ba ngày trong hoang mạc và không tìm thấy nước.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "đưa đi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מים",
+      "gloss": "từ Biển"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Sấy"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "họ đi ra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "hoang mạc"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shur"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "họ đi"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "trong hoang mạc"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "không"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "tìm thấy"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    }
+  ],
+  "timestamp": "2026-08-19T02:30:58.460912070Z",
+  "model": "glm-5.3"
+}

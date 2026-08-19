@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 66,
+  "translation": "Hãy nói với Elohim: 'Việc Ngài làm đáng kinh khiếp biết bao! Nhờ ⟨sự⟩ dồi dào sức mạnh Ngài, kẻ thù Ngài sẽ giả vờ khuất phục Ngài.'",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "hãy nói"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "với Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "biết bao"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "đáng kinh khiếp"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "việc Ngài làm"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "nhờ sự dồi dào"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "sức mạnh Ngài"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "sẽ giả vờ khuất phục"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "kẻ thù Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:28.850874207Z",
+  "model": "glm-5.3"
+}

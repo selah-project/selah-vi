@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 7:10",
+  "book": "micah",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Và kẻ thù nghịch của tôi sẽ nhìn thấy, và sự hổ thẹn sẽ che phủ nàng — kẻ đã nói với tôi: 'Đâu rồi Yahweh, Elohim của ngươi?' Mắt tôi sẽ nhìn xuống nàng; giờ đây nàng sẽ thành chỗ giày đạp, như bùn ngoài đường phố.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "và sẽ nhìn thấy"
+    },
+    {
+      "surface": "איבתי",
+      "gloss": "kẻ thù nghịch của tôi"
+    },
+    {
+      "surface": "ותכסה",
+      "gloss": "và sẽ che phủ"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "sự hổ thẹn"
+    },
+    {
+      "surface": "האמרה",
+      "gloss": "kẻ đã nói"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "với tôi"
+    },
+    {
+      "surface": "איו",
+      "gloss": "đâu rồi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim của ngươi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mắt tôi"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "sẽ nhìn"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nàng"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "giờ đây"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "nàng sẽ thành"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "chỗ giày đạp"
+    },
+    {
+      "surface": "כטיט",
+      "gloss": "như bùn"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "ngoài đường phố"
+    }
+  ],
+  "timestamp": "2026-08-19T04:50:02.624272164Z",
+  "model": "glm-5.3"
+}

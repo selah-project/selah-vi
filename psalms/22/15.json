@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 22:15",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Tôi đã bị đổ ra như nước, và mọi xương tôi đều tản rời, lòng tôi như sáp, tan chảy trong ruột gan tôi.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "như nước"
+    },
+    {
+      "surface": "נשפכתי",
+      "gloss": "tôi đã bị đổ ra"
+    },
+    {
+      "surface": "והתפרדו",
+      "gloss": "và đã tản rời"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "xương của tôi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "đã như"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "lòng tôi"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "như sáp"
+    },
+    {
+      "surface": "נמס",
+      "gloss": "tan chảy"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "trong"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "ruột gan tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:13.858552260Z",
+  "model": "glm-5.3"
+}

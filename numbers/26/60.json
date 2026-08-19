@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Và sinh ra cho Aharon ⟨את⟩ Nadav và ⟨את⟩ Avihu, ⟨את⟩ Elazar và ⟨את⟩ Itamar.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "và sinh ra"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "cho Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nadav"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Avihu"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "Avihu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Itamar"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    }
+  ],
+  "timestamp": "2026-08-19T03:01:07.331355364Z",
+  "model": "glm-5.3"
+}

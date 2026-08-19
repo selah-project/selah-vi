@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Và Yehoshua dậy sớm buổi sáng, và các thầy tế lễ nhấc ⟨את⟩ hòm của Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "và dậy sớm"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "buổi sáng"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "và nhấc"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "các thầy tế lễ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hòm của Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "hòm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T03:15:16.350470624Z",
+  "model": "glm-5.3"
+}

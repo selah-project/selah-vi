@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 15:4",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Và Shaül triệu tập ⟨את⟩ dân sự, và điểm số họ tại Telaim: hai trăm ngàn bộ binh, và mười ngàn ⟨את⟩ người Yehudah.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "và triệu tập"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaül"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân sự"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "và điểm số họ"
+    },
+    {
+      "surface": "בטלאים",
+      "gloss": "tại Telaim"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "hai trăm"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ngàn"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "bộ binh"
+    },
+    {
+      "surface": "ועשרת",
+      "gloss": "và mười"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ngàn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người Yehudah"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-19T03:33:55.987257403Z",
+  "model": "glm-5.3"
+}

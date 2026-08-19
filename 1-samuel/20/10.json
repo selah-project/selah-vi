@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "David nói với Yehonatan: Ai sẽ báo cho tôi? Hoặc nếu cha bạn trả lời bạn cách gay gắt thì sao?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và-người-nói"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "sẽ-báo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho-tôi"
+    },
+    {
+      "surface": "או",
+      "gloss": "hoặc"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "trả-lời-ngươi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "cha-ngươi"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "gay-gắt"
+    }
+  ],
+  "timestamp": "2026-08-19T03:34:52.685462009Z",
+  "model": "glm-5.3"
+}

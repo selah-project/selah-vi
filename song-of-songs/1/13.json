@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 1:13",
+  "book": "song-of-songs",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Bó mộc dương là người yêu của tôi, đằng hai vú tôi nó sẽ lưu lại qua đêm.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "bó"
+    },
+    {
+      "surface": "המר",
+      "gloss": "mộc dương"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "người yêu của tôi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "của tôi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "đằng giữa"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "hai vú tôi"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "nó lưu lại qua đêm"
+    }
+  ],
+  "timestamp": "2026-08-19T05:28:27.235445076Z",
+  "model": "glm-5.3"
+}

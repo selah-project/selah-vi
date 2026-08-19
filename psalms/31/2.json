@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Nơi Ngài, Yahweh, con đã nương refuge; xin đừng để con phải hổ thẹn đến đời đời; trong sự công chính của Ngài, xin giải cứu con.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "nơi Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "con đã nương ẩn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "con hổ thẹn"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "đến đời đời"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "trong sự công chính của Ngài"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "hãy giải thoát con"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:59.574447147Z",
+  "model": "glm-5.3"
+}

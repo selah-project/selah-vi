@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 20:6",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Vì nếu vào giờ này ngày mai, ta sẽ sai ⟨את⟩ các tôi tớ của ta đến ngươi, và chúng sẽ lục soát ⟨את⟩ nhà của ngươi và ⟨את⟩ các nhà của tôi tớ ngươi; và sẽ xảy ra: mọi vật đáng quý trước mắt ngươi, chúng sẽ đặt vào tay chúng và mang đi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "vào giờ này"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ngày mai"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ta sẽ sai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các tôi tớ của ta"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "các tôi tớ của ta"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "đến ngươi"
+    },
+    {
+      "surface": "וחפשו",
+      "gloss": "và chúng sẽ lục soát"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhà của ngươi"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nhà của ngươi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các nhà của tôi tớ ngươi"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "các nhà của"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "i tớ ngươi"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "và sẽ xảy ra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "מחמד",
+      "gloss": "vật đáng quý"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "mắt của ngươi"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "chúng sẽ đặt"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "vào tay chúng"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "và mang đi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:54:31.601755327Z",
+  "model": "glm-5.3"
+}

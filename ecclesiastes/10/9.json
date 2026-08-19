@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Người dời đá sẽ bị tổn thương bởi chúng; người bổ gỗ sẽ lâm nguy bởi chúng.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "dời"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "đá"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "sẽ bị tổn thương"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "bởi chúng"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "bổ"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "gỗ"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "sẽ lâm nguy"
+    },
+    {
+      "surface": "בם",
+      "gloss": "bởi chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:16.611864675Z",
+  "model": "glm-5.3"
+}

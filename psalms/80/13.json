@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 80,
+  "translation": "Sao Ngài đã phá đổ hàng rào của nàng, ⟨để⟩ mọi kẻ đi ngang qua đường nhổ hái nàng?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Sao"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "đã phá đổ"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "hàng rào của nàng"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "và nhổ hái nàng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "kẻ đi ngang"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "đường"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:23.391545314Z",
+  "model": "glm-5.3"
+}

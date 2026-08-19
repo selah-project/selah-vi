@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 21:29",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Còn nếu con bò là con bò húc từ hôm qua, hôm trước, và đã được cảnh báo cho chủ nó, mà chủ không canh giữ nó, và nó húc chết một người nam hoặc một người nữ, thì con bò ấy sẽ bị ném đá, và cả chủ nó cũng sẽ bị xử tử.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Còn nếu"
+    },
+    {
+      "surface": "שור",
+      "gloss": "con bò"
+    },
+    {
+      "surface": "נגח",
+      "gloss": "húc"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó"
+    },
+    {
+      "surface": "מתמל",
+      "gloss": "từ hôm qua"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "hôm trước"
+    },
+    {
+      "surface": "והועד",
+      "gloss": "và đã được cảnh báo"
+    },
+    {
+      "surface": "בבעליו",
+      "gloss": "cho chủ nó"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mà không"
+    },
+    {
+      "surface": "ישמרנו",
+      "gloss": "canh giữ nó"
+    },
+    {
+      "surface": "והמית",
+      "gloss": "và làm chết"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người nam"
+    },
+    {
+      "surface": "או",
+      "gloss": "hoặc"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "người nữ"
+    },
+    {
+      "surface": "השור",
+      "gloss": "con bò ấy"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "sẽ bị ném đá"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "và cả"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "chủ nó"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "sẽ bị xử tử"
+    }
+  ],
+  "timestamp": "2026-08-19T02:33:40.480015182Z",
+  "model": "glm-5.3"
+}

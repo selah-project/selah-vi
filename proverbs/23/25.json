@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Cha ngươi sẽ mừng rỡ, và mẹ ngươi; và ⟨người⟩ đã sinh ra ngươi sẽ nhảy múa vui sướng.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "sẽ mừng rỡ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "cha ngươi"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "và mẹ ngươi"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "và sẽ nhảy múa vui sướng"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "người đã sinh ra ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:18:16.169563666Z",
+  "model": "glm-5.3"
+}

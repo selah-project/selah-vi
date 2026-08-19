@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 20:20",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Vì ⟨hắn⟩ chẳng biết ⟨את⟩ sự bình an trong bụng mình; ⟨về⟩ điều mình thèm muốn, sẽ không thoát khỏi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chẳng"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "biết"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "sự bình an"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "trong bụng mình"
+    },
+    {
+      "surface": "בחמודו",
+      "gloss": "điều mình thèm muốn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "sẽ thoát khỏi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:24:34.333266634Z",
+  "model": "glm-5.3"
+}

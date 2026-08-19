@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 11:13",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Chỉ là ⟨את⟩ cả vương quốc thì ta sẽ không xé; một chi phái ta sẽ ban cho con trai ngươi, vì cớ David tôi tớ ta, và vì cớ Yerushalayim mà ta đã chọn.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "chỉ là"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cả vương quốc"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cả"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "vương quốc"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "ta sẽ xé"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "chi phái"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "một"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ta sẽ ban"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "cho con trai ngươi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "vì cớ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "tôi tớ ta"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "và vì cớ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ta đã chọn"
+    }
+  ],
+  "timestamp": "2026-08-19T03:51:09.130979196Z",
+  "model": "glm-5.3"
+}

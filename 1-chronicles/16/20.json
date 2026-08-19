@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "và họ đi lại, từ dân này sang dân kia, và từ vương quốc nọ sang dân khác.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "và họ đi lại"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "từ dân này"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sang"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "dân kia"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "và từ vương quốc nọ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "khác"
+    }
+  ],
+  "timestamp": "2026-08-19T05:50:29.325680646Z",
+  "model": "glm-5.3"
+}

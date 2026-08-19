@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Miệng anh ta đầy ⟨lời⟩ nguyền rủa và dối trá và đàn áp; dưới lưỡi anh ta ⟨là⟩ gian lao và bất chính.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "nguyền rủa"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "miệng anh ta"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "đầy"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "và dối trá"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "và đàn áp"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dưới"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "lưỡi anh ta"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "gian lao"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "và bất chính"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:13.642219713Z",
+  "model": "glm-5.3"
+}

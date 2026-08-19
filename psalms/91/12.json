@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 91,
+  "translation": "Trên lòng bàn tay họ sẽ nâng ⟨את⟩ ngươi lên, e rằng chân ngươi vấp phải hòn đá.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "lòng bàn tay"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "họ sẽ nâng ngươi lên"
+    },
+    {
+      "surface": "פן",
+      "gloss": "e rằng"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "ngươi vấp phải"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "⟨את⟩ hòn đá",
+      "marks": "hòn đá"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "chân ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:38:16.482727405Z",
+  "model": "glm-5.3"
+}

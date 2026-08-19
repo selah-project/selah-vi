@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 15:31",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Các ngươi hãy phân cách ⟨את⟩ con cái Yisrael khỏi sự ô uế của chúng, để chúng không chết trong sự ô uế của chúng, khi làm ô uế ⟨את⟩ đền tạm của Ta là ⟨đ⟩ ở giữa chúng.",
+  "tokens": [
+    {
+      "surface": "והזרתם",
+      "gloss": "các ngươi hãy phân cách"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con cái Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מטמאתם",
+      "gloss": "khỏi sự ô uế của chúng"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "để không"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "chúng chết"
+    },
+    {
+      "surface": "בטמאתם",
+      "gloss": "trong sự ô uế của chúng"
+    },
+    {
+      "surface": "בטמאם",
+      "gloss": "khi làm ô uế"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đền tạm của Ta"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "đền tạm của Ta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "là"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "ở giữa chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:44:42.309517433Z",
+  "model": "glm-5.3"
+}

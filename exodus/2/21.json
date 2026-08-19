@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 2:21",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Moshe bằng lòng ở lại ⟨את⟩ người kia, và người ta gả ⟨את⟩ Tzippora con gái mình cho Moshe.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "bằng lòng"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "để ở lại"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người kia"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "người kia"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "và ông cho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tzippora"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tzippora"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "con gái ông"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "cho Moshe"
+    }
+  ],
+  "timestamp": "2026-08-19T02:27:34.144301755Z",
+  "model": "glm-5.3"
+}

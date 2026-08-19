@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 12:4",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Cha của ngài đã làm nặng ⟨את⟩ ách của chúng tôi; còn ngài, giờ đây hãy làm nhẹ khỏi sự lao dịch khắc nghiệt của cha ngài và khỏi ách nặng nề mà người đã đặt trên chúng tôi, thì chúng tôi sẽ hầu việc ngài.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "cha của ngài"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "đã làm nặng \/ khắc nghiệt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ách của chúng tôi"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "ách của chúng tôi"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "còn ngài"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "giờ đây"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "hãy làm nhẹ"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "khỏi sự lao dịch"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "của cha ngài"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "khắc nghiệt"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "và khỏi ách của người"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "nặng nề"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "người đã đặt"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "trên chúng tôi"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "thì chúng tôi sẽ hầu việc ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T03:52:07.335693195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 12:15",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Này, Ngài ngưng giữ nước thì chúng khô cạn; Ngài thả chúng ra thì chúng lật đổ đất.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "này"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "Ngài ngưng giữ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "thì chúng khô cạn"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "Ngài thả chúng ra"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "thì chúng lật đổ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T05:22:20.617828835Z",
+  "model": "glm-5.3"
+}

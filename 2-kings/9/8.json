@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và cả nhà của Achav sẽ bị hủy diệt, và Ta sẽ cắt bỏ cho Achav mọi kẻ đái vào tường, cả kẻ bị giam lẫn kẻ bị bỏ lại, trong Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "và sẽ bị hủy diệt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cả"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "của Achav"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "và Ta sẽ cắt bỏ"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "cho Achav"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "kẻ đái"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "vào tường"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "và kẻ bị giam"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "và kẻ bị bỏ lại"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "trong Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T03:57:48.411494671Z",
+  "model": "glm-5.3"
+}

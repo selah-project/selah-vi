@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Cớ sao các dân tộc náo động, và các quốc gia mưu toan điều phù phiếm?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "cớ sao"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "náo động"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "các dân tộc"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "và các quốc gia"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "mưu toan"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "điều phù phiếm"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:34.988044237Z",
+  "model": "glm-5.3"
+}

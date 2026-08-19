@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 103,
+  "translation": "Hãy chúc phước cho Yahweh, hỡi toàn thể các đạo binh của Ngài, các người hầu việc Ngài, những kẻ làm theo ý muốn Ngài.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "hãy chúc phước cho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "các đạo binh của Ngài"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "các người hầu việc Ngài"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "những kẻ làm"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "ý muốn của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:53.116656804Z",
+  "model": "glm-5.3"
+}

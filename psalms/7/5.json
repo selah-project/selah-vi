@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Nếu tôi đã trả điều ác cho kẻ sống hòa thuận với tôi, hay tôi đã cứu thoát kẻ thù nghịch tôi ⟨một cách⟩ vô cớ,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "tôi đã trả ơn\/đồi đáp"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "kẻ sống hòa thuận với tôi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "điều ác"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "và tôi đã cứu thoát"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "kẻ thù nghịch tôi"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "vô cỡ"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:33.744762375Z",
+  "model": "glm-5.3"
+}

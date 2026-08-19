@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 25:7",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Và ⟨את⟩ các con trai Tsidkiyahu họ đã giết trước mặt ông; và ⟨את⟩ đôi mắt Tsidkiyahu họ đã làm mù, và trói ông bằng xiềng đồng, và đem ông đến Bavel.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các con trai Tsidkiyahu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "các con trai"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "שחטו",
+      "gloss": "họ đã giết"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "trước mặt ông"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "đôi mắt Tsidkiyahu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "đôi mắt"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "làm mù"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "và trói ông"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "bằng xiềng đồng"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "và đem ông đến"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    }
+  ],
+  "timestamp": "2026-08-19T04:03:16.968044356Z",
+  "model": "glm-5.3"
+}

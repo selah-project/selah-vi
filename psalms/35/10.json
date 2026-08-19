@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 35,
+  "translation": "Mọi xương cốt tôi sẽ nói: Yahweh, ai giống như Ngài, Đấng giải cứu kẻ nghèo khó khỏi tay kẻ mạnh hơn hắn, kẻ nghèo khó và kẻ thiếu thốn khỏi tay kẻ cướp đoạt hắn?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "xương cốt tôi"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "sẽ nói"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "giống như Ngài"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "Đấng giải cứu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kẻ nghèo khó"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "khỏi tay kẻ mạnh"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "hơn hắn"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "và kẻ nghèo khó"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "và kẻ thiếu thốn"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "khỏi tay kẻ cướp đoạt hắn"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:30.496216610Z",
+  "model": "glm-5.3"
+}

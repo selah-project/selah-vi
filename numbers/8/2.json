@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 8:2",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Hãy nói cùng Aharon và nói với ngươi rằng: khi ngươi làm sáng ⟨את⟩ các ngọn đèn hướng thẳng đến trước mặt chiếc chân đèn, thì bảy ngọn đèn sẽ chiếu sáng.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "hãy nói"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cùng"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "và ngươi sẽ nói"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "với hắn"
+    },
+    {
+      "surface": "בהעלתך",
+      "gloss": "khi ngươi làm sáng lên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các ngọn đèn"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "các ngọn đèn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ngay trước"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "chân đèn"
+    },
+    {
+      "surface": "יאירו",
+      "gloss": "sẽ chiếu sáng"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "bảy"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "các ngọn đèn"
+    }
+  ],
+  "timestamp": "2026-08-19T02:55:35.124965287Z",
+  "model": "glm-5.3"
+}

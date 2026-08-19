@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Và Amalek đến, và chiến đấu cùng Yitsra-el tại Refidim.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "và đến"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "và chiến đấu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "cùng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yitsra-el"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "tại Refidim"
+    }
+  ],
+  "timestamp": "2026-08-19T02:32:31.645943559Z",
+  "model": "glm-5.3"
+}

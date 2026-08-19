@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Avram sấp mặt xuống đất, và Elohim phán ⟨את⟩ cùng ông, phán rằng:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "sấp xuống"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mặt ông"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "và phán"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ cùng",
+      "marks": "ông"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "phán rằng"
+    }
+  ],
+  "timestamp": "2026-08-19T01:00:53.104160890Z",
+  "model": "glm-5.3"
+}

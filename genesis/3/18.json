@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Cả gai và kế nó sẽ mọc lên cho ngươi, và ngươi sẽ ăn ⟨את⟩ rau cỏ của đồng.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "và gai"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "và kế"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "nó sẽ mọc lên"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngươi"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "và ngươi sẽ ăn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rau cỏ của đồng"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "rau cỏ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "của đồng"
+    }
+  ],
+  "timestamp": "2026-08-19T00:48:07.057769823Z",
+  "model": "glm-5.3"
+}

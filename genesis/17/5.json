@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 17:5",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "và tên ngươi sẽ không còn được gọi là Avram nữa, và tên ngươi sẽ là Avraham, vì cha của một đoàn đông dân tộc Ta đã làm ngươi trở thành.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "sẽ được gọi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nữa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tên ngươi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tên ngươi"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "và sẽ là"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tên ngươi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אב",
+      "gloss": "cha"
+    },
+    {
+      "surface": "המון",
+      "gloss": "đoàn đông"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "các dân tộc"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "Ta đã làm ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T00:59:30.475482403Z",
+  "model": "glm-5.3"
+}

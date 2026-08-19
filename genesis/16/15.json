@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 16:15",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Và Hagar sinh cho Avram một con trai; và Avram đặt tên con trai mình, mà Hagar đã sinh, là Yishmael.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "và-nàng-sinh"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "cho-Avram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con-trai"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "và-ông-đặt-tên"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tên"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "con-trai-mình"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "đã-sinh"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    }
+  ],
+  "timestamp": "2026-08-19T00:59:13.293635386Z",
+  "model": "glm-5.3"
+}

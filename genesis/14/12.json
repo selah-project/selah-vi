@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Và chúng bắt ⟨את⟩ Lot và ⟨את⟩ tài sản của ông — con trai của anh trai Avram — và đi away; còn ông đang ngụ tại Sedom.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "và chúng bắt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "tài sản của ông"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "tài sản của ông"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "của anh trai"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "và đi"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "còn ông"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "đang ngụ"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "tại Sedom"
+    }
+  ],
+  "timestamp": "2026-08-19T00:55:08.540878788Z",
+  "model": "glm-5.3"
+}

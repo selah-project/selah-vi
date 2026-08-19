@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Mặt đối mặt, Yahweh đã phán cùng các ngươi trên núi, từ giữa ngọn lửa.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "mặt"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "đối mặt"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "đã phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "cùng các ngươi"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "trên núi"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "từ giữa"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ngọn lửa"
+    }
+  ],
+  "timestamp": "2026-08-19T03:05:42.563283807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 73,
+  "translation": "Thánh thi của Asaph. Quả thật Eloheim tốt-lành với Yisrael, với ⟨những người⟩ thanh sạch trong lòng.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "thánh thi"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "của Asaph"
+    },
+    {
+      "surface": "אך",
+      "gloss": "quả thật"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tốt-lành"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "với Yisrael"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloheim"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "với những người thanh sạch"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "trong lòng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:03:55.525283626Z",
+  "model": "glm-5.3"
+}

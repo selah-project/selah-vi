@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Ngươi hãy đặt ⟨את⟩ khu sân chung quanh, và hãy đặt ⟨את⟩ bức màn che cổng khu sân.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ngươi hãy đặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khu sân"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "khu sân"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "chung quanh"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "và ngươi hãy đặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bức màn che"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "bức màn che"
+    },
+    {
+      "surface": "שער",
+      "gloss": "cổng"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "khu sân"
+    }
+  ],
+  "timestamp": "2026-08-19T02:39:18.465524170Z",
+  "model": "glm-5.3"
+}

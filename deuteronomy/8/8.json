@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Đất lúa mì và lúa mạch, cây nho và cây vả và lựu; đất cây ô-liu dầu và mật ong.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "lúa mì"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "và lúa mạch"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "và cây nho"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "và cây vả"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "và lựu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "זית",
+      "gloss": "cây ô-liu"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "dầu"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "và mật ong"
+    }
+  ],
+  "timestamp": "2026-08-19T03:06:54.212332297Z",
+  "model": "glm-5.3"
+}

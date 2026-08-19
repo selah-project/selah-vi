@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 10:4",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Và nếu chỉ thổi một cái, thì các thủ lãnh — đầu của các ngàn Yisrael — sẽ tụ họp về phía ngươi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "và nếu"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "một cái"
+    },
+    {
+      "surface": "יתקעו",
+      "gloss": "thổi"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "thì tụ họp"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "về phía ngươi"
+    },
+    {
+      "surface": "הנשיאים",
+      "gloss": "các thủ lãnh"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "đầu của"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "các ngàn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-19T02:55:19.696239149Z",
+  "model": "glm-5.3"
+}

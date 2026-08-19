@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Ngươi, ngươi sẽ nói ⟨את⟩ mọi điều mà Ta truyền cho ngươi; còn Aharon anh ngươi sẽ nói với Pharaoh, và ⟨hắn⟩ sẽ buông ⟨את⟩ con cái Yisrael ra khỏi đất của hắn.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ngươi-sẽ-nói"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi điều"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi-điều"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "Ta-truyền-cho-ngươi"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "và-Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "anh-ngươi"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "sẽ-nói"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaoh"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "và-sẽ-buông-ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con cái Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con-cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "khỏi-đất-của-hắn"
+    }
+  ],
+  "timestamp": "2026-08-19T02:29:09.272649775Z",
+  "model": "glm-5.3"
+}

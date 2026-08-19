@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 31:9",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Moshe viết ⟨את⟩ luật này, rồi trao nó cho các thầy tế lễ, con trai Levi, những người khiêng ⟨את⟩ hòm giao ước của Yahweh, và cho mọi trưởng lão của Yisra'el.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "đã viết"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "luật"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "luật"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "này"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "và trao nó"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cho"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "các thầy tế lễ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "những người khiêng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hòm"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "hòm"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "giao ước"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và cho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "trưởng lão"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-19T03:14:25.496015804Z",
+  "model": "glm-5.3"
+}

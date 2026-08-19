@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Tại Chorev các ngươi đã chọc giận ⟨את⟩ Yahweh, và Yahweh nổi giận cùng các ngươi để hủy diệt ⟨את⟩ các ngươi.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "và tại Chorev"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "các ngươi đã chọc giận"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "và Ngài nổi giận"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "cùng các ngươi"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "để hủy diệt"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ các ngươi",
+      "marks": "các ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:07:25.976438492Z",
+  "model": "glm-5.3"
+}

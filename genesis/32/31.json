@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 32:31",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Và Yaakov đặt tên nơi ấy là Peniel: vì tôi đã thấy Elohim mặt đối mặt, và mạng sống tôi được cứu.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "và-đặt-tên"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tên"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "nơi-ấy"
+    },
+    {
+      "surface": "פניאל",
+      "gloss": "Peniel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "tôi-đã-thấy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "mặt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đối-với"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "mặt"
+    },
+    {
+      "surface": "ותנצל",
+      "gloss": "và-được-cứu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mạng-sống-tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T01:16:23.926856058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 89,
+  "translation": "Nếu con cái ông bỏ Torah của tôi, và trong các phán quyết của tôi không đi theo —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "họ bỏ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "con cái ông"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Torah của tôi"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "và trong các phán quyết của tôi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "họ đi theo"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:47.119637683Z",
+  "model": "glm-5.3"
+}

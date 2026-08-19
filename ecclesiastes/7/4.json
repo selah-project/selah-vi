@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Lòng kẻ khôn ngoan ở nhà tang chế, còn lòng kẻ dại dột ở nhà vui vẻ.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "lòng"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "kẻ khôn ngoan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ở nhà"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "tang chế"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "còn lòng"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "kẻ dại dột"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ở nhà"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "vui vẻ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:31.635372492Z",
+  "model": "glm-5.3"
+}

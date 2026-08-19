@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 106:25",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 106,
+  "translation": "Và họ lầm bầm trong trại của mình, không nghe theo tiếng nói của Yahweh.",
+  "tokens": [
+    {
+      "surface": "וירגנו",
+      "gloss": "và họ lầm bầm"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "trong trại của mình"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "họ nghe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "theo tiếng nói"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:06.962493555Z",
+  "model": "glm-5.3"
+}

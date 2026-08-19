@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Tôi không thể, chính tôi một mình, gánh ⟨את⟩ cả dân này, vì nó quá nặng đối với tôi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "tôi có thể"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "chính tôi"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "một mình"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "gánh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cả dân này"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cả"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "quá nặng"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "đối với tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:55:55.783025853Z",
+  "model": "glm-5.3"
+}

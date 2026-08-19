@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 95,
+  "translation": "Bốn mươi năm Ta ghê tởm thế hệ ấy, và Ta nói: Dân này là ⟨⟨dân⟩⟩ lang thang trong lòng, và chúng nó không biết các đường lối của Ta.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "bốn mươi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "năm"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "Ta ghê tởm"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "trong thế hệ ấy"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "và Ta nói"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "lang thang"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "trong lòng"
+    },
+    {
+      "surface": "הם",
+      "gloss": "chúng nó là"
+    },
+    {
+      "surface": "והם",
+      "gloss": "và chúng nó"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "biết"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "các đường lối của Ta"
+    }
+  ],
+  "timestamp": "2026-08-19T06:18:21.663921101Z",
+  "model": "glm-5.3"
+}

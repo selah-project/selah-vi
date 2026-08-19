@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Và ⟨את⟩ một cái biển, và ⟨את⟩ mười hai con bò dưới cái biển.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "một cái biển"
+    },
+    {
+      "surface": "הים",
+      "gloss": "cái biển"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "một"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "mười hai con bò"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "các con bò"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "hai"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mười"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dưới"
+    },
+    {
+      "surface": "הים",
+      "gloss": "cái biển"
+    }
+  ],
+  "timestamp": "2026-08-19T03:49:01.918084724Z",
+  "model": "glm-5.3"
+}

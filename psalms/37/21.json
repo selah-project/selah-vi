@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Kẻ ác vay mượn và không trả lại, còn người công bình thương xót và cho đi.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "vay mượn"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kẻ ác"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "trả lại"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "còn người công bình"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "thương xót"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "và cho đi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:51.241638389Z",
+  "model": "glm-5.3"
+}

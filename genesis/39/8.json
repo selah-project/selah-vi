@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 39:8",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 39,
+  "translation": "Nhưng anh từ chối và nói với vợ chủ mình: Này, chủ con không biết ⟨את⟩ gì với con trong nhà, và tất cả những gì ông có ông đã đặt vào tay con.",
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "nhưng anh từ chối"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vợ của"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "chủ anh"
+    },
+    {
+      "surface": "הן",
+      "gloss": "này"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "chủ con"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "biết"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ với con",
+      "marks": "gì (trong nhà)"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "trong nhà"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và tất cả"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "יש",
+      "gloss": "có"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ông"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "đã đặt"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "vào tay con"
+    }
+  ],
+  "timestamp": "2026-08-19T01:27:49.148800347Z",
+  "model": "glm-5.3"
+}

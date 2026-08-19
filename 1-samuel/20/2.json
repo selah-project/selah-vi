@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 20:2",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Và người nói với ông: Xa thay điều đó! Ông sẽ không chết. Này, cha tôi không làm việc gì lớn hay việc gì nhỏ mà không tỏ ⟨את⟩ tai tôi; còn tại sao cha tôi lại giấu khỏi tôi ⟨את⟩ việc này? Không có chuyện đó.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "לו",
+      "gloss": "với ông"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "xa thay điều đó"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ông sẽ chết"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "này"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    },
+    {
+      "surface": "עשה",
+      "gloss": "làm"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "cha tôi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "việc"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lớn"
+    },
+    {
+      "surface": "או",
+      "gloss": "hay"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "việc"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "nhỏ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "tỏ ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tai tôi"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "tai tôi"
+    },
+    {
+      "surface": "ומדוע",
+      "gloss": "và tại sao"
+    },
+    {
+      "surface": "יסתיר",
+      "gloss": "giấu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "cha tôi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "khỏi tôi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "việc này"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "việc"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "chuyện đó"
+    }
+  ],
+  "timestamp": "2026-08-19T03:35:30.271367352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Và Yahweh phán cùng Moshe: Ta đã thấy ⟨את⟩ dân này, và kìa, ⟨nó⟩ là dân cứng cổ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cùng"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ta đã thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dân này"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "và kìa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "cứng"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "cổ (gáy)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨nó⟩ là"
+    }
+  ],
+  "timestamp": "2026-08-19T06:03:59.096656249Z",
+  "model": "glm-5.3"
+}

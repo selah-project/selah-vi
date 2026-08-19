@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 32:4",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Và họ tụ họp một dân đông đảo, và lấp ⟨את⟩ tất cả các nguồn nước và ⟨את⟩ khe suối chảy xiết giữa lòng đất, mà nói: Vì sao các vua của Ashshur lại đến và tìm thấy nước nhiều?",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "và họ tụ họp"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "רב",
+      "gloss": "đông đảo"
+    },
+    {
+      "surface": "ויסתמו",
+      "gloss": "và lấp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả các nguồn nước"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "המעינות",
+      "gloss": "các nguồn nước"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "khe suối chảy xiết"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "khe suối"
+    },
+    {
+      "surface": "השוטף",
+      "gloss": "chảy xiết"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "giữa lòng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mà nói"
+    },
+    {
+      "surface": "למה",
+      "gloss": "vì sao"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "lại đến"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "các vua"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "ומצאו",
+      "gloss": "và tìm thấy"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nhiều"
+    }
+  ],
+  "timestamp": "2026-08-19T06:01:31.109681006Z",
+  "model": "glm-5.3"
+}

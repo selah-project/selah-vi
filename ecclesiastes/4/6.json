@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Tốt hơn một lòng bàn tay ⟨đầy⟩ sự yên nghỉ, hơn hai bàn tay đầy cơ cực và rao ruồng của gió.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "tốt hơn"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "sự đầy"
+    },
+    {
+      "surface": "כף",
+      "gloss": "lòng bàn tay"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "yên nghỉ"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "hơn sự đầy"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "hai bàn tay"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "cơ cực"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "và rao ruồng"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "của gió"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:53.503420465Z",
+  "model": "glm-5.3"
+}

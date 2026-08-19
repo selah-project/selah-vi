@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 109,
+  "translation": "Vì ⟨Ngài⟩ đứng ở bên phải người nghèo khốn, để cứu ⟨anh⟩ khỏi những kẻ xét đoán mạng sống anh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "⟨Ngài⟩ đứng"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "ở bên phải"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "người nghèo khốn"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "để cứu"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "khỏi những kẻ xét đoán"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "mạng sống anh"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:47.474487699Z",
+  "model": "glm-5.3"
+}

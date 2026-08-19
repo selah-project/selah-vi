@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 5:6",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Và ⟨anh ta⟩ mang lá thư đến vua của Yitsraél, nói rằng: Và nay, khi lá thư này đến với ngươi, nè, tôi đã gửi đến ngươi ⟨את⟩ Naaman, đầy tớ tôi, để ngươi chữa lành bệnh phung của anh ta.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "và mang đến"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "lá thư"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yitsraél"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nói rằng"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "và nay"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "khi đến"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "lá thư"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "đến với ngươi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "nè"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "tôi đã gửi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "đến với ngươi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naaman"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "Naaman"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "đầy tớ tôi"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "để ngươi chữa lành anh ta"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "khỏi bệnh phung của anh ta"
+    }
+  ],
+  "timestamp": "2026-08-19T03:57:18.955181155Z",
+  "model": "glm-5.3"
+}

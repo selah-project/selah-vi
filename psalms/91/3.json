@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 91,
+  "translation": "Vì chính Ngài sẽ giải cứu ⟨bạn⟩ khỏi lưới bẫy của kẻ gài bẫy, khỏi dịch bệnh gây hủy diệt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chính Ngài"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "sẽ giải cứu ⟨bạn⟩"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "khỏi lưới bẫy"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "của kẻ gài bẫy"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "khỏi dịch bệnh"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "gây hủy diệt"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:15.233420551Z",
+  "model": "glm-5.3"
+}

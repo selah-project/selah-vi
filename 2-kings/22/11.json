@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 22:11",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Và có chuyện xảy ra, khi vua nghe ⟨את⟩ những lời của cuốn sách Torah, thì người xé ⟨את⟩ áo mình.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "và có chuyện xảy ra"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "khi nghe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "những lời"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "những lời"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "cuốn sách"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "thì người xé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "áo mình"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "áo mình"
+    }
+  ],
+  "timestamp": "2026-08-19T04:02:05.673792519Z",
+  "model": "glm-5.3"
+}

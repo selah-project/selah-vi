@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 26:3",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Và Sha-ul đóng trại trên đồi Ha-khi-la, vốn đối diện Yeshimon, bên con đường; còn David thì ở trong đồng vắng, và ⟨hắn⟩ thấy rằng Sha-ul đã đuổi theo ⟨hắn⟩ vào trong đồng vắng.",
+  "tokens": [
+    {
+      "surface": "ויחן",
+      "gloss": "và-đóng-trại"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    },
+    {
+      "surface": "בגבעת",
+      "gloss": "trên-đồi"
+    },
+    {
+      "surface": "החכילה",
+      "gloss": "Ha-khi-la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vốn"
+    },
+    {
+      "surface": "על",
+      "gloss": "đối-diện"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt-của"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "Yeshimon"
+    },
+    {
+      "surface": "על",
+      "gloss": "bên"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "con-đường"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "còn-David"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "đang-ở"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "trong-đồng-vắng"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "và-thấy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "בא",
+      "gloss": "đã-đến"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "đuổi-theo-hắn"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "vào-trong-đồng-vắng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:37:25.000962801Z",
+  "model": "glm-5.3"
+}

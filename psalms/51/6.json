@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 51,
+  "translation": "Chống lại Ngài, một mình Ngài thôi, tôi đã phạm tội, và điều ác trong mắt Ngài tôi đã làm, để Ngài ⟨được⟩ công chính khi Ngài phán, ⟨được⟩ trong sạch khi Ngài phán xét.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "chống lại Ngài"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "một mình Ngài thôi"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "tôi đã phạm tội"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "và điều ác"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "trong mắt Ngài"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "tôi đã làm"
+    },
+    {
+      "surface": "למען",
+      "gloss": "để"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "Ngài công chính"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "khi Ngài phán"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "⟨được⟩ trong sạch"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "khi Ngài phán xét"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:45.747211169Z",
+  "model": "glm-5.3"
+}

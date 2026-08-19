@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Và người đàn ông Moshe rất khiêm nhường, hơn mọi người ⟨đang⟩ trên mặt đất.",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "và người đàn ông"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "khiêm nhường"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "rất"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "hơn mọi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "người"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T02:56:07.435845992Z",
+  "model": "glm-5.3"
+}

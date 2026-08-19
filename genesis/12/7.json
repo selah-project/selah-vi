@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 12:7",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Và Yahweh hiện ra với Avram và phán: cho dòng dõi ngươi Ta sẽ ban ⟨את⟩ đất này; và ông dựng tại đó một bàn thờ cho Yahweh, Đấng đã hiện ra với ông.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "và hiện ra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và phán"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "cho dòng dõi ngươi"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "Ta sẽ ban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đất này"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "này"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "và dựng"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tại đó"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "cho Yahweh"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "Đấng đã hiện ra"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "với ông"
+    }
+  ],
+  "timestamp": "2026-08-19T00:57:04.307549898Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 7:20",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Và Akhan trả lời ⟨את⟩ Yehoshua và nói: Quả thật, tôi đã phạm tội với Yahweh, Elohim của Yisra'el, và như thế này và như thế này tôi đã làm.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "và trả lời"
+    },
+    {
+      "surface": "עכן",
+      "gloss": "Akhan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "quả thật"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "đã phạm tội"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "với Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim của"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "và như thế này"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "và như thế này"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "tôi đã làm"
+    }
+  ],
+  "timestamp": "2026-08-19T06:07:02.895446861Z",
+  "model": "glm-5.3"
+}

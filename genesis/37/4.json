@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 37:4",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Các anh em ⟨anh ta⟩ thấy rằng cha mình yêu ⟨את⟩ ⟨anh ta⟩ hơn mọi anh em mình, và họ ghét ⟨את⟩ ⟨anh ta⟩, và không thể nói với ⟨anh ta⟩ điều hòa bình.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "thấy"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "các anh em ⟨anh ta⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨anh ta⟩",
+      "marks": "⟨anh ta⟩ (túc từ của 'yêu')"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "yêu"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "cha mình"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "hơn mọi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "anh em mình"
+    },
+    {
+      "surface": "וישנאו",
+      "gloss": "và họ ghét"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨anh ta⟩",
+      "marks": "⟨anh ta⟩ (túc từ của 'ghét')"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "có thể"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "nói với"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "điều hòa bình"
+    }
+  ],
+  "timestamp": "2026-08-19T01:23:50.226122918Z",
+  "model": "glm-5.3"
+}

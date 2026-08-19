@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 90:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 90,
+  "translation": "Để đếm các ngày của chúng con ⟨đúng cách⟩, xin dạy chúng con, và chúng con được ⟨một⟩ lòng khôn ngoan.",
+  "tokens": [
+    {
+      "surface": "למנות",
+      "gloss": "để đếm"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "các ngày của chúng con"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨đúng cách⟩"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "xin dạy chúng con"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "và chúng con được"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "lòng"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "khôn ngoan"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:59.658787816Z",
+  "model": "glm-5.3"
+}

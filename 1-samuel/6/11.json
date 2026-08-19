@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Họ đặt ⟨את⟩ hòm của Yahweh lên chiếc xe, cùng ⟨את⟩ cái rương, ⟨את⟩ những con chuột bằng vàng và ⟨את⟩ hình các chứng ung thư của họ.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "họ đặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hòm của Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "hòm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lên"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "chiếc xe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "cái rương"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "cái rương"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "những con chuột bằng vàng"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "những con chuột"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "bằng vàng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hình các chứng ung thư"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "hình của"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "các chứng ung thư của họ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:31:03.140107440Z",
+  "model": "glm-5.3"
+}

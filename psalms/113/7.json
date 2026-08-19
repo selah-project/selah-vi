@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 113,
+  "translation": "Ngài nhấc kẻ nghèo khó dậy từ bụi, từ đống rác Ngài nâng kẻ thiếu thốn lên.",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "nhấc dậy"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "từ bụi"
+    },
+    {
+      "surface": "דל",
+      "gloss": "kẻ nghèo khó"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "từ đống rác"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "nâng lên"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "kẻ thiếu thốn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:47.127288838Z",
+  "model": "glm-5.3"
+}

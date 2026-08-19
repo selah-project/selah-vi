@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 38,
+  "translation": "Xin mau đến cứu giúp tôi, Adonai, là sự cứu của tôi.",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "xin mau đến"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "cứu giúp tôi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "sự cứu của tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:22.209878457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 16:3",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Và ngươi hãy mời Yishai đến bữa tế lễ, và Ta sẽ cho ngươi biết ⟨את⟩ điều ngươi phải làm; ngươi sẽ xức dầu cho Ta ⟨את⟩ người mà Ta chỉ định cho ngươi.",
+  "tokens": [
+    {
+      "surface": "וקראת",
+      "gloss": "và ngươi hãy mời"
+    },
+    {
+      "surface": "לישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "đến bữa tế lễ"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "và Ta"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "sẽ cho ngươi biết"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "điều ngươi phải làm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "điều mà"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ngươi phải làm"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "và ngươi sẽ xức dầu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho Ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người mà Ta chỉ định"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "người mà"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Ta chỉ định"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "cho ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:33:54.200093691Z",
+  "model": "glm-5.3"
+}

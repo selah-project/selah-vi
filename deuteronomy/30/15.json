@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 30,
+  "translation": "Hãy xem, ta đã đặt trước mặt ngươi hôm nay ⟨את⟩ sự sống và ⟨את⟩ điều tốt, và ⟨את⟩ sự chết và ⟨את⟩ điều dữ.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "hãy xem"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ta đã đặt"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "trước mặt ngươi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hôm nay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sự sống"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "sự sống"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "điều tốt"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "điều tốt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "sự chết"
+    },
+    {
+      "surface": "המות",
+      "gloss": "sự chết"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "điều dữ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "điều dữ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:12:58.125140931Z",
+  "model": "glm-5.3"
+}

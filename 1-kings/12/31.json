@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 12:31",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Và người làm ⟨את⟩ nhà của các nơi cao, và lập những thầy tế lễ từ tầng lớp thấp nhất của dân sự, những người không thuộc con cái Levi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "và người làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nhà của các nơi cao"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "במות",
+      "gloss": "các nơi cao"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "và người lập"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "những thầy tế lễ"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "từ tầng lớp thấp nhất"
+    },
+    {
+      "surface": "העם",
+      "gloss": "của dân sự"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "những người mà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "היו",
+      "gloss": "thuộc"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "từ con cái"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:51:53.130090990Z",
+  "model": "glm-5.3"
+}

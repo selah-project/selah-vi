@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 54:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 54,
+  "translation": "Elohim, bởi Danh Ngài hãy cứu tôi, và bởi quyền năng Ngài hãy xử công minh cho tôi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "bởi Danh Ngài"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "hãy cứu tôi"
+    },
+    {
+      "surface": "ובגבורתך",
+      "gloss": "và bởi quyền năng Ngài"
+    },
+    {
+      "surface": "תדינני",
+      "gloss": "hãy xử công minh cho tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:26.803913019Z",
+  "model": "glm-5.3"
+}

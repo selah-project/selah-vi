@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Tôi sẽ nhảy múa vui mừng trong sự nhân từ của Ngài, vì Ngài đã thấy ⟨את⟩ nỗi khốn khổ của tôi, Ngài đã biết trong cơn khốn cùng linh hồn tôi.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "tôi-sẽ-vui-múa"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "và-tôi-sẽ-mừng"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "trong-sự-nhân-từ-của-Ngài"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "Ngài-đã-thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nỗi khốn khổ của tôi"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "nỗi-khốn-khổ-của-tôi"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "Ngài-đã-biết"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "trong-cơn-khốn-cùng"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "linh-hồn-của-tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:42.113012144Z",
+  "model": "glm-5.3"
+}

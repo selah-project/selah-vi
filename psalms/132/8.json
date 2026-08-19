@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 132,
+  "translation": "Hãy đứng dậy, Yahweh, đến nơi nghỉ ngơi của Ngài — Ngài và Hòm Bia của quyền năng Ngài.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "hãy đứng dậy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "đến nơi nghỉ ngơi của Ngài"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "và Hòm Bia"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "của quyền năng Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:16.625796451Z",
+  "model": "glm-5.3"
+}

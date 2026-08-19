@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 4:11",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Sư tử già hư mất vì thiếu con mồi, và lính của sư tử cái bị tan rã.",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "sư tử già"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "hư mất"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "vì thiếu"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "con mồi"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "và lính của"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "sư tử cái"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "bị tan rã"
+    }
+  ],
+  "timestamp": "2026-08-19T05:20:10.862400151Z",
+  "model": "glm-5.3"
+}

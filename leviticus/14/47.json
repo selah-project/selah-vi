@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 14:47",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Và người ngủ lại trong nhà phải giặt ⟨את⟩ áo quần của mình, và người ăn trong nhà phải giặt ⟨את⟩ áo quần của mình.",
+  "tokens": [
+    {
+      "surface": "והשכב",
+      "gloss": "và người ngủ lại"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "trong nhà"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "phải giặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "áo quần của mình"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "áo quần của mình"
+    },
+    {
+      "surface": "והאכל",
+      "gloss": "và người ăn"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "trong nhà"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "phải giặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "áo quần của mình"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "áo quần của mình"
+    }
+  ],
+  "timestamp": "2026-08-19T02:44:19.974992896Z",
+  "model": "glm-5.3"
+}

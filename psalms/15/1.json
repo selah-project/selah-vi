@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Bài ca của Davíd. Yahweh, ai sẽ được trú ngụ trong trại của Ngài? Ai sẽ được ở trên núi thánh của Ngài?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "bài ca"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "của Davíd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "sẽ trú ngụ"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "trong trại của Ngài"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "sẽ ở"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "trên núi"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "thánh của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:27.405255545Z",
+  "model": "glm-5.3"
+}

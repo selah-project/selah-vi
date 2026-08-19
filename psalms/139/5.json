@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 139,
+  "translation": "Phía sau lưng và phía trước, Ngài đã vây tôi lại, và Ngài đã đặt bàn tay Ngài lên trên tôi.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "phía sau lưng"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "và phía trước"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "Ngài đã vây tôi lại"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "và Ngài đã đặt"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lên trên tôi"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "bàn tay Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:44.988875883Z",
+  "model": "glm-5.3"
+}

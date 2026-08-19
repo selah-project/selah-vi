@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 7:5",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Thịt tôi khoác lấy ⟨את⟩ giòi và cục bụi; da tôi nứt toác và bị ghê tởm.",
+  "tokens": [
+    {
+      "surface": "לבש",
+      "gloss": "khoác lấy"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "thịt tôi"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "giòi"
+    },
+    {
+      "surface": "וגיש",
+      "gloss": "và cục bụi"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "bụi"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "da tôi"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "nứt toác"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "và bị ghê tởm"
+    }
+  ],
+  "timestamp": "2026-08-19T05:21:38.067284278Z",
+  "model": "glm-5.3"
+}

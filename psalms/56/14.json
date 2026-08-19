@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 56:14",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 56,
+  "translation": "Vì Ngài đã cứu ⟨את⟩ linh hồn tôi khỏi sự chết — ⟨phải chăng⟩ ⟨cả⟩ chân tôi khỏi vấp ngã — để tôi bước đi trước mặt Elohim, trong sự sáng của sự sống.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "Ngài đã cứu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "linh hồn tôi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "linh hồn tôi"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "khỏi sự chết"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "phải chăng"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "chân tôi"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "khỏi vấp ngã"
+    },
+    {
+      "surface": "להתהלך",
+      "gloss": "để tôi bước đi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באור",
+      "gloss": "trong sự sáng"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "của sự sống"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:36.382782829Z",
+  "model": "glm-5.3"
+}

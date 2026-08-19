@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Và David sợ ⟨את⟩ Elohim trong ngày ấy, nói rằng: Làm sao tôi đem về bên mình ⟨את⟩ hòm của Elohim?",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "và sợ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "trong ngày"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "đó"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nói rằng"
+    },
+    {
+      "surface": "היך",
+      "gloss": "làm sao"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "tôi đem"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "về bên mình"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hòm của Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "hòm"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "của Elohim"
+    }
+  ],
+  "timestamp": "2026-08-19T05:50:19.021990079Z",
+  "model": "glm-5.3"
+}

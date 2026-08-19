@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Đấng phán cùng mặt trời và nó không mọc lên, và niêm ấn các ngôi sao.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "Đấng phán"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "cùng mặt trời"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "nó mọc lên"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "và quanh\/niêm"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "các ngôi sao"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "Ngài niêm ấn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:21:39.590895939Z",
+  "model": "glm-5.3"
+}

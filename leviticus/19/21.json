@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Và ⟨người đó⟩ sẽ đem ⟨את⟩ lễ tội mình đến Yahweh, đến cửa lều hội kiến, một con cừu đực làm lễ tội.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "và sẽ đem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lễ tội mình"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "lễ tội mình"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "đến Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "cửa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "lều"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "hội kiến"
+    },
+    {
+      "surface": "איל",
+      "gloss": "cừu đực"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "lễ tội"
+    }
+  ],
+  "timestamp": "2026-08-19T02:45:56.845388340Z",
+  "model": "glm-5.3"
+}

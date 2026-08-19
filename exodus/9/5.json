@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và Yahweh đã định một thời điểm, phán rằng: Ngày mai Yahweh sẽ làm việc này trong xứ.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "và đã định"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "một thời điểm"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "phán rằng"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ngày mai"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "sẽ làm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "việc"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trong xứ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:29:31.500574184Z",
+  "model": "glm-5.3"
+}

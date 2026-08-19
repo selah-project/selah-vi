@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Và tôi sẽ đi ⟨trong⟩ nơi rộng rãi, vì các mệnh lệnh của Ngài tôi đã tìm kiếm.",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "và tôi sẽ đi"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "trong nơi rộng rãi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "các mệnh lệnh của Ngài"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "tôi đã tìm kiếm"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:40.720294489Z",
+  "model": "glm-5.3"
+}

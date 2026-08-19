@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 38,
+  "translation": "Lòng tôi đập dồn dập, sức lực tôi đã lìa bỏ tôi, và ánh sáng mắt tôi — cả chúng cũng chẳng ⟨את⟩ cùng tôi.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "lòng tôi"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "đập dồn dập"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "đã lìa bỏ tôi"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "sức lực tôi"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "và ánh sáng"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mắt tôi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cả"
+    },
+    {
+      "surface": "הם",
+      "gloss": "chúng"
+    },
+    {
+      "surface": "אין",
+      "gloss": "chẳng"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "cùng tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:32.698862718Z",
+  "model": "glm-5.3"
+}

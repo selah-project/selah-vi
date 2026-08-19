@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 113,
+  "translation": "Ai như Yahweh, Elohim của chúng ta, ⟨Đấng⟩ tự nhấc mình cao lên để ngự?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ai"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "như Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim của chúng ta"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "tự nhấc mình cao lên"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "để ngự"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:47.126942341Z",
+  "model": "glm-5.3"
+}

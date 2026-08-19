@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Và người Pelishtim tập hợp ⟨את⟩ tất cả trại binh của họ tại Afek, còn Yisrael đóng trại tại suối nước ở Yizreel.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "và tập hợp"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "người Pelishtim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả trại binh của họ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "trại binh của họ"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Afek"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "còn Yisrael"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "đóng trại"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "tại suối nước"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ở nơi"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "trong Yizreel"
+    }
+  ],
+  "timestamp": "2026-08-19T03:37:58.898074228Z",
+  "model": "glm-5.3"
+}

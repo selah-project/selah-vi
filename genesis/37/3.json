@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 37:3",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Va Yisrael yêu ⟨את⟩ Yosef hơn mọi con mình, vì ⟨anh ta⟩ là con trai sinh lúc già của ⟨ông⟩; và ⟨ông⟩ làm cho ⟨anh ta⟩ một áo dài với tay rộng.",
+  "tokens": [
+    {
+      "surface": "וישראל",
+      "gloss": "Va Yisrael"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "yêu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "hơn mọi"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "con mình"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "lúc tuổi già"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨anh ta⟩ là"
+    },
+    {
+      "surface": "לו",
+      "gloss": "của ⟨ông⟩"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "và làm"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho ⟨anh ta⟩"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "chiếc áo"
+    },
+    {
+      "surface": "פסים",
+      "gloss": "dài tay rộng \/ sọc nhiều màu"
+    }
+  ],
+  "timestamp": "2026-08-19T01:23:50.225952645Z",
+  "model": "glm-5.3"
+}

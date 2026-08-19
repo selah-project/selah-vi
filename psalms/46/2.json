@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 46,
+  "translation": "Elohim ⟨là⟩ nơi nương náu và sức mạnh cho chúng ta, một sự trợ giúp trong cơn khốn cùng được tìm thấy ⟨rất⟩ luôn.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "cho chúng ta"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "nơi nương náu"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "và sức mạnh"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "sự trợ giúp"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "trong cơn khốn cùng"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "được tìm thấy"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "rất luôn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:28.763630892Z",
+  "model": "glm-5.3"
+}

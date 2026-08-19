@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 1:9",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Còn ruột và chân của nó, người ta phải rửa trong nước; rồi thầy tế lễ phải đốt ⟨את⟩ tất cả trên bàn thờ — sinh tế thiêu, của dâng bằng lửa, hương thơm dễ chịu cho Yahweh.",
+  "tokens": [
+    {
+      "surface": "וקרבו",
+      "gloss": "còn ruột của nó"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "và chân của nó"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "phải rửa"
+    },
+    {
+      "surface": "במים",
+      "gloss": "trong nước"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "rồi phải đốt (khói lên)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "thầy tế lễ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "trên bàn thờ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "sinh tế thiêu"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "của dâng bằng lửa"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "hương"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "thơm dễ chịu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "cho Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:39:57.446826182Z",
+  "model": "glm-5.3"
+}

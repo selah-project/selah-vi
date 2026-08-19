@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Đừng vội vàng khỏi mặt ⟨vua⟩ mà đi, đừng đứng trong việc ác; vì mọi điều ⟨mà⟩ ⟨vua⟩ ưa thích ⟨thì⟩ ⟨vua⟩ làm.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "vội vàng"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "khỏi mặt ông"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "đi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "đứng"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "trong việc"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ác"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi điều"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "ưa thích"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "làm"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:49.335748206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Bài thánh ca của David. Hãy qui cho Yahweh, hỡi các con trai của El, hãy qui cho Yahweh vinh quang và sức mạnh.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "bài thánh ca"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "của David"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "hãy qui"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "cho Yahweh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "các con trai"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "của El"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "hãy qui"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "cho Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "vinh quang"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "và sức mạnh"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:09.366568529Z",
+  "model": "glm-5.3"
+}

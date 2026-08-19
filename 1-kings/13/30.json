@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Và ⟨hắn⟩ đặt ⟨את⟩ xác chết ⟨hắn⟩ trong mộ ⟨hắn⟩, và chúng than khóc về ⟨hắn⟩: 'H ôi, anh ta ôi!'",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "và đặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xác chết của ⟨hắn⟩"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "xác chết của ⟨hắn⟩"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "trong mộ của ⟨hắn⟩"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "và chúng than khóc"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "về ⟨hắn⟩"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "ôi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "anh ta ôi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:51:23.291099375Z",
+  "model": "glm-5.3"
+}

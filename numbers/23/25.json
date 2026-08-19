@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Balak nói với Bilam: ngay cả nguyền rủa cũng chớ nguyền rủa ⟨nó⟩, ngay cả ban phước cũng chớ ban phước ⟨nó⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ngay cả"
+    },
+    {
+      "surface": "קב",
+      "gloss": "nguyền rủa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "nguyền rủa nó"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ngay cả"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ban phước"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "ban phước nó"
+    }
+  ],
+  "timestamp": "2026-08-19T03:00:11.389577784Z",
+  "model": "glm-5.3"
+}

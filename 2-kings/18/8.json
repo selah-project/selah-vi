@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Chính ông đã đánh ⟨את⟩ người Philistim đến Gaza và ⟨את⟩ bờ cõi của nó, từ tháp canh gác đến thành trì.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "chính ông"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "đã đánh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người Philistim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "người Philistim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gaza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "bờ cõi của nó"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "bờ cõi của nó"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "từ tháp"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "canh gác"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "thành"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "trì"
+    }
+  ],
+  "timestamp": "2026-08-19T04:00:17.063046343Z",
+  "model": "glm-5.3"
+}

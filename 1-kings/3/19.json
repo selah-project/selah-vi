@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 3:19",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Con trai của người đàn bà này chết trong đêm, vì nàng nằm đè lên nó.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "chết"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "của người đàn bà"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "này"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "trong đêm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "nàng nằm"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "đè lên nó"
+    }
+  ],
+  "timestamp": "2026-08-19T03:47:12.755061171Z",
+  "model": "glm-5.3"
+}

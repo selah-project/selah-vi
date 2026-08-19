@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 10:19",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Như thể tôi đã không tồn tại, tôi ⟨sẽ⟩ ⟨là⟩; từ trong dạ mẹ đến mộ ⟨tôi⟩ được đưa đi.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "như thể"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "tôi đã tồn tại"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "tôi là"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "từ trong dạ mẹ"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "đến mộ"
+    },
+    {
+      "surface": "אובל",
+      "gloss": "được đưa đi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:22:21.667858755Z",
+  "model": "glm-5.3"
+}

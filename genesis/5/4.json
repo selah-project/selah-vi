@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Các ngày của Adam sau khi sinh ⟨את⟩ Shet là tám trăm năm, và người sinh con trai và con gái.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "và là"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "các ngày"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "của Adam"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sau khi"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "người sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shet"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "tám"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "trăm"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "năm"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "và người sinh"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "và con gái"
+    }
+  ],
+  "timestamp": "2026-08-19T00:49:09.275880244Z",
+  "model": "glm-5.3"
+}

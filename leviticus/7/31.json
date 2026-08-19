@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Thầy tế lễ sẽ thiêu ⟨את⟩ phần mỳ trên bàn thờ, và ngực sẽ thuộc về Aharon và các con trai người.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "sẽ thiêu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "thầy tế lễ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phần mỳ"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "phần mỳ"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "trên bàn thờ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "và sẽ thuộc về"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "ngực"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "cho Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "và các con trai người"
+    }
+  ],
+  "timestamp": "2026-08-19T02:40:58.938285129Z",
+  "model": "glm-5.3"
+}

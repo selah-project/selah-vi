@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Và ⟨את⟩ các cái hỏa bàn, và ⟨את⟩ các chén rắc — cái nào vàng, vàng; cái nào bạc, bạc — viên chỉ huy cận vệ đã lấy đi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "các cái hỏa bàn"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "các cái hỏa bàn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "các chén rắc"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "các chén rắc"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cái nào"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "vàng"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "vàng"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "và cái nào"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "bạc"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "bạc"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "đã lấy"
+    },
+    {
+      "surface": "רב",
+      "gloss": "viên chỉ huy"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "cận vệ (đao phủ)"
+    }
+  ],
+  "timestamp": "2026-08-19T04:03:14.957970138Z",
+  "model": "glm-5.3"
+}

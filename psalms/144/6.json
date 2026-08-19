@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 144,
+  "translation": "Phóng chớp ra và làm họ tan tác; phóng các mũi tên của Ngài và làm họ rối loạn.",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "phóng chớp ra"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "tia chớp"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "và làm họ tan tác"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "phóng ra"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "các mũi tên của Ngài"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "và làm họ rối loạn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:06.886426897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 31:19",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Cầu cho môi nói dối phải bị câm — những môi kia nói ⟨về⟩ người công bình điều ngạo mạn, trong kiêu căng và khinh miệt.",
+  "tokens": [
+    {
+      "surface": "תאלמנה",
+      "gloss": "cầu cho bị câm"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "môi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "nói dối"
+    },
+    {
+      "surface": "הדברות",
+      "gloss": "nói"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨về⟩\/chống"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "người công bình"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "ngạo mạn"
+    },
+    {
+      "surface": "בגאוה",
+      "gloss": "trong kiêu căng"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "và khinh miệt"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:42.222806496Z",
+  "model": "glm-5.3"
+}

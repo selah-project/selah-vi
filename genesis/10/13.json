@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 10:13",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Và Mitzrayim sinh ra ⟨את⟩ người Ludim, và ⟨את⟩ người Anamim, và ⟨את⟩ người Lehabim, và ⟨את⟩ người Naphtuchim.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Và Mitzrayim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "sinh ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người Ludim"
+    },
+    {
+      "surface": "לודים",
+      "gloss": "người Ludim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người Anamim"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "người Anamim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người Lehabim"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "người Lehabim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người Naphtuchim"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "người Naphtuchim"
+    }
+  ],
+  "timestamp": "2026-08-19T00:53:51.463220507Z",
+  "model": "glm-5.3"
+}

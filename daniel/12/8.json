@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 12:8",
+  "book": "daniel",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Còn tôi, tôi đã nghe nhưng không hiểu, nên tôi nói: Adonai ⟨à⟩, ⟨sự⟩ cuối cùng của những điều này ⟨thì ra sao⟩?",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "còn tôi"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "tôi đã nghe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nhưng không"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "hiểu"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "nên tôi nói"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מה",
+      "gloss": "thì ra sao"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "sự cuối cùng"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "của những điều này"
+    }
+  ],
+  "timestamp": "2026-08-19T05:40:21.399848035Z",
+  "model": "glm-5.3"
+}

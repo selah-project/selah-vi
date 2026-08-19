@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 2:20",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và bà nói: Một lời xin nhỏ tôi xin ⟨את⟩ từ nơi ngươi, xin đừng quay lại mặt tôi. Và vua nói với bà: Hãy xin, mẹ tôi, vì tôi sẽ không quay lại mặt của mẹ.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "và bà nói"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "lời xin"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "một"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "nhỏ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "tôi xin"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "từ ⟨את⟩ ngươi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "quay lại"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mặt tôi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt tôi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "לה",
+      "gloss": "với bà"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "hãy xin"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mẹ tôi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "tôi sẽ quay lại"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mặt ngươi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "mặt ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:47:58.848281688Z",
+  "model": "glm-5.3"
+}

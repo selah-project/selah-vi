@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 94,
+  "ref": "psalms 119:94",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Con thuộc về Ngài — xin cứu con, vì con đã tìm kiếm các mệnh lệnh của Ngài.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "thuộc về Ngài"
+    },
+    {
+      "surface": "אני",
+      "gloss": "con"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "xin cứu con"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "các mệnh lệnh của Ngài"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "con đã tìm kiếm"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:59.140711926Z",
+  "model": "glm-5.3"
+}

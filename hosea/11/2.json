@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 11:2",
+  "book": "hosea",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Người ta đã gọi chúng, nhưng chúng cứ đi xa khỏi mặt họ; chúng tế cho các Baal, và đốt hương cho các tượng chạm.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "đã-gọi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chúng"
+    },
+    {
+      "surface": "כן",
+      "gloss": "như-vậy"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "chúng-đi"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "khỏi-mặt-họ"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "cho-các-Baal"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "chúng-tế"
+    },
+    {
+      "surface": "ולפסלים",
+      "gloss": "và-cho-các-tượng-chạm"
+    },
+    {
+      "surface": "יקטרון",
+      "gloss": "chúng-đốt-hương"
+    }
+  ],
+  "timestamp": "2026-08-19T04:45:22.237709108Z",
+  "model": "glm-5.3"
+}

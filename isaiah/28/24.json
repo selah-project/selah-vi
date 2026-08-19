@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 28:24",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Liệu có suốt ⟨cả⟩ ngày kẻ cày ⟨cày⟩ cày để gieo hạt, liên tục xới và bừa đất của mình?",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "suốt... không?"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "cày"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "kẻ cày"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "để gieo hạt"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "xới"
+    },
+    {
+      "surface": "וישדד",
+      "gloss": "và bừa"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "đất của mình"
+    }
+  ],
+  "timestamp": "2026-08-19T04:08:14.241430971Z",
+  "model": "glm-5.3"
+}

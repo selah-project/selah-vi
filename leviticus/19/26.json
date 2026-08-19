@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Các ngươi không nên ăn trên huyết, không nên bói toán, và không nên phù phép.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "các ngươi nên ăn"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "huyết"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "các ngươi bói toán"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "các ngươi phù phép"
+    }
+  ],
+  "timestamp": "2026-08-19T02:45:55.213984263Z",
+  "model": "glm-5.3"
+}

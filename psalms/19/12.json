@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Cũng bởi chúng mà tôi tớ Ngài ⟨được⟩ cảnh tỉnh; trong sự giữ gìn chúng ⟨có⟩ phần thưởng lớn.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "cũng"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tôi tớ Ngài"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "được cảnh tỉnh"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "bởi chúng"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "trong sự giữ-gìn-chúng"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "phần thưởng"
+    },
+    {
+      "surface": "רב",
+      "gloss": "lớn"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:32.968167095Z",
+  "model": "glm-5.3"
+}

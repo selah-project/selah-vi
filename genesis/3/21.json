@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 3:21",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và Yahweh Eloheim đã làm cho Adam và cho vợ ông các áo bằng da, và ⟨את⟩ đã mặc cho họ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "và đã làm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloheim"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "cho Adam"
+    },
+    {
+      "surface": "ולאשתו",
+      "gloss": "và cho vợ ông"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "các áo"
+    },
+    {
+      "surface": "עור",
+      "gloss": "bằng da"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "và đã mặc cho họ"
+    }
+  ],
+  "timestamp": "2026-08-19T00:47:35.320503545Z",
+  "model": "glm-5.3"
+}

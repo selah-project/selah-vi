@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 26:11",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Avimelekh ra lệnh cho ⟨את⟩ toàn thể dân chúng rằng: Ai đụng đến người này hay vợ người ấy, sẽ bị xử tử chắc chắn.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ra lệnh"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toàn thể dân chúng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân chúng"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "(ai) đụng đến"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "đến người"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "ובאשתו",
+      "gloss": "hay vợ người ấy"
+    },
+    {
+      "surface": "מות",
+      "gloss": "chết"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "sẽ bị giết"
+    }
+  ],
+  "timestamp": "2026-08-19T01:08:36.938778351Z",
+  "model": "glm-5.3"
+}

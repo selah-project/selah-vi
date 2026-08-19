@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Hãy chuộc ⟨את⟩ Yisrael, hỡi Elohim, khỏi mọi cơn hoạn nạn của nó.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "hãy chuộc"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "khỏi mọi"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "cơn hoạn nạn của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:30.233513396Z",
+  "model": "glm-5.3"
+}

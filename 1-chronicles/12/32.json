@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 12:32",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Và từ phân nửa chi tộc Menashsheh, mười tám nghìn, những kẻ được định danh theo tên, để đến làm ⟨את⟩ David làm vua.",
+  "tokens": [
+    {
+      "surface": "ומחצי",
+      "gloss": "và từ phân nửa"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "chi tộc"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "tám"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mười"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "nghìn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "những kẻ"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "được định danh"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "theo tên"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "để đến"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "làm... làm vua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-19T05:50:04.693798596Z",
+  "model": "glm-5.3"
+}

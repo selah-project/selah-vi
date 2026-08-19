@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 6:1",
+  "book": "ezra",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Bấy giờ Dareyavesh ⟨vua⟩ ra sắc lệnh, và người ta tra tìm trong nhà sách, nơi các kho báu được cất giữ tại Bavel.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "bấy giờ"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "Dareyavesh"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "vua"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ra"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "sắc lệnh"
+    },
+    {
+      "surface": "ובקרו",
+      "gloss": "và người ta tra tìm"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "trong nhà"
+    },
+    {
+      "surface": "ספריא",
+      "gloss": "sách"
+    },
+    {
+      "surface": "די",
+      "gloss": "nơi"
+    },
+    {
+      "surface": "גנזיא",
+      "gloss": "các kho báu"
+    },
+    {
+      "surface": "מהחתין",
+      "gloss": "được cất giữ"
+    },
+    {
+      "surface": "תמה",
+      "gloss": "tại đó"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "tại Bavel"
+    }
+  ],
+  "timestamp": "2026-08-19T05:41:31.322857203Z",
+  "model": "glm-5.3"
+}

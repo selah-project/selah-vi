@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 44:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 44,
+  "translation": "Nhưng Ngài đã từ bỏ và làm chúng tôi nhục nhã, và không ra đi cùng các đạo binh của chúng tôi.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "nhưng"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "Ngài đã từ bỏ"
+    },
+    {
+      "surface": "ותכלימנו",
+      "gloss": "và làm chúng tôi nhục nhã"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "Ngài ra đi"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "cùng các đạo binh của chúng tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:51.824722833Z",
+  "model": "glm-5.3"
+}

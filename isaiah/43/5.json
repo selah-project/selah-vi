@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 43,
+  "translation": "Đừng sợ, vì cùng ⟨את⟩ ngươi — Ta; từ hướng đông Ta sẽ dẫn dòng giống ngươi, và từ hướng tây Ta sẽ tụ hội ngươi lại.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "sợ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "cùng ⟨את⟩ ngươi",
+      "marks": "ngươi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ta"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "từ hướng đông"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "Ta sẽ dẫn"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "dòng giống ngươi"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "và từ hướng tây"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "Ta sẽ tụ hội ngươi lại"
+    }
+  ],
+  "timestamp": "2026-08-19T04:12:01.957464116Z",
+  "model": "glm-5.3"
+}

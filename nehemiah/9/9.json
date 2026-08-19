@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Ngài đã thấy ⟨את⟩ nỗi khốn khổ của tổ phụ chúng con tại Mitzrayim, và ⟨את⟩ tiếng kêu cứu của họ Ngài đã nghe bên Biển Súp.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "đã thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nỗi khốn khổ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nỗi khốn khổ"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "của tổ phụ chúng con"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "tại Mitzrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "tiếng kêu cứu"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "tiếng kêu cứu của họ"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "đã nghe"
+    },
+    {
+      "surface": "על",
+      "gloss": "bên"
+    },
+    {
+      "surface": "ים",
+      "gloss": "biển"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Súp"
+    }
+  ],
+  "timestamp": "2026-08-19T05:44:55.597634934Z",
+  "model": "glm-5.3"
+}

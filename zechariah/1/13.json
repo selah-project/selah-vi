@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và Yahweh đã đáp lại ⟨את⟩ vị thiên sứ đang phán trong tôi những lời tốt, những lời an ủi.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Và…đáp lại"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vị thiên sứ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "vị thiên sứ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "đang phán"
+    },
+    {
+      "surface": "בי",
+      "gloss": "trong tôi"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "lời"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "tốt"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "lời"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "an ủi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:51:52.908519719Z",
+  "model": "glm-5.3"
+}

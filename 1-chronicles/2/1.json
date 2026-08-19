@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Đây là các con trai của Yisra'el: Re'uven, Shim'on, Levi, và Yehudah, Yissaskhar, và Zevulun.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Đây là"
+    },
+    {
+      "surface": "בני",
+      "gloss": "các con trai của"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Re'uven"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shim'on"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "và Yehudah"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskhar"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "và Zevulun"
+    }
+  ],
+  "timestamp": "2026-08-19T05:47:12.921922387Z",
+  "model": "glm-5.3"
+}

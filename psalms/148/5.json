@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 148,
+  "translation": "Chúng hãy ca ngợi ⟨את⟩ danh Yahweh, vì chính Ngài đã truyền lệnh và chúng được tạo nên.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "chúng hãy ca ngợi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "danh Yahweh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "danh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chính Ngài"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "đã truyền lệnh"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "và được tạo nên"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:43.594382136Z",
+  "model": "glm-5.3"
+}

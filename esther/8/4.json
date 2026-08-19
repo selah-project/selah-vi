@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Vua duỗi ra cho Ester ⟨את⟩ cây trượng vàng; Ester đứng dậy và đứng trước mặt vua.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "vua duỗi ra"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "cho Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cây trượng vàng"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "cây trượng"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "vàng"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "và đứng dậy"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "và đứng"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    }
+  ],
+  "timestamp": "2026-08-19T05:36:00.228180955Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và tốt hơn cả hai ⟨là⟩ ⟨את⟩ kẻ chưa từng tồn tại, kẻ chưa từng thấy ⟨את⟩ việc ác được làm dưới mặt trời.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "và tốt hơn"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "cả hai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kẻ (chưa từng tồn tại)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kẻ mà"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "đến nay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chưa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "tồn tại"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kẻ mà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chưa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "việc ác"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "việc"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ác"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "được làm"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dưới"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "mặt trời"
+    }
+  ],
+  "timestamp": "2026-08-19T05:33:01.624235995Z",
+  "model": "glm-5.3"
+}

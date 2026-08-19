@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 66,
+  "translation": "Hãy gảy đàn xướng ⟨về⟩ vinh quang danh Ngài; hãy làm cho lời ca ngợi Ngài ⟨thành⟩ vinh quang.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "hãy gảy đàn xướng"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "vinh quang"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "danh Ngài"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "hãy làm cho"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "vinh quang"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "lời ca ngợi Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:28.850734224Z",
+  "model": "glm-5.3"
+}

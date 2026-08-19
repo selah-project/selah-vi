@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 3:10",
+  "book": "micah",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "kẻ xây Tsiyon bằng máu, và Yerushalayim bằng điều bất công.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "xây"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "bằng máu"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "và Yerushalayim"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "bằng điều bất công"
+    }
+  ],
+  "timestamp": "2026-08-19T04:49:02.678342654Z",
+  "model": "glm-5.3"
+}

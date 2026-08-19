@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 128,
+  "translation": "Vợ ngươi như cây nho trái tốt trong chính giữa nhà ngươi; con trai ngươi như cây ô-liu non quanh bàn ngươi.",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "vợ ngươi"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "như cây nho"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "trái tốt"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "trong chính giữa"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nhà ngươi"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "con trai ngươi"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "như cây non"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "ô-liu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "quanh"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "bàn ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:44.761451402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 19:23",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Và Moshe nói cùng Yahweh: Dân không thể lên núi Sinai, vì chính ngài đã cảnh cáo chúng tôi, phán rằng: Hãy đặt giới hạn ⟨את⟩ núi và hãy thánh hóa nó.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cùng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "có thể"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "lên"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "הר",
+      "gloss": "núi"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngài"
+    },
+    {
+      "surface": "העדתה",
+      "gloss": "đã cảnh cáo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "chúng tôi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "phán rằng"
+    },
+    {
+      "surface": "הגבל",
+      "gloss": "hãy đặt giới hạn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "núi"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "núi"
+    },
+    {
+      "surface": "וקדשתו",
+      "gloss": "và hãy thánh hóa nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:32:14.732555847Z",
+  "model": "glm-5.3"
+}

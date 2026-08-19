@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 65,
+  "translation": "Chính Ngài là nơi sự im lặng ngợi khen, Elohim, tại Tzion; và với Ngài lời khấn nguyện sẽ được trọn.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "với Ngài"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "sự im lặng"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "lời ngợi khen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "tại Tzion"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "và với Ngài"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "sẽ được trọn"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "lời khấn nguyện"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:54.226657136Z",
+  "model": "glm-5.3"
+}

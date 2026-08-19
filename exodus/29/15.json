@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Ngươi sẽ lấy ⟨את⟩ con ram thứ nhất, và Aharon cùng các con trai ông sẽ đặt ⟨את⟩ tay mình lên đầu con ram.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "con ram thứ nhất"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "con ram"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "thứ nhất"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ngươi sẽ lấy"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "sẽ đặt"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "các con trai ông"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tay mình"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "tay mình"
+    },
+    {
+      "surface": "על",
+      "gloss": "lên"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "đầu"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "con ram"
+    }
+  ],
+  "timestamp": "2026-08-19T02:35:34.791011038Z",
+  "model": "glm-5.3"
+}

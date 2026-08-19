@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "ezekiel 16:45",
+  "book": "ezekiel",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Con gái của mẹ ngươi ⟨את⟩, kẻ ghê tởm chồng mình và con mình; và em của các chị em ngươi ⟨את⟩, là kẻ đã ghê tởm các chồng và các con mình; mẹ các ngươi là người Khít, và cha các ngươi là người Emori.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "con gái"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mẹ ngươi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kẻ ghê tởm chồng mình và con mình"
+    },
+    {
+      "surface": "געלת",
+      "gloss": "ghê tởm"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "chồng mình"
+    },
+    {
+      "surface": "ובניה",
+      "gloss": "và con mình"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "và em của"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "các chị em ngươi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kẻ đã ghê tởm các chồng và các con mình"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "là kẻ"
+    },
+    {
+      "surface": "געלו",
+      "gloss": "đã ghê tởm"
+    },
+    {
+      "surface": "אנשיהן",
+      "gloss": "các chồng họ"
+    },
+    {
+      "surface": "ובניהן",
+      "gloss": "và các con họ"
+    },
+    {
+      "surface": "אמכן",
+      "gloss": "mẹ các ngươi"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "người Khít"
+    },
+    {
+      "surface": "ואביכן",
+      "gloss": "và cha các ngươi"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "người Emori"
+    }
+  ],
+  "timestamp": "2026-08-19T04:35:01.919294668Z",
+  "model": "glm-5.3"
+}

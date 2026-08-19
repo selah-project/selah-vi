@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 51,
+  "translation": "Xin tẩy tôi sạch bằng cỏ hyssop và tôi sẽ được tinh sạch; xin giặt tôi và tôi sẽ trắng hơn tuyết.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "xin tẩy tôi khỏi tội"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "bằng cỏ hyssop"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "và tôi sẽ được tinh sạch"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "xin giặt tôi"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "và hơn tuyết"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "tôi sẽ trắng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:21.699851892Z",
+  "model": "glm-5.3"
+}

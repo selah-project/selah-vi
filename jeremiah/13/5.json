@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Và tôi đã đi và đã giấu nó tại Perath, như Yahweh đã phán dạy ⟨את⟩ tôi.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "và tôi đã đi"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "và tôi đã giấu nó"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "tại Perath"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "đã phán dạy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:20:15.244646078Z",
+  "model": "glm-5.3"
+}

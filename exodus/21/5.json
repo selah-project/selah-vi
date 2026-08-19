@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 21:5",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Và nếu người đầy tớ thật lòng nói: \"Tôi đã yêu chủ tôi, ⟨את⟩ vợ tôi và ⟨את⟩ con cái tôi, tôi sẽ không ra đi tự do\",",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Và nếu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "thật lòng nói"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "người đầy tớ"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "tôi đã yêu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chủ tôi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "chủ tôi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vợ tôi"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "vợ tôi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con cái tôi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái tôi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "tôi ra đi"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "tự do"
+    }
+  ],
+  "timestamp": "2026-08-19T02:33:41.177821474Z",
+  "model": "glm-5.3"
+}

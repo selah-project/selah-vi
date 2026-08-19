@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 36,
+  "translation": "Và người làm ⟨את⟩ các cây ván cho Đền Tạm bằng gỗ keo (shittim), dựng đứng.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "và người làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các cây ván"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "các cây ván"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "cho Đền Tạm"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "gỗ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "keo (shittim)"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "dựng đứng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:38:49.000692086Z",
+  "model": "glm-5.3"
+}

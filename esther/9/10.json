@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "mười con trai của Haman, con của Hamdata, kẻ áp bức người Yehudim, họ đã giết; nhưng đối với của chiếm được, họ không giơ tay ⟨את⟩ tay mình ra.",
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "mười"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con trai của"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con của"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamdata"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "kẻ áp bức"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "người Yehudim"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "họ đã giết"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "nhưng đối với của chiếm được"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "họ đã giơ ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tay mình"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "tay mình"
+    }
+  ],
+  "timestamp": "2026-08-19T05:35:42.984041421Z",
+  "model": "glm-5.3"
+}

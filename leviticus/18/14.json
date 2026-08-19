@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 18:14",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Sự trần trụi của anh em cha ngươi, ngươi không được phơi bày; đến với vợ của ⟨anh ấy⟩, ngươi không được đến gần; nàng là cô của ngươi.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "sự trần trụi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "anh em"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "cha ngươi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ngươi-phơi-bày"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến-với"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vợ của anh ấy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "ngươi-đến-gần"
+    },
+    {
+      "surface": "דדתך",
+      "gloss": "cô của ngươi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nàng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:45:19.454804756Z",
+  "model": "glm-5.3"
+}

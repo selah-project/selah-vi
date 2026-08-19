@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 105:19",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 105,
+  "translation": "Cho đến thời khắc lời ⟨của⟩ người đến — lời phán của Yahweh đã luyện lọc người.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "עת",
+      "gloss": "thời khắc"
+    },
+    {
+      "surface": "בא",
+      "gloss": "đến"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "lời của người"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "lời phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צרפתהו",
+      "gloss": "đã luyện lọc người"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:46.187804565Z",
+  "model": "glm-5.3"
+}

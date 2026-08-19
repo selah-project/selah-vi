@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 38,
+  "translation": "và ta sẽ cứu ngươi khỏi tay vua Ashshur, và ⟨את⟩ thành nầy; và ta sẽ che phủ thành nầy.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "và khỏi tay"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "ta sẽ cứu ngươi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "thành nầy"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "thành"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nầy"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "và ta sẽ che phủ"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "thành"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nầy"
+    }
+  ],
+  "timestamp": "2026-08-19T04:11:02.541790271Z",
+  "model": "glm-5.3"
+}

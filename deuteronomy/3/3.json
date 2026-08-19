@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 3:3",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và Yahweh Elohim của chúng ta đã trao vào tay chúng ta cũng ⟨את⟩ Og vua của Bashan và ⟨את⟩ toàn dân của ông; và chúng ta đánh ông ấy cho đến không chừa lại cho ông một người sống sót.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "đã trao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim của chúng ta"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "vào tay chúng ta"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cũng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Og vua của Bashan"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua của"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "toàn dân của ông"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "dân của ông"
+    },
+    {
+      "surface": "ונכהו",
+      "gloss": "và chúng ta đánh ông ấy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "không"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "chừa lại"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho ông"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "người sống sót"
+    }
+  ],
+  "timestamp": "2026-08-19T06:05:58.878097548Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Tên của cái thứ nhất là Pishon; nó là dòng bao quanh ⟨את⟩ toàn xứ Havilah, nơi có vàng.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "tên"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "của cái thứ nhất"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "Pishon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó"
+    },
+    {
+      "surface": "הסבב",
+      "gloss": "bao quanh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toàn xứ Havilah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "xứ"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "Havilah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nơi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ở đó"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "vàng"
+    }
+  ],
+  "timestamp": "2026-08-19T00:46:01.274454817Z",
+  "model": "glm-5.3"
+}

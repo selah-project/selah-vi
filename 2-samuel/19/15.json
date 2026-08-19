@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 19:15",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Và ⟨hắn⟩ nghiêng ⟨את⟩ lòng mọi người Yehuda như một người; và họ sai đến với vua rằng: Hãy trở về, ngươi và mọi tôi tớ ngươi.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "và nghiêng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lòng"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "lòng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "như một người"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "duy nhất"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "và họ sai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến với"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "hãy trở về"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "tôi tớ ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:44:58.519498989Z",
+  "model": "glm-5.3"
+}

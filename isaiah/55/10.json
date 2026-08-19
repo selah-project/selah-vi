@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 55:10",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 55,
+  "translation": "Vì như mưa và tuyết xuống từ các tầng trời, và không trở về nơi đó, nếu không làm cho đất ⟨את⟩ được uống no, và làm nó nảy sinh và nảy mầm, và cho hạt giống cho kẻ gieo, và bánh cho kẻ ăn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Vì"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "xuống"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "mưa"
+    },
+    {
+      "surface": "והשלג",
+      "gloss": "và tuyết"
+    },
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "các tầng trời"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "và về nơi đó"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "trở lại"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "không"
+    },
+    {
+      "surface": "הרוה",
+      "gloss": "làm uống no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đất"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "והולידה",
+      "gloss": "và làm nó nảy sinh"
+    },
+    {
+      "surface": "והצמיחה",
+      "gloss": "và làm nó nảy mầm"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "và cho"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "hạt giống"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "cho kẻ gieo"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "và bánh"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "cho kẻ ăn"
+    }
+  ],
+  "timestamp": "2026-08-19T06:13:29.526565191Z",
+  "model": "glm-5.3"
+}

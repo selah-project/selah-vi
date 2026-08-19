@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 7:6",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Vì tại cửa sổ nhà tôi, qua khung lưới của tôi, tôi nhìn ra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "בחלון",
+      "gloss": "tại cửa sổ"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "nhà của tôi"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "qua"
+    },
+    {
+      "surface": "אשנבי",
+      "gloss": "khung lưới của tôi"
+    },
+    {
+      "surface": "נשקפתי",
+      "gloss": "tôi nhìn ra"
+    }
+  ],
+  "timestamp": "2026-08-19T05:15:08.307372993Z",
+  "model": "glm-5.3"
+}

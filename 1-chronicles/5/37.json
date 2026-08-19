@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "và Azaryah sinh ra ⟨את⟩ Amaryah, và Amaryah sinh ⟨את⟩ Achituv.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "sinh ra"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaryah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaryah"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amaryah"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "và Amaryah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "đã sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achituv"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Achituv"
+    }
+  ],
+  "timestamp": "2026-08-19T05:47:31.466996406Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "và ⟨את⟩ cái bàn cùng ⟨את⟩ các đồ của nó, và ⟨את⟩ chân đèn tinh sạch cùng ⟨את⟩ mọi đồ của nó, và ⟨את⟩ bàn thờ xông hương.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "cái bàn"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "cái bàn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các đồ của nó"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "các đồ của nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "chân đèn"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "chân đèn"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "tinh sạch"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "mọi đồ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "đồ của nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "bàn thờ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "xông hương"
+    }
+  ],
+  "timestamp": "2026-08-19T02:36:17.851650594Z",
+  "model": "glm-5.3"
+}

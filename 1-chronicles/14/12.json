@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Và họ bỏ lại tại đó ⟨את⟩ các thần của mình; và David truyền lệnh, và chúng bị đốt trong lửa.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "Và họ bỏ lại"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tại đó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các thần của mình"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "các thần của mình"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và truyền lệnh"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "và chúng bị đốt"
+    },
+    {
+      "surface": "באש",
+      "gloss": "trong lửa"
+    }
+  ],
+  "timestamp": "2026-08-19T05:50:15.705755576Z",
+  "model": "glm-5.3"
+}

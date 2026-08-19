@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 18:30",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Và Chizkiyahu đừng để ⟨את⟩ các ngươi tin cậy vào Yahweh, mà nói: Yahweh sẽ chắc chắn cứu chúng ta, và thành này sẽ không bị giao vào tay vua Assyria.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "và đừng"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "tin cậy"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vào"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mà nói"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "chắc chắn cứu"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "sẽ cứu chúng ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "sẽ bị giao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thành này"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "thành"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "này"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "vào tay"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assyria"
+    }
+  ],
+  "timestamp": "2026-08-19T04:01:25.947030296Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 34,
+  "translation": "Của David, khi ông thay đổi lễ nghi của mình trước mặt Avimelekh, và ông đã đuổi ông đi, và ông đã đi.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Của David"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "khi ông thay đổi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lễ nghi của mình"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "lễ nghi của mình"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "và ông đã đuổi ông đi"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "và ông đã đi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:42.288779465Z",
+  "model": "glm-5.3"
+}

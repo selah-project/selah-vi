@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 12:2",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Người thiện làm ⟪nảy⟫ ra sự đẹp lòng từ nơi Yahweh, còn người mưu toan ác ⟪kẻ ấy⟫ Người tuyên bố có tội.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "người thiện"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "làm nảy ra"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "sự đẹp lòng"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "từ Yahweh"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "còn người"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "mưu toan ác"
+    },
+    {
+      "surface": "ירשיע",
+      "gloss": "tuyên bố có tội"
+    }
+  ],
+  "timestamp": "2026-08-19T05:16:23.365076512Z",
+  "model": "glm-5.3"
+}

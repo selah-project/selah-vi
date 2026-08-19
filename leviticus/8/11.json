@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Người rảy từ dầu ấy lên bàn thờ bảy lần, và xức ⟨את⟩ bàn thờ cùng ⟨את⟩ mọi dụng cụ của nó, ⟨את⟩ chậu rửa và ⟨את⟩ đế của nó, để thánh hóa chúng.",
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "và người rảy"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "từ nó"
+    },
+    {
+      "surface": "על",
+      "gloss": "lên"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "bảy"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "lần"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "và người xức"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bàn thờ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "bàn thờ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mọi dụng cụ của nó"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "dụng cụ của nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "chậu rửa"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "chậu rửa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "đế của nó"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "đế của nó"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "để thánh hóa chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:41:04.287333082Z",
+  "model": "glm-5.3"
+}

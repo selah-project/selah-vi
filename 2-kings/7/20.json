@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Và đã xảy ra cho ông như vậy: dân chúng giẫm đạp ⟨את⟩ ông tại cổng thành, và ông chết.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "và đã xảy ra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho ông"
+    },
+    {
+      "surface": "כן",
+      "gloss": "như vậy"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "và họ giẫm đạp"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ông"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân chúng"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "tại cổng"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "và ông chết"
+    }
+  ],
+  "timestamp": "2026-08-19T03:58:16.467238200Z",
+  "model": "glm-5.3"
+}

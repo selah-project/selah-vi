@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 101,
+  "translation": "Kẻ lặng lẽ gièm pha bạn mình, ⟨את⟩ kẻ đó tôi sẽ tận diệt; kẻ mắt cao ngạo và lòng rộng kiêu căng, ⟨את⟩ kẻ đó tôi không thể chịu đựng.",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "kẻ gièm pha"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "trong nơi kín đáo"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "bạn mình"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "kẻ đó"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "tôi sẽ tận diệt"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "cao ngạo"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "mắt"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "và rộng rãi"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "lòng"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kẻ đó"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "tôi chịu được"
+    }
+  ],
+  "timestamp": "2026-08-19T05:08:14.018037755Z",
+  "model": "glm-5.3"
+}

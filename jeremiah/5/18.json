@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 5:18",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Và cả trong những ngày ấy, sấm của Yahweh: ta sẽ không làm ⟨את⟩ các ngươi ⟨thành⟩ sự tận diệt.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "và cả"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "trong những ngày"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "ấy"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sấm của"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ta sẽ làm"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ các ngươi",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "sự tận diệt"
+    }
+  ],
+  "timestamp": "2026-08-19T04:18:13.229731015Z",
+  "model": "glm-5.3"
+}

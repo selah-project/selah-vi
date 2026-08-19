@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 11:10",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Nếu ⟨ngài⟩ đi qua, và giam giữ, và tập họp, thì ai sẽ khiến ⟨ngài⟩ quay lại?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "đi qua"
+    },
+    {
+      "surface": "ויסגיר",
+      "gloss": "và giam giữ"
+    },
+    {
+      "surface": "ויקהיל",
+      "gloss": "và tập họp"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "thì ai"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "sẽ khiến ngài quay lại"
+    }
+  ],
+  "timestamp": "2026-08-19T05:22:12.028181572Z",
+  "model": "glm-5.3"
+}

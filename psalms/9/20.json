@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Hãy đứng dậy, Yahweh! Chớ để loài người 得势 mãnh liệt; hãy để các dân tộc bị xét xử trước mặt Ngài.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "hãy đứng dậy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "được mạnh thế"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "loài người phàm"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "hãy để bị xét xử"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "các dân tộc"
+    },
+    {
+      "surface": "על",
+      "gloss": "trước"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "mặt Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:20.246007677Z",
+  "model": "glm-5.3"
+}

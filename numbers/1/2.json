@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 1:2",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Hãy nhấc ⟨את⟩ đầu cả hội chúng con cái Yisrael, theo họ hàng của chúng, theo nhà phụ thân của chúng, theo số các tên, mọi nam, theo từng người của chúng:",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "hãy nhấc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đầu (cả hội chúng)"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "đầu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cả"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "hội chúng"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "theo họ hàng của chúng"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "theo nhà"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "phụ thân của chúng"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "theo số"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "các tên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nam"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "theo từng người của chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:52:00.307051969Z",
+  "model": "glm-5.3"
+}

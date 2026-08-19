@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 146,
+  "translation": "Hơi thở của hắn ra đi, hắn trở về đất của mình; trong chính ngày đó mọi toan tính của hắn đều灭亡 mất.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "ra đi"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "hơi thở của hắn"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "hắn trở về"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "đến đất của hắn"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "trong ngày"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "đó"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "đều mất"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "mọi toan tính của hắn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:34.275608871Z",
+  "model": "glm-5.3"
+}

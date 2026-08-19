@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 31,
+  "translation": "Và họ lấy ⟨את⟩ xương của họ, và chôn dưới cây me tamarisk ở Yavesh, và nhịn ăn bảy ngày.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "và họ lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xương của họ"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "xương của họ"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "và họ chôn"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dưới"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "cây me tamarisk"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "ở Yavesh"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "và họ nhịn ăn"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "bảy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ngày"
+    }
+  ],
+  "timestamp": "2026-08-19T03:38:16.976428512Z",
+  "model": "glm-5.3"
+}

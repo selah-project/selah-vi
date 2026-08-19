@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 49,
+  "translation": "Lòng trong của họ ⟨nghĩ⟩: nhà cửa họ còn mãi muôn đời, chỗ ở họ từ thế hệ này sang thế hệ kia; họ lấy tên mình mà gọi các miền đất.",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "lòng trong của họ"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "nhà cửa họ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mãi muôn đời"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "chỗ ở họ"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "đến thế hệ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "và thế hệ"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "họ gọi"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "bằng tên mình"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "trên"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "các miền đất"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:49.034238479Z",
+  "model": "glm-5.3"
+}

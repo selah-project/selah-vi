@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 15:34",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Và họ giam ⟨את⟩ anh ta trong nơi canh giữ, vì chưa rõ ràng điều gì sẽ làm cho anh ta.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "họ giam lại"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "anh ta"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "trong nơi canh giữ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chưa"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "được nói rõ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "điều gì"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "sẽ làm"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho anh ta"
+    }
+  ],
+  "timestamp": "2026-08-19T02:57:26.220393836Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Achaz lấy ⟨את⟩ bạc và ⟨את⟩ vàng tìm thấy trong nhà Yahweh và trong các kho của nhà vua, rồi sai đem đến vua Ashshur làm quan tiền.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "và lấy"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bạc"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "bạc"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vàng"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "vàng"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "tìm thấy"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "và trong các kho"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "và sai đem"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "đến vua"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "làm quan tiền"
+    }
+  ],
+  "timestamp": "2026-08-19T04:00:37.644332614Z",
+  "model": "glm-5.3"
+}

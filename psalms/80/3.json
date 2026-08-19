@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 80,
+  "translation": "Trước mặt Efrayim, Binyamin, Menashe, xin đánh-thức ⟨את⟩ quyền-năng Ngài, và xin đến để cứu-giúp chúng tôi.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "và Binyamin"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "và Menashe"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "xin đánh-thức"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "quyền-năng Ngài"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "quyền-năng của Ngài"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "và xin đến"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "để cứu-giúp"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "chúng tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:31.092133819Z",
+  "model": "glm-5.3"
+}

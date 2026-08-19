@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Hãy giữ ⟨את⟩ ngày sabát để thánh hóa nó, như Yahweh Elohim của ngươi đã phán dặn ngươi.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "hãy giữ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngày"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "sabát"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "để thánh hóa nó"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "đã phán dặn ngươi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim của ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:06:08.059795765Z",
+  "model": "glm-5.3"
+}

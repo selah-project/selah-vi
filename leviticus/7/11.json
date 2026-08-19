@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Và đây là luật (torah) của tế vật shlamim mà người dâng cho Yahweh.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "và đây là"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "luật (torah) của"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "tế vật"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "shlamim (cầu bình an)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "người dâng"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "cho Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:40:35.671405122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Nếu chủ nó ở cùng nó, thì hắn không phải đền bù; nếu ⟨con vật⟩ là đồ thuê mướn, nó đến vì tiền công của nó.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "chủ của nó"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "cùng nó"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "phải đền bù"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "đồ thuê mướn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó là"
+    },
+    {
+      "surface": "בא",
+      "gloss": "đến"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "vì tiền công của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:33:46.629445799Z",
+  "model": "glm-5.3"
+}

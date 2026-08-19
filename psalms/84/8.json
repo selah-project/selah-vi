@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 84,
+  "translation": "Chúng đi từ sức mạnh này đến sức mạnh kia, sẽ hiện ra trước Elohim tại Tziyon.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "chúng đi"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "từ sức mạnh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sức mạnh"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "sẽ hiện ra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến trước"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "tại Tziyon"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:49.638956567Z",
+  "model": "glm-5.3"
+}

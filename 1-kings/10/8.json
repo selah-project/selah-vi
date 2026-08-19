@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Phước cho các người của ngài, phước cho các đầy tớ ngài, những-kẻ-nầy, đang đứng trước mặt ngài liên-liên, đang nghe ⟨את⟩ sự khôn-ngoan của ngài",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "phước cho"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "các người của ngài"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "phước cho"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "các đầy tớ ngài"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "những-kẻ-nầy"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "đang đứng"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "trước mặt ngài"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "liên-liên"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "đang nghe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sự khôn-ngoan của ngài"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "sự khôn-ngoan của ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T03:50:22.716263064Z",
+  "model": "glm-5.3"
+}

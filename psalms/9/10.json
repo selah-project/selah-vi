@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Và Yahweh sẽ là nơi trú ẩn cho người bị áp bức, nơi trú ẩn cho những lúc gian truân.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "và sẽ là"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "nơi trú ẩn (vách đá cao)"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "cho người bị áp bức"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "nơi trú ẩn"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "cho những lúc"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "trong gian truân"
+    }
+  ],
+  "timestamp": "2026-08-19T04:55:46.122159216Z",
+  "model": "glm-5.3"
+}

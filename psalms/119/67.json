@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Trước khi tôi bị khổ, chính tôi đã lầm lạc; nhưng bây giờ lời phán Ngài tôi đã giữ.",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "trước khi"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "tôi bị khổ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "chính tôi"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "đã lầm lạc"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "nhưng bây giờ"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "lời phán Ngài"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "tôi đã giữ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:45.369217215Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 38,
+  "translation": "Vì hông lưng tôi đầy sự thiêu đốt, và không còn sự lành mạnh trong thịt tôi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "hông lưng tôi"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "đầy"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "sự thiêu đốt"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "và không còn"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "sự lành mạnh"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "trong thịt tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:25.300789114Z",
+  "model": "glm-5.3"
+}

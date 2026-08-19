@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 3:19",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và Ta, Ta biết rằng vua của Mitsrayim sẽ không cho ⟨את⟩ các ngươi đi, nếu chẳng phải bởi bàn tay mạnh mẽ.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "và Ta"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "Ta biết"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "sẽ cho phép"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "đi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bởi bàn tay"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "mạnh mẽ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:28:28.997797052Z",
+  "model": "glm-5.3"
+}

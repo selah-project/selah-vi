@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 40:22",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Và ⟨ông⟩ đặt ⟨את⟩ cái bàn trong Lều Hội, phía bên của Đền Tạm về hướng bắc, bên ngoài bức màn.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "và đặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cái bàn"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "cái bàn"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "trong Lều"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Hội"
+    },
+    {
+      "surface": "על",
+      "gloss": "phía trên"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "bên sườn"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Đền Tạm"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "hướng bắc"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "bên ngoài"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "bức màn"
+    }
+  ],
+  "timestamp": "2026-08-19T02:39:19.081403692Z",
+  "model": "glm-5.3"
+}

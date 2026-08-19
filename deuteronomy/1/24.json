@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và họ quay đi, lên núi, đến thung lũng Eshcol, và thám sát nó ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "và họ quay đi"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "và lên"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "núi"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "và đến"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tới"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "thung lũng"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "Eshcol"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "và thám sát"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nó (đất)"
+    }
+  ],
+  "timestamp": "2026-08-19T03:04:26.011964857Z",
+  "model": "glm-5.3"
+}

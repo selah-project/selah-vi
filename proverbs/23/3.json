@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Đừng khao khát những món ngon của nó, vì đó ⟨là⟩ bánh của sự dối trá.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "khao khát"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "những món ngon của nó"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "vì đó"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bánh"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "của sự dối trá"
+    }
+  ],
+  "timestamp": "2026-08-19T06:19:56.280782671Z",
+  "model": "glm-5.3"
+}

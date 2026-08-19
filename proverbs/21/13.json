@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 21:13",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Kẻ bịt tai mình khỏi tiếng kêu khổ của người nghèo, chính hắn cũng sẽ kêu cầu và sẽ không được đáp.",
+  "tokens": [
+    {
+      "surface": "אטם",
+      "gloss": "bịt"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "tai mình"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "khỏi tiếng kêu"
+    },
+    {
+      "surface": "דל",
+      "gloss": "của người nghèo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cũng"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chính hắn"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "sẽ kêu cầu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "được đáp"
+    }
+  ],
+  "timestamp": "2026-08-19T05:17:57.627021991Z",
+  "model": "glm-5.3"
+}

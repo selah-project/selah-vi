@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 28:3",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "Nhưng Elohim phán với tôi: Ngươi sẽ không xây nhà cho Danh tôi, vì ngươi là người của các trận chiến, và máu ngươi đã đổ.",
+  "tokens": [
+    {
+      "surface": "והאלהים",
+      "gloss": "và Elohim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "phán"
+    },
+    {
+      "surface": "לי",
+      "gloss": "với tôi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ngươi sẽ xây"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "cho Danh tôi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "của các trận chiến"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi là"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "và các dòng máu"
+    },
+    {
+      "surface": "שפכת",
+      "gloss": "ngươi đã đổ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:53:59.853005551Z",
+  "model": "glm-5.3"
+}

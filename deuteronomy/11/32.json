@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và các ngươi hãy giữ làm ⟨את⟩ tất cả các luật lệ và ⟨את〕 các phán quyết mà ta đặt trước mặt các ngươi ngày nay.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "và các ngươi hãy giữ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả các luật lệ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "các luật lệ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "các phán quyết"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "các phán quyết"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "đang đặt (ban)"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "trước mặt các ngươi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngày nay"
+    }
+  ],
+  "timestamp": "2026-08-19T03:07:42.404157454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 35,
+  "translation": "Tất cả các thành phố mà các ngươi sẽ ban cho người Levi: bốn mươi và tám thành phố, ⟨את⟩ chúng và ⟨את⟩ các đất trống của chúng.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "các thành phố"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "các ngươi sẽ ban"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "cho người Levi"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "bốn mươi"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "và tám"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "thành phố"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "chúng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "các đất trống của chúng"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "các đất trống của chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:04:30.797956032Z",
+  "model": "glm-5.3"
+}

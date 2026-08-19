@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Hãy lắng tai, hỡi các tầng trời, thì tôi sẽ nói; và đất hãy nghe những lời từ miệng tôi.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "hãy lắng tai"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "các tầng trời"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "thì tôi sẽ nói"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "và hãy nghe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "những lời"
+    },
+    {
+      "surface": "פי",
+      "gloss": "từ miệng tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:13:53.255795316Z",
+  "model": "glm-5.3"
+}

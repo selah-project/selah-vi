@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 2:3",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và Ta cũng đã phán: Ta sẽ không đuổi ⟨את⟩ họ khỏi trước mặt các ngươi; họ sẽ thành kẻ đánh bên sườn các ngươi, và các thần của họ sẽ thành bẫy cho các ngươi.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "và cũng"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "Ta đã phán"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "אגרש",
+      "gloss": "Ta sẽ đuổi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ họ",
+      "marks": "họ (đuổi khỏi trước mặt các ngươi)"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "khỏi trước mặt các ngươi"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "và họ sẽ thành"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho các ngươi"
+    },
+    {
+      "surface": "לצדים",
+      "gloss": "kẻ đánh bên sườn"
+    },
+    {
+      "surface": "ואלהיהם",
+      "gloss": "và các thần của họ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "sẽ thành"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho các ngươi"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "bẫy"
+    }
+  ],
+  "timestamp": "2026-08-19T03:22:25.682002129Z",
+  "model": "glm-5.3"
+}

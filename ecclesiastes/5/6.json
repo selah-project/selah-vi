@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Vì trong sự đông đảo của những giấc mơ và những điều hư không cùng nhiều lời, thì ⟨hãy⟩ kính sợ ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "trong sự đông đảo"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "những giấc mơ"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "và những điều hư không"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "và nhiều lời"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "đông đảo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "thì"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "kính sợ"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:53.788857929Z",
+  "model": "glm-5.3"
+}

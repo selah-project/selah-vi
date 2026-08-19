@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Tôi sẽ kể ra ⟨את⟩ luật định: Yahweh đã phán với tôi: \"Con trai ⟨của⟩ Ta là ngươi, ta hôm nay đã sinh ra ngươi.\"",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "tôi sẽ kể ra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "về"
+    },
+    {
+      "surface": "חק",
+      "gloss": "⟨את⟩ luật định"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "đã phán"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "với tôi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con trai ⟨của⟩ Ta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "là ngươi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ta"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hôm nay"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "đã sinh ra ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T06:17:11.990691695Z",
+  "model": "glm-5.3"
+}

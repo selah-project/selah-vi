@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 15:13",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Shemuel đến với Shaül, và Shaül nói với ông: Ngài được Yahweh ban phước; tôi đã hoàn thành ⟨את⟩ lời của Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "đến"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaül"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "לו",
+      "gloss": "với ông"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaül"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "được ban phước"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngài"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bởi Yahweh"
+    },
+    {
+      "surface": "הקימתי",
+      "gloss": "tôi đã hoàn thành"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lời"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lời"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "của Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T03:33:50.336070888Z",
+  "model": "glm-5.3"
+}

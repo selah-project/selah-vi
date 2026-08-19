@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 118:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 118,
+  "translation": "Yahweh ⟨vì⟩ tôi trong những người giúp tôi, và tôi sẽ nhìn thấy ⟨điều⟩ trên những kẻ ghét tôi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨vì⟩ tôi"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "giữa những người giúp tôi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "và tôi"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "tôi sẽ nhìn thấy"
+    },
+    {
+      "surface": "בשנאי",
+      "gloss": "⟨trên⟩ những kẻ ghét tôi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:12.031432315Z",
+  "model": "glm-5.3"
+}

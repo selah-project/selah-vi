@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 15:8",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 15,
+  "translation": "Và Aviyam nằm xuống với các tổ phụ ông, và họ chôn ⟨את⟩ ông trong thành David; và Asa con ông làm vua thay ông.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "và nằm xuống"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "Aviyam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "với"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "các tổ phụ ông"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "và họ chôn"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ông (trong thành David)"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "trong thành"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "và làm vua"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "con ông"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "thay ông"
+    }
+  ],
+  "timestamp": "2026-08-19T03:52:35.614793754Z",
+  "model": "glm-5.3"
+}

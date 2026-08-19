@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 11:12",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Há tôi thụ thai ⟨את⟩ toàn bộ dân này sao? Há tôi đã sinh nó ra sao, mà Ngài phán với tôi: Hãy bồng nó trong lòng ngươi, như người nuôi con bồng ⟨את⟩ đứa bú, trên đất mà Ngài đã thề với tổ phụ nó?",
+  "tokens": [
+    {
+      "surface": "האנכי",
+      "gloss": "há tôi"
+    },
+    {
+      "surface": "הריתי",
+      "gloss": "thụ thai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toàn bộ dân này"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn bộ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hay là"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "ילדתיהו",
+      "gloss": "sinh nó ra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mà"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "Ngài phán"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "với tôi"
+    },
+    {
+      "surface": "שאהו",
+      "gloss": "hãy bồng nó"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "trong lòng ngươi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "bồng"
+    },
+    {
+      "surface": "האמן",
+      "gloss": "người nuôi con"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đứa bú"
+    },
+    {
+      "surface": "הינק",
+      "gloss": "đứa bú"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "đất"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "Ngài đã thề"
+    },
+    {
+      "surface": "לאבתיו",
+      "gloss": "với tổ phụ nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:55:48.374953137Z",
+  "model": "glm-5.3"
+}

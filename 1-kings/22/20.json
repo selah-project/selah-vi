@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Và Yahweh phán: Ai sẽ dụ dỗ ⟨את⟩ Ach'av để ⟨y⟩ lên đi và ngã xuống tại Ramot Gil'ad? Kẻ này nói kiểu này, kẻ kia nói kiểu nọ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "sẽ dụ dỗ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ach'av"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ach'av"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "và lên đi"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "và ngã xuống"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "tại Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gil'ad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kẻ này"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "kiểu này"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "và kẻ kia"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "kiểu nọ"
+    }
+  ],
+  "timestamp": "2026-08-19T03:55:43.964764667Z",
+  "model": "glm-5.3"
+}

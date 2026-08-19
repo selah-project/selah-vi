@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 135,
+  "translation": "Tai chúng có, nhưng chúng không nghe; 〈vâng〉, không có hơi thở trong miệng chúng.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "tai"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chúng có"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nhưng không"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "nghe"
+    },
+    {
+      "surface": "אף",
+      "gloss": "vâng"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨có⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "hơi thở"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "trong miệng chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T06:19:07.982393351Z",
+  "model": "glm-5.3"
+}

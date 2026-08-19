@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 143,
+  "translation": "Xin đừng vào xét đoán cùng ⟨את⟩ tôi tớ của Ngài, vì không ai sống sẽ được xưng công chính trước nhan Ngài.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "và đừng"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "vào"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "trong sự xét đoán"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tôi tớ của Ngài"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tôi tớ của Ngài"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "được xưng công chính"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "trước nhan Ngài"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "người sống"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:02.421061612Z",
+  "model": "glm-5.3"
+}

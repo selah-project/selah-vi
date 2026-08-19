@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và Ta sẽ cất bỏ ⟨את⟩ các tên của các Baalim khỏi miệng nàng, và chúng sẽ không còn được nhắc tới bằng tên của chúng nữa.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "và Ta sẽ cất bỏ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các tên của các Baalim"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "các tên"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "của các Baalim"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "khỏi miệng nàng"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "được nhắc tới"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nữa"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "bằng tên của chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:44:43.660966940Z",
+  "model": "glm-5.3"
+}

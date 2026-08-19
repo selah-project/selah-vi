@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 73,
+  "translation": "Như giấc mơ khi người ta thức dậy, Adonai ơi, khi Ngài thức tỉnh, Ngài sẽ khinh miệt hình bóng của họ.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "như giấc mơ"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "khi người ta thức dậy"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "khi Ngài thức tỉnh"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "hình bóng của họ"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "Ngài sẽ khinh miệt"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:11.094843272Z",
+  "model": "glm-5.3"
+}

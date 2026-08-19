@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và ông nói: Ôi Adonai, xin hãy gửi đi, bởi bàn tay ⟨của người⟩ mà ngài sẽ gửi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và ông nói"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ôi, xin"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "hãy gửi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xin"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "bởi bàn tay"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "ngài sẽ gửi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:28:35.024549932Z",
+  "model": "glm-5.3"
+}

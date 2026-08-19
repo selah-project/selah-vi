@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 7:4",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 7,
+  "translation": "Nếu tôi nằm xuống thì tôi nói: Khi nào tôi mới dậy? rồi đo tối lại, và tôi no nê những giấc trằn trọc cho tới lúc rạng sương.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "tôi nằm xuống"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "và tôi nói"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "khi nào"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "tôi mới dậy"
+    },
+    {
+      "surface": "ומדד",
+      "gloss": "và đo"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "buổi tối"
+    },
+    {
+      "surface": "ושבעתי",
+      "gloss": "và tôi no nê"
+    },
+    {
+      "surface": "נדדים",
+      "gloss": "những giấc trằn trọc"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "cho tới"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "lúc rạng sương"
+    }
+  ],
+  "timestamp": "2026-08-19T05:21:38.661008773Z",
+  "model": "glm-5.3"
+}

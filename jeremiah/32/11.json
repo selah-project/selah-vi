@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 32:11",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Và tôi lấy ⟨את⟩ sách mua bán — ⟨את⟩ bản niêm phong, ⟨the⟩ điều lệ và ⟨the⟩ quy định, và ⟨את⟩ bản công khai —",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "và tôi lấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sách mua bán"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "sách"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "mua bán"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bản niêm phong"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "bản niêm phong"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "điều lệ"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "và quy định"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "bản công khai"
+    },
+    {
+      "surface": "הגלוי",
+      "gloss": "bản công khai"
+    }
+  ],
+  "timestamp": "2026-08-19T04:24:52.096308050Z",
+  "model": "glm-5.3"
+}

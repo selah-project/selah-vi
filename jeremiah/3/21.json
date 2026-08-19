@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 3:21",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Một tiếng trên những đồi trọc được nghe, tiếng khóc lóc cùng những lời khẩn cầu của con cái Israel, vì chúng đã làm quặt ⟨את⟩ con đường mình, đã quên ⟨את⟩ Yahweh Elohim của mình.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "một tiếng"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "những đồi trọc"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "được nghe"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "khóc lóc"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "những lời khẩn cầu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "העוו",
+      "gloss": "đã làm quặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con đường mình"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "con đường mình"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "đã quên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Elohim của mình"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim của mình"
+    }
+  ],
+  "timestamp": "2026-08-19T04:17:38.996354983Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Và người sẽ vẫy ⟨את⟩ bó lúa trước mặt Yahweh để các ngươi được đẹp lòng; ngày mai sau ngày sabát, thầy tế lễ sẽ vẫy nó.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "và người sẽ vẫy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bó lúa"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "bó lúa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "để các ngươi được đẹp lòng"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ngày mai sau"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ngày sabát"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "thầy tế lễ sẽ vẫy nó"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "thầy tế lễ"
+    }
+  ],
+  "timestamp": "2026-08-19T02:46:30.778173706Z",
+  "model": "glm-5.3"
+}

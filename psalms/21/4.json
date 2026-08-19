@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Vì Ngài đón trước hắn với phước lành của điều tốt; Ngài đặt trên đầu hắn vương miện vàng ròng.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "Ngài đón trước hắn"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "với phước lành"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "của điều tốt"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "Ngài đặt"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "trên đầu hắn"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "vương miện"
+    },
+    {
+      "surface": "פז",
+      "gloss": "vàng ròng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:21.679023951Z",
+  "model": "glm-5.3"
+}

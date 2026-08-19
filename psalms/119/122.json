@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 122,
+  "ref": "psalms 119:122",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 119,
+  "translation": "Hãy làm bảo chứng cho ⟨את⟩ tôi tớ Ngài ⟨vì⟩ sự lành; chớ để những kẻ kiêu ngạo áp bức tôi.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "làm bảo chứng"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tôi tớ của Ngài"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "cho sự lành"
+    },
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "יעשקני",
+      "gloss": "áp bức tôi"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "những kẻ kiêu ngạo"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:23.670795970Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 18:9",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 18,
+  "translation": "Khói bay lên trong lỗ mũi Ngài, và lửa từ miệng Ngài ⟨đã⟩ nuốt chửng; than hồng cháy bừng từ Ngài.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "đã bay lên"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "khói"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "trong lỗ mũi Ngài"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "và lửa"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "từ miệng Ngài"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "nuốt chửng"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "than hồng"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "đã cháy bừng"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "từ Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T04:56:26.544173310Z",
+  "model": "glm-5.3"
+}

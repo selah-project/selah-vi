@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 61:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 61,
+  "translation": "Vì ngươi, hỡi Elohim, đã nghe lời khấn nguyện của tôi; ngươi đã ban sản nghiệp cho những kẻ kính sợ danh ngươi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "đã nghe"
+    },
+    {
+      "surface": "לנדרי",
+      "gloss": "lời khấn nguyện của tôi"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "đã ban"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "sản nghiệp"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "những kẻ kính sợ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "danh ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:44.019646391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 9,
+  "translation": "Mọi vật bò trườn, vốn ⟨nó⟩ sống, sẽ thuộc về các ngươi làm thức ăn; như rau xanh ta đã ban ⟨את⟩ mọi điều cho các ngươi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "vật bò trườn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vốn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨nó⟩"
+    },
+    {
+      "surface": "חי",
+      "gloss": "sống"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho các ngươi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sẽ thuộc về"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "làm thức ăn"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "như rau"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "xanh"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ta đã ban"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "cho các ngươi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi điều"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi điều"
+    }
+  ],
+  "timestamp": "2026-08-19T02:24:01.827887085Z",
+  "model": "glm-5.3"
+}

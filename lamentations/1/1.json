@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 1:1",
+  "book": "lamentations",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Ôi sao ⟨thành phố⟩ đông dân ấy lại ngồi một mình nơi cô độc! ⟨Nàng⟩ đã trở nên như goá phụ, ⟨nàng⟩ từng vĩ đại giữa các dân tộc, từng là công chúa giữa các tỉnh, nay đã thành ⟨kẻ⟩ cống nộp!",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "ôi sao"
+    },
+    {
+      "surface": "ישבה",
+      "gloss": "ngồi"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "một mình nơi cô độc"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "thành phố"
+    },
+    {
+      "surface": "רבתי",
+      "gloss": "đông vnode"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "đã trở nên"
+    },
+    {
+      "surface": "כאלמנה",
+      "gloss": "như goá phụ"
+    },
+    {
+      "surface": "רבתי",
+      "gloss": "vĩ đại"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "giữa các dân tộc"
+    },
+    {
+      "surface": "שרתי",
+      "gloss": "công chúa"
+    },
+    {
+      "surface": "במדינות",
+      "gloss": "giữa các tỉnh"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "đã thành"
+    },
+    {
+      "surface": "למס",
+      "gloss": "kẻ cống nộp"
+    }
+  ],
+  "timestamp": "2026-08-19T05:30:38.474174503Z",
+  "model": "glm-5.3"
+}

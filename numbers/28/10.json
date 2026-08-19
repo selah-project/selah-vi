@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 28:10",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 28,
+  "translation": "là lễ thiêu của ngày Sa-bát, tại Sa-bát của nó, cùng với lễ thiêu thường trực và lễ quán của nó.",
+  "tokens": [
+    {
+      "surface": "עלת",
+      "gloss": "lễ thiêu"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "của Sa-bát"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "trong Sa-bát của nó"
+    },
+    {
+      "surface": "על",
+      "gloss": "cùng với"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "lễ thiêu"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "thường trực"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "và lễ quán của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T03:01:19.221803183Z",
+  "model": "glm-5.3"
+}

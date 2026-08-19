@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 4:5",
+  "book": "lamentations",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Những kẻ ⟨đã⟩ ăn món ngon nay tiêu điều giữa phố phường; những kẻ được nuôi trên điều đỏ tía nay ôm lấy đống rác.",
+  "tokens": [
+    {
+      "surface": "האכלים",
+      "gloss": "những kẻ ăn"
+    },
+    {
+      "surface": "למעדנים",
+      "gloss": "món ngon"
+    },
+    {
+      "surface": "נשמו",
+      "gloss": "tiêu điều"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "giữa phố phường"
+    },
+    {
+      "surface": "האמנים",
+      "gloss": "những kẻ được nuôi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "trên"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "điều đỏ tía (tằm đỏ)"
+    },
+    {
+      "surface": "חבקו",
+      "gloss": "ôm lấy"
+    },
+    {
+      "surface": "אשפתות",
+      "gloss": "đống rác"
+    }
+  ],
+  "timestamp": "2026-08-19T05:31:21.065809571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "Ngươi không được lấy lãi đối với anh em ngươi: lãi bạc, lãi lương thực, lãi mọi thứ vật mà người ta lấy lãi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "ngươi lấy lãi"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "đối với anh em ngươi"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "lãi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "bạc"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "lãi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "lương thực"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "lãi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "thứ vật"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "người ta lấy lãi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:11:12.165932052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Người làm hai keruvim bằng vàng, chạm nổi bằng búa — người làm ⟨אתם⟩ chúng tại hai đầu của nắp thiêng.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "người làm"
+    },
+    {
+      "surface": "שני",
+      "gloss": "hai"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "keruvim"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bằng vàng"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "chạm nổi bằng búa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "người làm"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "chúng"
+    },
+    {
+      "surface": "משני",
+      "gloss": "tại hai"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "đầu"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "của nắp thiêng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:38:03.586999170Z",
+  "model": "glm-5.3"
+}

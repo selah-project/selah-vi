@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và mặt trời mọc, và mặt trời lặn, và nó thở dốc hướng về nơi nó mọc — nó đang ở đó.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "và mọc"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "mặt trời"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "và lặn"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "mặt trời"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và về"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "nơi của nó"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "thở dốc"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "nơi mọc"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ở đó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:32:31.306476763Z",
+  "model": "glm-5.3"
+}

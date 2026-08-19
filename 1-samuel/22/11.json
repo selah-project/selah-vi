@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 22:11",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Và vị vua sai người đi gọi ⟨את⟩ Achimelech con của Achituv, vị tế lễ, và ⟨את⟩ toàn thể nhà của cha ông — các tế lễ ở Nob — và tất cả họ đến với vị vua.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "và sai"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vị vua"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "để gọi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achimelech con của Achituv"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achimelech"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "Achituv"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "vị tế lễ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "toàn thể nhà của cha ông"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "cha ông"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "các tế lễ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ở"
+    },
+    {
+      "surface": "בנב",
+      "gloss": "tại Nob"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "và đến"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "tất cả họ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vị vua"
+    }
+  ],
+  "timestamp": "2026-08-19T03:35:49.126309769Z",
+  "model": "glm-5.3"
+}

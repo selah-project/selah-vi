@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 74,
+  "translation": "Người ta được biết như kẻ đưa lên cao — trong bụi rậm cây — những lưỡi rìu.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "được biết ra"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "như kẻ đưa lên"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "lên cao"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "trong bụi rậm"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "cây"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "những lưỡi rìu"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:23.046723177Z",
+  "model": "glm-5.3"
+}

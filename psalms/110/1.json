@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 110,
+  "translation": "Thuộc về Dawid, một mizmor. Sấm ngôn của Yahweh cho Adonai tôi: Hãy ngồi bên phải Ta, cho đến khi Ta đặt kẻ thù ngươi làm bệ chân cho chân ngươi.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "thuộc về Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "một mizmor"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sấm ngôn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "cho Adonai tôi"
+    },
+    {
+      "surface": "שב",
+      "gloss": "hãy ngồi"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "bên phải Ta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến khi"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "Ta đặt"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "kẻ thù ngươi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "bệ chân"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "cho chân ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:10:04.814086108Z",
+  "model": "glm-5.3"
+}

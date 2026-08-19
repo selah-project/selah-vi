@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Và họ sẽ đáp và nói: Tay chúng tôi không đổ ⟨את⟩ máu này, và mắt chúng tôi không thấy.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "và họ sẽ đáp"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "tay chúng tôi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "đổ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "máu này"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "máu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "và mắt chúng tôi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "thấy"
+    }
+  ],
+  "timestamp": "2026-08-19T03:09:54.738645035Z",
+  "model": "glm-5.3"
+}

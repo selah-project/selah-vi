@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Và Yoyada sinh ⟨את⟩ Yonatan; Yonatan sinh ⟨את⟩ Yaddua.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "và Yoyada"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "sinh ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "và Yonatan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "sinh ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaddua"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Yaddua"
+    }
+  ],
+  "timestamp": "2026-08-19T05:45:59.549399593Z",
+  "model": "glm-5.3"
+}

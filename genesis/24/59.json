@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "genesis 24:59",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Và họ cho đi ⟨את⟩ Rivqah em gái mình, và ⟨את⟩ vú nuôi nàng, và ⟨את⟩ đầy tớ của Avraham, và ⟨את⟩ người của ông.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "và họ cho đi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivqah"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivqah"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "em gái mình"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vú nuôi nàng"
+    },
+    {
+      "surface": "מנקתה",
+      "gloss": "vú nuôi nàng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "đầy tớ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "đầy tớ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "người của ông"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "người của ông"
+    }
+  ],
+  "timestamp": "2026-08-19T01:06:11.340366559Z",
+  "model": "glm-5.3"
+}

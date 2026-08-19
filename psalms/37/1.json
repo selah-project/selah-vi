@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Của David. Đừng nóng giận ⟨vì⟩ kẻ làm ác, đừng ghen tị ⟨vì⟩ những kẻ hành động bất công.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Của David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "nóng giận"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "⟨vì⟩ kẻ làm ác"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "ghen tị"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "⟨vì⟩ những kẻ hành động"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "bất công"
+    }
+  ],
+  "timestamp": "2026-08-19T04:59:07.072707139Z",
+  "model": "glm-5.3"
+}

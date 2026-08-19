@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "vi",
+  "chapter": 32,
+  "translation": "Còn Elihu đã chờ đợi ⟨את⟩ Iyov bằng lời nói, vì chúng già hơn ⟨hắn⟩ về số ngày.",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "còn Elihu"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "đã chờ đợi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyov"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "bằng lời nói"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "già"
+    },
+    {
+      "surface": "המה",
+      "gloss": "chúng"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "hơn hắn"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "về số ngày"
+    }
+  ],
+  "timestamp": "2026-08-19T05:26:25.317808752Z",
+  "model": "glm-5.3"
+}

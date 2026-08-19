@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 37,
+  "translation": "Và người làm các cây đòn bằng gỗ keo (shitim), và bọc ⟨אתם⟩ chúng bằng vàng.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "và làm"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "các cây đòn"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "gỗ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "keo (shitim)"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "và bọc"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "các cây đòn"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "vàng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:38:31.513570550Z",
+  "model": "glm-5.3"
+}

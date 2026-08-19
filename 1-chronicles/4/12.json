@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và Eshton sinh ⟨את⟩ Beit-Rafa, và ⟨את⟩ Paseakh, và ⟨את⟩ Tekhinnah, cha của Ir-Nakhash; những người này là người của Rekha.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "và Eshton"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "sinh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beit-Rafa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "-Rafa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Paseakh"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paseakh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tekhinnah"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "Tekhinnah"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "cha của"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ir"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "-Nakhash"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "những người này"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "người của"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "Rekha"
+    }
+  ],
+  "timestamp": "2026-08-19T05:47:51.128030872Z",
+  "model": "glm-5.3"
+}

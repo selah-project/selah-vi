@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 4:3",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 4,
+  "translation": "Và hình tượng bò nằm dưới nó, vòng quanh khắp nơi, bao lấy ⟨את nó⟩ mười con mỗi amma, vây quanh ⟨את⟩ Biển xung quanh — bò đúc theo hai hàng khi đúc nó.",
+  "tokens": [
+    {
+      "surface": "ודמות",
+      "gloss": "và hình tượng"
+    },
+    {
+      "surface": "בקרים",
+      "gloss": "các con bò"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dưới"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nó"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "vòng quanh"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "khắp nơi"
+    },
+    {
+      "surface": "סובבים",
+      "gloss": "bao lấy"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את nó⟩",
+      "marks": "nó"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mười"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "mỗi amma"
+    },
+    {
+      "surface": "מקיפים",
+      "gloss": "vây quanh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Biển"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Biển"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "xung quanh"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "hai"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "hàng"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "các con bò"
+    },
+    {
+      "surface": "יצוקים",
+      "gloss": "đúc"
+    },
+    {
+      "surface": "במצקתו",
+      "gloss": "khi đúc nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:54:58.446300154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "và ⟨את⟩ Kedemot và ⟨את⟩ đất đồng của nó, và ⟨את⟩ Meyphaat và ⟨את⟩ đất đồng của nó.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Kedemot"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Kedemot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "đất đồng của nó"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "đất đồng của nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Meyphaat"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Meyphaat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "đất đồng của nó"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "đất đồng của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T05:48:39.551973146Z",
+  "model": "glm-5.3"
+}

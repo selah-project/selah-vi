@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 12:2",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Ngài đã trồng họ, và họ đã bén-rễ; họ lớn-lên, và họ đã ra trái; Ngài gần trong miệng họ, nhưng xa khỏi tấm-lòng họ.",
+  "tokens": [
+    {
+      "surface": "נטעתם",
+      "gloss": "Ngài đã trồng họ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "và\/cả"
+    },
+    {
+      "surface": "שרשו",
+      "gloss": "họ đã bén-rễ"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "họ tiến-lên"
+    },
+    {
+      "surface": "גם",
+      "gloss": "và\/cả"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "họ đã làm ra"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "trái"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "gần"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "trong miệng họ"
+    },
+    {
+      "surface": "ורחוק",
+      "gloss": "và xa"
+    },
+    {
+      "surface": "מכליותיהם",
+      "gloss": "khỏi tấm-lòng (thận) họ"
+    }
+  ],
+  "timestamp": "2026-08-19T04:20:02.227495265Z",
+  "model": "glm-5.3"
+}

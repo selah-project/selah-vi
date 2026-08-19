@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và Moshe kiểm điểm ⟨אתם⟩ họ theo miệng Yahweh, như đã được truyền lệnh.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "và ông kiểm điểm"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "họ (con cái Levi)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "על",
+      "gloss": "theo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "miệng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "đã được truyền lệnh"
+    }
+  ],
+  "timestamp": "2026-08-19T02:52:39.504329127Z",
+  "model": "glm-5.3"
+}

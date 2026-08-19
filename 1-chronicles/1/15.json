@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "và ⟨את⟩ người Chivi, và ⟨את⟩ người Arki, và ⟨את⟩ người Sini.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người Chivi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "người Chivi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người Arki"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "người Arki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "người Sini"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "người Sini"
+    }
+  ],
+  "timestamp": "2026-08-19T05:46:36.399141893Z",
+  "model": "glm-5.3"
+}

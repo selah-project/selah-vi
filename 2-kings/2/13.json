@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 2:13",
+  "book": "2-kings",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Người nhấc lên ⟨את⟩ áo choàng của Eliyahu vốn rơi xuống khỏi ông, và ông quay lại, đứng trên bờ sông Yarden.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "người nhấc lên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "áo choàng của Eliyahu"
+    },
+    {
+      "surface": "אדרת",
+      "gloss": "áo choàng"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vốn"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "rơi xuống"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "khỏi ông"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "và quay lại"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "đứng"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "bờ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sông Yarden"
+    }
+  ],
+  "timestamp": "2026-08-19T03:56:11.992332531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Vậy David làm đúng như Eloheim đã phán dặn ông; và họ đánh ⟨את⟩ trại quân Philistim từ Gibeon cho đến Gezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "vậy ông làm"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "đúng như"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "đã phán dặn ông"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "và họ đánh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trại quân Philistim"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "trại quân"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Philistim"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "từ Gibeon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-08-19T06:21:58.246940601Z",
+  "model": "glm-5.3"
+}

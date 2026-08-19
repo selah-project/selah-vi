@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 134,
+  "translation": "Bài hát lên đền. Này, hãy chúc phúc ⟨את⟩ Yahweh, hết thảy tôi tớ của Yahweh, là những người đứng trong nhà Yahweh ban đêm.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "bài hát"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "lên đền"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "này"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "hãy chúc phúc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hết thảy"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "tôi tớ của"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "những người đứng"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "trong nhà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "vào những đêm"
+    }
+  ],
+  "timestamp": "2026-08-19T05:11:48.333562794Z",
+  "model": "glm-5.3"
+}

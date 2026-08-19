@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 86,
+  "translation": "Hãy làm vui lòng mạng sống tôi tớ Ngài, vì con ngước mạng sống con lên cùng Ngài, Adonai.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "hãy làm vui"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mạng sống"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "của tôi tớ Ngài"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "lên cùng Ngài"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mạng sống con"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "con ngước lên"
+    }
+  ],
+  "timestamp": "2026-08-19T05:06:39.617854225Z",
+  "model": "glm-5.3"
+}

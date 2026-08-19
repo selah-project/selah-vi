@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 105,
+  "translation": "Ngài phán, và ruồi trâu đến, rận khắp toàn bờ cõi của chúng.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ngài phán"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "và... đến"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ruồi trâu"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "rận"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "khắp toàn"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "bờ cõi của chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:06.493719851Z",
+  "model": "glm-5.3"
+}

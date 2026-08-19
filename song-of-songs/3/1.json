@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 3:1",
+  "book": "song-of-songs",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Trên giường tôi, trong những đêm, tôi đã tìm ⟨את⟩ đấng mà linh hồn tôi yêu; tôi đã tìm người mà không tìm thấy.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "giường tôi"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "trong những đêm"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "tôi đã tìm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đấng mà linh hồn tôi yêu"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "đấng mà"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "linh hồn tôi"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "tôi đã tìm người"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mà không"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "tìm thấy người"
+    }
+  ],
+  "timestamp": "2026-08-19T05:29:08.354187900Z",
+  "model": "glm-5.3"
+}

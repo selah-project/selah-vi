@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 22:11",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Này, dân sự ⟨the⟩ đang ra khỏi Mitzrayim và nó đã che ⟨את⟩ mắt của ⟨ה⟩ đất; bây giờ hãy đến, nguyền rủa nó cho ta; có lẽ ta có thể chiến đấu chống nó và ta sẽ đuổi nó đi.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "này"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân sự"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "đang ra khỏi"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "và đã che"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mắt của đất"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mắt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "bây giờ"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "hãy đến"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "nguyền rủa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "cho ta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nó (dân sự)"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "có lẽ"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ta có thể"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "chiến đấu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "chống nó"
+    },
+    {
+      "surface": "וגרשתיו",
+      "gloss": "và ta sẽ đuổi nó đi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:59:40.913681010Z",
+  "model": "glm-5.3"
+}

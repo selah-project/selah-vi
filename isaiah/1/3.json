@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Bò biết chủ sở hữu của nó, và lừa biết máng cỏ của chủ nó; Yisrael không biết, dân Ta không hiểu biết.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "biết"
+    },
+    {
+      "surface": "שור",
+      "gloss": "bò"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "chủ sở hữu của nó"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "và lừa"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "máng cỏ"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "của chủ nó"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "biết"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "dân Ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "hiểu biết"
+    }
+  ],
+  "timestamp": "2026-08-19T04:03:37.888492961Z",
+  "model": "glm-5.3"
+}

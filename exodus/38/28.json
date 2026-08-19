@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 38:28",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 38,
+  "translation": "Và ⟨với⟩ một ngàn và bảy trăm và năm và bảy mươi ⟨shekel⟩ thì làm các móc cho các cây cột, và phủ bạc các đầu của chúng, và làm đai khít ⟨אתם⟩ cho chúng.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "một ngàn... bảy mươi (shekel)"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "một ngàn"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "và bảy"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "trăm"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "và năm"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "và bảy mươi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "thì làm"
+    },
+    {
+      "surface": "ווים",
+      "gloss": "các móc"
+    },
+    {
+      "surface": "לעמודים",
+      "gloss": "cho các cây cột"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "và phủ bạc"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "các đầu của chúng"
+    },
+    {
+      "surface": "וחשק",
+      "gloss": "và làm đai khít"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "chúng (các cột)"
+    }
+  ],
+  "timestamp": "2026-08-19T02:38:51.249667616Z",
+  "model": "glm-5.3"
+}

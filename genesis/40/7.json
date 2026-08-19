@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 40:7",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 40,
+  "translation": "Và Yosef hỏi ⟨את⟩ các quan thái giám của Paroh, là những người ở với ⟨את⟩-người trong nơi giam giữ nhà chủ của mình, rằng: Sao hôm nay mặt các ngươi buồn bã?",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "và-hỏi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các quan thái giám của Paroh"
+    },
+    {
+      "surface": "סריסי",
+      "gloss": "các quan thái giám"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "là những người"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ với"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "trong nơi giam giữ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "chủ của mình"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "sao"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "mặt các ngươi"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "buồn bã"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hôm nay"
+    }
+  ],
+  "timestamp": "2026-08-19T01:26:10.807852290Z",
+  "model": "glm-5.3"
+}

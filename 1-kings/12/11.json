@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 12,
+  "translation": "Và nay, cha ta đã chất lên các ngươi một cái ách nặng, còn ta sẽ thêm vào cái ách các ngươi; cha ta đã sửa phạt ⟨את⟩ các ngươi bằng roi da, còn ta sẽ sửa phạt ⟨את⟩ các ngươi bằng bọ cạp.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "và nay"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "cha ta"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "đã chất lên"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "trên các ngươi"
+    },
+    {
+      "surface": "על",
+      "gloss": "một cái ách"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "nặng"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "còn ta"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "sẽ thêm"
+    },
+    {
+      "surface": "על",
+      "gloss": "vào"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "cái ách các ngươi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "cha ta"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "đã sửa phạt"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ các ngươi",
+      "marks": "bằng roi da"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "bằng roi da"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "còn ta"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "sẽ sửa phạt"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ các ngươi",
+      "marks": "bằng bọ cạp"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "bằng bọ cạp"
+    }
+  ],
+  "timestamp": "2026-08-19T03:51:49.814606899Z",
+  "model": "glm-5.3"
+}

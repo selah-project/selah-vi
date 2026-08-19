@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 42,
+  "translation": "Và con cháu Yisrael đến để mua lúa trong số những kẻ đến, vì cơn đói đã có trong đất Kenaan.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "và đã đến"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cháu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "để mua lúa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "những kẻ đến"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "היה",
+      "gloss": "đã có"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "cơn đói"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trong đất"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-19T06:03:18.684126862Z",
+  "model": "glm-5.3"
+}

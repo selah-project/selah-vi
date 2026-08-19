@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-samuel 14:29",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 14,
+  "translation": "Và Yonatan nói: Cha tôi đã làm rối loạn ⟨את⟩ xứ; hãy nhìn xem, vì mắt tôi đã sáng lên, vì tôi đã nếm chút mật ong này.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "làm rối loạn"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "cha tôi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xứ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "xứ"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "hãy nhìn"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xem náo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "ארו",
+      "gloss": "đã sáng lên"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mắt tôi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "טעמתי",
+      "gloss": "tôi đã nếm"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "chút"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "mật ong"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    }
+  ],
+  "timestamp": "2026-08-19T03:33:01.128351776Z",
+  "model": "glm-5.3"
+}

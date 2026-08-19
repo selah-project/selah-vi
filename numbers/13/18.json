@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 13:18",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "và các ngươi hãy xem ⟨את⟩ đất — nó ⟨is⟩ gì — và ⟨את⟩ dân đang cư ngụ trên nó: nó mạnh hay yếu, nó ít hay nhiều?",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "và-các-ngươi-hãy-xem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đất"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gì"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và-⟨את⟩",
+      "marks": "dân"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "đang-cư-ngụ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "trên-nó"
+    },
+    {
+      "surface": "החזק",
+      "gloss": "mạnh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó"
+    },
+    {
+      "surface": "הרפה",
+      "gloss": "hay-yếu"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "ít"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nó"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hay"
+    },
+    {
+      "surface": "רב",
+      "gloss": "nhiều"
+    }
+  ],
+  "timestamp": "2026-08-19T02:56:49.549456005Z",
+  "model": "glm-5.3"
+}

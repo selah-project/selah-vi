@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 33,
+  "translation": "Yahweh yêu sự công bình và sự đoán phạt; ⟨và⟩ ⟨và⟩ sự nhân từ của Ngài đầy tràn cả đất.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "yêu"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "sự công bình"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "và sự đoán phạt"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "sự nhân từ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "đầy tràn"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "cả đất"
+    }
+  ],
+  "timestamp": "2026-08-19T04:58:33.395167123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 11:43",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Đừng làm cho ⟨את⟩ các linh hồn các ngươi ra gớm ghiếc bởi mọi loài bò sát đang bò, và đừng vì chúng mà ô uế, hầu khỏi vì chúng mà bị ô uế.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "các ngươi làm gớm ghiếc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các linh hồn các ngươi"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "các linh hồn các ngươi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bởi mọi"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "loài bò sát"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "đang bò"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và đừng"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "các ngươi ô uế"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "vì chúng"
+    },
+    {
+      "surface": "ונטמתם",
+      "gloss": "và bị ô uế"
+    },
+    {
+      "surface": "בם",
+      "gloss": "vì chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:42:23.137623226Z",
+  "model": "glm-5.3"
+}

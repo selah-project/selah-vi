@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 21:11",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 21,
+  "translation": "Khi kẻ nhạo báng bị phạt, kẻ ngu dại trở nên khôn ngoan; và khi người khôn ngoan được chỉ dạy, ⟨người ấy⟩ tiếp nhận tri thức.",
+  "tokens": [
+    {
+      "surface": "בענש",
+      "gloss": "khi bị phạt"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "kẻ nhạo báng"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "trở nên khôn ngoan"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "kẻ ngu dại"
+    },
+    {
+      "surface": "ובהשכיל",
+      "gloss": "và khi được chỉ dạy"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "người khôn ngoan"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "tiếp nhận"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tri thức"
+    }
+  ],
+  "timestamp": "2026-08-19T05:18:01.825986499Z",
+  "model": "glm-5.3"
+}

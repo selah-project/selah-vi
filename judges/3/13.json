@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 3:13",
+  "book": "judges",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và ông đã tập hợp về phía mình ⟨את⟩ con cái Ammon và Amalek, rồi đi và đánh ⟨את⟩ Yisrael, và chúng chiếm hữu ⟨את⟩ thành phố những cây chà là.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "và đã tập hợp"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "về phía mình"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con cái Ammon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "và Amalek"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "và đi"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "và đánh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויירשו",
+      "gloss": "và chúng chiếm hữu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thành phố"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "thành phố"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "của những cây chà là"
+    }
+  ],
+  "timestamp": "2026-08-19T03:22:22.061591709Z",
+  "model": "glm-5.3"
+}

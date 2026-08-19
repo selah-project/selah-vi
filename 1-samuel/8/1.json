@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Và xảy ra, khi Shemuël già rồi, ông đặt ⟨את⟩ các con trai mình làm thẩm phán cho Yisraël.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "và xảy ra"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "khi"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "già rồi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "và ông đặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các con trai mình"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "các con trai mình"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "làm thẩm phán"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "cho Yisraël"
+    }
+  ],
+  "timestamp": "2026-08-19T03:30:29.849776812Z",
+  "model": "glm-5.3"
+}

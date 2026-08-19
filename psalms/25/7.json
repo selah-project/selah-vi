@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 25,
+  "translation": "Tội lỗi của tuổi trẻ tôi và sự phản nghịch của tôi, xin đừng nhớ; theo sự nhân từ của Ngài, hãy nhớ ⟨את⟩ tôi, vì cớ sự tốt lành của Ngài, Yahweh.",
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "tội lỗi"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "tuổi trẻ của tôi"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "và sự phản nghịch của tôi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "xin đừng"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "nhớ"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "theo sự nhân từ của Ngài"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "hãy nhớ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ngài"
+    },
+    {
+      "surface": "למען",
+      "gloss": "vì cớ"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "sự tốt lành của Ngài"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T04:57:44.593334987Z",
+  "model": "glm-5.3"
+}

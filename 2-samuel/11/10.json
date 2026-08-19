@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 11:10",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và người ta báo cho David biết, rằng: Uriah không đi xuống nhà mình. David nói với Uriah: Ngươi chẳng phải từ cuộc hành trình mà về sao? Sao ngươi không đi xuống nhà ngươi?",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "và họ báo tin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "cho David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "đi xuống"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tới"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "nhà mình"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriah"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "chẳng phải… sao"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "từ hành trình"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ngươi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "đến"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "tại sao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ירדת",
+      "gloss": "ngươi đi xuống"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tới"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "nhà ngươi"
+    }
+  ],
+  "timestamp": "2026-08-19T03:41:30.060300439Z",
+  "model": "glm-5.3"
+}

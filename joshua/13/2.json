@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 13:2",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Đây là đất còn lại: mọi vùng của người Pelishtim và mọi ⟨vùng⟩ của người Geshuri;",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "đây"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "còn lại"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "גלילות",
+      "gloss": "vùng"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "của người Pelishtim"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "của người Geshuri"
+    }
+  ],
+  "timestamp": "2026-08-19T03:18:29.755373269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 8:7",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Vì lẽ thật miệng ta sẽ ngân ra, và sự gian ác là điều gớm ghiếc đối với môi ta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "lẽ thật"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "sẽ ngân ra"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "miệng ta"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "và điều gớm ghiếc"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "đối với môi ta"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sự gian ác"
+    }
+  ],
+  "timestamp": "2026-08-19T06:19:30.711771654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Đừng tranh chấp với người nào vô cớ, nếu hắn không đã trả điều ác cho ngươi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "tranh chấp"
+    },
+    {
+      "surface": "עם",
+      "gloss": "với"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "người nào"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "vô cớ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "đã trả ngươi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "điều ác"
+    }
+  ],
+  "timestamp": "2026-08-19T05:14:41.944916987Z",
+  "model": "glm-5.3"
+}

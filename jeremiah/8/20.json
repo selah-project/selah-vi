@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Mùa gặt đã qua, mùa hạ đã hết, và chúng ta không được cứu.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "đã qua"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "mùa gặt"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "đã hết"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "mùa hạ"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "và chúng ta"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "không"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "được cứu"
+    }
+  ],
+  "timestamp": "2026-08-19T04:19:48.706289144Z",
+  "model": "glm-5.3"
+}

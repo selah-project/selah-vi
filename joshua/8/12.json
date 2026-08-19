@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 8:12",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 8,
+  "translation": "Ông lấy chừng năm nghìn người và đặt ⟨את⟩ họ làm phục kích giữa Beit-El và HaAi, phía tây của ⟨thành⟩ phố.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "và lấy"
+    },
+    {
+      "surface": "כחמשת",
+      "gloss": "chừng năm"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "nghìn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "và đặt"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ họ",
+      "marks": "họ"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "làm phục kích"
+    },
+    {
+      "surface": "בין",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà của"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "và giữa"
+    },
+    {
+      "surface": "העי",
+      "gloss": "HaAi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "từ phía tây"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "của thành phố"
+    }
+  ],
+  "timestamp": "2026-08-19T03:16:45.922846008Z",
+  "model": "glm-5.3"
+}

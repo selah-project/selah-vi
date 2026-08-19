@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Ngươi sẽ nối ⟨את⟩ năm tấm màn riêng ra, và ⟨את⟩ sáu tấm màn riêng ra, rồi ngươi sẽ gấp đôi tấm màn thứ sáu về phía trước mặt của lều.",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "ngươi sẽ nối"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "năm tấm màn"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "năm"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "tấm màn"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "riêng ra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "sáu tấm màn"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sáu"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "tấm màn"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "riêng ra"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "ngươi sẽ gấp đôi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tấm màn"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "tấm màn"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "thứ sáu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "về phía"
+    },
+    {
+      "surface": "מול",
+      "gloss": "đối diện"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "của lều"
+    }
+  ],
+  "timestamp": "2026-08-19T02:34:40.855201832Z",
+  "model": "glm-5.3"
+}

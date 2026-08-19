@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 26,
+  "translation": "Bởi vì Avraham đã vâng nghe tiếng Ta, và đã gìn giữ sự canh giữ của Ta, các mệnh lệnh của Ta, các luật định của Ta, và các giáo luật của Ta.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "bởi vì"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "đã nghe vâng"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "tiếng của-Ta"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "và-đã-gìn-giữ"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "sự canh giữ của-Ta"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "các mệnh lệnh của-Ta"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "các luật định của-Ta"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "và-các giáo luật của-Ta"
+    }
+  ],
+  "timestamp": "2026-08-19T01:09:54.643914293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 6:21",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 6,
+  "translation": "Còn dụng cụ bằng gốm mà trong đó nó được nấu, thì phải đập vỡ; còn nếu nó được nấu trong dụng cụ bằng đồng, thì phải cạo sạch và rửa trôi trong nước.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "còn dụng cụ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "bằng gốm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "תבשל",
+      "gloss": "được nấu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "trong đó"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "phải đập vỡ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "còn nếu"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "trong dụng cụ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "bằng đồng"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "được nấu"
+    },
+    {
+      "surface": "ומרק",
+      "gloss": "thì phải cạo sạch"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "và rửa trôi"
+    },
+    {
+      "surface": "במים",
+      "gloss": "trong nước"
+    }
+  ],
+  "timestamp": "2026-08-19T02:40:26.211935582Z",
+  "model": "glm-5.3"
+}

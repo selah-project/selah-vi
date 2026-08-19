@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 1:1",
+  "book": "jonah",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và có lời của Yahweh đến với Yonah con của Amitai, rằng:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Và có"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lời"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến với"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con của"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "Amitai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    }
+  ],
+  "timestamp": "2026-08-19T04:48:25.326411176Z",
+  "model": "glm-5.3"
+}

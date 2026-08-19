@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và ngươi hãy yêu ⟨את⟩ Yahweh Elohim của ngươi, và hãy giữ gìn sự canh giữ của Ngài, cùng các quy định của Ngài và các luật lệ của Ngài và các điều răn của Ngài, mọi ngày.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "và ngươi hãy yêu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim của ngươi"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "và ngươi hãy giữ gìn"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "sự canh giữ của Ngài"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "và các quy định của Ngài"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "và các luật lệ của Ngài"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "và các điều răn của Ngài"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ngày"
+    }
+  ],
+  "timestamp": "2026-08-19T03:07:51.488000645Z",
+  "model": "glm-5.3"
+}

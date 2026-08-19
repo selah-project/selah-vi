@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 29,
+  "translation": "Và Aharon và các con trai ông sẽ ăn ⟨את⟩ thịt con cừu và ⟨את⟩ bánh trong giỏ, tại cửa Trại Kiếm Hẹn.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "và sẽ ăn"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "và các con trai ông"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thịt con cừu"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "thịt"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "của con cừu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "bánh trong giỏ"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "bánh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "trong giỏ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "tại cửa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "trại"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kiếm hẹn"
+    }
+  ],
+  "timestamp": "2026-08-19T02:36:00.480144218Z",
+  "model": "glm-5.3"
+}

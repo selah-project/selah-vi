@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và ⟨את⟩ những loài này các ngươi sẽ ghen ghét trong loài chim; chúng không được ăn, chúng là điều gớm ghiếc: ⟨את⟩ chim ó, và ⟨את⟩ chim peres, và ⟨את⟩ chim azniyah.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "những loài này"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "những loài này"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "các ngươi sẽ ghen ghét"
+    },
+    {
+      "surface": "מן",
+      "gloss": "trong"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "loài chim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "được ăn"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "điều gớm ghiếc"
+    },
+    {
+      "surface": "הם",
+      "gloss": "chúng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chim ó"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "chim ó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "chim peres"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "chim peres"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "chim azniyah"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "chim azniyah"
+    }
+  ],
+  "timestamp": "2026-08-19T02:41:59.939076978Z",
+  "model": "glm-5.3"
+}

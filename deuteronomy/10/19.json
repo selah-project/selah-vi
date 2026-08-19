@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Các ngươi hãy yêu thương ⟨את⟩ người khách ngoại bang, vì các ngươi đã là khách ngoại bang trong đất Mitzrayim.",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "các ngươi hãy yêu thương"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người khách ngoại bang"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "người khách ngoại bang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "khách ngoại bang"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "các ngươi đã là"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trong đất"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    }
+  ],
+  "timestamp": "2026-08-19T03:07:18.415344528Z",
+  "model": "glm-5.3"
+}

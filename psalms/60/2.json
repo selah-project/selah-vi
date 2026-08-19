@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 60,
+  "translation": "Khi ông đánh ⟨את⟩ Aram hai con sông và ⟨את⟩ Aram Tsova, rồi Yoav quay lại và đánh ⟨את⟩ Edom trong trũng muối — mười hai nghìn.",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "khi ông đánh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram hai con sông"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "hai con sông"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Aram Tsova"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsova"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "rồi... quay lại"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "và đánh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "trong trũng"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "muối"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "hai"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mười"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "nghìn"
+    }
+  ],
+  "timestamp": "2026-08-19T05:02:27.496891112Z",
+  "model": "glm-5.3"
+}

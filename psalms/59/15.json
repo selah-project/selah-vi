@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 59,
+  "translation": "Và chúng trở lại lúc tối, rống lên như chó, và đi vòng quanh thành.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "và chúng trở lại"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "lúc tối"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "rống lên"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "như chó"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "và đi vòng quanh"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "thành"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:55.454052066Z",
+  "model": "glm-5.3"
+}

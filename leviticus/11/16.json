@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "và ⟨את⟩ con bat-haya'anah, và ⟨את⟩ chim tachmas, và ⟨את⟩ chim shachaf, và ⟨את⟩ chim nets theo giống nó.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con bat-haya'anah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "con"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "ya'anah (đà điểu)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "chim tachmas"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "chim tachmas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "chim shachaf"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "chim shachaf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "chim nets"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "chim ưng"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "theo giống nó"
+    }
+  ],
+  "timestamp": "2026-08-19T02:41:59.939600797Z",
+  "model": "glm-5.3"
+}

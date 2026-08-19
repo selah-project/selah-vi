@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "và ⟨את⟩ con cò, con diệc theo loài của nó, và ⟨את⟩ con chim đầu rìu, và ⟨את⟩ con dơi;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con cò"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "con cò"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "con diệc"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "theo loài của nó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con chim đầu rìu"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "con chim đầu rìu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con dơi"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "con dơi"
+    }
+  ],
+  "timestamp": "2026-08-19T02:42:17.683170583Z",
+  "model": "glm-5.3"
+}

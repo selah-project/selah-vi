@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 24:20",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 24,
+  "translation": "Aravnah nhìn-ra và thấy ⟨את⟩ vua và ⟨את⟩ các tôi-tớ người đang đi ngang qua phía ông; Aravnah đi ra và sấp mặt xuống đất trước vua.",
+  "tokens": [
+    {
+      "surface": "וישקף",
+      "gloss": "và nhìn-ra"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravnah"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "và thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vua"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "các tôi-tớ người"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "các tôi-tớ người"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "đang đi ngang"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "qua phía ông"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "và đi ra"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravnah"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "và sấp-mình xuống"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "trước vua"
+    },
+    {
+      "surface": "אפיו",
+      "gloss": "mặt người"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "xuống đất"
+    }
+  ],
+  "timestamp": "2026-08-19T03:46:32.334059922Z",
+  "model": "glm-5.3"
+}

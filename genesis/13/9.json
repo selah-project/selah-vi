@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 13,
+  "translation": "Há chẳng phải cả ⟨את⟩ đất đều ở trước mặt ngươi sao? Hãy tách ra, xin ngài, khỏi tôi: nếu ngươi hướng về bên trái thì tôi ⟨sẽ đi⟩ bên phải, và nếu bên phải thì tôi ⟨sẽ đi⟩ bên trái.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "há không"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cả"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "trước mặt ngươi"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "hãy tách ra"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xin ngài"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "khỏi tôi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "bên trái"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "thì tôi ⟨sang⟩ bên phải"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "và nếu"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "bên phải"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "thì tôi ⟨sang⟩ bên trái"
+    }
+  ],
+  "timestamp": "2026-08-19T00:54:32.327436887Z",
+  "model": "glm-5.3"
+}

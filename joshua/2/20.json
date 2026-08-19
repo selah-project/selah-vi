@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Còn nếu ngươi tiết lộ ⟨את⟩ việc của chúng ta nầy, thì chúng tôi sẽ được vô tội khỏi lời thề của ngươi mà ngươi đã khiến chúng tôi thề.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "còn nếu"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "ngươi tiết lộ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "việc của chúng ta"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "việc của chúng ta"
+    },
+    {
+      "surface": "זה",
+      "gloss": "này"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "thì chúng tôi sẽ được"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "vô tội"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "khỏi lời thề của ngươi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "ngươi đã khiến chúng tôi thề"
+    }
+  ],
+  "timestamp": "2026-08-19T03:15:44.851405221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "vi",
+  "chapter": 11,
+  "translation": "Và có việc khi David còn ⟨את⟩ ở cùng Edom, trong lúc Yoav thủ lãnh quân đội lên để chôn ⟨את⟩ những người bị giết, thì người đánh mọi nam giới ở Edom.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "và có việc"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "khi còn"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ở cùng"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "khi lên"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "שר",
+      "gloss": "thủ lãnh"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "quân đội"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "để chôn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "những người bị giết"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "những người bị giết"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "thì đánh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nam giới"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "ở Edom"
+    }
+  ],
+  "timestamp": "2026-08-19T03:51:09.131550013Z",
+  "model": "glm-5.3"
+}

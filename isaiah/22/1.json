@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 22,
+  "translation": "Gánh nặng về trũng sự thấy. Còn gì với ngươi, bây giờ, rằng ngươi đã lên, tất cả ngươi, lên các nóc nhà?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "gánh nặng"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "trũng"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "sự thấy"
+    },
+    {
+      "surface": "מה",
+      "gloss": "còn gì"
+    },
+    {
+      "surface": "לך",
+      "gloss": "với ngươi"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "bây giờ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "ngươi đã lên"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "tất cả ngươi"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "lên các nóc nhà"
+    }
+  ],
+  "timestamp": "2026-08-19T04:07:29.865221615Z",
+  "model": "glm-5.3"
+}

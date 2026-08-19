@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 148,
+  "translation": "Hãy ca ngợi Yah! Hãy ca ngợi ⟨את⟩ Yahweh từ ⟨các⟩ tầng trời, hãy ca ngợi Ngài trong các nơi cao trọng.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Hãy ca ngợi"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "hãy ca ngợi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "từ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "các tầng trời"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "hãy ca ngợi Ngài"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "trong các nơi cao trọng"
+    }
+  ],
+  "timestamp": "2026-08-19T05:13:43.785256445Z",
+  "model": "glm-5.3"
+}

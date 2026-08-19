@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Và tôi truyền lệnh cho ⟨את⟩ các quan xét của các ngươi tại lúc ấy, rằng: Hãy nghe giữa anh em các ngươi, và hãy xét xử công bình giữa một người với anh của nó và với khách ngoại kiều của nó.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "và tôi truyền lệnh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các quan xét của các ngươi"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "các quan xét của các ngươi"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "tại lúc"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ấy"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hãy nghe"
+    },
+    {
+      "surface": "בין",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "anh em các ngươi"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "và hãy xét xử"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "công bình"
+    },
+    {
+      "surface": "בין",
+      "gloss": "giữa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "một người"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "với"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "anh của nó"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "và với"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "khách ngoại kiều của nó"
+    }
+  ],
+  "timestamp": "2026-08-19T03:04:51.224486084Z",
+  "model": "glm-5.3"
+}

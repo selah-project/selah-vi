@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 16:26",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 16,
+  "translation": "Còn người đã thả ⟨את⟩ con dê đực đi cho Azazel phải giặt quần áo mình, và rửa ⟨את⟩ thân thể mình trong nước, rồi sau đó mới vào trại quân.",
+  "tokens": [
+    {
+      "surface": "והמשלח",
+      "gloss": "và người đã thả đi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "con dê đực"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "con dê đực"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "cho Azazel"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "phải giặt"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "quần áo mình"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "và rửa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thân thể mình"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "thân thể mình"
+    },
+    {
+      "surface": "במים",
+      "gloss": "trong nước"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "và sau"
+    },
+    {
+      "surface": "כן",
+      "gloss": "đó"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "mới vào"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vào"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "trại quân"
+    }
+  ],
+  "timestamp": "2026-08-19T02:45:22.051507306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 17:18",
+  "book": "1-samuel",
+  "lang": "vi",
+  "chapter": 17,
+  "translation": "Và ⟨את⟩ mười viên pho mát sữa này ngươi hãy đem cho viên chỉ huy ngàn, và ⟨את⟩ các anh em ngươi hãy thăm hỏi bình an, và ⟨את⟩ đồ bảo chứng của họ hãy nhận lấy.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mười viên pho mát sữa này"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "mười"
+    },
+    {
+      "surface": "חרצי",
+      "gloss": "viên pho mát"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "sữa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "này"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "ngươi hãy đem"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "cho viên chỉ huy"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "ngàn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "các anh em ngươi"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "các anh em ngươi"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "ngươi hãy thăm hỏi"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "bình an"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "đồ bảo chứng của họ"
+    },
+    {
+      "surface": "ערבתם",
+      "gloss": "đồ bảo chứng của họ"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ngươi hãy nhận lấy"
+    }
+  ],
+  "timestamp": "2026-08-19T03:34:15.105095094Z",
+  "model": "glm-5.3"
+}

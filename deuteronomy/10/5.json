@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 10:5",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Tôi quay lại và xuống khỏi ⟨את⟩ núi, và đặt ⟨את⟩ các bảng đá vào hòm mà tôi đã làm; và chúng ở đó, như Yahweh đã truyền lệnh cho tôi.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "và tôi quay lại"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "và tôi xuống"
+    },
+    {
+      "surface": "מן",
+      "gloss": "khỏi"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "núi"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "và tôi đặt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các bảng đá"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "các bảng đá"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "vào hòm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "tôi đã làm"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "và chúng ở"
+    },
+    {
+      "surface": "שם",
+      "gloss": "đó"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "đã truyền lệnh cho tôi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T03:07:12.679930349Z",
+  "model": "glm-5.3"
+}

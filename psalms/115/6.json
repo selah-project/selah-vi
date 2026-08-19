@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 115,
+  "translation": "Tai ⟨họ có⟩, nhưng không nghe; mũi ⟨họ có⟩, nhưng không ngửi.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "tai"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho chúng"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nhưng không"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "nghe"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mũi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho chúng"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nhưng không"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "ngửi"
+    }
+  ],
+  "timestamp": "2026-08-19T05:09:49.203478771Z",
+  "model": "glm-5.3"
+}

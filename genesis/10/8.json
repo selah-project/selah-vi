@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Và Kush sinh ra ⟨את⟩ Nimrod; ông ấy khởi đầu để trở thành người mạnh mẽ trên đất.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "và Kush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "sinh ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ông ấy"
+    },
+    {
+      "surface": "החל",
+      "gloss": "khởi đầu"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "để trở thành"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "người mạnh mẽ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "trên đất"
+    }
+  ],
+  "timestamp": "2026-08-19T00:51:06.185709795Z",
+  "model": "glm-5.3"
+}

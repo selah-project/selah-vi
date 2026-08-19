@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 19:10",
+  "book": "proverbs",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Sự xa xỉ không xứng với kẻ ngu dốt, huống chi là đầy tớ cai trị các vương tử.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "xứng với"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "kẻ ngu dốt"
+    },
+    {
+      "surface": "תענוג",
+      "gloss": "sự xa xỉ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "huống chi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "là"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "đầy tớ"
+    },
+    {
+      "surface": "משל",
+      "gloss": "cai trị"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "các vương tử"
+    }
+  ],
+  "timestamp": "2026-08-19T05:17:29.979065269Z",
+  "model": "glm-5.3"
+}

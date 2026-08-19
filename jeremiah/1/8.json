@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 1:8",
+  "book": "jeremiah",
+  "lang": "vi",
+  "chapter": 1,
+  "translation": "Đừng sợ hãi trước mặt họ, vì ⟨את⟩ ta ở cùng ngươi, để giải cứu ngươi, sấm phán của Yahweh.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ngươi sợ"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "trước mặt họ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ta ở cùng ngươi",
+      "marks": "ngươi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ta"
+    },
+    {
+      "surface": "להצלך",
+      "gloss": "để giải cứu ngươi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sấm phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-19T04:16:44.783566650Z",
+  "model": "glm-5.3"
+}

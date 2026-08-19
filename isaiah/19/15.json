@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 19,
+  "translation": "Và sẽ không có việc gì cho Mitsrayim, việc mà đầu hay đuôi, cành lá hay bẹ sậy, có thể làm.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sẽ có"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "cho Mitsrayim"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "việc gì"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "có thể làm"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "đầu"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "hay đuôi"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "cành lá"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "hay bẹ sậy"
+    }
+  ],
+  "timestamp": "2026-08-19T04:07:33.004967852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 83,
+  "translation": "Chống dân ngươi chúng ne mưu kín, và bàn tính chống những kẻ được ngươi giấu kín.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "chống"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "dân ngươi"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "chúng ne mưu"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "kín"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "và bàn tính"
+    },
+    {
+      "surface": "על",
+      "gloss": "chống"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "những kẻ ngươi giấu kín"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:38.687126937Z",
+  "model": "glm-5.3"
+}

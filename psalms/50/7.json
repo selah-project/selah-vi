@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 50,
+  "translation": "Hãy nghe, hỡi dân Ta, và Ta sẽ nói; hỡi Yisrael, và Ta sẽ làm chứng ⟨với⟩ ngươi: Elohim, Elohim của ngươi, ⟨là⟩ Ta.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Hãy nghe"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "hỡi dân Ta"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "và Ta sẽ nói"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "hỡi Yisrael"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "và Ta sẽ làm chứng"
+    },
+    {
+      "surface": "בך",
+      "gloss": "⟨với⟩ ngươi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim của ngươi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ta ⟨là⟩"
+    }
+  ],
+  "timestamp": "2026-08-19T05:00:41.393137542Z",
+  "model": "glm-5.3"
+}

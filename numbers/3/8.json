@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 3:8",
+  "book": "numbers",
+  "lang": "vi",
+  "chapter": 3,
+  "translation": "Và chúng nó sẽ canh giữ ⟨את⟩ mọi dụng cụ của lều hội kiến, và ⟨את⟩ chức vụ của con cái Yisrael, để làm ⟨את⟩ công việc của đền tạm.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "và chúng sẽ canh giữ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi dụng cụ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "dụng cụ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "lều"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "hội kiến"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "chức vụ"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "chức vụ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "để làm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "công việc"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "công việc"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "của đền tạm"
+    }
+  ],
+  "timestamp": "2026-08-19T02:52:31.341170480Z",
+  "model": "glm-5.3"
+}

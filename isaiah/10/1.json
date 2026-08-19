@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Khốn thay những kẻ cắt định những điều định bất công, và những kẻ ghi chép điều gian ác, đã viết ra sự hà khắc;",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "khốn thay"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "những kẻ cắt định"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "những điều định"
+    },
+    {
+      "surface": "און",
+      "gloss": "bất công"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "và những kẻ ghi chép"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "sự hà khắc"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "đã viết ra"
+    }
+  ],
+  "timestamp": "2026-08-19T04:06:11.682795205Z",
+  "model": "glm-5.3"
+}

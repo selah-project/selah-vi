@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 10:11",
+  "book": "2-chronicles",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Và bây giờ, cha tôi đã chất lên các ngươi một ách nặng, còn tôi sẽ thêm lên ách các ngươi: cha tôi đã sửa trị ⟨את⟩ các ngươi bằng roi, còn tôi ⟨sửa trị⟩ bằng bò cạp.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "và bây giờ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "cha tôi"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "đã chất lên"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "trên các ngươi"
+    },
+    {
+      "surface": "על",
+      "gloss": "một ách"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "nặng"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "còn tôi"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "sẽ thêm"
+    },
+    {
+      "surface": "על",
+      "gloss": "lên"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "ách các ngươi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "cha tôi"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "đã sửa trị"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "bằng roi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "còn tôi"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "bằng bò cạp"
+    }
+  ],
+  "timestamp": "2026-08-19T06:22:36.736658702Z",
+  "model": "glm-5.3"
+}

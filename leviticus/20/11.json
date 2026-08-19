@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "vi",
+  "chapter": 20,
+  "translation": "Và người nào nằm với ⟨את⟩ vợ của cha mình — sự trần trụi của cha mình hắn đã phơi bày — thì cả hai phải bị xử tử, máu của chúng ở trên chính chúng.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "và người"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "người mà"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "nằm với"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vợ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vợ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "của cha mình"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "sự trần trụi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "của cha mình"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "đã phơi bày"
+    },
+    {
+      "surface": "מות",
+      "gloss": "chết"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "bị xử tử"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "cả hai"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "máu của chúng"
+    },
+    {
+      "surface": "בם",
+      "gloss": "trên chính chúng"
+    }
+  ],
+  "timestamp": "2026-08-19T02:46:20.810387501Z",
+  "model": "glm-5.3"
+}

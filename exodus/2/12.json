@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 2,
+  "translation": "Và ông quay nhìn bên này và bên kia, và thấy rằng không có ai, thì ông đánh ⟨את⟩ người Mitsri và giấu ⟨את⟩ hắn trong cát.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "và quay"
+    },
+    {
+      "surface": "כה",
+      "gloss": "bên này"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "và bên kia"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "và thấy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người nào"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "thì ông đánh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "người Mitsri"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "người Mitsri"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "và giấu hắn"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "trong cát"
+    }
+  ],
+  "timestamp": "2026-08-19T02:27:08.267376208Z",
+  "model": "glm-5.3"
+}

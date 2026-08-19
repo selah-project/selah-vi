@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 51,
+  "translation": "Xin cho tôi nghe ⟨về⟩ sự vui mừng và hoan lạc, để ⟨những⟩ xương ⟨mau⟩ Ngài đã nghiền nát được reo vui.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "xin cho tôi nghe"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "sự vui mừng"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "và hoan lạc"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "được reo vui"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "xương"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "Ngài đã nghiền nát"
+    }
+  ],
+  "timestamp": "2026-08-19T05:01:21.700062994Z",
+  "model": "glm-5.3"
+}

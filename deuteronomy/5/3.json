@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "vi",
+  "chapter": 5,
+  "translation": "Không phải ⟨את⟩ cha ông chúng ta mà Yahweh đã cắt ⟨את⟩ giao ước này, mà là cùng chúng ta — ⟨את⟩ chính chúng ta, những người này, tại đây, hôm nay, tất cả chúng ta đều đang sống.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không phải"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cha ông chúng ta"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "cha ông chúng ta"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "đã cắt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "giao ước này"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "giao ước"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "này"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mà là"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ cùng chúng ta"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "chúng ta"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "những người này"
+    },
+    {
+      "surface": "פה",
+      "gloss": "tại đây"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hôm nay"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "tất cả chúng ta"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "đang sống"
+    }
+  ],
+  "timestamp": "2026-08-19T03:05:42.563152460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 10:23",
+  "book": "exodus",
+  "lang": "vi",
+  "chapter": 10,
+  "translation": "Người ta không thấy ⟨את⟩ anh em mình, và không ai khởi dậy khỏi chỗ mình trong ba ngày; nhưng cho mọi con cái Yisrael thì có ánh sáng tại nơi họ ở.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "thấy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anh em mình"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "anh em mình"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "khởi dậy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ai"
+    },
+    {
+      "surface": "מתחתיו",
+      "gloss": "khỏi chỗ mình"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "và cho mọi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "היה",
+      "gloss": "có"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ánh sáng"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "tại nơi họ ở"
+    }
+  ],
+  "timestamp": "2026-08-19T02:30:03.325735073Z",
+  "model": "glm-5.3"
+}

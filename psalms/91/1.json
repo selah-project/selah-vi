@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 91,
+  "translation": "Người ngự trong nơi ẩn náu của Elyon, trong bóng Shaddai sẽ trú đêm.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "ngự"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "trong nơi ẩn náu"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "trong bóng"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "sẽ trú đêm"
+    }
+  ],
+  "timestamp": "2026-08-19T05:07:15.233089664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 82,
+  "translation": "Chúng không biết và không hiểu, trong bóng tối chúng đi lại; mọi nền móng của đất đều lung lay.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "chúng biết"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "chúng hiểu"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "trong bóng tối"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "chúng đi lại"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "đều lung lay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "nền móng của"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-19T05:05:31.784452021Z",
+  "model": "glm-5.3"
+}

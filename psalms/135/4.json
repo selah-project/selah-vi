@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 135,
+  "translation": "Vì Yah đã chọn Yaakov cho riêng mình, Yisrael làm sản nghiệp quý báu của Ngài.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "đã chọn"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho riêng mình"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "làm sản nghiệp quý báu của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-19T05:12:20.853767609Z",
+  "model": "glm-5.3"
+}

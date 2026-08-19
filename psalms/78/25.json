@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 78,
+  "translation": "Bánh của các Đấng Mạnh Mẽ ⟨אָכַל⟩ mỗi người đã ăn; lương thực Ngài sai đến cho họ để no đầy.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "bánh"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "các Đấng Mạnh Mẽ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "đã ăn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mỗi người"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "lương thực"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Ngài sai"
+    },
+    {
+      "surface": "להם",
+      "gloss": "đến cho họ"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "để no đầy"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:34.259599129Z",
+  "model": "glm-5.3"
+}

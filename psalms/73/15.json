@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "vi",
+  "chapter": 73,
+  "translation": "Nếu con nói, 'Con sẽ kể ra như vậy', thì này, con đã phản bội dòng con cái của Ngài.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "con nói"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "con sẽ kể ra"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "như vậy"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "này"
+    },
+    {
+      "surface": "דור",
+      "gloss": "dòng"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "con cái của Ngài"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "con đã phản bội"
+    }
+  ],
+  "timestamp": "2026-08-19T05:04:06.962108412Z",
+  "model": "glm-5.3"
+}

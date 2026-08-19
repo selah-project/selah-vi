@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 23:15",
+  "book": "2-samuel",
+  "lang": "vi",
+  "chapter": 23,
+  "translation": "David khao khát và nói: Ai sẽ cho tôi uống nước từ giếng của Beit-Lechem, cái giếng ở gần cổng thành?",
+  "tokens": [
+    {
+      "surface": "ויתאוה",
+      "gloss": "khao khát"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "sẽ cho tôi uống"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nước"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "từ giếng"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "cái mà"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ở gần cổng"
+    }
+  ],
+  "timestamp": "2026-08-19T03:46:08.904448601Z",
+  "model": "glm-5.3"
+}
