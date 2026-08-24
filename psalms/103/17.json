@@ -5,8 +5,49 @@
   "book": "psalms",
   "lang": "vi",
   "chapter": 103,
-  "translation": "Và ⟨sự⟩ thương × החסד...",
-  "tokens": [],
-  "timestamp": "2026-08-19T05:07:57.335302801Z",
+  "translation": "Còn sự nhân từ của Yahweh ⟨thì⟩ từ thời vô cùng cho đến thời vô cùng ⟨nằm⟩ trên những kẻ kính sợ Ngài, và sự công chính của Ngài ⟨thì⟩ dành cho con cháu.",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "còn sự nhân từ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "từ thời vô cùng"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "thời vô cùng"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "những kẻ kính sợ Ngài"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "và sự công chính của Ngài"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "cho con của"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "con cái"
+    }
+  ],
+  "timestamp": "2026-08-24T16:21:22.873213560Z",
   "model": "glm-5.3"
 }

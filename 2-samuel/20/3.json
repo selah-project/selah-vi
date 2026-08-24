@@ -5,15 +5,15 @@
   "book": "2-samuel",
   "lang": "vi",
   "chapter": 20,
-  "translation": "Và David vào nhà mình tại Yerushalayim; vua bắt ⟨את⟩ mười người phụ nữ lump высокого… mười người vợ lẽ mà vua đã để lại canh giữ nhà, và giam họ vào nhà canh gác, và nuôi dưỡng họ, nhưng không đến với họ; họ bị giam kín cho đến ngày chết mình, sống ⟨như⟩ góa phụ khi chồng còn sống.",
+  "translation": "Và Dawid trở về nhà mình tại Yerushalayim, và nhà vua lấy ⟨את⟩ mười người phụ nữ là các người hầu thiếp, mà ông đã để lại canh giữ nhà, và giam họ vào nơi canh giữ, và cấp dưỡng cho họ, nhưng không đến với họ; và họ bị giam giữ cho đến ngày chết của họ, sống trong cảnh góa bụa dù chồng còn sống.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "và vào"
+      "gloss": "và đã đến"
     },
     {
       "surface": "דוד",
-      "gloss": "David"
+      "gloss": "Dawid"
     },
     {
       "surface": "אל",
@@ -29,16 +29,16 @@
     },
     {
       "surface": "ויקח",
-      "gloss": "và vua bắt"
+      "gloss": "và đã lấy"
     },
     {
       "surface": "המלך",
-      "gloss": "vua"
+      "gloss": "nhà vua"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mười người phụ nữ"
+      "marks": "mười người phụ nữ là các người hầu thiếp"
     },
     {
       "surface": "עשר",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "פלגשים",
-      "gloss": "làm vợ lẽ"
+      "gloss": "các người hầu thiếp"
     },
     {
       "surface": "אשר",
@@ -66,23 +66,23 @@
     },
     {
       "surface": "הבית",
-      "gloss": "nhà"
+      "gloss": "ngôi nhà"
     },
     {
       "surface": "ויתנם",
-      "gloss": "và giam họ"
+      "gloss": "và đã đặt họ"
     },
     {
       "surface": "בית",
-      "gloss": "vào nhà"
+      "gloss": "nhà"
     },
     {
       "surface": "משמרת",
-      "gloss": "canh gác"
+      "gloss": "canh giữ"
     },
     {
       "surface": "ויכלכלם",
-      "gloss": "và nuôi dưỡng họ"
+      "gloss": "và cấp dưỡng họ"
     },
     {
       "surface": "ואליהם",
@@ -94,15 +94,15 @@
     },
     {
       "surface": "בא",
-      "gloss": "⟨đến⟩"
+      "gloss": "đã vào"
     },
     {
       "surface": "ותהיינה",
-      "gloss": "và họ bị"
+      "gloss": "và họ trở nên"
     },
     {
       "surface": "צררות",
-      "gloss": "giam kín"
+      "gloss": "bị giam giữ"
     },
     {
       "surface": "עד",
@@ -114,17 +114,17 @@
     },
     {
       "surface": "מתן",
-      "gloss": "chết mình"
+      "gloss": "chết của họ"
     },
     {
       "surface": "אלמנות",
-      "gloss": "góa phụ"
+      "gloss": "góa bụa"
     },
     {
       "surface": "חיות",
-      "gloss": "khi còn sống"
+      "gloss": "sống"
     }
   ],
-  "timestamp": "2026-08-19T03:44:52.317440053Z",
+  "timestamp": "2026-08-24T16:11:49.455607402Z",
   "model": "glm-5.3"
 }

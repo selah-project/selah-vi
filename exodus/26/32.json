@@ -5,16 +5,16 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 26,
-  "translation": "Và ngươi hãy treo ⟨את nó⟩ trên bốn cột gỗ keo bọc vàng, các móc của chúng bằng vàng, trên bốn đế bằng bạc.",
+  "translation": "Ngươi sẽ treo ⟨את⟩ nó trên bốn cột gỗ shittim bọc vàng; móc của chúng bằng vàng, trên bốn đế bằng bạc.",
   "tokens": [
     {
       "surface": "ונתתה",
-      "gloss": "và ngươi hãy đặt"
+      "gloss": "và ngươi sẽ đặt"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "nó (màn che)"
+      "marks": "nó (bức màn che)"
     },
     {
       "surface": "על",
@@ -26,23 +26,23 @@
     },
     {
       "surface": "עמודי",
-      "gloss": "cột"
+      "gloss": "cột của"
     },
     {
       "surface": "שטים",
-      "gloss": "gỗ keo"
+      "gloss": "gỗ shittim"
     },
     {
       "surface": "מצפים",
-      "gloss": "được bọc"
+      "gloss": "bọc"
     },
     {
       "surface": "זהב",
       "gloss": "vàng"
     },
     {
-      "surface": "ואיהם",
-      "gloss": "các móc của chúng"
+      "surface": "ונתתה וויהם",
+      "gloss": "móc của chúng"
     },
     {
       "surface": "זהב",
@@ -65,6 +65,6 @@
       "gloss": "bạc"
     }
   ],
-  "timestamp": "2026-08-19T02:34:50.173387991Z",
+  "timestamp": "2026-08-24T16:04:00.233351077Z",
   "model": "glm-5.3"
 }

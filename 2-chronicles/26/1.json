@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "vi",
   "chapter": 26,
-  "translation": "Và toàn thể dân Yehudah đã lập ⟨את⟩ Uziyahu — ⟨và⟩ ⟨ông⟩ con trai mười sáu năm — và họ làm ⟨את⟩ ⟨אתו⟩ ⟨ông⟩ làm vua thay cho cha ông, Amatsyahu.",
+  "translation": "Và toàn thể dân Yehudah đã lập ⟨את⟩ Uziyahu — ⟨vị⟩ vốn là con trai mười sáu tuổi — và họ đã tôn ⟨את⟩ ⟨אתו⟩ làm vua thay cha mình, Amatsiyahu.",
   "tokens": [
     {
       "surface": "ויקחו",
-      "gloss": "và họ lập"
+      "gloss": "và đã lập"
     },
     {
       "surface": "כל",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "והוא",
-      "gloss": "và ông"
+      "gloss": "và ⟨vị⟩"
     },
     {
       "surface": "בן",
@@ -50,30 +50,30 @@
     },
     {
       "surface": "שנה",
-      "gloss": "năm"
+      "gloss": "tuổi"
     },
     {
       "surface": "וימליכו",
-      "gloss": "và họ làm làm vua"
+      "gloss": "và đã tôn làm vua"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "ông (Uziyahu)"
+      "marks": "⟨vị⟩"
     },
     {
       "surface": "תחת",
-      "gloss": "thay cho"
+      "gloss": "thay"
     },
     {
       "surface": "אביו",
-      "gloss": "cha ông"
+      "gloss": "cha mình"
     },
     {
       "surface": "אמציהו",
-      "gloss": "Amatsyahu"
+      "gloss": "Amatsiyahu"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.006416730Z",
+  "timestamp": "2026-08-24T16:58:27.517336940Z",
   "model": "glm-5.3"
 }

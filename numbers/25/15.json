@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 25,
-  "translation": "Và tên của người phụ nữ bị đánh chết, người phụ nữ Midian ⟨là⟩ Kozbi con gái của Tzur, thủ领头 các dân tộc của một nhà cha, trong Midian — chính ⟨bà ta⟩.",
+  "translation": "Và tên của người phụ nữ bị giết, người Midian, là Kozbi, con gái của Tsur, đứng đầu ⟨các⟩ thị tộc của một dòng họ ⟨tổ phụ⟩ ở Midian — chính ⟨bà ta⟩.",
   "tokens": [
     {
       "surface": "ושם",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "המכה",
-      "gloss": "bị đánh chết"
+      "gloss": "bị giết"
     },
     {
       "surface": "המדינית",
-      "gloss": "người phụ nữ Midian"
+      "gloss": "người Midian"
     },
     {
       "surface": "כזבי",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "צור",
-      "gloss": "Tzur"
+      "gloss": "của Tsur"
     },
     {
       "surface": "ראש",
-      "gloss": "thủ领头"
+      "gloss": "đứng đầu"
     },
     {
       "surface": "אמות",
-      "gloss": "các dân tộc"
+      "gloss": "các thị tộc"
     },
     {
       "surface": "בית",
@@ -49,17 +49,17 @@
     },
     {
       "surface": "אב",
-      "gloss": "cha"
+      "gloss": "của tổ phụ"
     },
     {
       "surface": "במדין",
-      "gloss": "trong Midian"
+      "gloss": "ở Midian"
     },
     {
       "surface": "הוא",
-      "gloss": "chính ⟨bà ta⟩"
+      "gloss": "chính bà ta"
     }
   ],
-  "timestamp": "2026-08-19T03:00:08.720369306Z",
+  "timestamp": "2026-08-24T16:07:22.335111133Z",
   "model": "glm-5.3"
 }

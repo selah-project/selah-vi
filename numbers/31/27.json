@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 31,
-  "translation": "và ngươi hãy chia đôi ⟨את⟩ chiến lợi phẩm, giữa những kẻ cầm兵器 đánh trận — những kẻ ra đi đến quân dịch — và giữa cả hội chúng.",
+  "translation": "Ngươi sẽ chia đôi ⟨את⟩ chiến lợi phẩm — giữa những kẻ cầm binh khí ra trận, và giữa toàn hội chúng.",
   "tokens": [
     {
       "surface": "וחצית",
-      "gloss": "và ngươi hãy chia đôi"
+      "gloss": "ngươi sẽ chia đôi"
     },
     {
       "surface": "את",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "תפשי",
-      "gloss": "những kẻ nắm bắt"
+      "gloss": "những kẻ cầm (binh khí)"
     },
     {
       "surface": "המלחמה",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "לצבא",
-      "gloss": "đến quân dịch"
+      "gloss": "đến quân ngũ \/ ra trận"
     },
     {
       "surface": "ובין",
@@ -46,13 +46,13 @@
     },
     {
       "surface": "כל",
-      "gloss": "cả"
+      "gloss": "toàn thể"
     },
     {
       "surface": "העדה",
       "gloss": "hội chúng"
     }
   ],
-  "timestamp": "2026-08-19T03:02:41.461741122Z",
+  "timestamp": "2026-08-24T16:07:30.445692927Z",
   "model": "glm-5.3"
 }

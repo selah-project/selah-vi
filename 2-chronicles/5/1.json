@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "vi",
   "chapter": 5,
-  "translation": "Vậy toàn bộ công trình mà Shlomoh đã làm cho nhà của Yahweh được hoàn tất; và Shlomoh đem vào ⟨את⟩ các vật thánh của David cha mình, ⟨את⟩ bạc, ⟨את⟩ vàng và ⟨את⟩ mọi器具器皿 — đặt trong các kho của nhà của Elohim.",
+  "translation": "Vậy toàn bộ công việc Shlomo đã làm cho nhà Yahweh được hoàn tất; và Shlomo đem vào ⟨את⟩ các vật thánh của David cha mình, và ⟨את⟩ bạc, và ⟨את⟩ vàng, và ⟨את⟩ mọi dụng cụ, đặt trong các kho của nhà Elohim.",
   "tokens": [
     {
       "surface": "ותשלם",
-      "gloss": "vậy được hoàn tất"
+      "gloss": "được hoàn tất"
     },
     {
       "surface": "כל",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "המלאכה",
-      "gloss": "công trình"
+      "gloss": "công việc"
     },
     {
       "surface": "אשר",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Shlomoh"
+      "gloss": "Shlomo"
     },
     {
       "surface": "לבית",
-      "gloss": "cho nhà của"
+      "gloss": "cho nhà"
     },
     {
       "surface": "יהוה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Shlomoh"
+      "gloss": "Shlomo"
     },
     {
       "surface": "את",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "קדשי",
-      "gloss": "các vật thánh của"
+      "gloss": "các vật thánh"
     },
     {
       "surface": "דויד",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "và ⟨את⟩",
       "marks": "bạc"
     },
     {
@@ -75,7 +75,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "và ⟨את⟩",
       "marks": "vàng"
     },
     {
@@ -84,8 +84,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "mọi器皿 đồ dùng"
+      "gloss": "và ⟨את⟩",
+      "marks": "mọi dụng cụ"
     },
     {
       "surface": "כל",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "הכלים",
-      "gloss": "đồ dùng"
+      "gloss": "dụng cụ"
     },
     {
       "surface": "נתן",
@@ -105,13 +105,13 @@
     },
     {
       "surface": "בית",
-      "gloss": "nhà của"
+      "gloss": "nhà"
     },
     {
       "surface": "האלהים",
       "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-08-19T05:54:42.918307130Z",
+  "timestamp": "2026-08-24T16:27:46.364475577Z",
   "model": "glm-5.3"
 }

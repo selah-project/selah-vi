@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 23,
-  "translation": "Ông đáp và nói: Điều ⟨את⟩ mà Yahweh đặt vào miệng tôi, chẳng phải điều ấy ⟨אתו⟩ tôi phải cẩn trọng mà nói sao?",
+  "translation": "Ông trả lời và nói: Phải chăng ⟨את⟩ điều mà Yahweh đặt vào miệng tôi, ⟨את⟩ nó tôi phải cẩn trọng mà nói ra?",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "và đáp"
+      "gloss": "Ông trả lời"
     },
     {
       "surface": "ויאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הלא",
-      "gloss": "chẳng phải… sao"
+      "gloss": "phải chăng"
     },
     {
       "surface": "את",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "mà"
+      "gloss": "điều mà"
     },
     {
       "surface": "ישים",
@@ -43,17 +43,17 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "điều ấy (tôi cẩn trọng mà nói)"
+      "marks": "nó (điều ấy)"
     },
     {
       "surface": "אשמר",
-      "gloss": "tôi cẩn trọng giữ"
+      "gloss": "tôi phải cẩn trọng"
     },
     {
       "surface": "לדבר",
-      "gloss": "để nói"
+      "gloss": "mà nói ra"
     }
   ],
-  "timestamp": "2026-08-19T02:59:57.197670147Z",
+  "timestamp": "2026-08-24T16:06:46.372891475Z",
   "model": "glm-5.3"
 }

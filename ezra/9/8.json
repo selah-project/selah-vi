@@ -5,19 +5,19 @@
   "book": "ezra",
   "lang": "vi",
   "chapter": 9,
-  "translation": "Và giờ đây, như một khoảnh-khắc ngắn, ân-điển đã đến từ ⟨את⟩ Yahweh Elohim chúng tôi, để остав lại cho chúng-i một số sót-lại, và để ban cho chúng tôi một cọc trong nơi thánh của Ngài, để soi-sáng mắt chúng tôi, Elohim chúng tôi, và để ban cho chúng tôi chút sự sống-lại trong sự làm-g proper của chúng tôi.",
+  "translation": "Và bây giờ, trong một khoảnh khắc ngắn ngũi, ⟨có⟩ sự ơn-thiện từ ⟨את⟩ Yahweh Elohim của chúng ta, để lại cho chúng ta phần-sót, và để ban cho chúng ta cái-đinh nơi chơn-thánh của Ngài, để soi-sáng mắt chúng ta, Elohim của chúng ta, và để ban cho chúng ta sự sống-lại chút-ít trong sự-làm-tôi của chúng ta.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "và giờ đây"
+      "gloss": "và bây giờ"
     },
     {
       "surface": "כמעט",
-      "gloss": "như chút ít"
+      "gloss": "ngắn ngũi"
     },
     {
       "surface": "רגע",
-      "gloss": "một khoảnh-khắc"
+      "gloss": "một khoảnh khắc"
     },
     {
       "surface": "היתה",
@@ -25,11 +25,12 @@
     },
     {
       "surface": "תחנה",
-      "gloss": "ân-đển"
+      "gloss": "sự ơn-thiện"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ từ"
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
     },
     {
       "surface": "יהוה",
@@ -37,19 +38,19 @@
     },
     {
       "surface": "אלהינו",
-      "gloss": "Elohim của chúng tôi"
+      "gloss": "Elohim của chúng ta"
     },
     {
       "surface": "להשאיר",
-      "gloss": "để để lại"
+      "gloss": "để lại"
     },
     {
       "surface": "לנו",
-      "gloss": "cho chúng tôi"
+      "gloss": "cho chúng ta"
     },
     {
       "surface": "פליטה",
-      "gloss": "một phần sót-lại"
+      "gloss": "phần-sót"
     },
     {
       "surface": "ולתת",
@@ -57,19 +58,19 @@
     },
     {
       "surface": "לנו",
-      "gloss": "cho chúng tôi"
+      "gloss": "cho chúng ta"
     },
     {
       "surface": "יתד",
-      "gloss": "một cọc"
+      "gloss": "cái-đinh"
     },
     {
       "surface": "במקום",
-      "gloss": "trong nơi"
+      "gloss": "nơi"
     },
     {
       "surface": "קדשו",
-      "gloss": "thánh của Ngài"
+      "gloss": "chơn-thánh của Ngài"
     },
     {
       "surface": "להאיר",
@@ -77,15 +78,15 @@
     },
     {
       "surface": "עינינו",
-      "gloss": "mắt chúng tôi"
+      "gloss": "mắt chúng ta"
     },
     {
       "surface": "אלהינו",
-      "gloss": "Elohim của chúng tôi"
+      "gloss": "Elohim của chúng ta"
     },
     {
       "surface": "ולתתנו",
-      "gloss": "và để ban cho chúng tôi"
+      "gloss": "và để ban cho chúng ta"
     },
     {
       "surface": "מחיה",
@@ -93,13 +94,13 @@
     },
     {
       "surface": "מעט",
-      "gloss": "chút ít"
+      "gloss": "chút-ít"
     },
     {
       "surface": "בעבדתנו",
-      "gloss": "trong sự làm-guộng của chúng tôi"
+      "gloss": "trong sự-làm-tôi của chúng ta"
     }
   ],
-  "timestamp": "2026-08-19T05:43:15.927131752Z",
+  "timestamp": "2026-08-24T16:24:04.124842863Z",
   "model": "glm-5.3"
 }

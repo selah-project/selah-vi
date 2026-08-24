@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "vi",
   "chapter": 21,
-  "translation": "Và Ta sẽ không thêm làm cho bàn chân của Yisrael xiêu tắt khỏi đất mà Ta đã ban cho tổ phụ họa; chỉ trừ nếu họ gìn giữ để làm theo mọi điều Ta đã truyền dạy họ, và theo toàn bộ Torah mà Moshe, tôi tớ Ta, đã truyền dạy ⟨את⟩ ⟨אתם⟩.",
+  "translation": "Và Ta sẽ không thêm nữa làm cho bàn chân Yisrael lung lay khỏi đất mà Ta đã ban cho tổ phụ họ, chỉ trừ khi họ giữ gìn để làm theo mọi điều Ta đã truyền cho họ, và theo toàn bộ Torah mà Moshe, tôi tớ của Ta, đã truyền cho họ.",
   "tokens": [
     {
       "surface": "ולא",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "אסיף",
-      "gloss": "Ta sẽ thêm"
+      "gloss": "thêm nữa"
     },
     {
       "surface": "להניד",
-      "gloss": "làm cho xiêu tắt"
+      "gloss": "làm lung lay"
     },
     {
       "surface": "רגל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "của Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "מן",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "ישמרו",
-      "gloss": "họ gìn giữ"
+      "gloss": "họ giữ gìn"
     },
     {
       "surface": "לעשות",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "ככל",
-      "gloss": "theo mọi"
+      "gloss": "theo mọi điều"
     },
     {
       "surface": "אשר",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "צויתים",
-      "gloss": "Ta đã truyền dạy họ"
+      "gloss": "Ta đã truyền cho họ"
     },
     {
       "surface": "ולכל",
@@ -89,22 +89,22 @@
     },
     {
       "surface": "צוה",
-      "gloss": "đã truyền dạy"
+      "gloss": "đã truyền"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "gloss": "⟨את⟩",
       "marks": "họ"
     },
     {
       "surface": "עבדי",
-      "gloss": "tôi tớ Ta"
+      "gloss": "tôi tớ của Ta"
     },
     {
       "surface": "משה",
       "gloss": "Moshe"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.030001111Z",
+  "timestamp": "2026-08-24T16:58:27.522469240Z",
   "model": "glm-5.3"
 }

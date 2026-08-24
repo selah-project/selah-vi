@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "vi",
   "chapter": 16,
-  "translation": "Vì Yahweh phán như vầy: Chớ vào nhà tang宴会 — chớ vào nhà yến tiệc (marzêach), chớ đi than khóc, chớ lắc đầu cho họ; vì Ta đã thu lấy ⟨את⟩ sự bình an của Ta khỏi ⟨את⟩ dân này, sấm của Yahweh: ⟨את⟩ sự nhân từ và ⟨את⟩ các sự thương xót.",
+  "translation": "Vì Yahweh phán như vầy: Ngươi đừng vào nhà mac-rê-akh (tang lễ), đừng đi để than khóc, và đừng rung mình vì họ; vì Ta đã thu lấy ⟨את⟩ sự bình an của Ta khỏi dân này, sấm của Yahweh: ⟨את⟩ sự nhân từ và ⟨את⟩ các sự thương xót.",
   "tokens": [
     {
       "surface": "כי",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "chớ"
+      "gloss": "đừng"
     },
     {
       "surface": "תבוא",
-      "gloss": "ngươi vào"
+      "gloss": "ngươi hãy vào"
     },
     {
       "surface": "בית",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "מרזח",
-      "gloss": "tiệc tang"
+      "gloss": "mac-rê-akh (yến tang)"
     },
     {
       "surface": "ואל",
-      "gloss": "và chớ"
+      "gloss": "và đừng"
     },
     {
       "surface": "תלך",
-      "gloss": "ngươi đi"
+      "gloss": "đi"
     },
     {
       "surface": "לספוד",
@@ -53,15 +53,15 @@
     },
     {
       "surface": "ואל",
-      "gloss": "và chớ"
+      "gloss": "và đừng"
     },
     {
       "surface": "תנד",
-      "gloss": "ngươi lắc đầu"
+      "gloss": "rung mình"
     },
     {
       "surface": "להם",
-      "gloss": "cho họ"
+      "gloss": "vì họ"
     },
     {
       "surface": "כי",
@@ -94,11 +94,11 @@
     },
     {
       "surface": "נאם",
-      "gloss": "sấm"
+      "gloss": "sấm của"
     },
     {
       "surface": "יהוה",
-      "gloss": "của Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "את",
@@ -119,6 +119,6 @@
       "gloss": "các sự thương xót"
     }
   ],
-  "timestamp": "2026-08-19T04:20:40.360943933Z",
+  "timestamp": "2026-08-24T16:15:30.485259780Z",
   "model": "glm-5.3"
 }

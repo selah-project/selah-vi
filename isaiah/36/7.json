@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "vi",
   "chapter": 36,
-  "translation": "Nếu ngươi nói với ta: 'Vào Yahweh Elohim của chúng ta chúng ta đã tin cậy' — chẳng phải ⟨ה⟩ là Đấng mà Hizkiyahu đã dời ⟨את⟩ các nơi cao của Ngài và ⟨את⟩ các bàn thờ của Ngài, và đã nói với Yehuda và với Yerushalayim: 'Trước bàn thờ này các ngươi hãy phủ phục' sao?",
+  "translation": "Còn nếu ngươi nói với ta rằng: 'Chúng tôi tin cậy Yahweh Elohim của chúng tôi' — há chẳng phải ⟨את⟩ Ngài, Đấng mà Chizkiyahu đã dỡ bỏ các bàn thờ trên cao của ông và ⟨את⟩ các bàn thờ của ông, và đã nói với Yehudah và với Yerushalayim rằng: 'Trước bàn thờ này các ngươi hãy phủ phục'?",
   "tokens": [
     {
       "surface": "וכי",
-      "gloss": "và nếu"
+      "gloss": "còn nếu"
     },
     {
       "surface": "תאמר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "vào"
+      "gloss": "rằng"
     },
     {
       "surface": "יהוה",
@@ -29,49 +29,49 @@
     },
     {
       "surface": "אלהינו",
-      "gloss": "Elohim của chúng ta"
+      "gloss": "Elohim của chúng tôi"
     },
     {
       "surface": "בטחנו",
-      "gloss": "chúng ta đã tin cậy"
+      "gloss": "chúng tôi tin cậy"
     },
     {
       "surface": "הלוא",
-      "gloss": "chẳng phải"
+      "gloss": "há chẳng"
     },
     {
       "surface": "הוא",
-      "gloss": "là Đấng"
+      "gloss": "Ngài"
     },
     {
       "surface": "אשר",
-      "gloss": "mà"
+      "gloss": "Đấng mà"
     },
     {
       "surface": "הסיר",
-      "gloss": "đã dời"
+      "gloss": "đã dỡ bỏ"
     },
     {
       "surface": "חזקיהו",
-      "gloss": "Hizkiyahu"
+      "gloss": "Chizkiyahu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "các nơi cao của Ngài"
+      "marks": "các bàn thờ trên cao của ông"
     },
     {
       "surface": "במתיו",
-      "gloss": "các nơi cao của Ngài"
+      "gloss": "các bàn thờ trên cao của ông"
     },
     {
       "surface": "ואת",
       "gloss": "và ⟨את⟩",
-      "marks": "các bàn thờ của Ngài"
+      "marks": "các bàn thờ của ông"
     },
     {
       "surface": "מזבחתיו",
-      "gloss": "các bàn thờ của Ngài"
+      "gloss": "các bàn thờ của ông"
     },
     {
       "surface": "ויאמר",
@@ -79,10 +79,10 @@
     },
     {
       "surface": "ליהודה",
-      "gloss": "với Yehuda"
+      "gloss": "với Yehudah"
     },
     {
-      "surface": "ולירושלם",
+      "surface": "ו לירושלם",
       "gloss": "và với Yerushalayim"
     },
     {
@@ -102,6 +102,6 @@
       "gloss": "các ngươi hãy phủ phục"
     }
   ],
-  "timestamp": "2026-08-19T04:11:18.012835230Z",
+  "timestamp": "2026-08-24T16:14:21.498504515Z",
   "model": "glm-5.3"
 }

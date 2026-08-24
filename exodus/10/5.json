@@ -5,20 +5,20 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 10,
-  "translation": "và chúng sẽ che phủ ⟨את⟩ mặt ⟨của⟩ đất, đến nỗi không ai có thể thấy ⟨את⟩ đất; chúng sẽ ăn ⟨את⟩ phần còn lại, ⟨là⟩ những穗 thoát còn sót lại cho các ngươi sau mưa tuyết đá, và sẽ ăn ⟨את⟩ mọi cây cối mọc lên cho các ngươi ngoài đồng.",
+  "translation": "và chúng sẽ che phủ ⟨את⟩ mắt của đất, và người ta sẽ không thể nhìn thấy ⟨את⟩ đất; và chúng sẽ ăn ⟨את⟩ phần còn sót lại, ⟨את⟩ điều được cứu thoát còn lại cho các ngươi từ mưa đá; và chúng sẽ ăn ⟨את⟩ mọi cây cối mọc lên cho các ngươi từ đồng ruộng.",
   "tokens": [
     {
       "surface": "וכסה",
-      "gloss": "và sẽ che phủ"
+      "gloss": "và chúng sẽ che phủ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mặt của đất"
+      "marks": "mắt của đất"
     },
     {
       "surface": "עין",
-      "gloss": "mắt \/ mặt"
+      "gloss": "mắt"
     },
     {
       "surface": "הארץ",
@@ -26,15 +26,15 @@
     },
     {
       "surface": "ולא",
-      "gloss": "đến nỗi không"
+      "gloss": "và không"
     },
     {
       "surface": "יוכל",
-      "gloss": "có thể"
+      "gloss": "sẽ có thể"
     },
     {
       "surface": "לראת",
-      "gloss": "thấy"
+      "gloss": "nhìn thấy"
     },
     {
       "surface": "את",
@@ -47,24 +47,24 @@
     },
     {
       "surface": "ואכל",
-      "gloss": "và sẽ ăn"
+      "gloss": "và chúng sẽ ăn"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "phần còn lại"
+      "marks": "phần còn sót lại"
     },
     {
       "surface": "יתר",
-      "gloss": "phần còn lại"
+      "gloss": "phần còn sót lại"
     },
     {
       "surface": "הפלטה",
-      "gloss": "điều thoát khỏi"
+      "gloss": "điều được cứu thoát"
     },
     {
       "surface": "הנשארת",
-      "gloss": "còn sót lại"
+      "gloss": "còn lại"
     },
     {
       "surface": "לכם",
@@ -72,15 +72,15 @@
     },
     {
       "surface": "מן",
-      "gloss": "sau \/ khỏi"
+      "gloss": "từ"
     },
     {
       "surface": "הברד",
-      "gloss": "mưa tuyết đá"
+      "gloss": "mưa đá"
     },
     {
       "surface": "ואכל",
-      "gloss": "và sẽ ăn"
+      "gloss": "và chúng sẽ ăn"
     },
     {
       "surface": "את",
@@ -105,13 +105,13 @@
     },
     {
       "surface": "מן",
-      "gloss": "ngoài"
+      "gloss": "từ"
     },
     {
       "surface": "השדה",
-      "gloss": "đồng"
+      "gloss": "đồng ruộng"
     }
   ],
-  "timestamp": "2026-08-19T02:29:59.725546488Z",
+  "timestamp": "2026-08-24T16:03:12.225600354Z",
   "model": "glm-5.3"
 }

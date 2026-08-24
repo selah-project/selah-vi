@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "vi",
   "chapter": 8,
-  "translation": "Còn các thành mà Huram đã cho Shelomoh, thì Shelomoh đã xây ⟨את⟩ ⟨אתם⟩ chúng, và ông cho con cái Yisra'el định cư ở đó.",
+  "translation": "Còn các thành mà Churam đã cho Shlomo, thì Shlomo đã xây ⟨את⟩ chúng, và ông cho con cái Yisrael định cư tại đó ⟨את⟩.",
   "tokens": [
     {
       "surface": "והערים",
-      "gloss": "và các thành"
+      "gloss": "còn các thành"
     },
     {
       "surface": "אשר",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "חורם",
-      "gloss": "Huram"
+      "gloss": "Churam"
     },
     {
       "surface": "לשלמה",
-      "gloss": "cho Shelomoh"
+      "gloss": "cho Shlomo"
     },
     {
       "surface": "בנה",
@@ -33,12 +33,12 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomoh"
+      "gloss": "Shlomo"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "các thành"
+      "gloss": "⟨את⟩",
+      "marks": "chúng (các thành)"
     },
     {
       "surface": "ויושב",
@@ -46,12 +46,12 @@
     },
     {
       "surface": "שם",
-      "gloss": "ở đó"
+      "gloss": "tại đó"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "con cái Yisra'el"
+      "marks": "con cái Yisrael"
     },
     {
       "surface": "בני",
@@ -59,9 +59,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.008851238Z",
+  "timestamp": "2026-08-24T16:25:09.964389917Z",
   "model": "glm-5.3"
 }

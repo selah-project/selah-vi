@@ -5,8 +5,117 @@
   "book": "2-kings",
   "lang": "vi",
   "chapter": 12,
-  "translation": "Yehoash nói với các thầy tế lễ: mọi银子 bạc các vật thánh được đem vào nhà Yahweh — bạc của mỗi người qua lại, bạc của các mạng người theo định giá mình — mọi bạc nào lên trên lòng ai để đem vào nhà Yahweh.",
-  "tokens": [],
-  "timestamp": "2026-08-19T03:59:04.811008161Z",
+  "translation": "Và Yehoash nói với ⟨các⟩ tư tế: hết thảy bạc của các vật thánh được đem vào nhà Yahweh — bạc thông hành, tiền chuộc từng người theo định giá của mình, hết thảy bạc nào lên trên lòng người nào để đem vào nhà Yahweh,",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoash"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "các tư tế"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hết thảy"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "bạc"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "của các vật thánh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "יובא",
+      "gloss": "được đem vào"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "bạc"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "thông hành"
+    },
+    {
+      "surface": "איש",
+      "gloss": "từng người"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "bạc"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "các sinh mạng"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "định giá của nó"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hết thảy"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "bạc"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "lên trên"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "לב",
+      "gloss": "lòng"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người nào"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "để đem vào"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-24T16:13:25.643307398Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,77 @@
   "book": "2-chronicles",
   "lang": "vi",
   "chapter": 31,
-  "translation": "Và khi mệnh lệnh lan ra, con cái Yisrael đã mang đến thật nhiều hoa quả đầu mùa của ngũ cốc, rượu mới, dầu, và mật ong, và mọi sản vật của đồng ruộng; và mười分之一 của tất cả, họ đã mang vào thật dồi dào.",
-  "tokens": [],
-  "timestamp": "2026-08-19T06:00:54.228159536Z",
+  "translation": "Và khi mệnh lệnh được lan ra, con cái Yisrael đã đem ⟨את⟩ số lượng lớn đầu mùa của ngũ cốc, rượu mới, dầu, và mật, và mọi sản vật của đồng ruộng; và mang vào ⟨את⟩ thuế một phần mười của tất cả, thật dồi dào.",
+  "tokens": [
+    {
+      "surface": "וכפרץ",
+      "gloss": "và khi lan ra"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "mệnh lệnh"
+    },
+    {
+      "surface": "הרבו",
+      "gloss": "đã nhân nhiều"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "đầu mùa"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "ngũ cốc"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "rượu mới"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "và dầu"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "và mật"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "sản vật"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "đồng ruộng"
+    },
+    {
+      "surface": "ומעשר",
+      "gloss": "và thuế một phần mười"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "của tất cả"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "dồi dào"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "đã mang vào"
+    }
+  ],
+  "timestamp": "2026-08-24T16:25:47.876966962Z",
   "model": "glm-5.3"
 }

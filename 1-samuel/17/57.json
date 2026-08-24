@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "vi",
   "chapter": 17,
-  "translation": "Khi David trở về từ việc đánh giết ⟨את⟩ người Pelishti, thì Avner đã bắt ⟨את⟩ ông và đưa ông đến trước mặt Sha'ul, với đầu người Pelishti trong tay ông.",
+  "translation": "Khi David trở về từ việc đánh giết ⟨את⟩ người Pelishti, thì Avner bắt lấy ⟨את⟩ ông ta và đưa ông ta đến trước mặt Shaúl, và đầu người Pelishti ⟨trong⟩ tay ông.",
   "tokens": [
     {
       "surface": "וכשוב",
-      "gloss": "khi trở về"
+      "gloss": "và khi trở về"
     },
     {
       "surface": "דוד",
@@ -30,12 +30,12 @@
     },
     {
       "surface": "ויקח",
-      "gloss": "thì đã bắt"
+      "gloss": "thì bắt lấy"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "ông (David)"
+      "gloss": "⟨את⟩ ông ta",
+      "marks": "Avner bắt lấy ông ta"
     },
     {
       "surface": "אבנר",
@@ -43,15 +43,15 @@
     },
     {
       "surface": "ויבאהו",
-      "gloss": "và đã đưa ông"
+      "gloss": "và đưa ông ta đến"
     },
     {
       "surface": "לפני",
-      "gloss": "đến trước mặt"
+      "gloss": "trước mặt"
     },
     {
       "surface": "שאול",
-      "gloss": "Sha'ul"
+      "gloss": "Shaúl"
     },
     {
       "surface": "וראש",
@@ -66,6 +66,6 @@
       "gloss": "trong tay ông"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.013224242Z",
+  "timestamp": "2026-08-24T16:11:03.198148217Z",
   "model": "glm-5.3"
 }

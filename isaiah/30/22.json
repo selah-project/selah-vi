@@ -5,49 +5,49 @@
   "book": "isaiah",
   "lang": "vi",
   "chapter": 30,
-  "translation": "Các ngươi sẽ làm ô uế ⟨את〕 lớp phủ bọc của hình chạm bằng bạc ngươi, và ⟨את〕 tấm phủ của tượng đúc bằng vàng ngươi; các ngươi sẽ liệng chúng đi như vật kinh tởm — 'Hãy ra đi!' — ngươi sẽ nói với nó.",
+  "translation": "Ngươi sẽ làm ô uế ⟨את⟩ lớp bọc phủ của hình chạm bằng bạc ngươi, và ⟨את⟩ lớp tráng của hình đúc bằng vàng ngươi; ngươi sẽ quăng chúng đi như vật kinh tởm; 'Hãy ra đi,' ngươi sẽ nói với nó.",
   "tokens": [
     {
       "surface": "וטמאתם",
-      "gloss": "và các ngươi sẽ làm ô uế"
+      "gloss": "ngươi sẽ làm ô uế"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lớp phủ bọc của hình chạm"
+      "marks": "lớp bọc phủ của hình chạm bằng bạc"
     },
     {
       "surface": "צפוי",
-      "gloss": "lớp phủ bọc"
+      "gloss": "lớp bọc phủ"
     },
     {
       "surface": "פסילי",
-      "gloss": "của hình chạm"
+      "gloss": "hình chạm"
     },
     {
       "surface": "כספך",
-      "gloss": "bạc ngươi"
+      "gloss": "bạc của ngươi"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "tấm phủ của tượng đúc"
+      "gloss": "và ⟨את⟩",
+      "marks": "lớp tráng của hình đúc bằng vàng"
     },
     {
       "surface": "אפדת",
-      "gloss": "tấm phủ"
+      "gloss": "lớp tráng (như êphốt)"
     },
     {
       "surface": "מסכת",
-      "gloss": "của tượng đúc"
+      "gloss": "hình đúc"
     },
     {
       "surface": "זהבך",
-      "gloss": "vàng ngươi"
+      "gloss": "vàng của ngươi"
     },
     {
       "surface": "תזרם",
-      "gloss": "các ngươi sẽ liệng"
+      "gloss": "ngươi sẽ quăng"
     },
     {
       "surface": "כמו",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "דוה",
-      "gloss": "vật kinh tởm (bịnh lưu huyết)"
+      "gloss": "vật kinh tởm (bệnh lưu huyết)"
     },
     {
       "surface": "צא",
@@ -70,6 +70,6 @@
       "gloss": "với nó"
     }
   ],
-  "timestamp": "2026-08-19T04:09:41.875944465Z",
+  "timestamp": "2026-08-24T16:14:15.003057306Z",
   "model": "glm-5.3"
 }

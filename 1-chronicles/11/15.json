@@ -5,19 +5,19 @@
   "book": "1-chronicles",
   "lang": "vi",
   "chapter": 11,
-  "translation": "Và ba người trong số ba mươi vị首领 — ba người trong số ba mươi thủ lãnh đã đi xuống, đầu trên tảng đá, đến cùng David, đến hang Adullam; và trại binh Philistit đóng trại trong trũng Rephaim.",
+  "translation": "Và ba người trong số ba mươi vị首领 đã xuống đến tảng đá, đến với David, đến hang Adullam; còn trại quân Pelishtim đóng trại trong trũng Rephaim.",
   "tokens": [
     {
       "surface": "וירדו",
-      "gloss": "và đã đi xuống"
+      "gloss": "đã xuống"
     },
     {
       "surface": "שלושה",
-      "gloss": "ba (người)"
+      "gloss": "ba"
     },
     {
       "surface": "מן",
-      "gloss": "trong số"
+      "gloss": "từ"
     },
     {
       "surface": "השלושים",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ראש",
-      "gloss": "thủ lãnh"
+      "gloss": "người đứng đầu"
     },
     {
       "surface": "על",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "đến cùng"
+      "gloss": "đến với"
     },
     {
       "surface": "דויד",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "ומחנה",
-      "gloss": "và trại binh"
+      "gloss": "và trại quân"
     },
     {
       "surface": "פלשתים",
-      "gloss": "các người Philistit"
+      "gloss": "Pelishtim"
     },
     {
       "surface": "חנה",
@@ -76,6 +76,6 @@
       "gloss": "Rephaim"
     }
   ],
-  "timestamp": "2026-08-19T05:49:33.404180784Z",
+  "timestamp": "2026-08-24T16:24:31.260352993Z",
   "model": "glm-5.3"
 }

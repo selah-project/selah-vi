@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "vi",
   "chapter": 7,
-  "translation": "Và người ta sẽ đáp: Vì họ đã bỏ ⟨את⟩ Yahweh, Elohim của tổ phụ họ, Đấng đã đưa họ ra khỏi đất Mitsrayim, họ đã bám lấy các elohim khác và quỳ lạy chúng và phục sự chúng; vì cớ đó Ngài đã đem đến trên họ ⟨את⟩ mọi sự dữ灾 này.",
+  "translation": "Và họ sẽ nói: Vì họ đã bỏ ⟨את⟩ Yahweh, Elohim của tổ phụ họ, Đấng đã đưa họ ra khỏi đất Mitzrayim, đã níu lấy các elohim khác, cúi lạy trước chúng và hầu việc chúng; vì vậy Ngài đã đem ⟨את⟩ mọi điều ác này đến trên họ.",
   "tokens": [
     {
       "surface": "ואמרו",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsrayim"
+      "gloss": "Mitzrayim"
     },
     {
       "surface": "ויחזיקו",
-      "gloss": "và họ đã bám lấy"
+      "gloss": "và đã níu lấy"
     },
     {
       "surface": "באלהים",
@@ -70,15 +70,15 @@
     },
     {
       "surface": "וישתחוו",
-      "gloss": "và quỳ lạy"
+      "gloss": "và cúi lạy"
     },
     {
       "surface": "להם",
-      "gloss": "chúng"
+      "gloss": "trước chúng"
     },
     {
       "surface": "ויעבדום",
-      "gloss": "và phục sự chúng"
+      "gloss": "và hầu việc chúng"
     },
     {
       "surface": "על",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "כן",
-      "gloss": "cớ đó"
+      "gloss": "vậy"
     },
     {
       "surface": "הביא",
@@ -99,7 +99,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mọi sự dữ này"
+      "marks": "mọi điều ác"
     },
     {
       "surface": "כל",
@@ -107,13 +107,13 @@
     },
     {
       "surface": "הרעה",
-      "gloss": "sự dữ"
+      "gloss": "điều ác"
     },
     {
       "surface": "הזאת",
       "gloss": "này"
     }
   ],
-  "timestamp": "2026-08-19T05:55:20.473350940Z",
+  "timestamp": "2026-08-24T16:25:18.416264648Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 27,
-  "translation": "Chiều dài của sân ⟨the⟩ là một trăm cubit, và bề ngang năm mươi trên năm mươi, và chiều cao năm cubit, vải gai dóc sáu sợi, và chân đế của chúng bằng đồng.",
+  "translation": "Chiều dài của sân một trăm amma, bề rộng năm mươi trên năm mươi, và chiều cao năm amma, bằng vải gai xoắn mảnh, và chân đế của chúng bằng đồng.",
   "tokens": [
     {
       "surface": "ארך",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "החצר",
-      "gloss": "của sân ⟨the⟩"
+      "gloss": "của sân"
     },
     {
       "surface": "מאה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "באמה",
-      "gloss": "bằng cubit"
+      "gloss": "bằng amma"
     },
     {
       "surface": "ורחב",
-      "gloss": "và bề ngang"
+      "gloss": "và bề rộng"
     },
     {
       "surface": "חמשים",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "אמות",
-      "gloss": "cubit"
+      "gloss": "amma"
     },
     {
       "surface": "שש",
-      "gloss": "vải gai trắng"
+      "gloss": "vải gai (trắng)"
     },
     {
       "surface": "משזר",
-      "gloss": "dóc sợi"
+      "gloss": "xoắn mảnh"
     },
     {
       "surface": "ואדניהם",
@@ -64,6 +64,6 @@
       "gloss": "đồng"
     }
   ],
-  "timestamp": "2026-08-19T02:34:43.890860186Z",
+  "timestamp": "2026-08-24T16:04:10.483686306Z",
   "model": "glm-5.3"
 }

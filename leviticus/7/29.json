@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "vi",
   "chapter": 7,
-  "translation": "Hãy nói với con cái Yitsrael, rằng: Người nào dâng ⟨את⟩ hy sinh th人们在 bình an của mình cho Yahweh, thì phải đem ⟨את⟩ phần dâng của mình đến Yahweh, từ hy sinh bình an của mình.",
+  "translation": "Hãy nói với con cái Yisrael rằng: người nào dâng ⟨את⟩ sinh tế bình an của mình cho Yahweh, thì phải đem ⟨את⟩ lễ vật của mình đến Yahweh, từ sinh tế bình an của mình.",
   "tokens": [
     {
       "surface": "דבר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yitsrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "לאמר",
@@ -34,11 +34,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hy sinh"
+      "marks": "sinh tế bình an của mình"
     },
     {
       "surface": "זבח",
-      "gloss": "hy sinh"
+      "gloss": "sinh tế"
     },
     {
       "surface": "שלמיו",
@@ -50,30 +50,30 @@
     },
     {
       "surface": "יביא",
-      "gloss": "phải đem"
+      "gloss": "phải đem đến"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "phần dâng của mình"
+      "marks": "lễ vật của mình"
     },
     {
       "surface": "קרבנו",
-      "gloss": "phần dâng của mình"
+      "gloss": "lễ vật của mình"
     },
     {
       "surface": "ליהוה",
-      "gloss": "đến Yahweh"
+      "gloss": "cho Yahweh"
     },
     {
       "surface": "מזבח",
-      "gloss": "từ hy sinh"
+      "gloss": "từ sinh tế"
     },
     {
       "surface": "שלמיו",
       "gloss": "bình an của mình"
     }
   ],
-  "timestamp": "2026-08-19T02:40:58.937813222Z",
+  "timestamp": "2026-08-24T16:05:29.631306235Z",
   "model": "glm-5.3"
 }

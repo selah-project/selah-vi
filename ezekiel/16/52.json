@@ -5,55 +5,56 @@
   "book": "ezekiel",
   "lang": "vi",
   "chapter": 16,
-  "translation": "Cả ngươi nữa, hãy mang sự nhục nhã của ngươi, mà ngươi đã đoán xét cho các chị em ngươi; bởi tội lỗi của ngươi — ngươi đáng ghét hơn chúng — chúng sẽ nên công chính hơn ngươi; cả ngươi nữa, hãy xấu hổ và mang sự nhục nhã của ngươi, trong sự làm các chị em ngươi nên công chính.",
+  "translation": "Cả ngươi nữa, hãy gánh ⟨את⟩ sự ô nhục của ngươi, vì ngươi đã xét đoán các chị em mình; trong các tội lỗi ngươi, vì ngươi đã làm gớm ghiếc hơn chúng nó, chúng nó ⟨được⟩ công bình hơn ngươi; thì cả ngươi cũng hãy xấu hổ, và hãy gánh ⟨את⟩ sự ô nhục của ngươi, trong sự ngươi khiến các chị em mình ⟨được⟩ công bình.",
   "tokens": [
     {
       "surface": "גם",
-      "gloss": "cả… nữa"
+      "gloss": "cả...nữa"
     },
     {
       "surface": "את",
-      "gloss": "ngươi (אתה)"
+      "gloss": "⟨את⟩",
+      "marks": "hãy gánh"
     },
     {
       "surface": "שאי",
-      "gloss": "hãy mang"
+      "gloss": "hãy gánh"
     },
     {
       "surface": "כלמתך",
-      "gloss": "sự nhục nhã của ngươi"
+      "gloss": "sự ô nhục của ngươi"
     },
     {
       "surface": "אשר",
-      "gloss": "mà"
+      "gloss": "vì"
     },
     {
       "surface": "פללת",
-      "gloss": "ngươi đã đoán xét"
+      "gloss": "ngươi đã xét đoán"
     },
     {
       "surface": "לאחותך",
-      "gloss": "cho các chị em ngươi"
+      "gloss": "các chị em mình"
     },
     {
       "surface": "בחטאתיך",
-      "gloss": "bởi tội lỗi của ngươi"
+      "gloss": "trong các tội lỗi ngươi"
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "vì"
     },
     {
       "surface": "התעבת",
-      "gloss": "ngươi đáng ghét hơn"
+      "gloss": "ngươi đã làm gớm ghiếc"
     },
     {
       "surface": "מהן",
-      "gloss": "hơn chúng"
+      "gloss": "hơn chúng nó"
     },
     {
       "surface": "תצדקנה",
-      "gloss": "chúng sẽ nên công chính"
+      "gloss": "chúng nó công bình"
     },
     {
       "surface": "ממך",
@@ -61,11 +62,12 @@
     },
     {
       "surface": "וגם",
-      "gloss": "và cả… nữa"
+      "gloss": "thì cả...cũng"
     },
     {
       "surface": "את",
-      "gloss": "ngươi (אתה)"
+      "gloss": "⟨את⟩",
+      "marks": "hãy xấu hổ"
     },
     {
       "surface": "בושי",
@@ -73,21 +75,21 @@
     },
     {
       "surface": "ושאי",
-      "gloss": "và hãy mang"
+      "gloss": "và hãy gánh"
     },
     {
       "surface": "כלמתך",
-      "gloss": "sự nhục nhã của ngươi"
+      "gloss": "sự ô nhục của ngươi"
     },
     {
       "surface": "בצדקתך",
-      "gloss": "trong sự làm nên công chính"
+      "gloss": "trong sự ngươi công bình hóa"
     },
     {
       "surface": "אחיותך",
       "gloss": "các chị em ngươi"
     }
   ],
-  "timestamp": "2026-08-19T04:34:39.742703355Z",
+  "timestamp": "2026-08-24T16:16:53.181856927Z",
   "model": "glm-5.3"
 }

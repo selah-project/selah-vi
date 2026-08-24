@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "vi",
   "chapter": 6,
-  "translation": "Và vua của Yisrael đang đi trên tường thành, và một người phụ nữ kêu crieschẳng和他 về với ông, nói: Xin cứu tôi, chúa tôi là đức vua.",
+  "translation": "Và ⟨là⟩ vua của Yisrael đang đi trên tường thành, thì một người phụ nữ kêu khóc lên với ông, rằng: Xin cứu giúp, chúa tôi, vua!",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "và có"
+      "gloss": "và ⟨là⟩"
     },
     {
       "surface": "מלך",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "החמה",
-      "gloss": "bức tường"
+      "gloss": "tường thành"
     },
     {
       "surface": "ואשה",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "צעקה",
-      "gloss": "kêu gào"
+      "gloss": "kêu khóc"
     },
     {
       "surface": "אליו",
-      "gloss": "về với ông"
+      "gloss": "với ông"
     },
     {
       "surface": "לאמר",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "הושיעה",
-      "gloss": "xin cứu"
+      "gloss": "xin cứu giúp"
     },
     {
       "surface": "אדני",
@@ -57,9 +57,9 @@
     },
     {
       "surface": "המלך",
-      "gloss": "đức vua"
+      "gloss": "vua"
     }
   ],
-  "timestamp": "2026-08-19T03:57:10.217125877Z",
+  "timestamp": "2026-08-24T16:12:55.196869814Z",
   "model": "glm-5.3"
 }

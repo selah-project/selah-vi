@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "vi",
   "chapter": 25,
-  "translation": "Và toàn thể ⟨ה⟩ dân sự, từ nhỏ đến lớn, cùng các quan trưởng của dũng sĩ, đứng dậy và đi vào Mitzrayim, vì họ sợ trước mặt người Kasdim.",
+  "translation": "Và toàn thể ⟨⟨the⟩⟩ dân chúng, từ nhỏ đến lớn, cùng các tướng của quân lực, đã đứng dậy và đi vào Mitsrajim, vì họ sợ mặt Kasdim.",
   "tokens": [
     {
       "surface": "ויקמו",
-      "gloss": "đứng dậy"
+      "gloss": "và đã đứng dậy"
     },
     {
       "surface": "כל",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "dân sự"
+      "gloss": "dân chúng"
     },
     {
       "surface": "מקטן",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "ושרי",
-      "gloss": "và các quan trưởng"
+      "gloss": "và các tướng"
     },
     {
       "surface": "החילים",
-      "gloss": "của dũng sĩ"
+      "gloss": "của quân lực"
     },
     {
       "surface": "ויבאו",
-      "gloss": "và đi vào"
+      "gloss": "và đã đi vào"
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitzrayim"
+      "gloss": "Mitsrajim"
     },
     {
       "surface": "כי",
@@ -57,13 +57,13 @@
     },
     {
       "surface": "מפני",
-      "gloss": "trước mặt"
+      "gloss": "mặt của"
     },
     {
       "surface": "כשדים",
-      "gloss": "người Kasdim"
+      "gloss": "Kasdim"
     }
   ],
-  "timestamp": "2026-08-19T04:03:20.490063915Z",
+  "timestamp": "2026-08-24T16:13:45.432240405Z",
   "model": "glm-5.3"
 }

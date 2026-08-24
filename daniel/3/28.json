@@ -5,8 +5,137 @@
   "book": "daniel",
   "lang": "vi",
   "chapter": 3,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-19T05:36:53.080759612Z",
+  "translation": "Nevukhadnetsar cất lời đáp rằng: Đáng chúc tụng Elah của Shadrakh, Meishakh va Avad-Nego, Đấng đã sai thiên sứ của Ngài và cứu giải các tôi tớ của Ngài, là những kẻ đã tin cậy nơi Ngài, đã thay đổi lời của vua, và đã trao thân mình, rằng họ sẽ không phục sự và không thờ lạy bất cứ vị elah nào, ngoại trừ Elah của chính họ.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "đáp lời"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevukhadnetsar"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "בריך",
+      "gloss": "đáng chúc tụng"
+    },
+    {
+      "surface": "אלההון",
+      "gloss": "Elah của họ"
+    },
+    {
+      "surface": "די",
+      "gloss": "Đấng"
+    },
+    {
+      "surface": "שדרך",
+      "gloss": "Shadrakh"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Meishakh"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "và"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Avad-Nego"
+    },
+    {
+      "surface": "די",
+      "gloss": "Đấng"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "đã sai"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "thiên sứ của Ngài"
+    },
+    {
+      "surface": "ושיזב",
+      "gloss": "và cứu giải"
+    },
+    {
+      "surface": "לעבדוהי",
+      "gloss": "các tôi tớ của Ngài"
+    },
+    {
+      "surface": "די",
+      "gloss": "là những kẻ"
+    },
+    {
+      "surface": "התרחצו",
+      "gloss": "đã tin cậy"
+    },
+    {
+      "surface": "עלוהי",
+      "gloss": "nơi Ngài"
+    },
+    {
+      "surface": "ומלת",
+      "gloss": "và lời"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "của vua"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "đã thay đổi"
+    },
+    {
+      "surface": "ויהבו",
+      "gloss": "và đã trao"
+    },
+    {
+      "surface": "גשמיהון",
+      "gloss": "thân mình họ"
+    },
+    {
+      "surface": "די",
+      "gloss": "rằng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "יפלחון",
+      "gloss": "họ sẽ phục sự"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יסגדון",
+      "gloss": "họ thờ lạy"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bất cứ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "vị elah nào"
+    },
+    {
+      "surface": "להן",
+      "gloss": "ngoại trừ"
+    },
+    {
+      "surface": "לאלההון",
+      "gloss": "Elah của chính họ"
+    }
+  ],
+  "timestamp": "2026-08-24T16:24:20.463137073Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "esther",
   "lang": "vi",
   "chapter": 3,
-  "translation": "Thì các đầy tớ của vua ở cổng vua nói với Mordecai: Sao ngươi vi phạm ⟨את〕 mệnh lệnh của vua?",
+  "translation": "Vậy các đầy tớ của vua, những kẻ ở cổng vua, nói với Mordecai: Vì sao ngươi vi phạm ⟨את⟩ mệnh lệnh của vua?",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "thì nói"
+      "gloss": "vậy nói"
     },
     {
       "surface": "עבדי",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ở"
+      "gloss": "những kẻ"
     },
     {
       "surface": "בשער",
-      "gloss": "cổng"
+      "gloss": "ở cổng"
     },
     {
       "surface": "המלך",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "מדוע",
-      "gloss": "sao"
+      "gloss": "vì sao"
     },
     {
       "surface": "אתה",
@@ -61,6 +61,6 @@
       "gloss": "vua"
     }
   ],
-  "timestamp": "2026-08-19T05:34:44.947274301Z",
+  "timestamp": "2026-08-24T16:23:07.326121327Z",
   "model": "glm-5.3"
 }

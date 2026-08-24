@@ -5,35 +5,35 @@
   "book": "2-kings",
   "lang": "vi",
   "chapter": 10,
-  "translation": "Sứ giả đến và báo cho người, nói: Họ đã đem đến các đầu của con trai vua. Người nói: Hãy đặt ⟨את⟩ ⟨אתם⟩ chúng thành hai đống trước cổng thành, cho đến sáng.",
+  "translation": "Và người đưa tin đến, báo cho hắn, rằng: Người ta đã đem các đầu của con trai vua. Và hắn nói: Hãy đặt ⟨את⟩ chúng thành hai đống tại cửa cổng, cho đến sáng.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "đã đến"
+      "gloss": "đến"
     },
     {
       "surface": "המלאך",
-      "gloss": "sứ giả"
+      "gloss": "người đưa tin"
     },
     {
       "surface": "ויגד",
-      "gloss": "đã báo"
+      "gloss": "báo"
     },
     {
       "surface": "לו",
-      "gloss": "cho người"
+      "gloss": "cho hắn"
     },
     {
       "surface": "לאמר",
-      "gloss": "nói rằng"
+      "gloss": "rằng"
     },
     {
       "surface": "הביאו",
-      "gloss": "họ đã đem đến"
+      "gloss": "đã đem"
     },
     {
       "surface": "ראשי",
-      "gloss": "các đầu của"
+      "gloss": "các đầu"
     },
     {
       "surface": "בני",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "và người nói"
+      "gloss": "và nói"
     },
     {
       "surface": "שימו",
@@ -53,8 +53,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "chúng (các đầu)"
+      "gloss": "⟨את⟩",
+      "marks": "hai đống"
     },
     {
       "surface": "שני",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "פתח",
-      "gloss": "trước"
+      "gloss": "cửa"
     },
     {
       "surface": "השער",
-      "gloss": "cổng thành"
+      "gloss": "cổng"
     },
     {
       "surface": "עד",
@@ -81,6 +81,6 @@
       "gloss": "sáng"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.029200039Z",
+  "timestamp": "2026-08-24T16:13:24.771717429Z",
   "model": "glm-5.3"
 }

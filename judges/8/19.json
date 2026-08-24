@@ -5,27 +5,27 @@
   "book": "judges",
   "lang": "vi",
   "chapter": 8,
-  "translation": "Và ông nói: \"Anh em tôi, con trai của mẹ tôi, là họ. Adonai Yahweh hằng sống, nếu các ngươi đã để họ sống thì tôi đã không giết ⟨אתכם⟩.\"",
+  "translation": "Ông nói: Các anh tôi, con trai của mẹ tôi, chính họ ⟨là⟩. Yahweh hằng sống, giá như các ngươi tha sống ⟨את⟩ họ, tôi đã không giết ⟨את⟩ các ngươi.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "và ông nói"
+      "gloss": "ông nói"
     },
     {
       "surface": "אחי",
-      "gloss": "anh em tôi"
+      "gloss": "các anh tôi"
     },
     {
       "surface": "בני",
-      "gloss": "con trai của"
+      "gloss": "con trai"
     },
     {
       "surface": "אמי",
-      "gloss": "mẹ tôi"
+      "gloss": "của mẹ tôi"
     },
     {
       "surface": "הם",
-      "gloss": "là họ"
+      "gloss": "chính họ"
     },
     {
       "surface": "חי",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "לו",
-      "gloss": "nếu chỉ"
+      "gloss": "giá như"
     },
     {
       "surface": "החיתם",
-      "gloss": "các ngươi đã để sống"
+      "gloss": "các ngươi tha sống"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ họ",
+      "gloss": "⟨את⟩",
       "marks": "họ"
     },
     {
@@ -58,10 +58,9 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩ các ngươi",
-      "marks": "các ngươi"
+      "gloss": "⟨את⟩ các ngươi"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.963568686Z",
+  "timestamp": "2026-08-24T16:09:57.170899727Z",
   "model": "glm-5.3"
 }

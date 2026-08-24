@@ -5,16 +5,16 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 40,
-  "translation": "Ngươi hãy đặt ⟨את⟩ bàn thờ tha thứ перед cửa vào lều — Lều Hẹn.",
+  "translation": "Và ngươi hãy đặt ⟨את⟩ bàn thờ của sự thiêu trước cửa đền tạm, trại hội mộ.",
   "tokens": [
     {
       "surface": "ונתתה",
-      "gloss": "ngươi hãy đặt"
+      "gloss": "và ngươi hãy đặt"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bàn thờ tha thứ"
+      "marks": "bàn thờ của sự thiêu"
     },
     {
       "surface": "מזבח",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "העלה",
-      "gloss": "tha thứ"
+      "gloss": "của sự thiêu"
     },
     {
       "surface": "לפני",
@@ -30,21 +30,21 @@
     },
     {
       "surface": "פתח",
-      "gloss": "cửa vào"
+      "gloss": "cửa"
     },
     {
       "surface": "משכן",
-      "gloss": "lều"
+      "gloss": "đền tạm"
     },
     {
       "surface": "אהל",
-      "gloss": "lều trại"
+      "gloss": "trại"
     },
     {
       "surface": "מועד",
-      "gloss": "hẹn"
+      "gloss": "hội mộ"
     }
   ],
-  "timestamp": "2026-08-19T02:39:18.465234112Z",
+  "timestamp": "2026-08-24T16:05:17.646122159Z",
   "model": "glm-5.3"
 }

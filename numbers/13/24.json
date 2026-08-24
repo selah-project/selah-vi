@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 13,
-  "translation": "Nơi ấy ⟨được⟩ gọi tên là wadi Eshkol, vì поводу chùm nho mà con cái Yisrael cắt từ đó.",
+  "translation": "Nơi ấy được gọi là suối Eshcol, vì chùm nho Eshcol mà con cái Yisrael đã cắt từ đó.",
   "tokens": [
     {
       "surface": "למקום",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "ההוא",
-      "gloss": "ấy"
+      "gloss": "đó"
     },
     {
       "surface": "קרא",
-      "gloss": "⟨được⟩ gọi tên"
+      "gloss": "được gọi là"
     },
     {
       "surface": "נחל",
-      "gloss": "wadi"
+      "gloss": "suối"
     },
     {
       "surface": "אשכול",
-      "gloss": "Eshkol"
+      "gloss": "Eshcol"
     },
     {
       "surface": "על",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "אדות",
-      "gloss": "chuyện"
+      "gloss": "vì \/ về việc"
     },
     {
       "surface": "האשכול",
-      "gloss": "chùm nho"
+      "gloss": "chùm nho Eshcol"
     },
     {
       "surface": "אשר",
@@ -60,6 +60,6 @@
       "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-08-19T02:56:53.534618712Z",
+  "timestamp": "2026-08-24T16:06:30.122308224Z",
   "model": "glm-5.3"
 }

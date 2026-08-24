@@ -5,8 +5,61 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 25,
-  "translation": "Và các ngươi hãy làm một Hòm bằng gỗ keo: chiều dài của nó hai ammot rưỡi, chiều rộng một amma rưỡi, và chiều cao một amma rưỡi.",
-  "tokens": [],
-  "timestamp": "2026-08-19T02:34:07.510244447Z",
+  "translation": "Và họ phải làm một Rương bằng gỗ shitim: hai a-mát rưỡi là chiều dài của nó, một a-mát rưỡi là bề ngang của nó, và một a-mát rưỡi là chiều cao của nó.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "và họ phải làm"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "một Rương"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "gỗ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "hai a-mát"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "và rưỡi"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "chiều dài của nó"
+    },
+    {
+      "surface": "ו אמה",
+      "gloss": "và một a-mát"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "và rưỡi"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "bề ngang của nó"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "và một a-mát"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "và rưỡi"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "chiều cao của nó"
+    }
+  ],
+  "timestamp": "2026-08-24T16:04:22.013202837Z",
   "model": "glm-5.3"
 }

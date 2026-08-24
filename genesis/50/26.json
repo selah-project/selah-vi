@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 50,
-  "translation": "Và Yosef chết, ⟨ở⟩ tuổi một trăm mười năm; và họ ướp xác ⟨אתו⟩, và đặt ⟨אתו⟩ trong quan tài, tại Mitzrayim.",
+  "translation": "Và Yosef chết, tuổi một trăm lẻ mười năm; và họ ướp xác ⟨את⟩ ông, và đặt ông trong quan tài, tại Mitzrayim.",
   "tokens": [
     {
       "surface": "וימת",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "con trai của"
+      "gloss": "con của"
     },
     {
       "surface": "מאה",
@@ -38,11 +38,11 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ ông",
-      "marks": "Yosef"
+      "marks": "ông"
     },
     {
       "surface": "ויישם",
-      "gloss": "và được đặt"
+      "gloss": "và đặt"
     },
     {
       "surface": "בארון",
@@ -53,6 +53,6 @@
       "gloss": "tại Mitzrayim"
     }
   ],
-  "timestamp": "2026-08-19T06:03:30.445932174Z",
+  "timestamp": "2026-08-24T16:03:28.820703605Z",
   "model": "glm-5.3"
 }

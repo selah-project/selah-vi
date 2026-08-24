@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 18,
-  "translation": "Moshe chọn những người tài năng từ toàn thể Yisrael, và đặt ⟨את⟩ họ làm thủ领 trên dân, các trưởng ngàn, trưởng trăm, trưởng năm mươi và trưởng mười.",
+  "translation": "Moshe đã chọn những người tài năng từ toàn thể Yisra'el, và đặt ⟨את⟩ họ làm những đầu mục trên dân, những thủ lãnh của ngàn, thủ lãnh của trăm, thủ lãnh của năm mươi, và thủ lãnh của mười.",
   "tokens": [
     {
       "surface": "ויבחר",
-      "gloss": "chọn"
+      "gloss": "đã chọn"
     },
     {
       "surface": "משה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אנשי",
-      "gloss": "những người"
+      "gloss": "những người của"
     },
     {
       "surface": "חיל",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Yisra'el"
     },
     {
       "surface": "ויתן",
@@ -38,11 +38,11 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "họ (làm thủ领)"
+      "marks": "họ (những đầu mục)"
     },
     {
       "surface": "ראשים",
-      "gloss": "thủ领"
+      "gloss": "những đầu mục"
     },
     {
       "surface": "על",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "שרי",
-      "gloss": "trưởng"
+      "gloss": "thủ lãnh của"
     },
     {
       "surface": "אלפים",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "שרי",
-      "gloss": "trưởng"
+      "gloss": "thủ lãnh của"
     },
     {
       "surface": "מאות",
@@ -70,21 +70,21 @@
     },
     {
       "surface": "שרי",
-      "gloss": "trưởng"
+      "gloss": "thủ lãnh của"
     },
     {
       "surface": "חמשים",
       "gloss": "năm mươi"
     },
     {
-      "surface": "ויתן",
-      "gloss": "và"
+      "surface": "ושרי",
+      "gloss": "và thủ lãnh của"
     },
     {
       "surface": "עשרת",
       "gloss": "mười"
     }
   ],
-  "timestamp": "2026-08-19T02:32:38.775395167Z",
+  "timestamp": "2026-08-24T16:03:41.651992840Z",
   "model": "glm-5.3"
 }

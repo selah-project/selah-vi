@@ -5,8 +5,41 @@
   "book": "psalms",
   "lang": "vi",
   "chapter": 88,
-  "translation": "Tôi bị kể ⟨vào⟩ số những kẻ đi xuống hầm pit; tôi đã như người mạnh 无强 không còn sức mạnh.",
-  "tokens": [],
-  "timestamp": "2026-08-19T05:06:32.274024174Z",
+  "translation": "Tôi bị kể vào ⟨với⟩ những kẻ đi xuống hố; tôi đã trở nên như một người không có sức mạnh.",
+  "tokens": [
+    {
+      "surface": "נחשבתי",
+      "gloss": "tôi bị kể vào"
+    },
+    {
+      "surface": "עם",
+      "gloss": "với"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "những kẻ đi xuống"
+    },
+    {
+      "surface": "בור",
+      "gloss": "hố"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "tôi đã trở nên"
+    },
+    {
+      "surface": "כגבר",
+      "gloss": "như một người"
+    },
+    {
+      "surface": "אין",
+      "gloss": "không có"
+    },
+    {
+      "surface": "איל",
+      "gloss": "sức mạnh"
+    }
+  ],
+  "timestamp": "2026-08-24T16:21:15.691806618Z",
   "model": "glm-5.3"
 }

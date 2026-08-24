@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 4,
-  "translation": "Và ⟨người⟩ адам đã biết ⟨את⟩ Chavva vợ mình, và nàng thụ thai và sinh ⟨את⟩ Kayin, và nàng nói: Ta đã mua được một người ⟨cùng⟩ Yahweh.",
+  "translation": "Và người-đàn-ông đã biết ⟨את⟩ Chavvah vợ mình; nàng thụ thai và sinh ra ⟨את⟩ Qayin, và nàng nói: Ta đã được một người-đàn-ông ⟨את⟩ cùng với Yahweh.",
   "tokens": [
     {
       "surface": "והאדם",
-      "gloss": "và người"
+      "gloss": "Và người-đàn-ông"
     },
     {
       "surface": "ידע",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Chavva"
+      "marks": "Chavvah"
     },
     {
       "surface": "חוה",
-      "gloss": "Chavva"
+      "gloss": "Chavvah"
     },
     {
       "surface": "אשתו",
@@ -34,16 +34,16 @@
     },
     {
       "surface": "ותלד",
-      "gloss": "và nàng sinh"
+      "gloss": "và nàng sinh ra"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Kayin"
+      "marks": "Qayin"
     },
     {
       "surface": "קין",
-      "gloss": "Kayin"
+      "gloss": "Qayin"
     },
     {
       "surface": "ותאמר",
@@ -51,15 +51,15 @@
     },
     {
       "surface": "קניתי",
-      "gloss": "ta đã mua được"
+      "gloss": "ta đã được"
     },
     {
       "surface": "איש",
-      "gloss": "một người"
+      "gloss": "một người-đàn-ông"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ cùng với",
       "marks": "Yahweh"
     },
     {
@@ -67,6 +67,6 @@
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-19T00:48:43.977783375Z",
+  "timestamp": "2026-08-24T16:01:42.953807359Z",
   "model": "glm-5.3"
 }

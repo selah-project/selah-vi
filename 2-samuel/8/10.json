@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "vi",
   "chapter": 8,
-  "translation": "Thì Toi sai ⟨את⟩ Joram con trai mình đến với vua David, để hỏi thăm chúc bình an cho ông và chúc phước ông, vì ông đã chiến đấu chống Hadadezer và đánh bại ông ta; vì Hadadezer vốn là người chiến tranh với Toi; và trong tay Joram có các器 сосуд — các đồ bằng bạc, đồ bằng vàng và đồ bằng đồng.",
+  "translation": "Thì Toi sai ⟨את⟩ Yoram con trai ông đến với vua David để hỏi thăm chúc bình an cho ông, và để chúc phúc ông, vì ông đã chiến đấu chống Hadadezer và đánh bại hắn — vì Hadadezer vốn ⟨là⟩ người hay chinh chiến với Toi — và trong tay Yoram có các đồ bằng bạc, các đồ bằng vàng, và các đồ bằng đồng.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -18,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Joram con trai"
+      "marks": "Yoram"
     },
     {
       "surface": "יורם",
-      "gloss": "Joram"
+      "gloss": "Yoram"
     },
     {
       "surface": "בנו",
-      "gloss": "con trai"
+      "gloss": "con trai ông"
     },
     {
       "surface": "אל",
@@ -54,15 +54,15 @@
     },
     {
       "surface": "ולברכו",
-      "gloss": "và chúc phước"
+      "gloss": "và để chúc phúc ông"
     },
     {
       "surface": "על",
-      "gloss": "vì \/ về"
+      "gloss": "về việc"
     },
     {
       "surface": "אשר",
-      "gloss": "điều mà"
+      "gloss": "mà"
     },
     {
       "surface": "נלחם",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "ויכהו",
-      "gloss": "và đánh bại"
+      "gloss": "và đánh bại hắn"
     },
     {
       "surface": "כי",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "מלחמות",
-      "gloss": "chiến tranh"
+      "gloss": "hay chinh chiến"
     },
     {
       "surface": "תעי",
@@ -94,7 +94,7 @@
     },
     {
       "surface": "היה",
-      "gloss": "vốn là"
+      "gloss": "đã là"
     },
     {
       "surface": "הדדעזר",
@@ -102,7 +102,7 @@
     },
     {
       "surface": "ובידו",
-      "gloss": "và trong tay"
+      "gloss": "và trong tay hắn"
     },
     {
       "surface": "היו",
@@ -110,7 +110,7 @@
     },
     {
       "surface": "כלי",
-      "gloss": "đồ"
+      "gloss": "đồ bằng"
     },
     {
       "surface": "כסף",
@@ -118,7 +118,7 @@
     },
     {
       "surface": "וכלי",
-      "gloss": "và đồ"
+      "gloss": "và đồ bằng"
     },
     {
       "surface": "זהב",
@@ -126,13 +126,13 @@
     },
     {
       "surface": "וכלי",
-      "gloss": "và đồ"
+      "gloss": "và đồ bằng"
     },
     {
       "surface": "נחשת",
       "gloss": "đồng"
     }
   ],
-  "timestamp": "2026-08-19T03:40:30.987957629Z",
+  "timestamp": "2026-08-24T16:11:28.105255141Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,29 @@
   "book": "proverbs",
   "lang": "vi",
   "chapter": 24,
-  "translation": "Nhờ khôn ngoan mà nhà được xây lên, và nhờ hiểu biết mà ⟨nó⟩ được vững立. Không — nhờ thông sáng mà ⟨nó⟩ được thiết lập.",
-  "tokens": [],
-  "timestamp": "2026-08-19T06:19:34.796799954Z",
+  "translation": "Nhờ khôn ngoan ⟨một⟩ nhà được xây lên, và nhờ thông sáng nó được vững lập.",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "nhờ khôn ngoan"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "được xây lên"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "và nhờ thông sáng"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "được vững lập"
+    }
+  ],
+  "timestamp": "2026-08-24T16:22:09.924333792Z",
   "model": "glm-5.3"
 }

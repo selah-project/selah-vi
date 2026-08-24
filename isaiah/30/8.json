@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "vi",
   "chapter": 30,
-  "translation": "Bây giờ, hãy đến, chép nó trên tấm bảng ⟨את⟩ ⟨אתם⟩ với chúng, và trong quyển sách khắc lại nó, để nó thành ⟨làm chứng⟩ cho ngày sau cùng, đến đời đời đời đời.",
+  "translation": "Bây giờ, hãy đến, khắc nó ⟨את⟩ lên tấm bảng với chúng nó, và vào cuốn sách chép ra nó, để nó thành ⟨is⟩ cho ngày sau cùng, làm chứng đến vô cùng, đến đời đời.",
   "tokens": [
     {
       "surface": "עתה",
-      "gloss": "Bây giờ"
+      "gloss": "bây giờ"
     },
     {
       "surface": "בוא",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "כתבה",
-      "gloss": "chép nó"
+      "gloss": "khắc viết nó"
     },
     {
       "surface": "על",
-      "gloss": "trên"
+      "gloss": "lên trên"
     },
     {
       "surface": "לוח",
@@ -29,24 +29,24 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "chúng"
+      "gloss": "⟨את⟩ với chúng",
+      "marks": "chúng nó (dân sự)"
     },
     {
       "surface": "ועל",
-      "gloss": "và trong"
+      "gloss": "và vào"
     },
     {
       "surface": "ספר",
-      "gloss": "quyển sách"
+      "gloss": "cuốn sách"
     },
     {
       "surface": "חקה",
-      "gloss": "khắc lại nó"
+      "gloss": "chép khắc nó"
     },
     {
       "surface": "ותהי",
-      "gloss": "để nó thành"
+      "gloss": "và nó thành"
     },
     {
       "surface": "ליום",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "לעד",
-      "gloss": "đến ⟨làm chứng⟩"
+      "gloss": "làm chứng đến"
     },
     {
       "surface": "עד",
@@ -66,9 +66,9 @@
     },
     {
       "surface": "עולם",
-      "gloss": "đời đời"
+      "gloss": "đời đời vô cùng"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.041690576Z",
+  "timestamp": "2026-08-24T16:27:23.385250729Z",
   "model": "glm-5.3"
 }

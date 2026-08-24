@@ -5,20 +5,20 @@
   "book": "1-kings",
   "lang": "vi",
   "chapter": 15,
-  "translation": "Cả מַעֲכָה (Maakhá) mẹ ông nữa — ông truất nàng khỏi vị trí gevira, vì nàng đã làm một vật ghê tởm cho Asherá; rồi Asa chặt xuống ⟨את⟩ vật ghê tởm của nàng và đốt nó trong suối Kidron.",
+  "translation": "Và cả ⟨את⟩ Maakah, mẹ ông, ông đã phế bà khỏi vai trò [[gebira]], vì bà đã làm một vật ghê tởm cho Asherah; và Asa đã chặt xuống ⟨את⟩ vật ghê tởm của bà và đốt nó tại khe Kidron.",
   "tokens": [
     {
       "surface": "וגם",
-      "gloss": "cả… nữa"
+      "gloss": "và cả"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Maakhá"
+      "marks": "Maakah"
     },
     {
       "surface": "מעכה",
-      "gloss": "Maakhá"
+      "gloss": "Maakah"
     },
     {
       "surface": "אמו",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "ויסרה",
-      "gloss": "ông truất nàng"
+      "gloss": "ông đã phế bà"
     },
     {
       "surface": "מגבירה",
-      "gloss": "khỏi (vị trí) gevira"
+      "gloss": "khỏi (chức) thái hậu"
     },
     {
       "surface": "אשר",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "עשתה",
-      "gloss": "nàng đã làm"
+      "gloss": "bà đã làm"
     },
     {
       "surface": "מפלצת",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "לאשרה",
-      "gloss": "cho Asherá"
+      "gloss": "cho Asherah"
     },
     {
       "surface": "ויכרת",
-      "gloss": "rồi ông chặt xuống"
+      "gloss": "và (ông) đã chặt xuống"
     },
     {
       "surface": "אסא",
@@ -59,11 +59,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "vật ghê tởm của nàng"
+      "marks": "vật ghê tởm của bà"
     },
     {
       "surface": "מפלצתה",
-      "gloss": "vật ghê tởm của nàng"
+      "gloss": "vật ghê tởm của bà"
     },
     {
       "surface": "וישרף",
@@ -71,13 +71,13 @@
     },
     {
       "surface": "בנחל",
-      "gloss": "trong suối"
+      "gloss": "tại khe"
     },
     {
       "surface": "קדרון",
       "gloss": "Kidron"
     }
   ],
-  "timestamp": "2026-08-19T03:52:42.430843737Z",
+  "timestamp": "2026-08-24T16:12:38.351593Z",
   "model": "glm-5.3"
 }

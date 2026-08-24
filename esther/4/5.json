@@ -5,11 +5,11 @@
   "book": "esther",
   "lang": "vi",
   "chapter": 4,
-  "translation": "Và Ester gọi לHaTak, một trong các hoạn quan của vua, mà vua đã đặt trước mặt nàng, và nàng truyền lệnh cho ⟨את⟩ ông về Mordecai, để biết điều gì này là và vì điều gì này là.",
+  "translation": "Và Ester gọi La-ha-tác, một trong những hoạn quan của vua, người mà vua đã đặt trước mặt nàng, và nàng truyền lệnh cho ⟨את⟩-chàng đến với Mordecai, để biết việc này là gì và vì sao việc này.",
   "tokens": [
     {
       "surface": "ותקרא",
-      "gloss": "và-nàng-gọi"
+      "gloss": "và nàng gọi"
     },
     {
       "surface": "אסתר",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "להתך",
-      "gloss": "cho-HaTak"
+      "gloss": "La-ha-tác"
     },
     {
       "surface": "מסריסי",
-      "gloss": "các-hoạn-quan-của"
+      "gloss": "từ những hoạn quan của"
     },
     {
       "surface": "המלך",
@@ -29,23 +29,28 @@
     },
     {
       "surface": "אשר",
-      "gloss": "mà"
+      "gloss": "người mà"
     },
     {
       "surface": "העמיד",
-      "gloss": "ngài-đã-đặt"
+      "gloss": "đã đứng đặt"
     },
     {
       "surface": "לפניה",
-      "gloss": "trước-mặt-nàng"
+      "gloss": "trước mặt nàng"
     },
     {
       "surface": "ותצוהו",
-      "gloss": "và-nàng-truyền-lệnh-cho--ông"
+      "gloss": "và nàng truyền lệnh cho chàng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordecai"
     },
     {
       "surface": "על",
-      "gloss": "về"
+      "gloss": "đến với \/ về"
     },
     {
       "surface": "מרדכי",
@@ -53,29 +58,29 @@
     },
     {
       "surface": "לדעת",
-      "gloss": "để-biết"
+      "gloss": "để biết"
     },
     {
       "surface": "מה",
-      "gloss": "điều-gì"
+      "gloss": "gì"
     },
     {
       "surface": "זה",
-      "gloss": "này"
+      "gloss": "việc này"
     },
     {
       "surface": "ועל",
-      "gloss": "và-vì"
+      "gloss": "và vì"
     },
     {
       "surface": "מה",
-      "gloss": "điều-gì"
+      "gloss": "sao"
     },
     {
       "surface": "זה",
-      "gloss": "này"
+      "gloss": "việc này"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.955653751Z",
+  "timestamp": "2026-08-24T16:23:11.391834498Z",
   "model": "glm-5.3"
 }

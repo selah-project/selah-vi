@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "vi",
   "chapter": 3,
-  "translation": "Và Shemuël chạy đến E-li và nói: Đây tôi, vì ông đã gọi tôi. Nhưng 〈người〉 nói: Tôi không có gọi; hãy trở lại nằm xuống. Và 〈anh ta〉 đi và nằm xuống.",
+  "translation": "Và ⟨anh⟩ chạy đến với Èli và nói: Này tôi đây, vì ngài đã kêu tôi. Và ⟨Èli⟩ nói: Tôi không kêu; hãy quay lại nằm xuống. Và ⟨anh⟩ đi và nằm xuống.",
   "tokens": [
     {
       "surface": "וירץ",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "đến"
+      "gloss": "đến với"
     },
     {
       "surface": "עלי",
-      "gloss": "E-li"
+      "gloss": "Èli"
     },
     {
       "surface": "ויאמר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הנני",
-      "gloss": "đây tôi"
+      "gloss": "này tôi đây"
     },
     {
       "surface": "כי",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "קראת",
-      "gloss": "ông đã gọi"
+      "gloss": "ngài-đã-kêu"
     },
     {
       "surface": "לי",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "קראתי",
-      "gloss": "tôi đã gọi"
+      "gloss": "tôi-đã-kêu"
     },
     {
       "surface": "שוב",
-      "gloss": "hãy trở lại"
+      "gloss": "hãy-quay-lại"
     },
     {
       "surface": "שכב",
-      "gloss": "nằm xuống"
+      "gloss": "nằm-xuống"
     },
     {
       "surface": "וילך",
@@ -65,9 +65,9 @@
     },
     {
       "surface": "וישכב",
-      "gloss": "và nằm xuống"
+      "gloss": "và nằm-xuống"
     }
   ],
-  "timestamp": "2026-08-19T03:29:44.914155121Z",
+  "timestamp": "2026-08-24T16:10:47.954227421Z",
   "model": "glm-5.3"
 }

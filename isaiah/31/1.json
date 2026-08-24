@@ -5,8 +5,114 @@
   "book": "isaiah",
   "lang": "vi",
   "chapter": 31,
-  "translation": "Khốn thay kẻ xuống Mitsrajim cầu cứu, dựa vào ngựa mà倚... tựa vào chiến xa vì chúng nhiều, và vào kỵ binh vì chúng rất mạnh; nhưng chúng không ngước看向 Đấng Thánh của Yisra'el, và ⟨את⟩ Yahweh chúng không tìm kiếm.",
-  "tokens": [],
-  "timestamp": "2026-08-19T04:10:07.239693376Z",
+  "translation": "Khổ thay những kẻ xuống Mitsrajim để cầu cứu, dựa vào ngựa mà tin cậy, và tin vào chiến xa vì ⟨chúng⟩ đông, và vào kỵ binh vì ⟨chúng⟩ rất mạnh; nhưng chúng không ngước nhìn Đấng Thánh của Yisra'el, và ⟨את⟩ Yahweh chúng không tìm kiếm.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "khổ thay"
+    },
+    {
+      "surface": "הירדים",
+      "gloss": "những kẻ xuống"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "để cầu cứu"
+    },
+    {
+      "surface": "על",
+      "gloss": "vào"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ngựa"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "mà dựa dẫm"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "và tin cậy"
+    },
+    {
+      "surface": "על",
+      "gloss": "vào"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "chiến xa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "רב",
+      "gloss": "đông"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "và vào"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "kỵ binh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "mạnh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "rất"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nhưng không"
+    },
+    {
+      "surface": "שעו",
+      "gloss": "ngước nhìn"
+    },
+    {
+      "surface": "על",
+      "gloss": "vào"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Đấng Thánh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "của Yisra'el"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "tìm kiếm"
+    }
+  ],
+  "timestamp": "2026-08-24T16:14:25.100460383Z",
   "model": "glm-5.3"
 }

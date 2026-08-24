@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "vi",
   "chapter": 44,
-  "translation": "Elohim ơi, bằng tai mình chúng tôi đã nghe, tổ phụ chúng tôi đã kể lại cho chúng tôi ⟨⟨về⟩⟩ công việc Ngài đã làm trong ngày của họ, trong ngày xưa.",
+  "translation": "Elohim ơi, bằng tai chúng tôi đã nghe, cha ông chúng tôi đã kể lại cho chúng việc Ngài đã làm trong ngày của họ, trong ngày xưa.",
   "tokens": [
     {
       "surface": "אלהים",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "באזנינו",
-      "gloss": "bằng tai mình"
+      "gloss": "bằng tai chúng tôi"
     },
     {
       "surface": "שמענו",
-      "gloss": "chúng tôi đã nghe"
+      "gloss": "đã nghe"
     },
     {
       "surface": "אבותינו",
-      "gloss": "tổ phụ chúng tôi"
+      "gloss": "cha ông chúng tôi"
     },
     {
       "surface": "ספרו",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "פעל",
-      "gloss": "công việc"
+      "gloss": "việc"
     },
     {
       "surface": "פעלת",
@@ -52,6 +52,6 @@
       "gloss": "xưa"
     }
   ],
-  "timestamp": "2026-08-19T05:00:13.369911787Z",
+  "timestamp": "2026-08-24T16:20:29.524646247Z",
   "model": "glm-5.3"
 }

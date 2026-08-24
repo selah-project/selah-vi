@@ -5,15 +5,15 @@
   "book": "esther",
   "lang": "vi",
   "chapter": 4,
-  "translation": "Tất cả đầy tớ của vua và dân của các tỉnh của vua đều biết rằng bất kỳ người đàn ông hay người đàn bà nào đi đến với vua, vào sân trong, mà không được triệu gọi, thì có một luật của ⟨ông⟩ là phải bị xử死 — trừ người mà vua đưa ra ⟨cho⟩ ⟨את⟩ cây trượng vàng, và ⟨người ấy⟩ sẽ sống; còn tôi, tôi đã không được triệu gọi để đi vào với vua — nay ⟨đã⟩ ba mươi ngày.",
+  "translation": "Mọi tôi tớ của vua và dân của các tỉnh của vua đều biết rằng bất kỳ người đàn ông hay người đàn bà nào đi vào với vua, vào sân trong, mà không được triệu gọi, thì một luật của vua ⟨là⟩ phải bị xử tử, ngoài trừ người mà vua chìa ra cho ⟨את⟩ cây quyền trượng vàng thì ⟨anh ta⟩ được sống; còn tôi, tôi đã không được triệu gọi để đi vào với vua đã ba mươi ngày nay.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "tất cả"
+      "gloss": "mọi"
     },
     {
       "surface": "עבדי",
-      "gloss": "đầy tớ của"
+      "gloss": "tôi tớ của"
     },
     {
       "surface": "המלך",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ואשה",
-      "gloss": "hay người đàn bà"
+      "gloss": "hay người đàn bà nào"
     },
     {
       "surface": "אשר",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "יבוא",
-      "gloss": "đi đến"
+      "gloss": "đi vào"
     },
     {
       "surface": "אל",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "הפנימית",
-      "gloss": "bên trong"
+      "gloss": "trong"
     },
     {
       "surface": "אשר",
@@ -97,15 +97,15 @@
     },
     {
       "surface": "דתו",
-      "gloss": "luật của ⟨ông⟩"
+      "gloss": "luật của vua"
     },
     {
       "surface": "להמית",
-      "gloss": "phải bị xử死"
+      "gloss": "phải bị xử tử"
     },
     {
       "surface": "לבד",
-      "gloss": "trừ"
+      "gloss": "ngoài trừ"
     },
     {
       "surface": "מאשר",
@@ -113,11 +113,11 @@
     },
     {
       "surface": "יושיט",
-      "gloss": "đưa ra"
+      "gloss": "chìa ra"
     },
     {
       "surface": "לו",
-      "gloss": "cho ⟨ông⟩"
+      "gloss": "cho anh ta"
     },
     {
       "surface": "המלך",
@@ -126,11 +126,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "cây trượng vàng"
+      "marks": "cây quyền trượng"
     },
     {
       "surface": "שרביט",
-      "gloss": "cây trượng"
+      "gloss": "quyền trượng"
     },
     {
       "surface": "הזהב",
@@ -138,7 +138,7 @@
     },
     {
       "surface": "וחיה",
-      "gloss": "và ⟨người ấy⟩ sẽ sống"
+      "gloss": "và được sống"
     },
     {
       "surface": "ואני",
@@ -150,7 +150,7 @@
     },
     {
       "surface": "נקראתי",
-      "gloss": "được triệu gọi"
+      "gloss": "đã được triệu gọi"
     },
     {
       "surface": "לבוא",
@@ -166,7 +166,7 @@
     },
     {
       "surface": "זה",
-      "gloss": "nay"
+      "gloss": "đã"
     },
     {
       "surface": "שלושים",
@@ -174,9 +174,9 @@
     },
     {
       "surface": "יום",
-      "gloss": "ngày"
+      "gloss": "ngày nay"
     }
   ],
-  "timestamp": "2026-08-19T05:34:16.328174043Z",
+  "timestamp": "2026-08-24T16:23:31.294835763Z",
   "model": "glm-5.3"
 }

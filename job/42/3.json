@@ -5,15 +5,15 @@
   "book": "job",
   "lang": "vi",
   "chapter": 42,
-  "translation": "Ai ⟨is⟩ đây, kẻ che giấu mưu kế mà không có tri thức? Vì vậy tôi đã nói mà không hiểu biết — những việc quá奇妙 diệu kỳ đối với tôi, và tôi không biết.",
+  "translation": "Ai là ⟨này⟩ kẻ che giấu mưu luận mà không có tri thức? Vì vậy tôi đã kể ra, và ⟨tôi⟩ không hiểu; những điều quá奇妙 lạ lùng đối với tôi, và tôi không biết.",
   "tokens": [
     {
       "surface": "מי",
-      "gloss": "ai"
+      "gloss": "Ai"
     },
     {
       "surface": "זה",
-      "gloss": "đây"
+      "gloss": "này"
     },
     {
       "surface": "מעלים",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "עצה",
-      "gloss": "mưu kế"
+      "gloss": "mưu luận"
     },
     {
       "surface": "בלי",
-      "gloss": "không có"
+      "gloss": "mà không có"
     },
     {
       "surface": "דעת",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "הגדתי",
-      "gloss": "tôi đã nói"
+      "gloss": "tôi đã kể ra"
     },
     {
       "surface": "ולא",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "נפלאות",
-      "gloss": "những việc diệu kỳ"
+      "gloss": "điều lạ lùng"
     },
     {
       "surface": "ממני",
-      "gloss": "đối với tôi \/ hơn tôi"
+      "gloss": "đối với tôi"
     },
     {
       "surface": "ולא",
@@ -64,6 +64,6 @@
       "gloss": "tôi biết"
     }
   ],
-  "timestamp": "2026-08-19T05:28:23.726674446Z",
+  "timestamp": "2026-08-24T16:22:54.933492776Z",
   "model": "glm-5.3"
 }

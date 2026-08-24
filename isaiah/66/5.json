@@ -5,11 +5,16 @@
   "book": "isaiah",
   "lang": "vi",
   "chapter": 66,
-  "translation": "Hãy nghe lời Yahweh, hỡi những kẻ run r敬畏 ⟨vì⟩ lời Ngài: Anh em các ngươi, những kẻ ghét các ngươi, những kẻ loại các ngươi ra vì danh Ta, đã nói rằng: 'Nguyện Yahweh được tôn vinh', và ⟨ta⟩ sẽ nhìn thấy trong sự vui mừng của các ngươi; còn chúng nó sẽ bị xấu hổ.",
+  "translation": "Hãy nghe ⟨את⟩ lời của Yahweh, hỡi những kẻ run rếp trước lời của Ngài: Anh em các ngươi, những kẻ ghét các ngươi, những kẻ loại các ngươi ra khỏi ⟨để⟩ vì Danh ta, đã nói rằng: 'Nguyện Yahweh được tôn vinh', và ⟨ta⟩ sẽ thấy trong sự vui mừng của các ngươi; còn chúng nó sẽ bị xấu hổ.",
   "tokens": [
     {
       "surface": "שמעו",
-      "gloss": "Hãy nghe"
+      "gloss": "hãy nghe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lời của Yahweh"
     },
     {
       "surface": "דבר",
@@ -21,15 +26,15 @@
     },
     {
       "surface": "החרדים",
-      "gloss": "những kẻ run rắt"
+      "gloss": "những kẻ run rếp"
     },
     {
       "surface": "אל",
-      "gloss": "vì"
+      "gloss": "trước"
     },
     {
       "surface": "דברו",
-      "gloss": "lời Ngài"
+      "gloss": "lời của Ngài"
     },
     {
       "surface": "אמרו",
@@ -49,11 +54,11 @@
     },
     {
       "surface": "למען",
-      "gloss": "vì sake của"
+      "gloss": "vì"
     },
     {
       "surface": "שמי",
-      "gloss": "danh Ta"
+      "gloss": "Danh ta"
     },
     {
       "surface": "יכבד",
@@ -65,7 +70,7 @@
     },
     {
       "surface": "ונראה",
-      "gloss": "và sẽ được nhìn thấy"
+      "gloss": "và sẽ thấy"
     },
     {
       "surface": "בשמחתכם",
@@ -80,6 +85,6 @@
       "gloss": "sẽ bị xấu hổ"
     }
   ],
-  "timestamp": "2026-08-19T04:16:27.531558639Z",
+  "timestamp": "2026-08-24T16:15:07.535764903Z",
   "model": "glm-5.3"
 }

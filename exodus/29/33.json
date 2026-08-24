@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 29,
-  "translation": "Và chúng sẽ ăn ⟨אתם⟩ những điều mà đã được chuộc tội bằng chúng, để đầy tay chúng, để thánh hóa ⟨אתם⟩; còn người lạ thì không được ăn, vì chúng là điều thánh.",
+  "translation": "Chúng sẽ ăn ⟨את⟩ những điều mà bằng chúng đã được chuộc tội, để làm đầy ⟨את⟩ tay chúng, để thánh hóa ⟨את⟩ chúng; còn người lạ thì không được ăn, vì ⟨chúng⟩ là thánh.",
   "tokens": [
     {
       "surface": "ואכלו",
@@ -14,7 +14,7 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "những điều (món ăn chuộc tội)"
+      "marks": "những điều mà"
     },
     {
       "surface": "אשר",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "כפר",
-      "gloss": "được chuộc tội"
+      "gloss": "chuộc tội"
     },
     {
       "surface": "בהם",
@@ -30,16 +30,16 @@
     },
     {
       "surface": "למלא",
-      "gloss": "để đầy"
+      "gloss": "để làm đầy"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tay của họ"
+      "marks": "tay chúng"
     },
     {
       "surface": "ידם",
-      "gloss": "tay họ"
+      "gloss": "tay chúng"
     },
     {
       "surface": "לקדש",
@@ -48,11 +48,11 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "chúng (Aharon và các con trai)"
+      "marks": "chúng"
     },
     {
       "surface": "וזר",
-      "gloss": "còn người lạ"
+      "gloss": "và người lạ"
     },
     {
       "surface": "לא",
@@ -68,13 +68,13 @@
     },
     {
       "surface": "קדש",
-      "gloss": "điều thánh"
+      "gloss": "thánh"
     },
     {
       "surface": "הם",
-      "gloss": "là chúng"
+      "gloss": "chúng"
     }
   ],
-  "timestamp": "2026-08-19T02:35:54.523328968Z",
+  "timestamp": "2026-08-24T16:04:26.523615464Z",
   "model": "glm-5.3"
 }

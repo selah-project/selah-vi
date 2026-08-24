@@ -5,8 +5,53 @@
   "book": "2-chronicles",
   "lang": "vi",
   "chapter": 32,
-  "translation": "(bản trùng — bỏ qua)",
-  "tokens": [],
-  "timestamp": "2026-08-19T06:00:55.402805244Z",
+  "translation": "và các kho để chứa sản phẩm của lúa mì, rượu mới và dầu; và chuồng cho mọi thứ súc vật, và đàn gia súc cho ⟨các⟩ chuồng;",
+  "tokens": [
+    {
+      "surface": "ומסכנות",
+      "gloss": "và các kho"
+    },
+    {
+      "surface": "לתבואת",
+      "gloss": "để chứa sản phẩm của"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "lúa mì"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "và rượu mới"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "và dầu"
+    },
+    {
+      "surface": "וארות",
+      "gloss": "và chuồng"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "cho mọi thứ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "súc vật"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "và súc vật"
+    },
+    {
+      "surface": "ועדרים",
+      "gloss": "và đàn gia súc"
+    },
+    {
+      "surface": "לאורות",
+      "gloss": "cho các chuồng"
+    }
+  ],
+  "timestamp": "2026-08-24T16:25:52.009107384Z",
   "model": "glm-5.3"
 }

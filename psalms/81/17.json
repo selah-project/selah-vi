@@ -5,8 +5,33 @@
   "book": "psalms",
   "lang": "vi",
   "chapter": 81,
-  "translation": "Và Ngài đã cho nó ăn ⟨từ⟩ béo của lúa mì, và ⟨từ⟩ đáоргани miễn... ",
-  "tokens": [],
-  "timestamp": "2026-08-19T05:05:09.276984215Z",
+  "translation": "Và ⟨hắn⟩ đã cho nó ăn từ béo mỡ của lúa mì, và từ đá ong mật Ta sẽ làm ngươi no thỏa.",
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "và-hắn-cho-nó-ăn"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "từ béo-mỡ-của"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "lúa mì"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "và-từ-đá"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "ong mật"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "Ta-làm-ngươi-no-thỏa"
+    }
+  ],
+  "timestamp": "2026-08-24T16:21:10.567741948Z",
   "model": "glm-5.3"
 }

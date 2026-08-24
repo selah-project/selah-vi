@@ -5,8 +5,49 @@
   "book": "2-kings",
   "lang": "vi",
   "chapter": 19,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-19T04:00:59.896965074Z",
+  "translation": "Vua của Chamath đâu, vua của Arpad đâu, vua của thành Sepharvaim, Hena và Ivah đâu?",
+  "tokens": [
+    {
+      "surface": "איו",
+      "gloss": "đâu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua của"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamath"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "và vua của"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "Arpad"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "và vua của"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "của thành"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Sepharvaim"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Hena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "và Ivah"
+    }
+  ],
+  "timestamp": "2026-08-24T16:13:12.647254924Z",
   "model": "glm-5.3"
 }

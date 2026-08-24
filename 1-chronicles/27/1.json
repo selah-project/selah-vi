@@ -5,15 +5,15 @@
   "book": "1-chronicles",
   "lang": "vi",
   "chapter": 27,
-  "translation": "Về con cái Yisra'el theo số của họ: các trưởng tộc, các quan trưởng ngàn và trăm, cùng các viên quan của họ phụng sự ⟨את⟩ vua trong mọi việc của các phiên轮 dịch — phiên vào và phiên ra, tháng này qua tháng khác, suốt mọi tháng của năm — mỗi phiên là hai mươi bốn ngàn.",
+  "translation": "Và con cái Yisrael theo số của họ: các đầu của các cha, và các quan trưởng của các ngàn và các trăm, cùng các quan viên của họ, là những người phục vụ ⟨את⟩ vua trong mọi việc của các phân đội, thay phiên vào và ra, tháng qua tháng, trong mọi tháng của năm — mỗi phân đội có hai mươi và bốn ngàn.",
   "tokens": [
     {
       "surface": "ובני",
-      "gloss": "Về con cái"
+      "gloss": "Và con cái"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     },
     {
       "surface": "למספרם",
@@ -21,31 +21,31 @@
     },
     {
       "surface": "ראשי",
-      "gloss": "các trưởng"
+      "gloss": "các đầu"
     },
     {
       "surface": "האבות",
-      "gloss": "tộc"
+      "gloss": "của các cha"
     },
     {
       "surface": "ושרי",
-      "gloss": "các quan trưởng"
+      "gloss": "và các quan trưởng"
     },
     {
       "surface": "האלפים",
-      "gloss": "ngàn"
+      "gloss": "của các ngàn"
     },
     {
       "surface": "והמאות",
-      "gloss": "và trăm"
+      "gloss": "và các trăm"
     },
     {
       "surface": "ושטריהם",
-      "gloss": "cùng các viên quan của họ"
+      "gloss": "và các quan viên của họ"
     },
     {
       "surface": "המשרתים",
-      "gloss": "phụng sự"
+      "gloss": "là những người phục vụ"
     },
     {
       "surface": "את",
@@ -66,15 +66,15 @@
     },
     {
       "surface": "המחלקות",
-      "gloss": "các phiên dịch"
+      "gloss": "của các phân đội"
     },
     {
       "surface": "הבאה",
-      "gloss": "phiên vào"
+      "gloss": "vào"
     },
     {
-      "surface": "ו היצאת",
-      "gloss": "và phiên ra"
+      "surface": "והיצאת",
+      "gloss": "và ra"
     },
     {
       "surface": "חדש",
@@ -82,11 +82,11 @@
     },
     {
       "surface": "בחדש",
-      "gloss": "theo tháng"
+      "gloss": "qua tháng"
     },
     {
       "surface": "לכל",
-      "gloss": "suốt mọi"
+      "gloss": "trong mọi"
     },
     {
       "surface": "חדשי",
@@ -98,7 +98,7 @@
     },
     {
       "surface": "המחלקת",
-      "gloss": "mỗi phiên"
+      "gloss": "mỗi phân đội"
     },
     {
       "surface": "האחת",
@@ -117,6 +117,6 @@
       "gloss": "ngàn"
     }
   ],
-  "timestamp": "2026-08-19T06:21:58.443809490Z",
+  "timestamp": "2026-08-24T16:25:19.749638532Z",
   "model": "glm-5.3"
 }

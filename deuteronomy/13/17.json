@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "vi",
   "chapter": 13,
-  "translation": "Và ⟨את⟩ toàn bộ chiến lợi phẩm của nó ngươi sẽ tập hợp vào giữa quảng trường của nó, và ngươi sẽ đốt bằng lửa ⟨את⟩ ⟨the⟩ thành và ⟨את⟩ toàn bộ chiến lợi phẩm của nó, hoàn toàn, cho Yahweh Elohim của ngươi; và nó sẽ thành một đống đổ nát đời đời, không được xây lại nữa.",
+  "translation": "Và ⟨את⟩ toàn bộ chiến lợi phẩm của nó ngươi sẽ tập hợp vào giữa quảng trường của nó, và ngươi sẽ thiêu bằng lửa ⟨את⟩ thành và ⟨את⟩ toàn bộ chiến lợi phẩm của nó, trọn vẹn, cho Yahweh Elohim của ngươi; và nó sẽ thành đống gạch đổ đời đời, sẽ không được xây lại nữa.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "và ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "toàn bộ chiến lợi phẩm của nó"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "surface": "ושרפת",
-      "gloss": "và ngươi sẽ đốt"
+      "gloss": "và ngươi sẽ thiêu"
     },
     {
       "surface": "באש",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "và ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "toàn bộ chiến lợi phẩm của nó"
     },
     {
@@ -68,7 +68,7 @@
     },
     {
       "surface": "כליל",
-      "gloss": "hoàn toàn"
+      "gloss": "trọn vẹn"
     },
     {
       "surface": "ליהוה",
@@ -84,7 +84,7 @@
     },
     {
       "surface": "תל",
-      "gloss": "một đống đổ nát"
+      "gloss": "đống gạch đổ"
     },
     {
       "surface": "עולם",
@@ -103,6 +103,6 @@
       "gloss": "nữa"
     }
   ],
-  "timestamp": "2026-08-19T03:08:17.143333296Z",
+  "timestamp": "2026-08-24T16:08:15.112959581Z",
   "model": "glm-5.3"
 }

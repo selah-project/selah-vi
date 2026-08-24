@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "vi",
   "chapter": 23,
-  "translation": "Vì ⟨is⟩ không曾有 lễ Pesach nào như lễ Pesach này được làm, từ thời các суд quan xét xử ⟨את⟩ Yisrael, và suốt mọi ngày của các vua Yisrael và các vua Yehudah.",
+  "translation": "Vì lẽ chi ⟨את⟩-đánh-dấu ấy: không曾有 — chẳng曾有 lễ Vượt Qua nào được làm như lễ Vượt Qua này, từ thời các thẩm phán từng phán xét ⟨את⟩ Yisra'el, và trọn mọi ngày của các vua Yisra'el và các vua Yehudah.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "không"
+      "gloss": "chẳng"
     },
     {
       "surface": "נעשה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "כפסח",
-      "gloss": "như lễ Pesach"
+      "gloss": "như lễ Vượt Qua"
     },
     {
       "surface": "הזה",
@@ -41,20 +41,20 @@
     },
     {
       "surface": "שפטו",
-      "gloss": "đã xét xử"
+      "gloss": "họ đã phán xét"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yisrael"
+      "marks": "Yisra'el"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Yisra'el"
     },
     {
       "surface": "וכל",
-      "gloss": "và mọi"
+      "gloss": "và trọn mọi"
     },
     {
       "surface": "ימי",
@@ -62,21 +62,21 @@
     },
     {
       "surface": "מלכי",
-      "gloss": "của các vua"
+      "gloss": "các vua"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Yisra'el"
     },
     {
       "surface": "ומלכי",
-      "gloss": "và của các vua"
+      "gloss": "và các vua"
     },
     {
       "surface": "יהודה",
       "gloss": "Yehudah"
     }
   ],
-  "timestamp": "2026-08-19T04:02:23.935822876Z",
+  "timestamp": "2026-08-24T16:13:52.783156075Z",
   "model": "glm-5.3"
 }

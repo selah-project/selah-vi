@@ -5,7 +5,7 @@
   "book": "nehemiah",
   "lang": "vi",
   "chapter": 7,
-  "translation": "Và tôi nói với họ: Các cổng Yerushalayim chớ mở cho đến lúc nắng nóng; và trong khi chúng còn đứng đó, hãy đóng các cánh cửa lại và chốt我们又 chúng; hãy đặt các phiên canh cho dân cư Yerushalayim, mỗi người tại phiên mình, và mỗi người đối diện nhà mình.",
+  "translation": "Và tôi nói với chúng: Các cổng của Yerushalayim chớ mở cho đến khi mặt trời nắng nóng; và chừng nào chúng còn đứng đó, hãy đóng các cánh cửa lại và chốt ⟨chắc⟩; và hãy station các cuộc canh gác của dân cư Yerushalayim, mỗi người tại phiên canh của mình, và mỗi người đối diện nhà mình.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "להם",
-      "gloss": "với họ"
+      "gloss": "với chúng"
     },
     {
       "surface": "לא",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "שערי",
-      "gloss": "các cổng"
+      "gloss": "các cổng của"
     },
     {
       "surface": "ירושלם",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "עד",
-      "gloss": "cho đến"
+      "gloss": "cho đến khi"
     },
     {
       "surface": "חם",
-      "gloss": "nóng"
+      "gloss": "nắng nóng"
     },
     {
       "surface": "השמש",
-      "gloss": "nắng"
+      "gloss": "mặt trời"
     },
     {
       "surface": "ועד",
-      "gloss": "và trong khi"
+      "gloss": "và chừng nào"
     },
     {
       "surface": "הם",
@@ -65,19 +65,19 @@
     },
     {
       "surface": "ואחזו",
-      "gloss": "và chốt lại"
+      "gloss": "và chốt ⟨chắc⟩"
     },
     {
       "surface": "והעמיד",
-      "gloss": "hãy đặt"
+      "gloss": "và hãy station"
     },
     {
       "surface": "משמרות",
-      "gloss": "các phiên canh"
+      "gloss": "các cuộc canh gác"
     },
     {
       "surface": "ישבי",
-      "gloss": "dân cư"
+      "gloss": "dân cư của"
     },
     {
       "surface": "ירושלם",
@@ -89,7 +89,7 @@
     },
     {
       "surface": "במשמרו",
-      "gloss": "tại phiên mình"
+      "gloss": "tại phiên canh của mình"
     },
     {
       "surface": "ואיש",
@@ -104,6 +104,6 @@
       "gloss": "nhà mình"
     }
   ],
-  "timestamp": "2026-08-19T05:44:28.818694370Z",
+  "timestamp": "2026-08-24T16:24:39.400802360Z",
   "model": "glm-5.3"
 }

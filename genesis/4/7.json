@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 4,
-  "translation": "Há không phải, nếu ngươi làm điều tốt, thì ⟨được⟩ nâng lên? còn nếu ngươi không làm điều tốt, thì tội lỗi đang nằm phục ở ⟨כ‌ככ‌כ⟩ ngõ; và sự ham muốn của nó hướng về ngươi, còn ngươi hãy trị over nó.",
+  "translation": "Há không ⟨nếu⟩ ngươi làm điều thiện thì ⟨sẽ⟩ được nâng lên, và nếu không làm điều thiện thì tại cửa, tội lỗi đang nằm phục, và đối với ngươi là sự thèm khát của nó — còn ngươi, ngươi hãy thống trị nó?",
   "tokens": [
     {
       "surface": "הלוא",
-      "gloss": "há không phải"
+      "gloss": "há không"
     },
     {
       "surface": "אם",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "תיטיב",
-      "gloss": "làm điều tốt"
+      "gloss": "ngươi làm điều thiện"
     },
     {
       "surface": "שאת",
-      "gloss": "⟨được⟩ nâng lên"
+      "gloss": "được nâng lên"
     },
     {
       "surface": "ואם",
-      "gloss": "còn nếu"
+      "gloss": "và nếu"
     },
     {
       "surface": "לא",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "תיטיב",
-      "gloss": "làm điều tốt"
+      "gloss": "làm điều thiện"
     },
     {
       "surface": "לפתח",
-      "gloss": "ở ngõ"
+      "gloss": "tại cửa"
     },
     {
       "surface": "חטאת",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "רבץ",
-      "gloss": "nằm phục"
+      "gloss": "đang nằm phục"
     },
     {
       "surface": "ואליך",
-      "gloss": "hướng về ngươi"
+      "gloss": "và đối với ngươi"
     },
     {
       "surface": "תשוקתו",
-      "gloss": "sự ham muốn của nó"
+      "gloss": "sự thèm khát của nó"
     },
     {
       "surface": "ואתה",
@@ -61,13 +61,13 @@
     },
     {
       "surface": "תמשל",
-      "gloss": "hãy trị over"
+      "gloss": "hãy thống trị"
     },
     {
       "surface": "בו",
       "gloss": "nó"
     }
   ],
-  "timestamp": "2026-08-19T00:47:26.691251544Z",
+  "timestamp": "2026-08-24T16:01:41.481059249Z",
   "model": "glm-5.3"
 }

@@ -5,16 +5,16 @@
   "book": "ecclesiastes",
   "lang": "vi",
   "chapter": 8,
-  "translation": "Tôi đã nhìn thấy ⟨את⟩ mọi công việc của Elohim: con người không thể tìm ra ⟨את⟩ công việc được làm ra dưới mặt trời, vì dù con người khó nhọc tìm kiếm, nó vẫn không tìm ra; và dẫu người khôn智慧的 nói rằng biết, nó cũng không thể tìm ra.",
+  "translation": "Và tôi đã thấy ⟨את⟩ mọi việc của Elohim, rằng con người không thể tìm ra ⟨את⟩ công việc được làm dưới mặt trời, bởi vì mặc dù con người vất vả tìm kiếm, cũng sẽ không tìm thấy; và dẫu người khôn-ngôn-nói để biết, cũng sẽ không thể tìm-ra.",
   "tokens": [
     {
       "surface": "וראיתי",
-      "gloss": "tôi đã nhìn thấy"
+      "gloss": "và tôi đã thấy"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mọi công việc của Elohim"
+      "marks": "mọi việc"
     },
     {
       "surface": "כל",
@@ -22,11 +22,11 @@
     },
     {
       "surface": "מעשה",
-      "gloss": "công việc"
+      "gloss": "việc"
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohim"
+      "gloss": "của Elohim"
     },
     {
       "surface": "כי",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "נעשה",
-      "gloss": "được làm ra"
+      "gloss": "được làm"
     },
     {
       "surface": "תחת",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "בשל",
-      "gloss": "vì dù"
+      "gloss": "bởi vì mặc-dù"
     },
     {
       "surface": "אשר",
@@ -83,7 +83,7 @@
     },
     {
       "surface": "יעמל",
-      "gloss": "khó nhọc"
+      "gloss": "vất vả-lao-lực"
     },
     {
       "surface": "האדם",
@@ -99,7 +99,7 @@
     },
     {
       "surface": "ימצא",
-      "gloss": "tìm ra"
+      "gloss": "sẽ tìm thấy"
     },
     {
       "surface": "וגם",
@@ -115,11 +115,11 @@
     },
     {
       "surface": "החכם",
-      "gloss": "người khôn ngoan"
+      "gloss": "người khôn"
     },
     {
       "surface": "לדעת",
-      "gloss": "biết"
+      "gloss": "để biết"
     },
     {
       "surface": "לא",
@@ -131,9 +131,9 @@
     },
     {
       "surface": "למצא",
-      "gloss": "tìm ra"
+      "gloss": "tìm-ra"
     }
   ],
-  "timestamp": "2026-08-19T05:33:05.285862121Z",
+  "timestamp": "2026-08-24T16:23:30.221292129Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "vi",
   "chapter": 1,
-  "translation": "Yehoshua con trai Nun, người đứng trước mặt ngươi, chính ⟨hắn⟩ sẽ vào đó; hãy làm ⟨את⟩ hắn vững mạnh, vì chính ⟨hắn⟩ sẽ cho Yisrael được嗣 sản nó.",
+  "translation": "Yehoshua con trai Nun, người đứng trước mặt ngươi — chính ⟨hắn⟩ sẽ vào đó; hãy làm ⟨אתו⟩ hắn vững mạnh, vì chính ⟨hắn⟩ sẽ cho Yisra'el thừa kế ⟨את⟩ nó.",
   "tokens": [
     {
       "surface": "יהושע",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "העמד",
-      "gloss": "người đứng"
+      "gloss": "người đang đứng"
     },
     {
       "surface": "לפניך",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "chính ⟨hắn⟩"
+      "gloss": "chính hắn"
     },
     {
       "surface": "יבא",
@@ -42,7 +42,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "hắn"
+      "marks": "hắn (Yehoshua)"
     },
     {
       "surface": "חזק",
@@ -54,22 +54,22 @@
     },
     {
       "surface": "הוא",
-      "gloss": "chính ⟨hắn⟩"
+      "gloss": "chính hắn"
     },
     {
       "surface": "ינחלנה",
-      "gloss": "sẽ cho được嗣 sản nó"
+      "gloss": "sẽ cho thừa kế nó"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yisrael"
+      "marks": "Yisra'el"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Yisra'el"
     }
   ],
-  "timestamp": "2026-08-19T03:04:24.635972117Z",
+  "timestamp": "2026-08-24T16:07:35.736886712Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 12,
-  "translation": "Và Yahweh phán cùng Moshe: Nếu cha nàng nhổ nước bọt ⟨vào⟩ mặt nàng, nàng岂 chẳng bị xấu hổ bảy ngày sao? Hãy giam nàng ngoài trại bảy ngày, rồi sau đó nàng sẽ được nhận lại.",
+  "translation": "Và Yahweh phán cùng Moshe: Nếu cha cô ấy nhổ nước bọt vào mặt cô, há cô chẳng bị xấu hổ bảy ngày sao? Hãy để cô bị nhốt bảy ngày ở ngoài trại, và sau đó cô sẽ được nhận lại.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,27 +25,27 @@
     },
     {
       "surface": "ואביה",
-      "gloss": "nếu cha nàng"
+      "gloss": "và cha-cô-ấy"
     },
     {
       "surface": "ירק",
-      "gloss": "nhổ"
+      "gloss": "nhổ-nước-bọt"
     },
     {
       "surface": "ירק",
-      "gloss": "nước bọt"
+      "gloss": "nhổ-nước-bọt"
     },
     {
       "surface": "בפניה",
-      "gloss": "trong mặt nàng"
+      "gloss": "vào-mặt-cô"
     },
     {
       "surface": "הלא",
-      "gloss": "chẳng lẽ"
+      "gloss": "há-chẳng"
     },
     {
       "surface": "תכלם",
-      "gloss": "bị xấu hổ"
+      "gloss": "bị-xấu-hổ"
     },
     {
       "surface": "שבעת",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "תסגר",
-      "gloss": "hãy giam"
+      "gloss": "hãy-nhốt"
     },
     {
       "surface": "שבעת",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "מחוץ",
-      "gloss": "bên ngoài"
+      "gloss": "ở-ngoài"
     },
     {
       "surface": "למחנה",
@@ -77,13 +77,13 @@
     },
     {
       "surface": "ואחר",
-      "gloss": "và sau đó"
+      "gloss": "và-sau-đó"
     },
     {
       "surface": "תאסף",
-      "gloss": "nàng được nhận lại"
+      "gloss": "được-nhận-lại"
     }
   ],
-  "timestamp": "2026-08-19T02:56:05.244042120Z",
+  "timestamp": "2026-08-24T16:06:49.589576072Z",
   "model": "glm-5.3"
 }

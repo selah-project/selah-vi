@@ -5,19 +5,19 @@
   "book": "1-samuel",
   "lang": "vi",
   "chapter": 14,
-  "translation": "Những người của đồn binh đáp lại ⟨את⟩ Yonatan và ⟨את⟩ người vác đồ兵器 của ông, và nói: Hãy lên đây cùng chúng tôi, và chúng tôi sẽ cho ⟨את⟩ các ngươi biết một lời. Yonatan nói với người vác đồ của mình: Hãy lên theo ta, vì Yahweh đã phó chúng vào tay Yisrael.",
+  "translation": "Và những người của đồn binh trả lời Yonatan và ⟨את⟩ người vác khí giới của ông, và nói: Hãy lên đến chúng ta, và chúng ta sẽ cho ⟨את⟩ các ngươi biết một điều. Và Yonatan nói với người vác khí giới của ông: Hãy lên theo sau ta, vì Yahweh đã phó chúng vào tay Yisra'el.",
   "tokens": [
     {
       "surface": "ויענו",
-      "gloss": "và đáp lại"
+      "gloss": "và đã trả lời"
     },
     {
       "surface": "אנשי",
-      "gloss": "những người"
+      "gloss": "những người của"
     },
     {
       "surface": "המצבה",
-      "gloss": "của đồn binh"
+      "gloss": "đồn binh"
     },
     {
       "surface": "את",
@@ -31,7 +31,7 @@
     {
       "surface": "ואת",
       "gloss": "và ⟨את⟩",
-      "marks": "người vác đồ của ông"
+      "marks": "người vác khí giới của ông"
     },
     {
       "surface": "נשא",
@@ -39,7 +39,7 @@
     },
     {
       "surface": "כליו",
-      "gloss": "đồ của ông"
+      "gloss": "khí giới của ông"
     },
     {
       "surface": "ויאמרו",
@@ -51,11 +51,11 @@
     },
     {
       "surface": "אלינו",
-      "gloss": "cùng chúng tôi"
+      "gloss": "đến chúng ta"
     },
     {
-      "surface": "וודיעה",
-      "gloss": "và chúng tôi sẽ cho biết"
+      "surface": "ונודיעה",
+      "gloss": "và chúng ta sẽ cho biết"
     },
     {
       "surface": "אתכם",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "một lời"
+      "gloss": "một điều"
     },
     {
       "surface": "ויאמר",
@@ -83,7 +83,7 @@
     },
     {
       "surface": "כליו",
-      "gloss": "đồ của mình"
+      "gloss": "khí giới của ông"
     },
     {
       "surface": "עלה",
@@ -91,7 +91,7 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "theo ta"
+      "gloss": "theo sau ta"
     },
     {
       "surface": "כי",
@@ -111,9 +111,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Yisra'el"
     }
   ],
-  "timestamp": "2026-08-19T06:08:25.038763940Z",
+  "timestamp": "2026-08-24T16:10:33.757479849Z",
   "model": "glm-5.3"
 }

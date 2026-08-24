@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "vi",
   "chapter": 11,
-  "translation": "Và ông đưa ra ⟨את⟩ con trai của vua, đặt trên cậu ⟨את⟩ vương miện và ⟨את]] điều chứng, họ lập cậu làm vua và xức dầu cho cậu; họ vỗ tay và nói: Vua muôn năm!",
+  "translation": "Người ta đưa ra ⟨את⟩ con trai của vua, đặt trên đầu cậu ⟨את⟩ vương miện và ⟨את⟩ chứng thư; họ lập cậu làm vua, xức dầu cho cậu; họ vỗ tay và nói: Vua muôn năm!",
   "tokens": [
     {
       "surface": "ויוצא",
-      "gloss": "và ông đưa ra"
+      "gloss": "đưa ra"
     },
     {
       "surface": "את",
@@ -22,15 +22,15 @@
     },
     {
       "surface": "המלך",
-      "gloss": "của vua"
+      "gloss": "vua"
     },
     {
       "surface": "ויתן",
-      "gloss": "và đặt"
+      "gloss": "đặt"
     },
     {
       "surface": "עליו",
-      "gloss": "trên cậu"
+      "gloss": "trên đầu cậu"
     },
     {
       "surface": "את",
@@ -44,24 +44,24 @@
     {
       "surface": "ואת",
       "gloss": "và ⟨את⟩",
-      "marks": "điều chứng"
+      "marks": "chứng thư"
     },
     {
       "surface": "העדות",
-      "gloss": "điều chứng"
+      "gloss": "chứng thư"
     },
     {
       "surface": "וימלכו",
-      "gloss": "họ lập làm vua"
+      "gloss": "làm vua"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "cậu"
+      "gloss": "⟨את⟩ cậu",
+      "marks": "cậu (được lập làm vua)"
     },
     {
       "surface": "וימשחהו",
-      "gloss": "và xức dầu cho cậu"
+      "gloss": "xức dầu cho cậu"
     },
     {
       "surface": "ויכו",
@@ -84,6 +84,6 @@
       "gloss": "vua"
     }
   ],
-  "timestamp": "2026-08-19T03:58:13.969938753Z",
+  "timestamp": "2026-08-24T16:13:04.811225461Z",
   "model": "glm-5.3"
 }

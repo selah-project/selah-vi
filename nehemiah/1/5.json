@@ -5,7 +5,7 @@
   "book": "nehemiah",
   "lang": "vi",
   "chapter": 1,
-  "translation": "Và tôi nói: Lạy Yahweh, Elohim của các tầng trời, ⟨El⟩ vĩ đại và đáng kinh骇 — không, dùng tiếng Việt: El vĩ đại và đáng kinh sợ, Đấng gìn giữ giao ước và ân phước cho những kẻ yêu mến Ngài và gìn giữ các điều răn của Ngài.",
+  "translation": "Và tôi nói: Lạy Yahweh, Elohim của các tầng trời, ⟨את⟩ El, Đấng vĩ đại và đáng kinh nghiêm, Đấng giữ ⟨את⟩ giao ước và ⟨את⟩ nhân từ ⟨את⟩ đối với những kẻ yêu mến Ngài và những kẻ giữ các điều răn của Ngài.",
   "tokens": [
     {
       "surface": "ואמר",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "הגדול",
-      "gloss": "vĩ đại"
+      "gloss": "Đấng vĩ đại"
     },
     {
       "surface": "והנורא",
-      "gloss": "và đáng kinh sợ"
+      "gloss": "và đáng kinh nghiêm"
     },
     {
       "surface": "שמר",
-      "gloss": "Đấng gìn giữ"
+      "gloss": "Đấng giữ"
     },
     {
       "surface": "הברית",
@@ -49,21 +49,21 @@
     },
     {
       "surface": "וחסד",
-      "gloss": "và ân phước"
+      "gloss": "và nhân từ"
     },
     {
       "surface": "לאהביו",
-      "gloss": "cho những kẻ yêu mến Ngài"
+      "gloss": "đối với những kẻ yêu mến Ngài"
     },
     {
       "surface": "ולשמרי",
-      "gloss": "và cho những kẻ gìn giữ"
+      "gloss": "và những kẻ giữ"
     },
     {
       "surface": "מצותיו",
       "gloss": "các điều răn của Ngài"
     }
   ],
-  "timestamp": "2026-08-19T05:43:12.351917768Z",
+  "timestamp": "2026-08-24T16:23:52.533965032Z",
   "model": "glm-5.3"
 }

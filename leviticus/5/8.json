@@ -5,20 +5,20 @@
   "book": "leviticus",
   "lang": "vi",
   "chapter": 5,
-  "translation": "Và ⟨he⟩ sẽ đem ⟨את⟩ chúng đến thầy tế lễ, và ⟨the priest⟩ sẽ dâng ⟨את⟩ con dùng làm lễ tội trước tiên, và vặn ⟨את⟩ đầu nó ngay sau gáy nhưng không lìa ra.",
+  "translation": "Và nó sẽ đem ⟨את⟩ ⟨אתם⟩ đến cùng thầy tế lễ, và thầy tế lễ sẽ dâng ⟨את⟩ con thuộc về của lễ tội trước nhất, và sẽ bẻ đoạn đầu nó từ chỗ đối diện cổ nó, nhưng không sẽ tách rời nó.",
   "tokens": [
     {
       "surface": "והביא",
-      "gloss": "và sẽ đem"
+      "gloss": "và nó sẽ đem"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "chúng (đến)"
+      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "marks": "chúng (hai con chim)"
     },
     {
       "surface": "אל",
-      "gloss": "đến"
+      "gloss": "đến với"
     },
     {
       "surface": "הכהן",
@@ -31,23 +31,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "con dùng làm lễ tội"
+      "marks": "con thuộc về của lễ tội"
     },
     {
       "surface": "אשר",
-      "gloss": "con mà"
+      "gloss": "mà thuộc về"
     },
     {
       "surface": "לחטאת",
-      "gloss": "dùng làm lễ tội"
+      "gloss": "của lễ tội"
     },
     {
       "surface": "ראשונה",
-      "gloss": "trước tiên"
+      "gloss": "trước nhất"
     },
     {
       "surface": "ומלק",
-      "gloss": "và sẽ vặn"
+      "gloss": "và sẽ bẻ đoạn"
     },
     {
       "surface": "את",
@@ -56,15 +56,15 @@
     },
     {
       "surface": "ראשו",
-      "gloss": "đầu của nó"
+      "gloss": "đầu nó"
     },
     {
       "surface": "ממול",
-      "gloss": "ngay tại"
+      "gloss": "từ chỗ đối diện"
     },
     {
       "surface": "ערפו",
-      "gloss": "gáy của nó"
+      "gloss": "cổ gáy nó"
     },
     {
       "surface": "ולא",
@@ -72,9 +72,9 @@
     },
     {
       "surface": "יבדיל",
-      "gloss": "lìa ra \/ tách rời"
+      "gloss": "sẽ tách rời"
     }
   ],
-  "timestamp": "2026-08-19T02:41:19.882638739Z",
+  "timestamp": "2026-08-24T16:58:27.523132269Z",
   "model": "glm-5.3"
 }

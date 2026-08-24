@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 34,
-  "translation": "Và xảy ra, khi Moshe xuống núi Sinai, và hai bảng đá của chứng cứ ở trong tay Moshe, lúc ⟨anh⟩ xuống khỏi núi, thì Moshe không biết rằng da mặt ⟨anh⟩ phát ra tia sáng khi ⟨Đấng ấy⟩ phán cùng ⟨אתו⟩.",
+  "translation": "Và xảy ra, khi Moshe xuống từ núi Sinai — và hai bảng của ⟨את⟩ chứng cứ trong tay Moshe — khi ông xuống từ núi, thì Moshe không biết rằng da mặt ông đã tỏa tia sáng, khi ⟨Ngài⟩ nói cùng ⟨את⟩ ông.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "לחת",
-      "gloss": "bảng đá"
+      "gloss": "bảng"
     },
     {
       "surface": "העדת",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "ברדתו",
-      "gloss": "khi ⟨anh⟩ xuống"
+      "gloss": "khi ông xuống"
     },
     {
       "surface": "מן",
-      "gloss": "khỏi"
+      "gloss": "từ"
     },
     {
       "surface": "ההר",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ומשה",
-      "gloss": "thì Moshe"
+      "gloss": "và Moshe"
     },
     {
       "surface": "לא",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "קרן",
-      "gloss": "phát ra tia sáng"
+      "gloss": "đã tỏa tia sáng"
     },
     {
       "surface": "עור",
@@ -85,18 +85,18 @@
     },
     {
       "surface": "פניו",
-      "gloss": "mặt ⟨anh⟩"
+      "gloss": "mặt ông"
     },
     {
       "surface": "בדברו",
-      "gloss": "khi phán"
+      "gloss": "khi Ngài nói"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ cùng ⟨ngài⟩",
-      "marks": "phán cùng ⟨אתו⟩ — với Ngài"
+      "gloss": "cùng ⟨את⟩ ông",
+      "marks": "ông (Moshe)"
     }
   ],
-  "timestamp": "2026-08-19T02:37:32.938237487Z",
+  "timestamp": "2026-08-24T16:04:31.511897397Z",
   "model": "glm-5.3"
 }

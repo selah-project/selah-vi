@@ -5,29 +5,29 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 30,
-  "translation": "Hãy giao ⟨את⟩ các vợ của tôi và ⟨את⟩ các con của tôi, mà tôi đã hầu việc ngươi ⟨את⟩ ⟨אתך⟩ vì họ, và tôi sẽ đi; vì ngươi biết ⟨את⟩ sự hầu việc của tôi mà tôi đã hầu việc ngươi.",
+  "translation": "Hãy cho ta ⟨את⟩ các vợ của ta và ⟨את⟩ các con của ta, là những người mà ta đã phục vụ ngươi để ⟨את⟩ lấy chúng; và ta sẽ đi, vì ngươi biết ⟨את⟩ công việc phục vụ của ta mà ta đã làm cho ngươi.",
   "tokens": [
     {
       "surface": "תנה",
-      "gloss": "hãy giao"
+      "gloss": "hãy cho"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "các vợ của tôi"
+      "marks": "các vợ của ta"
     },
     {
       "surface": "נשי",
-      "gloss": "các vợ của tôi"
+      "gloss": "các vợ của ta"
     },
     {
       "surface": "ואת",
       "gloss": "và ⟨את⟩",
-      "marks": "các con của tôi"
+      "marks": "các con của ta"
     },
     {
       "surface": "ילדי",
-      "gloss": "các con của tôi"
+      "gloss": "các con của ta"
     },
     {
       "surface": "אשר",
@@ -35,20 +35,20 @@
     },
     {
       "surface": "עבדתי",
-      "gloss": "tôi đã hầu việc"
+      "gloss": "ta đã phục vụ"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ ⟨אתך⟩",
-      "marks": "vì họ (בהן)"
+      "gloss": "⟨את⟩",
+      "marks": "ngươi"
     },
     {
       "surface": "בהן",
-      "gloss": "vì họ"
+      "gloss": "để lấy chúng \/ vì chúng"
     },
     {
       "surface": "ואלכה",
-      "gloss": "và tôi sẽ đi"
+      "gloss": "và ta sẽ đi"
     },
     {
       "surface": "כי",
@@ -65,11 +65,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sự hầu việc của tôi"
+      "marks": "công việc phục vụ của ta"
     },
     {
       "surface": "עבדתי",
-      "gloss": "sự hầu việc của tôi"
+      "gloss": "công việc phục vụ của ta"
     },
     {
       "surface": "אשר",
@@ -77,9 +77,9 @@
     },
     {
       "surface": "עבדתיך",
-      "gloss": "tôi đã hầu việc ngươi"
+      "gloss": "ta đã làm cho ngươi"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.944177926Z",
+  "timestamp": "2026-08-24T16:02:23.343049977Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "vi",
   "chapter": 3,
-  "translation": "Vua Yisrael đi, và vua Yehudah, và vua Edom; họ đi vòng quanh đường bảy ngày, và không có nước cho trại quân, và cho súc vật ⟨the⟩ theo chân họ.",
+  "translation": "Vua Yisra'el đi, và vua Yehudah, và vua Edom, và họ đi vòng ⟨את⟩ đường bảy ngày, và không có nước cho trại quân và cho súc vật ⟨vậy⟩ ở chân của họ.",
   "tokens": [
     {
       "surface": "וילך",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Yisra'el"
     },
     {
       "surface": "ומלך",
@@ -37,7 +37,12 @@
     },
     {
       "surface": "ויסבו",
-      "gloss": "họ đi vòng"
+      "gloss": "và họ đi vòng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đường bảy ngày"
     },
     {
       "surface": "דרך",
@@ -52,7 +57,7 @@
       "gloss": "ngày"
     },
     {
-      "surface": "ויהוה",
+      "surface": "ולא",
       "gloss": "và không"
     },
     {
@@ -73,13 +78,13 @@
     },
     {
       "surface": "אשר",
-      "gloss": "⟨the⟩ theo"
+      "gloss": "⟨mà⟩"
     },
     {
       "surface": "ברגליהם",
-      "gloss": "chân họ"
+      "gloss": "ở chân của họ"
     }
   ],
-  "timestamp": "2026-08-19T06:10:10.547817168Z",
+  "timestamp": "2026-08-24T16:12:36.980389849Z",
   "model": "glm-5.3"
 }

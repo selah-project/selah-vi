@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "vi",
   "chapter": 20,
-  "translation": "Và vào ngày thứ tư họ tập họp tại trũng Berakha, vì tại đó họ đã tôn phúc ⟨את⟩ Yahweh; đó là lý do họ gọi ⟨את⟩ tên của nơi ấy là trũng Berakha, cho đến ngày nay.",
+  "translation": "Ngày thứ tư họ tụ hội tại thung lũng Berachah, vì tại đó họ tôn phúc ⟨את⟩ Yahweh; bởi vậy họ đặt tên nơi ấy là thung lũng Berachah, cho đến ngày nay.",
   "tokens": [
     {
       "surface": "וביום",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "הרבעי",
-      "gloss": "⟨the⟩ thứ tư"
+      "gloss": "thứ tư"
     },
     {
       "surface": "נקהלו",
-      "gloss": "họ tập họp"
+      "gloss": "họ tụ hội"
     },
     {
       "surface": "לעמק",
-      "gloss": "tại trũng"
+      "gloss": "tại thung lũng"
     },
     {
       "surface": "ברכה",
-      "gloss": "Berakha"
+      "gloss": "Berachah"
     },
     {
       "surface": "כי",
@@ -50,20 +50,20 @@
     },
     {
       "surface": "על",
-      "gloss": "về điều đó"
+      "gloss": "về"
     },
     {
       "surface": "כן",
-      "gloss": "đó là lý do"
+      "gloss": "bởi vậy"
     },
     {
       "surface": "קראו",
-      "gloss": "họ gọi"
+      "gloss": "họ đặt tên"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tên"
+      "marks": "tên nơi ấy"
     },
     {
       "surface": "שם",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "המקום",
-      "gloss": "của ⟨the⟩ nơi"
+      "gloss": "nơi"
     },
     {
       "surface": "ההוא",
@@ -79,11 +79,11 @@
     },
     {
       "surface": "עמק",
-      "gloss": "trũng"
+      "gloss": "thung lũng"
     },
     {
       "surface": "ברכה",
-      "gloss": "Berakha"
+      "gloss": "Berachah"
     },
     {
       "surface": "עד",
@@ -91,9 +91,9 @@
     },
     {
       "surface": "היום",
-      "gloss": "⟨the⟩ ngày nay"
+      "gloss": "ngày nay"
     }
   ],
-  "timestamp": "2026-08-19T05:57:49.026673924Z",
+  "timestamp": "2026-08-24T16:26:07.156945028Z",
   "model": "glm-5.3"
 }

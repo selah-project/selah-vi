@@ -5,8 +5,66 @@
   "book": "2-chronicles",
   "lang": "vi",
   "chapter": 34,
-  "translation": "Và họ đổ ra ⟨את⟩ bạc被发现 найд thấy trong nhà Yahweh, và giao nó vào tay những người được ủy thác và vào tay những người làm công việc.",
-  "tokens": [],
-  "timestamp": "2026-08-19T06:01:50.779700376Z",
+  "translation": "Và họ đã đổ ra ⟨את⟩ bạc được tìm thấy trong nhà Yahweh, và đã giao nó vào tay những người được ủy thác, và vào tay những người làm công việc.",
+  "tokens": [
+    {
+      "surface": "ויתיכו",
+      "gloss": "và họ đã đổ ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bạc"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "bạc"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "được tìm thấy"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "trong nhà"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויתנוהו",
+      "gloss": "và họ đã giao nó"
+    },
+    {
+      "surface": "על",
+      "gloss": "vào"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tay"
+    },
+    {
+      "surface": "המפקדים",
+      "gloss": "những người được ủy thác"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "và vào"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tay"
+    },
+    {
+      "surface": "עושי",
+      "gloss": "những người làm"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "công việc"
+    }
+  ],
+  "timestamp": "2026-08-24T16:25:40.970088873Z",
   "model": "glm-5.3"
 }

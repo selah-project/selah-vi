@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "vi",
   "chapter": 10,
-  "translation": "Và người Tsidon, và Amalek, và Maon đã áp bức ⟨אתכם⟩ các ngươi; và các ngươi đã kêu cầu cùng Ta, và Ta đã giải cứu ⟨אתכם⟩ các ngươi khỏi tay của họ.",
+  "translation": "Và ⟨các⟩ Tsiđôn, và Amalek, và Maon đã áp bức ⟨את⟩ các ngươi; và các ngươi đã kêu cứu cùng Ta, và Ta đã cứu ⟨את⟩ các ngươi khỏi tay chúng nó.",
   "tokens": [
     {
       "surface": "וצידונים",
-      "gloss": "và người Tsidon"
+      "gloss": "và các người Tsiđôn"
     },
     {
       "surface": "ועמלק",
@@ -21,16 +21,16 @@
     },
     {
       "surface": "לחצו",
-      "gloss": "họ đã áp bức"
+      "gloss": "đã áp bức"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "gloss": "⟨את⟩",
       "marks": "các ngươi"
     },
     {
       "surface": "ותצעקו",
-      "gloss": "và các ngươi đã kêu cầu"
+      "gloss": "và các ngươi đã kêu cứu"
     },
     {
       "surface": "אלי",
@@ -38,18 +38,18 @@
     },
     {
       "surface": "ואושיעה",
-      "gloss": "và Ta đã giải cứu"
+      "gloss": "và Ta đã cứu"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "gloss": "⟨את⟩",
       "marks": "các ngươi"
     },
     {
       "surface": "מידם",
-      "gloss": "khỏi tay của họ"
+      "gloss": "khỏi tay chúng nó"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.961535035Z",
+  "timestamp": "2026-08-24T16:09:43.152865490Z",
   "model": "glm-5.3"
 }

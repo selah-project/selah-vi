@@ -5,8 +5,61 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 36,
-  "translation": "Và đây là con trai của Reuel: Nachat và Zerach, Shammah và Mizzah;这些人 là con trai của Bashemat, vợ của Esav.",
-  "tokens": [],
-  "timestamp": "2026-08-19T01:20:51.322578493Z",
+  "translation": "Và đây là các con trai của Reuel: Nachat và Zerach, Shammah và Mizzah;这些都是 các con trai của Basmat, vợ của Esav.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "và đây là"
+    },
+    {
+      "surface": "בני",
+      "gloss": "các con trai của"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuel"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "Nachat"
+    },
+    {
+      "surface": "וזרח",
+      "gloss": "và Zerach"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "Shammah"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "và Mizzah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "đây là"
+    },
+    {
+      "surface": "היו",
+      "gloss": "là"
+    },
+    {
+      "surface": "בני",
+      "gloss": "các con trai của"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Basmat"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vợ của"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    }
+  ],
+  "timestamp": "2026-08-24T16:02:20.710387347Z",
   "model": "glm-5.3"
 }

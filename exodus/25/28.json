@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 25,
-  "translation": "Và ngươi sẽ làm ⟨את⟩ các cây đòn bằng gỗ keo, và ngươi sẽ bọc ⟨את⟩ ⟨אתם⟩ vàng, và cái bàn sẽ được vác bằng chúng.",
+  "translation": "Ngươi sẽ làm ⟨את⟩ các cây đòn khi bằng gỗ shytim, và ngươi sẽ bọc chúng bằng vàng, để cái bàn được khiêng bằng chúng.",
   "tokens": [
     {
       "surface": "ועשית",
@@ -14,11 +14,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "các cây đòn"
+      "marks": "các cây đòn khi"
     },
     {
       "surface": "הבדים",
-      "gloss": "các cây đòn"
+      "gloss": "các cây đòn khi"
     },
     {
       "surface": "עצי",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "שטים",
-      "gloss": "keo (shittim)"
+      "gloss": "shytim"
     },
     {
       "surface": "וצפית",
@@ -34,8 +34,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "chúng (các cây đòn)"
+      "gloss": "⟨את⟩ chúng",
+      "marks": "chúng (các cây đòn khi)"
     },
     {
       "surface": "זהב",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "ונשא",
-      "gloss": "và sẽ được vác"
+      "gloss": "và được khiêng"
     },
     {
       "surface": "בם",
@@ -59,6 +59,6 @@
       "gloss": "cái bàn"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.993131062Z",
+  "timestamp": "2026-08-24T16:03:32.399619263Z",
   "model": "glm-5.3"
 }

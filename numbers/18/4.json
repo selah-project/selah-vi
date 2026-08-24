@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 18,
-  "translation": "Và họ sẽ hợp với ngươi, và canh giữ ⟨את⟩ nhiệm vụ của trại hội họp, cho mọi phục sự của ⟨the⟩ trại; còn người ngoài không được đến gần các ngươi.",
+  "translation": "Chúng sẽ liên kết với ngươi, và canh giữ ⟨את⟩ sự canh giữ của trại hội gặp, cho mọi công việc của ⟨ה⟩ trại; còn người ngoại sẽ không đến gần với các ngươi.",
   "tokens": [
     {
       "surface": "ונלוו",
-      "gloss": "và họ sẽ hợp với"
+      "gloss": "và chúng sẽ liên kết"
     },
     {
       "surface": "עליך",
-      "gloss": "ngươi"
+      "gloss": "với ngươi"
     },
     {
       "surface": "ושמרו",
@@ -22,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nhiệm vụ của trại hội họp"
+      "marks": "sự canh giữ"
     },
     {
       "surface": "משמרת",
-      "gloss": "nhiệm vụ"
+      "gloss": "sự canh giữ"
     },
     {
       "surface": "אהל",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "מועד",
-      "gloss": "hội họp"
+      "gloss": "hội gặp"
     },
     {
       "surface": "לכל",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "עבדת",
-      "gloss": "phục sự"
+      "gloss": "công việc"
     },
     {
       "surface": "האהל",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "וזר",
-      "gloss": "và người ngoài"
+      "gloss": "và người ngoại"
     },
     {
       "surface": "לא",
@@ -58,13 +58,13 @@
     },
     {
       "surface": "יקרב",
-      "gloss": "được đến gần"
+      "gloss": "đến gần"
     },
     {
       "surface": "אליכם",
-      "gloss": "các ngươi"
+      "gloss": "với các ngươi"
     }
   ],
-  "timestamp": "2026-08-19T02:58:40.254606215Z",
+  "timestamp": "2026-08-24T16:07:18.250876035Z",
   "model": "glm-5.3"
 }

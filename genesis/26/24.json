@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 26,
-  "translation": "Và Yahweh hiện ra với ông trong đêm đó, và phán: Ta là Elohim của Avraham cha ngươi; đừng sợ, vì ⟨את⟩ Ta ở với ngươi, và Ta sẽ ban phước cho ngươi, và làm增多 ⟨את⟩ dòng dõi ngươi, vì cớ Avraham tôi tớ của Ta.",
+  "translation": "Và Yahweh hiện ra với Yitschak trong đêm ấy, và phán: Ta là Elohim của Avraham, cha của ngươi; đừng sợ, vì ⟨את⟩ Ta ở cùng ngươi, và Ta sẽ ban phước cho ngươi, và Ta sẽ làm cho ⟨את⟩ dòng giống ngươi đông đúc, vì cớ Avraham, tôi tớ của Ta.",
   "tokens": [
     {
       "surface": "וירא",
-      "gloss": "và Ngài hiện ra"
+      "gloss": "và hiện ra"
     },
     {
       "surface": "אליו",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ההוא",
-      "gloss": "đó"
+      "gloss": "ấy"
     },
     {
       "surface": "ויאמר",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ với ngươi"
+      "gloss": "⟨את⟩ ở cùng ngươi"
     },
     {
       "surface": "אנכי",
@@ -69,20 +69,20 @@
     },
     {
       "surface": "וברכתיך",
-      "gloss": "và Ta sẽ ban phước ngươi"
+      "gloss": "và Ta sẽ ban phước cho ngươi"
     },
     {
       "surface": "והרביתי",
-      "gloss": "và Ta sẽ làm增多"
+      "gloss": "và Ta sẽ làm đông"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dòng dõi ngươi"
+      "marks": "dòng giống ngươi"
     },
     {
       "surface": "זרעך",
-      "gloss": "dòng dõi ngươi"
+      "gloss": "dòng giống ngươi"
     },
     {
       "surface": "בעבור",
@@ -97,6 +97,6 @@
       "gloss": "tôi tớ của Ta"
     }
   ],
-  "timestamp": "2026-08-19T01:09:22.902210124Z",
+  "timestamp": "2026-08-24T16:02:26.244843692Z",
   "model": "glm-5.3"
 }

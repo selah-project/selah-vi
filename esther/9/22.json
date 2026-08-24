@@ -5,7 +5,7 @@
   "book": "esther",
   "lang": "vi",
   "chapter": 9,
-  "translation": "như những ngày mà người Yehuda được nghỉ ngơi khỏi kẻ thù của họ, và tháng đã được đổi chuyển cho họ từ đau thương sang vui mừng, và từ than khóc sang ngày tốt lành; để làm ⟨את⟩ ⟨אתם⟩ những ngày ấy thành ngày yến tiệc và vui mừng, và gửi phần quà người nọ cho bạn mình, và tặng vật cho những người nghèo khó.",
+  "translation": "Về những ngày mà người Yehuda được yên nghỉ khỏi kẻ thù của họ, và về tháng mà ⟨đã⟩ đảo ngược cho họ từ buồn rầu thành vui mừng, và từ than khóc thành ngày tốt lành, để làm ⟨את⟩ những ngày ấy thành ngày yến tiệc và vui mừng, và gởi phân phần người nầy cho bạn hữu mình, cùng quà tặng cho người nghèo khó.",
   "tokens": [
     {
       "surface": "כימים",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "נחו",
-      "gloss": "được nghỉ ngơi"
+      "gloss": "được yên nghỉ"
     },
     {
       "surface": "בהם",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "נהפך",
-      "gloss": "đã được đổi chuyển"
+      "gloss": "đã đảo ngược"
     },
     {
       "surface": "להם",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "מיגון",
-      "gloss": "từ đau thương"
+      "gloss": "từ buồn rầu"
     },
     {
       "surface": "לשמחה",
-      "gloss": "sang vui mừng"
+      "gloss": "thành vui mừng"
     },
     {
       "surface": "ומאבל",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ליום",
-      "gloss": "sang ngày"
+      "gloss": "thành ngày"
     },
     {
       "surface": "טוב",
@@ -73,12 +73,12 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "gloss": "⟨את⟩",
       "marks": "những ngày ấy"
     },
     {
       "surface": "ימי",
-      "gloss": "những ngày"
+      "gloss": "ngày"
     },
     {
       "surface": "משתה",
@@ -90,11 +90,11 @@
     },
     {
       "surface": "ומשלוח",
-      "gloss": "và việc gửi"
+      "gloss": "và việc gởi"
     },
     {
       "surface": "מנות",
-      "gloss": "phần quà"
+      "gloss": "phân phần"
     },
     {
       "surface": "איש",
@@ -102,17 +102,17 @@
     },
     {
       "surface": "לרעהו",
-      "gloss": "cho bạn mình"
+      "gloss": "cho bạn hữu mình"
     },
     {
       "surface": "ומתנות",
-      "gloss": "và tặng vật"
+      "gloss": "và quà tặng"
     },
     {
       "surface": "לאביונים",
-      "gloss": "cho những người nghèo khó"
+      "gloss": "cho người nghèo khó"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.954726962Z",
+  "timestamp": "2026-08-24T16:23:30.082548624Z",
   "model": "glm-5.3"
 }

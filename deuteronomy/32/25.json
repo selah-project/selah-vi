@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "vi",
   "chapter": 32,
-  "translation": "Bên ngoài gươm sẽ làm mất con, và trong các phòng within là kinh hoàng; cả chàng trai lẫn trinh nữ, đứa trẻ bú sữa cùng người đàn ông tóc bạc.",
+  "translation": "Bên ngoài thanh gươm làm mất con, và trong các phòng nội tâm là kinh hoàng; cả chàng trai lẫn thiếu nữ, con bú cùng với người tóc bạc.",
   "tokens": [
     {
       "surface": "מחוץ",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "תשכל",
-      "gloss": "sẽ làm mất con"
+      "gloss": "làm mất con"
     },
     {
       "surface": "חרב",
-      "gloss": "gươm"
+      "gloss": "thanh gươm"
     },
     {
       "surface": "ומחדרים",
-      "gloss": "và trong các phòng trong"
+      "gloss": "và trong các phòng nội"
     },
     {
       "surface": "אימה",
@@ -41,25 +41,25 @@
     },
     {
       "surface": "בתולה",
-      "gloss": "trinh nữ"
+      "gloss": "thiếu nữ"
     },
     {
       "surface": "יונק",
-      "gloss": "đứa trẻ bú sữa"
+      "gloss": "con bú"
     },
     {
       "surface": "עם",
-      "gloss": "cùng"
+      "gloss": "cùng với"
     },
     {
       "surface": "איש",
-      "gloss": "người đàn ông"
+      "gloss": "người"
     },
     {
       "surface": "שיבה",
-      "gloss": "tóc bạc (già年期)"
+      "gloss": "tóc bạc"
     }
   ],
-  "timestamp": "2026-08-19T03:13:47.999711446Z",
+  "timestamp": "2026-08-24T16:08:35.326556710Z",
   "model": "glm-5.3"
 }

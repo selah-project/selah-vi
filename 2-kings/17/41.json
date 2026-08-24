@@ -5,8 +5,99 @@
   "book": "2-kings",
   "lang": "vi",
   "chapter": 17,
-  "translation": "Và các dân tộc này đã kính sợ ⟨את⟩ Yahweh, còn ⟨את⟩ các tượng khắc của họ thì họ cứ hầu việc — cả con cái他们... ",
-  "tokens": [],
-  "timestamp": "2026-08-19T04:00:00.652682653Z",
+  "translation": "Vậy các dân tộc nầy kính sợ Yahweh, nhưng ⟨את⟩ tượng chạm của chúng nó chúng nó vẫn hầu việc; cả con trai chúng nó và con cháu chúng nữa, như tổ phụ chúng đã làm, chúng nó vẫn làm cho đến ngày nầy.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "vậy đã xảy ra rằng"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "các dân tộc"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nầy"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "kính sợ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "tượng chạm của chúng nó"
+    },
+    {
+      "surface": "פסיליהם",
+      "gloss": "tượng chạm của chúng nó"
+    },
+    {
+      "surface": "היו",
+      "gloss": "đã là"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "người hầu việc"
+    },
+    {
+      "surface": "גם",
+      "gloss": "cả"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "con trai chúng nó"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "và con của"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "con cái chúng nó"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "như"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "đã làm"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "tổ phụ chúng"
+    },
+    {
+      "surface": "הם",
+      "gloss": "chính chúng nó"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "đang làm"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nầy"
+    }
+  ],
+  "timestamp": "2026-08-24T16:13:25.282126513Z",
   "model": "glm-5.3"
 }

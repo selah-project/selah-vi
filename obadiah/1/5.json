@@ -5,7 +5,7 @@
   "book": "obadiah",
   "lang": "vi",
   "chapter": 1,
-  "translation": "Nếu kẻ trộm đã đến với ngươi, nếu kẻ cướp ban đêm — ôi ngươi bị hủy diệt thế nào! — chúng岂 chẳng trộm đến đủ sao? Nếu người hái nho đến với ngươi, chúng岂 chẳng để lại vài chùm sót sao?",
+  "translation": "Nếu kẻ trộm đã đến với ngươi, nếu kẻ cướp phá ban đêm — ôi ngươi đã bị hủy diệt ⟨như thế nào⟩! Họ岂 chẳng trộm đủ ⟨số⟩ của mình sao? Nếu người hái nho đã đến với ngươi, họ chẳng để lại vài chùm sót sao?",
   "tokens": [
     {
       "surface": "אם",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "שודדי",
-      "gloss": "kẻ cướp"
+      "gloss": "kẻ cướp phá"
     },
     {
       "surface": "לילה",
@@ -37,23 +37,23 @@
     },
     {
       "surface": "איך",
-      "gloss": "thế nào"
+      "gloss": "như thế nào"
     },
     {
       "surface": "נדמיתה",
-      "gloss": "ngươi bị hủy diệt"
+      "gloss": "ngươi đã bị hủy diệt"
     },
     {
       "surface": "הלוא",
-      "gloss": "há chẳng"
+      "gloss": "chẳng"
     },
     {
       "surface": "יגנבו",
-      "gloss": "chúng trộm"
+      "gloss": "họ trộm"
     },
     {
       "surface": "דים",
-      "gloss": "đến đủ"
+      "gloss": "đủ"
     },
     {
       "surface": "אם",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "באו",
-      "gloss": "đến"
+      "gloss": "đã đến"
     },
     {
       "surface": "לך",
@@ -73,17 +73,17 @@
     },
     {
       "surface": "הלוא",
-      "gloss": "há chẳng"
+      "gloss": "chẳng"
     },
     {
       "surface": "ישאירו",
-      "gloss": "chúng để lại"
+      "gloss": "họ để lại"
     },
     {
       "surface": "עללות",
-      "gloss": "vài chùm sót"
+      "gloss": "chùm nho sót"
     }
   ],
-  "timestamp": "2026-08-19T04:47:58.300575706Z",
+  "timestamp": "2026-08-24T16:19:22.846100949Z",
   "model": "glm-5.3"
 }

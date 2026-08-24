@@ -5,8 +5,65 @@
   "book": "ezekiel",
   "lang": "vi",
   "chapter": 31,
-  "translation": "Vì vậy thân hình ⟨cây⟩ được nhấc cao lên trên mọi cây của đồng ruộng, và chồi nhánh của ⟨nó⟩ được nhân增多 ra, và cành lá của ⟨nó⟩ dài ra bởi nhiều dòng nước, khi ⟨nó⟩ vươn出自己的 nhánh.",
-  "tokens": [],
-  "timestamp": "2026-08-19T04:39:10.640350473Z",
+  "translation": "Vì thế thân cao của nó vươn cao hơn mọi cây ⟨của⟩ đồng, và các nhánh nhỏ của nó sinh nhiều, và các cành lá của nó dài ra vì ⟨có⟩ nhiều nước, khi nó đâm chồi.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "כן",
+      "gloss": "thế"
+    },
+    {
+      "surface": "גבהא",
+      "gloss": "vươn cao"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "thân cao của nó"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "hơn mọi"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "cây"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "của đồng"
+    },
+    {
+      "surface": "ותרבינה",
+      "gloss": "và sinh nhiều"
+    },
+    {
+      "surface": "סרעפתיו",
+      "gloss": "các nhánh nhỏ của nó"
+    },
+    {
+      "surface": "ותארכנה",
+      "gloss": "và dài ra"
+    },
+    {
+      "surface": "פארתו",
+      "gloss": "các cành lá của nó"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "vì nước"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "nhiều"
+    },
+    {
+      "surface": "בשלחו",
+      "gloss": "khi nó đâm chồi"
+    }
+  ],
+  "timestamp": "2026-08-24T16:17:31.643507651Z",
   "model": "glm-5.3"
 }

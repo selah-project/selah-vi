@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "vi",
   "chapter": 26,
-  "translation": "Và David nói với Avner: Há ngươi không ⟨là⟩ một người勇士 sao? Ai bằng ngươi trong Israel? Vậy sao ngươi không canh giữ chủ mình, vua? Vì một người trong dân đã đến để hủy diệt ⟨את⟩ vua, chủ của ngươi.",
+  "translation": "Đavid nói với Avner: Ngươi há không phải ⟨là⟩ một người sĩ sao, và ai trong Yisrael giống như ngươi? Vậy sao ngươi không canh giữ chúa của ngươi, ⟨là⟩ vua? Vì một người trong dân đã vào để hủy diệt ⟨את⟩ đức vua, chúa của ngươi.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "và nói"
+      "gloss": "nói"
     },
     {
       "surface": "דוד",
-      "gloss": "David"
+      "gloss": "Đavid"
     },
     {
       "surface": "אל",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "người"
+      "gloss": "người sĩ"
     },
     {
       "surface": "אתה",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "כמוך",
-      "gloss": "bằng ngươi"
+      "gloss": "như ngươi"
     },
     {
       "surface": "בישראל",
-      "gloss": "trong Israel"
+      "gloss": "trong Yisrael"
     },
     {
       "surface": "ולמה",
@@ -61,15 +61,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "cho"
+      "gloss": "đối với"
     },
     {
       "surface": "אדניך",
-      "gloss": "chủ của ngươi"
+      "gloss": "chúa của ngươi"
     },
     {
       "surface": "המלך",
-      "gloss": "vua"
+      "gloss": "đức vua"
     },
     {
       "surface": "כי",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "בא",
-      "gloss": "đã đến"
+      "gloss": "đã vào"
     },
     {
       "surface": "אחד",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "của dân"
+      "gloss": "người trong dân"
     },
     {
       "surface": "להשחית",
@@ -94,17 +94,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "vua"
+      "marks": "đức vua"
     },
     {
       "surface": "המלך",
-      "gloss": "vua"
+      "gloss": "đức vua"
     },
     {
       "surface": "אדניך",
-      "gloss": "chủ của ngươi"
+      "gloss": "chúa của ngươi"
     }
   ],
-  "timestamp": "2026-08-19T03:37:46.419782847Z",
+  "timestamp": "2026-08-24T16:11:13.137552666Z",
   "model": "glm-5.3"
 }

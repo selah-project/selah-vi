@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 18,
-  "translation": "Và Yahweh phán cùng Aharon: Ngươi, và các con trai ngươi, và nhà của cha ngươi cùng ⟨את⟩ ngươi, sẽ gánh lấy ⟨את⟩ tội lỗi của ⟨the⟩ thánh điện; còn ngươi và các con trai ngươi cùng ⟨את⟩ ngươi, sẽ gánh lấy ⟨את⟩ tội lỗi chức th tế của các ngươi.",
+  "translation": "Và Yahweh phán cùng Aharon: Ngươi, và các con trai ngươi, và nhà của cha ngươi ⟨cùng⟩ ngươi, sẽ gánh ⟨את⟩ sự gian ác của ⟨ה⟩ thánh điện; còn ngươi và các con trai ngươi ⟨cùng⟩ ngươi, sẽ gánh ⟨את⟩ sự gian ác của chức tư tế của các ngươi.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -37,25 +37,24 @@
     },
     {
       "surface": "אביך",
-      "gloss": "của cha ngươi"
+      "gloss": "cha ngươi"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ ngươi",
-      "marks": "cùng ngươi"
+      "gloss": "⟨את⟩ ngươi"
     },
     {
       "surface": "תשאו",
-      "gloss": "sẽ gánh lấy"
+      "gloss": "sẽ gánh"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tội lỗi của thánh điện"
+      "marks": "sự gian ác"
     },
     {
       "surface": "עון",
-      "gloss": "tội lỗi"
+      "gloss": "sự gian ác"
     },
     {
       "surface": "המקדש",
@@ -71,27 +70,26 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ ngươi",
-      "marks": "cùng ngươi"
+      "gloss": "⟨את⟩ ngươi"
     },
     {
       "surface": "תשאו",
-      "gloss": "sẽ gánh lấy"
+      "gloss": "sẽ gánh"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tội lỗi chức tế của các ngươi"
+      "marks": "sự gian ác"
     },
     {
       "surface": "עון",
-      "gloss": "tội lỗi"
+      "gloss": "sự gian ác"
     },
     {
       "surface": "כהנתכם",
-      "gloss": "chức tế của các ngươi"
+      "gloss": "chức tư tế của các ngươi"
     }
   ],
-  "timestamp": "2026-08-19T02:58:40.253900533Z",
+  "timestamp": "2026-08-24T16:07:18.250217297Z",
   "model": "glm-5.3"
 }

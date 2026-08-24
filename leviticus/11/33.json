@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "vi",
   "chapter": 11,
-  "translation": "Và mọi đồ gốm, thứ nào trong đó có vật那样的 rơi vào, thì mọi thứ ở trong nó đều ô uế, và ⟨את⟩ nó các ngươi phải đập vỡ.",
+  "translation": "Và mọi vật dụng bằng gốm, khi một phần tử nào của chúng rơi vào lòng nó, thì mọi thứ ở trong nó đều ô uế, và nó thì các ngươi phải đập vỡ ⟨את⟩.",
   "tokens": [
     {
       "surface": "וכל",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "כלי",
-      "gloss": "đồ dùng"
+      "gloss": "vật dụng"
     },
     {
       "surface": "חרש",
-      "gloss": "gốm"
+      "gloss": "bằng gốm"
     },
     {
       "surface": "אשר",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "תוכו",
-      "gloss": "bên trong nó"
+      "gloss": "lòng nó"
     },
     {
       "surface": "כל",
-      "gloss": "mọi"
+      "gloss": "mọi thứ"
     },
     {
       "surface": "אשר",
-      "gloss": "vật mà"
+      "gloss": "vốn"
     },
     {
       "surface": "בתוכו",
@@ -53,18 +53,18 @@
     },
     {
       "surface": "יטמא",
-      "gloss": "sẽ ô uế"
+      "gloss": "đều ô uế"
     },
     {
       "surface": "ואתו",
-      "gloss": "⟨את⟩ và ⟨את⟩ nó",
-      "marks": "nó (đồ gốm — các ngươi phải đập vỡ)"
+      "gloss": "⟨את⟩ và nó",
+      "marks": "nó (chiếc bình gốm)"
     },
     {
       "surface": "תשברו",
       "gloss": "các ngươi phải đập vỡ"
     }
   ],
-  "timestamp": "2026-08-19T02:42:05.966866045Z",
+  "timestamp": "2026-08-24T16:05:42.717748240Z",
   "model": "glm-5.3"
 }

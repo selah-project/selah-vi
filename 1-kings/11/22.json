@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "vi",
   "chapter": 11,
-  "translation": "Và Pharaoh nói với ông: Nhưng còn thiếu điều gì nơi tôi, kìa ngươi tìm cách về đất nước ngươi? Và ông đáp: Không có gì; nhưng无论如何 xin ngươi hãy cho tôi đi.",
+  "translation": "Pha-ra-ôn nói với hắn: Nhưng còn chi ngươi còn thiếu với ta, kìa ngươi tìm cách để đi về xứ ngươi? Và hắn nói: Không có chi, nhưng xin cứ đày ta đi.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "לו",
-      "gloss": "với ông"
+      "gloss": "với hắn"
     },
     {
       "surface": "פרעה",
-      "gloss": "Pharaoh"
+      "gloss": "Pha-ra-ôn"
     },
     {
       "surface": "כי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "מה",
-      "gloss": "điều gì"
+      "gloss": "chi"
     },
     {
       "surface": "אתה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "עמי",
-      "gloss": "nơi tôi"
+      "gloss": "với ta"
     },
     {
       "surface": "והנך",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "ארצך",
-      "gloss": "đất nước ngươi"
+      "gloss": "xứ ngươi"
     },
     {
       "surface": "ויאמר",
@@ -73,13 +73,13 @@
     },
     {
       "surface": "שלח",
-      "gloss": "hãy cho đi"
+      "gloss": "xin cứ sai đi"
     },
     {
       "surface": "תשלחני",
-      "gloss": "ngươi hãy cho tôi đi"
+      "gloss": "ngươi hãy đày ta"
     }
   ],
-  "timestamp": "2026-08-19T03:51:02.268715713Z",
+  "timestamp": "2026-08-24T16:12:29.744543504Z",
   "model": "glm-5.3"
 }

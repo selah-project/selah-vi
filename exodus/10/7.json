@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 10,
-  "translation": "Và các tôi tớ của Paroh nói với ông: Còn bao lâu nữa这事 sẽ là bẫy cho chúng tôi? Hãy thả ⟨את⟩ những người đàn ông đi, để họ phục vụ ⟨את⟩ Yahweh Elohim của họ. Ông chưa biết rằng Mitsrayim đã hủy diệt sao?",
+  "translation": "Và các tôi tớ của Paroh nói với ông: Đến bao lâu điều này sẽ còn là bẫy cho chúng ta? Hãy thả ⟨את⟩ những người ấy đi, để họ phụng sự ⟨את⟩ Yahweh Elohim của họ; ông chưa biết sao rằng Mitzrayim đã hủy diệt?",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "và họ nói"
+      "gloss": "và nói"
     },
     {
       "surface": "עבדי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "עד",
-      "gloss": "cho đến"
+      "gloss": "đến"
     },
     {
       "surface": "מתי",
@@ -33,36 +33,36 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "sẽ là"
+      "gloss": "sẽ còn là"
     },
     {
       "surface": "זה",
-      "gloss": "người này \/ điều này"
+      "gloss": "điều này"
     },
     {
       "surface": "לנו",
-      "gloss": "cho chúng tôi"
+      "gloss": "cho chúng ta"
     },
     {
       "surface": "למוקש",
-      "gloss": "thành bẫy"
+      "gloss": "là bẫy"
     },
     {
       "surface": "שלח",
-      "gloss": "hãy thả"
+      "gloss": "hãy thả đi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "những người đàn ông"
+      "marks": "những người ấy"
     },
     {
       "surface": "האנשים",
-      "gloss": "những người đàn ông"
+      "gloss": "những người ấy"
     },
     {
       "surface": "ויעבדו",
-      "gloss": "để họ phục vụ"
+      "gloss": "để họ phụng sự"
     },
     {
       "surface": "את",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "הטרם",
-      "gloss": "chưa… sao"
+      "gloss": "chưa"
     },
     {
       "surface": "תדע",
@@ -95,9 +95,9 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsrayim"
+      "gloss": "Mitzrayim"
     }
   ],
-  "timestamp": "2026-08-19T02:29:59.726108548Z",
+  "timestamp": "2026-08-24T16:03:18.436248393Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "vi",
   "chapter": 14,
-  "translation": "Há tất cả những kẻ làm điều gian ác岂 không biết, những kẻ ăn dân ta như ăn bánh, Yahweh họ không kêu cầu?",
+  "translation": "Há chẳng biết sao, tất cả những kẻ làm điều gian ác, kẻ ăn dân sự tôi như ăn bánh, Yahweh chúng nó không kêu cầu?",
   "tokens": [
     {
       "surface": "הלא",
-      "gloss": "há... không"
+      "gloss": "há chẳng"
     },
     {
       "surface": "ידעו",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "אכלי",
-      "gloss": "những kẻ ăn"
+      "gloss": "kẻ ăn"
     },
     {
       "surface": "עמי",
-      "gloss": "dân ta"
+      "gloss": "dân sự tôi"
     },
     {
       "surface": "אכלו",
@@ -56,6 +56,6 @@
       "gloss": "kêu cầu"
     }
   ],
-  "timestamp": "2026-08-19T04:56:23.951991039Z",
+  "timestamp": "2026-08-24T16:19:54.473759284Z",
   "model": "glm-5.3"
 }

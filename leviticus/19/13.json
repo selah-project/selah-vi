@@ -5,40 +5,40 @@
   "book": "leviticus",
   "lang": "vi",
   "chapter": 19,
-  "translation": "Ngươi chớ hà hiếp ⟨את⟩ người lân cận của ngươi, và chớ cướp đoạt; công việc của người làm thuê ⟨את⟩ ⟨אתך⟩ chớ để lại qua đêm cho đến buổi sáng.",
+  "translation": "Ngươi không được ức hiếp ⟨את⟩ người lân cận mình, và không được cướp đoạt của người; công việc của người làm thuê không được lưu lại với ngươi ⟨את⟩ qua đêm cho đến buổi sáng.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "chớ"
+      "gloss": "không"
     },
     {
       "surface": "תעשק",
-      "gloss": "hà hiếp"
+      "gloss": "ngươi ức hiếp"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "người lân cận của ngươi"
+      "marks": "người lân cận mình"
     },
     {
       "surface": "רעך",
-      "gloss": "người lân cận của ngươi"
+      "gloss": "người lân cận ngươi"
     },
     {
       "surface": "ולא",
-      "gloss": "và chớ"
+      "gloss": "và không"
     },
     {
       "surface": "תגזל",
-      "gloss": "cướp đoạt"
+      "gloss": "ngươi cướp đoạt"
     },
     {
       "surface": "לא",
-      "gloss": "chớ"
+      "gloss": "không"
     },
     {
       "surface": "תלין",
-      "gloss": "để lại qua đêm"
+      "gloss": "được lưu lại qua đêm"
     },
     {
       "surface": "פעלת",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ ⟨אתך⟩"
+      "gloss": "với ⟨את⟩ ngươi"
     },
     {
       "surface": "עד",
@@ -61,6 +61,6 @@
       "gloss": "buổi sáng"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.037138200Z",
+  "timestamp": "2026-08-24T16:05:57.669127358Z",
   "model": "glm-5.3"
 }

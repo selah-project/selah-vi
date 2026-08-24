@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "vi",
   "chapter": 17,
-  "translation": "Mà là ⟨את⟩ Yahweh — Đấng đã đưa các ngươi lên khỏi đất Mitzrayim bằng quyền năng lớn lao và bằng cánh tay giơ cao — ⟨את Ngài⟩ các ngươi hãy kính sợ, và trước Ngài hãy quỳ lạy, và cho Ngài hãy sát tế.",
+  "translation": "Nhưng Yahweh, ⟨Đấng⟩ đã đưa ⟨את⟩ các ngươi lên khỏi đất Mitsrayim bằng quyền năng lớn lao và bằng cánh tay vươn ra — ⟨את⟩ Ngài các ngươi hãy kính sợ, và trước Ngài các ngươi hãy quỳ lạy, và cho Ngài các ngươi hãy dâng sinh tế.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "mà"
+      "gloss": "nhưng"
     },
     {
       "surface": "אם",
-      "gloss": "là"
+      "gloss": "mà chỉ"
     },
     {
       "surface": "את",
@@ -34,8 +34,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ các ngươi",
-      "marks": "các ngươi"
+      "gloss": "⟨את⟩ các ngươi"
     },
     {
       "surface": "מארץ",
@@ -43,7 +42,7 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitzrayim"
+      "gloss": "Mitsrayim"
     },
     {
       "surface": "בכח",
@@ -59,12 +58,12 @@
     },
     {
       "surface": "נטויה",
-      "gloss": "giơ cao"
+      "gloss": "vươn ra"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ Ngài",
-      "marks": "kính sợ"
+      "gloss": "⟨את⟩",
+      "marks": "Ngài (đối tượng của 'kính sợ')"
     },
     {
       "surface": "תיראו",
@@ -76,7 +75,7 @@
     },
     {
       "surface": "תשתחוו",
-      "gloss": "hãy quỳ lạy"
+      "gloss": "các ngươi hãy quỳ lạy"
     },
     {
       "surface": "ולו",
@@ -84,9 +83,9 @@
     },
     {
       "surface": "תזבחו",
-      "gloss": "hãy sát tế"
+      "gloss": "các ngươi hãy dâng sinh tế"
     }
   ],
-  "timestamp": "2026-08-19T04:01:00.021497745Z",
+  "timestamp": "2026-08-24T16:13:13.775616224Z",
   "model": "glm-5.3"
 }

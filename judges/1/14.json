@@ -5,27 +5,28 @@
   "book": "judges",
   "lang": "vi",
   "chapter": 1,
-  "translation": "Và khi nàng đến với chồng, nàng đã thôi thúc chồng hỏi ⟨את⟩ cha nàng xin ⟨ה⟩ cánh đồng; và nàng đã bước xuống khỏi con lừa, và Kalev nói với nàng: Nàng muốn gì?",
+  "translation": "Và ⟨điều đó⟩ xảy ra, khi nàng đến với ông, nàng thuyết phục ông xin ⟨את⟩ đồng ruộng từ cha nàng; nàng bước xuống khỏi con lừa cái, và Kalev nói với nàng: Ngươi muốn gì?",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "và đã xảy ra"
+      "gloss": "và xảy ra"
     },
     {
       "surface": "בבואה",
       "gloss": "khi nàng đến"
     },
     {
-      "surface": "ויתסיתהו",
-      "gloss": "nàng đã thôi thúc chàng"
+      "surface": "ותסיתהו",
+      "gloss": "nàng thuyết phục ông"
     },
     {
       "surface": "לשאול",
-      "gloss": "để hỏi xin"
+      "gloss": "để xin"
     },
     {
       "surface": "מאת",
-      "gloss": "từ ⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "đồng ruộng"
     },
     {
       "surface": "אביה",
@@ -33,23 +34,23 @@
     },
     {
       "surface": "השדה",
-      "gloss": "cánh đồng"
+      "gloss": "đồng ruộng"
     },
     {
-      "surface": "ויתצנח",
-      "gloss": "và nàng đã bước xuống"
+      "surface": "ותצנח",
+      "gloss": "và nàng bước xuống"
     },
     {
       "surface": "מעל",
-      "gloss": "khỏi"
+      "gloss": "khỏi trên"
     },
     {
       "surface": "החמור",
-      "gloss": "con lừa"
+      "gloss": "con lừa cái"
     },
     {
       "surface": "ויאמר",
-      "gloss": "và đã nói"
+      "gloss": "và ông nói"
     },
     {
       "surface": "לה",
@@ -65,9 +66,9 @@
     },
     {
       "surface": "לך",
-      "gloss": "cho nàng"
+      "gloss": "cho ngươi"
     }
   ],
-  "timestamp": "2026-08-19T06:07:08.620361352Z",
+  "timestamp": "2026-08-24T16:09:58.380185677Z",
   "model": "glm-5.3"
 }

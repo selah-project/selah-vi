@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "vi",
   "chapter": 12,
-  "translation": "Và bây giờ, này đây ⟨⟨là⟩⟩ vua mà các ngươi đã chọn, mà các ngươi đã xin; và này, Yahweh đã đặt trên các ngươi ⟨את⟩ một vua.",
+  "translation": "Và bây giờ, này là vua mà các ngươi đã chọn, mà các ngươi đã xin; và này, Yahweh đã lập lên các ngươi một vua.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "הנה",
-      "gloss": "này đây"
+      "gloss": "này"
     },
     {
       "surface": "המלך",
-      "gloss": "vua"
+      "gloss": "⟨người⟩ vua"
     },
     {
       "surface": "אשר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "נתן",
-      "gloss": "đã đặt"
+      "gloss": "đã lập"
     },
     {
       "surface": "יהוה",
@@ -49,13 +49,13 @@
     },
     {
       "surface": "עליכם",
-      "gloss": "trên các ngươi"
+      "gloss": "lên các ngươi"
     },
     {
       "surface": "מלך",
       "gloss": "một vua"
     }
   ],
-  "timestamp": "2026-08-19T03:31:59.944711701Z",
+  "timestamp": "2026-08-24T16:10:10.676258122Z",
   "model": "glm-5.3"
 }

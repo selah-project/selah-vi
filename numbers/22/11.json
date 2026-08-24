@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 22,
-  "translation": "Này, dân sự ⟨the⟩ đang ra khỏi Mitzrayim và nó đã che ⟨את⟩ mắt của ⟨ה⟩ đất; bây giờ hãy đến, nguyền rủa nó cho ta; có lẽ ta có thể chiến đấu chống nó và ta sẽ đuổi nó đi.",
+  "translation": "'Này, dân sự đi ra khỏi Mitzrayim, và nó đã phủ ⟨את⟩ mắt của đất; giờ đây, hãy đến, nguyền rủa ⟨את⟩ nó cho tôi; may ra tôi có thể giao tranh với nó và đuổi nó đi.'",
   "tokens": [
     {
       "surface": "הנה",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "היצא",
-      "gloss": "đang ra khỏi"
+      "gloss": "đi ra"
     },
     {
       "surface": "ממצרים",
-      "gloss": "Mitzrayim"
+      "gloss": "khỏi Mitzrayim"
     },
     {
       "surface": "ויכס",
-      "gloss": "và đã che"
+      "gloss": "và phủ"
     },
     {
       "surface": "את",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "đất"
+      "gloss": "của đất"
     },
     {
       "surface": "עתה",
-      "gloss": "bây giờ"
+      "gloss": "giờ đây"
     },
     {
       "surface": "לכה",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "לי",
-      "gloss": "cho ta"
+      "gloss": "cho tôi"
     },
     {
       "surface": "אתו",
@@ -63,25 +63,25 @@
     },
     {
       "surface": "אולי",
-      "gloss": "có lẽ"
+      "gloss": "may ra"
     },
     {
       "surface": "אוכל",
-      "gloss": "ta có thể"
+      "gloss": "tôi có thể"
     },
     {
       "surface": "להלחם",
-      "gloss": "chiến đấu"
+      "gloss": "giao tranh"
     },
     {
       "surface": "בו",
-      "gloss": "chống nó"
+      "gloss": "với nó"
     },
     {
       "surface": "וגרשתיו",
-      "gloss": "và ta sẽ đuổi nó đi"
+      "gloss": "và đuổi nó đi"
     }
   ],
-  "timestamp": "2026-08-19T02:59:40.913681010Z",
+  "timestamp": "2026-08-24T16:06:46.518423735Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "vi",
   "chapter": 32,
-  "translation": "Và tôi lấy ⟨את⟩ sách mua bán — ⟨את⟩ bản niêm phong, ⟨the⟩ điều lệ và ⟨the⟩ quy định, và ⟨את⟩ bản công khai —",
+  "translation": "Và tôi lấy ⟨את⟩ cuốn văn khế mua, ⟨את⟩ bản đã đóng ấn cùng các điều lệ và ⟨את⟩ bản để mở.",
   "tokens": [
     {
       "surface": "ואקח",
@@ -14,43 +14,43 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sách mua bán"
+      "marks": "cuốn văn khế mua"
     },
     {
       "surface": "ספר",
-      "gloss": "sách"
+      "gloss": "cuốn văn khế"
     },
     {
       "surface": "המקנה",
-      "gloss": "mua bán"
+      "gloss": "của cuộc mua"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bản niêm phong"
+      "marks": "bản đã đóng ấn"
     },
     {
       "surface": "החתום",
-      "gloss": "bản niêm phong"
+      "gloss": "bản đã đóng ấn"
     },
     {
       "surface": "המצוה",
-      "gloss": "điều lệ"
+      "gloss": "các điều khoản"
     },
     {
       "surface": "והחקים",
-      "gloss": "và quy định"
+      "gloss": "và các điều lệ"
     },
     {
       "surface": "ואת",
-      "gloss": "và ⟨את⟩",
-      "marks": "bản công khai"
+      "gloss": "⟨את⟩",
+      "marks": "bản để mở"
     },
     {
       "surface": "הגלוי",
-      "gloss": "bản công khai"
+      "gloss": "bản để mở"
     }
   ],
-  "timestamp": "2026-08-19T04:24:52.096308050Z",
+  "timestamp": "2026-08-24T16:15:48.717896519Z",
   "model": "glm-5.3"
 }

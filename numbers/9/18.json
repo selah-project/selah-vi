@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 9,
-  "translation": "Theo miệng Yahweh con cái Yitsra'el lên đường, và theo miệng Yahweh ⟨họ⟩ đóng trại; suốt những ngày đám mây ngụ trên ⟨ה⟩ Nhà-Trại, ⟨họ⟩ đóng trại.",
+  "translation": "Theo miệng Yahweh con cái Yisrael khởi hành, và theo miệng Yahweh họ hạ trại; mọi ngày mà đám mây trú trên đền trại thì họ hạ trại.",
   "tokens": [
     {
       "surface": "על",
-      "gloss": "theo"
+      "gloss": "theo \/ bởi"
     },
     {
       "surface": "פי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "יסעו",
-      "gloss": "lên đường"
+      "gloss": "họ khởi hành"
     },
     {
       "surface": "בני",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yitsra'el"
+      "gloss": "Yisrael"
     },
     {
       "surface": "ועל",
@@ -44,16 +44,16 @@
       "gloss": "Yahweh"
     },
     {
-      "surface": "ייחנו",
-      "gloss": "đóng trại"
+      "surface": "יחנו",
+      "gloss": "họ hạ trại"
     },
     {
       "surface": "כל",
-      "gloss": "suốt tất cả"
+      "gloss": "mọi"
     },
     {
       "surface": "ימי",
-      "gloss": "những ngày"
+      "gloss": "ngày"
     },
     {
       "surface": "אשר",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ישכן",
-      "gloss": "ngụ"
+      "gloss": "nó trú lại"
     },
     {
       "surface": "הענן",
@@ -73,13 +73,13 @@
     },
     {
       "surface": "המשכן",
-      "gloss": "Nhà-Trại"
+      "gloss": "đền trại"
     },
     {
       "surface": "יחנו",
-      "gloss": "đóng trại"
+      "gloss": "họ hạ trại"
     }
   ],
-  "timestamp": "2026-08-19T02:55:41.245747686Z",
+  "timestamp": "2026-08-24T16:07:13.422741134Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "vi",
   "chapter": 36,
-  "translation": "Và ⟨⟨the⟩⟩ đất bị hoang hóa sẽ được canh tác, thay vì nó đã là nơi hoang vu trước mắt mọi kẻ đi qua.",
+  "translation": "Và ⟨the⟩ đất bị bỏ hoang sẽ được canh tác, thay vì nó ⟨was⟩ hoang tàn trước mắt mọi kẻ đi ngang qua.",
   "tokens": [
     {
       "surface": "והארץ",
-      "gloss": "và đất"
+      "gloss": "và ⟨the⟩ đất"
     },
     {
       "surface": "הנשמה",
-      "gloss": "bị hoang hóa"
+      "gloss": "bị bỏ hoang"
     },
     {
       "surface": "תעבד",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "היתה",
-      "gloss": "nó đã là"
+      "gloss": "nó曾是 ⟩"
     },
     {
       "surface": "שממה",
-      "gloss": "nơi hoang vu"
+      "gloss": "hoang tàn"
     },
     {
       "surface": "לעיני",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "עובר",
-      "gloss": "kẻ đi qua"
+      "gloss": "kẻ đi ngang qua"
     }
   ],
-  "timestamp": "2026-08-19T04:40:39.440400692Z",
+  "timestamp": "2026-08-24T16:17:28.172637389Z",
   "model": "glm-5.3"
 }

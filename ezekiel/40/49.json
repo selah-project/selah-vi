@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "vi",
   "chapter": 40,
-  "translation": "Chiều dài ⟨the⟩ hành lang là hai mươi amma, và chiều rộng mười một amma; và bằng những bậc thang mà người ta lên lên nó; và có các trụ bên ⟨the⟩ các trụ cửa, một từ đây và một từ kia.",
+  "translation": "Chiều dài ⟨⟨cái⟩⟩ hiên là hai mươi amma, và bề rộng mười một amma; và tại ⟨các⟩ bậc thang mà người ta lên lên nó; và có ⟨các⟩ cột trụ bên cạnh ⟨các⟩ trụ cổng — một từ phía nầy và một từ phía kia.",
   "tokens": [
     {
       "surface": "ארך",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "האלם",
-      "gloss": "⟨the⟩ hành lang"
+      "gloss": "của hiên"
     },
     {
       "surface": "עשרים",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "ורחב",
-      "gloss": "và chiều rộng"
+      "gloss": "và bề rộng"
     },
     {
       "surface": "עשתי",
-      "gloss": "mười một"
+      "gloss": "mười"
     },
     {
       "surface": "עשרה",
-      "gloss": "(mười)"
+      "gloss": "một"
     },
     {
       "surface": "אמה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ובמעלות",
-      "gloss": "và bằng những bậc thang"
+      "gloss": "và tại các bậc thang"
     },
     {
       "surface": "אשר",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "יעלו",
-      "gloss": "người ta lên"
+      "gloss": "họ lên"
     },
     {
       "surface": "אליו",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "ועמדים",
-      "gloss": "và các trụ"
+      "gloss": "và các cột trụ"
     },
     {
       "surface": "אל",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "האילים",
-      "gloss": "⟨the⟩ các trụ cửa"
+      "gloss": "các trụ cổng"
     },
     {
       "surface": "אחד",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "מפה",
-      "gloss": "từ đây"
+      "gloss": "từ phía nầy"
     },
     {
       "surface": "ואחד",
@@ -81,9 +81,9 @@
     },
     {
       "surface": "מפה",
-      "gloss": "từ kia"
+      "gloss": "từ phía kia"
     }
   ],
-  "timestamp": "2026-08-19T04:41:32.149322086Z",
+  "timestamp": "2026-08-24T16:17:25.019227356Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "vi",
   "chapter": 18,
-  "translation": "Và toàn thể ⟨the⟩ dân thấy, và họ ngã sấp xuống mặt đất, và họ nói: Yahweh, chính Ngài là ⟨the⟩ Elohim; Yahweh, chính Ngài là ⟨the⟩ Elohim.",
+  "translation": "Và khi toàn thể dân sự thấy, họ sấp mặt xuống đất, và nói: Yahweh, Ngài ⟨là⟩ Elohim! Yahweh, Ngài ⟨là⟩ Elohim!",
   "tokens": [
     {
       "surface": "וירא",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "העם",
-      "gloss": "dân"
+      "gloss": "dân sự"
     },
     {
       "surface": "ויפלו",
-      "gloss": "và họ ngã sấp"
+      "gloss": "và họ sấp xuống"
     },
     {
       "surface": "על",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "פניהם",
-      "gloss": "mặt của họ"
+      "gloss": "mặt họ"
     },
     {
       "surface": "ויאמרו",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "הוא",
-      "gloss": "chính Ngài"
+      "gloss": "Ngài"
     },
     {
       "surface": "האלהים",
-      "gloss": "⟨the⟩ Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "יהוה",
@@ -53,13 +53,13 @@
     },
     {
       "surface": "הוא",
-      "gloss": "chính Ngài"
+      "gloss": "Ngài"
     },
     {
       "surface": "האלהים",
-      "gloss": "⟨the⟩ Elohim"
+      "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-08-19T03:53:45.155365458Z",
+  "timestamp": "2026-08-24T16:12:20.408418180Z",
   "model": "glm-5.3"
 }

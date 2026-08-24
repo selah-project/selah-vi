@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 14,
-  "translation": "Còn con trẻ các ngươi, mà các ngươi曾说 'sẽ thành của chiến lợi phẩm' — chúng sẽ thành vậy; còn ta sẽ đem ⟨את⟩ chúng vào, và chúng sẽ nhận biết ⟨את⟩ xứ mà các ngươi đã khinh bỏ.",
+  "translation": "Còn trẻ nhỏ của các ngươi, mà các ngươi đã nói sẽ thành của bị cướp, ⟨את⟩ chúng nó ta sẽ đem vào, và chúng nó sẽ nhận biết ⟨את⟩ đất mà các ngươi đã khinh rẻ nó.",
   "tokens": [
     {
       "surface": "וטפכם",
-      "gloss": "còn con trẻ các ngươi"
+      "gloss": "còn trẻ nhỏ của các ngươi"
     },
     {
       "surface": "אשר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "לבז",
-      "gloss": "thành của chiếm đoạt"
+      "gloss": "sẽ thành của bị cướp"
     },
     {
       "surface": "יהיה",
@@ -29,25 +29,25 @@
     },
     {
       "surface": "והביאתי",
-      "gloss": "và ta sẽ đem vào"
+      "gloss": "ta sẽ đem vào"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "chúng"
+      "gloss": "⟨את⟩ chúng nó",
+      "marks": "chúng nó (trẻ nhỏ)"
     },
     {
       "surface": "וידעו",
-      "gloss": "và chúng sẽ biết"
+      "gloss": "và chúng nó sẽ nhận biết"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "xứ"
+      "marks": "đất"
     },
     {
       "surface": "הארץ",
-      "gloss": "xứ"
+      "gloss": "đất"
     },
     {
       "surface": "אשר",
@@ -55,13 +55,13 @@
     },
     {
       "surface": "מאסתם",
-      "gloss": "các ngươi đã khinh bỏ"
+      "gloss": "các ngươi đã khinh rẻ"
     },
     {
       "surface": "בה",
       "gloss": "nó"
     }
   ],
-  "timestamp": "2026-08-19T02:56:32.152308394Z",
+  "timestamp": "2026-08-24T16:06:39.066552782Z",
   "model": "glm-5.3"
 }

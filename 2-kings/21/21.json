@@ -5,8 +5,66 @@
   "book": "2-kings",
   "lang": "vi",
   "chapter": 21,
-  "translation": "Và người ấy đi trong cả con đường mà cha mình đã đi, và phục sự ⟨את⟩ các thần偶像 הגללים mà cha mình đã phục sự, và cúi lạy trước chúng.",
-  "tokens": [],
-  "timestamp": "2026-08-19T04:01:38.279379128Z",
+  "translation": "Và y đã đi trong mọi con đường mà cha y đã đi, và đã phụng sự ⟨את⟩ các tượng tà thần mà cha y đã phụng sự, và đã quỳ lạy chúng.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "và đã đi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "trong mọi"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "con đường"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "đã đi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "cha y"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "và đã phụng sự"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "các tượng tà thần"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "các tượng tà thần"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "đã phụng sự"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "cha y"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "và đã quỳ lạy"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chúng"
+    }
+  ],
+  "timestamp": "2026-08-24T16:13:50.441524045Z",
   "model": "glm-5.3"
 }

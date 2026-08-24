@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 45,
-  "translation": "Và họ kể cho ông rằng: «Vẫn còn Yosef sống, và kìa ⟨⟨את⟩⟩ chính hắn cai trị trên cả đất Mitzrayim.» Và tim ông ngừng đập, vì ông không tin họ.",
+  "translation": "Họ kể cho ông nghe, rằng: Yosef còn sống, và ⟨là⟩ kẻ cai quản toàn xứ Mitzrayim. Tim ông hoá đờ, vì ông không tin họ.",
   "tokens": [
     {
       "surface": "ויגדו",
-      "gloss": "và họ kể"
+      "gloss": "họ kể"
     },
     {
       "surface": "לו",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "עוד",
-      "gloss": "vẫn còn"
+      "gloss": "còn"
     },
     {
       "surface": "יוסף",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "הוא",
-      "gloss": "hắn"
+      "gloss": "ông ấy"
     },
     {
       "surface": "משל",
-      "gloss": "cai trị"
+      "gloss": "cai quản"
     },
     {
       "surface": "בכל",
-      "gloss": "trên cả"
+      "gloss": "trong toàn"
     },
     {
       "surface": "ארץ",
-      "gloss": "đất"
+      "gloss": "xứ"
     },
     {
       "surface": "מצרים",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "ויפג",
-      "gloss": "và tim ngừng đập"
+      "gloss": "nó hoá đờ"
     },
     {
       "surface": "לבו",
@@ -80,6 +80,6 @@
       "gloss": "họ"
     }
   ],
-  "timestamp": "2026-08-19T02:26:22.282175243Z",
+  "timestamp": "2026-08-24T16:03:05.887407391Z",
   "model": "glm-5.3"
 }

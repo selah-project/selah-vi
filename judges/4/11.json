@@ -5,27 +5,27 @@
   "book": "judges",
   "lang": "vi",
   "chapter": 4,
-  "translation": "Và Chever ha-Qeni đã tách khỏi ⟨הקיני⟩ Qeyni, từ con cái của Chovav, thông gia của Moshe, và ông dựng trại mình đến tận cây sồi ở Beit-Tzaananim, vốn ⟨את⟩ gần Qedesh.",
+  "translation": "Còn Chever người Qeyni đã tách riêng khỏi Qayin, khỏi con cháu của Chovav, thông gia của Moshe, và ông căng lều mình đến tận cây sồi ở Betzaanayim, ở cạnh ⟨את⟩ Qedesh.",
   "tokens": [
     {
       "surface": "וחבר",
-      "gloss": "và Chever"
+      "gloss": "Còn Chever"
     },
     {
       "surface": "הקיני",
-      "gloss": "ha-Qeni"
+      "gloss": "người Qeyni"
     },
     {
       "surface": "נפרד",
-      "gloss": "đã tách"
+      "gloss": "đã tách riêng"
     },
     {
       "surface": "מקין",
-      "gloss": "khỏi Qeyni"
+      "gloss": "khỏi Qayin"
     },
     {
       "surface": "מבני",
-      "gloss": "từ con cái của"
+      "gloss": "khỏi con cháu của"
     },
     {
       "surface": "חבב",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "משה",
-      "gloss": "Moshe"
+      "gloss": "của Moshe"
     },
     {
       "surface": "ויט",
-      "gloss": "và ông dựng"
+      "gloss": "và ông căng ra"
     },
     {
       "surface": "אהלו",
-      "gloss": "trại mình"
+      "gloss": "lều mình"
     },
     {
       "surface": "עד",
@@ -57,21 +57,22 @@
     },
     {
       "surface": "בצענים",
-      "gloss": "ở Tzaananim"
+      "gloss": "ở Betzaanayim"
     },
     {
       "surface": "אשר",
-      "gloss": "vốn"
+      "gloss": "ở nơi"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ gần"
+      "gloss": "⟨את⟩",
+      "marks": "Qedesh"
     },
     {
       "surface": "קדש",
       "gloss": "Qedesh"
     }
   ],
-  "timestamp": "2026-08-19T03:23:05.942034452Z",
+  "timestamp": "2026-08-24T16:09:39.181124099Z",
   "model": "glm-5.3"
 }

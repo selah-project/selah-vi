@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 22,
-  "translation": "thì cơn thịnh nộ của Ta sẽ bừng lên, và Ta sẽ giết ⟨את⟩ ⟨אתכם⟩ các ngươi bằng gươm, và các vợ của các ngươi sẽ thành quả phụ, con cái các ngươi thành trẻ mồ côi.",
+  "translation": "thì cơn thịnh nộ của Ta sẽ bừng lên, và Ta sẽ giết ⟨את⟩ các ngươi bằng gươm, và các vợ của các ngươi sẽ thành goá phụ, và các con của các ngươi sẽ thành trẻ mồ côi.",
   "tokens": [
     {
       "surface": "וחרה",
-      "gloss": "và sẽ bừng lên"
+      "gloss": "sẽ bừng lên"
     },
     {
       "surface": "אפי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩ các ngươi",
+      "gloss": "⟨את⟩",
       "marks": "các ngươi"
     },
     {
@@ -38,17 +38,17 @@
     },
     {
       "surface": "אלמנות",
-      "gloss": "quả phụ"
+      "gloss": "goá phụ"
     },
     {
       "surface": "ובניכם",
-      "gloss": "và con cái các ngươi"
+      "gloss": "và các con của các ngươi"
     },
     {
       "surface": "יתמים",
       "gloss": "trẻ mồ côi"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.989747551Z",
+  "timestamp": "2026-08-24T16:04:10.920211372Z",
   "model": "glm-5.3"
 }

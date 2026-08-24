@@ -5,8 +5,85 @@
   "book": "judges",
   "lang": "vi",
   "chapter": 20,
-  "translation": "Và họ quay lại, chạy về phía đồng vắng, đến vầng đá HaRimmon; và người ta đi lượm họ dọc theo các lối đi: năm ngàn người; và họ bám sát theo sau hắn đến Gidom, và đánh从他 xếp lại hai ngàn người.",
-  "tokens": [],
-  "timestamp": "2026-08-19T03:28:59.564104572Z",
+  "translation": "Và chúng quay lại và chạy trốn về phía hoang mạc, đến tận vầng đá Rimmon; và người ta gom hạ được chúng trên các lối đi năm nghìn người; và chúng đuổi sát theo sau nó đến Gidom, và đánh hạ từ nó hai nghìn người.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "và chúng quay lại"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "và chúng chạy trốn"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "về phía hoang mạc"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến tận"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "vầng đá"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "Rimmon"
+    },
+    {
+      "surface": "ויעללהו",
+      "gloss": "và người ta gom hạ nó"
+    },
+    {
+      "surface": "במסלות",
+      "gloss": "trên các lối đi"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "năm"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "nghìn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    },
+    {
+      "surface": "וידביקו",
+      "gloss": "và chúng đuổi sát"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "theo sau nó"
+    },
+    {
+      "surface": "עד",
+      "gloss": "đến"
+    },
+    {
+      "surface": "גדעם",
+      "gloss": "Gidom"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "và chúng đánh hạ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "từ nó"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "hai nghìn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người"
+    }
+  ],
+  "timestamp": "2026-08-24T16:09:48.961034937Z",
   "model": "glm-5.3"
 }

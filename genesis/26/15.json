@@ -5,11 +5,15 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 26,
-  "translation": "Và tất cả các giếng mà đầy tớ của cha ông đã đào trong những ngày của Avraham cha ông — người Philistim đã lấp ⟨אותן⟩ chúng, và заполнили chúng bằng đất bụi.",
+  "translation": "Và mọi giếng mà các tôi tớ của cha ông đã đào trong đời Avraham cha ông — người Phýlistin đã lấp ⟨את⟩ chúng và填 đầy chúng bằng đất bụi.",
   "tokens": [
     {
-      "surface": "וכל",
-      "gloss": "và tất cả"
+      "surface": "ו",
+      "gloss": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
     },
     {
       "surface": "הבארת",
@@ -25,7 +29,7 @@
     },
     {
       "surface": "עבדי",
-      "gloss": "đầy tớ của"
+      "gloss": "các tôi tớ của"
     },
     {
       "surface": "אביו",
@@ -33,7 +37,7 @@
     },
     {
       "surface": "בימי",
-      "gloss": "trong những ngày của"
+      "gloss": "trong đời"
     },
     {
       "surface": "אברהם",
@@ -49,17 +53,17 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "người Philistim"
+      "gloss": "người Phýlistin"
     },
     {
       "surface": "וימלאום",
-      "gloss": "và заполнили chúng"
+      "gloss": "và lấp đầy chúng"
     },
     {
       "surface": "עפר",
-      "gloss": "đất bụi"
+      "gloss": "bụi đất"
     }
   ],
-  "timestamp": "2026-08-19T01:09:23.856883561Z",
+  "timestamp": "2026-08-24T16:02:43.597875947Z",
   "model": "glm-5.3"
 }

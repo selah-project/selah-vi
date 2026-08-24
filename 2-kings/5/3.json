@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "vi",
   "chapter": 5,
-  "translation": "Và nàng nói với bà chủ mình: Ước gì chúa tôi ở trước mặt vị naví בשומרון! Khi đó người sẽ nhận ⟨את⟩ ông khỏi bịnh phung của ông.",
+  "translation": "Và nàng nói với bà chủ mình: Ước gì chúa tôi ⟨were⟩ ở trước vị naví ⟨vị⟩ בשמרון — thì Ngài sẽ nhận ⟨את⟩ anh khỏi bệnh phung của anh.",
   "tokens": [
     {
       "surface": "ותאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "גברתה",
-      "gloss": "bà chủ của nàng"
+      "gloss": "bà chủ mình"
     },
     {
       "surface": "אחלי",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "trước mặt"
+      "gloss": "ở trước"
     },
     {
       "surface": "הנביא",
@@ -37,30 +37,30 @@
     },
     {
       "surface": "אשר",
-      "gloss": "là"
+      "gloss": "người mà"
     },
     {
       "surface": "בשמרון",
-      "gloss": "tại Shomron"
+      "gloss": "ở Shomron"
     },
     {
       "surface": "אז",
-      "gloss": "khi đó"
+      "gloss": "thì lúc đó"
     },
     {
       "surface": "יאסף",
-      "gloss": "sẽ nhận"
+      "gloss": "ông sẽ nhận lại"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "ông (Naaman)"
+      "marks": "anh (Naaman)"
     },
     {
       "surface": "מצרעתו",
-      "gloss": "khỏi bịnh phung của ông"
+      "gloss": "khỏi bệnh phung của anh"
     }
   ],
-  "timestamp": "2026-08-19T03:57:21.897130145Z",
+  "timestamp": "2026-08-24T16:12:56.861746178Z",
   "model": "glm-5.3"
 }

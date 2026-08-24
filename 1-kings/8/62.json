@@ -5,19 +5,19 @@
   "book": "1-kings",
   "lang": "vi",
   "chapter": 8,
-  "translation": "Và ⟨⟨vua⟩⟩ cùng toàn thể Yisra'el với ông, đang tế lễ một sinh tế trước mặt Yahweh.",
+  "translation": "Và vị vua, cùng toàn thể Yisraél với ông, đang dâng tế lễ trước mặt Yahweh.",
   "tokens": [
     {
       "surface": "והמלך",
-      "gloss": "và ⟨vua⟩"
+      "gloss": "và vị vua"
     },
     {
       "surface": "וכל",
-      "gloss": "với toàn thể"
+      "gloss": "cùng toàn thể"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisraél"
     },
     {
       "surface": "עמו",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "זבחים",
-      "gloss": "đang tế lễ"
+      "gloss": "đang dâng"
     },
     {
       "surface": "זבח",
-      "gloss": "một sinh tế"
+      "gloss": "tế lễ"
     },
     {
       "surface": "לפני",
@@ -40,6 +40,6 @@
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-19T03:50:08.340622507Z",
+  "timestamp": "2026-08-24T16:12:11.135531218Z",
   "model": "glm-5.3"
 }

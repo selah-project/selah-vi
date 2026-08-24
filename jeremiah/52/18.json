@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "vi",
   "chapter": 52,
-  "translation": "Và ⟨את⟩ các nồi, và ⟨את⟩ các cái xẻng, và ⟨את⟩ các cái bấm tim đèn, và ⟨את⟩ các chén rảy, và ⟨את⟩ các cái nĩa, và ⟨את⟩ tất cả các器具 bằng đồng mà họ dùng để phục vụ, chúng đã bị đem đi.",
+  "translation": "Và ⟨את⟩ các nồi, và ⟨את⟩ các cái hót, và ⟨את⟩ các cái kẹp tim đèn, và ⟨את⟩ các chén rảy, và ⟨את⟩ các cái muỗng, và ⟨את⟩ mọi dụng cụ bằng đồng mà chúng dùng để phụng sự — chúng đã đem đi.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "và ⟨את⟩",
       "marks": "các nồi"
     },
     {
@@ -18,25 +18,25 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "các cái xẻng"
+      "gloss": "và ⟨את⟩",
+      "marks": "các cái hót"
     },
     {
       "surface": "היעים",
-      "gloss": "các cái xẻng"
+      "gloss": "các cái hót"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "các cái bấm tim đèn"
+      "gloss": "và ⟨את⟩",
+      "marks": "các cái kẹp tim đèn"
     },
     {
       "surface": "המזמרות",
-      "gloss": "các cái bấm tim đèn"
+      "gloss": "các cái kẹp tim đèn"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "và ⟨את⟩",
       "marks": "các chén rảy"
     },
     {
@@ -45,21 +45,21 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "các cái nĩa"
+      "gloss": "và ⟨את⟩",
+      "marks": "các cái muỗng"
     },
     {
       "surface": "הכפות",
-      "gloss": "các cái nĩa"
+      "gloss": "các cái muỗng"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "tất cả các器具"
+      "gloss": "và ⟨את⟩",
+      "marks": "mọi dụng cụ"
     },
     {
       "surface": "כל",
-      "gloss": "tất cả"
+      "gloss": "mọi"
     },
     {
       "surface": "כלי",
@@ -75,17 +75,17 @@
     },
     {
       "surface": "ישרתו",
-      "gloss": "họ dùng để phục vụ"
+      "gloss": "chúng dùng để phụng sự"
     },
     {
       "surface": "בהם",
-      "gloss": "bằng chúng"
+      "gloss": "với chúng"
     },
     {
       "surface": "לקחו",
-      "gloss": "đã đem đi"
+      "gloss": "chúng đã đem đi"
     }
   ],
-  "timestamp": "2026-08-19T04:31:29.175525032Z",
+  "timestamp": "2026-08-24T16:17:07.777424036Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "job",
   "lang": "vi",
   "chapter": 8,
-  "translation": "גֹּמֶא (bẹo giấy) có mọc lên được nơi không có đầm lầy? có cỏ sậy lớn lên được khi thiếu nước?",
+  "translation": "Gấu mọc lên nơi không có đầm lầy? Sậy cao lên thiếu nước?",
   "tokens": [
     {
       "surface": "היגאה",
-      "gloss": "há mọc lên"
+      "gloss": "mọc lên (nào)"
     },
     {
       "surface": "גמא",
-      "gloss": "bẹo giấy"
+      "gloss": "gấu (b_sentence lau sậy)"
     },
     {
       "surface": "בלא",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "ישגה",
-      "gloss": "lớn lên"
+      "gloss": "cao lên"
     },
     {
       "surface": "אחו",
-      "gloss": "cỏ sậy"
+      "gloss": "sậy"
     },
     {
       "surface": "בלי",
@@ -40,6 +40,6 @@
       "gloss": "nước"
     }
   ],
-  "timestamp": "2026-08-19T05:21:20.949532378Z",
+  "timestamp": "2026-08-24T16:22:18.659656517Z",
   "model": "glm-5.3"
 }

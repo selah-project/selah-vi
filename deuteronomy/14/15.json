@@ -5,16 +5,16 @@
   "book": "deuteronomy",
   "lang": "vi",
   "chapter": 14,
-  "translation": "và ⟨את⟩ đà điểu, và ⟨את⟩ chim khuya, và ⟨את⟩ mòng biển, và ⟨את⟩ diều元以上 theo loài của nó",
+  "translation": "Và ⟨את⟩ con chim đà điểu, và ⟨את⟩ chim cú đêm, và ⟨את⟩ chim mòng biển, và ⟨את⟩ diều hâu theo giống của nó;",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "đà điểu"
+      "gloss": "và ⟨את⟩",
+      "marks": "chim đà điểu"
     },
     {
       "surface": "בת",
-      "gloss": "con của"
+      "gloss": "con (gái) của"
     },
     {
       "surface": "היענה",
@@ -22,17 +22,17 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "chim khuya"
+      "gloss": "và ⟨את⟩",
+      "marks": "chim cú đêm"
     },
     {
       "surface": "התחמס",
-      "gloss": "chim khuya"
+      "gloss": "cú đêm"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "mòng biển"
+      "gloss": "và ⟨את⟩",
+      "marks": "chim mòng biển"
     },
     {
       "surface": "השחף",
@@ -40,18 +40,18 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "chim ó"
+      "gloss": "và ⟨את⟩",
+      "marks": "diều hâu"
     },
     {
       "surface": "הנץ",
-      "gloss": "chim ó"
+      "gloss": "diều hâu"
     },
     {
       "surface": "למינהו",
-      "gloss": "theo loài của nó"
+      "gloss": "theo giống của nó"
     }
   ],
-  "timestamp": "2026-08-19T03:08:05.523005605Z",
+  "timestamp": "2026-08-24T16:07:52.071284900Z",
   "model": "glm-5.3"
 }

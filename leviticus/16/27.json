@@ -5,20 +5,20 @@
   "book": "leviticus",
   "lang": "vi",
   "chapter": 16,
-  "translation": "Và ⟨את⟩ con bò của tội lỗi cùng ⟨את⟩ con dê đực của tội lỗi, mà máu của chúng đã được đem vào để chuộc tội trong nơi thánh, thì phải mang ra ngoài trại quân; và người ta sẽ đốt trong lửa ⟨את} da của chúng, và ⟨את⟩ thịt của chúng, và ⟨את⟩ phân của chúng.",
+  "translation": "Và ⟨את⟩ con bò mận của lễ tha tội, và ⟨את⟩ con dê đực của lễ tha tội, mà máu của chúng đã được đem vào để chuộc tội trong nơi thánh, thì người ta sẽ đem ra ngoài trại quân; và họ sẽ đốt trong lửa ⟨את⟩ da của chúng, và ⟨את⟩ thịt của chúng, và ⟨את⟩ phận của chúng.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "và ⟨את⟩",
-      "marks": "con bò"
+      "marks": "con bò mận"
     },
     {
       "surface": "פר",
-      "gloss": "con bò"
+      "gloss": "con bò mận"
     },
     {
       "surface": "החטאת",
-      "gloss": "của tội lỗi"
+      "gloss": "của lễ tha tội"
     },
     {
       "surface": "ואת",
@@ -31,7 +31,7 @@
     },
     {
       "surface": "החטאת",
-      "gloss": "của tội lỗi"
+      "gloss": "của lễ tha tội"
     },
     {
       "surface": "אשר",
@@ -60,11 +60,11 @@
     },
     {
       "surface": "יוציא",
-      "gloss": "phải mang ra"
+      "gloss": "sẽ đem ra"
     },
     {
       "surface": "אל",
-      "gloss": "ra"
+      "gloss": "đến"
     },
     {
       "surface": "מחוץ",
@@ -76,7 +76,7 @@
     },
     {
       "surface": "ושרפו",
-      "gloss": "và người ta sẽ đốt"
+      "gloss": "và họ sẽ đốt"
     },
     {
       "surface": "באש",
@@ -103,13 +103,13 @@
     {
       "surface": "ואת",
       "gloss": "và ⟨את⟩",
-      "marks": "phân của chúng"
+      "marks": "phận của chúng"
     },
     {
       "surface": "פרשם",
-      "gloss": "phân của chúng"
+      "gloss": "phận của chúng"
     }
   ],
-  "timestamp": "2026-08-19T02:45:22.051746015Z",
+  "timestamp": "2026-08-24T16:05:59.109413133Z",
   "model": "glm-5.3"
 }

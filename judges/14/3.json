@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "vi",
   "chapter": 14,
-  "translation": "Cha ông và mẹ ông nói với ⟨הוא⟩: Không có phụ nữ nào среди các con gái anh em ngươi, hay trong toàn dân tộc ta, mà ngươi đi lấy vợ từ người Phlítshtim chưa cắt bì? Shimshon nói với cha mình: ⟨את⟩ ⟨אותה⟩ hãy lấy cho tôi, vì nàng đẹp trong mắt tôi.",
+  "translation": "Và cha mình và mẹ mình nói với ⟨ה⟩⟨את⟩ anh: Chẳng có người phụ nữ nào trong các con gái của anh em ngươi, hay trong toàn dân tộc ta, mà ngươi đi lấy vợ từ người Pelishtite — những người không cắt bì? Và Shimshon nói với cha mình: ⟨את⟩ Cô ấy, hãy lấy cho tôi, vì cô ấy ⟨là⟩ ngay thẳng trong mắt tôi.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "לו",
-      "gloss": "với ông"
+      "gloss": "với anh"
     },
     {
       "surface": "אביו",
-      "gloss": "cha ông"
+      "gloss": "cha mình"
     },
     {
       "surface": "ואמו",
-      "gloss": "và mẹ ông"
+      "gloss": "và mẹ mình"
     },
     {
       "surface": "האין",
-      "gloss": "phải chăng không có"
+      "gloss": "chẳng có sao?"
     },
     {
       "surface": "בבנות",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "אחיך",
-      "gloss": "anh em ngươi"
+      "gloss": "của anh em ngươi"
     },
     {
       "surface": "ובכל",
-      "gloss": "và trong toàn"
+      "gloss": "hay trong toàn"
     },
     {
       "surface": "עמי",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "rằng"
+      "gloss": "mà"
     },
     {
       "surface": "אתה",
@@ -69,11 +69,11 @@
     },
     {
       "surface": "מפלשתים",
-      "gloss": "từ người Phlítshtim"
+      "gloss": "từ người Pelishtite"
     },
     {
       "surface": "הערלים",
-      "gloss": "những kẻ chưa cắt bì"
+      "gloss": "những người không cắt bì"
     },
     {
       "surface": "ויאמר",
@@ -93,8 +93,8 @@
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ ⟨אותה⟩",
-      "marks": "hãy lấy cho tôi"
+      "gloss": "⟨את⟩",
+      "marks": "cô ấy"
     },
     {
       "surface": "קח",
@@ -110,17 +110,17 @@
     },
     {
       "surface": "היא",
-      "gloss": "nàng"
+      "gloss": "cô ấy"
     },
     {
       "surface": "ישרה",
-      "gloss": "đẹp \/ thẳng"
+      "gloss": "ngay thẳng"
     },
     {
       "surface": "בעיני",
       "gloss": "trong mắt tôi"
     }
   ],
-  "timestamp": "2026-08-19T03:27:02.726046308Z",
+  "timestamp": "2026-08-24T16:10:05.399757828Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "vi",
   "chapter": 14,
-  "translation": "Và bây giờ, vì tôi đã đến đ说着 lời này với vua, chúa của tôi — vì dân sự làm tôi sợ — nên tớ nữ của ngài đã nói: Xin cho tôi nói với vua;恐怕 vua sẽ làm ⟨את⟩ lời của tớ nữ của ngài.",
+  "translation": "Và bây giờ, rằng tôi đã đến để nói với vua, chúa tôi, ⟨את⟩ lời nói này, là vì dân sự khiến tôi sợ; và nữ tỳ của ngài nói: tôi xin được nói với vua, có lẽ vua sẽ làm ⟨את⟩ lời của nữ tỳ mình.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "vì"
+      "gloss": "rằng"
     },
     {
       "surface": "באתי",
@@ -33,16 +33,16 @@
     },
     {
       "surface": "אדני",
-      "gloss": "chúa của tôi"
+      "gloss": "chúa tôi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lời này"
+      "marks": "lời nói này"
     },
     {
       "surface": "הדבר",
-      "gloss": "lời"
+      "gloss": "lời nói"
     },
     {
       "surface": "הזה",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "vì"
+      "gloss": "là vì"
     },
     {
       "surface": "יראני",
-      "gloss": "làm tôi sợ"
+      "gloss": "khiến tôi sợ"
     },
     {
       "surface": "העם",
@@ -62,11 +62,11 @@
     },
     {
       "surface": "ותאמר",
-      "gloss": "nên đã nói"
+      "gloss": "và nói"
     },
     {
       "surface": "שפחתך",
-      "gloss": "tớ nữ của ngài"
+      "gloss": "nữ tỳ của ngài"
     },
     {
       "surface": "אדברה",
@@ -86,8 +86,7 @@
     },
     {
       "surface": "אולי",
-      "gloss": "恐",
-      "gloss2": null
+      "gloss": "có lẽ"
     },
     {
       "surface": "יעשה",
@@ -100,7 +99,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lời của tớ nữ"
+      "marks": "lời của nữ tỳ mình"
     },
     {
       "surface": "דבר",
@@ -108,9 +107,9 @@
     },
     {
       "surface": "אמתו",
-      "gloss": "của tớ nữ ông"
+      "gloss": "nữ tỳ của mình"
     }
   ],
-  "timestamp": "2026-08-19T03:42:13.554953201Z",
+  "timestamp": "2026-08-24T16:11:46.164302335Z",
   "model": "glm-5.3"
 }

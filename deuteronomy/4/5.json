@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "vi",
   "chapter": 4,
-  "translation": "Hãy xem, tôi đã dạy ⟨אתכם⟩ các luật lệ và phán quyết, như Yahweh Elohim của tôi đã phán dặn tôi, để làm như vậy giữa đất mà các ngươi đang bước vào đó để chiếm lấy.",
+  "translation": "Hãy xem, tôi đã dạy ⟨את⟩ các điều răn định và các luật lệ cho các ngươi, đúng như Yahweh Elohim của tôi đã phán dặn tôi, để làm như vậy giữa lòng đất mà các ngươi đang tiến vào đó để chiếm hữu nó.",
   "tokens": [
     {
       "surface": "ראה",
-      "gloss": "hãy xem"
+      "gloss": "Hãy xem"
     },
     {
       "surface": "למדתי",
@@ -18,19 +18,19 @@
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "các luật lệ và phán quyết"
+      "marks": "các điều răn định và các luật lệ"
     },
     {
       "surface": "חקים",
-      "gloss": "các luật lệ"
+      "gloss": "các điều răn định"
     },
     {
       "surface": "ומשפטים",
-      "gloss": "và các phán quyết"
+      "gloss": "và các luật lệ"
     },
     {
       "surface": "כאשר",
-      "gloss": "như"
+      "gloss": "đúng như"
     },
     {
       "surface": "צוני",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "בקרב",
-      "gloss": "giữa"
+      "gloss": "giữa lòng"
     },
     {
       "surface": "הארץ",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "באים",
-      "gloss": "đang bước vào"
+      "gloss": "đang tiến vào"
     },
     {
       "surface": "שמה",
@@ -78,9 +78,9 @@
     },
     {
       "surface": "לרשתה",
-      "gloss": "để chiếm lấy nó"
+      "gloss": "để chiếm hữu nó"
     }
   ],
-  "timestamp": "2026-08-19T03:06:21.258387099Z",
+  "timestamp": "2026-08-24T16:07:23.939351834Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "vi",
   "chapter": 12,
-  "translation": "Còn Ngài, Yahweh, đã biết tôi; Ngài thấy tôi, và đã thử lòng tôi ⟨את⟩ ⟨אתך⟩; hãy kéo họ đi như chiên đến chỗ giết, và biệt họ ra thánh cho ngày giết-hại.",
+  "translation": "Còn ngài, Yahweh, Ngài đã biết con, Ngài thấy con, và Ngài đã thử lòng con ⟨cùng⟩ ⟨את⟩ Ngài. Hãy kéo chúng nó đi như chiên đàn đến lò sát sinh, và hãy biệt chúng nó thánh cho ngày giết hạ.",
   "tokens": [
     {
       "surface": "ואתה",
-      "gloss": "và Ngài"
+      "gloss": "Còn ngài"
     },
     {
       "surface": "יהוה",
@@ -17,39 +17,40 @@
     },
     {
       "surface": "ידעתני",
-      "gloss": "Ngài đã biết tôi"
+      "gloss": "Ngài đã biết con"
     },
     {
       "surface": "תראני",
-      "gloss": "Ngài thấy tôi"
+      "gloss": "Ngài thấy con"
     },
     {
       "surface": "ובחנת",
-      "gloss": "và đã thử"
+      "gloss": "và Ngài đã thử"
     },
     {
       "surface": "לבי",
-      "gloss": "lòng tôi"
+      "gloss": "lòng con"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ ⟨אתך⟩"
+      "gloss": "⟨את⟩ cùng Ngài",
+      "marks": "cùng Ngài"
     },
     {
       "surface": "התקם",
-      "gloss": "hãy kéo họ đi"
+      "gloss": "hãy kéo chúng nó đi"
     },
     {
       "surface": "כצאן",
-      "gloss": "như chiên"
+      "gloss": "như chiên đàn"
     },
     {
       "surface": "לטבחה",
-      "gloss": "đến chỗ giết"
+      "gloss": "đến lò sát sinh"
     },
     {
       "surface": "והקדשם",
-      "gloss": "và hãy biệt họ ra thánh"
+      "gloss": "và hãy biệt chúng nó thánh"
     },
     {
       "surface": "ליום",
@@ -57,9 +58,9 @@
     },
     {
       "surface": "הרגה",
-      "gloss": "giết-hại"
+      "gloss": "giết hạ"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.972805046Z",
+  "timestamp": "2026-08-24T16:15:22.281398224Z",
   "model": "glm-5.3"
 }

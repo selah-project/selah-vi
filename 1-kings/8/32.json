@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "vi",
   "chapter": 8,
-  "translation": "thì ngài sẽ lắng nghe tại các tầng trời, và làm, và xét xử ⟨את⟩ các tôi tớ ngài: tuyên bố kẻ ác là ác, để trả đường lối hắn trên đầu hắn; và tuyên bố người công chính là công chính, để trả cho hắn theo sự công chính của hắn",
+  "translation": "thì chính Ngài sẽ lắng nghe trên các tầng trời, và hành động, và phán xét ⟨את⟩ các tôi tớ của Ngài, tuyên bố kẻ ác là có tội — để trả đường lối của nó xuống trên đầu nó — và tuyên bố người công chính là công chính, để ban cho y theo sự công chính của y.",
   "tokens": [
     {
       "surface": "ואתה",
-      "gloss": "và ngài"
+      "gloss": "thì chính Ngài"
     },
     {
       "surface": "תשמע",
@@ -17,28 +17,28 @@
     },
     {
       "surface": "השמים",
-      "gloss": "⟨ה⟩ các tầng trời"
+      "gloss": "trên các tầng trời"
     },
     {
       "surface": "ועשית",
-      "gloss": "và làm"
+      "gloss": "và hành động"
     },
     {
       "surface": "ושפטת",
-      "gloss": "và xét xử"
+      "gloss": "và phán xét"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "các tôi tớ ngài"
+      "marks": "các tôi tớ của Ngài"
     },
     {
       "surface": "עבדיך",
-      "gloss": "các tôi tớ ngài"
+      "gloss": "các tôi tớ của Ngài"
     },
     {
       "surface": "להרשיע",
-      "gloss": "tuyên bố là ác"
+      "gloss": "để tuyên bố có tội"
     },
     {
       "surface": "רשע",
@@ -50,15 +50,15 @@
     },
     {
       "surface": "דרכו",
-      "gloss": "đường lối hắn"
+      "gloss": "đường lối của nó"
     },
     {
       "surface": "בראשו",
-      "gloss": "trên đầu hắn"
+      "gloss": "trên đầu nó"
     },
     {
       "surface": "ולהצדיק",
-      "gloss": "và tuyên bố là công chính"
+      "gloss": "và để tuyên bố công chính"
     },
     {
       "surface": "צדיק",
@@ -66,17 +66,17 @@
     },
     {
       "surface": "לתת",
-      "gloss": "để trả"
+      "gloss": "để ban"
     },
     {
       "surface": "לו",
-      "gloss": "cho hắn"
+      "gloss": "cho y"
     },
     {
       "surface": "כצדקתו",
-      "gloss": "theo sự công chính của hắn"
+      "gloss": "theo sự công chính của y"
     }
   ],
-  "timestamp": "2026-08-19T03:49:59.079056981Z",
+  "timestamp": "2026-08-24T16:12:16.136955139Z",
   "model": "glm-5.3"
 }

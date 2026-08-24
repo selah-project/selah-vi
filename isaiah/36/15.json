@@ -5,19 +5,19 @@
   "book": "isaiah",
   "lang": "vi",
   "chapter": 36,
-  "translation": "và chớ để Chizkiyahu làm cho các ngươi ⟨אתכם⟩ tin cậy vào Yahweh, mà nói rằng: Yahweh sẽ cứu chúng ta, Yahweh sẽ cứu ⟨chúng ta⟩; thành này sẽ không bị trao vào tay vua của Ashshur.",
+  "translation": "Và đừng để Chizkiyahu khiến ⟨את⟩ ⟨אתכם⟩ tin cậy vào Yahweh, nói rằng: 'Yahweh sẽ chắc chắn cứu ⟨chúng ta⟩; thành này sẽ không bị giao vào tay vua Ashshur.'",
   "tokens": [
     {
       "surface": "ואל",
-      "gloss": "và chớ"
+      "gloss": "và đừng"
     },
     {
       "surface": "יבטח",
-      "gloss": "làm cho tin cậy"
+      "gloss": "khiến tin cậy"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ các ngươi",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "các ngươi"
     },
     {
@@ -38,11 +38,11 @@
     },
     {
       "surface": "הצל",
-      "gloss": "sẽ cứu"
+      "gloss": "chắc chắn cứu"
     },
     {
       "surface": "יצילנו",
-      "gloss": "cứu chúng ta"
+      "gloss": "sẽ cứu chúng ta"
     },
     {
       "surface": "יהוה",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "תנתן",
-      "gloss": "sẽ bị trao"
+      "gloss": "sẽ bị giao"
     },
     {
       "surface": "העיר",
@@ -74,9 +74,9 @@
     },
     {
       "surface": "אשור",
-      "gloss": "của Ashshur"
+      "gloss": "Ashshur"
     }
   ],
-  "timestamp": "2026-08-19T04:11:04.287695274Z",
+  "timestamp": "2026-08-24T16:58:27.523652118Z",
   "model": "glm-5.3"
 }

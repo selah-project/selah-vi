@@ -5,8 +5,85 @@
   "book": "deuteronomy",
   "lang": "vi",
   "chapter": 28,
-  "translation": "Người vợ dịu dàng ở giữa ngươi, và người养尊处优 whose... ",
-  "tokens": [],
-  "timestamp": "2026-08-19T06:06:34.975671253Z",
+  "translation": "Người phụ nữ dịu dàng trong số ngươi và người sành điệu, kẻ chưa từng thử đặt lòng bàn chân mình xuống đất vì sành sống và vì mềm yếu, mắt nàng sẽ lườn ác với người chồng trong lòng nàng, và với con trai nàng, và với con gái nàng.",
+  "tokens": [
+    {
+      "surface": "הרכה",
+      "gloss": "người dịu dàng"
+    },
+    {
+      "surface": "בך",
+      "gloss": "trong số ngươi"
+    },
+    {
+      "surface": "והענגה",
+      "gloss": "và người sành điệu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "là kẻ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chưa"
+    },
+    {
+      "surface": "נסתה",
+      "gloss": "từng thử"
+    },
+    {
+      "surface": "כף",
+      "gloss": "lòng bàn"
+    },
+    {
+      "surface": "רגלה",
+      "gloss": "chân mình"
+    },
+    {
+      "surface": "הצג",
+      "gloss": "đặt"
+    },
+    {
+      "surface": "על",
+      "gloss": "xuống trên"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "מהתענג",
+      "gloss": "vì sự sành sống"
+    },
+    {
+      "surface": "ומרך",
+      "gloss": "và vì sự mềm yếu"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "sẽ xấu"
+    },
+    {
+      "surface": "עינה",
+      "gloss": "mắt nàng"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "với người chồng"
+    },
+    {
+      "surface": "חיקה",
+      "gloss": "trong lòng nàng"
+    },
+    {
+      "surface": "ובבנה",
+      "gloss": "và với con trai nàng"
+    },
+    {
+      "surface": "ובבתה",
+      "gloss": "và với con gái nàng"
+    }
+  ],
+  "timestamp": "2026-08-24T16:09:21.442674626Z",
   "model": "glm-5.3"
 }

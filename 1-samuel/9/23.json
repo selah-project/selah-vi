@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "vi",
   "chapter": 9,
-  "translation": "Shemuel nói với người厨师-thị: Hãy đem ⟨את⟩ phần đã tôi cho ông, mà tôi đã bảo ông: hãy để ⟨את⟩ nó với ông.",
+  "translation": "Và Shemuël nói với người đầu bếp: Hãy đưa ra ⟨את⟩ phần đã định, mà ta đã giao cho ngươi, mà ta đã bảo ngươi: Hãy để nó ⟨את⟩ với ngươi.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,24 +13,24 @@
     },
     {
       "surface": "שמואל",
-      "gloss": "Shemuel"
+      "gloss": "Shemuël"
     },
     {
       "surface": "לטבח",
-      "gloss": "với người nấu thịt"
+      "gloss": "với người đầu bếp"
     },
     {
       "surface": "תנה",
-      "gloss": "hãy đem"
+      "gloss": "hãy đưa ra"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "phần"
+      "marks": "phần đã định"
     },
     {
       "surface": "המנה",
-      "gloss": "phần"
+      "gloss": "phần đã định"
     },
     {
       "surface": "אשר",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "נתתי",
-      "gloss": "tôi đã cho"
+      "gloss": "ta đã giao"
     },
     {
       "surface": "לך",
-      "gloss": "ông"
+      "gloss": "cho ngươi"
     },
     {
       "surface": "אשר",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "אמרתי",
-      "gloss": "tôi đã bảo"
+      "gloss": "ta đã bảo"
     },
     {
       "surface": "אליך",
-      "gloss": "với ông"
+      "gloss": "với ngươi"
     },
     {
       "surface": "שים",
@@ -63,13 +63,13 @@
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "nó"
+      "marks": "nó (phần đó)"
     },
     {
       "surface": "עמך",
-      "gloss": "với ông"
+      "gloss": "với ngươi"
     }
   ],
-  "timestamp": "2026-08-19T03:31:31.482841465Z",
+  "timestamp": "2026-08-24T16:10:22.453409992Z",
   "model": "glm-5.3"
 }

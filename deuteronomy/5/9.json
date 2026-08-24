@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "vi",
   "chapter": 5,
-  "translation": "Ngươi đừng quỳ lạy trước chúng và đừng phục sự chúng; vì ta, Yahweh Elohim của ngươi, ⟨là⟩ El đố kỵ, взыск ngươi sự gian ác của các cha trên con cái và trên đời thứ ba và trên đời thứ tư, đối với những kẻ ghét ta —",
+  "translation": "Đừng phủ phục trước chúng, và đừng phụng sự chúng; vì ta là Yahweh Elohim của ngươi, El ganh đua, thăm phạt ⟨את⟩ tội lỗi của cha ông trên con cháu, và trên đời thứ ba, và trên đời thứ tư, cho những kẻ ghét ta.",
   "tokens": [
     {
       "surface": "לא",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "תשתחוה",
-      "gloss": "quỳ lạy"
+      "gloss": "phủ phục"
     },
     {
       "surface": "להם",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "תעבדם",
-      "gloss": "phục sự chúng"
+      "gloss": "phụng sự chúng"
     },
     {
       "surface": "כי",
@@ -49,19 +49,24 @@
     },
     {
       "surface": "קנא",
-      "gloss": "đố kỵ"
+      "gloss": "ganh đua"
     },
     {
-      "surface": "פקđ",
-      "gloss": "thăm viếng"
+      "surface": "פקד",
+      "gloss": "thăm phạt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tội lỗi"
     },
     {
       "surface": "עון",
-      "gloss": "sự gian ác"
+      "gloss": "tội lỗi"
     },
     {
       "surface": "אבות",
-      "gloss": "của các cha"
+      "gloss": "của cha ông"
     },
     {
       "surface": "על",
@@ -69,7 +74,7 @@
     },
     {
       "surface": "בנים",
-      "gloss": "con cái"
+      "gloss": "con cháu"
     },
     {
       "surface": "ועל",
@@ -89,9 +94,9 @@
     },
     {
       "surface": "לשנאי",
-      "gloss": "đối với những kẻ ghét ta"
+      "gloss": "cho những kẻ ghét ta"
     }
   ],
-  "timestamp": "2026-08-19T06:06:11.016433734Z",
+  "timestamp": "2026-08-24T16:08:14.136562359Z",
   "model": "glm-5.3"
 }

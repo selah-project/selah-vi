@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "vi",
   "chapter": 11,
-  "translation": "Và sau họ, từ khắp các chi phái Yisra'el, những ai đặt ⟨את⟩ lòng mình để tìm kiếm ⟨את⟩ Yahweh, Elohim của Yisra'el, đều đến Yerushalayim để dâng tế牲 cho Yahweh, Elohim của tổ phụ họ.",
+  "translation": "Và sau họ, từ mọi chi tộc của Yisrael, những kẻ đặt ⟨את⟩ lòng mình để tìm kiếm ⟨את⟩ Yahweh Elohim của Yisrael, đã đến Yerushalayim để dâng sinh tế cho Yahweh Elohim của tổ phụ họ.",
   "tokens": [
     {
       "surface": "ואחריהם",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "מכל",
-      "gloss": "từ khắp"
+      "gloss": "từ mọi"
     },
     {
       "surface": "שבטי",
-      "gloss": "các chi phái"
+      "gloss": "chi tộc của"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     },
     {
       "surface": "הנתנים",
-      "gloss": "những ai đặt"
+      "gloss": "những kẻ đặt"
     },
     {
       "surface": "את",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     },
     {
       "surface": "באו",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "לזבוח",
-      "gloss": "để dâng tế"
+      "gloss": "để dâng sinh tế"
     },
     {
       "surface": "ליהוה",
@@ -82,6 +82,6 @@
       "gloss": "tổ phụ họ"
     }
   ],
-  "timestamp": "2026-08-19T05:56:02.965647811Z",
+  "timestamp": "2026-08-24T16:25:13.104983991Z",
   "model": "glm-5.3"
 }

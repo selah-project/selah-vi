@@ -5,11 +5,11 @@
   "book": "jonah",
   "lang": "vi",
   "chapter": 2,
-  "translation": "Và đã nói: Vì cơn khốn khổ của tôi, tôi đã kêu cầu ⟨אל⟩ Yahweh, và Ngài đã đáp lời tôi; từ bụng của Sheol tôi đã kêu van, Ngài đã nghe tiếng của tôi.",
+  "translation": "Và ông nói: Vì cớ gian khó của tôi, tôi đã kêu cầu cùng Yahweh, và Ngài đã đáp lời tôi; từ trong bụng của Sheol tôi đã kêu cứu, Ngài đã nghe tiếng của tôi.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "và đã nói"
+      "gloss": "và ông nói"
     },
     {
       "surface": "קראתי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "מצרה",
-      "gloss": "khốn khổ"
+      "gloss": "vì cớ gian khó"
     },
     {
       "surface": "לי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "⟨אל⟩ đến"
+      "gloss": "cùng"
     },
     {
       "surface": "יהוה",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "ויענני",
-      "gloss": "và Ngài đã đáp tôi"
+      "gloss": "và Ngài đã đáp lời tôi"
     },
     {
       "surface": "מבטן",
-      "gloss": "từ bụng"
+      "gloss": "từ trong bụng"
     },
     {
       "surface": "שאול",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "שועתי",
-      "gloss": "tôi đã kêu van"
+      "gloss": "tôi đã kêu cứu"
     },
     {
       "surface": "שמעת",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "קולי",
-      "gloss": "tiếng tôi"
+      "gloss": "tiếng của tôi"
     }
   ],
-  "timestamp": "2026-08-19T06:16:24.278082539Z",
+  "timestamp": "2026-08-24T16:19:09.310398555Z",
   "model": "glm-5.3"
 }

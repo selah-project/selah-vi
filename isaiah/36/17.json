@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "vi",
   "chapter": 36,
-  "translation": "Cho đến khi ta đến và đem ⟨אתכם⟩ các ngươi đến một đất như đất của các ngươi, đất của ngũ cốc và rượu mới, đất của bánh mì và vườn nho.",
+  "translation": "Cho đến khi ta đến và đem ⟨את⟩ các ngươi đến ⟨⟨một⟩⟩ đất như đất của các ngươi, đất của ngũ cốc và rượu mới, đất của bánh mì và vườn nho.",
   "tokens": [
     {
       "surface": "עד",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "một đất"
+      "gloss": "đất"
     },
     {
       "surface": "כארצכם",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "דגן",
-      "gloss": "của ngũ cốc"
+      "gloss": "ngũ cốc"
     },
     {
       "surface": "ותירוש",
@@ -54,13 +54,13 @@
     },
     {
       "surface": "לחם",
-      "gloss": "của bánh mì"
+      "gloss": "bánh mì"
     },
     {
       "surface": "וכרמים",
       "gloss": "và vườn nho"
     }
   ],
-  "timestamp": "2026-08-19T04:10:41.693671356Z",
+  "timestamp": "2026-08-24T16:14:48.095773520Z",
   "model": "glm-5.3"
 }

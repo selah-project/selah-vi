@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "vi",
   "chapter": 20,
-  "translation": "Và ông nói với người ấy: \"Vì ngươi không nghe theo tiếng nói của Yahweh, kìa, ngươi sắp đi khỏi ⟨את⟩ tôi, và sư tử sẽ đánh ngươi.\" Vậy người ấy đi khỏi ông; sư tử tìm见他 và đánh người ấy.",
+  "translation": "Và ngài phán cùng người ấy: Vì ngươi không nghe theo tiếng nói của Yahweh, này, khi ngươi đi khỏi ⟨את⟩-ta thì sư tử sẽ đánh ngươi. Và người ấy đi khỏi ông, và sư tử tìm gặp người ấy, và đánh người ấy.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "và ông nói"
+      "gloss": "và ngài phán"
     },
     {
       "surface": "לו",
-      "gloss": "với người ấy"
+      "gloss": "cùng người ấy"
     },
     {
       "surface": "יען",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "rằng"
+      "gloss": "mục"
     },
     {
       "surface": "לא",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "בקול",
-      "gloss": "theo tiếng nói"
+      "gloss": "theo tiếng nói của"
     },
     {
       "surface": "יהוה",
-      "gloss": "của Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "הנך",
-      "gloss": "kìa ngươi"
+      "gloss": "này, ngươi"
     },
     {
       "surface": "הולך",
@@ -49,7 +49,8 @@
     },
     {
       "surface": "מאתי",
-      "gloss": "khỏi ⟨את⟩ tôi"
+      "gloss": "khỏi ⟨את⟩-ta",
+      "marks": "ngươi đi khỏi ta"
     },
     {
       "surface": "והכך",
@@ -57,11 +58,11 @@
     },
     {
       "surface": "האריה",
-      "gloss": "sư tử"
+      "gloss": "con sư tử"
     },
     {
       "surface": "וילך",
-      "gloss": "và đi"
+      "gloss": "và người ấy đi"
     },
     {
       "surface": "מאצלו",
@@ -69,17 +70,17 @@
     },
     {
       "surface": "וימצאהו",
-      "gloss": "tìm见 người ấy"
+      "gloss": "và tìm gặp người ấy"
     },
     {
       "surface": "האריה",
-      "gloss": "sư tử"
+      "gloss": "con sư tử"
     },
     {
       "surface": "ויכהו",
       "gloss": "và đánh người ấy"
     }
   ],
-  "timestamp": "2026-08-19T03:54:25.448347964Z",
+  "timestamp": "2026-08-24T16:12:30.940230875Z",
   "model": "glm-5.3"
 }

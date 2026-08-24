@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 22,
-  "translation": "Nếu cha nàng nhất quyết từ chối không отд nàng cho hắn, thì hắn phải cân bạc theo tiền cưới của các trinh nữ.",
+  "translation": "Nếu cha của nàng hoàn toàn từ chối không cho nàng cho chàng, chàng phải cân bạc theo như sính lễ của các trinh nữ.",
   "tokens": [
     {
       "surface": "אם",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "מאן",
-      "gloss": "từ chối"
+      "gloss": "hoàn toàn từ chối"
     },
     {
       "surface": "ימאן",
-      "gloss": "nhất quyết"
+      "gloss": "sẽ từ chối"
     },
     {
       "surface": "אביה",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "לתתה",
-      "gloss": "để отд nàng"
+      "gloss": "cho nàng"
     },
     {
       "surface": "לו",
-      "gloss": "cho hắn"
+      "gloss": "cho chàng"
     },
     {
       "surface": "כסף",
@@ -41,13 +41,13 @@
     },
     {
       "surface": "כמהר",
-      "gloss": "theo tiền cưới"
+      "gloss": "như sính lễ"
     },
     {
       "surface": "הבתולת",
       "gloss": "của các trinh nữ"
     }
   ],
-  "timestamp": "2026-08-19T02:33:46.629763431Z",
+  "timestamp": "2026-08-24T16:03:34.043411178Z",
   "model": "glm-5.3"
 }

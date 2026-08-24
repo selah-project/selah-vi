@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "vi",
   "chapter": 27,
-  "translation": "Và sẽ xảy ra: dân tộc và vương quốc nào không phụng sự ⟨את⟩ nó — ⟨את⟩ Nevukhadnetstsar, vua của Bavel — và ⟨את⟩ kẻ nào không đặt ⟨את⟩ cổ mình vào ách của vua Bavel, thì bằng gươm, bằng đói kém, và bằng dịch bệnh, ta sẽ viếng thăm dân tộc ấy, sấm phán của Yahweh, cho đến khi ta tận diệt ⟨את⟩ ⟨אתם⟩ chúng nó bằng tay nó.",
+  "translation": "Và sẽ xảy ra ⟨rằng⟩ dân tộc và vương quốc nào không phục vụ ⟨את⟩ ông — Nevukhadnetstsar, vua của Bavel — và ⟨את⟩ kẻ nào không đặt ⟨את⟩ cổ mình dưới ách của vua Bavel, thì bằng gươm, bằng nạn đói và bằng ôn dịch, Ta sẽ sửa phạt trên dân tộc đó, sấm của Yahweh, cho đến khi Ta tận diệt ⟨את⟩ chúng vào tay ông.",
   "tokens": [
     {
       "surface": "והיה",
@@ -29,17 +29,17 @@
     },
     {
       "surface": "יעבדו",
-      "gloss": "phụng sự"
+      "gloss": "phục vụ"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ nó",
-      "marks": "dân tộc và vương quốc"
+      "gloss": "⟨את⟩ ông",
+      "marks": "Nevukhadnetstsar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Nevukhadnetstsar"
+      "marks": "Nevukhadnetstsar, vua của Bavel"
     },
     {
       "surface": "נבוכדנאצר",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "מלך",
-      "gloss": "vua của"
+      "gloss": "vua"
     },
     {
       "surface": "בבל",
@@ -56,7 +56,7 @@
     {
       "surface": "ואת",
       "gloss": "và ⟨את⟩",
-      "marks": "kẻ nào không đặt cổ mình"
+      "marks": "kẻ nào không đặt cổ mình dưới ách"
     },
     {
       "surface": "אשר",
@@ -77,11 +77,11 @@
     },
     {
       "surface": "צוארו",
-      "gloss": "cổ của nó"
+      "gloss": "cổ nó"
     },
     {
       "surface": "בעל",
-      "gloss": "vào ách"
+      "gloss": "dưới ách"
     },
     {
       "surface": "מלך",
@@ -97,15 +97,15 @@
     },
     {
       "surface": "וברעב",
-      "gloss": "và bằng đói kém"
+      "gloss": "và bằng nạn đói"
     },
     {
       "surface": "ובדבר",
-      "gloss": "và bằng dịch bệnh"
+      "gloss": "và bằng ôn dịch"
     },
     {
       "surface": "אפקד",
-      "gloss": "ta sẽ viếng thăm"
+      "gloss": "Ta sẽ sửa phạt"
     },
     {
       "surface": "על",
@@ -117,11 +117,11 @@
     },
     {
       "surface": "ההוא",
-      "gloss": "ấy"
+      "gloss": "đó"
     },
     {
       "surface": "נאם",
-      "gloss": "sấm phán của"
+      "gloss": "sấm của"
     },
     {
       "surface": "יהוה",
@@ -133,18 +133,18 @@
     },
     {
       "surface": "תמי",
-      "gloss": "tận diệt"
+      "gloss": "Ta tận diệt"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "chúng nó"
+      "gloss": "⟨את⟩ chúng",
+      "marks": "vào tay ông"
     },
     {
       "surface": "בידו",
-      "gloss": "bằng tay nó"
+      "gloss": "vào tay ông"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.973423690Z",
+  "timestamp": "2026-08-24T16:16:18.890914180Z",
   "model": "glm-5.3"
 }

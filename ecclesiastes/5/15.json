@@ -5,11 +5,11 @@
   "book": "ecclesiastes",
   "lang": "vi",
   "chapter": 5,
-  "translation": "Và cả điều này nữa là một điều xấu đau bệnh: như ⟨khi⟩ đến, như vậy ⟨anh ta⟩ sẽ đi, và ⟨anh ta⟩ được gì, ⟨khi⟩劳 khổ vì gió?",
+  "translation": "Và cả điều này nữa là một điều dữ đau ốm: giống như tất cả ⟨mà⟩ ông đã đến, vậy ông sẽ đi; và gì là lợi ích cho ông, ⟨rằng⟩ ông khó nhọc vì gió?",
   "tokens": [
     {
       "surface": "וגם",
-      "gloss": "và cả... nữa"
+      "gloss": "và cả"
     },
     {
       "surface": "זה",
@@ -17,31 +17,31 @@
     },
     {
       "surface": "רעה",
-      "gloss": "điều xấu"
+      "gloss": "điều dữ"
     },
     {
       "surface": "חולה",
-      "gloss": "đau bệnh"
+      "gloss": "đau ốm"
     },
     {
       "surface": "כל",
-      "gloss": "hoàn toàn"
+      "gloss": "tất cả"
     },
     {
       "surface": "עמת",
-      "gloss": "cùng với"
+      "gloss": "giống như"
     },
     {
       "surface": "שבא",
-      "gloss": "khi đã đến"
+      "gloss": "ông đã đến"
     },
     {
       "surface": "כן",
-      "gloss": "như vậy"
+      "gloss": "vậy"
     },
     {
       "surface": "ילך",
-      "gloss": "sẽ đi"
+      "gloss": "ông sẽ đi"
     },
     {
       "surface": "ומה",
@@ -53,17 +53,17 @@
     },
     {
       "surface": "לו",
-      "gloss": "cho anh ta"
+      "gloss": "cho ông"
     },
     {
       "surface": "שיעמל",
-      "gloss": "khi劳 khổ"
+      "gloss": "rằng ông khó nhọc"
     },
     {
       "surface": "לרוח",
       "gloss": "vì gió"
     }
   ],
-  "timestamp": "2026-08-19T05:33:14.279680106Z",
+  "timestamp": "2026-08-24T16:23:26.262762745Z",
   "model": "glm-5.3"
 }

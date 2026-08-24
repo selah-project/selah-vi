@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "vi",
   "chapter": 23,
-  "translation": "Vì ai đã đứng trong cơ mật ⟨סוד⟩ của Yahweh mà thấy và nghe ⟨את⟩ lời Ngài? Ai đã lắng tai nghe ⟨את⟩ lời Ngài mà nhận lấy?",
+  "translation": "Vì ai đã đứng trong hội đồng của Yahweh, để thấy và nghe ⟨את⟩ lời của Ngài? Ai đã lắng tai nghe lời Ta, và đã nghe?",
   "tokens": [
     {
       "surface": "כי",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "בסוד",
-      "gloss": "trong cơ mật"
+      "gloss": "trong hội đồng"
     },
     {
       "surface": "יהוה",
-      "gloss": "của Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "וירא",
-      "gloss": "mà thấy"
+      "gloss": "và thấy"
     },
     {
       "surface": "וישמע",
@@ -38,11 +38,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lời Ngài"
+      "marks": "lời của Ngài"
     },
     {
       "surface": "דברו",
-      "gloss": "lời Ngài"
+      "gloss": "lời của Ngài"
     },
     {
       "surface": "מי",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "הקשיב",
-      "gloss": "đã lắng tai nghe"
+      "gloss": "lắng tai nghe"
     },
     {
       "surface": "דברי",
@@ -58,9 +58,9 @@
     },
     {
       "surface": "וישמע",
-      "gloss": "mà nhận lấy"
+      "gloss": "và đã nghe"
     }
   ],
-  "timestamp": "2026-08-19T04:22:39.704134254Z",
+  "timestamp": "2026-08-24T16:16:08.656262242Z",
   "model": "glm-5.3"
 }

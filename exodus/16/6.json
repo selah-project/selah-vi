@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 16,
-  "translation": "Moshe và Aharon nói với toàn thể con cái Yisrael: Chiều tối rồi các ngươi sẽ biết rằng Yahweh đã đưa các ngươi ⟨אתכם⟩ ra khỏi đất Mitzrayim.",
+  "translation": "Và Moshe và Aharon nói với toàn thể con cái Yitsrael: Buổi chiều rồi các ngươi sẽ biết rằng chính Yahweh đã đưa ⟨את⟩ các ngươi ra khỏi đất Mitsrayim.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Yitsrael"
     },
     {
       "surface": "ערב",
-      "gloss": "chiều tối"
+      "gloss": "buổi chiều"
     },
     {
       "surface": "וידעתם",
@@ -57,8 +57,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩ các ngươi",
-      "marks": "các ngươi (ra khỏi đất Mitzrayim)"
+      "gloss": "⟨את⟩",
+      "marks": "các ngươi"
     },
     {
       "surface": "מארץ",
@@ -66,9 +66,9 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitzrayim"
+      "gloss": "Mitsrayim"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.994456774Z",
+  "timestamp": "2026-08-24T16:03:32.233279429Z",
   "model": "glm-5.3"
 }

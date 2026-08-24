@@ -5,19 +5,19 @@
   "book": "judges",
   "lang": "vi",
   "chapter": 19,
-  "translation": "Và người vợ lẽ của người ấy đã ph通tác nghịch cùng ⟨את⟩ ông ta, và nàng đi khỏi ông ta về nhà cha nàng, về Beit-Lechem Yehudah, và nàng ở đó bốn tháng.",
+  "translation": "Và ⟨thính thiếp⟩ của ông ⟨đã ngoại tình⟩ chống lại ông, và ⟨את⟩_ông nàng đã rời khỏi, về nhà cha nàng, về Beit-Lechem của Yehudah; và nàng ở đó bốn tháng trời.",
   "tokens": [
     {
       "surface": "ותזנה",
-      "gloss": "và nàng đã ph通tác"
+      "gloss": "và đã ngoại tình"
     },
     {
       "surface": "עליו",
-      "gloss": "nghịch cùng"
+      "gloss": "chống lại ông"
     },
     {
       "surface": "פילגשו",
-      "gloss": "người vợ lẽ của"
+      "gloss": "thính thiếp của ông"
     },
     {
       "surface": "ותלך",
@@ -25,11 +25,12 @@
     },
     {
       "surface": "מאתו",
-      "gloss": "⟨את⟩ khỏi"
+      "gloss": "⟨את⟩_ông",
+      "marks": "ông — khỏi sự hiện diện của ông"
     },
     {
       "surface": "אל",
-      "gloss": "về"
+      "gloss": "đến"
     },
     {
       "surface": "בית",
@@ -37,11 +38,11 @@
     },
     {
       "surface": "אביה",
-      "gloss": "cha nàng"
+      "gloss": "cha của nàng"
     },
     {
       "surface": "אל",
-      "gloss": "về"
+      "gloss": "đến"
     },
     {
       "surface": "בית",
@@ -61,7 +62,7 @@
     },
     {
       "surface": "שם",
-      "gloss": "đó"
+      "gloss": "ở đó"
     },
     {
       "surface": "ימים",
@@ -76,6 +77,6 @@
       "gloss": "tháng"
     }
   ],
-  "timestamp": "2026-08-19T03:28:02.919876862Z",
+  "timestamp": "2026-08-24T16:09:31.294512986Z",
   "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "zechariah",
   "lang": "vi",
   "chapter": 1,
-  "translation": "Nhưng ⟨ה⟩ những lời Ta và những luật lệ Ta, mà Ta đã truyền cho ⟨את⟩ các tôi tớ Ta, các tiên tri, há ⟨h⟩ọ không ⟨đã⟩ bắt kịp tổ tiên các ngươi sao? Và họ đã trở lại và nói: Như Yahweh các đạo quân đã định làm cho chúng ta, tùy theo đường lối chúng ta và tùy theo hành vi chúng ta, thì Ngài đã làm ⟨אתנו⟩ như vậy với chúng ta.",
+  "translation": "Chỉ có lời của Ta và luật lệ của Ta, điều Ta đã truyền cho ⟨את⟩ các đầy tớ Ta là các tiên tri — há chúng đã không bắt kịp các tổ phụ các ngươi? Và họ đã trở lại và nói: như Yahweh các đạo binh đã toan làm cho chúng ta, tùy theo đường lối của chúng ta và tùy theo việc làm của chúng ta, thì Ngài đã làm như vậy với ⟨את⟩ chúng ta.",
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "nhưng \/ chỉ"
+      "gloss": "chỉ"
     },
     {
       "surface": "דברי",
-      "gloss": "những lời Ta"
+      "gloss": "lời của Ta"
     },
     {
       "surface": "וחקי",
-      "gloss": "và những luật lệ Ta"
+      "gloss": "và luật lệ của Ta"
     },
     {
       "surface": "אשר",
@@ -30,11 +30,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "các tôi tớ Ta"
+      "marks": "các đầy tớ Ta là các tiên tri"
     },
     {
       "surface": "עבדי",
-      "gloss": "các tôi tớ Ta"
+      "gloss": "các đầy tớ Ta"
     },
     {
       "surface": "הנביאים",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "אבתיכם",
-      "gloss": "tổ tiên các ngươi"
+      "gloss": "các tổ phụ các ngươi"
     },
     {
       "surface": "וישובו",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "זמם",
-      "gloss": "đã định"
+      "gloss": "đã toan định"
     },
     {
       "surface": "יהוה",
@@ -74,11 +74,11 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "các đạo quân"
+      "gloss": "các đạo binh"
     },
     {
       "surface": "לעשות",
-      "gloss": "làm"
+      "gloss": "để làm"
     },
     {
       "surface": "לנו",
@@ -86,11 +86,11 @@
     },
     {
       "surface": "כדרכינו",
-      "gloss": "tùy theo đường lối chúng ta"
+      "gloss": "tùy theo đường lối của chúng ta"
     },
     {
       "surface": "וכמעללינו",
-      "gloss": "và tùy theo hành vi chúng ta"
+      "gloss": "và tùy theo việc làm của chúng ta"
     },
     {
       "surface": "כן",
@@ -98,13 +98,13 @@
     },
     {
       "surface": "עשה",
-      "gloss": "đã làm"
+      "gloss": "Ngài đã làm"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ ⟨אתנו⟩ — với chúng ta"
+      "gloss": "với ⟨את⟩ chúng ta"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.966441054Z",
+  "timestamp": "2026-08-24T16:19:21.098966372Z",
   "model": "glm-5.3"
 }

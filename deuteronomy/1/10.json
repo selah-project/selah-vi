@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "vi",
   "chapter": 1,
-  "translation": "Yahweh Elohim của các ngài đã làm ⟨את⟩ ⟨אתכם⟩ nên đông đảo, và kìa, các ngài hôm nay như các ngôi sao của các tầng trời, thật nhiều.",
+  "translation": "Yahweh Elohim của các ngươi đã làm ⟨את⟩ các ngươi nên đông đảo, và này, các ngươi hôm nay như các ngôi sao của các tầng trời, thật đông đảo.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -13,20 +13,20 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elohim của các ngài"
+      "gloss": "Elohim của các ngươi"
     },
     {
       "surface": "הרבה",
-      "gloss": "đã làm đông đảo"
+      "gloss": "đã làm nên đông đảo"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "các ngài"
+      "gloss": "⟨את⟩",
+      "marks": "các ngươi"
     },
     {
       "surface": "והנכם",
-      "gloss": "và kìa, các ngài"
+      "gloss": "và này, các ngươi là"
     },
     {
       "surface": "היום",
@@ -34,17 +34,17 @@
     },
     {
       "surface": "ככוכבי",
-      "gloss": "như các ngôi sao"
+      "gloss": "như các ngôi sao của"
     },
     {
       "surface": "השמים",
-      "gloss": "của các tầng trời"
+      "gloss": "các tầng trời"
     },
     {
       "surface": "לרב",
-      "gloss": "thật nhiều"
+      "gloss": "thật đông đảo"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.021518472Z",
+  "timestamp": "2026-08-24T16:07:48.051761258Z",
   "model": "glm-5.3"
 }

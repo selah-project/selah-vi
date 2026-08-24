@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "vi",
   "chapter": 8,
-  "translation": "Và sẽ xảy ra như các ngươi đã là lời nguyền rủa giữa các dân — nhà Yehudah và nhà Yisrael — thì Ta sẽ cứu ⟨אתכם⟩ như vậy, và các ngươi sẽ là phước lành: đừng sợ, tay các ngươi hãy vững mạnh!",
+  "translation": "Và sẽ xảy ra như các ngươi đã từng là ⟨את⟩ sự rủa sả giữa các dân — nhà Yehudah và nhà Yisrael — thì Ta sẽ cứu ⟨את⟩ ⟨אתכם⟩ các ngươi, và các ngươi sẽ trở thành ⟨את⟩ sự ban phước. Đừng sợ, tay các ngươi hãy vững mạnh.",
   "tokens": [
     {
       "surface": "והיה",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "הייתם",
-      "gloss": "các ngươi đã là"
+      "gloss": "các ngươi đã từng là"
     },
     {
       "surface": "קללה",
-      "gloss": "lời nguyền rủa"
+      "gloss": "sự rủa sả"
     },
     {
       "surface": "בגוים",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "כן",
-      "gloss": "như vậy"
+      "gloss": "thì như vậy"
     },
     {
       "surface": "אושיע",
@@ -53,16 +53,16 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "các ngươi"
     },
     {
       "surface": "והייתם",
-      "gloss": "và các ngươi sẽ là"
+      "gloss": "và các ngươi sẽ trở thành"
     },
     {
       "surface": "ברכה",
-      "gloss": "phước lành"
+      "gloss": "sự ban phước"
     },
     {
       "surface": "אל",
@@ -81,6 +81,6 @@
       "gloss": "tay các ngươi"
     }
   ],
-  "timestamp": "2026-08-19T04:53:35.664412254Z",
+  "timestamp": "2026-08-24T16:58:27.511637730Z",
   "model": "glm-5.3"
 }

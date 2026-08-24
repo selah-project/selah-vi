@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "vi",
   "chapter": 23,
-  "translation": "Và ông lấy ⟨את⟩ các thủ领 trăm, và ⟨את⟩ các vị quý tộc, và ⟨את⟩ các người cai trị trong dân, và ⟨את⟩ toàn thể dân sự của đất, rồi đưa ⟨את⟩ vua xuống từ nhà Yahweh; và họ vào qua cổng trên đến nhà vua, và đặt ⟨את⟩ vua lên ngôi vương quốc.",
+  "translation": "Và ông lấy ⟨את⟩ các quan trưởng của các trăm, và ⟨את⟩ các quý tộc, và ⟨את⟩ các người cai trị trong dân, và ⟨את⟩ toàn thể dân của đất; ông đưa đức vua xuống khỏi nhà Yahweh, và họ đi vào giữa cổng trên ⟨của⟩ nhà vua, và họ cho đức vua ngồi trên ngai ⟨của⟩ vương quốc.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -14,11 +14,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "các thủ领 trăm"
+      "marks": "các quan trưởng"
     },
     {
       "surface": "שרי",
-      "gloss": "các thủ领 của"
+      "gloss": "các quan trưởng"
     },
     {
       "surface": "המאות",
@@ -27,16 +27,16 @@
     {
       "surface": "ואת",
       "gloss": "và ⟨את⟩",
-      "marks": "các vị quý tộc"
+      "marks": "các quý tộc"
     },
     {
       "surface": "האדירים",
-      "gloss": "các vị quý tộc"
+      "gloss": "các quý tộc"
     },
     {
       "surface": "ואת",
       "gloss": "và ⟨את⟩",
-      "marks": "các người cai trị trong dân"
+      "marks": "các người cai trị"
     },
     {
       "surface": "המושלים",
@@ -49,7 +49,7 @@
     {
       "surface": "ואת",
       "gloss": "và ⟨את⟩",
-      "marks": "toàn thể dân sự của đất"
+      "marks": "toàn thể dân"
     },
     {
       "surface": "כל",
@@ -57,28 +57,28 @@
     },
     {
       "surface": "עם",
-      "gloss": "dân sự của"
+      "gloss": "dân"
     },
     {
       "surface": "הארץ",
-      "gloss": "đất"
+      "gloss": "của đất"
     },
     {
       "surface": "ויורד",
-      "gloss": "rồi ông đưa xuống"
+      "gloss": "và ông đưa xuống"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "vua"
+      "marks": "đức vua"
     },
     {
       "surface": "המלך",
-      "gloss": "vua"
+      "gloss": "đức vua"
     },
     {
       "surface": "מבית",
-      "gloss": "từ nhà"
+      "gloss": "khỏi nhà"
     },
     {
       "surface": "יהוה",
@@ -86,11 +86,11 @@
     },
     {
       "surface": "ויבאו",
-      "gloss": "và họ vào"
+      "gloss": "và họ đi vào"
     },
     {
       "surface": "בתוך",
-      "gloss": "qua giữa"
+      "gloss": "giữa"
     },
     {
       "surface": "שער",
@@ -102,28 +102,28 @@
     },
     {
       "surface": "בית",
-      "gloss": "nhà của"
+      "gloss": "nhà"
     },
     {
       "surface": "המלך",
-      "gloss": "vua"
+      "gloss": "của vua"
     },
     {
       "surface": "ויושיבו",
-      "gloss": "và họ đặt ngồi"
+      "gloss": "và họ cho ngồi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "vua"
+      "marks": "đức vua"
     },
     {
       "surface": "המלך",
-      "gloss": "vua"
+      "gloss": "đức vua"
     },
     {
       "surface": "על",
-      "gloss": "lên"
+      "gloss": "trên"
     },
     {
       "surface": "כסא",
@@ -134,6 +134,6 @@
       "gloss": "của vương quốc"
     }
   ],
-  "timestamp": "2026-08-19T06:22:43.973527391Z",
+  "timestamp": "2026-08-24T16:25:56.392818245Z",
   "model": "glm-5.3"
 }

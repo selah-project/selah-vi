@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 20,
-  "translation": "Và Avraham nói về Sarai vợ mình, ⟨אחתי היא⟩ chị tôi là ⟨nàng⟩; và Avimelech vua Gerar sai người đến, và lấy ⟨את⟩ Sarah.",
+  "translation": "Và Avraham nói về Sarah vợ ông — bà ⟨là⟩ chị của ông — nên Avimelekh vua Gerar sai người đến và lấy ⟨את⟩ Sarah.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אשתו",
-      "gloss": "vợ mình"
+      "gloss": "vợ ông"
     },
     {
       "surface": "אחתי",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "הוא",
-      "gloss": "là nàng"
+      "gloss": "bà"
     },
     {
       "surface": "וישלח",
-      "gloss": "và sai"
+      "gloss": "nên sai người"
     },
     {
       "surface": "אבימלך",
-      "gloss": "Avimelech"
+      "gloss": "Avimelekh"
     },
     {
       "surface": "מלך",
@@ -65,6 +65,6 @@
       "gloss": "Sarah"
     }
   ],
-  "timestamp": "2026-08-19T01:04:58.627760122Z",
+  "timestamp": "2026-08-24T16:02:04.500735822Z",
   "model": "glm-5.3"
 }

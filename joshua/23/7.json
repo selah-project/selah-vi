@@ -5,19 +5,19 @@
   "book": "joshua",
   "lang": "vi",
   "chapter": 23,
-  "translation": "để không gia nhập ⟨אתכם⟩ vào giữa các dân tộc này, những kẻ còn lại này ⟨אתכם⟩; và danh của các thần của họ, các ngươi đừng nhắc tới, đừng khiến ai thề, đừng hầu việc họ, và đừng phủ phục trước họ.",
+  "translation": "để cho các ngươi không nhập vào trong các dân ngoại này, là những dân còn lại này ở với ⟨các ngươi⟩; và ⟨về⟩ tên của các Elohim của họ, các ngươi đừng nhắc đến, và đừng khiến thề ⟨bởi⟩, và đừng phụng sự chúng, và đừng phủ phục trước chúng.",
   "tokens": [
     {
       "surface": "לבלתי",
-      "gloss": "để không"
+      "gloss": "để cho không"
     },
     {
       "surface": "בוא",
-      "gloss": "gia nhập"
+      "gloss": "nhập vào"
     },
     {
       "surface": "בגוים",
-      "gloss": "vào giữa các dân tộc"
+      "gloss": "trong các dân ngoại"
     },
     {
       "surface": "האלה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הנשארים",
-      "gloss": "những kẻ còn lại"
+      "gloss": "những dân còn lại"
     },
     {
       "surface": "האלה",
@@ -33,16 +33,16 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "cùng các ngươi"
+      "gloss": "⟨את⟩ với các ngươi",
+      "marks": "các ngươi"
     },
     {
       "surface": "ובשם",
-      "gloss": "và danh"
+      "gloss": "và về tên"
     },
     {
       "surface": "אלהיהם",
-      "gloss": "các thần của họ"
+      "gloss": "các Elohim của họ"
     },
     {
       "surface": "לא",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "תזכירו",
-      "gloss": "các ngươi nhắc tới"
+      "gloss": "các ngươi nhắc đến"
     },
     {
       "surface": "ולא",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "תעבדום",
-      "gloss": "các ngươi hầu việc họ"
+      "gloss": "các ngươi phụng sự chúng"
     },
     {
       "surface": "ולא",
@@ -78,9 +78,9 @@
     },
     {
       "surface": "להם",
-      "gloss": "trước họ"
+      "gloss": "trước chúng"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.053116533Z",
+  "timestamp": "2026-08-24T16:09:31.247776907Z",
   "model": "glm-5.3"
 }

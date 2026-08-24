@@ -5,8 +5,79 @@
   "book": "malachi",
   "lang": "vi",
   "chapter": 2,
-  "translation": "Và cả tôi nữa, tôi đã làm ⟨אתכם⟩ trở nên khinh bỉ và hạ thấp trước toàn thể dân chúng, tùy theo cách các ngươi không giữ ⟨את⟩ đường lối tôi, và thiên vị лицo trong luật pháp.",
-  "tokens": [],
-  "timestamp": "2026-08-19T04:53:38.698225318Z",
+  "translation": "Và cả tôi nữa, tôi đã làm ⟨את⟩ các ngươi trở nên khinh bỉ và hạ thấp trước toàn thể dân chúng, theo như các ngươi không giữ ⟨את⟩ đường lối tôi, và thiên vị лицo — nâng mặt người này lên trong luật pháp.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "và cả... nữa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "tôi"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "tôi đã làm \/ đặt"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ các ngươi",
+      "marks": "các ngươi"
+    },
+    {
+      "surface": "נבזים",
+      "gloss": "khinh bỉ"
+    },
+    {
+      "surface": "ושפלים",
+      "gloss": "và hạ thấp"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "trước toàn thể"
+    },
+    {
+      "surface": "העם",
+      "gloss": "dân chúng"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "theo như"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "các ngươi không"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "giữ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "đường lối tôi"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "đường lối tôi"
+    },
+    {
+      "surface": "ונשאים",
+      "gloss": "và nâng lên"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "mặt (thiên vị)"
+    },
+    {
+      "surface": "בתורה",
+      "gloss": "trong luật pháp"
+    }
+  ],
+  "timestamp": "2026-08-24T16:20:09.186762286Z",
   "model": "glm-5.3"
 }

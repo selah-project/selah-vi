@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "vi",
   "chapter": 14,
-  "translation": "Nếu tôi đi ra ⟨the⟩ đồng, thì này, những người bị gươm giết; và nếu tôi đi vào ⟨the⟩ thành, thì này, những người đau vì nạn đói; vì cả nhà tiên tri lẫn tế sĩ đều đi lang thang trong ⟨the⟩ xứ mà không biết gì.",
+  "translation": "Nếu ta ra ⟨the⟩ đồng, và nầy, những kẻ bị gươm đâm; và nếu ta vào ⟨the⟩ thành, và nầy, những kẻ bệnh vì đói; vì cả tiên tri lẫn tế司 đã đi巡回 đến đất mà họ không biết.",
   "tokens": [
     {
       "surface": "אם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "יצאתי",
-      "gloss": "tôi đi ra"
+      "gloss": "ta ra"
     },
     {
       "surface": "השדה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "והנה",
-      "gloss": "thì này"
+      "gloss": "và nầy"
     },
     {
       "surface": "חללי",
-      "gloss": "những người bị giết"
+      "gloss": "những kẻ bị đâm"
     },
     {
       "surface": "חרב",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "באתי",
-      "gloss": "tôi đi vào"
+      "gloss": "ta vào"
     },
     {
       "surface": "העיר",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "והנה",
-      "gloss": "thì này"
+      "gloss": "và nầy"
     },
     {
       "surface": "תחלואי",
-      "gloss": "những người đau"
+      "gloss": "những kẻ bệnh"
     },
     {
       "surface": "רעב",
-      "gloss": "đói"
+      "gloss": "vì đói"
     },
     {
       "surface": "כי",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "נביא",
-      "gloss": "nhà tiên tri"
+      "gloss": "tiên tri"
     },
     {
       "surface": "גם",
@@ -73,11 +73,11 @@
     },
     {
       "surface": "כהן",
-      "gloss": "tế sĩ"
+      "gloss": "tế司"
     },
     {
       "surface": "סחרו",
-      "gloss": "đi lang thang"
+      "gloss": "đã đi巡回"
     },
     {
       "surface": "אל",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "xứ"
+      "gloss": "đất"
     },
     {
       "surface": "ולא",
@@ -96,6 +96,6 @@
       "gloss": "biết"
     }
   ],
-  "timestamp": "2026-08-19T06:13:51.628192386Z",
+  "timestamp": "2026-08-24T16:15:36.665917595Z",
   "model": "glm-5.3"
 }

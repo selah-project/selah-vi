@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 16,
-  "translation": "Và lửa ra khỏi ⟨את⟩ Yahweh, và nó nuốt掉 ⟨את⟩ năm mươi và hai trăm người, những kẻ dâng hương.",
+  "translation": "Và lửa đi ra từ ⟨áp-side⟩ Yahweh — và lửa ⟨את⟩ kia đã thiêu rụi ⟨את⟩ hai trăm năm mươi người dâng hương.",
   "tokens": [
     {
       "surface": "ואש",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "יצאה",
-      "gloss": "ra đi"
+      "gloss": "đã đi ra"
     },
     {
       "surface": "מאת",
-      "gloss": "khỏi ⟨את⟩"
+      "gloss": "từ ⟨את⟩"
     },
     {
       "surface": "יהוה",
@@ -25,12 +25,12 @@
     },
     {
       "surface": "ותאכל",
-      "gloss": "và nuốt tiêu"
+      "gloss": "và đã thiêu rụi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "năm mươi và hai trăm người"
+      "marks": "hai trăm năm mươi người"
     },
     {
       "surface": "החמשים",
@@ -53,6 +53,6 @@
       "gloss": "hương"
     }
   ],
-  "timestamp": "2026-08-19T02:57:33.966852594Z",
+  "timestamp": "2026-08-24T16:06:36.689975687Z",
   "model": "glm-5.3"
 }

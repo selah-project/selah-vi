@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "vi",
   "chapter": 62,
-  "translation": "Hãy đi qua, hãy đi qua trong các cổng; hãy dọn đường cho ⟨the⟩ dân; hãy đắp lên, hãy đắp lên ⟨the⟩ đại-lộ; hãy dẹp sạch đá; hãy dựng cờ hiệu trên các dân-tộc.",
+  "translation": "Hãy đi qua, hãy đi qua trong ⟨các⟩ cổng; hãy dọn đường cho ⟨dân⟩; hãy đắp lên, hãy đắp lên ⟨con⟩ đường cái; hãy dời ⟨các⟩ hòn đá đi; hãy dựng cờ hiệu lên trên các dân tộc.",
   "tokens": [
     {
       "surface": "עברו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "của dân"
+      "gloss": "dân"
     },
     {
       "surface": "סלו",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "המסלה",
-      "gloss": "đại-lộ"
+      "gloss": "con đường cái"
     },
     {
       "surface": "סקלו",
-      "gloss": "hãy dẹp sạch"
+      "gloss": "hãy dời đá"
     },
     {
       "surface": "מאבן",
-      "gloss": "khỏi đá"
+      "gloss": "khỏi các hòn đá"
     },
     {
       "surface": "הרימו",
@@ -65,9 +65,9 @@
     },
     {
       "surface": "העמים",
-      "gloss": "các dân-tộc"
+      "gloss": "các dân tộc"
     }
   ],
-  "timestamp": "2026-08-19T04:15:32.133428916Z",
+  "timestamp": "2026-08-24T16:14:52.160896146Z",
   "model": "glm-5.3"
 }

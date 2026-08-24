@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 23,
-  "translation": "Chúng nó sẽ không ở trong đất ngươi, kẻo chúng nó khiến ngươi phạm tội chống против ⟨אתך⟩ đối với Ta, vì ngươi sẽ phục vụ ⟨את⟩ các elohim của chúng nó, vì chúng sẽ thành bẫy cho ngươi.",
+  "translation": "Chúng nó sẽ không ở trong đất của ngươi, kẻo chúng nó làm ngươi phạm tội với Ta, vì ngươi sẽ thờ phượng ⟨את⟩ các thần của chúng nó, vì chúng sẽ thành bẫy cho ngươi.",
   "tokens": [
     {
       "surface": "לא",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "ישבו",
-      "gloss": "chúng nó ở"
+      "gloss": "chúng sẽ ở"
     },
     {
       "surface": "בארצך",
-      "gloss": "trong đất ngươi"
+      "gloss": "trong đất của ngươi"
     },
     {
       "surface": "פן",
@@ -25,16 +25,16 @@
     },
     {
       "surface": "יחטיאו",
-      "gloss": "chúng nó khiến phạm tội"
+      "gloss": "chúng làm phạm tội"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩",
-      "marks": "ngươi (đối tượng bị khiến phạm tội)"
+      "gloss": "⟨את⟩ ngươi",
+      "marks": "ngươi"
     },
     {
       "surface": "לי",
-      "gloss": "đối với Ta"
+      "gloss": "với Ta"
     },
     {
       "surface": "כי",
@@ -42,16 +42,16 @@
     },
     {
       "surface": "תעבד",
-      "gloss": "ngươi phục vụ"
+      "gloss": "ngươi sẽ thờ phượng"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "các elohim của chúng nó"
+      "marks": "các thần của chúng nó"
     },
     {
       "surface": "אלהיהם",
-      "gloss": "các elohim của chúng nó"
+      "gloss": "các thần của chúng nó"
     },
     {
       "surface": "כי",
@@ -70,6 +70,6 @@
       "gloss": "làm bẫy"
     }
   ],
-  "timestamp": "2026-08-19T02:32:54.333037326Z",
+  "timestamp": "2026-08-24T16:03:34.675580864Z",
   "model": "glm-5.3"
 }

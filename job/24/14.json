@@ -5,15 +5,15 @@
   "book": "job",
   "lang": "vi",
   "chapter": 24,
-  "translation": "Khi ⟨có⟩ sáng, kẻ giết người đứng dậy, giết ⟨ה⟩ nghèo khó và người thiếu thốn; còn trong ban đêm ⟨hắn⟩ ⟨is⟩ như kẻ trộm.",
+  "translation": "Khi ánh sáng, kẻ giết người nổi dậy, giết ⟨את⟩ kẻ khốn khổ và ⟨את⟩ kẻ nghèo khó; và trong ban đêm ⟨hắn⟩ trở nên như kẻ trộm.",
   "tokens": [
     {
       "surface": "לאור",
-      "gloss": "khi có sáng"
+      "gloss": "khi ánh sáng"
     },
     {
       "surface": "יקום",
-      "gloss": "hắn đứng dậy"
+      "gloss": "nổi dậy"
     },
     {
       "surface": "רוצח",
@@ -24,12 +24,17 @@
       "gloss": "giết"
     },
     {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kẻ khốn khổ"
+    },
+    {
       "surface": "עני",
-      "gloss": "kẻ nghèo khó"
+      "gloss": "kẻ khốn khổ"
     },
     {
       "surface": "ואביון",
-      "gloss": "và người thiếu thốn"
+      "gloss": "và kẻ nghèo khó"
     },
     {
       "surface": "ובלילה",
@@ -37,13 +42,13 @@
     },
     {
       "surface": "יהי",
-      "gloss": "hắn như"
+      "gloss": "trở nên như"
     },
     {
       "surface": "כגנב",
-      "gloss": "như kẻ trộm"
+      "gloss": "kẻ trộm"
     }
   ],
-  "timestamp": "2026-08-19T06:20:39.668534524Z",
+  "timestamp": "2026-08-24T16:22:56.213228654Z",
   "model": "glm-5.3"
 }

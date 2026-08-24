@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "vi",
   "chapter": 11,
-  "translation": "Và sẽ xảy ra, nếu ngươi nghe ⟨את⟩ mọi điều ta truyền cho ngươi, và đi trong đường lối ta, và làm điều ngay thẳng trong mắt ta, để giữ各样 luật lệ ta và điều răn ta, như David tôi tớ ta đã làm, thì ta sẽ ở với ngươi, và sẽ dựng cho ngươi một nhà vững bền, như ta đã dựng cho David, và sẽ ban cho ngươi ⟨את⟩ Yisra'el.",
+  "translation": "Và sẽ xảy ra, nếu ngươi nghe ⟨את⟩ mọi điều mà Ta truyền lệnh cho ngươi, và đi trong đường lối Ta, và làm điều ngay thẳng trong mắt Ta, để giữ lễ định Ta và điều răn Ta, như David tôi tớ Ta đã làm, thì Ta sẽ ở cùng ngươi, và Ta sẽ xây cho ngươi một nhà vững bền, như Ta đã xây cho David, và Ta sẽ ban cho ngươi ⟨את⟩ Yisrael.",
   "tokens": [
     {
       "surface": "והיה",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "điều mà"
+      "gloss": "mà"
     },
     {
       "surface": "אצוך",
-      "gloss": "ta truyền cho ngươi"
+      "gloss": "Ta truyền lệnh cho ngươi"
     },
     {
       "surface": "והלכת",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "בדרכי",
-      "gloss": "trong đường lối ta"
+      "gloss": "trong đường lối Ta"
     },
     {
       "surface": "ועשית",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "בעיני",
-      "gloss": "trong mắt ta"
+      "gloss": "trong mắt Ta"
     },
     {
       "surface": "לשמור",
@@ -62,11 +62,11 @@
     },
     {
       "surface": "חקותי",
-      "gloss": "luật lệ ta"
+      "gloss": "lễ định Ta"
     },
     {
       "surface": "ומצותי",
-      "gloss": "và điều răn ta"
+      "gloss": "và điều răn Ta"
     },
     {
       "surface": "כאשר",
@@ -82,19 +82,19 @@
     },
     {
       "surface": "עבדי",
-      "gloss": "tôi tớ ta"
+      "gloss": "tôi tớ Ta"
     },
     {
       "surface": "והייתי",
-      "gloss": "và ta sẽ là"
+      "gloss": "thì Ta sẽ là"
     },
     {
       "surface": "עמך",
-      "gloss": "với ngươi"
+      "gloss": "cùng ngươi"
     },
     {
       "surface": "ובניתי",
-      "gloss": "và ta sẽ dựng"
+      "gloss": "và Ta sẽ xây"
     },
     {
       "surface": "לך",
@@ -114,7 +114,7 @@
     },
     {
       "surface": "בניתי",
-      "gloss": "ta đã dựng"
+      "gloss": "Ta đã xây"
     },
     {
       "surface": "לדוד",
@@ -122,7 +122,7 @@
     },
     {
       "surface": "ונתתי",
-      "gloss": "và ta sẽ ban"
+      "gloss": "và Ta sẽ ban"
     },
     {
       "surface": "לך",
@@ -131,13 +131,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yisra'el"
+      "marks": "Yisrael"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-08-19T03:51:18.504869217Z",
+  "timestamp": "2026-08-24T16:12:38.171640083Z",
   "model": "glm-5.3"
 }

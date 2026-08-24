@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "vi",
   "chapter": 13,
-  "translation": "Và vị naví đã nghe — người đã kéo ông ấy trở lại khỏi con đường — và ông nói: Đó là người của Elohim, kẻ đã nổi loạn chống ⟨את⟩ miệng Yahweh; và Yahweh đã giao ông ấy cho con sư tử, và nó đã хаn xác ông ấy và giết ông ấy, đúng theo lời Yahweh mà Ngài đã phán với ông ấy.",
+  "translation": "Vị nave đã kéo ông ấy trở lại khỏi đường ấy nghe tin, và nói: Đó là người của Elohim, kẻ đã cãi⟨ את⟩ miệng Yahweh; nên Yahweh đã phó ông ấy cho con sư tử, nó xé ông ấy và giết ông ấy, theo lời Yahweh đã phán với ông ấy.",
   "tokens": [
     {
       "surface": "וישמע",
-      "gloss": "và đã nghe"
+      "gloss": "và ông nghe"
     },
     {
       "surface": "הנביא",
-      "gloss": "vị naví"
+      "gloss": "⟨ה⟩ vị nave"
     },
     {
       "surface": "אשר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הדרך",
-      "gloss": "con đường"
+      "gloss": "⟨ה⟩ con đường"
     },
     {
       "surface": "ויאמר",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "đó là"
+      "gloss": "ông ấy là"
     },
     {
       "surface": "אשר",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "מרה",
-      "gloss": "đã nổi loạn"
+      "gloss": "đã cãi"
     },
     {
       "surface": "את",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "ויתנהו",
-      "gloss": "và đã giao ông ấy"
+      "gloss": "và Người đã phó ông ấy"
     },
     {
       "surface": "יהוה",
@@ -82,15 +82,15 @@
     },
     {
       "surface": "וישברהו",
-      "gloss": "và nó đã хаn xác ông ấy"
+      "gloss": "và nó xé ông ấy"
     },
     {
       "surface": "וימתהו",
-      "gloss": "và đã giết ông ấy"
+      "gloss": "và nó giết ông ấy"
     },
     {
       "surface": "כדבר",
-      "gloss": "đúng theo lời"
+      "gloss": "theo lời"
     },
     {
       "surface": "יהוה",
@@ -109,6 +109,6 @@
       "gloss": "với ông ấy"
     }
   ],
-  "timestamp": "2026-08-19T06:10:05.238411832Z",
+  "timestamp": "2026-08-24T16:12:48.123301509Z",
   "model": "glm-5.3"
 }

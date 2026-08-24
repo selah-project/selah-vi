@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 50,
-  "translation": "Và Yosef khiến các con trai Yisrael thề, nói: Pakod, Elohim sẽ chắc chắn thăm ⟨אתכם⟩, và các ngươi sẽ đưa lên ⟨את⟩ xương của tôi khỏi nơi này.",
+  "translation": "Và Yosef khiến con cái Yisrael thề, rằng: \"Elohim chắc chắn sẽ thăm viếng ⟨את⟩ các ngươi, thì các ngươi hãy đem ⟨את⟩ xương cốt tôi lên khỏi nơi này.\"",
   "tokens": [
     {
       "surface": "וישבע",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "các con trai Yisrael"
+      "marks": "con cái Yisrael"
     },
     {
       "surface": "בני",
-      "gloss": "các con trai"
+      "gloss": "con cái"
     },
     {
       "surface": "ישראל",
@@ -30,15 +30,15 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "nói"
+      "gloss": "rằng"
     },
     {
       "surface": "פקד",
-      "gloss": "thăm"
+      "gloss": "thăm viếng"
     },
     {
-      "surface": "יפקד",
-      "gloss": "sẽ chắc chắn thăm"
+      "surface": "יפפקד-יפקד",
+      "gloss": "sẽ thăm viếng"
     },
     {
       "surface": "אלהים",
@@ -46,26 +46,27 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ các ngươi"
+      "gloss": "⟨את⟩ các ngươi",
+      "marks": "các ngươi"
     },
     {
       "surface": "והעלתם",
-      "gloss": "và các ngươi sẽ đưa lên"
+      "gloss": "thì các ngươi hãy đem lên"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "xương của tôi"
+      "marks": "xương cốt tôi"
     },
     {
       "surface": "עצמתי",
-      "gloss": "xương của tôi"
+      "gloss": "xương cốt tôi"
     },
     {
       "surface": "מזה",
-      "gloss": "khởi nơi này"
+      "gloss": "khỏi nơi này"
     }
   ],
-  "timestamp": "2026-08-19T06:03:30.445680822Z",
+  "timestamp": "2026-08-24T16:03:28.820459397Z",
   "model": "glm-5.3"
 }

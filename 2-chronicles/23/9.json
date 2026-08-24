@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "vi",
   "chapter": 23,
-  "translation": "Và Yehoyada vị thầy tế lễ đưa cho các trưởng quản trăm người ⟨את⟩ các cây giáo, ⟨và את⟩ các khiên, ⟨và את⟩ các mộc thuộc về vua David, vốn ở trong nhà Elohim.",
+  "translation": "Và Yehoyada vị tế sắc cho các trưởng văi trăm ⟨את⟩ những cây giáo, và ⟨את⟩ những chiếc khiên, và ⟨את⟩ những chiếc mộc của vua David, ⟨vốn⟩ ở trong nhà của Elohim.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "và đã đưa cho"
+      "gloss": "và đã trao"
     },
     {
       "surface": "יהוידע",
@@ -17,42 +17,42 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "vị thầy tế lễ"
+      "gloss": "vị tế sắc"
     },
     {
       "surface": "לשרי",
-      "gloss": "cho các trưởng quản"
+      "gloss": "cho các trưởng"
     },
     {
       "surface": "המאות",
-      "gloss": "các trăm"
+      "gloss": "trăm"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "các cây giáo"
+      "marks": "những cây giáo"
     },
     {
       "surface": "החניתים",
-      "gloss": "các cây giáo"
+      "gloss": "những cây giáo"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ ⟨và את⟩",
-      "marks": "các khiên"
+      "gloss": "và ⟨את⟩",
+      "marks": "những chiếc khiên"
     },
     {
       "surface": "המגנות",
-      "gloss": "các khiên"
+      "gloss": "những chiếc khiên"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ ⟨và את⟩",
-      "marks": "các mộc"
+      "gloss": "và ⟨את⟩",
+      "marks": "những chiếc mộc"
     },
     {
       "surface": "השלטים",
-      "gloss": "các mộc"
+      "gloss": "những chiếc mộc"
     },
     {
       "surface": "אשר",
@@ -60,7 +60,7 @@
     },
     {
       "surface": "למלך",
-      "gloss": "thuộc về vua"
+      "gloss": "của vua"
     },
     {
       "surface": "דויד",
@@ -68,17 +68,17 @@
     },
     {
       "surface": "אשר",
-      "gloss": "vốn"
+      "gloss": "mà"
     },
     {
       "surface": "בית",
-      "gloss": "trong nhà"
+      "gloss": "nhà"
     },
     {
       "surface": "האלהים",
       "gloss": "của Elohim"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.006827546Z",
+  "timestamp": "2026-08-24T16:25:48.415430666Z",
   "model": "glm-5.3"
 }

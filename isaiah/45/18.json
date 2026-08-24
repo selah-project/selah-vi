@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "vi",
   "chapter": 45,
-  "translation": "Vì thus đã phán Yahweh, Đấng sáng tạo các tầng trời — Ngài là Elohim — Đấng uốn nắn đất và làm ra nó, Ngài đã thiết lập nó; không phải תהו (hỗn độn) Ngài đã sáng tạo nó, để ở Ngài đã uốn nắn nó; Ta là Yahweh, và không còn ⟨ai⟩ nữa.",
+  "translation": "Vì thus Yahweh phán, Đấng sáng tạo ⟨את⟩ các tầng trời, chính ⟨⟨Ngài⟩⟩ là Elohim, Đấng uốn nắn ⟨את⟩ đất và làm nên nó — chính ⟨⟨Ngài⟩⟩ đã thiết lập nó; không phải vô định Ngài đã sáng tạo nó, để cư ngụ Ngài đã uốn nắn nó: Ta là Yahweh, và không còn ⟨ai⟩ nữa.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "vì"
+      "gloss": "Vì"
     },
     {
       "surface": "כה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "đã phán"
+      "gloss": "phán"
     },
     {
       "surface": "יהוה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "Ngài"
+      "gloss": "chính Ngài"
     },
     {
       "surface": "האלהים",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "ועשה",
-      "gloss": "và làm ra"
+      "gloss": "và làm nên"
     },
     {
       "surface": "הוא",
-      "gloss": "Ngài"
+      "gloss": "chính Ngài"
     },
     {
       "surface": "כוננה",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "תהו",
-      "gloss": "hỗn độn"
+      "gloss": "vô định"
     },
     {
       "surface": "בראה",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "לשבת",
-      "gloss": "để ở"
+      "gloss": "để cư ngụ"
     },
     {
       "surface": "יצרה",
@@ -89,13 +89,13 @@
     },
     {
       "surface": "ואין",
-      "gloss": "và không còn"
+      "gloss": "và không có"
     },
     {
       "surface": "עוד",
-      "gloss": "nữa"
+      "gloss": "còn nữa"
     }
   ],
-  "timestamp": "2026-08-19T04:13:33.145373356Z",
+  "timestamp": "2026-08-24T16:14:31.839012901Z",
   "model": "glm-5.3"
 }

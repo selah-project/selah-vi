@@ -5,19 +5,20 @@
   "book": "joshua",
   "lang": "vi",
   "chapter": 8,
-  "translation": "Và ⟨הוא⟩ truyền lệnh ⟨את⟩ ⟨אתם⟩ nói rằng: Hãy thấy, chính các ngươi là phục binh đối với thành, ở phía sau thành; đừng đi xa khỏi thành quá nhiều, và tất cả các ngươi hãy sẵn sàng.",
+  "translation": "Người truyền-lệnh cho ⟨את⟩-họ, rằng: Hãy thấy, các ngươi ⟨are⟩ những-kẻ-mai-phục nghịch ⟨the⟩ thành, phía-sau ⟨the⟩ thành; chớ đi-xa khỏi ⟨the⟩ thành quá-mức, và tất-cả các-ngươi hãy sẵn-sàng.",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "và truyền lệnh"
+      "gloss": "và truyền-lệnh"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩"
+      "gloss": "⟨את⟩-họ",
+      "marks": "họ (ba mươi nghìn dũng sĩ)"
     },
     {
       "surface": "לאמר",
-      "gloss": "nói rằng"
+      "gloss": "rằng"
     },
     {
       "surface": "ראו",
@@ -29,15 +30,15 @@
     },
     {
       "surface": "ארבים",
-      "gloss": "là phục binh"
+      "gloss": "những-kẻ-mai-phục"
     },
     {
       "surface": "לעיר",
-      "gloss": "đối với thành"
+      "gloss": "nghịch thành"
     },
     {
       "surface": "מאחרי",
-      "gloss": "sau"
+      "gloss": "phía-sau"
     },
     {
       "surface": "העיר",
@@ -45,11 +46,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "đừng"
+      "gloss": "chớ"
     },
     {
       "surface": "תרחיקו",
-      "gloss": "đi xa"
+      "gloss": "hãy đi-xa"
     },
     {
       "surface": "מן",
@@ -61,21 +62,21 @@
     },
     {
       "surface": "מאד",
-      "gloss": "quá nhiều"
+      "gloss": "quá-mức"
     },
     {
       "surface": "והייתם",
-      "gloss": "và hãy là"
+      "gloss": "và các-ngươi sẽ-được"
     },
     {
       "surface": "כלכם",
-      "gloss": "tất cả các ngươi"
+      "gloss": "tất-cả các-ngươi"
     },
     {
       "surface": "נכנים",
-      "gloss": "sẵn sàng"
+      "gloss": "sẵn-sàng"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.054761622Z",
+  "timestamp": "2026-08-24T16:08:54.996861513Z",
   "model": "glm-5.3"
 }

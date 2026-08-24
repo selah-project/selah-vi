@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "vi",
   "chapter": 20,
-  "translation": "Hãy nói với con cái Yisrael, rằng: Hãy dành cho các ngươi ⟨את⟩ các thành避 nạn mà Ta đã phán với các ngươi qua tay Moshe.",
+  "translation": "Hãy nói với con cái Yisrael, rằng: Hãy chỉ định cho mình ⟨את⟩ các thành trú ẩn mà ta đã nói với các ngươi qua tay Moshe.",
   "tokens": [
     {
       "surface": "דבר",
@@ -29,16 +29,16 @@
     },
     {
       "surface": "תנו",
-      "gloss": "Hãy cho\/dành"
+      "gloss": "hãy chỉ định"
     },
     {
       "surface": "לכם",
-      "gloss": "cho các ngươi"
+      "gloss": "cho mình"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "các thành tránh nạn"
+      "marks": "các thành trú ẩn"
     },
     {
       "surface": "ערי",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "המקלט",
-      "gloss": "tránh nạn"
+      "gloss": "trú ẩn"
     },
     {
       "surface": "אשר",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "דברתי",
-      "gloss": "Ta đã phán"
+      "gloss": "ta đã nói"
     },
     {
       "surface": "אליכם",
@@ -69,6 +69,6 @@
       "gloss": "Moshe"
     }
   ],
-  "timestamp": "2026-08-19T03:20:39.740291946Z",
+  "timestamp": "2026-08-24T16:09:36.684598202Z",
   "model": "glm-5.3"
 }

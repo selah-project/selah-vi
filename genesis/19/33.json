@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 19,
-  "translation": "Đêm đó她们 cho cha mình uống ⟨את⟩ rượu, và con cả vào nằm với ⟨את⟩ cha mình; ngài không biết khi nàng nằm xuống, cũng không biết khi nàng chỗi dậy.",
+  "translation": "Và họ làm cha mình uống ⟨את⟩ rượu trong đêm đó, và con cả đi vào, và nằm với ⟨את⟩ cha mình; và ông không biết khi nàng nằm xuống, cũng không khi nàng dậy lên.",
   "tokens": [
     {
       "surface": "ותשקין",
-      "gloss": "và-họ-cho-uống"
+      "gloss": "và họ làm uống"
     },
     {
       "surface": "את",
@@ -18,7 +18,7 @@
     },
     {
       "surface": "אביהן",
-      "gloss": "cha-của-họ"
+      "gloss": "cha mình"
     },
     {
       "surface": "יין",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "בלילה",
-      "gloss": "trong-đêm"
+      "gloss": "trong đêm"
     },
     {
       "surface": "הוא",
@@ -34,42 +34,42 @@
     },
     {
       "surface": "ותבא",
-      "gloss": "và-nàng-đã-vào"
+      "gloss": "và (nàng) đi vào"
     },
     {
       "surface": "הבכירה",
-      "gloss": "người-con-cả"
+      "gloss": "con cả"
     },
     {
       "surface": "ותשכב",
-      "gloss": "và-nàng-nằm"
+      "gloss": "và (nàng) nằm với"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "cha của nàng"
+      "marks": "cha mình"
     },
     {
       "surface": "אביה",
-      "gloss": "cha-của-nàng"
+      "gloss": "cha mình"
     },
     {
       "surface": "ולא",
-      "gloss": "và-không"
+      "gloss": "và không"
     },
     {
       "surface": "ידע",
-      "gloss": "biết"
+      "gloss": "(ông) biết"
     },
     {
       "surface": "בשכבה",
-      "gloss": "khi-nàng-nằm"
+      "gloss": "trong việc nàng nằm xuống"
     },
     {
       "surface": "ובקומה",
-      "gloss": "và-khi-nàng-dậy"
+      "gloss": "và trong việc nàng dậy lên"
     }
   ],
-  "timestamp": "2026-08-19T01:01:55.483529679Z",
+  "timestamp": "2026-08-24T16:01:56.077754531Z",
   "model": "glm-5.3"
 }

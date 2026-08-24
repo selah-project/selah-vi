@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 1,
-  "translation": "Và Elohim sáng tạo ⟨את⟩ con người theo hình ảnh Ngài; theo hình ảnh Elohim Ngài đã sáng tạo ⟨את⟩ ⟨אתו⟩; nam và nữ Ngài đã sáng tạo ⟨את⟩ ⟨אתם⟩.",
+  "translation": "Và Elohim đã sáng tạo ⟨את⟩ loài người trong hình tượng của Ngài; trong hình tượng Elohim Ngài đã sáng tạo ⟨את⟩ ⟨אתו⟩; nam và nữ Ngài đã sáng tạo ⟨את⟩ ⟨אתם⟩.",
   "tokens": [
     {
       "surface": "ויברא",
-      "gloss": "và sáng tạo"
+      "gloss": "đã sáng tạo"
     },
     {
       "surface": "אלהים",
@@ -18,19 +18,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "con người"
+      "marks": "loài người"
     },
     {
       "surface": "האדם",
-      "gloss": "con người"
+      "gloss": "loài người"
     },
     {
       "surface": "בצלמו",
-      "gloss": "theo hình ảnh Ngài"
+      "gloss": "trong hình tượng của Ngài"
     },
     {
       "surface": "בצלם",
-      "gloss": "theo hình ảnh"
+      "gloss": "trong hình tượng"
     },
     {
       "surface": "אלהים",
@@ -43,7 +43,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "hắn"
+      "marks": "người ấy (nam và nữ)"
     },
     {
       "surface": "זכר",
@@ -60,9 +60,9 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "chúng"
+      "marks": "họ"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.951466772Z",
+  "timestamp": "2026-08-24T16:58:27.510218608Z",
   "model": "glm-5.3"
 }

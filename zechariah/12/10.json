@@ -5,11 +5,11 @@
   "book": "zechariah",
   "lang": "vi",
   "chapter": 12,
-  "translation": "Và Ta sẽ đổ ra trên nhà David và trên dân cư Yerushalayim một thần khí ân huệ và khẩn nguyện; họ sẽ ngước nhìn Ta, ⟨את⟩ Đấng mà họ đã đâm刺: họ sẽ than khóc vì Ngài, như than khóc vì con một; và khổ đau vì Ngài, như khổ đau vì con trưởng nam.",
+  "translation": "Ta sẽ đổ trên nhà David và trên dân cư Yerushalayim một thần linh của ân huệ và của nài xin; chúng sẽ nhìn đến Ta ⟨את⟩ Đấng mà chúng đã đâm xuyên, và sẽ than khóc vì Ngài như khóc vì đứa con một, và sẽ sầu não vì Ngài như sầu não vì con trưởng nam.",
   "tokens": [
     {
       "surface": "ושפכתי",
-      "gloss": "và Ta sẽ đổ ra"
+      "gloss": "và-ta-sẽ-đổ"
     },
     {
       "surface": "על",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ועל",
-      "gloss": "và trên"
+      "gloss": "và-trên"
     },
     {
       "surface": "יושב",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "רוח",
-      "gloss": "thần khí"
+      "gloss": "thần linh"
     },
     {
       "surface": "חן",
@@ -45,20 +45,20 @@
     },
     {
       "surface": "ותחנונים",
-      "gloss": "và khẩn nguyện"
+      "gloss": "và-nài-xin"
     },
     {
       "surface": "והביטו",
-      "gloss": "và họ sẽ ngước nhìn"
+      "gloss": "và-chúng-sẽ-nhìn"
     },
     {
       "surface": "אלי",
-      "gloss": "Ta"
+      "gloss": "đến-Ta"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Đấng mà họ đã đâm"
+      "marks": "Đấng mà chúng đã đâm xuyên"
     },
     {
       "surface": "אשר",
@@ -66,19 +66,19 @@
     },
     {
       "surface": "דקרו",
-      "gloss": "họ đã đâm"
+      "gloss": "chúng-đã-đâm-xuyên"
     },
     {
       "surface": "וספדו",
-      "gloss": "và họ sẽ than khóc"
+      "gloss": "và-chúng-sẽ-than-khóc"
     },
     {
       "surface": "עליו",
-      "gloss": "vì Ngài"
+      "gloss": "vì-Ngài"
     },
     {
       "surface": "כמספד",
-      "gloss": "như than khóc"
+      "gloss": "như-khóc"
     },
     {
       "surface": "על",
@@ -86,19 +86,19 @@
     },
     {
       "surface": "היחיד",
-      "gloss": "con một"
+      "gloss": "đứa-con-một"
     },
     {
       "surface": "והמר",
-      "gloss": "và khổ đau"
+      "gloss": "và-sầu-não"
     },
     {
       "surface": "עליו",
-      "gloss": "vì Ngài"
+      "gloss": "vì-Ngài"
     },
     {
       "surface": "כהמר",
-      "gloss": "như khổ đau"
+      "gloss": "như-sầu-não"
     },
     {
       "surface": "על",
@@ -106,9 +106,9 @@
     },
     {
       "surface": "הבכור",
-      "gloss": "con trưởng nam"
+      "gloss": "con-trưởng-nam"
     }
   ],
-  "timestamp": "2026-08-19T04:53:56.623674971Z",
+  "timestamp": "2026-08-24T16:20:02.198681271Z",
   "model": "glm-5.3"
 }

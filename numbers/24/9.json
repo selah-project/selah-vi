@@ -5,8 +5,49 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 24,
-  "translation": "Người quỳ xuống, nằm nghỉ như sư tử, và như母 ... ",
-  "tokens": [],
-  "timestamp": "2026-08-19T02:59:41.153878253Z",
+  "translation": "Người quỳ xuống, nằm nghỉ như sư tử, và như sư tử cái — ai sẽ dựng ⟨hắn⟩ dậy? Kẻ ban phước cho ngươi ⟨thì⟩ được phước, và kẻ nguyền rủa ngươi ⟨thì⟩ bị nguyền rủa.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "quỳ xuống"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "nằm nghỉ"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "như sư tử"
+    },
+    {
+      "surface": "וכלביא",
+      "gloss": "và như sư tử cái"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ai"
+    },
+    {
+      "surface": "יקימנו",
+      "gloss": "sẽ dựng hắn dậy"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "kẻ ban phước cho ngươi"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "được phước"
+    },
+    {
+      "surface": "וארריך",
+      "gloss": "và kẻ nguyền rủa ngươi"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "bị nguyền rủa"
+    }
+  ],
+  "timestamp": "2026-08-24T16:26:25.236808470Z",
   "model": "glm-5.3"
 }

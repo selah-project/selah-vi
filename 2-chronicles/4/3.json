@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "vi",
   "chapter": 4,
-  "translation": "Và hình tượng bò nằm dưới nó, vòng quanh khắp nơi, bao lấy ⟨את⟩ ⟨את nó⟩ mười con mỗi amma, vây quanh ⟨את⟩ Biển xung quanh — bò đúc theo hai hàng khi đúc nó.",
+  "translation": "Và hình tượng các con bò bên dưới nó, xung quanh xung quanh vây lấy ⟨את⟩ nó, mười trong một amma, bao quanh ⟨את⟩ Biển vòng quanh; hai hàng bò được đúc khi đúc nó.",
   "tokens": [
     {
       "surface": "ודמות",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "תחת",
-      "gloss": "dưới"
+      "gloss": "bên dưới"
     },
     {
       "surface": "לו",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "סביב",
-      "gloss": "vòng quanh"
+      "gloss": "xung quanh"
     },
     {
       "surface": "סביב",
-      "gloss": "khắp nơi"
+      "gloss": "xung quanh"
     },
     {
       "surface": "סובבים",
-      "gloss": "bao lấy"
+      "gloss": "vây lấy"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨את nó⟩",
+      "gloss": "⟨את⟩ nó",
       "marks": "nó"
     },
     {
@@ -46,11 +46,11 @@
     },
     {
       "surface": "באמה",
-      "gloss": "mỗi amma"
+      "gloss": "trong một amma"
     },
     {
       "surface": "מקיפים",
-      "gloss": "vây quanh"
+      "gloss": "bao quanh"
     },
     {
       "surface": "את",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "סביב",
-      "gloss": "xung quanh"
+      "gloss": "vòng quanh"
     },
     {
       "surface": "שנים",
@@ -79,13 +79,13 @@
     },
     {
       "surface": "יצוקים",
-      "gloss": "đúc"
+      "gloss": "được đúc"
     },
     {
       "surface": "במצקתו",
       "gloss": "khi đúc nó"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.005151927Z",
+  "timestamp": "2026-08-24T16:25:34.844648915Z",
   "model": "glm-5.3"
 }

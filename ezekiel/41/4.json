@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "vi",
   "chapter": 41,
-  "translation": "Và ngài đo ⟨את⟩ chiều dài của nó hai mươi cubit, và bề rộng hai mươi cubit, trước mặt ⟨the⟩ đền thờ; và ngài phán cùng tôi: Này là Nơi Thánh của các Nơi Thánh.",
+  "translation": "Và người đo ⟨את⟩ chiều dài của nó: hai mươi amma, và bề rộng: hai mươi amma, trước mặt ⟨את⟩ Hêykal; và người nói với tôi: Đây ⟨is⟩ Nơi Rất Thánh.",
   "tokens": [
     {
       "surface": "וימד",
-      "gloss": "và ngài đo"
+      "gloss": "và người đo"
     },
     {
       "surface": "את",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "אמה",
-      "gloss": "cubit"
+      "gloss": "amma"
     },
     {
       "surface": "ורחב",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "אמה",
-      "gloss": "cubit"
+      "gloss": "amma"
     },
     {
       "surface": "אל",
@@ -50,19 +50,19 @@
     },
     {
       "surface": "ההיכל",
-      "gloss": "đền thờ"
+      "gloss": "Hêykal"
     },
     {
       "surface": "ויאמר",
-      "gloss": "và ngài phán"
+      "gloss": "và người nói"
     },
     {
       "surface": "אלי",
-      "gloss": "cùng tôi"
+      "gloss": "với tôi"
     },
     {
       "surface": "זה",
-      "gloss": "này"
+      "gloss": "đây"
     },
     {
       "surface": "קדש",
@@ -73,6 +73,6 @@
       "gloss": "của các Nơi Thánh"
     }
   ],
-  "timestamp": "2026-08-19T04:41:58.634321764Z",
+  "timestamp": "2026-08-24T16:27:25.477142296Z",
   "model": "glm-5.3"
 }

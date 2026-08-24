@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 40,
-  "translation": "Ngươi sẽ lấy ⟨את⟩ dầu xức, và xức ⟨את⟩ Đền Tạm cùng ⟨את⟩ mọi vật ở trong nó; ngươi sẽ thánh hóa nó ⟨את⟩ ⟨אתו⟩ cùng ⟨את⟩ mọi器具 dụng cụ của nó, và nó sẽ nên thánh.",
+  "translation": "Ngươi hãy lấy ⟨את⟩ dầu xức và xức dầu cho ⟨את⟩ Đền Tạm cùng ⟨את⟩ mọi vật ở trong nó; ngươi hãy biệt riêng nó ⟨את⟩ ⟨אתו⟩ và ⟨את⟩ mọi khí cụ của nó, thì nó sẽ thành thánh.",
   "tokens": [
     {
       "surface": "ולקחת",
-      "gloss": "và ngươi sẽ lấy"
+      "gloss": "và ngươi hãy lấy"
     },
     {
       "surface": "את",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "ומשחת",
-      "gloss": "và ngươi sẽ xức"
+      "gloss": "và ngươi hãy xức dầu"
     },
     {
       "surface": "את",
@@ -39,8 +39,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "cùng ⟨את⟩",
-      "marks": "mọi vật"
+      "gloss": "và ⟨את⟩",
+      "marks": "mọi vật ở trong nó"
     },
     {
       "surface": "כל",
@@ -56,7 +56,7 @@
     },
     {
       "surface": "וקדשת",
-      "gloss": "và ngươi sẽ thánh hóa"
+      "gloss": "và ngươi hãy biệt riêng"
     },
     {
       "surface": "אתו",
@@ -65,8 +65,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "cùng ⟨את⟩",
-      "marks": "mọi dụng cụ"
+      "gloss": "và ⟨את⟩",
+      "marks": "mọi khí cụ của nó"
     },
     {
       "surface": "כל",
@@ -74,17 +74,17 @@
     },
     {
       "surface": "כליו",
-      "gloss": "dụng cụ của nó"
+      "gloss": "khí cụ của nó"
     },
     {
       "surface": "והיה",
-      "gloss": "và nó sẽ là"
+      "gloss": "và nó sẽ thành"
     },
     {
       "surface": "קדש",
       "gloss": "thánh"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.988540933Z",
+  "timestamp": "2026-08-24T16:58:27.515630536Z",
   "model": "glm-5.3"
 }

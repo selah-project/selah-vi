@@ -5,16 +5,16 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 1,
-  "translation": "Và Elohim đã đặt ⟨את⟩ ⟨אתם⟩ chúng trong vòm-lồng ⟨các⟩ tầng trời, để soi-sáng trên đất,",
+  "translation": "Và Elohim đặt ⟨את⟩ chúng trong vòng vòm ⟨các tầng trời⟩, để chiếu sáng trên đất.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "và đã-đặt"
+      "gloss": "và đặt"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "chúng (các nguồn sáng)"
+      "gloss": "⟨את⟩ chúng",
+      "marks": "hai nguồn sáng lớn (chúng)"
     },
     {
       "surface": "אלהים",
@@ -22,15 +22,15 @@
     },
     {
       "surface": "ברקיע",
-      "gloss": "trong vòm-lồng"
+      "gloss": "trong vòng vòm"
     },
     {
       "surface": "השמים",
-      "gloss": "các tầng trời"
+      "gloss": "⟨các tầng trời⟩"
     },
     {
       "surface": "להאיר",
-      "gloss": "để soi-sáng"
+      "gloss": "để chiếu sáng"
     },
     {
       "surface": "על",
@@ -41,6 +41,6 @@
       "gloss": "đất"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.951916385Z",
+  "timestamp": "2026-08-24T16:01:39.169176901Z",
   "model": "glm-5.3"
 }

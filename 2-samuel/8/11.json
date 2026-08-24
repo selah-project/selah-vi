@@ -5,20 +5,20 @@
   "book": "2-samuel",
   "lang": "vi",
   "chapter": 8,
-  "translation": "Cả ⟨אתם⟩ những thứ đó, vua David也别 thánh hiến cho Yahweh, cùng với bạc và vàng mà ông đã thánh hiến từ mọi dân tộc mà ông đã chinh phục —",
+  "translation": "Cả những thứ đó vua David cũng thánh hóa cho Yahweh, cùng với bạc và vàng mà ông đã thánh hóa từ mọi dân tộc mà ông đã chinh phục.",
   "tokens": [
     {
       "surface": "גם",
-      "gloss": "cả"
+      "gloss": "cũng"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "những thứ đó"
+      "gloss": "⟨את⟩ chúng",
+      "marks": "những thứ đó (các đồ bạc\/vàng\/đồng)"
     },
     {
       "surface": "הקדיש",
-      "gloss": "thánh hiến"
+      "gloss": "đã thánh hóa"
     },
     {
       "surface": "המלך",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "הקדיש",
-      "gloss": "đã thánh hiến"
+      "gloss": "đã thánh hóa"
     },
     {
       "surface": "מכל",
@@ -69,6 +69,6 @@
       "gloss": "đã chinh phục"
     }
   ],
-  "timestamp": "2026-08-19T03:40:30.988149524Z",
+  "timestamp": "2026-08-24T16:11:28.105576600Z",
   "model": "glm-5.3"
 }

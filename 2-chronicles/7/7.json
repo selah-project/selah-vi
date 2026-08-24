@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "vi",
   "chapter": 7,
-  "translation": "Shlomoh也别 thánh hóa ⟨את⟩ phần giữa sân ở trước nhà Yahweh, vì tại đó ông đã làm các lễ thiêu và ⟨את〕 các mỡ của lễ hòa bình, vì bàn thờ đồng mà Shlomoh đã làm không thể chứa ⟨את⟩ lễ thiêu và ⟨את⟩ lễ chay và ⟨את⟩ các mỡ.",
+  "translation": "Shelomoh đã thánh hóa ⟨את⟩ phần giữa ⟨⟨của⟩⟩ sân ở phía trước nhà Yahweh, vì ông làm tại đó ⟨את⟩ các lễ thiêu và ⟨את⟩ mỡ của các tế lễ bình an, vì bàn thờ bằng đồng mà Shelomoh làm không thể chứa ⟨את⟩ lễ thiêu, ⟨את⟩ lễ chay và ⟨את⟩ các phần mỡ.",
   "tokens": [
     {
       "surface": "ויקדש",
@@ -13,12 +13,12 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Shlomoh"
+      "gloss": "Shelomoh"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "phần giữa sân"
+      "marks": "phần giữa"
     },
     {
       "surface": "תוך",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "ở trước"
+      "gloss": "ở phía trước"
     },
     {
       "surface": "בית",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "đã làm"
+      "gloss": "làm"
     },
     {
       "surface": "שם",
@@ -62,16 +62,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "các mỡ của lễ hòa bình"
+      "gloss": "và ⟨את⟩",
+      "marks": "mỡ"
     },
     {
       "surface": "חלבי",
-      "gloss": "các mỡ của"
+      "gloss": "mỡ"
     },
     {
       "surface": "השלמים",
-      "gloss": "lễ hòa bình"
+      "gloss": "của các tế lễ bình an"
     },
     {
       "surface": "כי",
@@ -83,7 +83,7 @@
     },
     {
       "surface": "הנחשת",
-      "gloss": "đồng"
+      "gloss": "bằng đồng"
     },
     {
       "surface": "אשר",
@@ -91,11 +91,11 @@
     },
     {
       "surface": "עשה",
-      "gloss": "đã làm"
+      "gloss": "làm"
     },
     {
       "surface": "שלמה",
-      "gloss": "Shlomoh"
+      "gloss": "Shelomoh"
     },
     {
       "surface": "לא",
@@ -120,7 +120,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "và ⟨את⟩",
       "marks": "lễ chay"
     },
     {
@@ -129,14 +129,14 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "các mỡ"
+      "gloss": "và ⟨את⟩",
+      "marks": "các phần mỡ"
     },
     {
       "surface": "החלבים",
-      "gloss": "các mỡ"
+      "gloss": "các phần mỡ"
     }
   ],
-  "timestamp": "2026-08-19T05:55:39.967027400Z",
+  "timestamp": "2026-08-24T16:25:34.107376507Z",
   "model": "glm-5.3"
 }

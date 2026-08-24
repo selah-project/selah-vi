@@ -5,24 +5,24 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 24,
-  "translation": "Và họ chúc phúc ⟨את⟩ Rivqah và nói với nàng: Hỡi em gái chúng ta, ngươi ⟨⟨hãy⟩⟩ trở nên muôn ngàn vạn, và hạt giống ngươi sẽ chiếm ⟨את⟩ cổng của kẻ thù ghét nó.",
+  "translation": "Và họ chúc phúc cho ⟨את⟩ Rivkah, và nói với nàng: Chị của chúng ta, ⟨את⟩ là ⟨hãy⟩ nên hàng ngàn vạn, và dòng dõi của nàng sẽ chiếm ⟨את⟩ cổng của kẻ thù nghịch nó.",
   "tokens": [
     {
       "surface": "ויברכו",
-      "gloss": "và họ chúc phúc"
+      "gloss": "và-họ chúc phúc"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Rivqah"
+      "marks": "Rivkah"
     },
     {
       "surface": "רבקה",
-      "gloss": "Rivqah"
+      "gloss": "Rivkah"
     },
     {
       "surface": "ויאמרו",
-      "gloss": "và họ nói"
+      "gloss": "và-họ nói"
     },
     {
       "surface": "לה",
@@ -30,23 +30,24 @@
     },
     {
       "surface": "אחתנו",
-      "gloss": "em gái chúng ta"
+      "gloss": "chị của chúng ta"
     },
     {
       "surface": "את",
-      "gloss": "ngươi"
+      "gloss": "ngươi",
+      "marks": "ngươi là"
     },
     {
       "surface": "היי",
-      "gloss": "hãy trở nên"
+      "gloss": "hãy nên"
     },
     {
       "surface": "לאלפי",
-      "gloss": "muôn ngàn"
+      "gloss": "hàng ngàn"
     },
     {
       "surface": "רבבה",
-      "gloss": "vạn"
+      "gloss": "vạn vạn"
     },
     {
       "surface": "ויירש",
@@ -54,12 +55,12 @@
     },
     {
       "surface": "זרעך",
-      "gloss": "hạt giống ngươi"
+      "gloss": "dòng dõi của ngươi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "cổng"
+      "marks": "cổng của kẻ thù nghịch"
     },
     {
       "surface": "שער",
@@ -67,9 +68,9 @@
     },
     {
       "surface": "שנאיו",
-      "gloss": "kẻ thù ghét nó"
+      "gloss": "của kẻ thù nghịch nó"
     }
   ],
-  "timestamp": "2026-08-19T01:06:11.340636147Z",
+  "timestamp": "2026-08-24T16:02:06.925224375Z",
   "model": "glm-5.3"
 }

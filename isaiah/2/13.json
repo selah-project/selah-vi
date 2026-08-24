@@ -5,8 +5,49 @@
   "book": "isaiah",
   "lang": "vi",
   "chapter": 2,
-  "translation": "Và trên mọi cây tuyết tùng của HaLvanon, những cây cao towering và được nhấc lên, và trên mọi cây sồi của HaBashan,",
-  "tokens": [],
-  "timestamp": "2026-08-19T04:02:49.928304716Z",
+  "translation": "Và trên mọi cây tuyết tùng của HaLevanon, những cây cao nhất và được nhấc lên, và trên mọi cây sồi của HaBashan.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "và trên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "cây tuyết tùng của"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "HaLevanon"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "những cây cao nhất"
+    },
+    {
+      "surface": "והנשאים",
+      "gloss": "và được nhấc lên"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "và trên"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "אלוני",
+      "gloss": "cây sồi của"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "HaBashan"
+    }
+  ],
+  "timestamp": "2026-08-24T16:13:34.359279686Z",
   "model": "glm-5.3"
 }

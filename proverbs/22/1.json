@@ -5,8 +5,41 @@
   "book": "proverbs",
   "lang": "vi",
   "chapter": 22,
-  "translation": "Được chọn挑选 hơn là danh tốt ⟨là⟩ sự giàu có lớn; hơn bạc và hơn vàng ⟨là⟩ ơn宠爱 tốt.",
-  "tokens": [],
-  "timestamp": "2026-08-19T05:18:02.064891570Z",
+  "translation": "Một danh tiếng ⟨được⟩ chọn hơn ⟨là⟩ sự giàu có nhiều, hơn bạc và hơn vàng ⟨là⟩ ơn đẹp tốt lành.",
+  "tokens": [
+    {
+      "surface": "נבחר",
+      "gloss": "được chọn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "danh tiếng"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "hơn sự giàu có"
+    },
+    {
+      "surface": "רב",
+      "gloss": "nhiều"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "hơn bạc"
+    },
+    {
+      "surface": "ומזהב",
+      "gloss": "và hơn vàng"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ơn đẹp"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tốt lành"
+    }
+  ],
+  "timestamp": "2026-08-24T16:22:08.494039692Z",
   "model": "glm-5.3"
 }

@@ -5,42 +5,42 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 36,
-  "translation": "Và ⟨của liệu⟩ ⟨là⟩ đủ cho mọi việc làm để làm ⟨את nó⟩, và còn dư.",
+  "translation": "Và ⟨את⟩ công việc đã ⟨thì⟩ đủ đầy cho mọi công việc để làm ⟨את⟩ nó, và còn dư.",
   "tokens": [
     {
-      "surface": "ו המלאכה",
-      "gloss": "và của liệu công việc"
+      "surface": "והמלאכה",
+      "gloss": "và công-việc"
     },
     {
       "surface": "היתה",
-      "gloss": "⟨là⟩ đã có"
+      "gloss": "đã-thì"
     },
     {
       "surface": "דים",
-      "gloss": "đủ"
+      "gloss": "đủ-đầy"
     },
     {
       "surface": "לכל",
-      "gloss": "cho mọi"
+      "gloss": "cho-mọi"
     },
     {
-      "surface": "המלאכה",
-      "gloss": "việc làm"
+      "surface": "המלאאכה",
+      "gloss": "công-việc"
     },
     {
       "surface": "לעשות",
-      "gloss": "để làm"
+      "gloss": "để-làm"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "việc làm"
+      "marks": "nó"
     },
     {
       "surface": "והותר",
-      "gloss": "và còn dư"
+      "gloss": "và-còn-dư"
     }
   ],
-  "timestamp": "2026-08-19T02:38:24.294392417Z",
+  "timestamp": "2026-08-24T16:04:51.180932847Z",
   "model": "glm-5.3"
 }

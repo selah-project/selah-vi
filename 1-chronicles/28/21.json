@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "vi",
   "chapter": 28,
-  "translation": "Và kìa, các phân ban của các thầy tế lễ và người Lê-vi cho mọi việc служ của nhà ⟨את⟩ Elohim, và với ngươi trong mọi công tác là mọi người自愿 hào phóng có khôn ngoan, cho mọi việc phục vụ; và các quan trưởng và toàn dân cho mọi lời phán của ngươi.",
+  "translation": "Và này, các phân ban của các thầy tế lễ và người Lê-vi cho mọi việc phục vụ nhà ⟨אלהים⟩ Elohim; và với ngươi, trong mọi công việc, là mọi người tự nguyện khéo léo, cho mọi việc phục vụ; và các thủ lĩnh và toàn dân ⟨sẽ vâng⟩ theo mọi lời của ngươi.",
   "tokens": [
     {
       "surface": "והנה",
-      "gloss": "và kìa"
+      "gloss": "và này"
     },
     {
       "surface": "מחלקות",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "עבודת",
-      "gloss": "việc phục vụ của"
+      "gloss": "việc phục vụ"
     },
     {
       "surface": "בית",
@@ -37,11 +37,15 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohim"
+      "gloss": "của Elohim"
     },
     {
-      "surface": "ועמך",
-      "gloss": "và với ngươi"
+      "surface": "ו",
+      "gloss": "và"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "với ngươi"
     },
     {
       "surface": "בכל",
@@ -49,7 +53,7 @@
     },
     {
       "surface": "מלאכה",
-      "gloss": "công tác"
+      "gloss": "công việc"
     },
     {
       "surface": "לכל",
@@ -57,11 +61,11 @@
     },
     {
       "surface": "נדיב",
-      "gloss": "người hào phóng tự nguyện"
+      "gloss": "người tự nguyện"
     },
     {
       "surface": "בחכמה",
-      "gloss": "trong khôn ngoan"
+      "gloss": "trong sự khôn ngoan"
     },
     {
       "surface": "לכל",
@@ -73,11 +77,11 @@
     },
     {
       "surface": "והשרים",
-      "gloss": "và các quan trưởng"
+      "gloss": "và các thủ lĩnh"
     },
     {
       "surface": "וכל",
-      "gloss": "và mọi"
+      "gloss": "và toàn"
     },
     {
       "surface": "העם",
@@ -85,13 +89,13 @@
     },
     {
       "surface": "לכל",
-      "gloss": "cho mọi"
+      "gloss": "theo mọi"
     },
     {
       "surface": "דבריך",
-      "gloss": "lời phán của ngươi"
+      "gloss": "lời của ngươi"
     }
   ],
-  "timestamp": "2026-08-19T06:21:38.472087124Z",
+  "timestamp": "2026-08-24T16:25:08.403991100Z",
   "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "1-kings",
   "lang": "vi",
   "chapter": 11,
-  "translation": "Và Hadad trốn thoát, chính ⟨hắn⟩, cùng một số người Íđômit trong các đầy tớ của cha ⟨hắn⟩ ⟨את⟩ ⟨אתו⟩ với mình, để vào Mitzrayim; còn Hadad ⟨là⟩ một cậu bé nhỏ.",
+  "translation": "Và Adad đã trốn, ⟨hắn⟩ cùng một số người Ê-đôm trong các đầy tớ của cha mình, ⟨את⟩ hắn (đi cùng), để vào Mitzrayim; còn Hadad lúc ấy là đứa trẻ nhỏ.",
   "tokens": [
     {
       "surface": "ויברח",
-      "gloss": "và trốn thoát"
+      "gloss": "và đã trốn"
     },
     {
       "surface": "אדד",
-      "gloss": "Hadad"
+      "gloss": "Adad"
     },
     {
       "surface": "הוא",
-      "gloss": "chính hắn"
+      "gloss": "⟨hắn⟩"
     },
     {
       "surface": "ואנשים",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "אדמיים",
-      "gloss": "Íđômit"
+      "gloss": "Ê-đôm"
     },
     {
       "surface": "מעבדי",
-      "gloss": "từ các đầy tớ của"
+      "gloss": "trong các đầy tớ của"
     },
     {
       "surface": "אביו",
@@ -37,8 +37,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "với mình"
+      "gloss": "⟨את⟩ hắn (cùng với)"
     },
     {
       "surface": "לבוא",
@@ -50,17 +49,17 @@
     },
     {
       "surface": "והדד",
-      "gloss": "và Hadad"
+      "gloss": "còn Hadad"
     },
     {
       "surface": "נער",
-      "gloss": "một cậu bé"
+      "gloss": "đứa trẻ"
     },
     {
       "surface": "קטן",
       "gloss": "nhỏ"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.055989422Z",
+  "timestamp": "2026-08-24T16:12:28.964145206Z",
   "model": "glm-5.3"
 }

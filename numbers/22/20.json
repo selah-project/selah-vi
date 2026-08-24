@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 22,
-  "translation": "Và Elohim đến cùng Bilam trong đêm và nói với ông: Nếu những người này đến để gọi ngươi, hãy đứng dậy, đi ⟨את⟩ với ⟨אתם⟩ họ; nhưng chỉ ⟨את⟩ điều mà ta sẽ phán với ngươi — ⟨את⟩ ⟨אתו⟩ điều đó ngươi hãy làm.",
+  "translation": "Và Elohim đến với Bilam trong đêm, và nói với ông: Nếu những người ấy đến để gọi ngươi, hãy đứng dậy, đi cùng ⟨את⟩ họ; nhưng ⟨את⟩ lời mà ta sẽ phán cùng ngươi — điều đó, ngươi hãy làm.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "và Ngài đến"
+      "gloss": "và đã đến"
     },
     {
       "surface": "אלהים",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "cùng"
+      "gloss": "đến với"
     },
     {
       "surface": "בלעם",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "và Ngài nói"
+      "gloss": "và nói"
     },
     {
       "surface": "לו",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "האנשים",
-      "gloss": "những người"
+      "gloss": "những người ấy"
     },
     {
       "surface": "קום",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ với ⟨אתם⟩"
+      "gloss": "cùng ⟨את⟩ họ"
     },
     {
       "surface": "ואך",
@@ -74,11 +74,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "điều mà ta sẽ phán"
+      "marks": "lời"
     },
     {
       "surface": "הדבר",
-      "gloss": "điều"
+      "gloss": "lời"
     },
     {
       "surface": "אשר",
@@ -90,11 +90,11 @@
     },
     {
       "surface": "אליך",
-      "gloss": "với ngươi"
+      "gloss": "cùng ngươi"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "gloss": "⟨את⟩",
       "marks": "điều đó"
     },
     {
@@ -102,6 +102,6 @@
       "gloss": "ngươi hãy làm"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.047569996Z",
+  "timestamp": "2026-08-24T16:07:03.572062033Z",
   "model": "glm-5.3"
 }

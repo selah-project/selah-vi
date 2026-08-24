@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "vi",
   "chapter": 33,
-  "translation": "Và các ngươi nói: Đường lối của Adonai không được cân bằng. Ta sẽ phán xét từng người theo đường lối của mình, ⟨את⟩ ⟨אתכם⟩ hỡi nhà Israel.",
+  "translation": "Và các ngươi nói: Đường lối của Adonai ⟨không⟩ được cân đo. Mỗi người theo đường lối của mình, Ta sẽ phán xét ⟨את⟩ các ngươi, hỡi nhà Yisra'el.",
   "tokens": [
     {
       "surface": "ואמרתם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "יתכן",
-      "gloss": "được cân bằng"
+      "gloss": "được cân đo"
     },
     {
       "surface": "דרך",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "từng người"
+      "gloss": "mỗi người"
     },
     {
       "surface": "כדרכיו",
@@ -41,8 +41,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "hỡi nhà Israel"
+      "gloss": "⟨את⟩",
+      "marks": "các ngươi"
     },
     {
       "surface": "בית",
@@ -50,9 +50,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israel"
+      "gloss": "Yisra'el"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.024831955Z",
+  "timestamp": "2026-08-24T16:17:22.493048731Z",
   "model": "glm-5.3"
 }

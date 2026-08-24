@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "vi",
   "chapter": 23,
-  "translation": "Và họ đem ra ⟨את⟩ con trai của vua, đặt lên trên người ấy ⟨את⟩ vương miện và ⟨את⟩ sự chứng, làm cho ông làm vua; Yehoyada và các con trai ông xức dầu cho ông, và họ nói: Vua muôn năm!",
+  "translation": "Rồi họ đưa ra ⟨את⟩ con trai của vua, đặt lên ngài ⟨את⟩ vương miện và ⟨את⟩ biểu chứng, làm ngài lên vua; và Yehoyada cùng các con trai ông xức dầu cho ngài, và họ nói: Vua sống lâu!",
   "tokens": [
     {
       "surface": "ויוציאו",
-      "gloss": "và họ đem ra"
+      "gloss": "họ đưa ra"
     },
     {
       "surface": "את",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "עליו",
-      "gloss": "trên người ấy"
+      "gloss": "lên ngài"
     },
     {
       "surface": "את",
@@ -43,25 +43,25 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ ⟨và את⟩",
-      "marks": "sự chứng"
+      "gloss": "và ⟨את⟩",
+      "marks": "biểu chứng"
     },
     {
       "surface": "העדות",
-      "gloss": "sự chứng"
+      "gloss": "biểu chứng"
     },
     {
       "surface": "וימליכו",
-      "gloss": "và làm cho làm vua"
+      "gloss": "và làm lên vua"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "làm vua"
+      "gloss": "⟨את⟩ ngài",
+      "marks": "ngài"
     },
     {
       "surface": "וימשחהו",
-      "gloss": "và xức dầu cho ông"
+      "gloss": "và xức dầu cho ngài"
     },
     {
       "surface": "יהוידע",
@@ -77,13 +77,13 @@
     },
     {
       "surface": "יחי",
-      "gloss": "muôn năm"
+      "gloss": "sống lâu"
     },
     {
       "surface": "המלך",
       "gloss": "vua"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.007230657Z",
+  "timestamp": "2026-08-24T16:25:43.813229483Z",
   "model": "glm-5.3"
 }

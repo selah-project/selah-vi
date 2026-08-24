@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 19,
-  "translation": "Và mọi器皿 để mở, không có nắp đậy buộc chặt trên nó, thì nó ô uế.",
+  "translation": "Và mọi vật dụng mở, vốn không có nắp buộc chặt bằng dây trên nó, thì nó ô uế.",
   "tokens": [
     {
       "surface": "וכל",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "כלי",
-      "gloss": "器皿 \/ đồ đựng"
+      "gloss": "vật dụng"
     },
     {
       "surface": "פתוח",
-      "gloss": "để mở"
+      "gloss": "mở"
     },
     {
       "surface": "אשר",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "צמיד",
-      "gloss": "nắp đậy"
+      "gloss": "nắp đậy khít"
     },
     {
       "surface": "פתיל",
-      "gloss": "buộc bằng dây"
+      "gloss": "dây buộc"
     },
     {
       "surface": "עליו",
@@ -48,6 +48,6 @@
       "gloss": "nó"
     }
   ],
-  "timestamp": "2026-08-19T02:59:29.541884784Z",
+  "timestamp": "2026-08-24T16:06:40.834551337Z",
   "model": "glm-5.3"
 }

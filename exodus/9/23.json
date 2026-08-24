@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 9,
-  "translation": "Moshe giơ ⟨את】 gậy mình lên trên các tầng trời; và Yahweh ban tiếng sấm và mưa đá, và lửa chạy khắp mặt đất; Yahweh mưa xuống mưa đá trên xứ Mitsrayim.",
+  "translation": "Và Moshe vung ⟨את⟩ cây gậy của mình về phía các tầng trời, và Yahweh ban tiếng sấm và mưa đá, và lửa chạy dọc trên đất; và Yahweh đổ mưa đá xuống trên đất Mitzrayim.",
   "tokens": [
     {
       "surface": "ויט",
-      "gloss": "giơ"
+      "gloss": "và vung"
     },
     {
       "surface": "משה",
@@ -18,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "gậy mình"
+      "marks": "cây gậy của mình"
     },
     {
       "surface": "מטהו",
-      "gloss": "gậy mình"
+      "gloss": "cây gậy của mình"
     },
     {
       "surface": "על",
-      "gloss": "lên trên"
+      "gloss": "về phía"
     },
     {
       "surface": "השמים",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "ותהלך",
-      "gloss": "và chạy khắp"
+      "gloss": "và chạy dọc"
     },
     {
       "surface": "אש",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "ארצה",
-      "gloss": "mặt đất"
+      "gloss": "trên đất"
     },
     {
       "surface": "וימטר",
-      "gloss": "và mưa xuống"
+      "gloss": "và đổ xuống như mưa"
     },
     {
       "surface": "יהוה",
@@ -78,13 +78,13 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "xứ"
+      "gloss": "đất"
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsrayim"
+      "gloss": "Mitzrayim"
     }
   ],
-  "timestamp": "2026-08-19T02:29:44.400521052Z",
+  "timestamp": "2026-08-24T16:03:09.431950166Z",
   "model": "glm-5.3"
 }

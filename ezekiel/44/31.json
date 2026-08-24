@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "vi",
   "chapter": 44,
-  "translation": "Mọi xác chết tự身亡 và con vật bị xé — từ chim và từ thú — các thầy tế lễ sẽ không ăn.",
+  "translation": "Mọi xác chết ⟨và⟩ xác bị xé, từ chim ⟨và⟩ từ súc vật, các thầy tế lễ sẽ không ăn.",
   "tokens": [
     {
       "surface": "כל",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "נבלה",
-      "gloss": "xác chết tự身亡"
+      "gloss": "xác chết tự nhiên"
     },
     {
       "surface": "וטרפה",
-      "gloss": "và con vật bị xé"
+      "gloss": "và xác bị xé"
     },
     {
       "surface": "מן",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הבהמה",
-      "gloss": "thú"
+      "gloss": "súc vật"
     },
     {
       "surface": "לא",
@@ -48,6 +48,6 @@
       "gloss": "các thầy tế lễ"
     }
   ],
-  "timestamp": "2026-08-19T04:42:44.541264018Z",
+  "timestamp": "2026-08-24T16:18:49.448129507Z",
   "model": "glm-5.3"
 }

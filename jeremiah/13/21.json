@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "vi",
   "chapter": 13,
-  "translation": "Ngươi sẽ nói gì khi ⟨hắn⟩ hạ xuống trên ngươi những kẻ ngươi đã dạy đóng vai chủ đầu trên ngươi? Cơn đau đớn难道 không nắm bắt ngươi như người đàn bà lúc lâm bồn sao?",
+  "translation": "Ngươi sẽ nói gì khi ⟨hắn⟩噬 ghé thăm phạt ngươi? Vì chính ngươi đã dạy ⟨את⟩ chúng nó chống lại ngươi — những thủ lĩnh đứng trên đầu ngươi. Phải chăng những cơn đau đớn sẽ nắm bắt ngươi, như người phụ nữ chuyển dạ?",
   "tokens": [
     {
       "surface": "מה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "יפקד",
-      "gloss": "hắn hạ xuống"
+      "gloss": "ghé thăm phạt"
     },
     {
       "surface": "עליך",
@@ -29,36 +29,36 @@
     },
     {
       "surface": "ואת",
-      "gloss": "và ⟨ngươi⟩"
+      "gloss": "và ngươi"
     },
     {
       "surface": "למדת",
-      "gloss": "ngươi đã dạy"
+      "gloss": "đã dạy"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "trên ngươi"
+      "marks": "chúng nó (những thủ lĩnh)"
     },
     {
       "surface": "עליך",
-      "gloss": "trên ngươi"
+      "gloss": "chống lại ngươi"
     },
     {
       "surface": "אלפים",
-      "gloss": "những kẻ làm đầu"
+      "gloss": "những thủ lĩnh"
     },
     {
       "surface": "לראש",
-      "gloss": "làm đầu"
+      "gloss": "trên đầu"
     },
     {
       "surface": "הלוא",
-      "gloss": "phải chăng"
+      "gloss": "phải chăng không"
     },
     {
       "surface": "חבלים",
-      "gloss": "cơn đau đớn"
+      "gloss": "những cơn đau đớn"
     },
     {
       "surface": "יאחזוך",
@@ -70,13 +70,13 @@
     },
     {
       "surface": "אשת",
-      "gloss": "người đàn bà của"
+      "gloss": "người phụ nữ"
     },
     {
       "surface": "לדה",
-      "gloss": "lúc lâm bồn"
+      "gloss": "chuyển dạ"
     }
   ],
-  "timestamp": "2026-08-19T04:20:16.919923169Z",
+  "timestamp": "2026-08-24T16:15:22.327004415Z",
   "model": "glm-5.3"
 }

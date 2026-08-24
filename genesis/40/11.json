@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 40,
-  "translation": "Chén của Pharaoh trong tay tôi; tôi lấy ⟨את⟩ những trái nho và vắt ⟨את⟩ ⟨אתם⟩ chúng vào chén của Pharaoh, rồi đặt ⟨את⟩ chén lên lòng bàn tay của Pharaoh.",
+  "translation": "Và chén của Paroh ⟨was⟩ trong tay tôi; tôi lấy ⟨את⟩ những chùm nho, tôi vắt chúng (⟨אתם⟩) vào chén của Paroh, và tôi đặt ⟨את⟩ chiếc chén lên lòng bàn tay của Paroh.",
   "tokens": [
     {
       "surface": "וכוס",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "Pharaoh"
+      "gloss": "Paroh"
     },
     {
       "surface": "בידי",
@@ -26,20 +26,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "những trái nho"
+      "marks": "những chùm nho"
     },
     {
       "surface": "הענבים",
-      "gloss": "những trái nho"
+      "gloss": "những chùm nho"
     },
     {
       "surface": "ואשחט",
-      "gloss": "và vắt"
+      "gloss": "và tôi vắt"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "chúng (những trái nho)"
+      "gloss": "⟨את⟩-chúng",
+      "marks": "chúng (những chùm nho)"
     },
     {
       "surface": "אל",
@@ -51,7 +51,7 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "Pharaoh"
+      "gloss": "Paroh"
     },
     {
       "surface": "ואתן",
@@ -60,11 +60,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "chén"
+      "marks": "chiếc chén"
     },
     {
       "surface": "הכוס",
-      "gloss": "chén"
+      "gloss": "chiếc chén"
     },
     {
       "surface": "על",
@@ -76,9 +76,9 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "Pharaoh"
+      "gloss": "Paroh"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.948086067Z",
+  "timestamp": "2026-08-24T16:03:00.397568591Z",
   "model": "glm-5.3"
 }

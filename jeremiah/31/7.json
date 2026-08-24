@@ -5,19 +5,19 @@
   "book": "jeremiah",
   "lang": "vi",
   "chapter": 31,
-  "translation": "Vì Yahweh phán như vầy: Hãy hát欢呼 cho Yaakov với niềm vui, và hãy reo hò nơi đầu các dân tộc; hãy cho vang vọng, hãy ngợi khen, và hãy nói: Yahweh ơi, xin cứu ⟨את⟩ dân Ngài, ⟨את⟩ phần sót lại của Yisrael!",
+  "translation": "Vì như vậy Yahweh đã phán: Hãy reo vui cho Yaakov, hãy nhảy múa vui mừng ở đầu các dân tộc; hãy loan báo, hãy ngợi khen, và hãy nói: Yahweh ơi, xin cứu ⟨את⟩ dân ngươi, ⟨את⟩ số còn sót của Yisrael!",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "vì"
+      "gloss": "Vì"
     },
     {
       "surface": "כה",
-      "gloss": "như vầy"
+      "gloss": "như vậy"
     },
     {
       "surface": "אמר",
-      "gloss": "phán"
+      "gloss": "đã phán"
     },
     {
       "surface": "יהוה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "רנו",
-      "gloss": "hãy hát reo"
+      "gloss": "hãy reo vui"
     },
     {
       "surface": "ליעקב",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "שמחה",
-      "gloss": "với niềm vui"
+      "gloss": "vui mừng"
     },
     {
       "surface": "וצהלו",
-      "gloss": "và hãy reo hò"
+      "gloss": "và hãy nhảy múa reo hò"
     },
     {
       "surface": "בראש",
-      "gloss": "nơi đầu"
+      "gloss": "ở đầu"
     },
     {
       "surface": "הגוים",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "השמיעו",
-      "gloss": "hãy cho vang vọng"
+      "gloss": "hãy loan báo"
     },
     {
       "surface": "הללו",
@@ -70,26 +70,26 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dân Ngài"
+      "marks": "dân ngươi"
     },
     {
       "surface": "עמך",
-      "gloss": "dân Ngài"
+      "gloss": "dân ngươi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "phần sót lại của Yisrael"
+      "marks": "số còn sót của Yisrael"
     },
     {
       "surface": "שארית",
-      "gloss": "phần sót lại"
+      "gloss": "số còn sót"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "của Yisrael"
     }
   ],
-  "timestamp": "2026-08-19T04:24:34.685727428Z",
+  "timestamp": "2026-08-24T16:16:12.226972404Z",
   "model": "glm-5.3"
 }

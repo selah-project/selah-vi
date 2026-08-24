@@ -5,15 +5,15 @@
   "book": "2-samuel",
   "lang": "vi",
   "chapter": 17,
-  "translation": "Và Yehonatan và Achi-má-át đứng tại En-Rogel, và nữ tỳ đi lại và báo cho họ, và họ đi và báo cho vua David, vì họ không thể được thấy khi vào ⟨the⟩ thành.",
+  "translation": "Còn Yehonatan và Achimaatsh đứng tại En-Rogel; nàng hầu gái đi và báo cho họ, rồi họ đi và báo cho vua David, vì họ không thể để bị thấy khi vào ⟨⟨the⟩⟩ thành.",
   "tokens": [
     {
       "surface": "ויהונתן",
-      "gloss": "và Yehonatan"
+      "gloss": "Còn Yehonatan"
     },
     {
       "surface": "ואחימעץ",
-      "gloss": "và Achi-má-át"
+      "gloss": "và Achimaatsh"
     },
     {
       "surface": "עמדים",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "בעין",
-      "gloss": "tại En"
+      "gloss": "tại En-"
     },
     {
       "surface": "רגל",
-      "gloss": "-Rogel"
+      "gloss": "Rogel"
     },
     {
       "surface": "והלכה",
-      "gloss": "và đi lại"
+      "gloss": "và đi"
     },
     {
       "surface": "השפחה",
-      "gloss": "nữ tỳ"
+      "gloss": "nàng hầu gái"
     },
     {
       "surface": "והגידה",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "להראות",
-      "gloss": "được thấy"
+      "gloss": "bị thấy"
     },
     {
       "surface": "לבוא",
@@ -88,6 +88,6 @@
       "gloss": "thành"
     }
   ],
-  "timestamp": "2026-08-19T03:43:42.043554096Z",
+  "timestamp": "2026-08-24T16:11:37.542638559Z",
   "model": "glm-5.3"
 }

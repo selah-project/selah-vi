@@ -5,8 +5,73 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 19,
-  "translation": "Hai sứ giả đến Sedom lúc buổi chiều, và Lot đang ngồi tại cổng Sedom; Lot thấy他们就",
-  "tokens": [],
-  "timestamp": "2026-08-19T01:01:30.655874551Z",
+  "translation": "Hai vị thiên sứ đến Sedom lúc chiều tối, còn Lot đang ngồi tại cổng Sedom; Lot thấy và đứng dậy để đón tiếp các ngài, và cúi mặt xuống đất.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "đến"
+    },
+    {
+      "surface": "שני",
+      "gloss": "hai"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "vị thiên sứ"
+    },
+    {
+      "surface": "סדמה",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "lúc chiều tối"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "còn Lot"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ngồi"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "tại cổng"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "thấy"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "và đứng dậy"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "để đón tiếp các ngài"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "và cúi xuống lạy"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "mặt"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "xuống đất"
+    }
+  ],
+  "timestamp": "2026-08-24T16:01:49.985924108Z",
   "model": "glm-5.3"
 }

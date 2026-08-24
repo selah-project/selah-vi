@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "vi",
   "chapter": 26,
-  "translation": "Uziyahu nằm xuống cùng tổ phụ mình, và họ chôn ⟨את⟩ ⟨אתו⟩ người cùng tổ phụ mình trong sân chôn cất thuộc về các vua, vì họ nói: Người là phóng củi; và Yotam con trai người trị vì thay người.",
+  "translation": "Uziyahu nằm xuống cùng các tổ phụ mình, và người ta chôn ⟨את⟩ ông cùng các tổ phụ mình, trong sân mộ belonging ⟨את⟩ các vua, vì họ nói: Ông là người bị phong. Con trai ông là Yotam trị vì thay ông.",
   "tokens": [
     {
       "surface": "וישכב",
-      "gloss": "và nằm xuống"
+      "gloss": "nằm xuống"
     },
     {
       "surface": "עזיהו",
@@ -21,16 +21,16 @@
     },
     {
       "surface": "אבתיו",
-      "gloss": "tổ phụ mình"
+      "gloss": "các tổ phụ mình"
     },
     {
       "surface": "ויקברו",
-      "gloss": "và họ chôn"
+      "gloss": "và người ta chôn"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "người"
+      "gloss": "⟨את⟩",
+      "marks": "ông (Uziyahu)"
     },
     {
       "surface": "עם",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "אבתיו",
-      "gloss": "tổ phụ mình"
+      "gloss": "các tổ phụ mình"
     },
     {
       "surface": "בשדה",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "הקבורה",
-      "gloss": "chôn cất"
+      "gloss": "mộ"
     },
     {
       "surface": "אשר",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "מצורע",
-      "gloss": "phóng củi"
+      "gloss": "người bị phong"
     },
     {
       "surface": "הוא",
-      "gloss": "người là"
+      "gloss": "ông là"
     },
     {
       "surface": "וימלך",
@@ -82,13 +82,13 @@
     },
     {
       "surface": "בנו",
-      "gloss": "con trai người"
+      "gloss": "con trai ông"
     },
     {
       "surface": "תחתיו",
-      "gloss": "thay người"
+      "gloss": "thay ông"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.005984652Z",
+  "timestamp": "2026-08-24T16:25:42.807202257Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "vi",
   "chapter": 31,
-  "translation": "Và Yahweh sẽ làm với chúng như Ngài đã làm với Sichon và với Og, các vua của HaEmori, và với đất của chúng — những kẻ mà Ngài đã hủy diệt ⟨את⟩ ⟨אתם⟩.",
+  "translation": "Và Yahweh sẽ làm cho họ như Ngài đã làm cho Sichon và Og, các vua của người Emori, và cho đất của họ, là kẻ mà Ngài đã hủy diệt ⟨את⟩ họ.",
   "tokens": [
     {
       "surface": "ועשה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "להם",
-      "gloss": "với chúng"
+      "gloss": "cho họ"
     },
     {
       "surface": "כאשר",
@@ -29,27 +29,27 @@
     },
     {
       "surface": "לסיחון",
-      "gloss": "với Sichon"
+      "gloss": "cho Sichon"
     },
     {
       "surface": "ולעוג",
-      "gloss": "và với Og"
+      "gloss": "và cho Og"
     },
     {
       "surface": "מלכי",
-      "gloss": "các vua của"
+      "gloss": "các vua"
     },
     {
       "surface": "האמרי",
-      "gloss": "HaEmori"
+      "gloss": "của người Emori"
     },
     {
       "surface": "ולארצם",
-      "gloss": "và với đất của chúng"
+      "gloss": "và cho đất của họ"
     },
     {
       "surface": "אשר",
-      "gloss": "mà"
+      "gloss": "là kẻ mà"
     },
     {
       "surface": "השמיד",
@@ -57,10 +57,10 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "chúng (Sichon và Og)"
+      "gloss": "⟨את⟩",
+      "marks": "họ"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.023201685Z",
+  "timestamp": "2026-08-24T16:08:37.934973635Z",
   "model": "glm-5.3"
 }

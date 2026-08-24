@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "vi",
   "chapter": 12,
-  "translation": "Và giờ đây, này, ⟨⟩vua đang đi trước mặt các ông, còn tôi đã già và tóc đã bạc, và các con trai tôi, kìa, ⟨את⟩ chúng ở với các ông; còn tôi đã đi trước mặt các ông từ thuở niên thiếu cho đến ngày nay.",
+  "translation": "Và giờ đây, này, vua đi trước mặt các ngươi, còn ta đã già ⟨và bạc⟩ đầu; và này, các con trai ta ⟨vậy⟩ ở với ⟨את⟩ các ngươi; còn ta đã đi trước mặt các ngươi từ thuở ấu thơ cho đến ngày nay.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -17,56 +17,56 @@
     },
     {
       "surface": "המלך",
-      "gloss": "⟨the⟩ vua"
+      "gloss": "vua"
     },
     {
       "surface": "מתהלך",
-      "gloss": "đang đi"
+      "gloss": "đi (làm chủ)"
     },
     {
       "surface": "לפניכם",
-      "gloss": "trước mặt các ông"
+      "gloss": "trước mặt các ngươi"
     },
     {
       "surface": "ואני",
-      "gloss": "và tôi"
+      "gloss": "còn ta"
     },
     {
       "surface": "זקנתי",
-      "gloss": "đã già"
+      "gloss": "ta đã già"
     },
     {
       "surface": "ושבתי",
-      "gloss": "và đã bạc tóc"
+      "gloss": "và bạc đầu"
     },
     {
       "surface": "ובני",
-      "gloss": "và các con trai tôi"
+      "gloss": "và các con trai ta"
     },
     {
       "surface": "הנם",
-      "gloss": "kìa"
+      "gloss": "này"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "ở với các ông"
+      "marks": "các ngươi"
     },
     {
       "surface": "ואני",
-      "gloss": "còn tôi"
+      "gloss": "còn ta"
     },
     {
       "surface": "התהלכתי",
-      "gloss": "đã đi"
+      "gloss": "ta đã đi"
     },
     {
       "surface": "לפניכם",
-      "gloss": "trước mặt các ông"
+      "gloss": "trước mặt các ngươi"
     },
     {
       "surface": "מנערי",
-      "gloss": "từ thuở niên thiếu của tôi"
+      "gloss": "từ thuở ấu thơ ta"
     },
     {
       "surface": "עד",
@@ -81,6 +81,6 @@
       "gloss": "này"
     }
   ],
-  "timestamp": "2026-08-19T03:32:36.192288179Z",
+  "timestamp": "2026-08-24T16:10:12.657491418Z",
   "model": "glm-5.3"
 }

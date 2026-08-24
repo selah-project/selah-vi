@@ -5,11 +5,11 @@
   "book": "proverbs",
   "lang": "vi",
   "chapter": 22,
-  "translation": "Kẻ khôn khéo thấy ⟨⟨sự⟩⟩ hiểm họa và ẩn mình; còn những kẻ ngây thơ đi qua và bị phạt.",
+  "translation": "Kẻ khôn ngoan thấy điều ác và ẩn mình, nhưng kẻ ngây thơ đi qua và bị phạt.",
   "tokens": [
     {
       "surface": "ערום",
-      "gloss": "kẻ khôn khéo"
+      "gloss": "kẻ khôn ngoan"
     },
     {
       "surface": "ראה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "רעה",
-      "gloss": " hiểm họa"
+      "gloss": "điều ác"
     },
     {
       "surface": "ויסתר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ופתיים",
-      "gloss": "còn những kẻ ngây thơ"
+      "gloss": "còn kẻ ngây thơ"
     },
     {
       "surface": "עברו",
@@ -36,6 +36,6 @@
       "gloss": "và bị phạt"
     }
   ],
-  "timestamp": "2026-08-19T06:19:41.311858683Z",
+  "timestamp": "2026-08-24T16:22:08.124635312Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "vi",
   "chapter": 16,
-  "translation": "Và ngài đi trong đường lối của các vua Yisra'el, và cả ⟨את⟩ con trai của ngài cũng khiến đi qua trong lửa, theo các điều gớm ghiêc của các dân tộc mà Yahweh đã đuổi họ ra khỏi trước mặt con cái Yisra'el.",
+  "translation": "Và y đi trong đường lối của các vua Yisra'el, và cả ⟨את⟩ con trai y nữa, y đã cho đi qua trong lửa, theo các điều gớm ghiêc của các dân tộc mà Yahweh đã đuổi họ ra khỏi mặt con cái Yisra'el.",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "và đi"
+      "gloss": "và y đi"
     },
     {
       "surface": "בדרך",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "מלכי",
-      "gloss": "các vua của"
+      "gloss": "của các vua"
     },
     {
       "surface": "ישראל",
@@ -30,15 +30,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "con trai của ngài"
+      "marks": "con trai y"
     },
     {
       "surface": "בנו",
-      "gloss": "con trai của ngài"
+      "gloss": "con trai y"
     },
     {
       "surface": "העביר",
-      "gloss": "khởi đi qua"
+      "gloss": "y đã cho đi qua"
     },
     {
       "surface": "באש",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "הגוים",
-      "gloss": "các dân tộc"
+      "gloss": "của các dân tộc"
     },
     {
       "surface": "אשר",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "הוריש",
-      "gloss": "đã đuổi ra"
+      "gloss": "đã đuổi ra \/ truất quyền"
     },
     {
       "surface": "יהוה",
@@ -66,21 +66,22 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ họ (⟨אתם⟩)"
+      "gloss": "⟨את⟩ họ",
+      "marks": "các dân tộc đó"
     },
     {
       "surface": "מפני",
-      "gloss": "khỏi trước mặt"
+      "gloss": "khỏi mặt"
     },
     {
       "surface": "בני",
-      "gloss": "con cái của"
+      "gloss": "con cái"
     },
     {
       "surface": "ישראל",
       "gloss": "Yisra'el"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.031199854Z",
+  "timestamp": "2026-08-24T16:13:19.474796730Z",
   "model": "glm-5.3"
 }

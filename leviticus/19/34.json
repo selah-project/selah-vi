@@ -5,15 +5,15 @@
   "book": "leviticus",
   "lang": "vi",
   "chapter": 19,
-  "translation": "Như dân bản xứ giữa các ngươi, khách ngoại kiều — kẻ cư ngụ ⟨את⟩ ⟨אתכם⟩ với các ngươi — sẽ như vậy cho các ngươi; và ngươi hãy yêu hắn như chính ngươi, vì các ngươi đã là khách ngoại kiều trong đất Mitsrayim; ta là Yahweh Elohim các ngươi.",
+  "translation": "Như người bản xứ giữa các ngươi, người khách ngoại ấy sẽ là ⟨the⟩ đối với các ngươi — khách ngoại đang ngụ ⟨את⟩ với các ngươi; và ngươi phải yêu người như chính mình, vì các ngươi đã là khách ngoại trong đất Mitsrayim; ta ⟨là⟩ Yahweh Elohim của các ngươi.",
   "tokens": [
     {
       "surface": "כאזרח",
-      "gloss": "như dân bản xứ"
+      "gloss": "như người bản xứ"
     },
     {
       "surface": "מכם",
-      "gloss": "giữa các ngươi"
+      "gloss": "từ-giữa các ngươi"
     },
     {
       "surface": "יהיה",
@@ -25,24 +25,23 @@
     },
     {
       "surface": "הגר",
-      "gloss": "khách ngoại kiều"
+      "gloss": "người khách ngoại ấy"
     },
     {
       "surface": "הגר",
-      "gloss": "kẻ cư ngụ"
+      "gloss": "đang-ngụ-ngoại-cư"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "với các ngươi"
+      "gloss": "⟨את⟩ với các ngươi"
     },
     {
       "surface": "ואהבת",
-      "gloss": "và ngươi hãy yêu"
+      "gloss": "và ngươi sẽ yêu"
     },
     {
       "surface": "לו",
-      "gloss": "cho hắn"
+      "gloss": "cho người"
     },
     {
       "surface": "כמוך",
@@ -54,7 +53,7 @@
     },
     {
       "surface": "גרים",
-      "gloss": "khách ngoại kiều"
+      "gloss": "khách ngoại"
     },
     {
       "surface": "הייתם",
@@ -78,9 +77,9 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elohim các ngươi"
+      "gloss": "Elohim-của-các-ngươi"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.037533927Z",
+  "timestamp": "2026-08-24T16:06:18.889729037Z",
   "model": "glm-5.3"
 }

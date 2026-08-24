@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "vi",
   "chapter": 24,
-  "translation": "David nói cùng Yahweh khi ông thấy ⟨את⟩ thiên sứ đang đánh dân sự; ông nói: Này, tôi đã phạm tội, và tôi đã làm điều vạy-vо́; còn chiên này, chúng đã làm gì? Xin tay Ngài hãy đặt trên tôi và trên nhà cha tôi.",
+  "translation": "Và David nói với Yahweh, khi ông thấy ⟨את⟩ thiên sứ đang đánh dân sự, và nói: Này, chính tôi đã phạm tội, và chính tôi đã làm điều quanh co; còn những con chiên này đã làm gì? Xin hãy để tay ngài ⟨hướng⟩ vào tôi và vào nhà cha tôi.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "cùng"
+      "gloss": "với"
     },
     {
       "surface": "יהוה",
@@ -54,19 +54,19 @@
     },
     {
       "surface": "אנכי",
-      "gloss": "tôi"
+      "gloss": "chính tôi"
     },
     {
       "surface": "חטאתי",
       "gloss": "đã phạm tội"
     },
     {
-      "surface": "ואנכי",
-      "gloss": "và tôi"
+      "surface": "ו אנכי",
+      "gloss": "và chính tôi"
     },
     {
       "surface": "העויתי",
-      "gloss": "đã làm điều vạy-vо́"
+      "gloss": "đã làm điều quanh co"
     },
     {
       "surface": "ואלה",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "הצאן",
-      "gloss": "chiên này"
+      "gloss": "con chiên này"
     },
     {
       "surface": "מה",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "תהי",
-      "gloss": "hãy là"
+      "gloss": "hãy để"
     },
     {
       "surface": "נא",
@@ -94,21 +94,21 @@
     },
     {
       "surface": "ידך",
-      "gloss": "tay Ngài"
+      "gloss": "tay ngài"
     },
     {
       "surface": "בי",
-      "gloss": "trên tôi"
+      "gloss": "vào tôi"
     },
     {
       "surface": "ובבית",
-      "gloss": "và trên nhà"
+      "gloss": "và vào nhà"
     },
     {
       "surface": "אבי",
       "gloss": "cha tôi"
     }
   ],
-  "timestamp": "2026-08-19T03:46:32.333461772Z",
+  "timestamp": "2026-08-24T16:11:43.128209300Z",
   "model": "glm-5.3"
 }

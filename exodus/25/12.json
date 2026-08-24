@@ -5,8 +5,85 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 25,
-  "translation": "Và ngươi hãy đúc cho nó bốn khoen vàng, và đặt trên bốn chân của nó; hai khoen bên sườn thứ nhất của nó, và hai khoen bên sườn thứ hai của nó.",
-  "tokens": [],
-  "timestamp": "2026-08-19T02:34:07.510562279Z",
+  "translation": "Và ngươi phải đúc cho nó bốn vòng vàng, và ngươi phải đặt trên bốn chân của nó; và hai vòng trên hông bên nhất của nó, và hai vòng trên hông thứ nhì của nó.",
+  "tokens": [
+    {
+      "surface": "ויצקת",
+      "gloss": "và ngươi phải đúc"
+    },
+    {
+      "surface": "לו",
+      "gloss": "cho nó"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "bốn"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "vòng"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bằng vàng"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "và ngươi phải đặt"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "bốn"
+    },
+    {
+      "surface": "פעמתיו",
+      "gloss": "chân của nó"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "và hai"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "vòng"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "צלעו",
+      "gloss": "hông bên của nó"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "bên nhất"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "và hai"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "vòng"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "צלעו",
+      "gloss": "hông bên của nó"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "thứ nhì"
+    }
+  ],
+  "timestamp": "2026-08-24T16:04:22.013728836Z",
   "model": "glm-5.3"
 }

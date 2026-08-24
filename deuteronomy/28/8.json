@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "vi",
   "chapter": 28,
-  "translation": "Yahweh sẽ truyền phước ⟨את⟩ cùng ngươi ⟨⟨vào⟩⟩ ⟨את⟩ sự phước lành trong kho lẫm của ngươi, và trong mọi việc tay ngươi đưa ra; và Ngài sẽ ban phước cho ngươi trong đất mà Yahweh Elohim của ngươi ban cho ngươi.",
+  "translation": "Yahweh sẽ truyền lệnh ⟨את⟩ phước lành ⟨את⟩ cùng ngươi, trong kho lương của ngươi và trong mọi việc tay ngươi đưa ra; và Ngài sẽ ban phước cho ngươi trong đất mà Yahweh Elohim của ngươi ban cho ngươi.",
   "tokens": [
     {
       "surface": "יצו",
-      "gloss": "sẽ truyền"
+      "gloss": "sẽ truyền lệnh"
     },
     {
       "surface": "יהוה",
@@ -17,20 +17,21 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ cùng ngươi"
+      "gloss": "⟨את⟩ cùng ngươi",
+      "marks": "cùng ngươi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sự phước lành"
+      "marks": "phước lành"
     },
     {
       "surface": "הברכה",
-      "gloss": "sự phước lành"
+      "gloss": "phước lành"
     },
     {
       "surface": "באסמיך",
-      "gloss": "trong kho lẫm của ngươi"
+      "gloss": "trong kho lương của ngươi"
     },
     {
       "surface": "ובכל",
@@ -73,6 +74,6 @@
       "gloss": "cho ngươi"
     }
   ],
-  "timestamp": "2026-08-19T03:12:27.015579970Z",
+  "timestamp": "2026-08-24T16:08:39.144719917Z",
   "model": "glm-5.3"
 }

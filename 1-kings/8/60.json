@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "vi",
   "chapter": 8,
-  "translation": "để cho mọi dân của ⟨⟨⟩⟩ đất biết rằng Yahweh, chính Ngài là ⟨⟨⟩⟩ Elohim — không còn ai khác.",
+  "translation": "để mọi dân trên đất biết rằng Yahweh, chính Ngài ⟨là⟩ Elohim, không có ⟨đấng⟩ nào khác.",
   "tokens": [
     {
       "surface": "למען",
-      "gloss": "để cho"
+      "gloss": "để"
     },
     {
       "surface": "דעת",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "עמי",
-      "gloss": "dân của"
+      "gloss": "dân"
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ đất"
+      "gloss": "trên đất"
     },
     {
       "surface": "כי",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "⟨the⟩ Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "אין",
@@ -52,6 +52,6 @@
       "gloss": "nào khác"
     }
   ],
-  "timestamp": "2026-08-19T03:49:34.426079074Z",
+  "timestamp": "2026-08-24T16:12:11.182853912Z",
   "model": "glm-5.3"
 }

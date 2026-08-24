@@ -5,19 +5,19 @@
   "book": "1-kings",
   "lang": "vi",
   "chapter": 7,
-  "translation": "Và các núm tròn ở dưới mép nó, bao ⟨את⟩ ⟨את nó⟩ quanh, mười trong một ammah, vây quanh ⟨את⟩ Biển ăn khắp vòng; các núm ấy đặt thành hai hàng, được đúc cùng lúc khi đúc nó.",
+  "translation": "Và các nụ chạm bên dưới mép của nó, quanh hết thảy, vây quanh ⟨את⟩ nó mười ammah, ôm quanh ⟨את⟩ Biển vòng quanh; các nụ chạm được đúc thành hai hàng trong lúc đúc nó.",
   "tokens": [
     {
       "surface": "ופקעים",
-      "gloss": "và các núm tròn"
+      "gloss": "và các nụ chạm"
     },
     {
       "surface": "מתחת",
-      "gloss": "ở dưới"
+      "gloss": "bên dưới"
     },
     {
       "surface": "לשפתו",
-      "gloss": "mép nó"
+      "gloss": "mép của nó"
     },
     {
       "surface": "סביב",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "סבבים",
-      "gloss": "bao quanh"
+      "gloss": "vây quanh"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨את nó⟩",
+      "gloss": "⟨את⟩",
       "marks": "nó"
     },
     {
@@ -38,20 +38,20 @@
     },
     {
       "surface": "באמה",
-      "gloss": "trong một ammah"
+      "gloss": "ammah"
     },
     {
       "surface": "מקפים",
-      "gloss": "vây quanh"
+      "gloss": "ôm quanh"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Biển ăn"
+      "marks": "Biển"
     },
     {
       "surface": "הים",
-      "gloss": "Biển ăn"
+      "gloss": "Biển"
     },
     {
       "surface": "סביב",
@@ -67,17 +67,17 @@
     },
     {
       "surface": "הפקעים",
-      "gloss": "các núm"
+      "gloss": "các nụ chạm"
     },
     {
       "surface": "יצקים",
-      "gloss": "đúc"
+      "gloss": "được đúc"
     },
     {
       "surface": "ביצקתו",
-      "gloss": "khi đúc nó"
+      "gloss": "trong lúc đúc nó"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.055163420Z",
+  "timestamp": "2026-08-24T16:12:07.012120994Z",
   "model": "glm-5.3"
 }

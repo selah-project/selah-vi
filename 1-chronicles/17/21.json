@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "vi",
   "chapter": 17,
-  "translation": "Và ai ⟨là⟩ như dân ngươi, Yitsrael, một dân tộc duy nhất trên đất, mà Elohim đã đi đến để chuộc cho chính Ngài một dân, để làm cho ngươi danh lớn lao và đáng kinh畏惧 — hãy đoFear: thay bằng: và đáng kinh sợ — để đuổi các dân tộc khỏi trước mặt dân ngươi, dân mà ngươi đã chuộc khỏi Mitsrayim?",
+  "translation": "Và ai ⟨is⟩ như dân ngươi, Yitsraël, một dân tộc duy nhất trên đất, mà Elohim đã đi chuộc ⟨cho⟩ mình ⟨làm⟩ dân, để làm cho ngươi danh tiếng vĩ đại và đáng kinh sợ, bằng cách đuổi các dân tộc khỏi mặt dân ngươi, ⟨là dân⟩ ngươi đã chuộc từ Mitsrayim?",
   "tokens": [
     {
       "surface": "ומי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yitsrael"
+      "gloss": "Yitsraël"
     },
     {
       "surface": "גוי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אחד",
-      "gloss": "một duy nhất"
+      "gloss": "một \/ duy nhất"
     },
     {
       "surface": "בארץ",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "הלך",
-      "gloss": "đã đi đến"
+      "gloss": "đã đi"
     },
     {
       "surface": "האלהים",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "לו",
-      "gloss": "cho chính Ngài"
+      "gloss": "cho mình"
     },
     {
       "surface": "עם",
-      "gloss": "một dân"
+      "gloss": "dân"
     },
     {
       "surface": "לשום",
-      "gloss": "để làm cho"
+      "gloss": "để làm"
     },
     {
       "surface": "לך",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "גדלות",
-      "gloss": "lớn lao"
+      "gloss": "vĩ đại"
     },
     {
       "surface": "ונראות",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "מפני",
-      "gloss": "khỏi trước mặt"
+      "gloss": "khỏi mặt"
     },
     {
       "surface": "עמך",
@@ -97,13 +97,13 @@
     },
     {
       "surface": "ממצרים",
-      "gloss": "khỏi Mitsrayim"
+      "gloss": "từ Mitsrayim"
     },
     {
       "surface": "גוים",
       "gloss": "các dân tộc"
     }
   ],
-  "timestamp": "2026-08-19T05:51:14.091854578Z",
+  "timestamp": "2026-08-24T16:24:45.383709850Z",
   "model": "glm-5.3"
 }

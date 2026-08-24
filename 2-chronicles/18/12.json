@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "vi",
   "chapter": 18,
-  "translation": "Và vị sứ giả ⟨אשר⟩ đã đi để gọi Mikayhu nói với cậu rằng: Này, lời của các tiên tri cùng một miệng nói điều tốt cho vua; xin hãy để lời cậu giống như một trong số họ, và cậu hãy nói điều tốt.",
+  "translation": "Và vị sứ giả ⟨người⟩ đã đi gọi Mikhayhu nói với ⟨את⟩ ông rằng: Này, lời của các nhà tiên tri một miệng ⟨thì⟩ tốt với vua; xin hãy cho lời của ngươi như một trong số họ, và ngươi hãy nói điều tốt.",
   "tokens": [
     {
       "surface": "והמלאך",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "⟨אשר⟩"
+      "gloss": "⟨người⟩"
     },
     {
       "surface": "הלך",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "לקרא",
-      "gloss": "để gọi"
+      "gloss": "gọi"
     },
     {
       "surface": "למיכיהו",
-      "gloss": "Mikayhu"
+      "gloss": "Mikhayhu"
     },
     {
       "surface": "דבר",
@@ -33,7 +33,12 @@
     },
     {
       "surface": "אליו",
-      "gloss": "với cậu"
+      "gloss": "với"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ông"
     },
     {
       "surface": "לאמר",
@@ -49,11 +54,11 @@
     },
     {
       "surface": "הנבאים",
-      "gloss": "của các tiên tri"
+      "gloss": "của các nhà tiên tri"
     },
     {
       "surface": "פה",
-      "gloss": "miệng"
+      "gloss": "một miệng"
     },
     {
       "surface": "אחד",
@@ -61,11 +66,11 @@
     },
     {
       "surface": "טוב",
-      "gloss": "điều tốt"
+      "gloss": "tốt"
     },
     {
       "surface": "אל",
-      "gloss": "cho"
+      "gloss": "với"
     },
     {
       "surface": "המלך",
@@ -73,7 +78,7 @@
     },
     {
       "surface": "ויהי",
-      "gloss": "và hãy để"
+      "gloss": "xin hãy cho"
     },
     {
       "surface": "נא",
@@ -81,11 +86,11 @@
     },
     {
       "surface": "דברך",
-      "gloss": "lời cậu"
+      "gloss": "lời của ngươi"
     },
     {
       "surface": "כאחד",
-      "gloss": "giống như một"
+      "gloss": "như một"
     },
     {
       "surface": "מהם",
@@ -93,13 +98,13 @@
     },
     {
       "surface": "ודברת",
-      "gloss": "và cậu hãy nói"
+      "gloss": "và ngươi hãy nói"
     },
     {
       "surface": "טוב",
       "gloss": "điều tốt"
     }
   ],
-  "timestamp": "2026-08-19T06:22:41.175550764Z",
+  "timestamp": "2026-08-24T16:25:32.538113949Z",
   "model": "glm-5.3"
 }

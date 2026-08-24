@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 29,
-  "translation": "Ngươi sẽ lấy ⟨את⟩ dầu xức, đổ trên đầu người, và xức cho ⟨את⟩ ⟨אתו⟩ người.",
+  "translation": "Và ngươi sẽ lấy ⟨את⟩ dầu xức, đổ lên đầu ông, và xức ⟨את⟩ ⟨אתו⟩ ông.",
   "tokens": [
     {
       "surface": "ולקחת",
-      "gloss": "ngươi sẽ lấy"
+      "gloss": "và ngươi sẽ lấy"
     },
     {
       "surface": "את",
@@ -26,26 +26,26 @@
     },
     {
       "surface": "ויצקת",
-      "gloss": "và đổ"
+      "gloss": "và ngươi sẽ đổ"
     },
     {
       "surface": "על",
-      "gloss": "trên"
+      "gloss": "lên"
     },
     {
       "surface": "ראשו",
-      "gloss": "đầu người"
+      "gloss": "đầu ông"
     },
     {
-      "surface": "ומשחת",
-      "gloss": "và xức cho"
+      "surface": "ו משחת",
+      "gloss": "và ngươi sẽ xức"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "người (Aharon)"
+      "marks": "ông"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.990130643Z",
+  "timestamp": "2026-08-24T16:58:27.515901968Z",
   "model": "glm-5.3"
 }

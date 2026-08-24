@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "vi",
   "chapter": 11,
-  "translation": "Và các ngươi hãy giữ làm ⟨את⟩ tất cả các luật lệ và ⟨את〕 các phán quyết mà ta đặt trước mặt các ngươi ngày nay.",
+  "translation": "Và các ngươi hãy giữ để làm ⟨את⟩ mọi luật lệ và ⟨את⟩ các phán quyết, mà tôi (אנכי) đặt trước mặt các ngươi ngày nay.",
   "tokens": [
     {
       "surface": "ושמרתם",
@@ -13,20 +13,20 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "làm"
+      "gloss": "để làm"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tất cả các luật lệ"
+      "marks": "mọi luật lệ"
     },
     {
       "surface": "כל",
-      "gloss": "tất cả"
+      "gloss": "mọi"
     },
     {
       "surface": "החקים",
-      "gloss": "các luật lệ"
+      "gloss": "luật lệ"
     },
     {
       "surface": "ואת",
@@ -43,11 +43,11 @@
     },
     {
       "surface": "אנכי",
-      "gloss": "ta"
+      "gloss": "tôi"
     },
     {
       "surface": "נתן",
-      "gloss": "đang đặt (ban)"
+      "gloss": "đặt"
     },
     {
       "surface": "לפניכם",
@@ -58,6 +58,6 @@
       "gloss": "ngày nay"
     }
   ],
-  "timestamp": "2026-08-19T03:07:42.404157454Z",
+  "timestamp": "2026-08-24T16:08:00.155850442Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "vi",
   "chapter": 8,
-  "translation": "Và toàn thể Yisraêl, cùng các trưởng lão, các viên chức và các quan án của họ, đứng bên này và bên kia hòm ⟨the⟩ giao ước, đối diện các thầy tế lễ là người Lêvi, những người khiêng hòm giao ước của Yahweh — khách ngoại kiều cũng như người bản xứ — nửa bên núi Gơriđim, nửa kia đối diện núi Êvan, như Moshe, tôi tớ của Yahweh, đã truyền lệnh để chúc phước cho ⟨את⟩ dân Yisraêl trước tiên.",
+  "translation": "Và toàn thể Yisrael, các trưởng lão của nó, các viên quan và các quan án của nó, đứng bên này và bên kia hòm bia, đối diện các thầy tế lễ người Lewi, những người khiêng hòm bia giao ước của Yahweh — như khách ngoại kiều, như người bản xứ — phân nửa đối diện núi Gerizim, và phân nửa đối diện núi Ebal, như Moshe, tôi tớ của Yahweh, đã truyền lệnh trước kia để chúc phúc ⟨את⟩ dân Yisrael lần đầu.",
   "tokens": [
     {
       "surface": "וכל",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraêl"
+      "gloss": "Yisrael"
     },
     {
       "surface": "וזקניו",
-      "gloss": "cùng các trưởng lão của họ"
+      "gloss": "và các trưởng lão của nó"
     },
     {
       "surface": "ושטרים",
-      "gloss": "các viên chức"
+      "gloss": "và các viên quan"
     },
     {
       "surface": "ושפטיו",
-      "gloss": "và các quan án của họ"
+      "gloss": "và các quan án của nó"
     },
     {
       "surface": "עמדים",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "לארון",
-      "gloss": "cạnh hòm"
+      "gloss": "bên hòm bia"
     },
     {
       "surface": "נגד",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "הלוים",
-      "gloss": "người Lêvi"
+      "gloss": "người Lewi"
     },
     {
       "surface": "נשאי",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ארון",
-      "gloss": "hòm"
+      "gloss": "hòm bia"
     },
     {
       "surface": "ברית",
@@ -77,11 +77,11 @@
     },
     {
       "surface": "כאזרח",
-      "gloss": "cũng như người bản xứ"
+      "gloss": "như người bản xứ"
     },
     {
       "surface": "חציו",
-      "gloss": "nửa của họ"
+      "gloss": "phân nửa của họ"
     },
     {
       "surface": "אל",
@@ -97,11 +97,11 @@
     },
     {
       "surface": "גרזים",
-      "gloss": "Gơriđim"
+      "gloss": "Gerizim"
     },
     {
       "surface": "והחציו",
-      "gloss": "và nửa kia của họ"
+      "gloss": "và phân nửa kia của họ"
     },
     {
       "surface": "אל",
@@ -117,7 +117,7 @@
     },
     {
       "surface": "עיבל",
-      "gloss": "Êvan"
+      "gloss": "Ebal"
     },
     {
       "surface": "כאשר",
@@ -141,12 +141,12 @@
     },
     {
       "surface": "לברך",
-      "gloss": "để chúc phước"
+      "gloss": "để chúc phúc"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dân"
+      "marks": "dân Yisrael"
     },
     {
       "surface": "העם",
@@ -154,13 +154,13 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraêl"
+      "gloss": "Yisrael"
     },
     {
       "surface": "בראשנה",
-      "gloss": "trước tiên"
+      "gloss": "lần đầu"
     }
   ],
-  "timestamp": "2026-08-19T03:16:30.282622951Z",
+  "timestamp": "2026-08-24T16:32:54.816064544Z",
   "model": "glm-5.3"
 }

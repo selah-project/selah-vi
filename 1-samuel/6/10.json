@@ -5,23 +5,23 @@
   "book": "1-samuel",
   "lang": "vi",
   "chapter": 6,
-  "translation": "Những người ấy làm y như vậy: họ lấy hai con bò cái đang cho con bú, cột chúng vào chiếc xe, còn ⟨את〕 bò con của chúng thì nhốt lại trong nhà.",
+  "translation": "Và những người kia làm như vậy; họ lấy hai con bò cái đang cho sữa, buộc chúng vào chiếc xe, còn ⟨את⟩ con của chúng thì nhốt lại trong nhà.",
   "tokens": [
     {
       "surface": "ויעשו",
-      "gloss": "họ làm"
+      "gloss": "và làm"
     },
     {
       "surface": "האנשים",
-      "gloss": "những người ấy"
+      "gloss": "những người kia"
     },
     {
       "surface": "כן",
-      "gloss": "y như vậy"
+      "gloss": "như vậy"
     },
     {
       "surface": "ויקחו",
-      "gloss": "họ lấy"
+      "gloss": "và họ lấy"
     },
     {
       "surface": "שתי",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "עלות",
-      "gloss": "đang cho con bú"
+      "gloss": "đang cho sữa"
     },
     {
       "surface": "ויאסרום",
-      "gloss": "họ cột chúng"
+      "gloss": "và buộc chúng"
     },
     {
       "surface": "בעגלה",
@@ -46,11 +46,11 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "bò con của chúng"
+      "marks": "con của chúng"
     },
     {
       "surface": "בניהם",
-      "gloss": "bò con của chúng"
+      "gloss": "con của chúng"
     },
     {
       "surface": "כלו",
@@ -61,6 +61,6 @@
       "gloss": "trong nhà"
     }
   ],
-  "timestamp": "2026-08-19T03:31:03.139968268Z",
+  "timestamp": "2026-08-24T16:26:36.986610533Z",
   "model": "glm-5.3"
 }

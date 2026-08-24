@@ -5,8 +5,53 @@
   "book": "isaiah",
   "lang": "vi",
   "chapter": 5,
-  "translation": "Nó gầm lên như sư tử, gầm như những con báo trẻ; nó gầm gừ, nó tóm lấy con mồi, nó xé mang đi, và không ai cứu ⟨את⟩ ⟨את⟩——",
-  "tokens": [],
-  "timestamp": "2026-08-19T04:04:08.714513307Z",
+  "translation": "Tiếng gầm của nó như sư tử; nó gầm như các sư tử con; nó gầm gừ, ⟨và⟩ chộp lấy con mồi, ⟨và⟩ đem đi an toàn, ⟨và⟩ không ai cứu được.",
+  "tokens": [
+    {
+      "surface": "שאגה",
+      "gloss": "tiếng gầm"
+    },
+    {
+      "surface": "לו",
+      "gloss": "của nó"
+    },
+    {
+      "surface": "כלביא",
+      "gloss": "như sư tử"
+    },
+    {
+      "surface": "ושאג",
+      "gloss": "và nó gầm"
+    },
+    {
+      "surface": "ככפירים",
+      "gloss": "như các sư tử con"
+    },
+    {
+      "surface": "וינהם",
+      "gloss": "và nó gầm gừ"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "và chộp lấy"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "con mồi"
+    },
+    {
+      "surface": "ויפליט",
+      "gloss": "và đem đi an toàn"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "và không có"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "ai cứu"
+    }
+  ],
+  "timestamp": "2026-08-24T16:13:58.287635574Z",
   "model": "glm-5.3"
 }

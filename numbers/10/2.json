@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 10,
-  "translation": "Hãy làm cho ngươi hai cái kèn bằng bạc, công việc đúc hoa văn ngươi sẽ làm ⟨את⟩ ⟨אתם⟩ chúng nó; và chúng sẽ thuộc về ngươi để triệu tập hội chúng và để khởi hành ⟨את⟩ các trại quân.",
+  "translation": "Hãy làm cho ngươi hai cái kèn bằng bạc, công việc đúc nguyên khối ngươi sẽ làm ⟨את⟩ chúng, và chúng sẽ thuộc về ngươi để triệu tập hội chúng và để xuất hành ⟨את⟩ các trại.",
   "tokens": [
     {
       "surface": "עשה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "מקשה",
-      "gloss": "công việc đúc hoa văn"
+      "gloss": "công việc đúc nguyên khối"
     },
     {
       "surface": "תעשה",
@@ -37,8 +37,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "chúng nó (hai cái kèn)"
+      "gloss": "⟨את⟩",
+      "marks": "chúng"
     },
     {
       "surface": "והיו",
@@ -58,18 +58,18 @@
     },
     {
       "surface": "ולמסע",
-      "gloss": "và để khởi hành"
+      "gloss": "và để xuất hành"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "các trại quân (המחנות)"
+      "marks": "các trại"
     },
     {
       "surface": "המחנות",
-      "gloss": "các trại quân"
+      "gloss": "các trại"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.045879708Z",
+  "timestamp": "2026-08-24T16:06:36.632958746Z",
   "model": "glm-5.3"
 }

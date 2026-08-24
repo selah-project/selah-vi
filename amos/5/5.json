@@ -5,7 +5,7 @@
   "book": "amos",
   "lang": "vi",
   "chapter": 5,
-  "translation": "Đừng tìm kiếm Beit-El, và Gilgal chớ hòng vào, và Be'er-Sheva chớ hòng đi qua; vì Gilgal sẽ bị đày đi lưu đày, và Beit-El sẽ thành ra hư không.",
+  "translation": "Đừng tìm kiếm Vet-El, và đừng vào Gilgal, và đừng đi ngang qua Be'er-Sheva; vì Gilgal chắc chắn sẽ bị lưu đày, và Vet-El sẽ trở thành vô ích.",
   "tokens": [
     {
       "surface": "ואל",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "בית",
-      "gloss": "Beit"
+      "gloss": "Beth (nhà)"
     },
     {
       "surface": "אל",
-      "gloss": "-El"
+      "gloss": "El"
     },
     {
       "surface": "והגלגל",
-      "gloss": "và ⟨the⟩ Gilgal"
+      "gloss": "và Gilgal"
     },
     {
       "surface": "לא",
-      "gloss": "không"
+      "gloss": "đừng"
     },
     {
       "surface": "תבאו",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "ובאר",
-      "gloss": "và Be'er"
+      "gloss": "và Be'er (giếng)"
     },
     {
       "surface": "שבע",
-      "gloss": "-Sheva"
+      "gloss": "Sheva"
     },
     {
       "surface": "לא",
-      "gloss": "không"
+      "gloss": "đừng"
     },
     {
       "surface": "תעברו",
-      "gloss": "các ngươi đi qua"
+      "gloss": "các ngươi đi ngang qua"
     },
     {
       "surface": "כי",
@@ -61,29 +61,29 @@
     },
     {
       "surface": "גלה",
-      "gloss": "sẽ bị đày"
+      "gloss": "bị lưu đày"
     },
     {
       "surface": "יגלה",
-      "gloss": "đày đi lưu đày"
+      "gloss": "chắc chắn bị lưu đày"
     },
     {
       "surface": "ובית",
-      "gloss": "và Beit"
+      "gloss": "và Beth"
     },
     {
       "surface": "אל",
-      "gloss": "-El"
+      "gloss": "El"
     },
     {
       "surface": "יהיה",
-      "gloss": "sẽ thành ra"
+      "gloss": "sẽ trở thành"
     },
     {
       "surface": "לאון",
-      "gloss": "hư không"
+      "gloss": "vô ích"
     }
   ],
-  "timestamp": "2026-08-19T04:47:41.598814738Z",
+  "timestamp": "2026-08-24T16:18:16.301983116Z",
   "model": "glm-5.3"
 }

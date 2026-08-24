@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 14,
-  "translation": "Và toàn thể hội chúng nói để ném đá ⟨את⟩ ⟨אתם⟩ bằng đá; và vinh quang của Yahweh hiện ra trong lều hội, trước mặt toàn thể con cái Yisrael.",
+  "translation": "Và toàn thể hội chúng nói phải ném đá ⟨את⟩ chúng bằng đá; và vinh quang của Yahweh hiện ra trong Lều Hội Kiến, trước mặt toàn thể con cái Yisrael.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "và họ nói"
+      "gloss": "và nói"
     },
     {
       "surface": "כל",
@@ -25,8 +25,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "họ (Yehoshua và Kalev)"
+      "gloss": "⟨את⟩",
+      "marks": "chúng (Yehoshua và Kalev)"
     },
     {
       "surface": "באבנים",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "của Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "נראה",
@@ -46,15 +46,15 @@
     },
     {
       "surface": "באהל",
-      "gloss": "trong lều"
+      "gloss": "trong Lều"
     },
     {
       "surface": "מועד",
-      "gloss": "hội"
+      "gloss": "Hội Kiến"
     },
     {
       "surface": "אל",
-      "gloss": "trước mặt"
+      "gloss": "đến trước"
     },
     {
       "surface": "כל",
@@ -69,6 +69,6 @@
       "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.050593200Z",
+  "timestamp": "2026-08-24T16:06:58.221198453Z",
   "model": "glm-5.3"
 }

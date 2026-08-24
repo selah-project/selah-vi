@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 22,
-  "translation": "Nếu ngươi hà hiếp thật sự ⟨את⟩ ⟨אתו⟩ hắn — quả thật nếu hắn kêu cầu cùng Ta, thì Ta sẽ nghe chắc chắn tiếng kêu cầu của hắn;",
+  "translation": "Nếu ngươi thật sự áp bức ⟨את⟩ hắn, thì nếu hắn kêu khóc cùng Ta, Ta chắc chắn sẽ nghe tiếng kêu khóc của hắn.",
   "tokens": [
     {
       "surface": "אם",
@@ -13,20 +13,20 @@
     },
     {
       "surface": "ענה",
-      "gloss": "hà hiếp thật sự"
+      "gloss": "áp bức"
     },
     {
       "surface": "תענה",
-      "gloss": "ngươi hà hiếp"
+      "gloss": "ngươi áp bức"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩ hắn",
-      "marks": "hắn (quả phụ hoặc trẻ mồ côi)"
+      "gloss": "⟨את⟩",
+      "marks": "hắn"
     },
     {
       "surface": "כי",
-      "gloss": "quả thật"
+      "gloss": "thì"
     },
     {
       "surface": "אם",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "צעק",
-      "gloss": "kêu cầu (chắc chắn)"
+      "gloss": "kêu khóc"
     },
     {
       "surface": "יצעק",
-      "gloss": "hắn kêu cầu"
+      "gloss": "hắn kêu khóc"
     },
     {
       "surface": "אלי",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "שמע",
-      "gloss": "nghe chắc chắn"
+      "gloss": "nghe"
     },
     {
       "surface": "אשמע",
@@ -54,9 +54,9 @@
     },
     {
       "surface": "צעקתו",
-      "gloss": "tiếng kêu cầu của hắn"
+      "gloss": "tiếng kêu khóc của hắn"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.989331073Z",
+  "timestamp": "2026-08-24T16:04:10.919950812Z",
   "model": "glm-5.3"
 }

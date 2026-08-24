@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 48,
-  "translation": "Và Yosef nói với cha mình: Không phải vậy, cha ơi, vì ⟨đây⟩ là con trưởng; xin đặt tay phải của cha lên đầu nó.",
+  "translation": "Và Yosef nói với cha mình: Không phải vậy, cha ơi, vì đây ⟨là⟩ con trưởng; xin đặt tay phải cha trên đầu nó.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "כן",
-      "gloss": "như vậy"
+      "gloss": "phải vậy"
     },
     {
       "surface": "אבי",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "הבכר",
-      "gloss": "⟨the⟩ con trưởng"
+      "gloss": "⟨là⟩ con trưởng"
     },
     {
       "surface": "שים",
-      "gloss": "hãy đặt"
+      "gloss": "xin đặt"
     },
     {
       "surface": "ימינך",
-      "gloss": "tay phải của ngươi"
+      "gloss": "tay phải cha"
     },
     {
       "surface": "על",
@@ -64,6 +64,6 @@
       "gloss": "đầu nó"
     }
   ],
-  "timestamp": "2026-08-19T06:03:19.630361976Z",
+  "timestamp": "2026-08-24T16:03:20.331200857Z",
   "model": "glm-5.3"
 }

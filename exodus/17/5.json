@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 17,
-  "translation": "Và Yahweh phán cùng Moshe: Hãy đi qua trước mặt ⟨the⟩ dân, và hãy đem theo với ngươi ⟨אתך⟩ vài người trong ⟨các⟩ trưởng lão của Yitsra-el, và cây gậy của ngươi, mà ngươi đã dùng nó đánh ⟨את⟩ con sông — hãy cầm nó trong tay ngươi, và hãy đi.",
+  "translation": "Và Yahweh phán cùng Moshe: Hãy đi qua trước mặt dân, và hãy lấy theo ngươi ⟨את⟩ vài người trong các trưởng lão của Yisrael, cùng cây gậy của ngươi — ngươi đã đánh ⟨את⟩ con sông bằng nó — hãy cầm trong tay ngươi, và hãy đi.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "và phán"
+      "gloss": "và Ngài phán"
     },
     {
       "surface": "יהוה",
@@ -33,23 +33,23 @@
     },
     {
       "surface": "העם",
-      "gloss": "⟨the⟩ dân"
+      "gloss": "dân"
     },
     {
       "surface": "וקח",
-      "gloss": "và hãy đem"
+      "gloss": "và hãy lấy"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ ⟨אתך⟩ với ngươi"
+      "gloss": "⟨את⟩ theo ngươi"
     },
     {
       "surface": "מזקני",
-      "gloss": "từ ⟨các⟩ trưởng lão của"
+      "gloss": "từ các trưởng lão"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yitsra-el"
+      "gloss": "của Yisrael"
     },
     {
       "surface": "ומטך",
@@ -70,7 +70,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "con sông (היאר)"
+      "marks": "con sông"
     },
     {
       "surface": "היאר",
@@ -89,6 +89,6 @@
       "gloss": "và hãy đi"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.991776604Z",
+  "timestamp": "2026-08-24T16:04:05.420314208Z",
   "model": "glm-5.3"
 }

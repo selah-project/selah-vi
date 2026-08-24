@@ -5,16 +5,16 @@
   "book": "leviticus",
   "lang": "vi",
   "chapter": 4,
-  "translation": "Và ⟨את⟩ toàn bộ mỡ của nó ⟨ông⟩ sẽ lấy đi, như người ta lấy mỡ của chiên con khỏi sinh tế các của tế bình an; và thầy tế lễ sẽ đem ⟨את⟩ chúng的那种 lên bàn thờ, trên các của tế bằng lửa của Yahweh; và thầy tế lễ sẽ làm sự chuộc tội cho ⟨ông⟩ về tội lỗi của mình mà ⟨ông⟩ đã phạm, và ⟨ông⟩ sẽ được tha thứ.",
+  "translation": "Và ⟨את⟩ tất cả mỡ của nó sẽ lấy đi, như mỡ của chiên được lấy away khỏi bàn thờ của các tế phẩm bình an, và thầy tế lễ sẽ hun khói chúng trên bàn thờ, trên các lễ vật bằng lửa của Yahweh, và thầy tế lễ sẽ làm lễ chuộc tội cho hắn, về tội lỗi của hắn mà hắn đã phạm, và nó sẽ được tha cho hắn.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "và ⟨את⟩",
-      "marks": "toàn bộ mỡ của nó"
+      "marks": "tất cả mỖ của nó"
     },
     {
       "surface": "כל",
-      "gloss": "toàn bộ"
+      "gloss": "tất cả"
     },
     {
       "surface": "חלבה",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "יוסר",
-      "gloss": "người ta lấy đi"
+      "gloss": "được lấy đi"
     },
     {
       "surface": "חלב",
@@ -38,19 +38,19 @@
     },
     {
       "surface": "הכשב",
-      "gloss": "của chiên con"
+      "gloss": "của chiên"
     },
     {
       "surface": "מזבח",
-      "gloss": "khỏi sinh tế"
+      "gloss": "khỏi bàn thờ"
     },
     {
       "surface": "השלמים",
-      "gloss": "các của tế bình an"
+      "gloss": "của các tế phẩm bình an"
     },
     {
       "surface": "והקטיר",
-      "gloss": "và đem xông lên"
+      "gloss": "và sẽ hun khói"
     },
     {
       "surface": "הכהן",
@@ -59,11 +59,11 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩ chúng",
-      "marks": "chúng (phần mỡ)"
+      "marks": "trên bàn thờ"
     },
     {
       "surface": "המזבחה",
-      "gloss": "lên bàn thờ"
+      "gloss": "trên bàn thờ"
     },
     {
       "surface": "על",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "אשי",
-      "gloss": "các của tế bằng lửa"
+      "gloss": "các lễ vật bằng lửa"
     },
     {
       "surface": "יהוה",
@@ -79,11 +79,11 @@
     },
     {
       "surface": "וכפר",
-      "gloss": "và làm sự chuộc tội"
+      "gloss": "và sẽ làm lễ chuộc tội"
     },
     {
       "surface": "עליו",
-      "gloss": "cho ông"
+      "gloss": "cho hắn"
     },
     {
       "surface": "הכהן",
@@ -95,7 +95,7 @@
     },
     {
       "surface": "חטאתו",
-      "gloss": "tội lỗi của ông"
+      "gloss": "tội lỗi của hắn"
     },
     {
       "surface": "אשר",
@@ -107,13 +107,13 @@
     },
     {
       "surface": "ונסלח",
-      "gloss": "và sẽ được tha thứ"
+      "gloss": "và sẽ được tha"
     },
     {
       "surface": "לו",
-      "gloss": "cho ông"
+      "gloss": "cho hắn"
     }
   ],
-  "timestamp": "2026-08-19T02:40:12.133893979Z",
+  "timestamp": "2026-08-24T16:05:23.417168535Z",
   "model": "glm-5.3"
 }

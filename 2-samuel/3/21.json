@@ -5,8 +5,119 @@
   "book": "2-samuel",
   "lang": "vi",
   "chapter": 3,
-  "translation": "Avner nói với David: Tôi sẽ đứng dậy, đi và quy tụ về cùng chúa tôi là vua ⟨את⟩ cả Yisrael, và họ sẽ cắt ⟨את⟩ вместе — không — lập giao ước với ngài, và ngài sẽ trị vì trong mọi điều mà linh hồn ngài ước muốn. Vậy David sai đi ⟨את⟩ Avner, và ông đi trong bình an.",
-  "tokens": [],
-  "timestamp": "2026-08-19T03:39:20.415979984Z",
+  "translation": "Avnér nói với David: Tôi sẽ đứng dậy và đi, và tập hợp về với chúa tôi, đức vua, ⟨את⟩ cả Yisraël, để họ cắt giao ước ⟨את⟩ ⟨với את⟩ ngươi, và ngươi sẽ làm vua trên mọi điều mà mạng sống ngươi ước muốn. Rồi David sai đi ⟨את⟩ Avnér, và hắn đi trong bình an.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nói"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avnér"
+    },
+    {
+      "surface": "אל",
+      "gloss": "với"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אקומה",
+      "gloss": "tôi sẽ đứng dậy"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "và đi"
+    },
+    {
+      "surface": "ואקבצה",
+      "gloss": "và tôi sẽ tập hợp"
+    },
+    {
+      "surface": "אל",
+      "gloss": "về với"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "chúa tôi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "đức vua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cả Yisraël"
+    },
+    {
+      "surface": "כל",
+      "gloss": "cả"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraël"
+    },
+    {
+      "surface": "ויכרתו",
+      "gloss": "để họ cắt"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ⟨với את⟩ ngươi"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "giao ước"
+    },
+    {
+      "surface": "ומלכת",
+      "gloss": "và ngươi sẽ làm vua"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "trên mọi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "điều mà"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "ước muốn"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "mạng sống ngươi"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "rồi sai đi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avnér"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avnér"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "và đi"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "trong bình an"
+    }
+  ],
+  "timestamp": "2026-08-24T16:58:27.508363382Z",
   "model": "glm-5.3"
 }

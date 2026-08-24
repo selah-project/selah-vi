@@ -5,11 +5,11 @@
   "book": "zechariah",
   "lang": "vi",
   "chapter": 11,
-  "translation": "Và ⟨giao ước⟩ bị hủy bỏ trong ngày ấy, và những kẻ nghèo khổ của đàn chiên — những kẻ giữ gìn ⟨אתי⟩ ta — nhận biết đúng ⟨vậy⟩ rằng ⟨đó⟩ là lời phán của Yahweh.",
+  "translation": "Và nó bị bẻ vỡ trong ngày ấy, và những kẻ khốn khó của đàn chiên đang giữ-mình theo tôi biết rõ điều ấy, ⟨את⟩-tôi ⟨vì⟩ đó là lời của Yahweh.",
   "tokens": [
     {
       "surface": "ותפר",
-      "gloss": "và nó bị hủy bỏ"
+      "gloss": "và bị bẻ vỡ"
     },
     {
       "surface": "ביום",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "וידעו",
-      "gloss": "và họ nhận biết"
+      "gloss": "và họ biết"
     },
     {
       "surface": "כן",
-      "gloss": "đúng vậy"
+      "gloss": "như vậy \/ rõ ràng"
     },
     {
       "surface": "עניי",
-      "gloss": "những kẻ nghèo khổ"
+      "gloss": "những kẻ khốn khó"
     },
     {
       "surface": "הצאן",
@@ -37,20 +37,20 @@
     },
     {
       "surface": "השמרים",
-      "gloss": "những kẻ giữ gìn"
+      "gloss": "đang giữ-mình theo"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ ta",
-      "marks": "ta"
+      "gloss": "⟨את⟩-tôi",
+      "marks": "tôi (đại từ surprised kèm hậu tố)"
     },
     {
       "surface": "כי",
-      "gloss": "rằng"
+      "gloss": "vì"
     },
     {
       "surface": "דבר",
-      "gloss": "lời phán"
+      "gloss": "lời"
     },
     {
       "surface": "יהוה",
@@ -58,9 +58,9 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨đó⟩ là"
+      "gloss": "đó là"
     }
   ],
-  "timestamp": "2026-08-19T04:53:34.803289127Z",
+  "timestamp": "2026-08-24T16:19:55.815997998Z",
   "model": "glm-5.3"
 }

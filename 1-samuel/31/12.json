@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "vi",
   "chapter": 31,
-  "translation": "Mọi chiến sĩ đều trỗi dậy, đi suốt đêm, lấy ⟨את⟩ xác Shaol và ⟨את⟩ xác các con trai ông khỏi tường thành Beth-Shan, về đến Yavesh, và thiêu ⟨את⟩ ⟨אתם⟩ tại đó.",
+  "translation": "Mọi tráng sĩ đều vùng dậy, đi suốt đêm, lấy ⟨את⟩ thi hài Shaun và ⟨את⟩ thi hài các con ông từ tường thành Beit-Shan, rồi đến Yavesh, và thiêu ⟨את⟩ họ tại đó.",
   "tokens": [
     {
       "surface": "ויקומו",
-      "gloss": "và họ trỗi dậy"
+      "gloss": "đã vùng dậy"
     },
     {
       "surface": "כל",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "חיל",
-      "gloss": "chiến sĩ"
+      "gloss": "tráng sĩ"
     },
     {
       "surface": "וילכו",
-      "gloss": "và họ đi"
+      "gloss": "và đi"
     },
     {
       "surface": "כל",
@@ -37,41 +37,41 @@
     },
     {
       "surface": "ויקחו",
-      "gloss": "và họ lấy"
+      "gloss": "và lấy"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "xác Shaol"
+      "marks": "thi hài Shaun"
     },
     {
       "surface": "גוית",
-      "gloss": "xác"
+      "gloss": "thi hài"
     },
     {
       "surface": "שאול",
-      "gloss": "Shaol"
+      "gloss": "Shaun"
     },
     {
       "surface": "ואת",
       "gloss": "và ⟨את⟩",
-      "marks": "xác các con trai ông"
+      "marks": "thi hài các con ông"
     },
     {
       "surface": "גוית",
-      "gloss": "xác"
+      "gloss": "thi hài"
     },
     {
       "surface": "בניו",
-      "gloss": "các con trai ông"
+      "gloss": "các con ông"
     },
     {
       "surface": "מחומת",
-      "gloss": "khỏi tường thành"
+      "gloss": "từ tường thành"
     },
     {
       "surface": "בית",
-      "gloss": "Beth-"
+      "gloss": "Beit-"
     },
     {
       "surface": "שן",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "ויבאו",
-      "gloss": "và họ đến"
+      "gloss": "và đến"
     },
     {
       "surface": "יבשה",
@@ -87,18 +87,17 @@
     },
     {
       "surface": "וישרפו",
-      "gloss": "và họ thiêu"
+      "gloss": "và thiêu"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "chúng (các xác)"
+      "gloss": "⟨את⟩ họ"
     },
     {
       "surface": "שם",
       "gloss": "tại đó"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.015013123Z",
+  "timestamp": "2026-08-24T16:11:24.630243618Z",
   "model": "glm-5.3"
 }

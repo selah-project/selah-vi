@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "vi",
   "chapter": 18,
-  "translation": "Còn Avshalom, khi còn sống, đã lấy và dựng cho mình ⟨את⟩ bia đá ở thung lũng của vua, vì他曾 nói: 'Ta không có con trai để gây nhớ tên ta'; ông gọi bia đá theo tên mình, và nó được gọi là Yad Avshalom cho đến ngày nay.",
+  "translation": "Còn Avshalom đã lấy và dựng cho mình, khi còn sống, ⟨את⟩ trụ đá ở thung lũng của vua; vì hắn nói: Tôi không có con trai, để làm cho danh tôi được ghi nhớ. Hắn gọi trụ đá ấy theo tên mình, và người ta gọi nó là 'Yad Avshalom' cho đến ngày nay.",
   "tokens": [
     {
       "surface": "ואבשלם",
-      "gloss": "còn Avshalom"
+      "gloss": "và Avshalom"
     },
     {
       "surface": "לקח",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ויצב",
-      "gloss": "đã dựng"
+      "gloss": "và dựng"
     },
     {
       "surface": "לו",
@@ -25,16 +25,16 @@
     },
     {
       "surface": "בחיו",
-      "gloss": "khi còn sống"
+      "gloss": "trong lúc sống"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bia đá"
+      "marks": "trụ đá"
     },
     {
       "surface": "מצבת",
-      "gloss": "bia đá"
+      "gloss": "trụ đá"
     },
     {
       "surface": "אשר",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "ông nói"
+      "gloss": "hắn nói"
     },
     {
       "surface": "אין",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "לי",
-      "gloss": "cho ta"
+      "gloss": "tôi"
     },
     {
       "surface": "בן",
@@ -74,19 +74,19 @@
     },
     {
       "surface": "הזכיר",
-      "gloss": "gây nhớ"
+      "gloss": "làm cho được ghi nhớ"
     },
     {
       "surface": "שמי",
-      "gloss": "tên ta"
+      "gloss": "danh tôi"
     },
     {
       "surface": "ויקרא",
-      "gloss": "ông gọi"
+      "gloss": "và hắn gọi"
     },
     {
       "surface": "למצבת",
-      "gloss": "bia đá"
+      "gloss": "trụ đá ấy"
     },
     {
       "surface": "על",
@@ -94,11 +94,11 @@
     },
     {
       "surface": "שמו",
-      "gloss": "tên ông"
+      "gloss": "tên mình"
     },
     {
       "surface": "ויקרא",
-      "gloss": "được gọi"
+      "gloss": "và người ta gọi"
     },
     {
       "surface": "לה",
@@ -106,7 +106,7 @@
     },
     {
       "surface": "יד",
-      "gloss": "Yad (bàn tay\/đài tưởng niệm)"
+      "gloss": "Yad (bàn tay\/đài kỷ niệm)"
     },
     {
       "surface": "אבשלם",
@@ -125,6 +125,6 @@
       "gloss": "này"
     }
   ],
-  "timestamp": "2026-08-19T03:44:09.235286295Z",
+  "timestamp": "2026-08-24T16:11:59.465453295Z",
   "model": "glm-5.3"
 }

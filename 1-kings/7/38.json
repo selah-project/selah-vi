@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "vi",
   "chapter": 7,
-  "translation": "Và ông làm mười cái chậu bằng đồng; bốn mươi bat cái chũm một ⟨⟨có thể⟩⟩ chứa, bốn ammah là cái chậu một; mỗi cái chậu đặt trên một pedestal, cho mười pedestal.",
+  "translation": "Và ngài làm mười cái chậu đồng; mỗi chậu chứa bốn mươi bat; mỗi chậu rộng bốn ammah; mỗi chậu đặt trên một đế, cho đủ mười đế.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "và ông làm"
+      "gloss": "và ngài làm"
     },
     {
       "surface": "עשרה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "יכיל",
-      "gloss": "chứa được"
+      "gloss": "chứa"
     },
     {
       "surface": "הכיור",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "כיור",
-      "gloss": "cái chậu"
+      "gloss": "chậu"
     },
     {
       "surface": "אחד",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "המכונה",
-      "gloss": "cái pedestal"
+      "gloss": "cái đế"
     },
     {
       "surface": "האחת",
@@ -85,9 +85,9 @@
     },
     {
       "surface": "המכנות",
-      "gloss": "cái pedestal"
+      "gloss": "cái đế"
     }
   ],
-  "timestamp": "2026-08-19T03:49:04.100269455Z",
+  "timestamp": "2026-08-24T16:11:45.004292839Z",
   "model": "glm-5.3"
 }

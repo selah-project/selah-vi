@@ -5,16 +5,16 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 3,
-  "translation": "Và Moshe kiểm điểm ⟨את⟩ ⟨אתם⟩ họ theo miệng Yahweh, như đã được truyền lệnh.",
+  "translation": "Và Moshe đã kiểm điểm ⟨את⟩ chúng theo miệng Yahweh, như đã được truyền lệnh.",
   "tokens": [
     {
       "surface": "ויפקד",
-      "gloss": "và ông kiểm điểm"
+      "gloss": "và đã kiểm điểm"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "họ (con cái Levi)"
+      "gloss": "⟨את⟩",
+      "marks": "chúng"
     },
     {
       "surface": "משה",
@@ -41,6 +41,6 @@
       "gloss": "đã được truyền lệnh"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.046732602Z",
+  "timestamp": "2026-08-24T16:05:55.319658572Z",
   "model": "glm-5.3"
 }

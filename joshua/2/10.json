@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "vi",
   "chapter": 2,
-  "translation": "Vì chúng tôi đã nghe ⟨את⟩ điều mà Yahweh làm khô ⟨את⟩ nước biển Súp trước mặt các ngươi khi các ngươi ra khỏi Mitzrayim, và điều các ngươi đã làm cho hai vua của HaEmori ở bên kia haYarden, Sichon và Og, mà các ngươi đã thiết lệnh cấm hủy ⟨את⟩ ⟨אתם⟩.",
+  "translation": "Vì chúng tôi đã nghe ⟨את⟩ điều mà Yahweh đã làm khô ⟨את⟩ nước biển Súp trước mặt các anh, khi các anh ra khỏi Mitzrayim, và điều các anh đã làm cho hai vua của người Emori ở bên kia Yarden, cho Sichon và cho Og, là những kẻ mà các anh đã dành diệt.",
   "tokens": [
     {
       "surface": "כי",
@@ -18,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "đ điều mà"
+      "marks": "điều mà Yahweh đã làm khô"
     },
     {
       "surface": "אשר",
-      "gloss": "đ"
+      "gloss": "điều mà"
     },
     {
       "surface": "הוביש",
-      "gloss": "làm khô"
+      "gloss": "đã làm khô"
     },
     {
       "surface": "יהוה",
@@ -51,15 +51,15 @@
     },
     {
       "surface": "מפניכם",
-      "gloss": "trước mặt các ngươi"
+      "gloss": "trước mặt các anh"
     },
     {
       "surface": "בצאתכם",
-      "gloss": "khi các ngươi ra khỏi"
+      "gloss": "khi các anh ra"
     },
     {
       "surface": "ממצרים",
-      "gloss": "Mitzrayim"
+      "gloss": "khỏi Mitzrayim"
     },
     {
       "surface": "ואשר",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "עשיתם",
-      "gloss": "các ngươi đã làm"
+      "gloss": "các anh đã làm"
     },
     {
       "surface": "לשני",
@@ -75,15 +75,15 @@
     },
     {
       "surface": "מלכי",
-      "gloss": "vua của"
+      "gloss": "vua"
     },
     {
       "surface": "האמרי",
-      "gloss": "HaEmori"
+      "gloss": "của người Emori"
     },
     {
       "surface": "אשר",
-      "gloss": "mà"
+      "gloss": "là những kẻ"
     },
     {
       "surface": "בעבר",
@@ -91,30 +91,30 @@
     },
     {
       "surface": "הירדן",
-      "gloss": "haYarden"
+      "gloss": "Yarden"
     },
     {
       "surface": "לסיחן",
-      "gloss": "Sichon"
+      "gloss": "cho Sichon"
     },
     {
       "surface": "ולעוג",
-      "gloss": "và Og"
+      "gloss": "và cho Og"
     },
     {
       "surface": "אשר",
-      "gloss": "mà"
+      "gloss": "là những kẻ mà"
     },
     {
       "surface": "החרמתם",
-      "gloss": "các ngươi đã thiết lệnh cấm hủy"
+      "gloss": "các anh đã dành diệt"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "Sichon và Og"
+      "gloss": "⟨את⟩ họ",
+      "marks": "họ (Sichon và Og)"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.053942604Z",
+  "timestamp": "2026-08-24T16:09:15.866247570Z",
   "model": "glm-5.3"
 }

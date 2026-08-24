@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "vi",
   "chapter": 18,
-  "translation": "⟨ה⟩El — đường lối của Ngài trọn vẹn; lời phán của Yahweh đã được tinh luyện; Ngài là khiên che cho tất cả những kẻ nương náu nơi Ngài.",
+  "translation": "El — trọn vẹn là con đường của Ngài; lời phán của Yahweh đã được tinh luyện; Ngài là khiên che cho tất cả những ai nấp trong Ngài.",
   "tokens": [
     {
       "surface": "האל",
-      "gloss": "⟨ה⟩El"
+      "gloss": "El"
     },
     {
       "surface": "תמים",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "דרכו",
-      "gloss": "đường lối của Ngài"
+      "gloss": "con đường của Ngài"
     },
     {
       "surface": "אמרת",
@@ -45,13 +45,13 @@
     },
     {
       "surface": "החסים",
-      "gloss": "những kẻ nương náu"
+      "gloss": "những ai nấp"
     },
     {
       "surface": "בו",
-      "gloss": "nơi Ngài"
+      "gloss": "trong Ngài"
     }
   ],
-  "timestamp": "2026-08-19T04:56:33.761829161Z",
+  "timestamp": "2026-08-24T16:19:49.697694956Z",
   "model": "glm-5.3"
 }

@@ -5,16 +5,16 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 5,
-  "translation": "Còn định mức gạch mà họ làm hôm trước ngày trước, các ngươi hãy đặt lên trên họ; chớ bớt chút nào khỏi nó, vì họ lười biếng; nên họ la крик rằng: Hãy để chúng tôi đi, dâng sinh tế cho Elohim của chúng tôi.",
+  "translation": "Còn ⟨את⟩ mức gạch mà trước đây họ làm, hôm qua và ngày trước nữa, các ngươi hãy đặt lên họ; đừng bớt đi chút nào từ nó, vì họ lười biếng; vì vậy họ la lên, rằng: Chúng ta hãy đi, hãy giết tế cho Elohim của chúng ta.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "và ⟨את⟩",
-      "marks": "định mức gạch"
+      "gloss": "⟨את⟩",
+      "marks": "mức gạch"
     },
     {
       "surface": "מתכנת",
-      "gloss": "định mức"
+      "gloss": "mức"
     },
     {
       "surface": "הלבנים",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "תמול",
-      "gloss": "hôm trước"
+      "gloss": "hôm qua"
     },
     {
       "surface": "שלשם",
-      "gloss": "ngày trước"
+      "gloss": "và ngày trước nữa"
     },
     {
       "surface": "תשימו",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "עליהם",
-      "gloss": "lên trên họ"
+      "gloss": "lên họ"
     },
     {
       "surface": "לא",
-      "gloss": "chớ"
+      "gloss": "đừng"
     },
     {
       "surface": "תגרעו",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "ממנו",
-      "gloss": "khỏi nó"
+      "gloss": "từ nó"
     },
     {
       "surface": "כי",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "על",
-      "gloss": "bởi"
+      "gloss": "vì"
     },
     {
       "surface": "כן",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "צעקים",
-      "gloss": "la крик"
+      "gloss": "la lên"
     },
     {
       "surface": "לאמר",
@@ -94,17 +94,17 @@
     },
     {
       "surface": "נלכה",
-      "gloss": "hãy để chúng tôi đi"
+      "gloss": "chúng ta hãy đi"
     },
     {
       "surface": "נזבחה",
-      "gloss": "chúng tôi dâng sinh tế"
+      "gloss": "hãy giết tế"
     },
     {
       "surface": "לאלהינו",
-      "gloss": "cho Elohim của chúng tôi"
+      "gloss": "cho Elohim của chúng ta"
     }
   ],
-  "timestamp": "2026-08-19T02:28:22.527826049Z",
+  "timestamp": "2026-08-24T16:03:13.517316839Z",
   "model": "glm-5.3"
 }

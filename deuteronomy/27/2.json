@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "vi",
   "chapter": 27,
-  "translation": "Và sẽ xảy ra, vào ngày các ngươi vượt qua ⟨את⟩ Yardén, vào ⟨the⟩ đất mà Yahweh Elohim ngươi ban cho ngươi, thì ngươi hãy dựng lên cho mình những viên đá lớn, và quét vôi ⟨את⟩ chúng bằng vôi.",
+  "translation": "Và sẽ xảy ra, trong ngày các ngươi qua ⟨את⟩ sông Yarden, vào đất mà Yahweh Elohim của ngươi ban cho ngươi, thì ngươi sẽ dựng lên cho mình những viên đá lớn, và ngươi sẽ trát ⟨את⟩ chúng bằng vôi.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "và sẽ xảy ra"
+      "gloss": "Và sẽ xảy ra"
     },
     {
       "surface": "ביום",
-      "gloss": "vào ngày"
+      "gloss": "trong ngày"
     },
     {
       "surface": "אשר",
@@ -21,16 +21,16 @@
     },
     {
       "surface": "תעברו",
-      "gloss": "các ngươi vượt qua"
+      "gloss": "các ngươi qua"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yardén"
+      "marks": "sông Yarden"
     },
     {
       "surface": "הירדן",
-      "gloss": "Yardén"
+      "gloss": "sông Yarden"
     },
     {
       "surface": "אל",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohim ngươi"
+      "gloss": "Elohim của ngươi"
     },
     {
       "surface": "נתן",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "והקמת",
-      "gloss": "thì ngươi hãy dựng lên"
+      "gloss": "và ngươi sẽ dựng lên"
     },
     {
       "surface": "לך",
@@ -77,19 +77,19 @@
       "gloss": "lớn"
     },
     {
-      "surface": "וושדת",
-      "gloss": "và quét vôi"
+      "surface": "ושדת",
+      "gloss": "và ngươi sẽ trát"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ chúng",
-      "marks": "bằng vôi"
+      "gloss": "⟨את⟩",
+      "marks": "chúng"
     },
     {
       "surface": "בשיד",
       "gloss": "bằng vôi"
     }
   ],
-  "timestamp": "2026-08-19T03:11:37.214410211Z",
+  "timestamp": "2026-08-24T16:08:49.729150608Z",
   "model": "glm-5.3"
 }

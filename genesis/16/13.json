@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 16,
-  "translation": "Và Hagar đặt tên cho Yahweh, Đấng đã phán cùng nàng: «Ngài là El Roí (El nhìn thấy tôi)»; vì nàng đã nói: «Ở đây难道 tôi đã thực sự nhìn thấy Đấng nhìn thấy tôi?»",
+  "translation": "Và nàng đã kêu cầu Danh của Yahweh, Đấng phán cùng nàng: Ngài là El Roí — vì nàng đã nói: Phải chăng ngay tại đây, tôi đã thấy Đấng nhìn thấy tôi?",
   "tokens": [
     {
       "surface": "ותקרא",
-      "gloss": "và-nàng-đặt-tên"
+      "gloss": "và nàng đã kêu cầu"
     },
     {
       "surface": "שם",
-      "gloss": "tên"
+      "gloss": "Danh"
     },
     {
       "surface": "יהוה",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "Đấng-phán"
+      "gloss": "Đấng phán"
     },
     {
       "surface": "אליה",
-      "gloss": "cùng-nàng"
+      "gloss": "cùng nàng"
     },
     {
       "surface": "אתה",
-      "gloss": "Ngài-là"
+      "gloss": "Ngài là"
     },
     {
       "surface": "אל",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ראי",
-      "gloss": "nhìn-thấy-tôi"
+      "gloss": "Roí (Đấng nhìn thấy tôi)"
     },
     {
       "surface": "כי",
@@ -45,29 +45,29 @@
     },
     {
       "surface": "אמרה",
-      "gloss": "nàng-đã-nói"
+      "gloss": "nàng đã nói"
     },
     {
       "surface": "הגם",
-      "gloss": "há-cả"
+      "gloss": "phải chăng cũng"
     },
     {
       "surface": "הלם",
-      "gloss": "ở-đây"
+      "gloss": "ngay tại đây"
     },
     {
       "surface": "ראיתי",
-      "gloss": "tôi-đã-nhìn-thấy"
+      "gloss": "tôi đã thấy"
     },
     {
       "surface": "אחרי",
-      "gloss": "sau"
+      "gloss": "sau \/ đằng sau"
     },
     {
       "surface": "ראי",
-      "gloss": "Đấng-nhìn-thấy-tôi"
+      "gloss": "Đấng nhìn thấy tôi"
     }
   ],
-  "timestamp": "2026-08-19T00:59:13.293062655Z",
+  "timestamp": "2026-08-24T16:01:57.412656392Z",
   "model": "glm-5.3"
 }

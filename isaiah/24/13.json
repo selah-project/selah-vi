@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "vi",
   "chapter": 24,
-  "translation": "Vì như vậy sẽ xảy ra giữa ⟨the⟩ đất, giữa các dân, như ⟨sự⟩ rung ⟨cây⟩ ô-liu, như những trái sót lại khi mùa hái nho đã xong.",
+  "translation": "Vì như vậy sẽ xảy ra trong giữa đất, giữa các dân tộc, như cây ô liu bị giã lấy trái, như những chùm trái sót lại khi mùa hái nho đã xong.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Vì"
+      "gloss": "vì"
     },
     {
       "surface": "כה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "בקרב",
-      "gloss": "giữa"
+      "gloss": "trong giữa"
     },
     {
       "surface": "הארץ",
@@ -29,23 +29,23 @@
     },
     {
       "surface": "בתוך",
-      "gloss": "giữa lòng"
+      "gloss": "giữa"
     },
     {
       "surface": "העמים",
-      "gloss": "các dân"
+      "gloss": "các dân tộc"
     },
     {
       "surface": "כנקף",
-      "gloss": "như sự rung"
+      "gloss": "như bị giã"
     },
     {
       "surface": "זית",
-      "gloss": "ô-liu"
+      "gloss": "cây ô liu"
     },
     {
       "surface": "כעוללת",
-      "gloss": "như trái sót lại"
+      "gloss": "như những chùm trái sót lại"
     },
     {
       "surface": "אם",
@@ -60,6 +60,6 @@
       "gloss": "mùa hái nho"
     }
   ],
-  "timestamp": "2026-08-19T06:12:01.855268313Z",
+  "timestamp": "2026-08-24T16:13:36.225172257Z",
   "model": "glm-5.3"
 }

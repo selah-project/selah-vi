@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "vi",
   "chapter": 4,
-  "translation": "Và người nói: Vì sao ngươi đi đến người ấy hôm nay? Không ⟨là⟩ ngày朔 nguyệt, cũng không ⟨là⟩ ngày sabát. Và nàng nói: Bình an.",
+  "translation": "Và người nói: Vì sao ngươi đi đến gặp ông hôm nay? Không phải ngày đầu tháng, cũng không phải ngày sabát. Và bà nói: Shalom.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אליו",
-      "gloss": "đến người ấy"
+      "gloss": "đến ông"
     },
     {
       "surface": "היום",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "חדש",
-      "gloss": "ngày đầu tháng (朔 nguyệt)"
+      "gloss": "ngày đầu tháng"
     },
     {
       "surface": "ולא",
@@ -49,13 +49,13 @@
     },
     {
       "surface": "ותאמר",
-      "gloss": "và nàng nói"
+      "gloss": "và bà nói"
     },
     {
       "surface": "שלום",
-      "gloss": "bình an"
+      "gloss": "Shalom"
     }
   ],
-  "timestamp": "2026-08-19T03:56:35.374007599Z",
+  "timestamp": "2026-08-24T16:12:55.099867610Z",
   "model": "glm-5.3"
 }

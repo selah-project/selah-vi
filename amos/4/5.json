@@ -5,8 +5,65 @@
   "book": "amos",
   "lang": "vi",
   "chapter": 4,
-  "translation": "và hãy xông lên ⟨את⟩ lễ tạ ơn có men, và hãy kêu Hiến-lễ tự-nguyện, hãy rao truyền; vì các ngươi đã yêu thích điều那样 — như vậy, hỡi con cái Yisrael, sấm ngôn của Adonai Yahweh.",
-  "tokens": [],
-  "timestamp": "2026-08-19T04:47:21.635300728Z",
+  "translation": "Và xông lên bánh có men làm của tạ ơn, và hô công bố các của lễ tự nguyện, làm cho thiên hạ nghe rõ; vì điều đó các ngươi yêu thích, hỡi con cái Yisrael — sấm thị của Adonai Yahweh.",
+  "tokens": [
+    {
+      "surface": "וקטר",
+      "gloss": "và xông lên"
+    },
+    {
+      "surface": "מחמץ",
+      "gloss": "bánh có men"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "của tạ ơn"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "và hô công bố"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "các của lễ tự nguyện"
+    },
+    {
+      "surface": "השמיעו",
+      "gloss": "làm cho nghe rõ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "כן",
+      "gloss": "điều đó"
+    },
+    {
+      "surface": "אהבתם",
+      "gloss": "các ngươi yêu thích"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cái"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sấm thị"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-24T16:18:24.237296631Z",
   "model": "glm-5.3"
 }

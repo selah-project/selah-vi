@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "vi",
   "chapter": 17,
-  "translation": "và không đem nó đến lối vào ⟨את⟩ ⟨אתו⟩ lều hội kiến để làm nó cho Yahweh — thì người đàn ông ấy sẽ bị cắt bỏ khỏi dân sự của mình.",
+  "translation": "và không đem nó đến cửa Lều Hội Kiến để làm ⟨את⟩ nó cho Yahweh, thì người đó sẽ bị cắt bỏ khỏi dân sự mình.",
   "tokens": [
     {
       "surface": "ואל",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "פתח",
-      "gloss": "lối vào"
+      "gloss": "cửa"
     },
     {
       "surface": "אהל",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "יביאנו",
-      "gloss": "sẽ đem nó"
+      "gloss": "đem nó"
     },
     {
       "surface": "לעשות",
@@ -37,11 +37,10 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "làm nó cho Yahweh"
+      "gloss": "⟨את⟩ nó"
     },
     {
-      "surface": "ליהוה",
+      "surface": "ליהווה",
       "gloss": "cho Yahweh"
     },
     {
@@ -50,17 +49,17 @@
     },
     {
       "surface": "האיש",
-      "gloss": "người đàn ông"
+      "gloss": "người"
     },
     {
       "surface": "ההוא",
-      "gloss": "ấy"
+      "gloss": "đó"
     },
     {
       "surface": "מעמיו",
-      "gloss": "khỏi dân sự của mình"
+      "gloss": "khỏi dân sự mình"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.035323598Z",
+  "timestamp": "2026-08-24T16:06:16.424420569Z",
   "model": "glm-5.3"
 }

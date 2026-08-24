@@ -5,16 +5,16 @@
   "book": "2-chronicles",
   "lang": "vi",
   "chapter": 25,
-  "translation": "Và ⟨את⟩ Amatsyahu vua Yehudah, con Yoash, con Yehoachaz, Yoash vua Yisrael bắt tại Beit-Shemesh; người đem hắn về Yerushalayim, và phá vỡ tường thành Yerushalayim, từ cổng Efrayim đến cổng Góc, bốn trăm амmа.",
+  "translation": "Và ⟨את⟩ Amatsjah, vua Yehudah, con Yoash, con Yehoachaz, Yoash vua Yisra'el đã bắt tại Beit-Shemesh; và người đem đến Yerushalayim, và phá vỡ tường thành Yerushalayim, từ cổng Efrayim đến cổng Góc — bốn trăm ammah.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "Amatsyahu vua Yehudah"
+      "gloss": "và ⟨את⟩",
+      "marks": "Amatsjah, vua Yehudah"
     },
     {
       "surface": "אמציהו",
-      "gloss": "Amatsyahu"
+      "gloss": "Amatsjah"
     },
     {
       "surface": "מלך",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "תפש",
-      "gloss": "bắt"
+      "gloss": "đã bắt"
     },
     {
       "surface": "יואש",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Yisra'el"
     },
     {
       "surface": "בבית",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "ויביאהו",
-      "gloss": "và người đem hắn"
+      "gloss": "và người đem đến"
     },
     {
       "surface": "ירושלם",
-      "gloss": "đến Yerushalayim"
+      "gloss": "Yerushalayim"
     },
     {
       "surface": "ויפרץ",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "בחומת",
-      "gloss": "trong tường thành"
+      "gloss": "trong tường"
     },
     {
       "surface": "ירושלם",
@@ -102,7 +102,7 @@
     },
     {
       "surface": "הפונה",
-      "gloss": "Góc (quay) а"
+      "gloss": "Góc (quay)"
     },
     {
       "surface": "ארבע",
@@ -114,9 +114,9 @@
     },
     {
       "surface": "אמה",
-      "gloss": "am-ma (khuỷu tay)"
+      "gloss": "ammah (cubit)"
     }
   ],
-  "timestamp": "2026-08-19T05:59:37.598790563Z",
+  "timestamp": "2026-08-24T16:26:09.087692803Z",
   "model": "glm-5.3"
 }

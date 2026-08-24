@@ -5,20 +5,20 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 30,
-  "translation": "Ngươi sẽ thánh hóa ⟨אתם⟩ chúng, và chúng sẽ nên thánh các thánh; mọi điều chạm đến chúng sẽ nên thánh.",
+  "translation": "Ngươi sẽ thánh hóa ⟨את⟩ ⟨אתם⟩, và chúng sẽ thành thánh của thánh-sự-thiêng; phàm ai chạm đến chúng sẽ được thánh-hóa.",
   "tokens": [
     {
       "surface": "וקדשת",
-      "gloss": "và ngươi sẽ thánh hóa"
+      "gloss": "ngươi sẽ thánh hóa"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "chúng"
+      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "marks": "chúng (các đồ thánh)"
     },
     {
       "surface": "והיו",
-      "gloss": "và chúng sẽ là"
+      "gloss": "và chúng sẽ thành"
     },
     {
       "surface": "קדש",
@@ -26,15 +26,15 @@
     },
     {
       "surface": "קדשים",
-      "gloss": "các thánh"
+      "gloss": "của thánh-sự-thiêng"
     },
     {
       "surface": "כל",
-      "gloss": "mọi"
+      "gloss": "phàm mọi"
     },
     {
       "surface": "הנגע",
-      "gloss": "điều chạm đến"
+      "gloss": "ai chạm đến"
     },
     {
       "surface": "בהם",
@@ -42,9 +42,9 @@
     },
     {
       "surface": "יקדש",
-      "gloss": "sẽ nên thánh"
+      "gloss": "sẽ được thánh-hóa"
     }
   ],
-  "timestamp": "2026-08-19T06:03:47.551422048Z",
+  "timestamp": "2026-08-24T16:58:27.514496112Z",
   "model": "glm-5.3"
 }

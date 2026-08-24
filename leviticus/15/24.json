@@ -5,8 +5,78 @@
   "book": "leviticus",
   "lang": "vi",
   "chapter": 15,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-19T02:44:40.856336385Z",
+  "translation": "Và nếu một người nam nằm ⟨את⟩ nàng, và sự ô uế kinh nguyệt của nàng ở trên người ấy, thì người ấy sẽ ô uế bảy ngày; và mọi giường mà người ấy nằm trên đó sẽ ô uế.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "và nếu"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "nằm"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "thật sự nằm"
+    },
+    {
+      "surface": "איש",
+      "gloss": "người nam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ nàng",
+      "marks": "nàng (phụ nữ)"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "và sẽ ở"
+    },
+    {
+      "surface": "נדתה",
+      "gloss": "kinh nguyệt của nàng"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "trên người ấy"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "và ô uế"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "bảy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "giường"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "người ấy nằm"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "trên đó"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "sẽ ô uế"
+    }
+  ],
+  "timestamp": "2026-08-24T16:05:33.431327899Z",
   "model": "glm-5.3"
 }

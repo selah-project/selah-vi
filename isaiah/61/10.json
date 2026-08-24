@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "vi",
   "chapter": 61,
-  "translation": "Tôi sẽ vô cùng vui mừng trong Yahweh, linh hồn tôi sẽ nhảy múa trong Elohim của tôi; vì Ngài đã mặc cho tôi áo xưng công bình, áo choàng cứu度的 Ngài khoác lên tôi, như chú rể đội mũ tế lễ, như cô dâu tự trang sức bằng đồ trang điểm của mình.",
+  "translation": "Tôi sẽ hết sức vui mừng trong Yahweh, linh hồn tôi sẽ hớn hở trong Elohim của tôi; vì Ngài đã mặc cho tôi ⟨את⟩ áo của sự cứu giải, khoác cho tôi ⟨את⟩ áo choàng công bình, như chú rể đội trang sức tế lễ, và như cô dâu trang điểm bằng nữ trang của nàng.",
   "tokens": [
     {
       "surface": "שוש",
-      "gloss": "vô cùng vui mừng"
+      "gloss": "vui mừng"
     },
     {
       "surface": "אשיש",
-      "gloss": "tôi sẽ vui mừng"
+      "gloss": "hết sức"
     },
     {
       "surface": "ביהוה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "תגל",
-      "gloss": "sẽ nhảy múa"
+      "gloss": "sẽ hớn hở"
     },
     {
       "surface": "נפשי",
@@ -40,12 +40,17 @@
       "gloss": "đã mặc cho tôi"
     },
     {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "áo của sự cứu giải"
+    },
+    {
       "surface": "בגדי",
       "gloss": "áo"
     },
     {
       "surface": "ישע",
-      "gloss": "cứu"
+      "gloss": "của sự cứu giải"
     },
     {
       "surface": "מעיל",
@@ -57,7 +62,7 @@
     },
     {
       "surface": "יעטני",
-      "gloss": "khoác lên tôi"
+      "gloss": "khoác cho tôi"
     },
     {
       "surface": "כחתן",
@@ -65,11 +70,11 @@
     },
     {
       "surface": "יכהן",
-      "gloss": "đội mũ tế lễ"
+      "gloss": "đội như tế lễ"
     },
     {
       "surface": "פאר",
-      "gloss": "ngai trang sức"
+      "gloss": "trang sức"
     },
     {
       "surface": "וככלה",
@@ -77,13 +82,13 @@
     },
     {
       "surface": "תעדה",
-      "gloss": "tự trang sức"
+      "gloss": "trang điểm"
     },
     {
       "surface": "כליה",
-      "gloss": "đồ trang điểm của mình"
+      "gloss": "nữ trang của nàng"
     }
   ],
-  "timestamp": "2026-08-19T04:15:20.941492690Z",
+  "timestamp": "2026-08-24T16:14:26.444568756Z",
   "model": "glm-5.3"
 }

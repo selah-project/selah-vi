@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "vi",
   "chapter": 33,
-  "translation": "Kẻ nói với cha mình và với mẹ mình: 'Con không thấy ông', và ⟨את⟩ anh em mình ⟨⟨hắn⟩⟩ không nhận biết, và ⟨את⟩ con cái mình không quen biết; vì chúng đã giữ lời phán của Ngài, và giao ước của Ngài chúng gìn giữ.",
+  "translation": "Kẻ nói với cha mình và với mẹ mình: 'Tôi không thấy ngài'; và ⟨את⟩ anh em mình chẳng nhận biết, và ⟨את⟩ con cái mình chẳng nhận biết; vì họ đã gìn giữ lời phán của Ngài, và giao ước của Ngài họ sẽ giữ.",
   "tokens": [
     {
       "surface": "האמר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ראיתיו",
-      "gloss": "tôi thấy hắn"
+      "gloss": "tôi thấy ngài"
     },
     {
       "surface": "ואת",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "không"
+      "gloss": "chẳng"
     },
     {
       "surface": "הכיר",
@@ -55,11 +55,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "không"
+      "gloss": "chẳng"
     },
     {
       "surface": "ידע",
-      "gloss": "quen biết"
+      "gloss": "nhận biết"
     },
     {
       "surface": "כי",
@@ -67,21 +67,21 @@
     },
     {
       "surface": "שמרו",
-      "gloss": "chúng đã giữ"
+      "gloss": "họ đã gìn giữ"
     },
     {
       "surface": "אמרתך",
-      "gloss": "lời phán của ngài"
+      "gloss": "lời phán của Ngài"
     },
     {
       "surface": "ובריתך",
-      "gloss": "và giao ước của ngài"
+      "gloss": "và giao ước của Ngài"
     },
     {
       "surface": "ינצרו",
-      "gloss": "chúng gìn giữ"
+      "gloss": "họ sẽ giữ"
     }
   ],
-  "timestamp": "2026-08-19T03:13:50.665038041Z",
+  "timestamp": "2026-08-24T16:09:09.310599814Z",
   "model": "glm-5.3"
 }

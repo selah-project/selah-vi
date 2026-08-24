@@ -5,16 +5,16 @@
   "book": "2-kings",
   "lang": "vi",
   "chapter": 25,
-  "translation": "Và ⟨את⟩ các cột đồng ⟨ה⟩ ở nhà Yahweh, và ⟨את⟩ các chân đế, và ⟨את⟩ biển đồng ở nhà Yahweh, người Kasdim đã đập vỡ, và họ mang đồng của chúng về Babylon.",
+  "translation": "Còn ⟨את⟩ các trụ đồng thuộc nhà Yahweh, và ⟨את⟩ các پای đỡ, và ⟨את⟩ biển đồng thuộc nhà Yahweh, thì người Kasdi đã đập vỡ, và họ mang đồng của chúng đi Babylon.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "các cột đồng"
+      "gloss": "và ⟨את⟩",
+      "marks": "các trụ"
     },
     {
       "surface": "עמודי",
-      "gloss": "các cột"
+      "gloss": "các trụ"
     },
     {
       "surface": "הנחשת",
@@ -34,16 +34,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "các chân đế"
+      "gloss": "và ⟨את⟩",
+      "marks": "các پای đỡ"
     },
     {
       "surface": "המכנות",
-      "gloss": "các chân đế"
+      "gloss": "các پای đỡ"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "và ⟨את⟩",
       "marks": "biển đồng"
     },
     {
@@ -60,7 +60,7 @@
     },
     {
       "surface": "בבית",
-      "gloss": "ở nhà"
+      "gloss": "trong nhà"
     },
     {
       "surface": "יהוה",
@@ -72,11 +72,11 @@
     },
     {
       "surface": "כשדים",
-      "gloss": "người Kasdim"
+      "gloss": "người Kasdi"
     },
     {
       "surface": "וישאו",
-      "gloss": "và họ mang"
+      "gloss": "và họ mang đi"
     },
     {
       "surface": "את",
@@ -89,9 +89,9 @@
     },
     {
       "surface": "בבלה",
-      "gloss": "về Babylon"
+      "gloss": "đi Babylon"
     }
   ],
-  "timestamp": "2026-08-19T04:03:14.957559094Z",
+  "timestamp": "2026-08-24T16:13:44.529385991Z",
   "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 30,
-  "translation": "Nhưng nếu người chồng của nàng lặng im, giữ kín lặng với nàng từ ngày nọ đến ngày kia, thì ⟨hắn⟩ đã làm ⟨את⟩ mọi lời khấn nguyện của nàng hay ⟨את⟩ mọi sự ràng buộc của nàng đang trên mình nàng đứng vững; ⟨hắn⟩ đã làm ⟨את⟩ ⟨אתם⟩ chúng đứng vững, vì ⟨hắn⟩ đã lặng im với nàng vào ngày người ấy nghe.",
+  "translation": "Còn nếu chồng nàng hoàn toàn im lặng với nàng từ ngày nọ đến ngày kia, thì người đã lập lên ⟨את⟩ tất cả lời khấn nguyện của nàng, hay ⟨את⟩ tất mọi lời ràng buộc của nàng đang trên mình nàng; người đã lập chúng vững, vì người đã im lặng với nàng trong ngày người nghe biết.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "Nhưng nếu"
+      "gloss": "Còn nếu"
     },
     {
       "surface": "החרש",
-      "gloss": "lặng im"
+      "gloss": "hoàn toàn im lặng"
     },
     {
       "surface": "יחריש",
-      "gloss": "giữ kín lặng"
+      "gloss": "im lặng"
     },
     {
       "surface": "לה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אישה",
-      "gloss": "người chồng của nàng"
+      "gloss": "chồng nàng"
     },
     {
       "surface": "מיום",
@@ -41,16 +41,16 @@
     },
     {
       "surface": "והקים",
-      "gloss": "đã làm đứng vững"
+      "gloss": "thì đã lập lên"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mọi lời khấn nguyện của nàng"
+      "marks": "tất cả lời khấn nguyện của nàng"
     },
     {
       "surface": "כל",
-      "gloss": "mọi"
+      "gloss": "tất cả"
     },
     {
       "surface": "נדריה",
@@ -63,15 +63,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mọi sự ràng buộc của nàng"
+      "marks": "tất mọi lời ràng buộc của nàng"
     },
     {
       "surface": "כל",
-      "gloss": "mọi"
+      "gloss": "tất mọi"
     },
     {
       "surface": "אסריה",
-      "gloss": "sự ràng buộc của nàng"
+      "gloss": "lời ràng buộc của nàng"
     },
     {
       "surface": "אשר",
@@ -83,12 +83,12 @@
     },
     {
       "surface": "הקים",
-      "gloss": "đã làm đứng vững"
+      "gloss": "đã lập vững"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "chúng (các lời khấn và ràng buộc)"
+      "gloss": "⟨את⟩",
+      "marks": "chúng (các lời khấn và lời ràng buộc)"
     },
     {
       "surface": "כי",
@@ -96,7 +96,7 @@
     },
     {
       "surface": "החרש",
-      "gloss": "đã lặng im"
+      "gloss": "đã im lặng"
     },
     {
       "surface": "לה",
@@ -104,13 +104,13 @@
     },
     {
       "surface": "ביום",
-      "gloss": "vào ngày"
+      "gloss": "trong ngày"
     },
     {
       "surface": "שמעו",
-      "gloss": "người ấy nghe"
+      "gloss": "người nghe biết"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.046306767Z",
+  "timestamp": "2026-08-24T16:08:05.440069763Z",
   "model": "glm-5.3"
 }

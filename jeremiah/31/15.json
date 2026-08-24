@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "vi",
   "chapter": 31,
-  "translation": "Như vầy Yahweh phán: Có tiếng слышен tại Ramah, tiếng than van, khóc lóc cay đắng; Rachel khóc than cho các con mình, từ chối không chịu được an ủi cho các con mình, vì chúng không còn nữa.",
+  "translation": "Như vầy Yahweh phán: một tiếng vọng được nghe ở Ramah, tiếng than khóc, khóc lóc đắng cay; Rachel đang khóc_than trên các con trai mình, từ chối an_ủi trên các con trai mình, vì chúng không còn nữa.",
   "tokens": [
     {
       "surface": "כה",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "קול",
-      "gloss": "tiếng"
+      "gloss": "một tiếng"
     },
     {
       "surface": "ברמה",
-      "gloss": "tại Ramah"
+      "gloss": "ở Ramah"
     },
     {
       "surface": "נשמע",
-      "gloss": "được nghe thấy"
+      "gloss": "được nghe"
     },
     {
       "surface": "נהי",
-      "gloss": "than van"
+      "gloss": "tiếng than khóc"
     },
     {
       "surface": "בכי",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "תמרורים",
-      "gloss": "cay đắng"
+      "gloss": "đắng cay"
     },
     {
       "surface": "רחל",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "מבכה",
-      "gloss": "khóc than"
+      "gloss": "khóc_than"
     },
     {
       "surface": "על",
-      "gloss": "cho"
+      "gloss": "trên"
     },
     {
       "surface": "בניה",
-      "gloss": "các con mình"
+      "gloss": "các con trai mình"
     },
     {
       "surface": "מאנה",
@@ -65,15 +65,15 @@
     },
     {
       "surface": "להנחם",
-      "gloss": "được an ủi"
+      "gloss": "an_ủi"
     },
     {
       "surface": "על",
-      "gloss": "cho"
+      "gloss": "trên"
     },
     {
       "surface": "בניה",
-      "gloss": "các con mình"
+      "gloss": "các con trai mình"
     },
     {
       "surface": "כי",
@@ -81,9 +81,9 @@
     },
     {
       "surface": "איננו",
-      "gloss": "chúng không còn nữa"
+      "gloss": "chúng không còn"
     }
   ],
-  "timestamp": "2026-08-19T04:24:40.532565908Z",
+  "timestamp": "2026-08-24T16:15:59.431663096Z",
   "model": "glm-5.3"
 }

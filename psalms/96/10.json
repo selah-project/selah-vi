@@ -5,8 +5,57 @@
   "book": "psalms",
   "lang": "vi",
   "chapter": 96,
-  "translation": "Hãy nói giữa các dân: Yahweh ngự trị! Thế giới cũng ⟨được⟩ vững lập, không hề lung lay; Ngài sẽ xét đoán các dân cách công bình.",
-  "tokens": [],
-  "timestamp": "2026-08-19T05:07:13.742372327Z",
+  "translation": "Hãy nói giữa các dân tộc: Yahweh đã lên ngôi trị vì; ⟨thế giới⟩ cũng sẽ ⟨được⟩ thiết lập vững vàng, chẳng hề lung lay; Ngài sẽ phán xét các dân ⟨với⟩ sự ngay thẳng.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Hãy nói"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "giữa các dân tộc"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "đã lên ngôi trị vì"
+    },
+    {
+      "surface": "אף",
+      "gloss": "cũng"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "sẽ ⟨được⟩ thiết lập"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "thế giới"
+    },
+    {
+      "surface": "בל",
+      "gloss": "chẳng hề"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "lung lay"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "sẽ phán xét"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "các dân"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "trong sự ngay thẳng"
+    }
+  ],
+  "timestamp": "2026-08-24T16:21:20.581997934Z",
   "model": "glm-5.3"
 }

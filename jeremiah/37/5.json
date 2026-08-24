@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "vi",
   "chapter": 37,
-  "translation": "Và đạo quân của Paroh đã ra khỏi Mitzrayim, và người Kasdim đang vây hãm Yerushalayim nghe ⟨את tin tức của họ⟩, và họ rút lên khỏi Yerushalayim.",
+  "translation": "Và quân đội của Paroh đã ra khỏi Mitzrayim; và người Kasdim đang vây hãm Yerushalayim nghe ⟨את⟩ tin về họ, và họ rút lên khỏi Yerushalayim.",
   "tokens": [
     {
       "surface": "וחיל",
-      "gloss": "và đạo quân"
+      "gloss": "và quân đội của"
     },
     {
       "surface": "פרעה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "וישמעו",
-      "gloss": "và họ nghe"
+      "gloss": "và nghe"
     },
     {
       "surface": "הכשדים",
@@ -46,15 +46,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tin tức của họ"
+      "marks": "tin về họ"
     },
     {
       "surface": "שמעם",
-      "gloss": "tin tức của họ"
+      "gloss": "tin về họ"
     },
     {
       "surface": "ויעלו",
-      "gloss": "và họ rút lên"
+      "gloss": "và rút lên"
     },
     {
       "surface": "מעל",
@@ -65,6 +65,6 @@
       "gloss": "Yerushalayim"
     }
   ],
-  "timestamp": "2026-08-19T04:26:37.241080843Z",
+  "timestamp": "2026-08-24T16:15:54.323785512Z",
   "model": "glm-5.3"
 }

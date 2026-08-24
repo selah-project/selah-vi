@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "vi",
   "chapter": 2,
-  "translation": "Chỉ ⟨sơ duy⟩ vật nuôi我们自己 chúng tôi cướp lấy cho mình, và chiến lợi phẩm của các thành mà chúng tôi đã chiếm.",
+  "translation": "Chỉ ⟨the⟩ súc vật là chúng ta chiếm làm chiến lợi phẩm cho mình, cùng với战 lợi phẩm của các thành mà chúng ta đã chiếm.",
   "tokens": [
     {
       "surface": "רק",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "הבהמה",
-      "gloss": "vật nuôi"
+      "gloss": "súc vật"
     },
     {
       "surface": "בזזנו",
-      "gloss": "chúng tôi cướp lấy"
+      "gloss": "chúng ta đã cướp lấy"
     },
     {
       "surface": "לנו",
-      "gloss": "cho chúng tôi"
+      "gloss": "cho chúng ta"
     },
     {
       "surface": "ושלל",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "לכדנו",
-      "gloss": "chúng tôi đã chiếm"
+      "gloss": "chúng ta đã chiếm"
     }
   ],
-  "timestamp": "2026-08-19T03:04:58.819977074Z",
+  "timestamp": "2026-08-24T16:07:53.924021382Z",
   "model": "glm-5.3"
 }

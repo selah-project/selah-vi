@@ -5,8 +5,58 @@
   "book": "jeremiah",
   "lang": "vi",
   "chapter": 22,
-  "translation": "Khárah, Yahweh phán: Hãy xuống nhà của vua Yehudah, và ngươi sẽ nói ra那里 ⟨את⟩ lời nầy",
-  "tokens": [],
-  "timestamp": "2026-08-19T04:22:20.336876782Z",
+  "translation": "Như vầy Yahweh phán: Hãy xuống nhà của vua Yehudah, và ngươi sẽ nói tại đó ⟨את⟩ lời nầy.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "như vầy"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "phán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רד",
+      "gloss": "hãy xuống"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nhà"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "và ngươi sẽ nói"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tại đó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lời nầy"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lời"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nầy"
+    }
+  ],
+  "timestamp": "2026-08-24T16:15:19.645945196Z",
   "model": "glm-5.3"
 }

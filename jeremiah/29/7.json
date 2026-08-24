@@ -5,16 +5,16 @@
   "book": "jeremiah",
   "lang": "vi",
   "chapter": 29,
-  "translation": "Và hãy tìm kiếm ⟨את⟩ sự bình an của thành phố mà Ta đã làm ⟨את⟩ ⟨אתכם⟩ bị lưu đày đến đó, và hãy cầu nguyện vì nó đến Yahweh; vì trong sự bình an của nó sẽ có cho các ngươi sự bình an.",
+  "translation": "Và hãy kiếm求 ⟨את⟩ sự bình an của thành phố mà Ta đã đày các ngươi đến đó, và hãy cầu nguyện cho nó đến với Yahweh, vì trong sự bình an của nó sẽ có ⟨là⟩ sự bình an cho các ngươi.",
   "tokens": [
     {
       "surface": "ודרשו",
-      "gloss": "và hãy tìm kiếm"
+      "gloss": "và hãy kiếm tìm"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sự bình an của thành phố"
+      "marks": "sự bình an"
     },
     {
       "surface": "שלום",
@@ -30,12 +30,11 @@
     },
     {
       "surface": "הגליתי",
-      "gloss": "Ta đã làm bị lưu đày"
+      "gloss": "Ta đã đày"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "đến đó (các ngươi)"
+      "gloss": "⟨את⟩ các ngươi"
     },
     {
       "surface": "שמה",
@@ -47,11 +46,11 @@
     },
     {
       "surface": "בעדה",
-      "gloss": "vì nó"
+      "gloss": "cho nó"
     },
     {
       "surface": "אל",
-      "gloss": "đến"
+      "gloss": "đến với"
     },
     {
       "surface": "יהוה",
@@ -78,6 +77,6 @@
       "gloss": "sự bình an"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.971400649Z",
+  "timestamp": "2026-08-24T16:15:50.637894048Z",
   "model": "glm-5.3"
 }

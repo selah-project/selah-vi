@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 31,
-  "translation": "Và Moshe sai ⟨אתם⟩ chúng đi, mỗi chi tộc một ngàn, ra trận — ⟨אתם⟩ chúng, và ⟨את⟩ Pinchas con Elazar thầy tế lễ, ra trận, cùng các khí cụ thánh và các kèn báo hiệu trong tay người.",
+  "translation": "Và Moshe sai ⟨את⟩ họ đi, một ngàn mỗi chi tộc, ra trận — ⟨את⟩ họ và ⟨את⟩ Pinchas con trai Elazar thầy tế lễ, ra trận — cùng các khí cụ thánh và các kèn hiệu lệnh trong tay ông.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -13,8 +13,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "chúng (mười hai ngàn người)"
+      "gloss": "⟨את⟩ họ",
+      "marks": "họ"
     },
     {
       "surface": "משה",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "למטה",
-      "gloss": "cho mỗi chi tộc"
+      "gloss": "mỗi chi tộc"
     },
     {
       "surface": "לצבא",
@@ -34,13 +34,13 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "chúng"
+      "gloss": "⟨את⟩ họ",
+      "marks": "và את Pinchas"
     },
     {
       "surface": "ואת",
       "gloss": "và ⟨את⟩",
-      "marks": "Pinchas"
+      "marks": "Pinchas con trai Elazar thầy tế lễ"
     },
     {
       "surface": "פינחס",
@@ -48,7 +48,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "con"
+      "gloss": "con trai"
     },
     {
       "surface": "אלעזר",
@@ -76,13 +76,13 @@
     },
     {
       "surface": "התרועה",
-      "gloss": "báo hiệu reo hò"
+      "gloss": "hiệu lệnh"
     },
     {
       "surface": "בידו",
-      "gloss": "trong tay người"
+      "gloss": "trong tay ông"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.051811Z",
+  "timestamp": "2026-08-24T16:07:22.283040395Z",
   "model": "glm-5.3"
 }

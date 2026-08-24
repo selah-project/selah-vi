@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "vi",
   "chapter": 5,
-  "translation": "Thì sẽ xảy ra khi ⟨הוּא⟩ phạm tội và mắc lỗi, người ấy phải trả lại ⟨את⟩ của cướp mà mình đã cướp, hoặc ⟨את⟩ của ức hiếp mà mình đã ức hiếp, hoặc ⟨את⟩ vật ký thác đã ký thác với mình, hoặc ⟨את⟩ của mất mà mình đã tìm được;",
+  "translation": "Và sẽ xảy ra, khi ⟨hắn⟩ phạm tội và bị kết tội, thì ⟨hắn⟩ phải trả lại ⟨את⟩ vật đã cướp mà ⟨hắn⟩ đã cướp, hoặc ⟨את⟩ vật đã ức hiếp mà ⟨hắn⟩ đã ức hiếp, hoặc ⟨את⟩ vật ký thác đã được ký thác ⟨אתו⟩ nơi ⟨hắn⟩, hoặc ⟨את⟩ vật bị mất mà ⟨hắn⟩ đã tìm thấy,",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "thì sẽ xảy ra"
+      "gloss": "và sẽ xảy ra"
     },
     {
       "surface": "כי",
@@ -21,20 +21,20 @@
     },
     {
       "surface": "ואשם",
-      "gloss": "và mắc lỗi"
+      "gloss": "và bị kết tội"
     },
     {
       "surface": "והשיב",
-      "gloss": "phải trả lại"
+      "gloss": "thì phải trả lại"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "của cướp"
+      "marks": "vật đã cướp"
     },
     {
       "surface": "הגזלה",
-      "gloss": "của cướp"
+      "gloss": "vật đã cướp"
     },
     {
       "surface": "אשר",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "גזל",
-      "gloss": "mình đã cướp"
+      "gloss": "đã cướp"
     },
     {
       "surface": "או",
@@ -51,11 +51,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "của ức hiếp"
+      "marks": "vật đã ức hiếp"
     },
     {
       "surface": "העשק",
-      "gloss": "của ức hiếp"
+      "gloss": "vật đã ức hiếp"
     },
     {
       "surface": "אשר",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "עשק",
-      "gloss": "mình đã ức hiếp"
+      "gloss": "đã ức hiếp"
     },
     {
       "surface": "או",
@@ -84,11 +84,11 @@
     },
     {
       "surface": "הפקד",
-      "gloss": "đã ký thác"
+      "gloss": "được ký thác"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ với mình"
+      "gloss": "⟨את⟩ với hắn"
     },
     {
       "surface": "או",
@@ -97,11 +97,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "của mất"
+      "marks": "vật bị mất"
     },
     {
       "surface": "האבדה",
-      "gloss": "của mất"
+      "gloss": "vật bị mất"
     },
     {
       "surface": "אשר",
@@ -109,9 +109,9 @@
     },
     {
       "surface": "מצא",
-      "gloss": "mình đã tìm được"
+      "gloss": "đã tìm thấy"
     }
   ],
-  "timestamp": "2026-08-19T02:41:02.170081816Z",
+  "timestamp": "2026-08-24T16:05:34.467152724Z",
   "model": "glm-5.3"
 }

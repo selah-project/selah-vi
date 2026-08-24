@@ -5,8 +5,37 @@
   "book": "psalms",
   "lang": "vi",
   "chapter": 69,
-  "translation": "Những kẻ ngồi ⟨tại⟩ cổng城的 nói về tôi, và tôi thành khúc nhạc của những kẻ uống rượu mạnh.",
-  "tokens": [],
-  "timestamp": "2026-08-19T05:03:16.476128674Z",
+  "translation": "Những kẻ ngồi nơi cổng thành bàn luận về tôi, và ⟨là⟩ khúc hát của những kẻ uống rượu mạnh.",
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "bàn luận"
+    },
+    {
+      "surface": "בי",
+      "gloss": "về tôi"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "những kẻ ngồi"
+    },
+    {
+      "surface": "שער",
+      "gloss": "cổng thành"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "và khúc nhạc"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "của những kẻ uống"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "rượu mạnh"
+    }
+  ],
+  "timestamp": "2026-08-24T16:20:32.949359335Z",
   "model": "glm-5.3"
 }

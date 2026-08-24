@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 3,
-  "translation": "Số được kiểm点的 их, theo số của mọi nam, từ một tháng tuổi trở lên — số được kiểm点的他们 là bảy ngàn năm trăm.",
+  "translation": "Số những người được kiểm điểm của họ, theo số đếm mọi nam giới, từ một tháng tuổi trở lên — số được kiểm điểm của họ ⟨là⟩ bảy ngàn và năm trăm.",
   "tokens": [
     {
-      "surface": "פקודיהם",
-      "gloss": "số được điểm của họ"
+      "surface": "פקדיהם",
+      "gloss": "những người được kiểm điểm của họ"
     },
     {
       "surface": "במספר",
-      "gloss": "theo số"
+      "gloss": "theo số đếm"
     },
     {
       "surface": "כל",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "זכר",
-      "gloss": "nam"
+      "gloss": "nam giới"
     },
     {
       "surface": "מבן",
-      "gloss": "từ con"
+      "gloss": "từ tuổi"
     },
     {
       "surface": "חדש",
@@ -36,8 +36,8 @@
       "gloss": "và trở lên"
     },
     {
-      "surface": "פקודיהם",
-      "gloss": "số được điểm của họ"
+      "surface": "פקדיהם",
+      "gloss": "số được kiểm điểm của họ"
     },
     {
       "surface": "שבעת",
@@ -56,6 +56,6 @@
       "gloss": "trăm"
     }
   ],
-  "timestamp": "2026-08-19T02:52:12.513664970Z",
+  "timestamp": "2026-08-24T16:06:13.421179132Z",
   "model": "glm-5.3"
 }

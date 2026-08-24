@@ -5,8 +5,49 @@
   "book": "psalms",
   "lang": "vi",
   "chapter": 96,
-  "translation": "Hãy nói giữa các dân: Yahweh ngự trị! Thế giới cũng ⟨được⟩ vững lập, không hề lung lay; Ngài sẽ xét đoán các dân cách công bình.",
-  "tokens": [],
-  "timestamp": "2026-08-19T05:07:13.742648888Z",
+  "translation": "Cánh đồng nhảy múa hoan lạc, và mọi sự vật ⟨là⟩ những gì trong nó; bấy giờ mọi cây cối của rừng sẽ cất tiếng reo vui.",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "nhảy múa hoan lạc"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "cánh đồng"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và mọi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "בו",
+      "gloss": "trong nó"
+    },
+    {
+      "surface": "אז",
+      "gloss": "bấy giờ"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "sẽ cất tiếng reo vui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "cây cối của"
+    },
+    {
+      "surface": "יער",
+      "gloss": "rừng"
+    }
+  ],
+  "timestamp": "2026-08-24T16:21:17.328581471Z",
   "model": "glm-5.3"
 }

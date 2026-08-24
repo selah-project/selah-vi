@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 5,
-  "translation": "Và vị thầy tế lễ sẽ đứng người đàn bà trước mặt Yahweh, và xõa tóc đầu người đàn bà, và đặt trên hai bàn tay bà ⟨את⟩ của lễ tưởng niệm — của lễ ghen tương nó là — còn trong tay vị thầy tế lễ sẽ có nước đắng, thứ nước gây咒诅.",
+  "translation": "Và vị thầy tế lễ sẽ đặt người phụ nữ đứng trước mặt Yahweh, sẽ xõa đầu của người phụ nữ, và đặt lên hai bàn tay nàng ⟨את⟩ lễ vật tưởng niệm — lễ vật ghen tương, chính ⟨là nó⟩ — và trong tay vị thầy tế lễ sẽ có nước đắng, thứ nước gây rủa sả.",
   "tokens": [
     {
       "surface": "והעמיד",
-      "gloss": "và sẽ đứng"
+      "gloss": "sẽ đặt đứng"
     },
     {
       "surface": "הכהן",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "người đàn bà"
+      "marks": "người phụ nữ"
     },
     {
       "surface": "האשה",
-      "gloss": "người đàn bà"
+      "gloss": "người phụ nữ"
     },
     {
       "surface": "לפני",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "ופרע",
-      "gloss": "và xõa"
+      "gloss": "sẽ xõa"
     },
     {
       "surface": "את",
@@ -47,29 +47,28 @@
     },
     {
       "surface": "האשה",
-      "gloss": "của người đàn bà"
+      "gloss": "của người phụ nữ"
     },
     {
-      "surface": "andנתן",
-      "gloss": "",
-      "surface-note": ""
+      "surface": "ונתן",
+      "gloss": "và đặt"
     },
     {
       "surface": "על",
-      "gloss": "trên"
+      "gloss": "lên"
     },
     {
       "surface": "כפיה",
-      "gloss": "hai bàn tay bà"
+      "gloss": "hai bàn tay nàng"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "của lễ"
+      "marks": "lễ vật tưởng niệm"
     },
     {
       "surface": "מנחת",
-      "gloss": "của lễ"
+      "gloss": "lễ vật"
     },
     {
       "surface": "הזכרון",
@@ -77,7 +76,7 @@
     },
     {
       "surface": "מנחת",
-      "gloss": "của lễ"
+      "gloss": "lễ vật"
     },
     {
       "surface": "קנאת",
@@ -85,7 +84,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "nó là"
+      "gloss": "chính là nó"
     },
     {
       "surface": "וביד",
@@ -109,9 +108,9 @@
     },
     {
       "surface": "המאררים",
-      "gloss": "gây咒诅"
+      "gloss": "gây rủa sả"
     }
   ],
-  "timestamp": "2026-08-19T02:54:27.017332913Z",
+  "timestamp": "2026-08-24T16:06:38.058890576Z",
   "model": "glm-5.3"
 }

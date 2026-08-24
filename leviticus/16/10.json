@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "vi",
   "chapter": 16,
-  "translation": "Còn con dê đực mà lót cho Azazel đã lên trên nó thì sẽ được đặt đứng còn sống trước mặt Yahweh, để làm lễ chuộc tội trên nó, để sai ⟨אתו⟩ đến Azazel trong hoang mạc.",
+  "translation": "Còn con dê đực mà ⟨את⟩ số phẩy rơi lên nó — cho Azazel — thì sẽ được đưa đứng sống trước mặt Yahweh, để làm lễ chuộc tội trên nó, để sai khiến ⟨אתו⟩ nó đi đến Azazel, vào trong đồng vắng.",
   "tokens": [
     {
       "surface": "והשעיר",
-      "gloss": "và con dê đực"
+      "gloss": "còn con dê đực"
     },
     {
       "surface": "אשר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "עלה",
-      "gloss": "đã lên"
+      "gloss": "rơi lên"
     },
     {
       "surface": "עליו",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הגורל",
-      "gloss": "lót"
+      "gloss": "số phẩy"
     },
     {
       "surface": "לעזאזל",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "יעמד",
-      "gloss": "sẽ đứng"
+      "gloss": "sẽ được đứng"
     },
     {
       "surface": "חי",
-      "gloss": "còn sống"
+      "gloss": "sống"
     },
     {
       "surface": "לפני",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "לכפר",
-      "gloss": "để làm lễ chuộc tội"
+      "gloss": "để chuộc tội"
     },
     {
       "surface": "עליו",
@@ -62,7 +62,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "nó (con dê, đến Azazel)"
+      "marks": "nó (con dê đực)"
     },
     {
       "surface": "לעזאזל",
@@ -70,9 +70,9 @@
     },
     {
       "surface": "המדברה",
-      "gloss": "vào hoang mạc"
+      "gloss": "vào trong đồng vắng"
     }
   ],
-  "timestamp": "2026-08-19T02:45:02.118648895Z",
+  "timestamp": "2026-08-24T16:05:51.250515309Z",
   "model": "glm-5.3"
 }

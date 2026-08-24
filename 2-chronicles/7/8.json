@@ -5,24 +5,24 @@
   "book": "2-chronicles",
   "lang": "vi",
   "chapter": 7,
-  "translation": "Shlomoh giữ ⟨את⟩ lễ hội vào lúc ấy bảy ngày, và toàn thể Yisrael với ông — một hội chúng rất lớn — từ lối vào Chamat直到 khe suối Mitzrayim.",
+  "translation": "Shelomoh giữ ⟨את⟩ lễ vào lúc ấy bảy ngày, và toàn thể Yisrael với ông — một hội chúng rất lớn — từ lối vào Chamath直到 suối Mitzrayim.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "đã làm\/giữ"
+      "gloss": "đã làm"
     },
     {
       "surface": "שלמה",
-      "gloss": "Shlomoh"
+      "gloss": "Shelomoh"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lễ hội"
+      "marks": "lễ"
     },
     {
       "surface": "החג",
-      "gloss": "lễ hội"
+      "gloss": "lễ"
     },
     {
       "surface": "בעת",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "חמת",
-      "gloss": "Chamat"
+      "gloss": "Chamath"
     },
     {
       "surface": "עד",
@@ -78,13 +78,13 @@
     },
     {
       "surface": "נחל",
-      "gloss": "khe suối"
+      "gloss": "suối"
     },
     {
       "surface": "מצרים",
       "gloss": "Mitzrayim"
     }
   ],
-  "timestamp": "2026-08-19T05:55:39.967228204Z",
+  "timestamp": "2026-08-24T16:25:34.107726028Z",
   "model": "glm-5.3"
 }

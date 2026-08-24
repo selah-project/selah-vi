@@ -5,8 +5,82 @@
   "book": "2-kings",
   "lang": "vi",
   "chapter": 24,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-19T04:03:39.477381291Z",
+  "translation": "Và ⟨את⟩ tất cả người dũng lực, bảy nghìn, cùng ⟨את⟩ thợ thủ công và thợ rèn, một nghìn — tất cả đều ⟨là⟩ những dũng sĩ, người làm chiến tranh — vua của Bavel đã đem họ đi lưu đày đến Bavel.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tất cả người dũng lực"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "người của"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "sự dũng lực"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "bảy"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "nghìn"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "và thợ thủ công"
+    },
+    {
+      "surface": "והמסגר",
+      "gloss": "và thợ rèn"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "một nghìn"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "tất cả"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "dũng sĩ"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "người làm"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "chiến tranh"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "đã đem họ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "vua"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "lưu đày"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "đến Bavel"
+    }
+  ],
+  "timestamp": "2026-08-24T16:13:44.947292791Z",
   "model": "glm-5.3"
 }

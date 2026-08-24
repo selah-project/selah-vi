@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "vi",
   "chapter": 71,
-  "translation": "Cả tôi nữa, tôi sẽ cảm tạ Ngài bằng đàn nêvel, vì sự thành tín của Ngài, Elohim của tôi; tôi sẽ弹 ca cho Ngài bằng đàn kinor, Đấng Thánh của Yisrael.",
+  "translation": "Cả tôi nữa, tôi sẽ tạ ơn Ngài với đàn nơ-vên, vì sự thành tín của Ngài, Elohim tôi; tôi sẽ hát xướng cho Ngài với đàn kin-nôr, Đấng Thánh của Yisraël.",
   "tokens": [
     {
       "surface": "גם",
-      "gloss": "cả... nữa"
+      "gloss": "cả"
     },
     {
       "surface": "אני",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "אודך",
-      "gloss": "tôi sẽ cảm tạ Ngài"
+      "gloss": "tôi sẽ tạ ơn Ngài"
     },
     {
       "surface": "בכלי",
-      "gloss": "bằng"
+      "gloss": "với nhạc cụ"
     },
     {
       "surface": "נבל",
-      "gloss": "đàn nêvel"
+      "gloss": "đàn nơ-vên"
     },
     {
       "surface": "אמתך",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim của tôi"
+      "gloss": "Elohim tôi"
     },
     {
       "surface": "אזמרה",
-      "gloss": "tôi sẽ弹 ca"
+      "gloss": "tôi sẽ hát xướng"
     },
     {
       "surface": "לך",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "בכנור",
-      "gloss": "bằng đàn kinor"
+      "gloss": "với đàn kin-nôr"
     },
     {
       "surface": "קדוש",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "của Yisrael"
+      "gloss": "của Yisraël"
     }
   ],
-  "timestamp": "2026-08-19T05:03:22.548308763Z",
+  "timestamp": "2026-08-24T16:21:12.038237884Z",
   "model": "glm-5.3"
 }

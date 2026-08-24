@@ -5,19 +5,19 @@
   "book": "2-samuel",
   "lang": "vi",
   "chapter": 13,
-  "translation": "Và Amnon bị bó chặt đến mức trở nên bệnh vì Tamar chị của mình, vì cô ⟨là⟩ trinh nữ; và việc gì làm với cô显得 quá khó trong mắt Amnon.",
+  "translation": "Và Avnon bị ép bức đến mức lăn bệnh vì Tamar em gái của ⟨anh ta⟩ — vì ⟨cô⟩ là một trinh nữ — và trong mắt Avnon việc làm gì đó với ⟨את⟩ cô là điều vô cùng khó.",
   "tokens": [
     {
       "surface": "ויצר",
-      "gloss": "bị bó chặt"
+      "gloss": "và bị ép bức"
     },
     {
       "surface": "לאמנון",
-      "gloss": "Amnon"
+      "gloss": "Avnon"
     },
     {
       "surface": "להתחלות",
-      "gloss": "đến mức bệnh"
+      "gloss": "đến mức lăn bệnh"
     },
     {
       "surface": "בעבור",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אחתו",
-      "gloss": "chị của mình"
+      "gloss": "em gái của anh ta"
     },
     {
       "surface": "כי",
@@ -41,33 +41,34 @@
     },
     {
       "surface": "היא",
-      "gloss": "cô"
+      "gloss": "cô là"
     },
     {
       "surface": "ויפלא",
-      "gloss": "và quá khó"
+      "gloss": "và là điều vô cùng khó"
     },
     {
       "surface": "בעיני",
-      "gloss": "trong mắt của"
+      "gloss": "trong mắt"
     },
     {
       "surface": "אמנון",
-      "gloss": "Amnon"
+      "gloss": "Avnon"
     },
     {
       "surface": "לעשות",
-      "gloss": "việc gì làm"
+      "gloss": "việc làm"
     },
     {
       "surface": "לה",
-      "gloss": "với cô"
+      "gloss": "với cô",
+      "marks": "לה"
     },
     {
       "surface": "מאומה",
-      "gloss": "điều gì"
+      "gloss": "điều gì đó"
     }
   ],
-  "timestamp": "2026-08-19T03:42:29.690302898Z",
+  "timestamp": "2026-08-24T16:11:20.661293600Z",
   "model": "glm-5.3"
 }

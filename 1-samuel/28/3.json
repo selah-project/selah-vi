@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "vi",
   "chapter": 28,
-  "translation": "Và Shmuel đã chết, và cả Yisrael khóc than ông, và chôn ông tại Ramah, trong thành của ông; và Shaol đã loại bỏ các bà đồng (האבות) và ⟨את⟩ những kẻ gọi linh (haydonim) khỏi đất.",
+  "translation": "Shmuel đã chết, và toàn thể Yisrael đã khóc than cho ông, và chôn cất ông tại Ramah, trong thành của ông; còn Shaul đã loại bỏ các thầy đồng ⟨את⟩ các thầy cúng ra khỏi xứ.",
   "tokens": [
     {
       "surface": "ושמואל",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "לו",
-      "gloss": "ông"
+      "gloss": "cho ông"
     },
     {
       "surface": "כל",
-      "gloss": "cả"
+      "gloss": "toàn thể"
     },
     {
       "surface": "ישראל",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ויקברהו",
-      "gloss": "và họ chôn ông"
+      "gloss": "và chôn cất ông"
     },
     {
       "surface": "ברמה",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "ובעירו",
-      "gloss": "trong thành của ông"
+      "gloss": "và trong thành của ông"
     },
     {
       "surface": "ושאול",
-      "gloss": "và Shaol"
+      "gloss": "và Shaul"
     },
     {
       "surface": "הסיר",
@@ -53,22 +53,22 @@
     },
     {
       "surface": "האבות",
-      "gloss": "các bà đồng"
+      "gloss": "các thầy đồng"
     },
     {
       "surface": "ואת",
-      "gloss": "và ⟨את⟩",
-      "marks": "những kẻ gọi linh"
+      "gloss": "⟨את⟩",
+      "marks": "các thầy cúng"
     },
     {
       "surface": "הידענים",
-      "gloss": "những kẻ gọi linh"
+      "gloss": "các thầy cúng"
     },
     {
       "surface": "מהארץ",
-      "gloss": "khỏi đất"
+      "gloss": "ra khỏi xứ"
     }
   ],
-  "timestamp": "2026-08-19T03:37:59.168889932Z",
+  "timestamp": "2026-08-24T16:11:07.309320974Z",
   "model": "glm-5.3"
 }

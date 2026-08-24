@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "vi",
   "chapter": 43,
-  "translation": "Vì Ngài là Elohim, chỗ nương tựa của tôi —为何 Nàng đã bỏ tôi? Vì sao tôi đi u sầu dưới sự áp bức của kẻ thù?",
+  "translation": "Vì chính Ngài ⟨là⟩ Elohim, thành luỹ của tôi; sao Ngài đã bỏ tôi? Sao tôi u sầu đi lại dưới sự áp bức của kẻ thù?",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Vì"
+      "gloss": "vì"
     },
     {
       "surface": "אתה",
-      "gloss": "Ngài"
+      "gloss": "chính Ngài"
     },
     {
       "surface": "אלהי",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "מעוזי",
-      "gloss": "chỗ nương tựa của tôi"
+      "gloss": "thành luỹ của tôi"
     },
     {
       "surface": "למה",
-      "gloss": "vì sao"
+      "gloss": "sao"
     },
     {
       "surface": "זנחתני",
-      "gloss": "đã bỏ tôi"
+      "gloss": "Ngài đã bỏ tôi"
     },
     {
       "surface": "למה",
-      "gloss": "vì sao"
+      "gloss": "sao"
     },
     {
       "surface": "קדר",
@@ -41,17 +41,17 @@
     },
     {
       "surface": "אתהלך",
-      "gloss": "tôi đi"
+      "gloss": "tôi đi lại"
     },
     {
       "surface": "בלחץ",
-      "gloss": "trong sự áp bức"
+      "gloss": "dưới sự áp bức"
     },
     {
       "surface": "אויב",
       "gloss": "của kẻ thù"
     }
   ],
-  "timestamp": "2026-08-19T06:17:32.316403607Z",
+  "timestamp": "2026-08-24T16:20:52.676649781Z",
   "model": "glm-5.3"
 }

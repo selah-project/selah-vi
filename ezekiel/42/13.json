@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "vi",
   "chapter": 42,
-  "translation": "Và người nói với tôi: ⟨⟨Đây là⟩⟩ các phòng phía bắc, các phòng phía nam, vốn ở trước khoảng đất phân cách — ⟨⟨chúng⟩⟩ là các phòng thánh, nơi các thầy tế lễ là những kẻ gần Yahweh sẽ ăn tại đó các vật chí thánh; tại đó họ sẽ đặt các vật chí thánh, cùng lễ vật bằng bột, lễ vật về tội, và lễ vật về lỗi phạm, vì nơi ấy là thánh.",
+  "translation": "Và người nói với tôi: Các phòng phía bắc và các phòng phía nam, vốn ở trước ⟨sân⟩ phân cách, này là các phòng thánh, nơi các thầy tế lễ gần Yahweh sẽ ăn các vật chí thánh; tại đó họ sẽ đặt các vật chí thánh, và ⟨của lễ⟩ tế vật, và lễ chuộc tội, và lễ chuộc lỗi; vì nơi đó ⟨là⟩ thánh.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -33,23 +33,23 @@
     },
     {
       "surface": "אשר",
-      "gloss": "vốn"
+      "gloss": "mà"
     },
     {
       "surface": "אל",
-      "gloss": "ở trước"
+      "gloss": "đối diện"
     },
     {
       "surface": "פני",
-      "gloss": "mặt của"
+      "gloss": "mặt trước"
     },
     {
       "surface": "הגזרה",
-      "gloss": "khoảng đất phân cách"
+      "gloss": "khu phân cách"
     },
     {
       "surface": "הנה",
-      "gloss": "kìa, chúng là"
+      "gloss": "này là"
     },
     {
       "surface": "לשכות",
@@ -89,11 +89,11 @@
     },
     {
       "surface": "קדשי",
-      "gloss": "các vật chí thánh của"
+      "gloss": "các vật thánh"
     },
     {
       "surface": "הקדשים",
-      "gloss": "sự thánh"
+      "gloss": "chí thánh"
     },
     {
       "surface": "שם",
@@ -105,23 +105,23 @@
     },
     {
       "surface": "קדשי",
-      "gloss": "các vật chí thánh của"
+      "gloss": "các vật thánh"
     },
     {
       "surface": "הקדשים",
-      "gloss": "sự thánh"
+      "gloss": "chí thánh"
     },
     {
       "surface": "והמנחה",
-      "gloss": "và lễ vật bằng bột"
+      "gloss": "và lễ vật"
     },
     {
       "surface": "והחטאת",
-      "gloss": "và lễ vật về tội"
+      "gloss": "và lễ chuộc tội"
     },
     {
       "surface": "והאשם",
-      "gloss": "và lễ vật về lỗi phạm"
+      "gloss": "và lễ chuộc lỗi"
     },
     {
       "surface": "כי",
@@ -129,13 +129,13 @@
     },
     {
       "surface": "המקום",
-      "gloss": "nơi ấy"
+      "gloss": "nơi đó"
     },
     {
       "surface": "קדש",
-      "gloss": "là thánh"
+      "gloss": "thánh"
     }
   ],
-  "timestamp": "2026-08-19T04:42:34.644079335Z",
+  "timestamp": "2026-08-24T16:17:42.506415374Z",
   "model": "glm-5.3"
 }

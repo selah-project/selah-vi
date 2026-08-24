@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "vi",
   "chapter": 28,
-  "translation": "Được ban phước ⟨⟨là⟩⟩ ngươi khi ngươi vào, và được ban phước ⟨⟨là⟩⟩ ngươi khi ngươi ra.",
+  "translation": "Được ban phước ngươi khi ⟨ngươi⟩ đi vào, và được ban phước ngươi khi ⟨ngươi⟩ đi ra.",
   "tokens": [
     {
       "surface": "ברוך",
-      "gloss": "được ban phước"
+      "gloss": "Được ban phước"
     },
     {
       "surface": "אתה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "בבאך",
-      "gloss": "khi ngươi vào"
+      "gloss": "khi đi vào của ngươi"
     },
     {
       "surface": "וברוך",
@@ -29,9 +29,9 @@
     },
     {
       "surface": "בצאתך",
-      "gloss": "khi ngươi ra"
+      "gloss": "khi đi ra của ngươi"
     }
   ],
-  "timestamp": "2026-08-19T03:12:27.015217009Z",
+  "timestamp": "2026-08-24T16:09:00.729301393Z",
   "model": "glm-5.3"
 }

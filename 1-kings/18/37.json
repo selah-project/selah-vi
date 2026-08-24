@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "vi",
   "chapter": 18,
-  "translation": "Hãy đáp lời con, Yahweh, hãy đáp lời con, để dân này biết rằng chính Ngài là Yahweh, ⟨the⟩ Elohim, và chính Ngài đã lật lại ⟨את⟩ lòng của họ quay ngược lại.",
+  "translation": "Hãy đáp lời con, Yahweh, hãy đáp lời con, để dân này biết rằng Ngài ⟨là⟩ Yahweh, ⟨là⟩ Elohim, và chính Ngài đã lật trở lại ⟨את⟩ lòng họ sau lưng.",
   "tokens": [
     {
       "surface": "ענני",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "וידעו",
-      "gloss": "và họ sẽ biết"
+      "gloss": "và biết"
     },
     {
       "surface": "העם",
@@ -45,30 +45,30 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "⟨the⟩ Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "ואתה",
-      "gloss": "và chính Ngài"
+      "gloss": "và Ngài"
     },
     {
       "surface": "הסבת",
-      "gloss": "đã lật quay lại"
+      "gloss": "đã lật trở lại"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lòng của họ"
+      "marks": "lòng họ"
     },
     {
       "surface": "לבם",
-      "gloss": "lòng của họ"
+      "gloss": "lòng họ"
     },
     {
       "surface": "אחרנית",
-      "gloss": "ngược lại"
+      "gloss": "sau lưng"
     }
   ],
-  "timestamp": "2026-08-19T03:53:45.154969584Z",
+  "timestamp": "2026-08-24T16:33:33.365978565Z",
   "model": "glm-5.3"
 }

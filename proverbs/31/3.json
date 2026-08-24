@@ -5,8 +5,37 @@
   "book": "proverbs",
   "lang": "vi",
   "chapter": 31,
-  "translation": "Chớ给予了 — theo tôi",
-  "tokens": [],
-  "timestamp": "2026-08-19T05:19:53.339453393Z",
+  "translation": "Đừng给予 לנשים — hãy审慎：Đừng trao cho các phụ nữ sức lực của ngươi, cũng đừng trao con đường của ngươi cho ⟨việc⟩ hủy diệt các vua.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "đừng"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "trao cho"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "các phụ nữ"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "sức lực của ngươi"
+    },
+    {
+      "surface": "ודרכיך",
+      "gloss": "và con đường của ngươi"
+    },
+    {
+      "surface": "למחות",
+      "gloss": "để hủy diệt"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "các vua"
+    }
+  ],
+  "timestamp": "2026-08-24T16:22:15.480156657Z",
   "model": "glm-5.3"
 }

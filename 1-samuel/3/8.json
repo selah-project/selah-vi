@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "vi",
   "chapter": 3,
-  "translation": "Và Yahweh thêm gọi Shemuël lần thứ ba; 〈anh ta〉 trỗi dậy và đi đến E-li và nói: Đây tôi, vì ông đã gọi tôi. Và E-li hiểu ra rằng Yahweh đang gọi cậu bé.",
+  "translation": "Và Yahweh thêm lần nữa gọi Shemuël lần thứ ba; cậu đứng dậy và đi đến với Eli, và nói: Này tôi đây, vì ông đã gọi tôi. Và Eli hiểu ra rằng Yahweh đang gọi cậu bé.",
   "tokens": [
     {
       "surface": "ויסף",
-      "gloss": "và thêm"
+      "gloss": "thêm lần nữa"
     },
     {
       "surface": "יהוה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ויקם",
-      "gloss": "và trỗi dậy"
+      "gloss": "và đứng dậy"
     },
     {
       "surface": "וילך",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "đến"
+      "gloss": "đến với"
     },
     {
       "surface": "עלי",
-      "gloss": "E-li"
+      "gloss": "Eli"
     },
     {
       "surface": "ויאמר",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "הנני",
-      "gloss": "đây tôi"
+      "gloss": "này tôi đây"
     },
     {
       "surface": "כי",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "עלי",
-      "gloss": "E-li"
+      "gloss": "Eli"
     },
     {
       "surface": "כי",
@@ -88,6 +88,6 @@
       "gloss": "cậu bé"
     }
   ],
-  "timestamp": "2026-08-19T03:29:44.914913463Z",
+  "timestamp": "2026-08-24T16:58:27.518135746Z",
   "model": "glm-5.3"
 }

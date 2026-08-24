@@ -5,16 +5,16 @@
   "book": "leviticus",
   "lang": "vi",
   "chapter": 7,
-  "translation": "Và ⟨את⟩ hết thảy mỡ của nó người ta sẽ dâng từ nó: ⟨את⟩ cái đuôi mỡ, và ⟨את⟩ cái mỡ bao phủ ⟨את〕 ruột gan.",
+  "translation": "Và ⟨את⟩ toàn bộ mỡ của nó người ta sẽ dâng lên từ nó: ⟨את⟩ đuôi mỡ, và ⟨את⟩ cái mỡ phủ ⟨את⟩ lòng ruột.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "và ⟨את⟩",
-      "marks": "hết thảy mỡ của nó"
+      "gloss": "⟨את⟩",
+      "marks": "toàn bộ mỡ của nó"
     },
     {
       "surface": "כל",
-      "gloss": "hết thảy"
+      "gloss": "toàn bộ"
     },
     {
       "surface": "חלבו",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "יקריב",
-      "gloss": "sẽ dâng"
+      "gloss": "sẽ dâng lên"
     },
     {
       "surface": "ממנו",
@@ -31,7 +31,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "cái đuôi mỡ"
+      "marks": "đuôi mỡ"
     },
     {
       "surface": "האליה",
@@ -39,7 +39,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "và ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "cái mỡ"
     },
     {
@@ -48,18 +48,18 @@
     },
     {
       "surface": "המכסה",
-      "gloss": "bao phủ"
+      "gloss": "phủ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ruột"
+      "marks": "lòng ruột"
     },
     {
       "surface": "הקרב",
-      "gloss": "ruột"
+      "gloss": "lòng ruột"
     }
   ],
-  "timestamp": "2026-08-19T02:40:59.761816912Z",
+  "timestamp": "2026-08-24T16:26:34.189955515Z",
   "model": "glm-5.3"
 }

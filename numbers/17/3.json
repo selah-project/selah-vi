@@ -5,16 +5,16 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 17,
-  "translation": "⟨את⟩ Các lò than của những kẻ phạm tội này, ⟨đã mất⟩ mạng sống của chúng, và người ta hãy lấy chúng làm những tấm kim loại dát mỏng, lớp phủ cho bàn thờ, vì chúng đã được dâng trước mặt Yahweh nên đã thành thánh; và chúng sẽ làm dấu hiệu cho con cái Yisrael.",
+  "translation": "⟨את⟩ những chậu lửa của những kẻ phạm tội ấy, trả giá bằng sinh mạng mình; người ta sẽ làm chúng thành những tấm kim khí được đập dẹt, lớp phủ ⟨cho⟩ bàn thờ, vì chúng đã được dâng trước mặt Yahweh và đã được thánh hóa; chúng sẽ làm dấu hiệu cho con cái Yisrael.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "các lò than"
+      "marks": "những chậu lửa"
     },
     {
       "surface": "מחתות",
-      "gloss": "các lò than"
+      "gloss": "chậu lửa"
     },
     {
       "surface": "החטאים",
@@ -26,23 +26,24 @@
     },
     {
       "surface": "בנפשתם",
-      "gloss": "đổi lấy mạng sống của chúng"
+      "gloss": "trả giá bằng sinh mạng mình"
     },
     {
       "surface": "ועשו",
-      "gloss": "và hãy làm"
+      "gloss": "và người ta sẽ làm"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩"
+      "gloss": "⟨את⟩",
+      "marks": "những tấm kim khí"
     },
     {
       "surface": "רקעי",
-      "gloss": "thành những tấm dát mỏng"
+      "gloss": "những tấm kim khí đập dẹt"
     },
     {
       "surface": "פחים",
-      "gloss": "tấm kim loại"
+      "gloss": "tấm kim loại mỏng"
     },
     {
       "surface": "צפוי",
@@ -70,11 +71,11 @@
     },
     {
       "surface": "ויקדשו",
-      "gloss": "nên đã thành thánh"
+      "gloss": "và đã được thánh hóa"
     },
     {
       "surface": "ויהיו",
-      "gloss": "và chúng sẽ là"
+      "gloss": "và chúng sẽ trở thành"
     },
     {
       "surface": "לאות",
@@ -89,6 +90,6 @@
       "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.048382982Z",
+  "timestamp": "2026-08-24T16:06:52.349085245Z",
   "model": "glm-5.3"
 }

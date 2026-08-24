@@ -5,16 +5,16 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 1,
-  "translation": "Và Elohim ban phước ⟨את⟩ ⟨אתם⟩ cho họ, và Elohim phán với họ: Hãy sinh sôi, hãy nhiều lên, hãy làm đầy ⟨את⟩ đất và trấn phục nó; và hãy thống trị cá biển, chim trời, và mọi sinh vật bò trườn trên đất.",
+  "translation": "Và Elohim ban phước cho ⟨את⟩ ⟨אתם⟩, và Elohim phán cùng họ: Hãy sinh sản nhiều, hãy增多增多 ra nhiều, hãy đầy lên ⟨את⟩ đất, và hãy trị nó; và hãy cai trị cá biển, chim trời, và mọi sinh vật creeping trên đất.",
   "tokens": [
     {
       "surface": "ויברך",
-      "gloss": "và ban phước"
+      "gloss": "đã ban phước"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "họ"
+      "marks": "họ (ban phước cho họ)"
     },
     {
       "surface": "אלהים",
@@ -22,11 +22,11 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "và phán"
+      "gloss": "và đã phán"
     },
     {
       "surface": "להם",
-      "gloss": "với họ"
+      "gloss": "cùng họ"
     },
     {
       "surface": "אלהים",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "ורבו",
-      "gloss": "và hãy nhiều lên"
+      "gloss": "và hãy gia tăng"
     },
     {
       "surface": "ומלאו",
-      "gloss": "và hãy làm đầy"
+      "gloss": "và hãy đầy lên"
     },
     {
       "surface": "את",
@@ -55,11 +55,11 @@
     },
     {
       "surface": "וכבשה",
-      "gloss": "và trấn phục nó"
+      "gloss": "và hãy trị nó"
     },
     {
       "surface": "ורדו",
-      "gloss": "và hãy thống trị"
+      "gloss": "và hãy cai trị"
     },
     {
       "surface": "בדגת",
@@ -83,11 +83,11 @@
     },
     {
       "surface": "חיה",
-      "gloss": "sinh vật"
+      "gloss": "sinh vật sống"
     },
     {
       "surface": "הרמשת",
-      "gloss": "đang bò trườn"
+      "gloss": "bò trườn"
     },
     {
       "surface": "על",
@@ -98,6 +98,6 @@
       "gloss": "đất"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.952364545Z",
+  "timestamp": "2026-08-24T16:58:27.510487465Z",
   "model": "glm-5.3"
 }

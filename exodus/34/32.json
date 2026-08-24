@@ -5,23 +5,23 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 34,
-  "translation": "Và sau đó, mọi con cái Yisrael đến gần; và ⟨anh⟩ truyền lệnh cho họ ⟨את⟩ mọi điều mà Yahweh đã phán cùng ⟨אתו⟩ trên núi Sinai.",
+  "translation": "Và sau đó toàn thể con cái Israel tiến lại gần, và ông truyền cho họ ⟨את⟩ mọi điều mà Yahweh đã phán với ⟨את⟩ ông trên núi Sinai.",
   "tokens": [
     {
       "surface": "ואחרי",
-      "gloss": "và sau"
+      "gloss": "và sau đó"
     },
     {
       "surface": "כן",
-      "gloss": "đó"
+      "gloss": "bấy giờ"
     },
     {
       "surface": "נגשו",
-      "gloss": "họ đến gần"
+      "gloss": "tiến lại gần"
     },
     {
       "surface": "כל",
-      "gloss": "mọi"
+      "gloss": "toàn thể"
     },
     {
       "surface": "בני",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Israel"
     },
     {
       "surface": "ויצום",
-      "gloss": "và truyền lệnh cho họ"
+      "gloss": "và ông truyền cho họ"
     },
     {
       "surface": "את",
@@ -58,8 +58,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ cùng ⟨ngài⟩",
-      "marks": "phán cùng ⟨אתו⟩ — với Moshe"
+      "gloss": "⟨את⟩ với ông"
     },
     {
       "surface": "בהר",
@@ -70,6 +69,6 @@
       "gloss": "Sinai"
     }
   ],
-  "timestamp": "2026-08-19T02:37:32.938980351Z",
+  "timestamp": "2026-08-24T16:04:39.149981941Z",
   "model": "glm-5.3"
 }

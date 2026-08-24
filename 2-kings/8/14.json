@@ -5,15 +5,16 @@
   "book": "2-kings",
   "lang": "vi",
   "chapter": 8,
-  "translation": "Và ⟨הוא⟩ đi từ với ⟨את⟩ Elisha, và đến với chủ của mình; và người nói với ⟨הוא⟩: Elisha đã nói với ngài điều gì? Và ⟨הוא⟩ nói: Người đã nói với tôi: Sống, ngươi sẽ sống.",
+  "translation": "Rồi ⟨הו⟩ đi khỏi ⟨את⟩ Elisha, và đến với chúa của ⟨הו⟩; ⟨הו⟩ nói với ⟨הו⟩: Elisha đã nói gì với ngươi? Và ⟨הו⟩ nói: ⟨הו⟩ đã nói với tôi: Ngươi chắc chắn sẽ sống.",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "và đi"
+      "gloss": "rồi đi"
     },
     {
       "surface": "מאת",
-      "gloss": "từ với ⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "Elisha (đi khỏi với Elisha)"
     },
     {
       "surface": "אלישע",
@@ -29,7 +30,7 @@
     },
     {
       "surface": "אדניו",
-      "gloss": "chủ của mình"
+      "gloss": "chúa của ông"
     },
     {
       "surface": "ויאמר",
@@ -37,7 +38,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "với người"
+      "gloss": "với ông"
     },
     {
       "surface": "מה",
@@ -49,7 +50,7 @@
     },
     {
       "surface": "לך",
-      "gloss": "với ngài"
+      "gloss": "với ngươi"
     },
     {
       "surface": "אלישע",
@@ -76,6 +77,6 @@
       "gloss": "ngươi sẽ sống"
     }
   ],
-  "timestamp": "2026-08-19T06:10:37.916693170Z",
+  "timestamp": "2026-08-24T16:12:59.080825939Z",
   "model": "glm-5.3"
 }

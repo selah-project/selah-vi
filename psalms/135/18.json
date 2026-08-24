@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "vi",
   "chapter": 135,
-  "translation": "Như chúng, sẽ thành như vậy những kẻ làm chúng; mọi kẻ tin cậy vào chúng 〈cũng vậy〉.",
+  "translation": "Như chúng, sẽ trở nên những kẻ làm ra chúng; mọi kẻ tin cậy nơi chúng ⟨cũng⟩ như vậy.",
   "tokens": [
     {
       "surface": "כמוהם",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "יהיו",
-      "gloss": "sẽ thành"
+      "gloss": "sẽ trở nên"
     },
     {
       "surface": "עשיהם",
-      "gloss": "những kẻ làm chúng"
+      "gloss": "những kẻ làm ra chúng"
     },
     {
       "surface": "כל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kẻ"
+      "gloss": "kẻ mà"
     },
     {
       "surface": "בטח",
@@ -33,9 +33,9 @@
     },
     {
       "surface": "בהם",
-      "gloss": "vào chúng"
+      "gloss": "nơi chúng"
     }
   ],
-  "timestamp": "2026-08-19T06:19:07.982634622Z",
+  "timestamp": "2026-08-24T16:21:52.833852537Z",
   "model": "glm-5.3"
 }

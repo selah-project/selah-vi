@@ -5,8 +5,56 @@
   "book": "2-chronicles",
   "lang": "vi",
   "chapter": 11,
-  "translation": "và ⟨את⟩ Tsorah, và ⟨את⟩ Ayalon, và ⟨את⟩ Chevron — những ⟨thành⟩ ở Yehudah và ở Binyamin, các thành trì)] được",
-  "tokens": [],
-  "timestamp": "2026-08-19T05:55:25.586879654Z",
+  "translation": "và ⟨את⟩ Tsorah, và ⟨את⟩ Ayalon, và ⟨את⟩ Khevron, ở trong Yehudah và trong Binyamin, các thành có tường luỹ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Tsorah"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsorah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Ayalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "Khevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khevron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "trong Yehudah"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "và trong Binyamin"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "các thành"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "có tường luỹ"
+    }
+  ],
+  "timestamp": "2026-08-24T16:25:22.668039009Z",
   "model": "glm-5.3"
 }

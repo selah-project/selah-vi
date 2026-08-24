@@ -5,8 +5,37 @@
   "book": "proverbs",
   "lang": "vi",
   "chapter": 24,
-  "translation": "Đừng làm chứng_way vô cớ chống against người lân cận của ngươi, và chớ lừa dối bằng môi của ngươi.",
-  "tokens": [],
-  "timestamp": "2026-08-19T05:18:29.952578503Z",
+  "translation": "Chớ làm chứng chống而无lý do chống người lân cận của ngươi; chớ dụ dỗ bằng môi của ngươi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "chớ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "hãy-là"
+    },
+    {
+      "surface": "עד",
+      "gloss": "chứng-nhân"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "vô-cớ"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "chống người-lân-cận của-ngươi"
+    },
+    {
+      "surface": "והפתית",
+      "gloss": "và chớ dụ-dỗ"
+    },
+    {
+      "surface": "בשפתיך",
+      "gloss": "bằng môi của-ngươi"
+    }
+  ],
+  "timestamp": "2026-08-24T16:22:08.906508698Z",
   "model": "glm-5.3"
 }

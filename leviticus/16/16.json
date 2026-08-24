@@ -5,39 +5,39 @@
   "book": "leviticus",
   "lang": "vi",
   "chapter": 16,
-  "translation": "Và người sẽ làm lễ chuộc tội cho nơi thánh, vì sự ô uế của con cái Yisrael và vì các sự vi phạm của họ trong mọi tội lỗi của họ; và người cũng sẽ làm như vậy cho lều hội tụ, Đấng ngự ⟨את⟩ 他们 giữa sự ô uế của họ.",
+  "translation": "Và ngài sẽ làm lễ chuộc tội cho ⟨את⟩ Điện Thánh, vì những sự ô uế của con cái Yisra'el, và vì các sự phạm tội của họ, theo mọi tội lỗi của họ; và ngài cũng sẽ làm như vậy cho Lều Hội Mộ, Đấng ngự ⟨את⟩ cùng họ giữa sự ô uế của họ.",
   "tokens": [
     {
       "surface": "וכפר",
-      "gloss": "và người sẽ chuộc tội"
+      "gloss": "và sẽ làm lễ chuộc tội"
     },
     {
       "surface": "על",
-      "gloss": "cho"
+      "gloss": "cho \/ vì"
     },
     {
       "surface": "הקדש",
-      "gloss": "nơi thánh"
+      "gloss": "Điện Thánh"
     },
     {
       "surface": "מטמאת",
-      "gloss": "vì sự ô uế"
+      "gloss": "vì những sự ô uế của"
     },
     {
       "surface": "בני",
-      "gloss": "con cái"
+      "gloss": "con cái của"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Yisra'el"
     },
     {
       "surface": "ומפשעיהם",
-      "gloss": "và vì các sự vi phạm của họ"
+      "gloss": "và vì các sự phạm tội của họ"
     },
     {
       "surface": "לכל",
-      "gloss": "trong mọi"
+      "gloss": "theo mọi"
     },
     {
       "surface": "חטאתם",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "người sẽ làm"
+      "gloss": "ngài sẽ làm"
     },
     {
       "surface": "לאהל",
-      "gloss": "cho lều"
+      "gloss": "cho Lều"
     },
     {
       "surface": "מועד",
-      "gloss": "hội tụ"
+      "gloss": "Hội Mộ"
     },
     {
       "surface": "השכן",
@@ -65,7 +65,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ cùng"
+      "gloss": "⟨את⟩",
+      "marks": "cùng họ (chúng)"
     },
     {
       "surface": "בתוך",
@@ -76,6 +77,6 @@
       "gloss": "sự ô uế của họ"
     }
   ],
-  "timestamp": "2026-08-19T02:45:14.783755788Z",
+  "timestamp": "2026-08-24T16:06:03.922939241Z",
   "model": "glm-5.3"
 }

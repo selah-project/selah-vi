@@ -5,11 +5,11 @@
   "book": "joel",
   "lang": "vi",
   "chapter": 2,
-  "translation": "Và Yahweh đã đáp lời và nói với dân sự Ngài: Này, Ta đang gửi đến các ngươi ⟨את⟩ ngũ cốc, rượu mới và dầu; và các ngươi sẽ được no đầy ⟨את⟩ ⟨את nó⟩; và Ta sẽ không còn ban các ngươi làm sự sỉ nhục giữa các dân tộc nữa.",
+  "translation": "Và Yahweh đã đáp và phán với dân sự Ngài: Này, Ta đang gửi đến các ngươi ⟨את⟩ ngũ cốc, và rượu mới, và dầu; và các ngươi sẽ được no đầy ⟨את⟩ nó; và Ta sẽ không còn ban các ngươi làm sự sỉ nhục giữa các dân tộc nữa.",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "và đã đáp lời"
+      "gloss": "và đã đáp"
     },
     {
       "surface": "יהוה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "và nói"
+      "gloss": "và phán"
     },
     {
       "surface": "לעמו",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הנני",
-      "gloss": "này, Ta"
+      "gloss": "này Ta"
     },
     {
       "surface": "שלח",
@@ -58,8 +58,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨את nó⟩",
-      "marks": "ngũ cốc, rượu mới và dầu"
+      "gloss": "⟨את⟩",
+      "marks": "nó (ngũ cốc, rượu, dầu)"
     },
     {
       "surface": "ולא",
@@ -71,8 +71,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨את các ngươi⟩",
-      "marks": "các ngươi"
+      "gloss": "⟨את⟩ các ngươi"
     },
     {
       "surface": "עוד",
@@ -87,6 +86,6 @@
       "gloss": "giữa các dân tộc"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.996440999Z",
+  "timestamp": "2026-08-24T16:18:51.954397330Z",
   "model": "glm-5.3"
 }

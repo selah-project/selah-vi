@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 39,
-  "translation": "Và chủ mình thấy rằng Yahweh ⟨את⟩ ở cùng ông, và mọi điều ⟨הוא⟩ làm, Yahweh làm cho thành công trong tay ⟨הוא⟩.",
+  "translation": "Và chủ mình thấy rằng Yahweh ⟨את⟩ ở cùng ⟨người ấy⟩, và mọi điều ⟨người ấy⟩ làm, Yahweh cho thành đạt trong tay ⟨người ấy⟩.",
   "tokens": [
     {
       "surface": "וירא",
-      "gloss": "Và thấy"
+      "gloss": "và thấy"
     },
     {
       "surface": "אדניו",
@@ -25,7 +25,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩ ở cùng",
+      "marks": "người ấy (Yosef)"
     },
     {
       "surface": "וכל",
@@ -37,7 +38,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "ông"
+      "gloss": "người ấy"
     },
     {
       "surface": "עשה",
@@ -49,13 +50,13 @@
     },
     {
       "surface": "מצליח",
-      "gloss": "làm thành công"
+      "gloss": "cho thành đạt"
     },
     {
       "surface": "בידו",
-      "gloss": "trong tay ông"
+      "gloss": "trong tay người ấy"
     }
   ],
-  "timestamp": "2026-08-19T01:28:08.631531179Z",
+  "timestamp": "2026-08-24T16:03:26.154532269Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 3,
-  "translation": "và ngươi hãy đưa银子 bạc đó cho Aharon và cho các con trai ông — tiền chuộc của những người dư ra trong số họ.",
+  "translation": "Và ngươi hãy đưa ⟨את⟩ món bạc đó cho Aharon và cho các con trai người — tiền chuộc của những kẻ dôi dư trong số họ.",
   "tokens": [
     {
       "surface": "ונתתה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הכסף",
-      "gloss": "bạc đó"
+      "gloss": "món bạc đó"
     },
     {
       "surface": "לאהרן",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ולבניו",
-      "gloss": "và cho các con trai ông"
+      "gloss": "và cho các con trai người"
     },
     {
       "surface": "פדויי",
@@ -29,13 +29,13 @@
     },
     {
       "surface": "העדפים",
-      "gloss": "những người dư ra"
+      "gloss": "những kẻ dôi dư"
     },
     {
       "surface": "בהם",
       "gloss": "trong số họ"
     }
   ],
-  "timestamp": "2026-08-19T02:52:32.907453534Z",
+  "timestamp": "2026-08-24T16:05:48.409574109Z",
   "model": "glm-5.3"
 }

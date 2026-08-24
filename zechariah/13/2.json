@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "vi",
   "chapter": 13,
-  "translation": "Và sẽ xảy ra trong ngày ấy, sấm ngôn của Yahweh Tsevaot: Ta sẽ cắt絶 ⟨את⟩ các tên của các thần tượng khỏi đất, và chúng sẽ không còn được nhớ đến nữa; và cả ⟨את⟩ các tiên tri cùng ⟨את⟩ thần khí ô uế, Ta sẽ cho đi qua khỏi đất.",
+  "translation": "Và sẽ xảy ra trong ngày ấy, sấm phán của Yahweh Sevaot: Ta sẽ cắt bỏ ⟨את⟩ các tên của các thần tượng khỏi đất, và chúng sẽ không còn được nhớ đến nữa; và cả ⟨את⟩ các nhà tiên tri lẫn ⟨את⟩ thần của sự ô uế ta sẽ làm cho qua khỏi đất.",
   "tokens": [
     {
       "surface": "והיה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "נאם",
-      "gloss": "sấm ngôn"
+      "gloss": "sấm phán"
     },
     {
       "surface": "יהוה",
@@ -29,16 +29,16 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "Tsevaot"
+      "gloss": "Sevaot"
     },
     {
       "surface": "אכרית",
-      "gloss": "Ta sẽ cắt bỏ"
+      "gloss": "ta sẽ cắt bỏ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "các tên"
+      "marks": "các tên của các thần tượng"
     },
     {
       "surface": "שמות",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "העצבים",
-      "gloss": "của các thần tượng"
+      "gloss": "các thần tượng"
     },
     {
       "surface": "מן",
@@ -62,11 +62,11 @@
     },
     {
       "surface": "יזכרו",
-      "gloss": "được nhớ đến"
+      "gloss": "chúng sẽ được nhớ"
     },
     {
       "surface": "עוד",
-      "gloss": "còn nữa"
+      "gloss": "nữa"
     },
     {
       "surface": "וגם",
@@ -75,28 +75,28 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "các tiên tri"
+      "marks": "các nhà tiên tri"
     },
     {
       "surface": "הנביאים",
-      "gloss": "các tiên tri"
+      "gloss": "các nhà tiên tri"
     },
     {
       "surface": "ואת",
       "gloss": "và ⟨את⟩",
-      "marks": "thần khí"
+      "marks": "thần của sự ô uế"
     },
     {
       "surface": "רוח",
-      "gloss": "thần khí"
+      "gloss": "thần"
     },
     {
       "surface": "הטמאה",
-      "gloss": "ô uế"
+      "gloss": "của sự ô uế"
     },
     {
       "surface": "אעביר",
-      "gloss": "Ta sẽ cho đi qua"
+      "gloss": "ta sẽ làm cho qua"
     },
     {
       "surface": "מן",
@@ -107,6 +107,6 @@
       "gloss": "đất"
     }
   ],
-  "timestamp": "2026-08-19T04:53:59.194530125Z",
+  "timestamp": "2026-08-24T16:20:07.486319892Z",
   "model": "glm-5.3"
 }

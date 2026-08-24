@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 19,
-  "translation": "Này xin, tôi có hai đứa con gái chưa từng biết đến người đàn ông nào; xin tôi đưa ⟨את⟩ chúng ra đến với các ông, và hãy làm với chúng điều nào tốt trong mắt các ông; chỉ riêng với những người đàn ông này đừng làm gì, vì正因为 vậy họ đã vào dưới bóng mái nhà của tôi.",
+  "translation": "Này, xin hãy, tôi có hai con gái未曾 nhận biết đàn ông; xin hãy để tôi đưa ⟨את⟩ các cô ra cho các ông, và các ông cứ làm cho các cô điều gì tốt trong mắt các ông; chỉ riêng đối với những người đàn ông này, chớ làm điều gì, vì chính vì vậy họ đã đến dưới bóng mái nhà tôi.",
   "tokens": [
     {
       "surface": "הנה",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "נא",
-      "gloss": "xin"
+      "gloss": "xin hãy"
     },
     {
       "surface": "לי",
-      "gloss": "của tôi"
+      "gloss": "cho tôi"
     },
     {
       "surface": "שתי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "בנות",
-      "gloss": "đứa con gái"
+      "gloss": "con gái"
     },
     {
       "surface": "אשר",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "ידעו",
-      "gloss": "biết"
+      "gloss": "đã nhận biết"
     },
     {
       "surface": "איש",
-      "gloss": "người đàn ông nào"
+      "gloss": "đàn ông"
     },
     {
       "surface": "אוציאה",
@@ -49,16 +49,16 @@
     },
     {
       "surface": "נא",
-      "gloss": "xin"
+      "gloss": "xin hãy"
     },
     {
       "surface": "אתהן",
       "gloss": "⟨את⟩",
-      "marks": "chúng (hai đứa con gái)"
+      "marks": "các cô (con gái)"
     },
     {
       "surface": "אליכם",
-      "gloss": "đến với các ông"
+      "gloss": "cho các ông"
     },
     {
       "surface": "ועשו",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "להן",
-      "gloss": "với chúng"
+      "gloss": "cho các cô"
     },
     {
       "surface": "כטוב",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "לאנשים",
-      "gloss": "với những người đàn ông"
+      "gloss": "đối với những người"
     },
     {
       "surface": "האל",
@@ -94,7 +94,7 @@
     },
     {
       "surface": "תעשו",
-      "gloss": "hãy làm"
+      "gloss": "các ông làm"
     },
     {
       "surface": "דבר",
@@ -106,15 +106,15 @@
     },
     {
       "surface": "על",
-      "gloss": "vì"
+      "gloss": "chính vì"
     },
     {
       "surface": "כן",
-      "gloss": "như vậy"
+      "gloss": "đó"
     },
     {
       "surface": "באו",
-      "gloss": "họ đã vào"
+      "gloss": "họ đã đến"
     },
     {
       "surface": "בצל",
@@ -122,9 +122,9 @@
     },
     {
       "surface": "קרתי",
-      "gloss": "mái nhà của tôi"
+      "gloss": "mái nhà tôi"
     }
   ],
-  "timestamp": "2026-08-19T01:00:43.646470033Z",
+  "timestamp": "2026-08-24T16:02:02.421937562Z",
   "model": "glm-5.3"
 }

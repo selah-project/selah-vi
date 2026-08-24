@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "vi",
   "chapter": 32,
-  "translation": "Nếu không — vì cơn giận của kẻ thù我怕, kẻ rình rập — e rằng chúng nó nhận ra, những kẻ áp bức của chúng, e rằng chúng nó nói: Tay chúng ta đã giơ cao, chứ không phải Yahweh đã làm mọi điều này.",
+  "translation": "Nếu không — cơn giận của kẻ thù, ta e sợ, e rằng kẻ thù nghịch của chúng nó nhận ra, e rằng chúng nó nói: Tay chúng ta đã được nhấc cao, và không phải Yahweh đã làm tất cả điều này.",
   "tokens": [
     {
       "surface": "לולי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אגור",
-      "gloss": "rình rập"
+      "gloss": "ta e sợ"
     },
     {
       "surface": "פן",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "ינכרו",
-      "gloss": "chúng nhận ra"
+      "gloss": "nhận ra"
     },
     {
       "surface": "צרימו",
-      "gloss": "những kẻ áp bức của chúng"
+      "gloss": "kẻ thù nghịch của chúng nó"
     },
     {
       "surface": "פן",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "יאמרו",
-      "gloss": "chúng nói"
+      "gloss": "chúng nó nói"
     },
     {
       "surface": "ידינו",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "רמה",
-      "gloss": "đã giơ cao"
+      "gloss": "đã được nhấc cao"
     },
     {
       "surface": "ולא",
-      "gloss": "chứ không phải"
+      "gloss": "và không"
     },
     {
       "surface": "יהוה",
@@ -65,13 +65,13 @@
     },
     {
       "surface": "כל",
-      "gloss": "mọi"
+      "gloss": "tất cả"
     },
     {
       "surface": "זאת",
       "gloss": "điều này"
     }
   ],
-  "timestamp": "2026-08-19T03:13:48.000108924Z",
+  "timestamp": "2026-08-24T16:08:48.197806505Z",
   "model": "glm-5.3"
 }

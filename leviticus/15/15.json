@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "vi",
   "chapter": 15,
-  "translation": "Thầy tế lễ sẽ làm ⟨אתם⟩ chúng: một con làm tế lễ tội lỗi, và con kia làm tế lễ thiêu; thầy tế lễ sẽ làm sự chuộc tội cho người ấy trước mặt Yahweh, vì chứng xuất tiết của người ấy.",
+  "translation": "Và tư tế sẽ dâng ⟨אתם⟩ — con một làm của lễ tội lỗi, và con kia làm của lễ thiêu; tư tế sẽ làm lễ chuộc tội cho y trước mặt Yahweh, vì sự chảy của y.",
   "tokens": [
     {
       "surface": "ועשה",
-      "gloss": "và làm"
+      "gloss": "và sẽ làm\/dâng"
     },
     {
       "surface": "אתם",
@@ -18,15 +18,15 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "thầy tế lễ"
+      "gloss": "tư tế"
     },
     {
       "surface": "אחד",
-      "gloss": "một con"
+      "gloss": "một"
     },
     {
       "surface": "חטאת",
-      "gloss": "tế lễ tội lỗi"
+      "gloss": "của lễ tội lỗi"
     },
     {
       "surface": "והאחד",
@@ -34,19 +34,19 @@
     },
     {
       "surface": "עלה",
-      "gloss": "tế lễ thiêu"
+      "gloss": "của lễ thiêu"
     },
     {
       "surface": "וכפר",
-      "gloss": "và làm sự chuộc tội"
+      "gloss": "và sẽ chuộc tội"
     },
     {
       "surface": "עליו",
-      "gloss": "cho người ấy"
+      "gloss": "cho y"
     },
     {
       "surface": "הכהן",
-      "gloss": "thầy tế lễ"
+      "gloss": "tư tế"
     },
     {
       "surface": "לפני",
@@ -58,9 +58,9 @@
     },
     {
       "surface": "מזובו",
-      "gloss": "vì chứng xuất tiết của người ấy"
+      "gloss": "vì sự chảy của y"
     }
   ],
-  "timestamp": "2026-08-19T02:44:49.061294146Z",
+  "timestamp": "2026-08-24T16:05:30.395205054Z",
   "model": "glm-5.3"
 }

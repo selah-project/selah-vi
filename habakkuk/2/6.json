@@ -5,15 +5,15 @@
   "book": "habakkuk",
   "lang": "vi",
   "chapter": 2,
-  "translation": "Há chẳng phải tất cả những kẻ ấy sẽ nhắc lên nghịch lại hắn một châm ngôn, và một câu châm biếm — câu đố — về hắn, và sẽ nói: Khốn cho kẻ tăng thêm ⟨vật⟩ không phải của mình — đến bao lâu? — và kẻ chất nặng trên mình những of-cầm thế chấp!",
+  "translation": "Há chẳng phải tất cả những kẻ này sẽ cất lên trên hắn một châm ngôn, và một câu chế nhạo — những câu đố cho hắn — và sẽ nói: Hôy cho kẻ tăng thêm điều không thuộc về mình! Cho đến bao lâu? Và kẻ chất nặng trên mình đồ cầm cược!",
   "tokens": [
     {
       "surface": "הלוא",
-      "gloss": "há chẳng"
+      "gloss": "há chẳng phải"
     },
     {
       "surface": "אלה",
-      "gloss": "những kẻ ấy"
+      "gloss": "những kẻ này"
     },
     {
       "surface": "כלם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "עליו",
-      "gloss": "nghịch lại hắn"
+      "gloss": "trên hắn"
     },
     {
       "surface": "משל",
@@ -29,27 +29,27 @@
     },
     {
       "surface": "ישאו",
-      "gloss": "sẽ nhắc lên"
+      "gloss": "sẽ cất lên"
     },
     {
       "surface": "ומליצה",
-      "gloss": "và câu châm biếm"
+      "gloss": "và câu chế nhạo"
     },
     {
       "surface": "חידות",
-      "gloss": "câu đố"
+      "gloss": "những câu đố"
     },
     {
       "surface": "לו",
-      "gloss": "về hắn"
+      "gloss": "cho hắn"
     },
     {
-      "surface": "ויאמר",
+      "surface": "ואמר",
       "gloss": "và sẽ nói"
     },
     {
       "surface": "הוי",
-      "gloss": "khốn cho"
+      "gloss": "hôy"
     },
     {
       "surface": "המרבה",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "לו",
-      "gloss": "của mình"
+      "gloss": "cho mình"
     },
     {
       "surface": "עד",
-      "gloss": "đến"
+      "gloss": "cho đến"
     },
     {
       "surface": "מתי",
@@ -81,9 +81,9 @@
     },
     {
       "surface": "עבטיט",
-      "gloss": "of-cầm thế chấp"
+      "gloss": "đồ cầm cược"
     }
   ],
-  "timestamp": "2026-08-19T04:50:53.201868343Z",
+  "timestamp": "2026-08-24T16:19:16.108448430Z",
   "model": "glm-5.3"
 }

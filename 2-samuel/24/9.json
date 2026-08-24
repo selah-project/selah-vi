@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "vi",
   "chapter": 24,
-  "translation": "Và Yoav nộp ⟨את⟩ số lượng của cuộc kiểm tra dân sự cho ⟨the⟩ vua; và Yisrael có tám trăm nghìn người dũng sĩ, rút gươm, và người Yehudah năm trăm nghìn người.",
+  "translation": "Và Yoav giao ⟨את⟩ số liệu của cuộc kiểm tra dân số cho vua; và Yisrael có tám trăm ngàn người ⟨là⟩ dũng sĩ rút gươm, còn người Yehudah năm trăm ngàn người.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "và nộp"
+      "gloss": "và giao"
     },
     {
       "surface": "יואב",
@@ -18,19 +18,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "số lượng của cuộc kiểm tra dân sự"
+      "marks": "số liệu"
     },
     {
       "surface": "מספר",
-      "gloss": "số lượng"
+      "gloss": "số liệu"
     },
     {
       "surface": "מפקד",
-      "gloss": "của cuộc kiểm tra dân sự"
+      "gloss": "cuộc kiểm tra dân số"
     },
     {
       "surface": "העם",
-      "gloss": "dân"
+      "gloss": "của dân"
     },
     {
       "surface": "אל",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "המלך",
-      "gloss": "⟨the⟩ vua"
+      "gloss": "vua"
     },
     {
       "surface": "ותהי",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "אלף",
-      "gloss": "nghìn"
+      "gloss": "ngàn"
     },
     {
       "surface": "איש",
@@ -94,13 +94,13 @@
     },
     {
       "surface": "אלף",
-      "gloss": "nghìn"
+      "gloss": "ngàn"
     },
     {
       "surface": "איש",
       "gloss": "người"
     }
   ],
-  "timestamp": "2026-08-19T03:46:09.802243412Z",
+  "timestamp": "2026-08-24T16:11:39.106212597Z",
   "model": "glm-5.3"
 }

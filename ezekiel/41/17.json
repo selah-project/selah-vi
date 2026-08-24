@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "vi",
   "chapter": 41,
-  "translation": "Trên khoảng trên cửa, cho đến nhà phía trong và ra bên ngoài, và trên khắp tường, vòng quanh, vòng quanh — trong phần trong và phần ngoài — theo kích thước.",
+  "translation": "Trên khoảng ⟨trên⟩ ⟨cửa⟩ cửa ra vào, và cho đến ngôi nhà inner — và ra phía ngoài — và trên toàn bộ bức tường, vòng quanh vòng quanh, ở phía trong và ở phía ngoài — đều theo kích thước.",
   "tokens": [
     {
       "surface": "על",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "מעל",
-      "gloss": "khoảng trên"
+      "gloss": "khoảng ⟨trên⟩"
     },
     {
       "surface": "הפתח",
-      "gloss": "cửa"
+      "gloss": "cửa ra vào"
     },
     {
       "surface": "ועד",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "הבית",
-      "gloss": "⟨the⟩ nhà"
+      "gloss": "ngôi nhà"
     },
     {
       "surface": "הפנימי",
-      "gloss": "phía trong"
+      "gloss": "inner (bên trong)"
     },
     {
       "surface": "ולחוץ",
-      "gloss": "và ra bên ngoài"
+      "gloss": "và ra phía ngoài"
     },
     {
       "surface": "ואל",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "khắp"
+      "gloss": "toàn bộ"
     },
     {
       "surface": "הקיר",
-      "gloss": "⟨the⟩ tường"
+      "gloss": "bức tường"
     },
     {
       "surface": "סביב",
@@ -57,17 +57,17 @@
     },
     {
       "surface": "בפנימי",
-      "gloss": "trong phần trong"
+      "gloss": "ở phía trong"
     },
     {
       "surface": "ובחיצון",
-      "gloss": "và phần ngoài"
+      "gloss": "và ở phía ngoài"
     },
     {
       "surface": "מדות",
       "gloss": "theo kích thước"
     }
   ],
-  "timestamp": "2026-08-19T04:41:55.350459382Z",
+  "timestamp": "2026-08-24T16:17:38.350627796Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "vi",
   "chapter": 50,
-  "translation": "Đấng công bình hóa tôi ⟨is⟩ gần; ai sẽ tranh luận ⟨את⟩ ⟨אתי⟩ cùng tôi? Chúng ta hãy cùng đứng; ai là chủ kiện tụng của tôi? Hãy đến gần tôi.",
+  "translation": "Gần rồi Đấng biện minh cho tôi; ai sẽ tranh tụng cùng ⟨את⟩ tôi? Ta hãy đứng lên cùng nhau; ai là đối thủ kiện ⟨את⟩ vụ của tôi? Hãy đến gần tôi.",
   "tokens": [
     {
       "surface": "קרוב",
-      "gloss": "gần"
+      "gloss": "gần rồi"
     },
     {
       "surface": "מצדיקי",
-      "gloss": "Đấng công bình hóa tôi"
+      "gloss": "Đấng biện minh cho tôi"
     },
     {
       "surface": "מי",
@@ -21,16 +21,16 @@
     },
     {
       "surface": "יריב",
-      "gloss": "sẽ tranh luận"
+      "gloss": "sẽ tranh tụng"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ ⟨אתי⟩",
+      "gloss": "cùng ⟨את⟩ tôi",
       "marks": "cùng tôi"
     },
     {
       "surface": "נעמדה",
-      "gloss": "chúng ta hãy đứng"
+      "gloss": "ta hãy đứng lên"
     },
     {
       "surface": "יחד",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "בעל",
-      "gloss": "chủ"
+      "gloss": "đối thủ \/ chủ"
     },
     {
       "surface": "משפטי",
@@ -54,9 +54,9 @@
     },
     {
       "surface": "אלי",
-      "gloss": "tôi"
+      "gloss": "tới tôi"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.042078587Z",
+  "timestamp": "2026-08-24T16:14:43.590381137Z",
   "model": "glm-5.3"
 }

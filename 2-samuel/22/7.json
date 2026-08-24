@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "vi",
   "chapter": 22,
-  "translation": "Trong cơn khốn khổ tôi kêu cầu Yahweh, và ⟨אל⟩ Elohim của tôi tôi kêu cầu; ⟨ngài⟩ nghe tiếng tôi từ đền thờ của Ngài, và tiếng kêu cứu của tôi vào tai Ngài.",
+  "translation": "Trong cơn khốn cùng tôi kêu cầu Yahweh, và đến Elohim của tôi tôi kêu cầu; và Ngài nghe từ đền thánh của Ngài tiếng tôi, và tiếng kêu cứu của tôi ⟨đến⟩ tai Ngài.",
   "tokens": [
     {
       "surface": "בצר",
-      "gloss": "trong cơn khốn khổ"
+      "gloss": "trong cơn khốn cùng"
     },
     {
       "surface": "לי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ואל",
-      "gloss": "và ⟨אל⟩"
+      "gloss": "và đến"
     },
     {
       "surface": "אלהי",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "וישמע",
-      "gloss": "và ⟨ngài⟩ nghe"
+      "gloss": "và Ngài nghe"
     },
     {
       "surface": "מהיכלו",
-      "gloss": "từ đền thờ của Ngài"
+      "gloss": "từ đền thánh của Ngài"
     },
     {
       "surface": "קולי",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "באזניו",
-      "gloss": "vào tai Ngài"
+      "gloss": "trong tai Ngài"
     }
   ],
-  "timestamp": "2026-08-19T03:45:23.932877583Z",
+  "timestamp": "2026-08-24T16:11:35.512300832Z",
   "model": "glm-5.3"
 }

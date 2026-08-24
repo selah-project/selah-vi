@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 3,
-  "translation": "Trong mồ hôi mặt ngươi ngươi sẽ ăn bánh, cho đến khi ngươi trở về ⟨ה⟩ đất, vì từ nó ngươi đã được lấy; vì ngươi là bụi, và về bụi ngươi sẽ trở về.",
+  "translation": "Trong mồ hôi mặt ngươi, ngươi sẽ ăn bánh, cho đến khi ngươi trở về với ⟨ה⟩ đất, vì từ nó ngươi đã được lấy ra, vì ngươi là bụi, và ngươi sẽ trở về với bụi.",
   "tokens": [
     {
       "surface": "בזעת",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "về"
+      "gloss": "với"
     },
     {
       "surface": "האדמה",
-      "gloss": "đất"
+      "gloss": "⟨ה⟩ đất"
     },
     {
       "surface": "כי",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "לקחת",
-      "gloss": "ngươi đã được lấy"
+      "gloss": "ngươi đã được lấy ra"
     },
     {
       "surface": "כי",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "אתה",
-      "gloss": "ngươi là"
+      "gloss": "ngươi"
     },
     {
       "surface": "ואל",
-      "gloss": "và về"
+      "gloss": "và với"
     },
     {
       "surface": "עפר",
@@ -76,6 +76,6 @@
       "gloss": "ngươi sẽ trở về"
     }
   ],
-  "timestamp": "2026-08-19T00:48:07.058062045Z",
+  "timestamp": "2026-08-24T16:01:38.803357913Z",
   "model": "glm-5.3"
 }

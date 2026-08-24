@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "vi",
   "chapter": 14,
-  "translation": "Các ngươi không được ăn ⟨את⟩ mọi xác chết; ngươi hãy cho nó cho người ngoại kiều đang ở trong cổng thành ngươi, và ⟨ה⟩ nó sẽ ăn, hoặc bán cho người ngoại bang; vì ngươi là dân thánh thuộc về Yahweh Elohim ngươi. Ngươi không được nấu gđi con trong sữa mẹ nó.",
+  "translation": "Các ngươi không được ăn xác chết nào; ngươi có thể cho nó cho người khách ngoại bang đang ở trong cổng thành ngươi, để nó ăn, hoặc bán cho người ngoại bang; vì ngươi là dân thánh thuộc về Yahweh Elohim của ngươi. Ngươi không được nấu con dê con trong sữa của mẹ nó.",
   "tokens": [
     {
       "surface": "לא",
@@ -13,35 +13,35 @@
     },
     {
       "surface": "תאכלו",
-      "gloss": "các ngươi ăn"
+      "gloss": "các ngươi được-ăn"
     },
     {
       "surface": "כל",
-      "gloss": "mọi"
+      "gloss": "bất-kỳ"
     },
     {
       "surface": "נבלה",
-      "gloss": "xác chết"
+      "gloss": "xác-chết"
     },
     {
       "surface": "לגר",
-      "gloss": "cho người ngoại kiều"
+      "gloss": "cho ngươi-khách"
     },
     {
       "surface": "אשר",
-      "gloss": "mà"
+      "gloss": "người-mà"
     },
     {
       "surface": "בשעריך",
-      "gloss": "trong cổng thành ngươi"
+      "gloss": "trong cổng-thành ngươi"
     },
     {
       "surface": "תתננה",
-      "gloss": "ngươi hãy cho nó"
+      "gloss": "ngươi có-thể-cho"
     },
     {
       "surface": "ואכלה",
-      "gloss": "và ⟨ה⟩ nó sẽ ăn"
+      "gloss": "và nó ăn"
     },
     {
       "surface": "או",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "לנכרי",
-      "gloss": "cho người ngoại bang"
+      "gloss": "cho người ngoại-bang"
     },
     {
       "surface": "כי",
@@ -69,15 +69,15 @@
     },
     {
       "surface": "אתה",
-      "gloss": "ngươi"
+      "gloss": "ngươi là"
     },
     {
       "surface": "ליהוה",
-      "gloss": "thuộc về Yahweh"
+      "gloss": "thuộc-về Yahweh"
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohim ngươi"
+      "gloss": "Elohim của-ngươi"
     },
     {
       "surface": "לא",
@@ -85,11 +85,11 @@
     },
     {
       "surface": "תבשל",
-      "gloss": "ngươi nấu"
+      "gloss": "ngươi được-nấu"
     },
     {
       "surface": "גדי",
-      "gloss": "gđi con"
+      "gloss": "con dê-con"
     },
     {
       "surface": "בחלב",
@@ -97,9 +97,9 @@
     },
     {
       "surface": "אמו",
-      "gloss": "mẹ nó"
+      "gloss": "của mẹ nó"
     }
   ],
-  "timestamp": "2026-08-19T03:08:48.347988217Z",
+  "timestamp": "2026-08-24T16:08:16.780931373Z",
   "model": "glm-5.3"
 }

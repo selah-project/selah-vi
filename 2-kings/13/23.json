@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "vi",
   "chapter": 13,
-  "translation": "Và Yahweh ban ơn cho ⟨את⟩ ⟨אתם⟩ họ, và thương xót họ, và quay lại hướng về họ, vì cớ giao ước của Ngài với Avraham, với Yitschak và Yaakov; và Ngài không muốn hủy diệt họ, và không ném họ khỏi trước mặt Ngài cho đến giờ này.",
+  "translation": "Và Yahweh đã rộng lòng với ⟨את⟩ họ, đã thương xót họ, và đã quay lại hướng về họ, vì giao ước của Ngài — ⟨את⟩ Avraham, Yitschak và Yaakov; và Ngài không chịu hủy diệt họ, cũng không ném họ khỏi khỏi mặt Ngài cho đến giờ này.",
   "tokens": [
     {
       "surface": "ויחן",
-      "gloss": "và ban ơn"
+      "gloss": "đã rộng lòng"
     },
     {
       "surface": "יהוה",
@@ -17,16 +17,16 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "gloss": "⟨את⟩",
       "marks": "họ"
     },
     {
       "surface": "וירחמם",
-      "gloss": "và thương xót họ"
+      "gloss": "đã thương xót họ"
     },
     {
       "surface": "ויפן",
-      "gloss": "và quay lại"
+      "gloss": "và đã quay lại"
     },
     {
       "surface": "אליהם",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "למען",
-      "gloss": "vì cớ"
+      "gloss": "vì"
     },
     {
       "surface": "בריתו",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "אבה",
-      "gloss": "muốn"
+      "gloss": "chịu \/ thuận"
     },
     {
       "surface": "השחיתם",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "và không"
+      "gloss": "cũng không"
     },
     {
       "surface": "השליכם",
@@ -79,11 +79,11 @@
     },
     {
       "surface": "מעל",
-      "gloss": "khỏi"
+      "gloss": "khỏi \/ ra khỏi"
     },
     {
       "surface": "פניו",
-      "gloss": "trước mặt Ngài"
+      "gloss": "mặt Ngài"
     },
     {
       "surface": "עד",
@@ -91,9 +91,9 @@
     },
     {
       "surface": "עתה",
-      "gloss": "giờ này"
+      "gloss": "bây giờ"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.032008171Z",
+  "timestamp": "2026-08-24T16:13:07.706751894Z",
   "model": "glm-5.3"
 }

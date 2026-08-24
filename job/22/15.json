@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "vi",
   "chapter": 22,
-  "translation": "Con đường muôn thuở ngươi có giữ吗 — mà những người làm điều ác đã dẫm qua?",
+  "translation": "Con đường ⟨của⟩ thuở xưa ngươi có giữ không, mà những người vốn đã đi trong đó là những kẻ ác?",
   "tokens": [
     {
       "surface": "הארח",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "עולם",
-      "gloss": "muôn thuở"
+      "gloss": "thuở xưa \/ đời đời"
     },
     {
       "surface": "תשמר",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "mà"
+      "gloss": "mà \/ vốn"
     },
     {
       "surface": "דרכו",
-      "gloss": "đã dẫm qua"
+      "gloss": "đã đi"
     },
     {
       "surface": "מתי",
@@ -33,9 +33,9 @@
     },
     {
       "surface": "און",
-      "gloss": "ác"
+      "gloss": "ác \/ gian ác"
     }
   ],
-  "timestamp": "2026-08-19T05:24:29.868346703Z",
+  "timestamp": "2026-08-24T16:22:39.740912773Z",
   "model": "glm-5.3"
 }

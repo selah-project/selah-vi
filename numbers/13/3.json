@@ -5,16 +5,16 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 13,
-  "translation": "Và Moshe sai ⟨אתם⟩ từ đồng vắng Paran, theo miệng Yahweh; tất cả họ là những người đứng đầu con cái Yisra'el, chính họ.",
+  "translation": "Và Moshe sai ⟨את⟩ họ từ hoang mạc Paran, theo miệng Yahweh; tất cả họ là những người đàn ông, những người đứng đầu của con cái Yisrael, chính họ vậy.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "và đã sai"
+      "gloss": "và sai đi"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "họ (các người được sai)"
+      "gloss": "⟨את⟩ họ",
+      "marks": "họ"
     },
     {
       "surface": "משה",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "ממדבר",
-      "gloss": "từ đồng vắng"
+      "gloss": "từ hoang mạc"
     },
     {
       "surface": "פארן",
@@ -46,25 +46,25 @@
     },
     {
       "surface": "אנשים",
-      "gloss": "là những người"
+      "gloss": "những người đàn ông"
     },
     {
       "surface": "ראשי",
-      "gloss": "đứng đầu"
+      "gloss": "đầu \/ đứng đầu"
     },
     {
       "surface": "בני",
-      "gloss": "con cái"
+      "gloss": "con cái của"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     },
     {
       "surface": "המה",
       "gloss": "chính họ"
     }
   ],
-  "timestamp": "2026-08-19T02:56:43.804236854Z",
+  "timestamp": "2026-08-24T16:06:44.656642732Z",
   "model": "glm-5.3"
 }

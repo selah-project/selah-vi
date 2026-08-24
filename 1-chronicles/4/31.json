@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "vi",
   "chapter": 4,
-  "translation": "và tại Beit-Markavot, và tại Jatser-Susim, và tại Beit-Biri, và tại Shaaraim;这些 là các thành của họ, cho đến khi Dawid làm vua",
+  "translation": "và tại Beit-Markavot, và tại Chatzar-Susim, và tại Beit-Biri, và tại Shaaraim — 这些 ⟨là⟩ các thành của chúng nó, cho đến khi Dawid ⟨làm vương⟩.",
   "tokens": [
     {
       "surface": "ובבית",
-      "gloss": "và tại Beit"
+      "gloss": "và tại Beit-"
     },
     {
       "surface": "מרכבות",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ובחצר",
-      "gloss": "và tại Jatser"
+      "gloss": "và tại Chatzar-"
     },
     {
       "surface": "סוסים",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ובבית",
-      "gloss": "và tại Beit"
+      "gloss": "và tại Beit-"
     },
     {
       "surface": "בראי",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "אלה",
-      "gloss": "này là"
+      "gloss": "những"
     },
     {
       "surface": "עריהם",
-      "gloss": "các thành của họ"
+      "gloss": "các thành của chúng nó"
     },
     {
       "surface": "עד",
@@ -49,13 +49,13 @@
     },
     {
       "surface": "מלך",
-      "gloss": "làm vua \/ triều đại"
+      "gloss": "làm vương"
     },
     {
       "surface": "דויד",
       "gloss": "Dawid"
     }
   ],
-  "timestamp": "2026-08-19T05:47:53.749698308Z",
+  "timestamp": "2026-08-24T16:24:33.924431715Z",
   "model": "glm-5.3"
 }

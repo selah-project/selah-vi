@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "vi",
   "chapter": 12,
-  "translation": "Tất cả các họ hàng còn lại, họ hàng ⟨the⟩ này riêng ra, họ hàng ⟨the⟩ kia riêng ra, và vợ của họ riêng ra.",
+  "translation": "Tất cả các gia tộc còn lại, mỗi gia tộc ⟨thì⟩ riêng apart, và vợ của họ riêng apart.",
   "tokens": [
     {
       "surface": "כל",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "המשפחות",
-      "gloss": "các họ hàng"
+      "gloss": "các gia tộc"
     },
     {
       "surface": "הנשארות",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "משפחת",
-      "gloss": "họ hàng"
+      "gloss": "mỗi gia tộc"
     },
     {
       "surface": "משפחת",
-      "gloss": "họ hàng"
+      "gloss": "mỗi gia tộc"
     },
     {
       "surface": "לבד",
-      "gloss": "riêng ra"
+      "gloss": "riêng apart"
     },
     {
       "surface": "ונשיהם",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "לבד",
-      "gloss": "riêng ra"
+      "gloss": "riêng apart"
     }
   ],
-  "timestamp": "2026-08-19T04:53:23.042110301Z",
+  "timestamp": "2026-08-24T16:19:46.410017956Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "vi",
   "chapter": 32,
-  "translation": "Và tôi đã mua ⟨את⟩ cánh đồng từ ⟨את⟩ Chanamel con trai chú tôi, tại Anatot; và tôi cân cho y ⟨את]] bạc, bảy shekel và mười ⟨miếng⟩ bạc.",
+  "translation": "Và tôi đã mua ⟨את⟩ cánh đồng từ ⟨את⟩ Chanamel, con của chú tôi, tại Anathoth; và tôi cân cho hắn ⟨את⟩ bạc — bảy siếc-lơ và mười ⟨của⟩ bạc.",
   "tokens": [
     {
       "surface": "ואקנה",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "con trai"
+      "gloss": "con"
     },
     {
       "surface": "דדי",
@@ -42,15 +42,15 @@
     },
     {
       "surface": "בענתות",
-      "gloss": "tại Anatot"
+      "gloss": "tại Anathoth"
     },
     {
       "surface": "ואשקלה",
-      "gloss": "và tôi đã cân"
+      "gloss": "và tôi cân cho"
     },
     {
       "surface": "לו",
-      "gloss": "cho y"
+      "gloss": "hắn"
     },
     {
       "surface": "את",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "שקלים",
-      "gloss": "shekel"
+      "gloss": "siếc-lơ"
     },
     {
       "surface": "ועשרה",
@@ -75,9 +75,9 @@
     },
     {
       "surface": "הכסף",
-      "gloss": "bạc"
+      "gloss": "của bạc"
     }
   ],
-  "timestamp": "2026-08-19T04:24:52.095890327Z",
+  "timestamp": "2026-08-24T16:15:50.849101827Z",
   "model": "glm-5.3"
 }

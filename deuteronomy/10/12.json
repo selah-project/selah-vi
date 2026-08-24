@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "vi",
   "chapter": 10,
-  "translation": "Và giờ đây, Yisrael, Yahweh Elohim của ngươi đòi hỏi gì nơi ngươi, nếu không phải là kính sợ Yahweh Elohim của ngươi, để đi trong mọi đường lối của Ngài, để yêu mến ⟨את⟩ ⟨אתו⟩ Ngài, và để phục sự Yahweh Elohim của ngươi với hết lòng ngươi và hết linh hồng ngươi;",
+  "translation": "Và giờ đây, Yisra-el, Yahweh Elohim của ngươi đòi hỏi nơi ngươi điều gì? Chẳng khác nào: kính sợ Yahweh Elohim của ngươi ⟨את⟩, để đi trong mọi con đường của Ngài, để yêu mến ⟨את⟩ ⟨אתו⟩ Ngài, và để phụng sự Yahweh Elohim của ngươi ⟨את⟩ bằng hết lòng ngươi và hết linh hồn ngươi.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Yisra-el"
     },
     {
       "surface": "מה",
-      "gloss": "gì"
+      "gloss": "điều gì"
     },
     {
       "surface": "יהוה",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "nếu"
+      "gloss": "chẳng"
     },
     {
       "surface": "אם",
-      "gloss": "không"
+      "gloss": "gì ngoài"
     },
     {
       "surface": "ליראה",
@@ -70,10 +70,10 @@
     },
     {
       "surface": "דרכיו",
-      "gloss": "đường lối của Ngài"
+      "gloss": "con đường của Ngài"
     },
     {
-      "surface": "ו לאהבה",
+      "surface": "ולאהבה",
       "gloss": "và để yêu mến"
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "surface": "ולעבד",
-      "gloss": "và để phục sự"
+      "gloss": "và để phụng sự"
     },
     {
       "surface": "את",
@@ -100,7 +100,7 @@
     },
     {
       "surface": "בכל",
-      "gloss": "với hết"
+      "gloss": "bằng hết"
     },
     {
       "surface": "לבבך",
@@ -108,13 +108,13 @@
     },
     {
       "surface": "ובכל",
-      "gloss": "và với hết"
+      "gloss": "và bằng hết"
     },
     {
       "surface": "נפשך",
-      "gloss": "linh hồng ngươi"
+      "gloss": "linh hồn ngươi"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.016211946Z",
+  "timestamp": "2026-08-24T16:58:27.518773436Z",
   "model": "glm-5.3"
 }

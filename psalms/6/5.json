@@ -5,8 +5,37 @@
   "book": "psalms",
   "lang": "vi",
   "chapter": 6,
-  "translation": "Hãy trở lại, Yahweh, cứu сети ⟨את⟩ linh hồn tôi; hãy cứu tôi, vì cớ sự nhân từ của Ngài.",
-  "tokens": [],
-  "timestamp": "2026-08-19T04:54:55.955460779Z",
+  "translation": "Hãy quay lại, Yahweh, hãy giải thoát linh hồn tôi, hãy cứu tôi vì cớ sự nhân từ ⟨của⟩ Ngài.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Hãy quay lại"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "hãy giải thoát"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "linh hồn tôi"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "hãy cứu tôi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "vì cớ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sự nhân từ của Ngài"
+    }
+  ],
+  "timestamp": "2026-08-24T16:19:45.810917017Z",
   "model": "glm-5.3"
 }

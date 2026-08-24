@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "vi",
   "chapter": 4,
-  "translation": "Các con trai của Shelah con trai Yehudah: Er cha của Lekah, và Laadah cha của Mareshah, và các gia tộc của nhà ⟨the⟩ việc dệt vải gấm mịn, thuộc nhà Ashbea.",
+  "translation": "Con trai của Shelah, con trai của Yehudah: Er, cha của Lekah; và Laadah, cha của Mareshah; và các gia tộc của nhà ⟨là⟩ thợ dệt vải gai mịn, thuộc nhà Ashbea.",
   "tokens": [
     {
       "surface": "בני",
-      "gloss": "các con trai của"
+      "gloss": "con trai của"
     },
     {
       "surface": "שלה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "con trai"
+      "gloss": "con trai của"
     },
     {
       "surface": "יהודה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ומשפחות",
-      "gloss": "và các gia tộc"
+      "gloss": "và các gia tộc của"
     },
     {
       "surface": "בית",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "הבץ",
-      "gloss": "vải gấm mịn"
+      "gloss": "vải gai mịn"
     },
     {
       "surface": "לבית",
@@ -72,6 +72,6 @@
       "gloss": "Ashbea"
     }
   ],
-  "timestamp": "2026-08-19T06:21:46.941107046Z",
+  "timestamp": "2026-08-24T16:27:16.234728314Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "jonah",
   "lang": "vi",
   "chapter": 3,
-  "translation": "Hãy đứng dậy, hãy đi đến Ninve, ⟨the⟩ thành phố lớn, và hãy rao giảng cho ⟨את⟩ bản rao giảng mà Ta đang nói với ngươi.",
+  "translation": "Hãy đứng dậy, hãy đi đến Ninhevê, ⟨thành⟩ ⟨rộng⟩ lớn, và hãy hô cáo cho nó ⟨את⟩ lời hô cáo mà ta đang nói với ngươi.",
   "tokens": [
     {
       "surface": "קום",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "נינוה",
-      "gloss": "Ninve"
+      "gloss": "Ninhevê"
     },
     {
       "surface": "העיר",
-      "gloss": "thành phố"
+      "gloss": "thành"
     },
     {
       "surface": "הגדולה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "וקרא",
-      "gloss": "và hãy rao giảng"
+      "gloss": "và hãy hô cáo"
     },
     {
       "surface": "אליה",
@@ -42,11 +42,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bản rao giảng"
+      "marks": "lời hô cáo"
     },
     {
       "surface": "הקריאה",
-      "gloss": "bản rao giảng"
+      "gloss": "lời hô cáo"
     },
     {
       "surface": "אשר",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "אנכי",
-      "gloss": "Ta"
+      "gloss": "ta"
     },
     {
       "surface": "דבר",
@@ -65,6 +65,6 @@
       "gloss": "với ngươi"
     }
   ],
-  "timestamp": "2026-08-19T04:48:46.632114375Z",
+  "timestamp": "2026-08-24T16:19:22.002601677Z",
   "model": "glm-5.3"
 }

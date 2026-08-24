@@ -5,8 +5,98 @@
   "book": "jeremiah",
   "lang": "vi",
   "chapter": 14,
-  "translation": "Ngươi sẽ nói với chúng lời nầy: Mắt ta hãy small giọt nước mắt đêm và ngày, và đừng ngừng nghỉ, vì một vết gãy lớn đã đổ gãy upon⟨את⟩ trinh nữ, con gái của dân ta, một vết đánh rất nặng.",
-  "tokens": [],
-  "timestamp": "2026-08-19T04:20:45.687129516Z",
+  "translation": "Và ngươi sẽ nói với chúng lời nầy: Mắt ta sẽ nhỏ xuống nước mắt đêm và ngày, và chớ lặng im; vì vỡ tan lớn lao — trinh nữ女儿 con gái của dân ta bị đập vỡ, vết thương hoại rất đậm.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "và ngươi sẽ nói"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "với chúng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lời"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lời"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nầy"
+    },
+    {
+      "surface": "תרדנה",
+      "gloss": "sẽ nhỏ xuống"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mắt ta"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "nước mắt"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "đêm"
+    },
+    {
+      "surface": "ויומם",
+      "gloss": "và ngày"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "và chớ"
+    },
+    {
+      "surface": "תדמינה",
+      "gloss": "lặng im"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "sự vỡ tan"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lớn lao"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "bị đập vỡ"
+    },
+    {
+      "surface": "בתולת",
+      "gloss": "trinh nữ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "con gái"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "của dân ta"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "vết thương"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "hoại"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "rất đậm"
+    }
+  ],
+  "timestamp": "2026-08-24T16:15:36.665575957Z",
   "model": "glm-5.3"
 }

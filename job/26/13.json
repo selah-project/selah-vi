@@ -5,32 +5,27 @@
   "book": "job",
   "lang": "vi",
   "chapter": 26,
-  "translation": "Bằng hơi-thở của Ngài ⟨⟨các⟩⟩ trời được trang điểm; tay Ngài đã đâm xuyên ⟨את⟩ con rắn lẩn trốn.",
+  "translation": "Bởi hơi-thở của Ngài trời đã ⟨được⟩ trang điểm; tay Ngài đã đâm-thủng ⟨את⟩ con rắn lẩn-trốn.",
   "tokens": [
     {
       "surface": "ברוחו",
-      "gloss": "bằng hơi-thở của Ngài"
+      "gloss": "bởi hơi-thở của Ngài"
     },
     {
       "surface": "שמים",
-      "gloss": "⟨các⟩ trời"
+      "gloss": "trời"
     },
     {
       "surface": "שפרה",
-      "gloss": "được trang điểm"
+      "gloss": "đã trang điểm"
     },
     {
       "surface": "חללה",
-      "gloss": "đã đâm xuyên"
+      "gloss": "đã đâm-thủng"
     },
     {
       "surface": "ידו",
       "gloss": "tay Ngài"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "con rắn lẩn trốn"
     },
     {
       "surface": "נחש",
@@ -38,9 +33,9 @@
     },
     {
       "surface": "בריח",
-      "gloss": "lẩn trốn"
+      "gloss": "lẩn-trốn"
     }
   ],
-  "timestamp": "2026-08-19T06:20:33.757086575Z",
+  "timestamp": "2026-08-24T16:22:41.273539217Z",
   "model": "glm-5.3"
 }

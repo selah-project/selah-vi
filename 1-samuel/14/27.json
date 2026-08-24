@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "vi",
   "chapter": 14,
-  "translation": "Còn Yonatan không nghe khi cha mình làm dân sự thề, và ⟨ה⟩ đưa ⟨את⟩ đầu cây gậy trong tay mình ra, nhúng nó vào tổ mật, đưa tay mình lại miệng mình, và mắt ⟨ה⟩ được sáng.",
+  "translation": "Còn Yonatan không nghe khi cha mình bắt ⟨את⟩ dân quân thề, nên chàng đưa ra đầu cây gậy đang trong tay mình, nhúng ⟨את⟩ nó vào tổ mật ong, rồi đưa tay trở lại miệng mình, và đôi mắt cháng sáng lên.",
   "tokens": [
     {
       "surface": "ויונתן",
-      "gloss": "và Yonatan"
+      "gloss": "Còn Yonatan"
     },
     {
       "surface": "לא",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "בהשביע",
-      "gloss": "khi-làm-thề"
+      "gloss": "khi bắt thề"
     },
     {
       "surface": "אביו",
@@ -30,20 +30,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dân sự"
+      "marks": "dân quân"
     },
     {
       "surface": "העם",
-      "gloss": "dân sự"
+      "gloss": "dân quân"
     },
     {
       "surface": "וישלח",
-      "gloss": "và đã-đưa-ra"
+      "gloss": "nên chàng đưa ra"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "đầu cây gậy"
+      "marks": "đầu (cây gậy)"
     },
     {
       "surface": "קצה",
@@ -63,12 +63,12 @@
     },
     {
       "surface": "ויטבל",
-      "gloss": "và đã-nhúng"
+      "gloss": "nhúng"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩",
-      "marks": "nó (đầu cây gậy)"
+      "gloss": "⟨את⟩ nó",
+      "marks": "vào tổ mật ong"
     },
     {
       "surface": "ביערת",
@@ -76,11 +76,11 @@
     },
     {
       "surface": "הדבש",
-      "gloss": "mật"
+      "gloss": "mật ong"
     },
     {
       "surface": "וישב",
-      "gloss": "và đã-trở-lại"
+      "gloss": "rồi đưa trở lại"
     },
     {
       "surface": "ידו",
@@ -88,21 +88,21 @@
     },
     {
       "surface": "אל",
-      "gloss": "đến"
+      "gloss": "tới"
     },
     {
       "surface": "פיו",
       "gloss": "miệng mình"
     },
     {
-      "surface": "ותראנה",
-      "gloss": "và được-sáng"
+      "surface": "ויתראנה",
+      "gloss": "và ... sáng lên"
     },
     {
       "surface": "עיניו",
-      "gloss": "mắt mình"
+      "gloss": "đôi mắt cháng"
     }
   ],
-  "timestamp": "2026-08-19T03:33:01.359131479Z",
+  "timestamp": "2026-08-24T16:10:17.573512563Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "vi",
   "chapter": 3,
-  "translation": "Cho đến khi Yahweh cho anh em các ngươi được nghỉ ngơi, như các ngươi, và họ cũng chiếm giữ ⟨את⟩ đất mà Yahweh Elohim của các ngươi ban cho họ ở bên kia sông Yarden; rồi các ngươi hãy trở về, mỗi người đến sản nghiệp mình, mà tôi đã ban cho các ngươi.",
+  "translation": "Cho đến khi Yahweh ban sự yên nghỉ cho các anh em của các ngươi, như ⟨đã cho⟩ các ngươi, và họ cũng chiếm hữu ⟨את⟩ đất mà Yahweh Elohim của các ngươi ban cho họ ở bên kia sông Yarden; bấy giờ các ngươi sẽ trở về, mỗi người đến phần sở hữu của mình, mà Ta đã ban cho các ngươi.",
   "tokens": [
     {
       "surface": "עד",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "khi"
+      "gloss": "mà"
     },
     {
       "surface": "יניח",
-      "gloss": "cho nghỉ ngơi"
+      "gloss": "ban sự yên nghỉ"
     },
     {
       "surface": "יהוה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "לאחיכם",
-      "gloss": "cho anh em các ngươi"
+      "gloss": "cho các anh em của các ngươi"
     },
     {
       "surface": "ככם",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "וירשו",
-      "gloss": "và họ chiếm giữ"
+      "gloss": "và họ chiếm hữu"
     },
     {
       "surface": "גם",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ đất"
+      "gloss": "đất"
     },
     {
       "surface": "אשר",
@@ -78,11 +78,11 @@
     },
     {
       "surface": "הירדן",
-      "gloss": "⟨the⟩ sông Yarden"
+      "gloss": "sông Yarden"
     },
     {
       "surface": "ושבתם",
-      "gloss": "và các ngươi hãy trở về"
+      "gloss": "và các ngươi sẽ trở về"
     },
     {
       "surface": "איש",
@@ -90,7 +90,7 @@
     },
     {
       "surface": "לירשתו",
-      "gloss": "đến sản nghiệp mình"
+      "gloss": "đến phần sở hữu của mình"
     },
     {
       "surface": "אשר",
@@ -98,13 +98,13 @@
     },
     {
       "surface": "נתתי",
-      "gloss": "tôi đã ban"
+      "gloss": "Ta đã ban"
     },
     {
       "surface": "לכם",
       "gloss": "cho các ngươi"
     }
   ],
-  "timestamp": "2026-08-19T03:05:22.102543281Z",
+  "timestamp": "2026-08-24T16:07:33.230679887Z",
   "model": "glm-5.3"
 }

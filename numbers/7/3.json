@@ -5,24 +5,24 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 7,
-  "translation": "Và họ đem ⟨את⟩ lễ-dâng của họ đến trước mặt Yahweh: sục cỗ xe có-mái-che và mười-hai bò, một cỗ xe cho hai thủ-lãnh và một bò cho từng người; họ dâng chúng đến trước mặt ⟨the⟩ Đền-Tạm.",
+  "translation": "Họ đem ⟨את⟩ lễ vật của mình đến trước mặt Yahweh: sáu cỗ xe có trùm và mười hai con bò — mỗi cỗ xe cho hai vị thủ lĩnh, mỗi người một con bò — và họ dâng chúng đến trước ⟨את⟩ miếu đền.",
   "tokens": [
     {
       "surface": "ויביאו",
-      "gloss": "và họ đem"
+      "gloss": "đem đến"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lễ-dâng của họ"
+      "marks": "lễ vật của mình"
     },
     {
       "surface": "קרבנם",
-      "gloss": "lễ-dâng của họ"
+      "gloss": "lễ vật của mình"
     },
     {
       "surface": "לפני",
-      "gloss": "đến trước mặt"
+      "gloss": "trước mặt"
     },
     {
       "surface": "יהוה",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "צב",
-      "gloss": "có-mái-che"
+      "gloss": "có trùm"
     },
     {
       "surface": "ושני",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "עשר",
-      "gloss": "mười"
+      "gloss": "mười (lớn)"
     },
     {
       "surface": "בקר",
@@ -66,34 +66,34 @@
     },
     {
       "surface": "הנשאים",
-      "gloss": "thủ-lãnh"
+      "gloss": "vị thủ lĩnh"
     },
     {
       "surface": "ושור",
-      "gloss": "và một bò"
+      "gloss": "và một con bò"
     },
     {
       "surface": "לאחד",
-      "gloss": "cho từng-một"
+      "gloss": "cho mỗi người"
     },
     {
       "surface": "ויקריבו",
-      "gloss": "và họ dâng"
+      "gloss": "dâng lên"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩ chúng",
-      "marks": "chúng (xe và bò)"
+      "marks": "chúng (các cỗ xe và bò)"
     },
     {
       "surface": "לפני",
-      "gloss": "đến trước mặt"
+      "gloss": "trước"
     },
     {
       "surface": "המשכן",
-      "gloss": "Đền-Tạm"
+      "gloss": "miếu đền"
     }
   ],
-  "timestamp": "2026-08-19T02:53:31.962544131Z",
+  "timestamp": "2026-08-24T16:06:39.770232171Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 8,
-  "translation": "Paroh bèn gọi ⟨אל⟩ Moshe và Aharon, và nói: Hãy đi, hãy tế lễ cho Elohim của các ngươi trong đất.",
+  "translation": "Paroh gọi Moshe và Aharon, và nói: Hãy đi, hãy hy sinh tế cho Elohim của các ngươi ⟨trong⟩ xứ.",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "bèn gọi"
+      "gloss": "và gọi"
     },
     {
       "surface": "פרעה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "⟨אל⟩ với"
+      "gloss": "đến cùng"
     },
     {
       "surface": "משה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "זבחו",
-      "gloss": "hãy tế lễ"
+      "gloss": "hãy giết tế"
     },
     {
       "surface": "לאלהיכם",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "trong đất"
+      "gloss": "trong xứ"
     }
   ],
-  "timestamp": "2026-08-19T02:29:33.097957915Z",
+  "timestamp": "2026-08-24T16:03:05.711198995Z",
   "model": "glm-5.3"
 }

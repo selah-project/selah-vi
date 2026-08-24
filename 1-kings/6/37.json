@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "vi",
   "chapter": 6,
-  "translation": "Vào năm thứ tư ⟨ה⟩בית của Yahweh được đặt nền, vào tháng Ziv.",
+  "translation": "Vào năm thứ tư, nhà của Yahweh được nền ⟨is⟩ đặt, vào tháng Ziv.",
   "tokens": [
     {
       "surface": "בשנה",
-      "gloss": "Vào năm"
+      "gloss": "vào năm"
     },
     {
       "surface": "הרביעית",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "יסד",
-      "gloss": "được đặt nền"
+      "gloss": "được nền đặt"
     },
     {
       "surface": "בית",
@@ -36,6 +36,6 @@
       "gloss": "Ziv"
     }
   ],
-  "timestamp": "2026-08-19T03:48:07.821005531Z",
+  "timestamp": "2026-08-24T16:27:36.674848695Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "vi",
   "chapter": 18,
-  "translation": "Vì bất cứ ai làm bất cứ điều gì trong tất cả các điều gớm ghiếc này, thì các נפש làm điều ấy sẽ bị cắt bỏ khỏi giữa dân sự mình.",
+  "translation": "Vì bất kỳ ai làm một trong tất cả các sự gớm ghiếc ⟨này⟩, thì các נפש làm điều đó sẽ bị cắt bỏ khỏi giữa dân sự mình.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "bất cứ ai"
+      "gloss": "mọi"
     },
     {
       "surface": "אשר",
-      "gloss": "kẻ mà"
+      "gloss": "ai"
     },
     {
       "surface": "יעשה",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "מכל",
-      "gloss": "trong tất cả"
+      "gloss": "một trong tất cả"
     },
     {
       "surface": "התועבות",
-      "gloss": "các điều gớm ghiếc"
+      "gloss": "các sự gớm ghiếc"
     },
     {
       "surface": "האלה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "העשת",
-      "gloss": "làm điều ấy"
+      "gloss": "làm điều đó"
     },
     {
       "surface": "מקרב",
@@ -56,6 +56,6 @@
       "gloss": "dân sự mình"
     }
   ],
-  "timestamp": "2026-08-19T02:44:49.612176243Z",
+  "timestamp": "2026-08-24T16:05:57.017444598Z",
   "model": "glm-5.3"
 }

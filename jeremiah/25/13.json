@@ -5,8 +5,95 @@
   "book": "jeremiah",
   "lang": "vi",
   "chapter": 25,
-  "translation": "Và Ta sẽ bring xuống trên đất ấy ⟨את⟩ mọi lời Ta đã phán chống nó, ⟨את⟩ mọi điều đã ghi trong sách này mà Yirmeyahu đã nói tiên tri về mọi quốc gia.",
-  "tokens": [],
-  "timestamp": "2026-08-19T04:22:54.217239089Z",
+  "translation": "Và Ta sẽ đem xuống trên đất đó ⟨את⟩ mọi lời Ta đã phán chống nó, ⟨את⟩ mọi điều đã chép trong sách này, điều Yirmeyahu đã nói tiên tri chống mọi dân tộc.",
+  "tokens": [
+    {
+      "surface": "והבאיתי",
+      "gloss": "và Ta sẽ đem xuống"
+    },
+    {
+      "surface": "על",
+      "gloss": "trên"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "đó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi lời của Ta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "lời của Ta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "Ta đã phán"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "chống nó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mọi điều đã chép"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "điều đã chép"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "trong sách"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "này"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "נבא",
+      "gloss": "đã nói tiên tri"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "על",
+      "gloss": "chống"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mọi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "dân tộc"
+    }
+  ],
+  "timestamp": "2026-08-24T16:16:23.121385843Z",
   "model": "glm-5.3"
 }

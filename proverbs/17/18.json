@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "vi",
   "chapter": 17,
-  "translation": "Kẻ thiếu ⟨sự⟩ hiểu biết vỗ tay震荡, người bảo lãnh đặt của cầm trước mặt bạn mình.",
+  "translation": "Kẻ thiếu lòng hiểu biết vỗ tay, trở người bảo lãnh trước mặt bạn mình.",
   "tokens": [
     {
       "surface": "אדם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "לב",
-      "gloss": "hiểu biết (lòng)"
+      "gloss": "lòng hiểu biết"
     },
     {
       "surface": "תוקע",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "כף",
-      "gloss": "tay (lòng bàn tay)"
+      "gloss": "tay"
     },
     {
       "surface": "ערב",
-      "gloss": "làm bảo lãnh"
+      "gloss": "trở"
     },
     {
       "surface": "ערבה",
-      "gloss": "của cầm \/ sự bảo lãnh"
+      "gloss": "người bảo lãnh"
     },
     {
       "surface": "לפני",
@@ -44,6 +44,6 @@
       "gloss": "bạn mình"
     }
   ],
-  "timestamp": "2026-08-19T05:17:06.712833790Z",
+  "timestamp": "2026-08-24T16:58:27.511094465Z",
   "model": "glm-5.3"
 }

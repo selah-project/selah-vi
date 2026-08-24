@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 6,
-  "translation": "Và thầy tế lễ sẽ làm con một làm của lễ chuộc tội, và con một làm của lễ thiêu, và sẽ làm lễ chuộc tội cho nó, vì ⟨nó⟩ đã phạm tội đối với הנפש, và sẽ thánh hóa ⟨את⟩ đầu nó trong ngày đó.",
+  "translation": "Và ha-kohen sẽ làm một con làm của lễ tội lỗi, và một con làm của lễ thiêu, và sẽ chuộc tội cho người ấy, vì người đã phạm tội đối với ⟨את⟩ mình sinh mạng; và sẽ thánh hóa ⟨את⟩ đầu người ấy trong ngày ấy.",
   "tokens": [
     {
       "surface": "ועשה",
@@ -13,35 +13,35 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "thầy tế lễ"
+      "gloss": "ha-kohen (thầy tế lễ)"
     },
     {
       "surface": "אחד",
-      "gloss": "con một"
+      "gloss": "một con"
     },
     {
       "surface": "לחטאת",
-      "gloss": "cho của lễ chuộc tội"
+      "gloss": "làm của lễ tội lỗi"
     },
     {
       "surface": "ואחד",
-      "gloss": "và con một"
+      "gloss": "và một con"
     },
     {
       "surface": "לעלה",
-      "gloss": "cho của lễ thiêu"
+      "gloss": "làm của lễ thiêu"
     },
     {
       "surface": "וכפר",
-      "gloss": "và sẽ làm lễ chuộc tội"
+      "gloss": "và sẽ chuộc tội"
     },
     {
       "surface": "עליו",
-      "gloss": "trên nó"
+      "gloss": "cho người ấy"
     },
     {
       "surface": "מאשר",
-      "gloss": "về điều mà"
+      "gloss": "vì rằng"
     },
     {
       "surface": "חטא",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "הנפש",
-      "gloss": "người (נפש)"
+      "gloss": "mình sinh mạng (hạ-né-phẹt)"
     },
     {
       "surface": "וקדש",
@@ -62,11 +62,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "đầu nó"
+      "marks": "đầu người ấy"
     },
     {
       "surface": "ראשו",
-      "gloss": "đầu nó"
+      "gloss": "đầu người ấy"
     },
     {
       "surface": "ביום",
@@ -74,9 +74,9 @@
     },
     {
       "surface": "ההוא",
-      "gloss": "đó"
+      "gloss": "ấy"
     }
   ],
-  "timestamp": "2026-08-19T06:04:43.448175861Z",
+  "timestamp": "2026-08-24T16:06:20.110234211Z",
   "model": "glm-5.3"
 }

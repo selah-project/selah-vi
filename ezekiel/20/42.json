@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "vi",
   "chapter": 20,
-  "translation": "Và các ngươi sẽ biết rằng ta là Yahweh, khi ta đưa ⟨את⟩ các ngươi vào đất của Israel, vào ⟨the⟩ đất mà ta đã giơ ⟨את⟩ tay ta lên để ban nó cho tổ phụ các ngươi.",
+  "translation": "Và các ngươi sẽ biết rằng Ta là Yahweh, khi Ta đưa các ngươi đến ⟨את⟩ đất của Yisrael, đến xứ mà Ta đã giơ ⟨את⟩ tay Ta lên để ban ⟨את⟩ nó cho tổ phụ các ngươi.",
   "tokens": [
     {
       "surface": "וידעתם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אני",
-      "gloss": "ta"
+      "gloss": "Ta"
     },
     {
       "surface": "יהוה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "בהביאי",
-      "gloss": "khi ta đưa vào"
+      "gloss": "khi Ta đưa"
     },
     {
       "surface": "אתכם",
@@ -34,23 +34,23 @@
     },
     {
       "surface": "אל",
-      "gloss": "vào"
+      "gloss": "đến"
     },
     {
       "surface": "אדמת",
-      "gloss": "đất của"
+      "gloss": "đất"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israel"
+      "gloss": "Yisrael"
     },
     {
       "surface": "אל",
-      "gloss": "vào"
+      "gloss": "đến"
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ đất"
+      "gloss": "xứ"
     },
     {
       "surface": "אשר",
@@ -58,16 +58,16 @@
     },
     {
       "surface": "נשאתי",
-      "gloss": "ta đã giơ lên"
+      "gloss": "Ta đã giơ lên"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tay ta"
+      "marks": "tay Ta"
     },
     {
       "surface": "ידי",
-      "gloss": "tay ta"
+      "gloss": "tay Ta"
     },
     {
       "surface": "לתת",
@@ -75,14 +75,13 @@
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ nó",
-      "marks": "nó (đất)"
+      "gloss": "⟨את⟩ nó"
     },
     {
       "surface": "לאבותיכם",
       "gloss": "cho tổ phụ các ngươi"
     }
   ],
-  "timestamp": "2026-08-19T04:36:31.600788289Z",
+  "timestamp": "2026-08-24T16:17:23.081805029Z",
   "model": "glm-5.3"
 }

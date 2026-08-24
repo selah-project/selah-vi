@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "vi",
   "chapter": 22,
-  "translation": "Vì ở nơi chúng đã lưu đày ⟨את⟩ ⟨אתו⟩ nó, tại đó nó sẽ chết; và ⟨את⟩ đất này nó sẽ không thấy nữa.",
+  "translation": "Vì tại nơi mà chúng đã bắt đi lưu đày ⟨אתו⟩, tại đó hắn sẽ chết, và ⟨את⟩ đất này hắn sẽ không thấy nữa.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "במקום",
-      "gloss": "ở nơi"
+      "gloss": "tại nơi"
     },
     {
       "surface": "אשר",
@@ -21,12 +21,12 @@
     },
     {
       "surface": "הגלו",
-      "gloss": "chúng đã lưu đày"
+      "gloss": "đã bắt đi lưu đày"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "nó (Shallum)"
+      "gloss": "⟨את⟩",
+      "marks": "hắn (אתו = את + hậu tố Tân vị третьего — đánh dấu tân ngữ 'hắn')"
     },
     {
       "surface": "שם",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "ימות",
-      "gloss": "nó sẽ chết"
+      "gloss": "sẽ chết"
     },
     {
       "surface": "ואת",
@@ -55,13 +55,13 @@
     },
     {
       "surface": "יראה",
-      "gloss": "nó thấy"
+      "gloss": "sẽ thấy"
     },
     {
       "surface": "עוד",
       "gloss": "nữa"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.970964032Z",
+  "timestamp": "2026-08-24T16:15:17.897104434Z",
   "model": "glm-5.3"
 }

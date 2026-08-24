@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "vi",
   "chapter": 5,
-  "translation": "Và các thầy tế lễ không thể đứng để phục sự, vì mặt của đám mây — vì vinh quang của Yahweh đã đầy ⟨את⟩ nhà của ⟨ה⟩ Elohim.",
+  "translation": "và các thầy tế lễ không thể đứng để phục sự, vì mặt của đám mây — vì vinh quang của Yahweh đã đầy ⟨את⟩ nhà của Elohim.",
   "tokens": [
     {
       "surface": "ולא",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "מלא",
-      "gloss": "đầy"
+      "gloss": "đầy \/ đã làm đầy"
     },
     {
       "surface": "כבוד",
@@ -54,7 +54,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nhà của Elohim"
+      "marks": "nhà"
     },
     {
       "surface": "בית",
@@ -65,6 +65,6 @@
       "gloss": "của Elohim"
     }
   ],
-  "timestamp": "2026-08-19T05:54:18.542431653Z",
+  "timestamp": "2026-08-24T16:25:11.493501761Z",
   "model": "glm-5.3"
 }

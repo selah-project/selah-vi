@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "vi",
   "chapter": 20,
-  "translation": "Yehonatan nói với David: Hãy đến, chúng ta hãy ra ngoài đồng. Và cả hai người ra ngoài đồng.",
+  "translation": "Và Yehonatan nói với David: Hãy đi, và chúng ta hãy ra ⟨את⟩ cánh đồng. Và cả hai người đã ra ⟨את⟩ cánh đồng.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "và-người-nói"
+      "gloss": "và-nói"
     },
     {
       "surface": "יהונתן",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "לכה",
-      "gloss": "hãy-đến"
+      "gloss": "hãy-đi"
     },
     {
       "surface": "ונצא",
-      "gloss": "và-chúng-ta-ra"
+      "gloss": "và-chúng-ta-hãy-ra"
     },
     {
       "surface": "השדה",
-      "gloss": "⟨the⟩ đồng"
+      "gloss": "cánh đồng"
     },
     {
       "surface": "ויצאו",
-      "gloss": "và-họ-ra"
+      "gloss": "và-họ-đã-ra"
     },
     {
       "surface": "שניהם",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "השדה",
-      "gloss": "⟨the⟩ đồng"
+      "gloss": "cánh đồng"
     }
   ],
-  "timestamp": "2026-08-19T03:34:52.685578617Z",
+  "timestamp": "2026-08-24T16:10:57.480270553Z",
   "model": "glm-5.3"
 }

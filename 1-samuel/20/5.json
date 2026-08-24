@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "vi",
   "chapter": 20,
-  "translation": "Đavid nói với Yehonatan: Này, ngày朔 mới mai đến, và ta vốn ngồi ăn với vua; ngươi hãy cho phép ta đi, ta sẽ ẩn mình nơi cánh đồng cho đến buổi chiều thứ ba.",
+  "translation": "Và Dawid nói với Yehonatan: Này, ngày mai là ⟨ngày⟩ đầu tháng, và ta vốn ngồi ⟨với⟩ vua để ăn; ngươi hãy tha ta đi, và ta sẽ ẩn mình trong cánh đồng cho đến buổi chiều ⟨ngày⟩ thứ ba.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "דוד",
-      "gloss": "Đavid"
+      "gloss": "Dawid"
     },
     {
       "surface": "אל",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "חדש",
-      "gloss": "ngày朔 mới"
+      "gloss": "đầu tháng"
     },
     {
       "surface": "מחר",
-      "gloss": "mai"
+      "gloss": "ngày mai"
     },
     {
       "surface": "ואנכי",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "אשב",
-      "gloss": "ta ngồi"
+      "gloss": "người ngồi"
     },
     {
       "surface": "עם",
-      "gloss": "với"
+      "gloss": "cùng"
     },
     {
       "surface": "המלך",
@@ -61,15 +61,15 @@
     },
     {
       "surface": "ושלחתני",
-      "gloss": "hãy cho phép ta đi"
+      "gloss": "và ngươi hãy sai ta đi"
     },
     {
       "surface": "ונסתרתי",
-      "gloss": "và ta ẩn mình"
+      "gloss": "và ta sẽ ẩn mình"
     },
     {
       "surface": "בשדה",
-      "gloss": "nơi cánh đồng"
+      "gloss": "trong cánh đồng"
     },
     {
       "surface": "עד",
@@ -84,6 +84,6 @@
       "gloss": "thứ ba"
     }
   ],
-  "timestamp": "2026-08-19T03:35:38.254407549Z",
+  "timestamp": "2026-08-24T16:11:11.074091640Z",
   "model": "glm-5.3"
 }

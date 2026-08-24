@@ -5,29 +5,29 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 46,
-  "translation": "Họ lấy ⟨את】 gia súc mình và ⟨את⟩ tài sản mình mà họ đã tích lũy trong đất Kena'an, và họ vào Mitsrayim — Yaakov và toàn thể dòng dõi ông ⟨את⟩ ông.",
+  "translation": "Và họ đem ⟨את⟩ gia súc của mình và ⟨את⟩ tài sản mà họ đã tích lũy trong đất Kenaan, và họ vào Mitsrayim — Yaakov cùng toàn thể dòng dõi của ông với ông.",
   "tokens": [
     {
       "surface": "ויקחו",
-      "gloss": "và lấy"
+      "gloss": "và họ đem"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "gia súc mình"
+      "marks": "gia súc của mình"
     },
     {
       "surface": "מקניהם",
-      "gloss": "gia súc mình"
+      "gloss": "gia súc của mình"
     },
     {
       "surface": "ואת",
       "gloss": "và ⟨את⟩",
-      "marks": "tài sản mình"
+      "marks": "tài sản"
     },
     {
       "surface": "רכושם",
-      "gloss": "tài sản mình"
+      "gloss": "tài sản của mình"
     },
     {
       "surface": "אשר",
@@ -43,11 +43,11 @@
     },
     {
       "surface": "כנען",
-      "gloss": "Kena'an"
+      "gloss": "Kenaan"
     },
     {
       "surface": "ויבאו",
-      "gloss": "và vào"
+      "gloss": "và họ vào"
     },
     {
       "surface": "מצרימה",
@@ -59,18 +59,17 @@
     },
     {
       "surface": "וכל",
-      "gloss": "và toàn thể"
+      "gloss": "cùng toàn thể"
     },
     {
       "surface": "זרעו",
-      "gloss": "dòng dõi ông"
+      "gloss": "dòng dõi của ông"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ với ông",
-      "marks": "cùng với ông"
+      "gloss": "⟨את⟩ với ông"
     }
   ],
-  "timestamp": "2026-08-19T02:26:03.614138797Z",
+  "timestamp": "2026-08-24T16:02:55.529970914Z",
   "model": "glm-5.3"
 }

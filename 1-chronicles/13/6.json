@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "vi",
   "chapter": 13,
-  "translation": "Và David cùng toàn thể Yisrael lên Baalah, đến Kiryat-Yearim thuộc Yehudah, để đưa lên từ đó ⟨את⟩ hòm của Elohim — Yahweh, Đấng ngự giữa הכרובים, mà Danh ⟨được⟩ kêu gọi tại đó.",
+  "translation": "Và David lên, cùng cả Yisrael, đến Baalah, tức Kiryat-Yearim thuộc về Yehuda, để đưa lên từ đó ⟨את⟩ hòm giao ước của Elohim, Yahweh, Đấng ngự trên các cherubim, nơi mà Danh được kêu cầu.",
   "tokens": [
     {
       "surface": "ויעל",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "וכל",
-      "gloss": "cùng toàn thể"
+      "gloss": "và cả"
     },
     {
       "surface": "ישראל",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "יערים",
-      "gloss": "-Yearim"
+      "gloss": "Yearim"
     },
     {
       "surface": "אשר",
-      "gloss": "thuộc"
+      "gloss": "mà"
     },
     {
       "surface": "ליהודה",
-      "gloss": "Yehudah"
+      "gloss": "thuộc về Yehuda"
     },
     {
       "surface": "להעלות",
@@ -58,7 +58,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hòm của Elohim"
+      "marks": "hòm giao ước"
     },
     {
       "surface": "ארון",
@@ -74,25 +74,25 @@
     },
     {
       "surface": "יושב",
-      "gloss": "Đấng ngự"
+      "gloss": "ngự"
     },
     {
       "surface": "הכרובים",
-      "gloss": "giữa הכרובים"
+      "gloss": "trên các cherubim"
     },
     {
       "surface": "אשר",
-      "gloss": "mà"
+      "gloss": "nơi mà"
     },
     {
       "surface": "נקרא",
-      "gloss": "được kêu gọi"
+      "gloss": "được kêu cầu"
     },
     {
       "surface": "שם",
       "gloss": "Danh"
     }
   ],
-  "timestamp": "2026-08-19T05:50:46.862501301Z",
+  "timestamp": "2026-08-24T16:24:49.012418243Z",
   "model": "glm-5.3"
 }

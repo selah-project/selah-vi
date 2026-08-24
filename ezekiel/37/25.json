@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "vi",
   "chapter": 37,
-  "translation": "Và chúng sẽ ở trên ⟨the⟩ đất mà Ta đã ban cho tôi tớ Ta, cho Yaakov, nơi các tổ phụ các ngươi đã ở; và chúng sẽ ở trên đó — chính chúng, con cái chúng, và con cháu chúng — đến đời đời; và David tôi tớ Ta ⟨sẽ⟩ làm thủ lãnh cho chúng đến đời đời.",
+  "translation": "Và chúng sẽ ở trên đất mà Ta đã ban cho tôi tớ Ta, cho Yaakov, mà các tổ phụ các ngươi đã ở trong đó; và chúng sẽ ở trên đó, chính chúng, và con trai chúng, và con trai con trai chúng, cho đến đời đời; và David tôi tớ Ta làm thủ lãnh cho chúng đến đời đời.",
   "tokens": [
     {
       "surface": "וישבו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ đất"
+      "gloss": "đất"
     },
     {
       "surface": "אשר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "nơi"
+      "gloss": "mà"
     },
     {
       "surface": "ישבו",
@@ -65,19 +65,19 @@
     },
     {
       "surface": "ובניהם",
-      "gloss": "và con cái chúng"
+      "gloss": "và con trai chúng"
     },
     {
       "surface": "ובני",
-      "gloss": "và con của"
+      "gloss": "và con trai"
     },
     {
       "surface": "בניהם",
-      "gloss": "con cái chúng"
+      "gloss": "con trai chúng"
     },
     {
       "surface": "עד",
-      "gloss": "đến"
+      "gloss": "cho đến"
     },
     {
       "surface": "עולם",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "נשיא",
-      "gloss": "thủ lãnh"
+      "gloss": "làm thủ lãnh"
     },
     {
       "surface": "להם",
@@ -104,6 +104,6 @@
       "gloss": "đến đời đời"
     }
   ],
-  "timestamp": "2026-08-19T04:41:22.618534414Z",
+  "timestamp": "2026-08-24T16:58:27.521370727Z",
   "model": "glm-5.3"
 }

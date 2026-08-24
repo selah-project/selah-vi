@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 25,
-  "translation": "Và sau đó anh em hắn đi ra, tay hắn nắm giữ gót Esav; và người ta gọi tên hắn là Yaakov; còn Yitschak ⟨is⟩ con trai sáu mươi năm khi ⟨họ⟩ sinh ⟨את⟩ ⟨אתם⟩ ra.",
+  "translation": "Và sau đó anh em của ông ra ngoài, tay ⟨của anh⟩ nắm lấy gót chân Esav; và người ta gọi tên anh ⟨là⟩ Yaakov; còn Yitschak ⟨được⟩ sáu mươi tuổi khi bà sinh ⟨אתם⟩ họ.",
   "tokens": [
     {
       "surface": "ואחרי",
@@ -17,23 +17,23 @@
     },
     {
       "surface": "יצא",
-      "gloss": "đi ra"
+      "gloss": "ra ngoài"
     },
     {
       "surface": "אחיו",
-      "gloss": "anh em hắn"
+      "gloss": "anh em của ông"
     },
     {
       "surface": "וידו",
-      "gloss": "và tay hắn"
+      "gloss": "và tay anh"
     },
     {
       "surface": "אחזת",
-      "gloss": "nắm giữ"
+      "gloss": "nắm lấy"
     },
     {
       "surface": "בעקב",
-      "gloss": "gót"
+      "gloss": "gót chân"
     },
     {
       "surface": "עשו",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "ויקרא",
-      "gloss": "và gọi"
+      "gloss": "và người ta gọi"
     },
     {
       "surface": "שמו",
-      "gloss": "tên hắn"
+      "gloss": "tên anh"
     },
     {
       "surface": "יעקב",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "con trai"
+      "gloss": "con \/ tuổi"
     },
     {
       "surface": "ששים",
@@ -69,14 +69,14 @@
     },
     {
       "surface": "בלדת",
-      "gloss": "khi sinh"
+      "gloss": "khi bà sinh"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "họ (hai đứa trẻ)"
+      "gloss": "⟨את⟩",
+      "marks": "họ"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.950983073Z",
+  "timestamp": "2026-08-24T16:02:12.382404006Z",
   "model": "glm-5.3"
 }

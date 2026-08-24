@@ -5,7 +5,7 @@
   "book": "lamentations",
   "lang": "vi",
   "chapter": 3,
-  "translation": "Tôi là ⟨the⟩ người đã thấy cảnh khổ dưới cây roi của cơn thịnh nộ của Ngài.",
+  "translation": "Tôi ⟨là⟩ người-đàn-ông đã thấy ⟨את⟩ cảnh khốn khổ dưới cây roi của cơn thịnh nộ của Ngài.",
   "tokens": [
     {
       "surface": "אני",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הגבר",
-      "gloss": "người (đàn ông)"
+      "gloss": "người-đàn-ông"
     },
     {
       "surface": "ראה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "עני",
-      "gloss": "cảnh khổ"
+      "gloss": "cảnh khốn khổ"
     },
     {
       "surface": "בשבט",
@@ -32,6 +32,6 @@
       "gloss": "cơn thịnh nộ của Ngài"
     }
   ],
-  "timestamp": "2026-08-19T05:31:04.136051255Z",
+  "timestamp": "2026-08-24T16:23:06.188601513Z",
   "model": "glm-5.3"
 }

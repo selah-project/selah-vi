@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 44,
-  "translation": "Người ấy nói: Bây giờ cũng vậy, theo lời các ngươi thì đúng như vậy; kẻ nào nó được tìm thấy ⟨את⟩ ⟨אתו⟩ thì sẽ trở thành nô lệ của tôi, còn các ngươi sẽ được vô tội.",
+  "translation": "Và người nói: Cả bây giờ nữa, theo lời các ngươi, như vậy ⟨nó là⟩: kẻ nào được tìm thấy ⟨את⟩ với hắn, sẽ thành đầy tớ của tôi; còn các ngươi sẽ ⟨được⟩ vô tội.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "người ấy nói"
+      "gloss": "và người nói"
     },
     {
       "surface": "גם",
-      "gloss": "cũng"
+      "gloss": "cả… nữa"
     },
     {
       "surface": "עתה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "כן",
-      "gloss": "thì đúng như vậy"
+      "gloss": "như vậy"
     },
     {
       "surface": "הוא",
@@ -41,12 +41,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "nó (chén bạc)"
+      "gloss": "⟨את⟩ với hắn",
+      "marks": "hắn (người bị tìm thấy có chén)"
     },
     {
       "surface": "יהיה",
-      "gloss": "sẽ trở thành"
+      "gloss": "sẽ thành"
     },
     {
       "surface": "לי",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "עבד",
-      "gloss": "nô lệ"
+      "gloss": "đầy tớ"
     },
     {
       "surface": "ואתם",
@@ -62,13 +62,13 @@
     },
     {
       "surface": "תהיו",
-      "gloss": "sẽ được"
+      "gloss": "sẽ là"
     },
     {
       "surface": "נקים",
       "gloss": "vô tội"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.945679904Z",
+  "timestamp": "2026-08-24T16:03:20.530526126Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "vi",
   "chapter": 21,
-  "translation": "Và có nạn đói ba năm vào thời của David, năm này nối tiếp năm kia; David寻求 sought... — 수정: David đã tìm kiếm ⟨את⟩ nhan của Yahweh, và Yahweh phán rằng ⟨nó là⟩ vì Shaul và nhà của những kẻ đổ máu, vì hắn đã giết ⟨את⟩ người Giv'on.",
+  "translation": "Có nạn đói trong những ngày của David, ba năm, năm này tiếp theo năm kia; và David tìm kiếm ⟨את⟩ mặt Yahweh, và Yahweh phán: Vì Shaul và vì nhà ⟨là⟩ nhà đầy máu, bởi vì ông đã giết ⟨את⟩ người Giv'on.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "và xảy ra"
+      "gloss": "có"
     },
     {
       "surface": "רעב",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "בימי",
-      "gloss": "trong thời"
+      "gloss": "trong những ngày của"
     },
     {
       "surface": "דוד",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "sau"
+      "gloss": "tiếp theo"
     },
     {
       "surface": "שנה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ויבקש",
-      "gloss": "và đã tìm kiếm"
+      "gloss": "và tìm kiếm"
     },
     {
       "surface": "דוד",
@@ -54,11 +54,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nhan của Yahweh"
+      "marks": "mặt Yahweh"
     },
     {
       "surface": "פני",
-      "gloss": "nhan"
+      "gloss": "mặt của"
     },
     {
       "surface": "יהוה",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "về"
+      "gloss": "rằng"
     },
     {
       "surface": "שאול",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "ואל",
-      "gloss": "và về"
+      "gloss": "và vì"
     },
     {
       "surface": "בית",
@@ -90,15 +90,15 @@
     },
     {
       "surface": "הדמים",
-      "gloss": "của những kẻ đổ máu"
+      "gloss": "đầy máu"
     },
     {
       "surface": "על",
-      "gloss": "vì"
+      "gloss": "bởi vì"
     },
     {
       "surface": "אשר",
-      "gloss": "rằng"
+      "gloss": "điều mà"
     },
     {
       "surface": "המית",
@@ -114,6 +114,6 @@
       "gloss": "người Giv'on"
     }
   ],
-  "timestamp": "2026-08-19T03:45:20.443875369Z",
+  "timestamp": "2026-08-24T16:12:03.585174103Z",
   "model": "glm-5.3"
 }

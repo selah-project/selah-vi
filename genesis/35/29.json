@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 35,
-  "translation": "Yitschak trút hơi qua đời, và chết, và được quy tụ về với dân sự mình, già yếu và no đầy ngày tháng; và Esav cùng Yaakov các con trai ông đã chôn cất ⟨אתו⟩.",
+  "translation": "Yitschak trút hơi ⟨và⟩ chết, ⟨và⟩ được quy tụ về dân sự mình, già ⟨và⟩ no đầy ngày tháng; Esav và Yaakov con trai ông đã chôn ⟨את⟩ ông.",
   "tokens": [
     {
       "surface": "ויגוע",
-      "gloss": "trút hơi qua đời"
+      "gloss": "trút hơi"
     },
     {
       "surface": "יצחק",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "về với"
+      "gloss": "về"
     },
     {
       "surface": "עמיו",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "זקן",
-      "gloss": "già yếu"
+      "gloss": "già"
     },
     {
       "surface": "ושבע",
@@ -45,12 +45,12 @@
     },
     {
       "surface": "ויקברו",
-      "gloss": "và đã chôn cất"
+      "gloss": "và đã chôn"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "ngài (Yitschak)"
+      "marks": "ông"
     },
     {
       "surface": "עשו",
@@ -58,13 +58,13 @@
     },
     {
       "surface": "ויעקב",
-      "gloss": "cùng Yaakov"
+      "gloss": "và Yaakov"
     },
     {
       "surface": "בניו",
-      "gloss": "các con trai ông"
+      "gloss": "con trai ông"
     }
   ],
-  "timestamp": "2026-08-19T01:19:27.738062549Z",
+  "timestamp": "2026-08-24T16:02:23.310769890Z",
   "model": "glm-5.3"
 }

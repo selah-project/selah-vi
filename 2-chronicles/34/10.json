@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "vi",
   "chapter": 34,
-  "translation": "Và họ đặt vào tay những người làm công việc, những kẻ được bổ nhiệm trong nhà Yahweh; và những người làm công việc nhận ⟨את⟩ nó, những kẻ làm việc trong nhà Yahweh, để tu sửa và củng cố ⟨the⟩ nhà.",
+  "translation": "Họ đặt vào tay các người làm công việc được bổ nhiệm trong nhà Yahweh, và những người làm công việc đang làm trong nhà Yahweh nhận ⟨אתו⟩ nó, để kiểm tra và để củng cố ngôi nhà.",
   "tokens": [
     {
       "surface": "ויתנו",
-      "gloss": "và họ đặt"
+      "gloss": "họ đặt"
     },
     {
       "surface": "על",
@@ -41,16 +41,16 @@
     },
     {
       "surface": "ויתנו",
-      "gloss": "và họ trao"
+      "gloss": "họ trao"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ nó",
-      "marks": "người làm công việc"
+      "gloss": "⟨את⟩",
+      "marks": "nó (tiền bạc\/công việc)"
     },
     {
       "surface": "עושי",
-      "gloss": "những kẻ làm"
+      "gloss": "người làm"
     },
     {
       "surface": "המלאכה",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "những kẻ"
+      "gloss": "mà"
     },
     {
       "surface": "עשים",
@@ -74,17 +74,17 @@
     },
     {
       "surface": "לבדוק",
-      "gloss": "để tu sửa"
+      "gloss": "để kiểm tra"
     },
     {
       "surface": "ולחזק",
-      "gloss": "và củng cố"
+      "gloss": "và để củng cố"
     },
     {
       "surface": "הבית",
-      "gloss": "nhà"
+      "gloss": "ngôi nhà"
     }
   ],
-  "timestamp": "2026-08-19T06:01:56.767427203Z",
+  "timestamp": "2026-08-24T16:25:59.794900811Z",
   "model": "glm-5.3"
 }

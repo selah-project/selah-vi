@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "vi",
   "chapter": 19,
-  "translation": "Và ngươi sẽ nói với họ: Như vầy Yahweh các đạo binh phán: Cũng như vậy Ta sẽ đập vỡ ⟨את⟩ dân này và ⟨את⟩ thành này, như người ta đập vỡ ⟨את⟩ đồ vật của thợ gốm mà không thể sửa lại nữa; và người ta sẽ chôn他们在 Tophet, vì không còn chỗ để chôn.",
+  "translation": "Và ngươi sẽ nói với họ: KHÔNG có đầu trang vì mẫu này không bắt đầu bằng headings — thay vào đó: Như vậy đã phán Yahweh các đạo binh: Cũng như vậy Ta sẽ đập vỡ ⟨את⟩ dân này và ⟨את⟩ thành này, như người ta đập vỡ ⟨את⟩ đồ đạc của thợ gốm, thứ không thể được chữa lại nữa; và trong Tophet người ta sẽ chôn cất, vì không còn chỗ để chôn.",
   "tokens": [
     {
       "surface": "ואמרת",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "כה",
-      "gloss": "như vầy"
+      "gloss": "như vậy"
     },
     {
       "surface": "אמר",
-      "gloss": "phán"
+      "gloss": "đã phán"
     },
     {
       "surface": "יהוה",
@@ -71,16 +71,16 @@
     },
     {
       "surface": "ישבר",
-      "gloss": "người ta đập vỡ"
+      "gloss": "được đập vỡ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "đồ vật của thợ gốm"
+      "marks": "đồ đạc của thợ gốm"
     },
     {
       "surface": "כלי",
-      "gloss": "đồ vật"
+      "gloss": "đồ đạc"
     },
     {
       "surface": "היוצר",
@@ -100,7 +100,7 @@
     },
     {
       "surface": "להרפה",
-      "gloss": "sửa lại"
+      "gloss": "được chữa lại"
     },
     {
       "surface": "עוד",
@@ -116,7 +116,7 @@
     },
     {
       "surface": "מאין",
-      "gloss": "vì không còn"
+      "gloss": "không còn"
     },
     {
       "surface": "מקום",
@@ -127,6 +127,6 @@
       "gloss": "để chôn"
     }
   ],
-  "timestamp": "2026-08-19T04:21:44.978411480Z",
+  "timestamp": "2026-08-24T16:15:26.056335216Z",
   "model": "glm-5.3"
 }

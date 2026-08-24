@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "vi",
   "chapter": 36,
-  "translation": "Kẻo Chizkiyahu xúi giục ⟨אתכם⟩ các ngươi, nói: Yahweh sẽ giải cứu chúng ta. Các thần của các dân tộc, mỗi vị ⟨את⟩ đất của mình, có giải cứu khỏi tay vua Assyria được chăng?",
+  "translation": "Kẻo Chizkiyahu quyến rũ ⟨את⟩ các ngươi, nói: 'Yahweh sẽ giải cứu chúng ta.' Các elohim của các dân tộc có từng giải cứu ⟨את⟩ đất của người nào khỏi tay vua Ashshur không?",
   "tokens": [
     {
       "surface": "פן",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "יסית",
-      "gloss": "xúi giục"
+      "gloss": "quyến rũ"
     },
     {
       "surface": "אתכם",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "ההצילו",
-      "gloss": "có giải cứu… chăng"
+      "gloss": "có từng giải cứu không"
     },
     {
       "surface": "אלהי",
-      "gloss": "các thần của"
+      "gloss": "các elohim của"
     },
     {
       "surface": "הגוים",
@@ -50,16 +50,16 @@
     },
     {
       "surface": "איש",
-      "gloss": "mỗi vị"
+      "gloss": "từng người"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "đất của mình"
+      "marks": "đất của người"
     },
     {
       "surface": "ארצו",
-      "gloss": "đất của mình"
+      "gloss": "đất của người"
     },
     {
       "surface": "מיד",
@@ -71,9 +71,9 @@
     },
     {
       "surface": "אשור",
-      "gloss": "Assyria"
+      "gloss": "Ashshur"
     }
   ],
-  "timestamp": "2026-08-19T04:10:41.693879984Z",
+  "timestamp": "2026-08-24T16:14:48.096066093Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "vi",
   "chapter": 93,
-  "translation": "Yahweh đã lên ngôi trị vì, Ngài khoác lấy sự tôn贵 ⟨את⟩ — corrected: Yahweh đã lên ngôi, sự huy hoàng Ngài đã mặc lấy, Yahweh đã mặc lấy sức mạnh, đã thắt đai mình; cả ⟨את⟩ địa cầu cũng ⟨được⟩ vững lập, không hề lung lay.",
+  "translation": "Yahweh đã trị vì, khoác lấy sự uy nghi; Yahweh đã khoác sức mạnh, đã thắt lưng ⟨với nó⟩; cả địa cầu ⟨được⟩ vững lập, không thể nao lung.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "מלך",
-      "gloss": "đã lên ngôi trị vì"
+      "gloss": "đã trị vì"
     },
     {
       "surface": "גאות",
-      "gloss": "sự huy hoàng"
+      "gloss": "sự uy nghi"
     },
     {
       "surface": "לבש",
-      "gloss": "đã mặc lấy"
+      "gloss": "đã khoác lấy"
     },
     {
       "surface": "לבש",
-      "gloss": "đã mặc lấy"
+      "gloss": "đã khoác"
     },
     {
       "surface": "יהוה",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "התאזר",
-      "gloss": "đã thắt đai mình"
+      "gloss": "đã thắt lưng"
     },
     {
       "surface": "אף",
-      "gloss": "cả… cũng"
+      "gloss": "cả\/thật vậy"
     },
     {
       "surface": "תכון",
-      "gloss": "vững lập"
+      "gloss": "được vững lập"
     },
     {
       "surface": "תבל",
@@ -53,13 +53,13 @@
     },
     {
       "surface": "בל",
-      "gloss": "không hề"
+      "gloss": "không"
     },
     {
       "surface": "תמוט",
-      "gloss": "lung lay"
+      "gloss": "sẽ nao lung"
     }
   ],
-  "timestamp": "2026-08-19T05:07:41.483974055Z",
+  "timestamp": "2026-08-24T16:21:24.588933547Z",
   "model": "glm-5.3"
 }

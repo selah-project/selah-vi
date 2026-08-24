@@ -5,19 +5,19 @@
   "book": "proverbs",
   "lang": "vi",
   "chapter": 27,
-  "translation": "Kẻ khôn ngoan thấy⟨⟨⟩⟩ điều tai họa và ẩn mình; kẻ ngu ngơ đi qua và bị phạt.",
+  "translation": "Người khônngoan đã thấy điều ác, ⟨đã⟩ ẩn mình; kẻ ngây thơ đi qua, bị phạt.",
   "tokens": [
     {
       "surface": "ערום",
-      "gloss": "kẻ khôn ngoan"
+      "gloss": "người khônngoan"
     },
     {
       "surface": "ראה",
-      "gloss": "thấy"
+      "gloss": "đã thấy"
     },
     {
       "surface": "רעה",
-      "gloss": "điều tai họa"
+      "gloss": "điều ác"
     },
     {
       "surface": "נסתר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "פתאים",
-      "gloss": "kẻ ngu ngơ"
+      "gloss": "kẻ ngây thơ"
     },
     {
       "surface": "עברו",
@@ -36,6 +36,6 @@
       "gloss": "bị phạt"
     }
   ],
-  "timestamp": "2026-08-19T06:20:01.089247028Z",
+  "timestamp": "2026-08-24T16:22:22.476841385Z",
   "model": "glm-5.3"
 }

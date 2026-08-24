@@ -5,8 +5,61 @@
   "book": "judges",
   "lang": "vi",
   "chapter": 21,
-  "translation": "Và toàn thể hội chúng sai người đến, và nói với con trai của Binyamin đang ở tại vững đá Rimmon, và họ kêu.reportoilà",
-  "tokens": [],
-  "timestamp": "2026-08-19T03:28:39.026220325Z",
+  "translation": "Và toàn thể hội chúng sai người ⟨אל⟩ nói với con cháu Binyamin đang ở tại vầng đá Rimmon, và họ hô vigorously bình an cho họ.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "và đã sai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "hội chúng"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "và nói"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨אל⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "con cháu"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "đang"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "ở tại vầng đá"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimmon"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "và họ hô"
+    },
+    {
+      "surface": "להם",
+      "gloss": "cho họ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "bình an"
+    }
+  ],
+  "timestamp": "2026-08-24T16:09:33.786429366Z",
   "model": "glm-5.3"
 }

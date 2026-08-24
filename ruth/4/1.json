@@ -5,7 +5,7 @@
   "book": "ruth",
   "lang": "vi",
   "chapter": 4,
-  "translation": "Và Boaz lên ⟨את⟩ cổng thành và ngồi xuống đó; và kìa ⟨את⟩ người chuộc proche đang đi qua, người mà Boaz đã nói tới; và ông nói: Hãy bước sang, hãy ngồi xuống đây, hỡi bạn某某! Và người ấy bước sang và ngồi xuống.",
+  "translation": "Và Boaz lên cổng thành, và ngồi xuống tại đó; và kìa, ⟨người chuộc⟩ mà Boaz đã nói đến đang đi ngang qua. Ông nói: Hãy bước sang một bên, ngồi xuống đây này, người kia ơi. Và người ấy bước sang một bên, và ngồi xuống.",
   "tokens": [
     {
       "surface": "ובעז",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "השער",
-      "gloss": "cổng"
+      "gloss": "cổng thành"
     },
     {
       "surface": "וישב",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "שם",
-      "gloss": "ở đó"
+      "gloss": "tại đó"
     },
     {
       "surface": "והנה",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "הגאל",
-      "gloss": "người-chuộc"
+      "gloss": "⟨người chuộc⟩"
     },
     {
       "surface": "עבר",
-      "gloss": "đi ngang qua"
+      "gloss": "đang đi ngang qua"
     },
     {
       "surface": "אשר",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "đã nói"
+      "gloss": "đã nói đến"
     },
     {
       "surface": "בעז",
@@ -53,15 +53,15 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "và nói"
+      "gloss": "và ông nói"
     },
     {
       "surface": "סורה",
-      "gloss": "hãy bước sang"
+      "gloss": "hãy bước sang một bên"
     },
     {
       "surface": "שבה",
-      "gloss": "hãy ngồi xuống"
+      "gloss": "ngồi xuống"
     },
     {
       "surface": "פה",
@@ -69,21 +69,21 @@
     },
     {
       "surface": "פלני",
-      "gloss": "hỡi ai đó"
+      "gloss": "người kia"
     },
     {
       "surface": "אלמני",
-      "gloss": "này bạn ơi"
+      "gloss": "ơi"
     },
     {
       "surface": "ויסר",
-      "gloss": "và bước sang"
+      "gloss": "và bước sang một bên"
     },
     {
       "surface": "וישב",
       "gloss": "và ngồi xuống"
     }
   ],
-  "timestamp": "2026-08-19T05:30:17.275342373Z",
+  "timestamp": "2026-08-24T16:27:24.858779232Z",
   "model": "glm-5.3"
 }

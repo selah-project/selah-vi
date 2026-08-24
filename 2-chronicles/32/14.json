@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "vi",
   "chapter": 32,
-  "translation": "Ai trong tất cả các elohim của những nước mà cha ông tôi đã tận diệt — ai đã thể cứu ⟨את⟩ dân mình khỏi tay tôi — mà elohim của các ngươi lại thể cứu các ngươi ⟨את⟩ ⟨אתכם⟩ khỏi tay tôi?",
+  "translation": "Ai trong mọi Elohim của các dân này, mà các cha tôi đã tận diệt, là ⟨đã⟩ có thể cứu ⟨את⟩ dân mình khỏi tay tôi, mà Elohim của các ngươi sẽ cứu ⟨את⟩ các ngươi khỏi tay tôi?",
   "tokens": [
     {
       "surface": "מי",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "בכל",
-      "gloss": "trong tất cả"
+      "gloss": "trong mọi"
     },
     {
       "surface": "אלהי",
-      "gloss": "các elohim của"
+      "gloss": "Elohim của"
     },
     {
       "surface": "הגוים",
-      "gloss": "các nước"
+      "gloss": "các dân"
     },
     {
       "surface": "האלה",
-      "gloss": "những này"
+      "gloss": "này"
     },
     {
       "surface": "אשר",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "אבותי",
-      "gloss": "cha ông tôi"
+      "gloss": "các cha tôi"
     },
     {
       "surface": "אשר",
-      "gloss": "mà"
+      "gloss": "là kẻ"
     },
     {
       "surface": "יכול",
-      "gloss": "đã thể"
+      "gloss": "có thể"
     },
     {
       "surface": "להציל",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "rằng"
+      "gloss": "mà"
     },
     {
       "surface": "יוכל",
-      "gloss": "thể"
+      "gloss": "sẽ có thể"
     },
     {
       "surface": "אלהיכם",
@@ -82,13 +82,14 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩"
+      "gloss": "⟨את⟩ các ngươi",
+      "marks": "các ngươi"
     },
     {
       "surface": "מידי",
       "gloss": "khỏi tay tôi"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.003539041Z",
+  "timestamp": "2026-08-24T16:26:17.154663078Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "vi",
   "chapter": 25,
-  "translation": "Và nếu các ngươi bán物 gì cho đồng bào mình, hoặc mua từ tay đồng bào mình, chớ hẹp hòi, ai nấy với ⟨את⟩ anh em mình.",
+  "translation": "Và nếu ngươi bán ⟨את⟩ món bán cho người đồng loại của ngươi, hoặc mua từ tay người đồng loại của ngươi, ch đừng hại, mỗi người ⟨את⟩ anh em mình.",
   "tokens": [
     {
       "surface": "וכי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "תמכרו",
-      "gloss": "các ngươi bán"
+      "gloss": "ngươi bán"
     },
     {
       "surface": "ממכר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "לעמיתך",
-      "gloss": "cho đồng bào ngươi"
+      "gloss": "cho người đồng loại của ngươi"
     },
     {
       "surface": "או",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "עמיתך",
-      "gloss": "đồng bào ngươi"
+      "gloss": "người đồng loại của ngươi"
     },
     {
       "surface": "אל",
-      "gloss": "chớ"
+      "gloss": "ch đừng"
     },
     {
       "surface": "תונו",
-      "gloss": "hẹp hòi"
+      "gloss": "hại"
     },
     {
       "surface": "איש",
-      "gloss": "ai nấy"
+      "gloss": "mỗi người"
     },
     {
       "surface": "את",
@@ -61,6 +61,6 @@
       "gloss": "anh em mình"
     }
   ],
-  "timestamp": "2026-08-19T02:47:49.028676803Z",
+  "timestamp": "2026-08-24T16:05:55.539403016Z",
   "model": "glm-5.3"
 }

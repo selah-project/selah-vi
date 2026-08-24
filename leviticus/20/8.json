@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "vi",
   "chapter": 20,
-  "translation": "Và các ngươi hãy giữ ⟨את〕 các luật lệ của Ta và làm ⟨את⟩ chúng; Ta là Yahweh, Đấng làm cho các ngươi nên thánh.",
+  "translation": "Và các ngươi hãy giữ ⟨את⟩ các luật lệ của Ta và hãy làm chúng; Ta ⟨là⟩ Yahweh, Đấng làm nên sự thánh cho các ngươi.",
   "tokens": [
     {
       "surface": "ושמרתם",
-      "gloss": "Và các ngươi hãy giữ"
+      "gloss": "và các ngươi hãy giữ"
     },
     {
       "surface": "את",
@@ -22,12 +22,12 @@
     },
     {
       "surface": "ועשיתם",
-      "gloss": "và làm"
+      "gloss": "và các ngươi hãy làm"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "chúng (các luật lệ)"
+      "gloss": "⟨את⟩ chúng",
+      "marks": "các luật lệ (chúng)"
     },
     {
       "surface": "אני",
@@ -39,9 +39,9 @@
     },
     {
       "surface": "מקדשכם",
-      "gloss": "Đấng làm cho các ngươi nên thánh"
+      "gloss": "Đấng làm nên sự thánh cho các ngươi"
     }
   ],
-  "timestamp": "2026-08-19T02:46:10.801013110Z",
+  "timestamp": "2026-08-24T16:05:50.352178138Z",
   "model": "glm-5.3"
 }

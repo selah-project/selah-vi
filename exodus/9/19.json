@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 9,
-  "translation": "Vậy bây giờ, hãy gấp rút đưa gia súc ngươi ⟨את⟩ và ⟨את⟩ tất cả những gì ngươi có ngoài đồng vào; mọi người và mọi súc vật sẽ被发现 ở trong đồng mà không được thu về nhà — mưa đá sẽ đổ xuống trên chúng và chúng sẽ chết.",
+  "translation": "Vậy bây giờ, hãy sai người đưa ⟨את⟩ gia súc của ngươi và ⟨את⟩ tất cả những gì thuộc về ngươi ở ngoài đồng vào chỗ an toàn — mọi người và mọi súc vật sẽ被发现 ở ngoài đồng, không được thu về nhà, mưa đá sẽ giáng xuống trên chúng và chúng sẽ chết.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -13,25 +13,25 @@
     },
     {
       "surface": "שלח",
-      "gloss": "hãy gấp rút đưa"
+      "gloss": "hãy sai người"
     },
     {
       "surface": "העז",
-      "gloss": "gấp rút"
+      "gloss": "đưa vào chỗ an toàn"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "gia súc ngươi"
+      "marks": "gia súc của ngươi"
     },
     {
       "surface": "מקנך",
-      "gloss": "gia súc ngươi"
+      "gloss": "gia súc của ngươi"
     },
     {
       "surface": "ואת",
       "gloss": "và ⟨את⟩",
-      "marks": "tất cả những gì ngươi có"
+      "marks": "tất cả những gì"
     },
     {
       "surface": "כל",
@@ -43,11 +43,11 @@
     },
     {
       "surface": "לך",
-      "gloss": "ngươi có"
+      "gloss": "thuộc về ngươi"
     },
     {
       "surface": "בשדה",
-      "gloss": "ngoài đồng"
+      "gloss": "ở ngoài đồng"
     },
     {
       "surface": "כל",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "והבהמה",
-      "gloss": "và súc vật"
+      "gloss": "và mọi súc vật"
     },
     {
       "surface": "אשר",
@@ -67,15 +67,15 @@
     },
     {
       "surface": "ימצא",
-      "gloss": "ở trong"
+      "gloss": "sẽ bị thấy"
     },
     {
       "surface": "בשדה",
-      "gloss": "đồng"
+      "gloss": "ở ngoài đồng"
     },
     {
       "surface": "ולא",
-      "gloss": "mà không"
+      "gloss": "và không"
     },
     {
       "surface": "יאסף",
@@ -83,11 +83,11 @@
     },
     {
       "surface": "הביתה",
-      "gloss": "nhà"
+      "gloss": "về nhà"
     },
     {
       "surface": "וירד",
-      "gloss": "sẽ đổ xuống"
+      "gloss": "và sẽ giáng xuống"
     },
     {
       "surface": "עלהם",
@@ -102,6 +102,6 @@
       "gloss": "và chúng sẽ chết"
     }
   ],
-  "timestamp": "2026-08-19T02:29:58.606078984Z",
+  "timestamp": "2026-08-24T16:03:10.762631830Z",
   "model": "glm-5.3"
 }

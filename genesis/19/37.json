@@ -5,8 +5,53 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 19,
-  "translation": "Và con gái cả đã sinh một con trai, và bà gọi tên nó là Moav — ⟨את⟩ chính ⟨את⟩ Moav... ông là cha của Moav cho đến ngày nay.",
-  "tokens": [],
-  "timestamp": "2026-08-19T01:01:33.236789765Z",
+  "translation": "Và người con gái cả sinh một con trai, và nàng gọi tên nó là Moav; chính ⟨hắn⟩ là cha của ⟨dân⟩ Moav cho đến ngày nay.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "và đã sinh"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "người con gái cả"
+    },
+    {
+      "surface": "בן",
+      "gloss": "con trai"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "và đã gọi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "tên nó"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chính hắn"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "cha của"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "עד",
+      "gloss": "cho đến"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngày nay"
+    }
+  ],
+  "timestamp": "2026-08-24T16:26:24.512708312Z",
   "model": "glm-5.3"
 }

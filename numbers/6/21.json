@@ -5,8 +5,97 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 6,
-  "translation": "Đây là luật của người Nazir, khi ⟨anh ta⟩ khấn誓言 —\n",
-  "tokens": [],
-  "timestamp": "2026-08-19T02:53:34.179897295Z",
+  "translation": "Đây là luật của người Nazir, kẻ khấn lễ vật của mình cho Yahweh vì sự tận hiến của mình, ngoài điều mà tay ⟨hắn⟩ với tới được; theo như lời khấn của mình mà hắn khấn, vậy hắn phải làm, theo luật của sự tận hiến của mình.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Đây"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "luật của"
+    },
+    {
+      "surface": "הנזיר",
+      "gloss": "người Nazir"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kẻ"
+    },
+    {
+      "surface": "ידר",
+      "gloss": "khấn"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "lễ vật của mình"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "cho Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "vì"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "sự tận hiến của mình"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "ngoài"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "điều mà"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "với tới được"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tay của hắn"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "theo như"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "lời khấn của mình"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "ידר",
+      "gloss": "hắn khấn"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vậy"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hắn phải làm"
+    },
+    {
+      "surface": "על",
+      "gloss": "theo"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "luật của"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "sự tận hiến của mình"
+    }
+  ],
+  "timestamp": "2026-08-24T16:06:59.244074739Z",
   "model": "glm-5.3"
 }

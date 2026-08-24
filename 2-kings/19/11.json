@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "vi",
   "chapter": 19,
-  "translation": "Này, ngươi đã nghe ⟨את⟩ những điều mà các vua của Ashshur đã làm cho mọi xứ, để tận diệt chúng; còn ngươi thì会被 giải cứu sao?",
+  "translation": "Này, ngươi đã nghe ⟨את⟩ điều mà các vua Ashshur đã làm cho mọi nước để tận diệt chúng, còn ngươi thì ⟨sẽ⟩ được cứu thoát?",
   "tokens": [
     {
       "surface": "הנה",
-      "gloss": "này"
+      "gloss": "Này"
     },
     {
       "surface": "אתה",
@@ -22,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "những điều"
+      "marks": "điều"
     },
     {
       "surface": "אשר",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "מלכי",
-      "gloss": "các vua của"
+      "gloss": "các vua"
     },
     {
       "surface": "אשור",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "הארצות",
-      "gloss": "xứ"
+      "gloss": "nước"
     },
     {
       "surface": "להחרימם",
@@ -58,9 +58,9 @@
     },
     {
       "surface": "תנצל",
-      "gloss": "sẽ được giải cứu"
+      "gloss": "được cứu thoát"
     }
   ],
-  "timestamp": "2026-08-19T04:00:39.371139042Z",
+  "timestamp": "2026-08-24T16:13:12.861030374Z",
   "model": "glm-5.3"
 }

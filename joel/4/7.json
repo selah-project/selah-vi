@@ -5,19 +5,19 @@
   "book": "joel",
   "lang": "vi",
   "chapter": 4,
-  "translation": "Này, Ta sẽ đánh thức họ dậy khỏi nơi mà các ngươi đã bán họ ⟨את⟩ ⟨אתם⟩ đến đó, và Ta sẽ trả sự báo ứng của các ngươi trên đầu của các ngươi.",
+  "translation": "Này, Ta sẽ đánh thức chúng từ ⟨את⟩ nơi mà các ngươi đã bán chúng đến đó, và Ta sẽ trả ⟨את⟩ sự báo ứng của các ngươi trên đầu các ngươi.",
   "tokens": [
     {
       "surface": "הנני",
-      "gloss": "này, Ta"
+      "gloss": "Này, Ta"
     },
     {
       "surface": "מעירם",
-      "gloss": "sẽ đánh thức họ dậy"
+      "gloss": "sẽ đánh thức chúng"
     },
     {
       "surface": "מן",
-      "gloss": "khỏi"
+      "gloss": "từ"
     },
     {
       "surface": "המקום",
@@ -33,8 +33,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "họ"
+      "gloss": "⟨את⟩",
+      "marks": "chúng"
     },
     {
       "surface": "שמה",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "והשבתי",
-      "gloss": "và Ta sẽ trả"
+      "gloss": "và Ta sẽ trả lại"
     },
     {
       "surface": "גמלכם",
@@ -50,9 +50,9 @@
     },
     {
       "surface": "בראשכם",
-      "gloss": "trên đầu của các ngươi"
+      "gloss": "trên đầu các ngươi"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.996007117Z",
+  "timestamp": "2026-08-24T16:18:32.479575336Z",
   "model": "glm-5.3"
 }

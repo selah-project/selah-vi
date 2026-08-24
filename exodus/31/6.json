@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 31,
-  "translation": "Và ta, nầy, ta đã đặt cùng ⟨את⟩ người את Oholiav con trai Achisamakh, thuộc chi tộc Dan; và trong lòng mọi người khôn ngoan trong lòng, ta đã đặt sự khôn ngoan; và họ sẽ làm ⟨את⟩ mọi điều mà ta đã phán dặn ngươi.",
+  "translation": "Và ta, kìa, ta đã đặt cùng ông ấy ⟨את⟩ Ohaliav con trai Achisamakh, thuộc chi tộc Đan; và trong lòng mọi người khôn ngoan trong lòng, ta đã đặt sự khôn ngoan, để họ làm ⟨את⟩ mọi điều mà ta đã truyền cho ngươi.",
   "tokens": [
     {
       "surface": "ואני",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הנה",
-      "gloss": "nầy"
+      "gloss": "kìa"
     },
     {
       "surface": "נתתי",
@@ -21,16 +21,16 @@
     },
     {
       "surface": "אתו",
-      "gloss": "cùng ⟨את⟩ người"
+      "gloss": "⟨את⟩ cùng ông ấy"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Oholiav"
+      "marks": "Ohaliav"
     },
     {
       "surface": "אהליאב",
-      "gloss": "Oholiav"
+      "gloss": "Ohaliav"
     },
     {
       "surface": "בן",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "דן",
-      "gloss": "Dan"
+      "gloss": "Đan"
     },
     {
       "surface": "ובלב",
@@ -83,17 +83,17 @@
     },
     {
       "surface": "כל",
-      "gloss": "mọi"
+      "gloss": "mọi điều"
     },
     {
       "surface": "אשר",
       "gloss": "mà"
     },
     {
-      "surface": "צויתך",
-      "gloss": "ta đã phán dặn ngươi"
+      "surface": "צויתיך",
+      "gloss": "ta đã truyền cho ngươi"
     }
   ],
-  "timestamp": "2026-08-19T02:36:17.851254819Z",
+  "timestamp": "2026-08-24T16:04:21.464689120Z",
   "model": "glm-5.3"
 }

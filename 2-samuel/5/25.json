@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "vi",
   "chapter": 5,
-  "translation": "Và Dawid làm y như vậy, đúng như Yahweh đã phán dặn ngài; và ngài đánh ⟨את⟩ người Philistít, từ Giv'а đến khi ngươi đến Gezer.",
+  "translation": "Và David làm y như vậy, như Yahweh đã phán dạy ⟨את⟩ ông; và người đánh ⟨את⟩ dân Plishtim từ Geba cho đến khi ngươi đến Gezer.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "דוד",
-      "gloss": "Dawid"
+      "gloss": "David"
     },
     {
       "surface": "כן",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "đúng như"
+      "gloss": "như"
     },
     {
       "surface": "צוהו",
-      "gloss": "đã phán dặn ngài"
+      "gloss": "đã phán dạy ông"
     },
     {
       "surface": "יהוה",
@@ -38,29 +38,29 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "người Philistít"
+      "marks": "dân Plishtim"
     },
     {
       "surface": "פלשתים",
-      "gloss": "người Philistít"
+      "gloss": "dân Plishtim"
     },
     {
       "surface": "מגבע",
-      "gloss": "từ Giv'a"
+      "gloss": "từ Geba"
     },
     {
       "surface": "עד",
-      "gloss": "đến khi"
+      "gloss": "cho đến"
     },
     {
       "surface": "באך",
-      "gloss": "ngươi đến"
+      "gloss": "khi ngươi đến"
     },
     {
       "surface": "גזר",
       "gloss": "Gezer"
     }
   ],
-  "timestamp": "2026-08-19T03:39:54.627258425Z",
+  "timestamp": "2026-08-24T16:11:20.141505328Z",
   "model": "glm-5.3"
 }

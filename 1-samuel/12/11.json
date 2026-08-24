@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "vi",
   "chapter": 12,
-  "translation": "Và Yahweh sai ⟨את⟩ Yerubbaal, và ⟨את⟩ Bedan, và ⟨את⟩ Yiftach, và ⟨את⟩ Shemuel, và giải cứu ⟨אתכם⟩ các ngươi khỏi tay kẻ thù của các ngươi ở chung quanh, và các ngươi cư ngụ trong an toàn.",
+  "translation": "Và Yahweh sai phái ⟨את⟩ Yerubbaal, và ⟨את⟩ Bedan, và ⟨את⟩ Yiftach, và ⟨את⟩ Shemuel, rồi Người giải cứu ⟨את⟩ các ngươi khỏi tay kẻ thù của các ngươi ở chung quanh, và các ngươi ở yên ổn.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "và Ngài đã sai"
+      "gloss": "đã sai phái"
     },
     {
       "surface": "יהוה",
@@ -53,12 +53,11 @@
     },
     {
       "surface": "ויצל",
-      "gloss": "và Ngài đã giải cứu"
+      "gloss": "đã giải cứu"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ các ngươi",
-      "marks": "các ngươi"
+      "gloss": "⟨את⟩ các ngươi"
     },
     {
       "surface": "מיד",
@@ -74,13 +73,13 @@
     },
     {
       "surface": "ותשבו",
-      "gloss": "và các ngươi đã cư ngụ"
+      "gloss": "và các ngươi ở"
     },
     {
       "surface": "בטח",
-      "gloss": "trong an toàn"
+      "gloss": "yên ổn"
     }
   ],
-  "timestamp": "2026-08-19T03:32:30.123344514Z",
+  "timestamp": "2026-08-24T16:26:44.041603165Z",
   "model": "glm-5.3"
 }

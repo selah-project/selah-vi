@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 26,
-  "translation": "Và ngươi sẽ làm cho bức màn che năm cột bằng gỗ keo שטים, và ngươi sẽ bọc ⟨את⟩ chúng bằng vàng, móc của chúng bằng vàng, và ngươi sẽ đúc cho chúng năm đế bằng đồng.",
+  "translation": "Ngươi sẽ làm cho bức màn che năm cột gỗ keo shimshittim, và ngươi sẽ bọc ⟨את⟩ chúng bằng vàng, móc của chúng bằng vàng, và ngươi sẽ đúc cho chúng năm đế bằng đồng.",
   "tokens": [
     {
       "surface": "ועשית",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "שטים",
-      "gloss": "gỗ keo"
+      "gloss": "gỗ keo shittim"
     },
     {
       "surface": "וצפית",
@@ -34,11 +34,11 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "chúng"
+      "marks": "chúng (các cột)"
     },
     {
       "surface": "זהב",
-      "gloss": "bằng vàng"
+      "gloss": "vàng"
     },
     {
       "surface": "וגויהם",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "זהב",
-      "gloss": "bằng vàng"
+      "gloss": "vàng"
     },
     {
       "surface": "ויצקת",
@@ -66,9 +66,9 @@
     },
     {
       "surface": "נחשת",
-      "gloss": "bằng đồng"
+      "gloss": "đồng"
     }
   ],
-  "timestamp": "2026-08-19T02:34:05.892883486Z",
+  "timestamp": "2026-08-24T16:26:27.222368203Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "vi",
   "chapter": 2,
-  "translation": "Và Yahweh Elohim của chúng tôi đã phó hắn ra trước mặt chúng tôi, và chúng tôi đánh hắn, ⟨אתו⟩ và ⟨את⟩ các con trai hắn và ⟨את⟩ toàn thể dân hắn.",
+  "translation": "Và Yahweh Elohim của chúng ta đã phó hắn cho ⟨את⟩ trước mặt chúng ta; chúng ta đã đánh hắn, ⟨את⟩ các con trai hắn và ⟨את⟩ toàn thể dân sự hắn.",
   "tokens": [
     {
       "surface": "ויתנהו",
-      "gloss": "đã phó hắn ra"
+      "gloss": "đã phó hắn"
     },
     {
       "surface": "יהוה",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "אלהינו",
-      "gloss": "Elohim của chúng tôi"
+      "gloss": "Elohim của chúng ta"
     },
     {
       "surface": "לפנינו",
-      "gloss": "trước mặt chúng tôi"
+      "gloss": "trước mặt chúng ta"
     },
     {
       "surface": "ונך",
-      "gloss": "và chúng tôi đánh"
+      "gloss": "và đã đánh"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ hắn",
       "marks": "hắn"
     },
     {
@@ -44,7 +44,7 @@
     {
       "surface": "ואת",
       "gloss": "và ⟨את⟩",
-      "marks": "toàn thể dân hắn"
+      "marks": "toàn thể dân sự hắn"
     },
     {
       "surface": "כל",
@@ -52,9 +52,9 @@
     },
     {
       "surface": "עמו",
-      "gloss": "dân hắn"
+      "gloss": "dân sự hắn"
     }
   ],
-  "timestamp": "2026-08-19T03:04:58.819481654Z",
+  "timestamp": "2026-08-24T16:07:53.923548647Z",
   "model": "glm-5.3"
 }

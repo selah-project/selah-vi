@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 3,
-  "translation": "Hãy đi, và hãy tập hợp ⟨את⟩ các trưởng lão của Yisra'el, và ngươi sẽ nói với chúng: 'Yahweh, Elohim của tổ phụ các ngươi, đã hiện ra với tôi — Elohim của Avraham, Yitschak, và Yaakov — mà phán: Chắc chắn Ta đã thăm các ngươi ⟨את⟩ ⟨אתכם⟩ và ⟨את⟩ điều đã làm cho các ngươi trong Mitzrayim.'",
+  "translation": "Hãy đi và hãy tập hợp ⟨את⟩ các trưởng lão của Yisrael, và ngươi sẽ nói với họ: Yahweh, Elohim của tổ phụ các ngươi, đã hiện ra với tôi — Elohim của Avraham, của Yitschak và của Yaakov — mà phán rằng: Ta đã chắc chắn đoái đến ⟨את⟩ ⟨אתכם⟩, và ⟨את⟩ điều đã bị làm cho các ngươi ở Mitzrayim.",
   "tokens": [
     {
       "surface": "לך",
@@ -13,12 +13,12 @@
     },
     {
       "surface": "ואספת",
-      "gloss": "và hãy tập hợp"
+      "gloss": "và ngươi sẽ tập hợp"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "các trưởng lão"
+      "marks": "các trưởng lão của Yisrael"
     },
     {
       "surface": "זקני",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "của Yisra'el"
+      "gloss": "Yisrael"
     },
     {
       "surface": "ואמרת",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "אלהם",
-      "gloss": "với chúng"
+      "gloss": "với họ"
     },
     {
       "surface": "יהוה",
@@ -74,15 +74,15 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "mà phán"
+      "gloss": "mà phán rằng"
     },
     {
       "surface": "פקד",
-      "gloss": "chắc chắn"
+      "gloss": "đoái đến"
     },
     {
       "surface": "פקדתי",
-      "gloss": "Ta đã thăm"
+      "gloss": "Ta đã đoái đến"
     },
     {
       "surface": "אתכם",
@@ -92,11 +92,11 @@
     {
       "surface": "ואת",
       "gloss": "và ⟨את⟩",
-      "marks": "điều đã làm cho các ngươi"
+      "marks": "điều đã bị làm"
     },
     {
       "surface": "העשוי",
-      "gloss": "điều đã làm"
+      "gloss": "điều đã bị làm"
     },
     {
       "surface": "לכם",
@@ -104,9 +104,9 @@
     },
     {
       "surface": "במצרים",
-      "gloss": "trong Mitzrayim"
+      "gloss": "ở Mitzrayim"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.987673851Z",
+  "timestamp": "2026-08-24T16:58:27.515322412Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,33 @@
   "book": "psalms",
   "lang": "vi",
   "chapter": 25,
-  "translation": "Sinh khí của nó sẽ ngụ yên trong phước lành, và dòng giống nó sẽ继承 đất. Hmm —纠正:",
-  "tokens": [],
-  "timestamp": "2026-08-19T04:57:28.621202545Z",
+  "translation": "Nephesh ông sẽ trú ngụ trong phước lành, và dòng dõi ông sẽ thừa kế đất.",
+  "tokens": [
+    {
+      "surface": "נפשו",
+      "gloss": "nephesh của ông"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "trong sự lành"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "sẽ trú ngụ"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "và dòng dõi của ông"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "sẽ thừa kế"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "đất"
+    }
+  ],
+  "timestamp": "2026-08-24T16:19:48.564121181Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "vi",
   "chapter": 27,
-  "translation": "Vào ⟨the⟩ đầu triều đại Yehoyakim con trai Yoshiyahu, vua của Yehudah, có ⟨is⟩ lời này đến với Yirmeyah, từ ⟨את⟩ Yahweh, rằng:",
+  "translation": "Vào đầu triều đại Yehoyakim con trai Yoshiyahu, vua của Yehudah, có lời này đến với Yirmeyahu từ ⟨את⟩ Yahweh, rằng:",
   "tokens": [
     {
       "surface": "בראשית",
-      "gloss": "vào đầu"
+      "gloss": "Vào đầu"
     },
     {
       "surface": "ממלכת",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "היה",
-      "gloss": "đã có"
+      "gloss": "có"
     },
     {
       "surface": "הדבר",
@@ -53,11 +53,12 @@
     },
     {
       "surface": "ירמיה",
-      "gloss": "Yirmeyah"
+      "gloss": "Yirmeyahu"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ từ"
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
     },
     {
       "surface": "יהוה",
@@ -68,6 +69,6 @@
       "gloss": "rằng"
     }
   ],
-  "timestamp": "2026-08-19T04:23:37.917929249Z",
+  "timestamp": "2026-08-24T16:16:08.200103814Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 45,
-  "translation": "Người hôn tất cả các anh em mình và khóc trên họ; sau đó các anh em người nói chuyện ⟨את⟩ ⟨אתו⟩ với người.",
+  "translation": "Và Yosef hôn tất cả anh em mình, và khóc trên họ; và sau đó anh em ông nói chuyện ⟨את⟩ ông.",
   "tokens": [
     {
       "surface": "וינשק",
-      "gloss": "người hôn"
+      "gloss": "và hôn"
     },
     {
       "surface": "לכל",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אחיו",
-      "gloss": "các anh em mình"
+      "gloss": "anh em mình"
     },
     {
       "surface": "ויבך",
@@ -28,8 +28,8 @@
       "gloss": "trên họ"
     },
     {
-      "surface": "ואחרי",
-      "gloss": "sau"
+      "surface": "ויחרי",
+      "gloss": "và sau"
     },
     {
       "surface": "כן",
@@ -41,13 +41,14 @@
     },
     {
       "surface": "אחיו",
-      "gloss": "các anh em người"
+      "gloss": "anh em ông"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩"
+      "gloss": "⟨את⟩",
+      "marks": "ông (Yosef)"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.948563233Z",
+  "timestamp": "2026-08-24T16:02:58.770089750Z",
   "model": "glm-5.3"
 }

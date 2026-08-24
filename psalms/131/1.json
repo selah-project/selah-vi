@@ -5,8 +5,69 @@
   "book": "psalms",
   "lang": "vi",
   "chapter": 131,
-  "translation": "Bài hát lên台阶 — Bài hát của những bậc thềm, của David. Yahweh, lòng con không kiêu ngạo, mắt con không cao ngạo, và con không đi trong những việc lớn lao và những điều quá奇妙 quá diệu kỳ đối với con.",
-  "tokens": [],
-  "timestamp": "2026-08-19T05:12:15.719221198Z",
+  "translation": "Bài ca lên đền, của David. Yahweh, lòng tôi không kiêu ngạo, mắt tôi cũng không cao ngạo, tôi cũng không đi trong những việc lớn lao và những điều kỳ diệu hơn ⟨vậy⟩ với tôi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "bài ca"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "lên đền (các bậc thang lên)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "của David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "kiêu ngạo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "lòng tôi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "cao ngạo"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mắt tôi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "tôi đi"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "trong những việc lớn lao"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "và trong những điều kỳ diệu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "hơn với tôi"
+    }
+  ],
+  "timestamp": "2026-08-24T16:21:57.126769930Z",
   "model": "glm-5.3"
 }

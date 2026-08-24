@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "vi",
   "chapter": 3,
-  "translation": "Và Yoav đến với ⟨vua⟩ và nói: Ông đã làm gì? Kìa, Avner đã đến với ông; sao ⟨vì⟩ điều này ông lại sai他去 đi, và ⟨vua⟩ đã đi, đi thật rồi?",
+  "translation": "Và Yoav đến với ⟨את⟩ vua và nói: Ngươi đã làm gì? Kìa, Avner đã đến với ngươi — cớ sao ngươi đã sai他去 và ông ấy đã đi, đi thật rồi?",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "và đi đến"
+      "gloss": "và đã đến"
     },
     {
       "surface": "יואב",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "המלך",
-      "gloss": "⟨vua⟩"
+      "gloss": "vua"
     },
     {
       "surface": "ויאמר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "עשיתה",
-      "gloss": "ông đã làm"
+      "gloss": "ngươi đã làm"
     },
     {
       "surface": "הנה",
@@ -49,29 +49,29 @@
     },
     {
       "surface": "אליך",
-      "gloss": "đến với ông"
+      "gloss": "đến với ngươi"
     },
     {
       "surface": "למה",
-      "gloss": "sao"
+      "gloss": "cớ sao"
     },
     {
       "surface": "זה",
-      "gloss": "điều này"
+      "gloss": "này"
     },
     {
       "surface": "שלחתו",
-      "gloss": "ông sai他去 đi"
+      "gloss": "ngươi đã sai他去"
     },
     {
       "surface": "וילך",
-      "gloss": "và đã đi"
+      "gloss": "và ông đã đi"
     },
     {
       "surface": "הלוך",
-      "gloss": "đi (đã đi thật)"
+      "gloss": "đi thật rồi"
     }
   ],
-  "timestamp": "2026-08-19T06:08:20.225594265Z",
+  "timestamp": "2026-08-24T16:11:13.284567407Z",
   "model": "glm-5.3"
 }

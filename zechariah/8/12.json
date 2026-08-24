@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "vi",
   "chapter": 8,
-  "translation": "Vì có hạt giống của sự bình an: cây nho sẽ sinh trái nó, đất sẽ sinh ⟨את⟩ sản物 mình, các tầng trời sẽ ban sương móc mình; và Ta sẽ cho phần còn lại của dân nầy ⟨את⟩ thừa hưởng ⟨את⟩ mọi điều nầy.",
+  "translation": "Vì giống của sự bình an — cây nho sẽ cho trái của nó, đất sẽ cho ⟨את⟩ mùa màng của nó, và các tầng trời sẽ cho sương của chúng; và Ta sẽ làm cho ⟨את⟩ phần dư còn lại của dân này thừa hưởng ⟨את⟩ tất cả những điều này.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "זרע",
-      "gloss": "hạt giống"
+      "gloss": "giống"
     },
     {
       "surface": "השלום",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "תתן",
-      "gloss": "sẽ sinh"
+      "gloss": "sẽ cho"
     },
     {
       "surface": "פריה",
-      "gloss": "trái nó"
+      "gloss": "trái của nó"
     },
     {
       "surface": "והארץ",
@@ -37,16 +37,16 @@
     },
     {
       "surface": "תתן",
-      "gloss": "sẽ sinh"
+      "gloss": "sẽ cho"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sản物 mình"
+      "marks": "mùa màng của nó"
     },
     {
       "surface": "יבולה",
-      "gloss": "sản物 mình"
+      "gloss": "mùa màng của nó"
     },
     {
       "surface": "והשמים",
@@ -54,24 +54,24 @@
     },
     {
       "surface": "יתנו",
-      "gloss": "sẽ ban"
+      "gloss": "sẽ cho"
     },
     {
       "surface": "טלם",
-      "gloss": "sương móc mình"
+      "gloss": "sương của chúng"
     },
     {
       "surface": "והנחלתי",
-      "gloss": "và Ta sẽ cho thừa hưởng"
+      "gloss": "và Ta sẽ làm cho thừa hưởng"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "phần còn lại của dân nầy"
+      "marks": "phần dư còn lại của dân này"
     },
     {
       "surface": "שארית",
-      "gloss": "phần còn lại"
+      "gloss": "phần dư còn lại"
     },
     {
       "surface": "העם",
@@ -79,22 +79,22 @@
     },
     {
       "surface": "הזה",
-      "gloss": "nầy"
+      "gloss": "này"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mọi điều nầy"
+      "marks": "tất cả những điều này"
     },
     {
       "surface": "כל",
-      "gloss": "mọi"
+      "gloss": "tất cả"
     },
     {
       "surface": "אלה",
-      "gloss": "điều nầy"
+      "gloss": "những điều này"
     }
   ],
-  "timestamp": "2026-08-19T04:52:57.413205539Z",
+  "timestamp": "2026-08-24T16:19:41.544923276Z",
   "model": "glm-5.3"
 }

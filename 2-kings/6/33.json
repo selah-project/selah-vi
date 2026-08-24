@@ -5,8 +5,78 @@
   "book": "2-kings",
   "lang": "vi",
   "chapter": 6,
-  "translation": "Vốn Người còn đang nói với họ, kìa המלאך descended... ",
-  "tokens": [],
-  "timestamp": "2026-08-19T03:56:11.775413192Z",
+  "translation": "Đang khi ông còn nói với họ, thì kìa, vị sứ giả đi xuống đến cùng ông, và vị ấy nói: Kìa, tai họa này ⟨là⟩ từ ⟨את⟩ Yahweh; còn gì nữa để tôi trông đợi nơi Yahweh?",
+  "tokens": [
+    {
+      "surface": "עודנו",
+      "gloss": "còn"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "đang nói"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "với họ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "thì kìa"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "vị sứ giả"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "đi xuống"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "đến cùng ông"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "và vị ấy nói"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kìa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "này"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "tai họa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "từ Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "còn gì"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "tôi trông đợi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "nơi Yahweh"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nữa"
+    }
+  ],
+  "timestamp": "2026-08-24T16:13:07.649712102Z",
   "model": "glm-5.3"
 }

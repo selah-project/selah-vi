@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "vi",
   "chapter": 13,
-  "translation": "Và nếu thầy tế lễ xem, và kìa, vết thương đã nhạt đi sau khi giặt ⟨אתו⟩, thì người ta xé ⟨אתו⟩ ra khỏi áo quần, hay khỏi da, hay khỏi sợi dọc, hay khỏi sợi ngang",
+  "translation": "Và nếu thầy tế lễ nhìn xem, và kìa, vết thương đã nhạt đi sau khi nó được giặt, thì người sẽ xé ⟨את⟩ nó ra khỏi ⟨את⟩ chiếc áo, hoặc ra khỏi da, hoặc ra khỏi sợi dọc, hoặc ra khỏi sợi ngang.",
   "tokens": [
     {
       "surface": "ואם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ראה",
-      "gloss": "xem"
+      "gloss": "nhìn xem"
     },
     {
       "surface": "הכהן",
@@ -37,21 +37,21 @@
     },
     {
       "surface": "הכבס",
-      "gloss": "giặt"
+      "gloss": "được giặt"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "gloss": "⟨את⟩",
       "marks": "nó (vết thương)"
     },
     {
       "surface": "וקרע",
-      "gloss": "và xé"
+      "gloss": "thì người sẽ xé"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "nó (vết thương)"
+      "gloss": "⟨את⟩",
+      "marks": "nó (vết thương \/ phần nhiễm)"
     },
     {
       "surface": "מן",
@@ -59,11 +59,11 @@
     },
     {
       "surface": "הבגד",
-      "gloss": "áo quần"
+      "gloss": "chiếc áo"
     },
     {
       "surface": "או",
-      "gloss": "hay"
+      "gloss": "hoặc"
     },
     {
       "surface": "מן",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "או",
-      "gloss": "hay"
+      "gloss": "hoặc"
     },
     {
       "surface": "מן",
@@ -87,7 +87,7 @@
     },
     {
       "surface": "או",
-      "gloss": "hay"
+      "gloss": "hoặc"
     },
     {
       "surface": "מן",
@@ -98,6 +98,6 @@
       "gloss": "sợi ngang"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.037953470Z",
+  "timestamp": "2026-08-24T16:26:42.581729934Z",
   "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "ezekiel",
   "lang": "vi",
   "chapter": 42,
-  "translation": "Trước mặt chiều dài một trăm cubit ⟨là⟩ cửa vào phía bắc, và bề ngang năm mươi cubit.",
+  "translation": "Trước chiều dài một trăm cubit ⟨là⟩ lối vào phía bắc, và bề rộng năm mươi cubit.",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "⟨אל⟩ trước"
+      "gloss": "trước"
     },
     {
       "surface": "פני",
-      "gloss": "mặt của"
+      "gloss": "mặt-trước"
     },
     {
       "surface": "ארך",
-      "gloss": "chiều dài"
+      "gloss": "chiều-dài"
     },
     {
       "surface": "אמות",
@@ -25,29 +25,29 @@
     },
     {
       "surface": "המאה",
-      "gloss": "một trăm"
+      "gloss": "một-trăm"
     },
     {
       "surface": "פתח",
-      "gloss": "cửa vào"
+      "gloss": "lối-vào"
     },
     {
       "surface": "הצפון",
-      "gloss": "phía bắc"
+      "gloss": "phía-bắc"
     },
     {
       "surface": "והרחב",
-      "gloss": "và bề ngang"
+      "gloss": "và-bề-rộng"
     },
     {
       "surface": "חמשים",
-      "gloss": "năm mươi"
+      "gloss": "năm-mươi"
     },
     {
       "surface": "אמות",
       "gloss": "cubit"
     }
   ],
-  "timestamp": "2026-08-19T04:42:37.133016228Z",
+  "timestamp": "2026-08-24T16:17:55.935053024Z",
   "model": "glm-5.3"
 }

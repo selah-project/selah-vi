@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "vi",
   "chapter": 6,
-  "translation": "Điều đã tồn tại, tên nó đã được đặt từ lâu rồi, và đã được biết đó là אָדָם; ו⟨ה⟩וא không thể tranh tụng với Đấng mạnh hơn mình.",
+  "translation": "Điều gì ⟨đã có⟩ thì từ lâu ⟨đã⟩ được gọi tên, và ⟨đã⟩ biết ⟨rằng⟩ ⟨hắn⟩ là adam; và ⟨hắn⟩ không thể tranh luận với Đấng mạnh hơn hắn.",
   "tokens": [
     {
       "surface": "מה",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "שהיה",
-      "gloss": "đã tồn tại"
+      "gloss": "⟨đã có⟩"
     },
     {
       "surface": "כבר",
-      "gloss": "từ lâu rồi"
+      "gloss": "từ lâu"
     },
     {
       "surface": "נקרא",
@@ -25,23 +25,23 @@
     },
     {
       "surface": "שמו",
-      "gloss": "tên của nó"
+      "gloss": "tên của hắn"
     },
     {
       "surface": "ונודע",
-      "gloss": "và được biết"
+      "gloss": "và biết"
     },
     {
       "surface": "אשר",
-      "gloss": "rằng"
+      "gloss": "⟨rằng⟩"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨h⟩ắn"
+      "gloss": "⟨hắn⟩"
     },
     {
       "surface": "אדם",
-      "gloss": "אָדָם (con người)"
+      "gloss": "adam"
     },
     {
       "surface": "ולא",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "לדין",
-      "gloss": "tranh tụng"
+      "gloss": "tranh luận"
     },
     {
       "surface": "עם",
@@ -65,9 +65,9 @@
     },
     {
       "surface": "ממנו",
-      "gloss": "mình"
+      "gloss": "hơn hắn"
     }
   ],
-  "timestamp": "2026-08-19T05:33:27.813996204Z",
+  "timestamp": "2026-08-24T16:23:36.518055029Z",
   "model": "glm-5.3"
 }

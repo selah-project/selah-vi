@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "vi",
   "chapter": 17,
-  "translation": "Và bất kỳ người nào của nhà Yisrael, hay trong những kiều dân kiều ngụ giữa họ, ăn huyết nào — thì Ta sẽ đặt mặt Ta chống lại ⟨את⟩ huyết — người sinh mạng ăn huyết đó — và Ta sẽ cắt bỏ ⟨את⟩ ⟨אתה⟩ nó khỏi giữa dân sự của nó.",
+  "translation": "Phàm người nào trong nhà Yisrael và trong khách ngoại kiều ngụ giữa họ, ai ăn mọi huyết, thì Ta sẽ đặt mặt Ta chống lại ⟨tánh mạng⟩ người ăn ⟨את⟩ huyết, và Ta sẽ cắt bỏ ⟨את⟩ nó khỏi giữa dân sự nó.",
   "tokens": [
     {
       "surface": "ואיש",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "איש",
-      "gloss": "bất kỳ người nào"
+      "gloss": "phàm người nào"
     },
     {
       "surface": "מבית",
-      "gloss": "từ nhà"
+      "gloss": "trong nhà"
     },
     {
       "surface": "ישראל",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "ומן",
-      "gloss": "và từ"
+      "gloss": "và trong"
     },
     {
       "surface": "הגר",
-      "gloss": "người kiều dân"
+      "gloss": "khách"
     },
     {
       "surface": "הגר",
-      "gloss": "kiều ngụ"
+      "gloss": "ngoại kiều"
     },
     {
       "surface": "בתוכם",
-      "gloss": "giữa họ"
+      "gloss": "ngụ giữa họ"
     },
     {
       "surface": "אשר",
@@ -61,15 +61,15 @@
     },
     {
       "surface": "פני",
-      "gloss": "mặt của Ta"
+      "gloss": "mặt Ta"
     },
     {
       "surface": "בנפש",
-      "gloss": "chống lại sinh mạng"
+      "gloss": "chống lại tánh mạng"
     },
     {
       "surface": "האכלת",
-      "gloss": "kẻ ăn"
+      "gloss": "người ăn"
     },
     {
       "surface": "את",
@@ -86,8 +86,8 @@
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ ⟨אתה⟩",
-      "marks": "nó khỏi giữa dân sự của nó"
+      "gloss": "⟨את⟩",
+      "marks": "nó"
     },
     {
       "surface": "מקרב",
@@ -95,9 +95,9 @@
     },
     {
       "surface": "עמה",
-      "gloss": "dân sự của nó"
+      "gloss": "dân sự nó"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.035731369Z",
+  "timestamp": "2026-08-24T16:06:16.424729954Z",
   "model": "glm-5.3"
 }

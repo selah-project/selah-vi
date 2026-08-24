@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "vi",
   "chapter": 22,
-  "translation": "Mọi người lạ thì không được ăn ⟨⟨của⟩⟩ vật thánh; khách trú của thầy tế lễ và người thuê mướn thì không được ăn vật thánh.",
+  "translation": "Và mọi người lạ thì không được ăn ⟨của⟩ đồ thánh; người tạm trú của thầy tế lễ và người làm thuê thì không được ăn đồ thánh.",
   "tokens": [
     {
       "surface": "וכל",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "קדש",
-      "gloss": "vật thánh"
+      "gloss": "đồ thánh"
     },
     {
       "surface": "תושב",
-      "gloss": "khách trú"
+      "gloss": "người tạm trú"
     },
     {
       "surface": "כהן",
-      "gloss": "thầy tế lễ"
+      "gloss": "của thầy tế lễ"
     },
     {
       "surface": "ושכיר",
-      "gloss": "và người thuê mướn"
+      "gloss": "và người làm thuê"
     },
     {
       "surface": "לא",
@@ -49,9 +49,9 @@
     },
     {
       "surface": "קדש",
-      "gloss": "vật thánh"
+      "gloss": "đồ thánh"
     }
   ],
-  "timestamp": "2026-08-19T02:46:15.586331552Z",
+  "timestamp": "2026-08-24T16:05:57.546996834Z",
   "model": "glm-5.3"
 }

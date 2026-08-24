@@ -5,8 +5,86 @@
   "book": "ezekiel",
   "lang": "vi",
   "chapter": 16,
-  "translation": "Không mắt nào thương xót ngươi, để làm cho ngươi một trong các việc này mà vollormsgt... ",
-  "tokens": [],
-  "timestamp": "2026-08-19T04:34:35.217188494Z",
+  "translation": "Không con mắt nào thương xót ngươi, để làm cho ngươi một trong các việc này, để đoái thương trên ngươi; ngươi bị ném ra trên mặt đồng ruộng, trong sự gớm ghiếc sinh mạng ngươi, vào ngày ngươi được sinh ra ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "חסה",
+      "gloss": "thương xót"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "trên ngươi"
+    },
+    {
+      "surface": "עין",
+      "gloss": "con mắt"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "để làm"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cho ngươi"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "một"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "trong các việc này"
+    },
+    {
+      "surface": "לחמלה",
+      "gloss": "để đoái thương"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "trên ngươi"
+    },
+    {
+      "surface": "ותשלכי",
+      "gloss": "ngươi bị ném ra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ra"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mặt của"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "đồng ruộng"
+    },
+    {
+      "surface": "בגעל",
+      "gloss": "trong sự gớm ghiếc"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "sinh mạng ngươi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "vào ngày"
+    },
+    {
+      "surface": "הלדת",
+      "gloss": "được sinh ra"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ngươi"
+    }
+  ],
+  "timestamp": "2026-08-24T16:16:58.954113580Z",
   "model": "glm-5.3"
 }

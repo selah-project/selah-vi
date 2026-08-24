@@ -5,7 +5,7 @@
   "book": "zephaniah",
   "lang": "vi",
   "chapter": 3,
-  "translation": "Các tiên tri của nàng là kẻ轻浮 —改为: các tiên tri của nàng là kẻ phù phiếm, người phản bội; các thầy tế lễ của nàng đã làm ô uế điều thánh, đã bạo hành Torah.",
+  "translation": "Các tiên tri của nàng ⟨là⟩ những kẻ phù phiếm, những người bội phản; các thầy tế lễ của nàng đã làm ô uế ⟨את⟩ sự thánh, đã làm bạo ngược ⟨את⟩ Torah.",
   "tokens": [
     {
       "surface": "נביאיה",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "פחזים",
-      "gloss": "kẻ phù phiếm"
+      "gloss": "những kẻ phù phiếm"
     },
     {
       "surface": "אנשי",
-      "gloss": "người"
+      "gloss": "những người"
     },
     {
       "surface": "בגדות",
-      "gloss": "phản bội"
+      "gloss": "bội phản"
     },
     {
       "surface": "כהניה",
@@ -33,17 +33,17 @@
     },
     {
       "surface": "קדש",
-      "gloss": "điều thánh"
+      "gloss": "sự thánh"
     },
     {
       "surface": "חמסו",
-      "gloss": "đã bạo hành"
+      "gloss": "đã làm bạo ngược"
     },
     {
       "surface": "תורה",
       "gloss": "Torah"
     }
   ],
-  "timestamp": "2026-08-19T04:51:27.352241410Z",
+  "timestamp": "2026-08-24T16:19:09.832319456Z",
   "model": "glm-5.3"
 }

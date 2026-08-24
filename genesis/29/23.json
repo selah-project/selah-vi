@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 29,
-  "translation": "Xảy ra vào buổi tối, ⟨הוא⟩ lấy ⟨את⟩ Lea con gái ông, và đưa ⟨את⟩ nàng đến với ông; và ông vào với nàng.",
+  "translation": "Đến buổi chiều, Laban lấy ⟨את⟩ Lea con gái mình và dẫn nàng đến cho chàng, rồi chàng vào với nàng.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -13,16 +13,16 @@
     },
     {
       "surface": "בערב",
-      "gloss": "vào buổi tối"
+      "gloss": "vào buổi chiều"
     },
     {
       "surface": "ויקח",
-      "gloss": "đã lấy"
+      "gloss": "lấy"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Lea con gái ông"
+      "marks": "Lea"
     },
     {
       "surface": "לאה",
@@ -34,26 +34,26 @@
     },
     {
       "surface": "ויבא",
-      "gloss": "đã đưa"
+      "gloss": "dẫn đến"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "đến với ông"
+      "marks": "nàng"
     },
     {
       "surface": "אליו",
-      "gloss": "đến với ông"
+      "gloss": "đến với chàng"
     },
     {
       "surface": "ויבא",
-      "gloss": "đã vào"
+      "gloss": "vào"
     },
     {
       "surface": "אליה",
       "gloss": "với nàng"
     }
   ],
-  "timestamp": "2026-08-19T01:11:58.121786607Z",
+  "timestamp": "2026-08-24T16:02:20.973196663Z",
   "model": "glm-5.3"
 }

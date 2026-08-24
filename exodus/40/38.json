@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 40,
-  "translation": "Vì đám mây của Yahweh ở trên ⟨את⟩ nhà tạm ban ngày, và lửa có trong nó ban đêm, trước mắt toàn thể nhà Yisrael, trong mọi行程 của họ.",
+  "translation": "Vì mây của Yahweh ⟨ở⟩ trên ⟨cái⟩ Mishkan ban ngày, và lửa ⟨thì⟩ có trong nó ban đêm, trước mắt cả nhà Yisrael, trong mọi hành trình của họ.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "vì"
+      "gloss": "Vì"
     },
     {
       "surface": "ענן",
-      "gloss": "đám mây"
+      "gloss": "mây"
     },
     {
       "surface": "יהוה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "המשכן",
-      "gloss": "nhà tạm"
+      "gloss": "⟨cái⟩ Mishkan"
     },
     {
       "surface": "יומם",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "תהיה",
-      "gloss": "có"
+      "gloss": "⟨thì⟩ có"
     },
     {
       "surface": "לילה",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "toàn thể"
+      "gloss": "cả"
     },
     {
       "surface": "בית",
@@ -72,6 +72,6 @@
       "gloss": "hành trình của họ"
     }
   ],
-  "timestamp": "2026-08-19T02:39:14.732620317Z",
+  "timestamp": "2026-08-24T16:05:12.798854526Z",
   "model": "glm-5.3"
 }

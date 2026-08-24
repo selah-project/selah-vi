@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "vi",
   "chapter": 3,
-  "translation": "Và con trai của Aharon sẽ đốt ⟨את⟩ ⟨אתו⟩ trên bàn thờ, trên của lễ thiêu đang ở trên cây gỗ đang ở trên lửa — của lễ dùng lửa, hương thơm dễ chịu cho Yahweh.",
+  "translation": "Và con cháu của Aharon sẽ đốt nó trên bàn thờ, trên lễ toàn thiêu ở trên củi cây ở trên lửa — lễ bằng lửa, hương thơm dễ chịu dành cho Yahweh.",
   "tokens": [
     {
       "surface": "והקטירו",
@@ -13,12 +13,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "nó (các phần béo và thận đã lấy ra)"
+      "gloss": "⟨את⟩",
+      "marks": "nó (mỡ và bộ phận đã chiết)"
     },
     {
       "surface": "בני",
-      "gloss": "con trai của"
+      "gloss": "con cháu"
     },
     {
       "surface": "אהרן",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "המזבחה",
-      "gloss": "trên bàn thờ"
+      "gloss": "bàn thờ"
     },
     {
       "surface": "על",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "העלה",
-      "gloss": "của lễ thiêu"
+      "gloss": "lễ toàn thiêu"
     },
     {
       "surface": "אשר",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "על",
-      "gloss": "ở trên"
+      "gloss": "trên"
     },
     {
       "surface": "העצים",
-      "gloss": "cây gỗ"
+      "gloss": "củi cây"
     },
     {
       "surface": "אשר",
@@ -54,15 +54,15 @@
     },
     {
       "surface": "על",
-      "gloss": "ở trên"
+      "gloss": "trên"
     },
     {
       "surface": "האש",
-      "gloss": "ngọn lửa"
+      "gloss": "lửa"
     },
     {
       "surface": "אשה",
-      "gloss": "của lễ dùng lửa"
+      "gloss": "lễ bằng lửa"
     },
     {
       "surface": "ריח",
@@ -77,6 +77,6 @@
       "gloss": "cho Yahweh"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.033752845Z",
+  "timestamp": "2026-08-24T16:05:21.744183967Z",
   "model": "glm-5.3"
 }

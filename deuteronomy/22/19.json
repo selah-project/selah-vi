@@ -5,16 +5,16 @@
   "book": "deuteronomy",
   "lang": "vi",
   "chapter": 22,
-  "translation": "Và họ sẽ phạt hắn ⟨את⟩ ⟨אתו⟩ một trăm sikl bạc, và đưa cho cha của người thiếu nữ, vì hắn đã đem ra tiếng xấu trên một trinh nữ của Yisrael; và nàng sẽ là vợ cho hắn; hắn không thể rước nàng ra mọi ngày đời hắn.",
+  "translation": "Và sẽ phạt tiền hắn ⟨את⟩ một trăm shekel bạc, và chúng sẽ đưa cho cha của cô gái trẻ, vì hắn đã đem ra một cái tên xấu trên một trinh nữ của Yisrael; và nàng sẽ làm vợ cho hắn — hắn không thể rời bỏ nàng suốt mọi ngày của hắn.",
   "tokens": [
     {
       "surface": "וענשו",
-      "gloss": "và họ sẽ phạt"
+      "gloss": "và sẽ phạt tiền"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "hắn"
+      "gloss": "⟨את⟩ hắn",
+      "marks": "một trăm shekel bạc"
     },
     {
       "surface": "מאה",
@@ -26,15 +26,15 @@
     },
     {
       "surface": "ונתנו",
-      "gloss": "và họ sẽ đưa"
+      "gloss": "và sẽ đưa"
     },
     {
       "surface": "לאבי",
-      "gloss": "cho cha"
+      "gloss": "cho cha của"
     },
     {
       "surface": "הנערה",
-      "gloss": "của người thiếu nữ"
+      "gloss": "cô gái trẻ"
     },
     {
       "surface": "כי",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "הוציא",
-      "gloss": "hắn đã đem ra"
+      "gloss": "đã đem ra"
     },
     {
       "surface": "שם",
-      "gloss": "tiếng"
+      "gloss": "tên"
     },
     {
       "surface": "רע",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "בתולת",
-      "gloss": "một trinh nữ"
+      "gloss": "trinh nữ của"
     },
     {
       "surface": "ישראל",
-      "gloss": "của Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "ולו",
@@ -70,11 +70,11 @@
     },
     {
       "surface": "תהיה",
-      "gloss": "nàng sẽ là"
+      "gloss": "nàng sẽ làm"
     },
     {
       "surface": "לאשה",
-      "gloss": "làm vợ"
+      "gloss": "vợ"
     },
     {
       "surface": "לא",
@@ -86,17 +86,17 @@
     },
     {
       "surface": "לשלחה",
-      "gloss": "rước nàng ra"
+      "gloss": "rời bỏ nàng"
     },
     {
       "surface": "כל",
-      "gloss": "mọi"
+      "gloss": "suốt mọi"
     },
     {
       "surface": "ימיו",
-      "gloss": "ngày đời hắn"
+      "gloss": "ngày của hắn"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.020662251Z",
+  "timestamp": "2026-08-24T16:08:30.864104332Z",
   "model": "glm-5.3"
 }

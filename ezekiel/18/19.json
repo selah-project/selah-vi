@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "vi",
   "chapter": 18,
-  "translation": "Và các ngươi nói: Vì sao con trai không gánh tội của người cha? Còn con trai đã làm phép công bằng và sự công chính, đã giữ ⟨את⟩ mọi thánh lệ của Ta và đã làm ⟨את⟩ ⟨אתם⟩ chúng — sống, nó sẽ sống.",
+  "translation": "Và các ngươi nói: Vì sao đứa con trai không gánh lấy tội lỗi của người cha? Nhưng đứa con trai đã làm điều công bình và sự công chính, đã giữ ⟨את⟩ mọi luật lệ của ta và đã làm ⟨את⟩chúng — chắc chắn nó sẽ sống.",
   "tokens": [
     {
       "surface": "ואמרתם",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "נשא",
-      "gloss": "gánh"
+      "gloss": "gánh lấy"
     },
     {
       "surface": "הבן",
-      "gloss": "con trai"
+      "gloss": "đứa con trai"
     },
     {
       "surface": "בעון",
-      "gloss": "tội"
+      "gloss": "tội lỗi"
     },
     {
       "surface": "האב",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "והבן",
-      "gloss": "còn con trai"
+      "gloss": "và đứa con trai"
     },
     {
       "surface": "משפט",
-      "gloss": "phép công bằng"
+      "gloss": "điều công bình"
     },
     {
       "surface": "וצדקה",
@@ -54,7 +54,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mọi thánh lệ của Ta"
+      "marks": "mọi luật lệ của ta"
     },
     {
       "surface": "כל",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "חקותי",
-      "gloss": "thánh lệ của Ta"
+      "gloss": "luật lệ của ta"
     },
     {
       "surface": "שמר",
@@ -74,8 +74,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "chúng (mọi thánh lệ)"
+      "gloss": "⟨את⟩chúng",
+      "marks": "chúng (các luật lệ)"
     },
     {
       "surface": "חיה",
@@ -83,9 +83,9 @@
     },
     {
       "surface": "יחיה",
-      "gloss": "sẽ sống"
+      "gloss": "nó sẽ sống"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.028330041Z",
+  "timestamp": "2026-08-24T16:16:50.793858639Z",
   "model": "glm-5.3"
 }

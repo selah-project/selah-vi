@@ -5,11 +5,11 @@
   "book": "esther",
   "lang": "vi",
   "chapter": 8,
-  "translation": "Và đã viết nhân danh vua Achashverosh, và đóng dấu bằng nhẫn của vua, và gửi các thư bằng tay các người chạy trạm,骑 trên ngựa, là những kẻ cưỡi thú nhanh giống Achashteran, con của các ngựa cái giống.",
+  "translation": "Và người đã viết nhân danh vua Achashverosh, và đóng ấn bằng chiếc nhẫn của vua, và đã gửi các thư bằng tay các người chạy trạm, cưỡi trên những con ngựa, những kị sĩ骑骑му删 no —",
   "tokens": [
     {
       "surface": "ויכתב",
-      "gloss": "và đã viết"
+      "gloss": "và người đã viết"
     },
     {
       "surface": "בשם",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "ויחתם",
-      "gloss": "và đóng dấu"
+      "gloss": "và đóng ấn"
     },
     {
       "surface": "בטבעת",
-      "gloss": "bằng nhẫn"
+      "gloss": "bằng chiếc nhẫn"
     },
     {
       "surface": "המלך",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "וישלח",
-      "gloss": "và gửi"
+      "gloss": "và đã gửi"
     },
     {
       "surface": "ספרים",
@@ -53,19 +53,19 @@
     },
     {
       "surface": "בסוסים",
-      "gloss": "trên ngựa"
+      "gloss": "trên những con ngựa"
     },
     {
       "surface": "רכבי",
-      "gloss": "những kẻ cưỡi"
+      "gloss": "những kị sĩ"
     },
     {
       "surface": "הרכש",
-      "gloss": "thú nhanh"
+      "gloss": "ngựa nhanh"
     },
     {
       "surface": "האחשתרנים",
-      "gloss": "giống Achashteran"
+      "gloss": "được dùng trong vụ vua"
     },
     {
       "surface": "בני",
@@ -73,9 +73,9 @@
     },
     {
       "surface": "הרמכים",
-      "gloss": "các ngựa cái giống"
+      "gloss": "những con ngựa giống"
     }
   ],
-  "timestamp": "2026-08-19T05:36:29.628161814Z",
+  "timestamp": "2026-08-24T16:23:20.012136838Z",
   "model": "glm-5.3"
 }

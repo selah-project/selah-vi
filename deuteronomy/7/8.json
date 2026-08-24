@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "vi",
   "chapter": 7,
-  "translation": "Vì vì lòng yêu mến của Yahweh ⟨אתכם⟩ các ngươi, và vì giữ lời thề mà Ngài đã thề với các tổ phụ của các ngươi, Yahweh đã đưa các ngươi ra ⟨אתכם⟩ bằng tay mạnh mẽ, và đã chuộc ngươi khỏi nhà nô lệ, khỏi tay Paroh vua Mitsrayim.",
+  "translation": "Vì Yahweh yêu ⟨את⟩ các ngươi và giữ ⟨את⟩ lời thề mà Ngài đã thề với các tổ phụ của các ngươi, nên Yahweh đã đưa các ngươi ra bằng bàn tay quyền năng, và đã chuộc ngươi khỏi nhà nô lệ, khỏi tay Paroh, vua của Mitzrayim.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,20 +13,19 @@
     },
     {
       "surface": "מאהבת",
-      "gloss": "vì lòng yêu mến"
+      "gloss": "vì yêu"
     },
     {
       "surface": "יהוה",
-      "gloss": "của Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ các ngươi",
-      "marks": "các ngươi (đối tượng được yêu)"
+      "gloss": "⟨את⟩ các ngươi"
     },
     {
       "surface": "ומשמרו",
-      "gloss": "và vì giữ"
+      "gloss": "và giữ"
     },
     {
       "surface": "את",
@@ -59,16 +58,15 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ các ngươi",
-      "marks": "các ngươi (đối tượng được đưa ra)"
+      "gloss": "⟨את⟩ các ngươi"
     },
     {
       "surface": "ביד",
-      "gloss": "bằng tay"
+      "gloss": "bằng bàn tay"
     },
     {
       "surface": "חזקה",
-      "gloss": "mạnh mẽ"
+      "gloss": "quyền năng"
     },
     {
       "surface": "ויפדך",
@@ -96,9 +94,9 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsrayim"
+      "gloss": "của Mitzrayim"
     }
   ],
-  "timestamp": "2026-08-19T03:06:35.918974495Z",
+  "timestamp": "2026-08-24T16:08:15.890339978Z",
   "model": "glm-5.3"
 }

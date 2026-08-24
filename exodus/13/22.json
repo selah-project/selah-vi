@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 13,
-  "translation": "Người không rút lui cột mây ban ngày, và cột lửa ban đêm, khỏi trước mặt ⟨the⟩ dân.",
+  "translation": "Cột mây ban ngày và cột lửa ban đêm không rời khỏi trước mặt dân.",
   "tokens": [
     {
       "surface": "לא",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ימיש",
-      "gloss": "rút lui \/ dời away"
+      "gloss": "rời khỏi"
     },
     {
       "surface": "עמוד",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הענן",
-      "gloss": "của mây"
+      "gloss": "⟨của⟩ mây"
     },
     {
       "surface": "יומם",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "האש",
-      "gloss": "của lửa"
+      "gloss": "⟨của⟩ lửa"
     },
     {
       "surface": "לילה",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "העם",
-      "gloss": "⟨the⟩ dân"
+      "gloss": "dân"
     }
   ],
-  "timestamp": "2026-08-19T02:30:27.715654621Z",
+  "timestamp": "2026-08-24T16:03:47.203690988Z",
   "model": "glm-5.3"
 }

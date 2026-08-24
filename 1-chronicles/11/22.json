@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "vi",
   "chapter": 11,
-  "translation": "Benayah con trai Yehoyada, con của một người dũng lực, làm nhiều việc lớn, người回到家Kavtseel —",
+  "translation": "Benayah con trai của Yehoyada, con trai của một người dũng cảm, làm nhiều việc hùng tráng, từ Kavtseel; chính ông đã đánh giết ⟨את⟩ hai người anh hùng của Moav; và ông đã đi xuống và đánh giết ⟨את⟩ con sư tử giữa hố, vào ngày có tuyết.",
   "tokens": [
     {
       "surface": "בניה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "con trai"
+      "gloss": "con trai của"
     },
     {
       "surface": "יהוידע",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "con"
+      "gloss": "con trai của"
     },
     {
       "surface": "איש",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "חיל",
-      "gloss": "dũng lực"
+      "gloss": "dũng cảm"
     },
     {
       "surface": "רב",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "פעלים",
-      "gloss": "việc lớn"
+      "gloss": "việc hùng tráng"
     },
     {
       "surface": "מן",
@@ -53,12 +53,12 @@
     },
     {
       "surface": "הכה",
-      "gloss": "đã đánh"
+      "gloss": "đã đánh giết"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hai vị"
+      "marks": "hai người anh hùng"
     },
     {
       "surface": "שני",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "אריאל",
-      "gloss": "Ariel"
+      "gloss": "người anh hùng (ariel)"
     },
     {
       "surface": "מואב",
-      "gloss": "Moav"
+      "gloss": "của Moav"
     },
     {
       "surface": "והוא",
@@ -78,11 +78,11 @@
     },
     {
       "surface": "ירד",
-      "gloss": "đi xuống"
+      "gloss": "đã đi xuống"
     },
     {
       "surface": "והכה",
-      "gloss": "và đánh"
+      "gloss": "và đánh giết"
     },
     {
       "surface": "את",
@@ -107,9 +107,9 @@
     },
     {
       "surface": "השלג",
-      "gloss": "tuyết"
+      "gloss": "có tuyết"
     }
   ],
-  "timestamp": "2026-08-19T05:49:54.243474702Z",
+  "timestamp": "2026-08-24T16:24:29.476512932Z",
   "model": "glm-5.3"
 }

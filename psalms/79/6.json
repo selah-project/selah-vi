@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "vi",
   "chapter": 79,
-  "translation": "Hãy đổ cơn thịnh nộ của Ngài xuống ⟨⟨את⟩⟩ các dân ngoại là những kẻ không nhận biết Ngài, và trên các vương quốc là những nước trong Danh Ngài không kêu cầu.",
+  "translation": "Hãy đổ cơn thịnh nộ của ngươi xuống ⟨trên⟩ các dân nước không nhận biết ngươi, và ⟨trên⟩ các vương quốc không kêu cầu trong danh ngươi.",
   "tokens": [
     {
       "surface": "שפך",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "חמתך",
-      "gloss": "cơn thịnh nộ của Ngài"
+      "gloss": "cơn thịnh nộ của ngươi"
     },
     {
       "surface": "אל",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "הגוים",
-      "gloss": "các dân ngoại"
+      "gloss": "các dân nước"
     },
     {
       "surface": "אשר",
-      "gloss": "là những kẻ"
+      "gloss": "mà"
     },
     {
       "surface": "לא",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ידעוך",
-      "gloss": "nhận biết Ngài"
+      "gloss": "nhận biết ngươi"
     },
     {
       "surface": "ועל",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "là những nước"
+      "gloss": "mà"
     },
     {
       "surface": "בשמך",
-      "gloss": "trong Danh Ngài"
+      "gloss": "trong danh ngươi"
     },
     {
       "surface": "לא",
@@ -60,6 +60,6 @@
       "gloss": "kêu cầu"
     }
   ],
-  "timestamp": "2026-08-19T05:05:56.952125405Z",
+  "timestamp": "2026-08-24T16:21:03.134238760Z",
   "model": "glm-5.3"
 }

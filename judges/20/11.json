@@ -5,8 +5,45 @@
   "book": "judges",
   "lang": "vi",
   "chapter": 20,
-  "translation": "Và mọi người Yisra'el gathered —",
-  "tokens": [],
-  "timestamp": "2026-08-19T03:28:07.109897829Z",
+  "translation": "Vậy toàn thể người Yisra'el tụ họp về phía ⟨thành⟩, như một người duy nhất — kết nghĩa anh em.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "tụ họp lại"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mọi người"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "về phía"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨thành⟩"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "như một người"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "duy nhất"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "kết nghĩa anh em"
+    }
+  ],
+  "timestamp": "2026-08-24T16:26:57.729140890Z",
   "model": "glm-5.3"
 }

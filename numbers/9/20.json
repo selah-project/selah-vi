@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 9,
-  "translation": "Và có khi đám mây ⟨ngự⟩ số ít ngày trên ⟨ה⟩ Nhà-Trại; theo miệng Yahweh ⟨họ⟩ đóng trại, và theo miệng Yahweh ⟨họ⟩ lên đường.",
+  "translation": "Và có khi đám mây ở lại vài ngày trên đền trại; theo miệng Yahweh họ hạ trại, và theo miệng Yahweh họ khởi hành.",
   "tokens": [
     {
       "surface": "ויש",
-      "gloss": "và có khi"
+      "gloss": "và có (khi)"
     },
     {
       "surface": "אשר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "⟨ngự⟩"
+      "gloss": "nó ở"
     },
     {
       "surface": "הענן",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "מספר",
-      "gloss": "số ít"
+      "gloss": "một số (ít)"
     },
     {
       "surface": "על",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "המשכן",
-      "gloss": "Nhà-Trại"
+      "gloss": "đền trại"
     },
     {
       "surface": "על",
-      "gloss": "theo"
+      "gloss": "theo \/ bởi"
     },
     {
       "surface": "פי",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "יחנו",
-      "gloss": "đóng trại"
+      "gloss": "họ hạ trại"
     },
     {
       "surface": "ועל",
@@ -69,9 +69,9 @@
     },
     {
       "surface": "יסעו",
-      "gloss": "lên đường"
+      "gloss": "họ khởi hành"
     }
   ],
-  "timestamp": "2026-08-19T02:55:41.246054637Z",
+  "timestamp": "2026-08-24T16:07:13.423111038Z",
   "model": "glm-5.3"
 }

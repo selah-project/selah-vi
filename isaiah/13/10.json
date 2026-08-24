@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "vi",
   "chapter": 13,
-  "translation": "Vì các ngôi sao của ⟨ה⟩các tầng trời và các chòm sao của chúng sẽ không chiếu sáng ánh sáng của chúng; mặt trời đã tối sẫm khi mọc lên, và mặt trăng sẽ không làm sáng ánh sáng của nó.",
+  "translation": "Vì các ngôi sao của ⟨các⟩ tầng trời và các chòm sao của chúng sẽ không chiếu sáng ánh sáng của chúng; mặt trời đã tối đi trong lúc mọc của nó, và mặt trăng sẽ không làm sáng ánh sáng của nó.",
   "tokens": [
     {
       "surface": "כי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "השמים",
-      "gloss": "⟨ה⟩các tầng trời"
+      "gloss": "các tầng trời"
     },
     {
       "surface": "וכסיליהם",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "חשך",
-      "gloss": "đã tối sẫm"
+      "gloss": "đã tối đi"
     },
     {
       "surface": "השמש",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "בצאתו",
-      "gloss": "khi mọc lên của nó"
+      "gloss": "trong lúc mọc của nó"
     },
     {
       "surface": "וירח",
@@ -64,6 +64,6 @@
       "gloss": "ánh sáng của nó"
     }
   ],
-  "timestamp": "2026-08-19T06:12:00.708531601Z",
+  "timestamp": "2026-08-24T16:14:07.486392713Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 21,
-  "translation": "chủ ⟨ה⟩ hố phải bồi thường; bạc tiền ⟨ה⟩ sẽ trả lại cho chủ của nó, và con vật chết sẽ thành ⟨của⟩ ông ta.",
+  "translation": "Chủ của hố phải bồi thường, trả bạc cho chủ của nó, và con vật chết ấy sẽ thành của hắn.",
   "tokens": [
     {
       "surface": "בעל",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הבור",
-      "gloss": "hố"
+      "gloss": "của hố"
     },
     {
       "surface": "ישלם",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "כסף",
-      "gloss": "bạc tiền"
+      "gloss": "bạc"
     },
     {
       "surface": "ישיב",
-      "gloss": "sẽ trả lại"
+      "gloss": "trả lại"
     },
     {
       "surface": "לבעליו",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "לו",
-      "gloss": "cho ông ta"
+      "gloss": "của hắn"
     }
   ],
-  "timestamp": "2026-08-19T02:33:13.225653985Z",
+  "timestamp": "2026-08-24T16:03:42.694793853Z",
   "model": "glm-5.3"
 }

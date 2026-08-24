@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "vi",
   "chapter": 28,
-  "translation": "Và Zikhri, một dũng sĩ của Efrayim, đã giết ⟨את⟩ Ma'aseyahu con trai vua, ⟨ואת⟩ Azrikam quan quản gia cung vua, và ⟨ואת⟩ Elkanah viên quan thứ nhì của vua.",
+  "translation": "Zikhri, một dũng sĩ của Efrayim, đã giết ⟨את⟩ Maaseiahu con trai vua, và ⟨את⟩ Azrikam, người quản lãnh ⟨cung⟩ đien, và ⟨את⟩ Elkanah, người thứ hai sau vua.",
   "tokens": [
     {
       "surface": "ויהרג",
@@ -26,11 +26,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Ma'aseyahu"
+      "marks": "Maaseiahu"
     },
     {
       "surface": "מעשיהו",
-      "gloss": "Ma'aseyahu"
+      "gloss": "Maaseiahu"
     },
     {
       "surface": "בן",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ ⟨ואת⟩",
+      "gloss": "và ⟨את⟩",
       "marks": "Azrikam"
     },
     {
@@ -51,15 +51,15 @@
     },
     {
       "surface": "נגיד",
-      "gloss": "người cai quản"
+      "gloss": "người quản lãnh"
     },
     {
       "surface": "הבית",
-      "gloss": "nhà"
+      "gloss": "nhà \/ cung điện"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ ⟨ואת⟩",
+      "gloss": "và ⟨את⟩",
       "marks": "Elkanah"
     },
     {
@@ -68,13 +68,13 @@
     },
     {
       "surface": "משנה",
-      "gloss": "thứ nhì"
+      "gloss": "người thứ hai"
     },
     {
       "surface": "המלך",
-      "gloss": "của vua"
+      "gloss": "vua"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.002655427Z",
+  "timestamp": "2026-08-24T16:25:51.704939007Z",
   "model": "glm-5.3"
 }

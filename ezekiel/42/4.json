@@ -5,19 +5,19 @@
   "book": "ezekiel",
   "lang": "vi",
   "chapter": 42,
-  "translation": "Và trước mặt các phòng ⟨là⟩ lối đi mười cubit bề ngang, về phía trong, lối rộng một cubit; và cửa vào của chúng hướng về phía bắc.",
+  "translation": "Và trước các gian phòng ⟨là⟩ lối đi rộng mười cubit, về phía trong, theo đường rộng một cubit; và cửa của chúng hướng về phía bắc.",
   "tokens": [
     {
       "surface": "ולפני",
-      "gloss": "và trước mặt"
+      "gloss": "và-trước"
     },
     {
       "surface": "הלשכות",
-      "gloss": "các phòng"
+      "gloss": "các-gian-phòng"
     },
     {
       "surface": "מהלך",
-      "gloss": "lối đi"
+      "gloss": "lối-đi"
     },
     {
       "surface": "עשר",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "רחב",
-      "gloss": "bề ngang"
+      "gloss": "rộng"
     },
     {
       "surface": "אל",
-      "gloss": "⟨אל⟩ về phía"
+      "gloss": "về-phía"
     },
     {
       "surface": "הפנימית",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "דרך",
-      "gloss": "lối"
+      "gloss": "theo-đường"
     },
     {
       "surface": "אמה",
-      "gloss": "một cubit"
+      "gloss": "một-cubit"
     },
     {
       "surface": "אחת",
@@ -53,13 +53,13 @@
     },
     {
       "surface": "ופתחיהם",
-      "gloss": "và cửa vào của chúng"
+      "gloss": "và-cửa-của-chúng"
     },
     {
       "surface": "לצפון",
-      "gloss": "hướng bắc"
+      "gloss": "hướng-phía-bắc"
     }
   ],
-  "timestamp": "2026-08-19T04:42:37.133379410Z",
+  "timestamp": "2026-08-24T16:17:55.935520138Z",
   "model": "glm-5.3"
 }

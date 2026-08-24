@@ -5,20 +5,20 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 37,
-  "translation": "Người làm ⟨את⟩ các đòn khiêng bằng gỗ keo שטים, và phủ ⟨את⟩ chúng bằng vàng.",
+  "translation": "Người đã làm ⟨את⟩ các cây đòn khiêng bằng gỗ cây keo, và bọc ⟨את⟩ chúng bằng vàng.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "Người làm"
+      "gloss": "và người đã làm"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "các đòn khiêng"
+      "marks": "các cây đòn khiêng"
     },
     {
       "surface": "הבדים",
-      "gloss": "các đòn khiêng"
+      "gloss": "các cây đòn khiêng"
     },
     {
       "surface": "עצי",
@@ -26,22 +26,21 @@
     },
     {
       "surface": "שטים",
-      "gloss": "keo שטים"
+      "gloss": "cây keo"
     },
     {
       "surface": "ויצף",
-      "gloss": "và người phủ"
+      "gloss": "và bọc"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ chúng",
-      "marks": "chúng (các đòn khiêng)"
+      "gloss": "⟨את⟩ chúng"
     },
     {
       "surface": "זהב",
-      "gloss": "bằng vàng"
+      "gloss": "vàng"
     }
   ],
-  "timestamp": "2026-08-19T02:38:28.853116458Z",
+  "timestamp": "2026-08-24T16:04:30.120666365Z",
   "model": "glm-5.3"
 }

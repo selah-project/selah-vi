@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "vi",
   "chapter": 6,
-  "translation": "⟨Cấu trúc⟩ gian cạnh dưới cùng rộng năm amah, ⟨cấu trúc⟩ giữa rộng sáu amah, và ⟨tầng⟩ thứ ba rộng bảy amah; vì ⟨ông⟩ đã làm các bậc nhô ra cho ⟨the⟩ nhà, vây quanh mặt ngoài, để không bám vào các tường ⟨the⟩ nhà.",
+  "translation": "Căn phòng tầng dưới rộng năm amah, căn tầng giữa rộng sáu amah, và căn tầng thứ ba rộng bảy amah; vì ⟨ông⟩ đã làm các gờ thu nhỏ chung quanh ngôi đền, ở phía ngoài, để không bám vào tường của ngôi đền.",
   "tokens": [
     {
       "surface": "היצוע",
-      "gloss": "⟨cấu trúc⟩ gian cạnh"
+      "gloss": "căn phòng"
     },
     {
       "surface": "התחתנה",
-      "gloss": "dưới cùng"
+      "gloss": "tầng dưới"
     },
     {
       "surface": "חמש",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "והתיכנה",
-      "gloss": "và ⟨cấu trúc⟩ giữa"
+      "gloss": "và tầng giữa"
     },
     {
       "surface": "שש",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "והשלישית",
-      "gloss": "và ⟨tầng⟩ thứ ba"
+      "gloss": "và tầng thứ ba"
     },
     {
       "surface": "שבע",
@@ -65,23 +65,23 @@
     },
     {
       "surface": "מגרעות",
-      "gloss": "các bậc nhô ra"
+      "gloss": "các gờ thu nhỏ"
     },
     {
       "surface": "נתן",
-      "gloss": "⟨ông⟩ đã làm"
+      "gloss": "đã làm"
     },
     {
       "surface": "לבית",
-      "gloss": "cho ⟨the⟩ nhà"
+      "gloss": "cho ngôi đền"
     },
     {
       "surface": "סביב",
-      "gloss": "vây quanh"
+      "gloss": "chung quanh"
     },
     {
       "surface": "חוצה",
-      "gloss": "mặt ngoài"
+      "gloss": "phía ngoài"
     },
     {
       "surface": "לבלתי",
@@ -93,13 +93,13 @@
     },
     {
       "surface": "בקירות",
-      "gloss": "các tường"
+      "gloss": "vào tường"
     },
     {
       "surface": "הבית",
-      "gloss": "⟨the⟩ nhà"
+      "gloss": "của ngôi đền"
     }
   ],
-  "timestamp": "2026-08-19T06:09:38.182743751Z",
+  "timestamp": "2026-08-24T16:26:37.795484685Z",
   "model": "glm-5.3"
 }

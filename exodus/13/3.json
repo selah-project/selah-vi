@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 13,
-  "translation": "Và Moshe nói với dân: Hãy nhớ ⟨את⟩ ngày này, mà các ngươi đã ra khỏi Mitzrayim, khỏi nhà nô lệ, vì bằng bàn tay mạnh mẽ Yahweh đã đưa các ngươi ⟨את⟩ ⟨אתכם⟩ ra khỏi đây; và bánh có men không được ăn.",
+  "translation": "Moshe nói với dân sự: Hãy nhớ ⟨את⟩ ngày này, ngày các ngươi ra khỏi Mitzrayim, khỏi nhà nô lệ, vì Yahweh đã bằng tay quyền năng đưa các ngươi ra khỏi nơi này; chớ ăn bánh có men.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "và-nói"
+      "gloss": "và người nói"
     },
     {
       "surface": "משה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "העם",
-      "gloss": "dân"
+      "gloss": "dân sự"
     },
     {
       "surface": "זכור",
-      "gloss": "hãy-nhớ"
+      "gloss": "hãy nhớ"
     },
     {
       "surface": "את",
@@ -46,19 +46,19 @@
     },
     {
       "surface": "יצאתם",
-      "gloss": "các-ngươi-đã-ra"
+      "gloss": "các ngươi ra khỏi"
     },
     {
       "surface": "ממצרים",
-      "gloss": "khỏi-Mitzrayim"
+      "gloss": "Mitzrayim"
     },
     {
       "surface": "מבית",
-      "gloss": "khỏi-nhà"
+      "gloss": "khỏi nhà"
     },
     {
       "surface": "עבדים",
-      "gloss": "nô-lễ"
+      "gloss": "nô lệ"
     },
     {
       "surface": "כי",
@@ -66,15 +66,15 @@
     },
     {
       "surface": "בחזק",
-      "gloss": "bằng-sức-mạnh"
+      "gloss": "bằng quyền năng"
     },
     {
       "surface": "יד",
-      "gloss": "bàn-tay"
+      "gloss": "tay"
     },
     {
       "surface": "הוציא",
-      "gloss": "đã-đưa-ra"
+      "gloss": "Ngài đã đưa ra"
     },
     {
       "surface": "יהוה",
@@ -82,26 +82,26 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "gloss": "⟨את⟩ các ngươi",
       "marks": "các ngươi"
     },
     {
       "surface": "מזה",
-      "gloss": "khỏi-đây"
+      "gloss": "khỏi nơi này"
     },
     {
       "surface": "ולא",
-      "gloss": "và-không"
+      "gloss": "và chớ"
     },
     {
       "surface": "יאכל",
-      "gloss": "được-ăn"
+      "gloss": "ăn"
     },
     {
       "surface": "חמץ",
-      "gloss": "bánh-có-men"
+      "gloss": "bánh có men"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.995004560Z",
+  "timestamp": "2026-08-24T16:04:02.038290139Z",
   "model": "glm-5.3"
 }

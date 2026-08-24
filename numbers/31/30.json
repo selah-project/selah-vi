@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 31,
-  "translation": "Và từ phân nửa của con cái Yisra'el ngươi hãy lấy một phần nắm giữ ra khỏi số năm mươi, từ loài người, từ bò, từ lừa, và từ chiên, từ mọi súc vật; và ngươi hãy ban ⟨את⟩ ⟨אתם⟩ cho người Levi, những kẻ canh giữ sự canh giữ của đền tạm Yahweh.",
+  "translation": "Và từ phân nửa của con cái Yisrael, ngươi sẽ lấy một phần trong năm mươi — từ loài người, từ bò, từ lừa, và từ chiên, từ mọi súc vật — và ngươi sẽ ban ⟨את⟩ chúng cho người Levi, những kẻ canh giữ sự canh giữ của đền tạm Yahweh.",
   "tokens": [
     {
       "surface": "וממחצת",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     },
     {
       "surface": "תקח",
-      "gloss": "ngươi hãy lấy"
+      "gloss": "ngươi sẽ lấy"
     },
     {
       "surface": "אחד",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "אחז",
-      "gloss": "phần nắm giữ"
+      "gloss": "phần được rút ra"
     },
     {
       "surface": "מן",
-      "gloss": "ra khỏi"
+      "gloss": "từ"
     },
     {
       "surface": "החמשים",
-      "gloss": "số năm mươi"
+      "gloss": "năm mươi"
     },
     {
       "surface": "מן",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "החמרים",
-      "gloss": "bầy lừa"
+      "gloss": "lừa"
     },
     {
       "surface": "ומן",
@@ -80,13 +80,13 @@
       "gloss": "súc vật"
     },
     {
-      "surface": "ונתתה",
-      "gloss": "và ngươi hãy ban"
+      "surface": "וונתתה",
+      "gloss": "và ngươi sẽ ban"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "cho người Levi"
+      "gloss": "⟨את⟩",
+      "marks": "chúng (cho người Levi)"
     },
     {
       "surface": "ללוים",
@@ -109,6 +109,6 @@
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.052225544Z",
+  "timestamp": "2026-08-24T16:07:39.483565723Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 3,
-  "translation": "Và Moshe ⟨đang⟩ chăn ⟨את⟩ đàn chiên của Yitro, cha vợ ông, thầy tế lễ của Midyan; và ông dẫn ⟨את⟩ đàn chiên đến phía sau vắng vẻ, và ông đến núi của ⟨ה⟩Elohim, đến Chorev.",
+  "translation": "Và Moshe ⟨đang⟩ chăn ⟨את⟩ đàn chiên của Yitro, thông gia của người, thầy tế lễ của Midyan; và người dẫn ⟨את⟩ đàn chiên ⟨về phía⟩ sau vằn vnect hoang, và người đến núi của ⟨האלהים⟩ Elohim, Choreb.",
   "tokens": [
     {
       "surface": "ומשה",
-      "gloss": "và Moshe"
+      "gloss": "Và Moshe"
     },
     {
       "surface": "היה",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "חתנו",
-      "gloss": "cha vợ ông"
+      "gloss": "thông gia của người"
     },
     {
       "surface": "כהן",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "וינהג",
-      "gloss": "và ông dẫn"
+      "gloss": "và người dẫn"
     },
     {
       "surface": "את",
@@ -59,19 +59,19 @@
     },
     {
       "surface": "אחר",
-      "gloss": "đằng sau"
+      "gloss": "sau \/ phía sau"
     },
     {
       "surface": "המדבר",
-      "gloss": "vùng vắng vẻ"
+      "gloss": "vùng hoang mạc"
     },
     {
       "surface": "ויבא",
-      "gloss": "và ông đến"
+      "gloss": "và người đến"
     },
     {
       "surface": "אל",
-      "gloss": "đến"
+      "gloss": "đến tận"
     },
     {
       "surface": "הר",
@@ -83,9 +83,9 @@
     },
     {
       "surface": "חרבה",
-      "gloss": "Chorev"
+      "gloss": "Choreb"
     }
   ],
-  "timestamp": "2026-08-19T02:27:54.980503036Z",
+  "timestamp": "2026-08-24T16:03:02.217547439Z",
   "model": "glm-5.3"
 }

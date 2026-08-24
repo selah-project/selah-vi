@@ -5,8 +5,66 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 43,
-  "translation": "Và bạc gấp đôi, hãy lấy trong tay các ngươi; và ⟨את⟩ số bạc đã được trả lại trong miệng túi của các ngươi, hãy mang trả lại trong tay các ngươi; có lẽ đó là sự lầm lạc.",
-  "tokens": [],
-  "timestamp": "2026-08-19T02:24:45.687675913Z",
+  "translation": "Và tiền gấp đôi, hãy lấy trong tay các ngươi; và ⟨את⟩ tiền đã được trả lại trong miệng túi của các ngươi, hãy đem trả trong tay các ngươi; có lẽ đó ⟨là⟩ một sự lầm lỗi.",
+  "tokens": [
+    {
+      "surface": "וכסף",
+      "gloss": "và tiền"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "gấp đôi"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "hãy lấy"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "trong tay các ngươi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "tiền"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "tiền"
+    },
+    {
+      "surface": "המושב",
+      "gloss": "đã được trả lại"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "trong miệng"
+    },
+    {
+      "surface": "אמתחתיכם",
+      "gloss": "túi của các ngươi"
+    },
+    {
+      "surface": "תשיבו",
+      "gloss": "hãy đem trả"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "trong tay các ngươi"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "có lẽ"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "một sự lầm lỗi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "đó"
+    }
+  ],
+  "timestamp": "2026-08-24T16:03:02.579979477Z",
   "model": "glm-5.3"
 }

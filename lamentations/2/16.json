@@ -5,11 +5,11 @@
   "book": "lamentations",
   "lang": "vi",
   "chapter": 2,
-  "translation": "Chúng đã há miệng nghịch cùng ngươi, tất cả kẻ thù của ngươi; chúng huýt sa và nghiến răng, nói: Chúng ta đã nuốt了她 — quả thật đây là ngày ta đã chờ đợi; ta đã tìm thấy, ta đã thấy.",
+  "translation": "Tất cả kẻ thù của ngươi đã há miệng rộng ra nghịch cùng ngươi; chúng huýt gió, nghiến ⟨răng⟩; chúng nói: Chúng ta đã nuốt chửng nàng rồi! Chắc chắn đây là ngày mà chúng ta đã trông đợi; chúng ta đã tìm thấy, chúng ta đã thấy.",
   "tokens": [
     {
       "surface": "פצו",
-      "gloss": "chúng đã há"
+      "gloss": "đã há rộng"
     },
     {
       "surface": "עליך",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "שרקו",
-      "gloss": "chúng huýt sa"
+      "gloss": "chúng huýt gió"
     },
     {
       "surface": "ויחרקו",
@@ -41,19 +41,19 @@
     },
     {
       "surface": "אמרו",
-      "gloss": "nói"
+      "gloss": "chúng nói"
     },
     {
       "surface": "בלענו",
-      "gloss": "chúng ta đã nuốt"
+      "gloss": "chúng ta đã nuốt chửng"
     },
     {
       "surface": "אך",
-      "gloss": "quả thật"
+      "gloss": "chắc chắn"
     },
     {
       "surface": "זה",
-      "gloss": "đây là"
+      "gloss": "này"
     },
     {
       "surface": "היום",
@@ -61,17 +61,17 @@
     },
     {
       "surface": "שקוינהו",
-      "gloss": "ta đã chờ đợi"
+      "gloss": "mà chúng ta đã trông đợi"
     },
     {
       "surface": "מצאנו",
-      "gloss": "ta đã tìm thấy"
+      "gloss": "chúng ta đã tìm thấy"
     },
     {
       "surface": "ראינו",
-      "gloss": "ta đã thấy"
+      "gloss": "chúng ta đã thấy"
     }
   ],
-  "timestamp": "2026-08-19T05:31:34.808104293Z",
+  "timestamp": "2026-08-24T16:23:10.438249895Z",
   "model": "glm-5.3"
 }

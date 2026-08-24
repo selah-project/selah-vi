@@ -5,8 +5,37 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 11,
-  "translation": "Và ⟨rồi⟩ toàn thể ⟨của⟩ đất là môi ⟨một⟩, và các lời ⟨là⟩ một",
-  "tokens": [],
-  "timestamp": "2026-08-19T00:55:54.372124383Z",
+  "translation": "Và ⟨thì⟩ toàn thể ⟨các⟩ đất ⟨là⟩ môi ⟨một⟩, và lời nói ⟨thống nhất một⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Và ⟨thì⟩ đã xảy ra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "toàn thể"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨các⟩ đất"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "môi \/ ngôn ngữ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "một"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "và lời nói"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "⟨thống nhất một⟩"
+    }
+  ],
+  "timestamp": "2026-08-24T16:01:37.275658421Z",
   "model": "glm-5.3"
 }

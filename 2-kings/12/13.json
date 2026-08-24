@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "vi",
   "chapter": 12,
-  "translation": "và cho những người xây tường, và những người đẽo đá, và để mua gỗ và đá đẽo, để tu sửa ⟨את⟩ các chỗ hư hỏng của nhà Yahweh, và cho mọi việc được chi ra cho ⟨the⟩ nhà để tu sửa.",
+  "translation": "Và cho những người xây tường, và những người đục đá, và để mua gỗ và đá đục để tu bổ ⟨את⟩ vết nứt của nhà Yahweh, và cho tất cả những gì ⟨sẽ⟩ chi ra cho ngôi nhà để củng cố nó.",
   "tokens": [
     {
       "surface": "ולגדרים",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "ולחצבי",
-      "gloss": "và những người đẽo"
+      "gloss": "và cho những người đục đá"
     },
     {
       "surface": "האבן",
-      "gloss": "đá"
+      "gloss": "viên đá"
     },
     {
       "surface": "ולקנות",
@@ -29,28 +29,28 @@
     },
     {
       "surface": "ואבני",
-      "gloss": "và đá"
+      "gloss": "và những viên đá"
     },
     {
       "surface": "מחצב",
-      "gloss": "đá đẽo"
+      "gloss": "đã đục"
     },
     {
       "surface": "לחזק",
-      "gloss": "để tu sửa"
+      "gloss": "để tu bổ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "các chỗ hư hỏng"
+      "marks": "vết nứt"
     },
     {
       "surface": "בדק",
-      "gloss": "chỗ hư hỏng"
+      "gloss": "vết nứt"
     },
     {
       "surface": "בית",
-      "gloss": "nhà"
+      "gloss": "nhà của"
     },
     {
       "surface": "יהוה",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "ולכל",
-      "gloss": "và cho mọi"
+      "gloss": "và cho tất cả"
     },
     {
       "surface": "אשר",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "יצא",
-      "gloss": "được chi ra"
+      "gloss": "chi ra"
     },
     {
       "surface": "על",
@@ -74,13 +74,13 @@
     },
     {
       "surface": "הבית",
-      "gloss": "⟨the⟩ nhà"
+      "gloss": "ngôi nhà"
     },
     {
       "surface": "לחזקה",
-      "gloss": "để tu sửa"
+      "gloss": "để củng cố"
     }
   ],
-  "timestamp": "2026-08-19T03:59:15.943399629Z",
+  "timestamp": "2026-08-24T16:13:04.484378150Z",
   "model": "glm-5.3"
 }

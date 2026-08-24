@@ -5,11 +5,11 @@
   "book": "jonah",
   "lang": "vi",
   "chapter": 1,
-  "translation": "Họ nói với ông: Xin hãy tỏ cho chúng ta biết, vì ai mà tai họa này đến trên chúng ta? Nghề nghiệp của ngươi là gì, ngươi từ đâu đến? Xứ của ngươi là哪, và ngươi thuộc dân nào?",
+  "translation": "Và họ nói với ông: Xin hãy tỏ cho chúng tôi biết, vì ai mà tai họa này đến trên chúng tôi? Nghề nghiệp của ông là gì, và ông từ đâu đến? Đất nước của ông là gì, và từ dân nào mà ông ⟨là⟩?",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "họ nói"
+      "gloss": "và-họ-nói"
     },
     {
       "surface": "אליו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הגידה",
-      "gloss": "hãy tỏ cho biết"
+      "gloss": "hãy tỏ biết"
     },
     {
       "surface": "נא",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "לנו",
-      "gloss": "cho chúng ta"
+      "gloss": "cho chúng tôi"
     },
     {
       "surface": "באשר",
-      "gloss": "về việc"
+      "gloss": "vì"
     },
     {
       "surface": "למי",
-      "gloss": "vì ai"
+      "gloss": "cho ai"
     },
     {
       "surface": "הרעה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "לנו",
-      "gloss": "đến trên chúng ta"
+      "gloss": "trên chúng tôi"
     },
     {
       "surface": "מה",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "מלאכתך",
-      "gloss": "nghề nghiệp của ngươi"
+      "gloss": "nghề nghiệp của ông"
     },
     {
       "surface": "ומאין",
@@ -61,23 +61,23 @@
     },
     {
       "surface": "תבוא",
-      "gloss": "ngươi đến"
+      "gloss": "ông đến"
     },
     {
       "surface": "מה",
-      "gloss": "nào"
+      "gloss": "gì"
     },
     {
       "surface": "ארצך",
-      "gloss": "xứ của ngươi"
+      "gloss": "đất của ông"
     },
     {
       "surface": "ואי",
-      "gloss": "và dân nào"
+      "gloss": "và từ đâu"
     },
     {
       "surface": "מזה",
-      "gloss": "từ"
+      "gloss": "từ dân này"
     },
     {
       "surface": "עם",
@@ -85,9 +85,9 @@
     },
     {
       "surface": "אתה",
-      "gloss": "ngươi là"
+      "gloss": "ông"
     }
   ],
-  "timestamp": "2026-08-19T04:48:49.401284650Z",
+  "timestamp": "2026-08-24T16:19:21.848782584Z",
   "model": "glm-5.3"
 }

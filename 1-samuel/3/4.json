@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "vi",
   "chapter": 3,
-  "translation": "Và Yahweh kêu gọi ⟨אל⟩ Shmuel, và ⟨y⟩⟨a⟩ nói: Này tôi đây.",
+  "translation": "Và Yahweh kêu Shemuël, và ⟨anh⟩ nói: Này tôi đây.",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "và Ngài kêu gọi"
+      "gloss": "và kêu"
     },
     {
       "surface": "יהוה",
@@ -17,22 +17,21 @@
     },
     {
       "surface": "אל",
-      "gloss": "⟨אל⟩",
-      "marks": "Shmuel"
+      "gloss": "đến"
     },
     {
       "surface": "שמואל",
-      "gloss": "Shmuel"
+      "gloss": "Shemuël"
     },
     {
       "surface": "ויאמר",
-      "gloss": "và ông nói"
+      "gloss": "và nói"
     },
     {
       "surface": "הנני",
       "gloss": "này tôi đây"
     }
   ],
-  "timestamp": "2026-08-19T06:08:04.412181025Z",
+  "timestamp": "2026-08-24T16:10:47.953980769Z",
   "model": "glm-5.3"
 }

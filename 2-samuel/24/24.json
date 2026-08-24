@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "vi",
   "chapter": 24,
-  "translation": "Vua nói với Aravnah: \"Không, vì tôi chắc chắn sẽ mua ⟨את⟩ nó từ ông với một cái giá; tôi sẽ không dâng lên cho Yahweh Elohim của tôi những tế lễ thiêu không mất gì.\" David mua ⟨את⟩ sân đập lúa và ⟨את]] bò clay bằng bạc, năm mươi shekel.",
+  "translation": "Vua nói với Aravnah: Không, vì tôi chắc chắn sẽ mua ⟨את⟩ nó từ ông với giá tiền, và tôi sẽ không dâng lên Yahweh Elohim của tôi những của lễ thiêu mà không tốn kém gì. Vậy David mua ⟨את⟩ sân đạp lúa mì và ⟨את⟩ bò cái bằng bạc năm mươi shekel.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "nói"
+      "gloss": "và nói"
     },
     {
       "surface": "המלך",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "קנו",
-      "gloss": "chắc chắn mua"
+      "gloss": "mua"
     },
     {
       "surface": "אקנה",
@@ -61,19 +61,19 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim của tôi"
+      "gloss": "Elohim của"
     },
     {
       "surface": "עלות",
-      "gloss": "tế lễ thiêu"
+      "gloss": "của lễ thiêu"
     },
     {
       "surface": "חנם",
-      "gloss": "không mất gì"
+      "gloss": "không công"
     },
     {
       "surface": "ויקן",
-      "gloss": "mua"
+      "gloss": "và đã mua"
     },
     {
       "surface": "דוד",
@@ -82,20 +82,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sân đập lúa"
+      "marks": "sân đạp lúa mì"
     },
     {
       "surface": "הגרן",
-      "gloss": "sân đập lúa"
+      "gloss": "sân đạp lúa mì"
     },
     {
       "surface": "ואת",
       "gloss": "và ⟨את⟩",
-      "marks": "bò clay"
+      "marks": "bò cái"
     },
     {
       "surface": "הבקר",
-      "gloss": "bò clay"
+      "gloss": "bò cái"
     },
     {
       "surface": "בכסף",
@@ -110,6 +110,6 @@
       "gloss": "năm mươi"
     }
   ],
-  "timestamp": "2026-08-19T03:46:18.950795613Z",
+  "timestamp": "2026-08-24T16:11:51.527762124Z",
   "model": "glm-5.3"
 }

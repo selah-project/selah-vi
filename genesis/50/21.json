@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 50,
-  "translation": "Và giờ đây đừng sợ: tôi sẽ nuôi dưỡng ⟨אתכם⟩ và ⟨את⟩ con trẻ các ngươi. Và ông đã an ủi họ và nói lên lòng họ.",
+  "translation": "Và bây giờ, đừng sợ: chính tôi sẽ nuôi dưỡng ⟨את⟩ các anh và ⟨את⟩ trẻ nhỏ của các anh. Và ông an ủi họ và nói ⟫ngọt ngào⟨ trên lòng họ.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "và giờ đây"
+      "gloss": "và bây giờ"
     },
     {
       "surface": "אל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אנכי",
-      "gloss": "tôi"
+      "gloss": "chính tôi"
     },
     {
       "surface": "אכלכל",
@@ -30,20 +30,20 @@
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "các ngươi"
+      "marks": "các anh"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "con trẻ các ngươi"
+      "gloss": "và ⟨את⟩",
+      "marks": "trẻ nhỏ của các anh"
     },
     {
       "surface": "טפכם",
-      "gloss": "con trẻ các ngươi"
+      "gloss": "trẻ nhỏ của các anh"
     },
     {
       "surface": "וינחם",
-      "gloss": "và đã an ủi"
+      "gloss": "và ông an ủi"
     },
     {
       "surface": "אותם",
@@ -52,7 +52,7 @@
     },
     {
       "surface": "וידבר",
-      "gloss": "và đã nói"
+      "gloss": "và nói"
     },
     {
       "surface": "על",
@@ -63,6 +63,6 @@
       "gloss": "lòng họ"
     }
   ],
-  "timestamp": "2026-08-19T02:27:39.395249025Z",
+  "timestamp": "2026-08-24T16:02:59.726063519Z",
   "model": "glm-5.3"
 }

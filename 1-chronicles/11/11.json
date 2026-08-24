@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "vi",
   "chapter": 11,
-  "translation": "Và đây là số các dũng sĩ thuộc về David: Yashoveam con trai Hakmoni, đứng đầu ba mươi vị — chính ⟨הוא⟩ người đã giơ ⟨את】 giáo của mình, <hắn> hạ ba trăm tử thương trong một lần.<\/hắn>",
+  "translation": "Và đây là số các dũng sĩ thuộc về David: Yashovam con trai Chakhmoni, đứng đầu ba mươi — chính ông vung ⟨את⟩ giáo của mình chống ba trăm kẻ bị đâm chết, trong một lần.",
   "tokens": [
     {
       "surface": "ואלה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ישבעם",
-      "gloss": "Yashoveam"
+      "gloss": "Yashovam"
     },
     {
       "surface": "בן",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "חכמוני",
-      "gloss": "Hakmoni"
+      "gloss": "Chakhmoni"
     },
     {
       "surface": "ראש",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "השלושים",
-      "gloss": "ba mươi vị"
+      "gloss": "ba mươi"
     },
     {
       "surface": "הוא",
-      "gloss": "chính ⟨הוא⟩ người"
+      "gloss": "chính ông"
     },
     {
       "surface": "עורר",
-      "gloss": "đã giơ"
+      "gloss": "vung"
     },
     {
       "surface": "את",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "על",
-      "gloss": "trên"
+      "gloss": "chống"
     },
     {
       "surface": "שלש",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "חלל",
-      "gloss": "tử thương"
+      "gloss": "kẻ bị đâm chết"
     },
     {
       "surface": "בפעם",
@@ -89,6 +89,6 @@
       "gloss": "một"
     }
   ],
-  "timestamp": "2026-08-19T05:49:49.594227721Z",
+  "timestamp": "2026-08-24T16:24:44.611995408Z",
   "model": "glm-5.3"
 }

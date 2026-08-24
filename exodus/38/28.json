@@ -5,12 +5,12 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 38,
-  "translation": "Và ⟨với⟩ một ngàn và bảy trăm và năm và bảy mươi ⟨shekel⟩ thì làm các móc cho các cây cột, và phủ bạc các đầu của chúng, và làm đai khít ⟨את⟩ ⟨אתם⟩ cho chúng.",
+  "translation": "Và ⟨את⟩ một ngàn và bảy trăm và năm và bảy mươi [sêken] ông đã làm móc cho các trụ, và phủ bọc các đầu chúng, và làm vòng buộc ⟨את⟩ chúng.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "và ⟨את⟩",
-      "marks": "một ngàn... bảy mươi (shekel)"
+      "marks": "một ngàn"
     },
     {
       "surface": "האלף",
@@ -34,19 +34,19 @@
     },
     {
       "surface": "עשה",
-      "gloss": "thì làm"
+      "gloss": "đã làm"
     },
     {
-      "surface": "ווים",
-      "gloss": "các móc"
+      "surface": "וגים",
+      "gloss": "móc"
     },
     {
       "surface": "לעמודים",
-      "gloss": "cho các cây cột"
+      "gloss": "cho các trụ"
     },
     {
       "surface": "וצפה",
-      "gloss": "và phủ bạc"
+      "gloss": "và phủ bọc"
     },
     {
       "surface": "ראשיהם",
@@ -54,14 +54,14 @@
     },
     {
       "surface": "וחשק",
-      "gloss": "và làm đai khít"
+      "gloss": "và làm vòng buộc"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "chúng (các cột)"
+      "gloss": "⟨את⟩ chúng",
+      "marks": "chúng (các trụ)"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.992201678Z",
+  "timestamp": "2026-08-24T16:05:13.351019696Z",
   "model": "glm-5.3"
 }

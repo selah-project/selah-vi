@@ -5,28 +5,28 @@
   "book": "deuteronomy",
   "lang": "vi",
   "chapter": 2,
-  "translation": "Hãy đứng dậy, hãy nhổ trại đi, và hãy băng qua ⟨את⟩ thung lũng Arnon; hãy thấy: Ta đã đặt trong tay ngươi ⟨את⟩ Sichon, vua của Chesbon, người Emori, và ⟨את⟩ đất của ông ta — hãy bắt đầu chiếm占有, hãy giao chiến với ông ta.",
+  "translation": "Hãy đứng dậy, hãy khởi hành, và hãy qua ⟨את⟩ suối Arnon; hãy thấy, Ta đã đặt trong tay ngươi ⟨את⟩ Sichon, vua của Chesvon, người HaEmori, và ⟨את⟩ đất của ông ta; hãy bắt đầu chiếm hữu, và hãy gây chiến tranh với ông ta.",
   "tokens": [
     {
       "surface": "קומו",
-      "gloss": "hãy đứng dậy"
+      "gloss": "Hãy đứng dậy"
     },
     {
       "surface": "סעו",
-      "gloss": "hãy nhổ trại đi"
+      "gloss": "hãy khởi hành"
     },
     {
       "surface": "ועברו",
-      "gloss": "và hãy băng qua"
+      "gloss": "và hãy qua"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "thung lũng Arnon"
+      "marks": "suối Arnon"
     },
     {
       "surface": "נחל",
-      "gloss": "thung lũng"
+      "gloss": "suối"
     },
     {
       "surface": "ארנן",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "נתתי",
-      "gloss": "Ta đã đặt"
+      "gloss": "Ta đã đặt\/đã cho"
     },
     {
       "surface": "בידך",
@@ -59,11 +59,11 @@
     },
     {
       "surface": "חשבון",
-      "gloss": "Chesbon"
+      "gloss": "Chesvon"
     },
     {
       "surface": "האמרי",
-      "gloss": "người Emori"
+      "gloss": "người HaEmori"
     },
     {
       "surface": "ואת",
@@ -80,11 +80,11 @@
     },
     {
       "surface": "רש",
-      "gloss": "chiếm giữ"
+      "gloss": "chiếm hữu"
     },
     {
       "surface": "והתגר",
-      "gloss": "và hãy khiêu chiến"
+      "gloss": "và hãy gây hấn"
     },
     {
       "surface": "בו",
@@ -92,9 +92,9 @@
     },
     {
       "surface": "מלחמה",
-      "gloss": "chiến trận"
+      "gloss": "chiến tranh"
     }
   ],
-  "timestamp": "2026-08-19T03:05:09.133507921Z",
+  "timestamp": "2026-08-24T16:07:40.588272230Z",
   "model": "glm-5.3"
 }

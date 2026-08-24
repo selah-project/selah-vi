@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "vi",
   "chapter": 11,
-  "translation": "Từ núi HaLak正在 đi lên về Seir, cho đến Baal-Gad trong trũng Li-van-non dưới núi Chermon; và ⟨את⟩ tất cả các vua của chúng ông đã bắt, đã đánh họ và đã giết họ.",
+  "translation": "Từ núi HaLak đi lên về phía Seir, cho đến Baal-Gad trong thung lũng Levanon, dưới núi Chermon; và ⟨את⟩ tất cả các vua của chúng nó ông đã bắt, ông đánh chúng và giết chúng.",
   "tokens": [
     {
       "surface": "מן",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "החלק",
-      "gloss": "HaLak (trọc)"
+      "gloss": "HaLak (trơn\/trụi)"
     },
     {
       "surface": "העולה",
-      "gloss": "đang đi lên"
+      "gloss": "đi lên"
     },
     {
       "surface": "שעיר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "בעל",
-      "gloss": "Baal"
+      "gloss": "Baal-"
     },
     {
       "surface": "גד",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "בבקעת",
-      "gloss": "trong trũng"
+      "gloss": "trong thung lũng"
     },
     {
       "surface": "הלבנון",
-      "gloss": "Li-van-non"
+      "gloss": "Levanon"
     },
     {
       "surface": "תחת",
@@ -61,8 +61,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "và ⟨את⟩",
-      "marks": "tất cả các vua của họ"
+      "gloss": "⟨את⟩",
+      "marks": "tất cả các vua của chúng"
     },
     {
       "surface": "כל",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "מלכיהם",
-      "gloss": "các vua của họ"
+      "gloss": "các vua của chúng"
     },
     {
       "surface": "לכד",
@@ -78,13 +78,13 @@
     },
     {
       "surface": "ויכם",
-      "gloss": "và đã đánh họ"
+      "gloss": "và đã đánh"
     },
     {
       "surface": "וימיתם",
-      "gloss": "và đã giết họ"
+      "gloss": "và đã giết"
     }
   ],
-  "timestamp": "2026-08-19T03:18:23.336492356Z",
+  "timestamp": "2026-08-24T16:09:00.367726522Z",
   "model": "glm-5.3"
 }

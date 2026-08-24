@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "vi",
   "chapter": 21,
-  "translation": "Và hai ⟨the⟩ người kia, con cái của Belial, đi vào và ngồi đối diện ông; và những người Belial làm chứng chống ⟨את⟩ Naboth trước mặt dân chúng, rằng: Naboth đã rủa Elohim và vua. thì họ đem ông ra ngoài thành và ném đá ông bằng đá, và ông chết.",
+  "translation": "Hai ⟨את⟩ những người con của Belial đến và ngồi đối diện ông; những người con Belial làm chứng chống ⟨את⟩ Naboth trước mặt ⟨את⟩ dân, nói: Naboth đã rủa Elohim và vua. Họ đem ông ra ngoài thành và ném ông bằng đá, và ông chết.",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "và đi vào"
+      "gloss": "đến"
     },
     {
       "surface": "שני",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "האנשים",
-      "gloss": "⟨the⟩ người kia"
+      "gloss": "người"
     },
     {
       "surface": "בני",
-      "gloss": "con cái của"
+      "gloss": "con của"
     },
     {
       "surface": "בליעל",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "אנשי",
-      "gloss": "những người"
+      "gloss": "người của"
     },
     {
       "surface": "הבליעל",
-      "gloss": "của Belial"
+      "gloss": "Belial"
     },
     {
       "surface": "את",
@@ -62,11 +62,11 @@
     },
     {
       "surface": "העם",
-      "gloss": "dân chúng"
+      "gloss": "dân"
     },
     {
       "surface": "לאמר",
-      "gloss": "rằng"
+      "gloss": "nói"
     },
     {
       "surface": "ברך",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "ויצאהו",
-      "gloss": "thì họ đem ông ra"
+      "gloss": "và đem ông ra"
     },
     {
       "surface": "מחוץ",
@@ -109,6 +109,6 @@
       "gloss": "và ông chết"
     }
   ],
-  "timestamp": "2026-08-19T03:53:55.653343688Z",
+  "timestamp": "2026-08-24T16:12:24.322107375Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "jonah",
   "lang": "vi",
   "chapter": 1,
-  "translation": "Hãy đứng dậy, hãy đi đến Ninhevê, ⟨⟨את⟩⟩ thành phố lớn đó, và hãy hô lên chống lại nó, vì sự ác của chúng đã lên lên trước mặt Ta.",
+  "translation": "Hãy đứng dậy, hãy đi đến Ninhevê, ⟨thành⟩ ⟨vĩ⟩ đại, và hãy kêu cáo chống lại nó, vì sự ác của chúng đã lên lên trước mặt Ta.",
   "tokens": [
     {
       "surface": "קום",
-      "gloss": "Hãy đứng dậy"
+      "gloss": "hãy đứng dậy"
     },
     {
       "surface": "לך",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "העיר",
-      "gloss": "thành phố"
+      "gloss": "⟨thành⟩"
     },
     {
       "surface": "הגדולה",
-      "gloss": "lớn đó"
+      "gloss": "vĩ đại"
     },
     {
       "surface": "וקרא",
-      "gloss": "và hãy hô lên"
+      "gloss": "và hãy kêu cáo"
     },
     {
       "surface": "עליה",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "לפני",
-      "gloss": "trước mặt"
+      "gloss": "trước mặt Ta"
     }
   ],
-  "timestamp": "2026-08-19T04:48:25.326831159Z",
+  "timestamp": "2026-08-24T16:19:22.235666163Z",
   "model": "glm-5.3"
 }

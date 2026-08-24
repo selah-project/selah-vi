@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "vi",
   "chapter": 22,
-  "translation": "Và David nói: Đây chính là ⟨⟨⟩⟩ nhà của Yahweh Elohim, và đây là bàn thờ cho của lễ thiêu của Yisrael.",
+  "translation": "Và David nói: Đây ⟨là⟩ nhà của Yahweh ⟨האלהים⟩ Elohim, và đây ⟨là⟩ bàn thờ để dâng lễ thiêu cho Yisrael.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "chính là"
+      "gloss": "⟨là⟩ chính nó"
     },
     {
       "surface": "בית",
@@ -45,13 +45,13 @@
     },
     {
       "surface": "לעלה",
-      "gloss": "cho của lễ thiêu"
+      "gloss": "để dâng lễ thiêu"
     },
     {
       "surface": "לישראל",
       "gloss": "cho Yisrael"
     }
   ],
-  "timestamp": "2026-08-19T05:51:53.417485666Z",
+  "timestamp": "2026-08-24T16:25:11.149504925Z",
   "model": "glm-5.3"
 }

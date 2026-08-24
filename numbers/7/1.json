@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 7,
-  "translation": "Và có-lẽ vào ngày Moshe kết-thúc dựng-lên ⟨את⟩ ⟨the⟩ Đền-Tạm, thì ông xức-dầu nó và thánh-hóa nó cùng ⟨את⟩ mọi dụng-cụ của nó, và ⟨את⟩ ⟨the⟩ bàn-thờ cùng ⟨את⟩ mọi dụng-cụ của nó; ông xức-dầu chúng và thánh-hóa ⟨את⟩ chúng.",
+  "translation": "Và đã xảy ra, vào ngày Moshe hoàn thành dựng lên ⟨את⟩ המשכן-Nơi-Tại, ông xức dầu ⟨את⟩ nó và thánh hóa ⟨את⟩ nó, và ⟨את⟩ mọi dụng cụ của nó, và ⟨את⟩ bàn thờ và ⟨את⟩ mọi dụng cụ của nó; ông xức dầu chúng và thánh hóa ⟨את⟩ chúng.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "và có-lẽ"
+      "gloss": "và đã xảy ra"
     },
     {
       "surface": "ביום",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "כלות",
-      "gloss": "kết-thúc"
+      "gloss": "hoàn thành"
     },
     {
       "surface": "משה",
@@ -25,39 +25,39 @@
     },
     {
       "surface": "להקים",
-      "gloss": "dựng-lên"
+      "gloss": "dựng lên"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Đền-Tạm"
+      "marks": "Nơi Tại"
     },
     {
       "surface": "המשכן",
-      "gloss": "Đền-Tạm"
+      "gloss": "Nơi Tại"
     },
     {
       "surface": "וימשח",
-      "gloss": "và xức-dầu"
+      "gloss": "và xức dầu"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ nó",
-      "marks": "Đền-Tạm"
+      "gloss": "⟨את⟩",
+      "marks": "nó (Nơi Tại)"
     },
     {
       "surface": "ויקדש",
-      "gloss": "và thánh-hóa"
+      "gloss": "và thánh hóa"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ nó",
-      "marks": "Đền-Tạm"
+      "gloss": "⟨את⟩",
+      "marks": "nó (Nơi Tại)"
     },
     {
       "surface": "ואת",
       "gloss": "và ⟨את⟩",
-      "marks": "mọi dụng-cụ của nó"
+      "marks": "mọi dụng cụ của nó"
     },
     {
       "surface": "כל",
@@ -65,21 +65,21 @@
     },
     {
       "surface": "כליו",
-      "gloss": "dụng-cụ của nó"
+      "gloss": "dụng cụ của nó"
     },
     {
       "surface": "ואת",
       "gloss": "và ⟨את⟩",
-      "marks": "bàn-thờ"
+      "marks": "bàn thờ"
     },
     {
       "surface": "המזבח",
-      "gloss": "bàn-thờ"
+      "gloss": "bàn thờ"
     },
     {
       "surface": "ואת",
       "gloss": "và ⟨את⟩",
-      "marks": "mọi dụng-cụ của nó"
+      "marks": "mọi dụng cụ của nó"
     },
     {
       "surface": "כל",
@@ -87,22 +87,22 @@
     },
     {
       "surface": "כליו",
-      "gloss": "dụng-cụ của nó"
+      "gloss": "dụng cụ của nó"
     },
     {
       "surface": "וימשחם",
-      "gloss": "và xức-dầu chúng"
+      "gloss": "và xức dầu chúng"
     },
     {
       "surface": "ויקדש",
-      "gloss": "và thánh-hóa"
+      "gloss": "và thánh hóa"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ chúng",
-      "marks": "chúng (Đền-Tạm và bàn-thờ với dụng-cụ)"
+      "gloss": "⟨את⟩",
+      "marks": "chúng"
     }
   ],
-  "timestamp": "2026-08-19T02:53:31.962081153Z",
+  "timestamp": "2026-08-24T16:06:55.072547174Z",
   "model": "glm-5.3"
 }

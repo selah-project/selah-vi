@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "vi",
   "chapter": 23,
-  "translation": "Vì theo những lời cuối cùng của David, ⟨⟨là⟩⟩ số bạc của con cháu Levi, từ hai mươi tuổi trở lên.",
+  "translation": "Vì theo những lời sau cùng của David, đó là số của con cháu Levi, từ tuổi hai mươi năm trở lên.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "vì"
+      "gloss": "Vì"
     },
     {
       "surface": "בדברי",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "האחרנים",
-      "gloss": "cuối cùng"
+      "gloss": "sau cùng"
     },
     {
       "surface": "המה",
-      "gloss": "⟨là⟩"
+      "gloss": "đó là"
     },
     {
       "surface": "מספר",
-      "gloss": "số bạc"
+      "gloss": "số"
     },
     {
       "surface": "בני",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "לוי",
-      "gloss": "Levi"
+      "gloss": "của Levi"
     },
     {
       "surface": "מבן",
@@ -56,6 +56,6 @@
       "gloss": "trở lên"
     }
   ],
-  "timestamp": "2026-08-19T05:52:33.576711468Z",
+  "timestamp": "2026-08-24T16:25:09.706493175Z",
   "model": "glm-5.3"
 }

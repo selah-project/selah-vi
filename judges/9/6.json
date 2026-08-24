@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "vi",
   "chapter": 9,
-  "translation": "Và tất cả các chủ nhân Shkhem và cả nhà Millo tụ họp lại, đi và tôn ⟨את⟩ Avimelekh làm vua, cạnh cây sồi tbody עם bia đứng ở Shkhem.",
+  "translation": "Vậy tất cả các ông chủ của Shkhem và cả nhà Millo đều tụ họp lại, đi đến và tôn Avimelekh làm vua, bên cây sồi với trụ đá dựng đặt tại Shkhem.",
   "tokens": [
     {
       "surface": "ויאספו",
-      "gloss": "và tụ họp lại"
+      "gloss": "thì tụ họp lại"
     },
     {
       "surface": "כל",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "בעלי",
-      "gloss": "các chủ nhân"
+      "gloss": "các ông chủ của"
     },
     {
       "surface": "שכם",
       "gloss": "Shkhem"
     },
     {
-      "surface": "וילכו",
-      "gloss": "và đi"
+      "surface": "וכל",
+      "gloss": "và tất cả"
     },
     {
       "surface": "בית",
@@ -36,8 +36,12 @@
       "gloss": "Millo"
     },
     {
+      "surface": "וילכו",
+      "gloss": "đi đến"
+    },
+    {
       "surface": "וימליכו",
-      "gloss": "và tôn làm vua"
+      "gloss": "thì tôn... làm vua"
     },
     {
       "surface": "את",
@@ -46,7 +50,7 @@
     },
     {
       "surface": "אבימלך",
-      "gloss": "⟨את⟩ Avimelekh"
+      "gloss": "Avimelekh"
     },
     {
       "surface": "למלך",
@@ -54,7 +58,7 @@
     },
     {
       "surface": "עם",
-      "gloss": "cạnh"
+      "gloss": "cùng với \/ bên"
     },
     {
       "surface": "אלון",
@@ -62,7 +66,7 @@
     },
     {
       "surface": "מצב",
-      "gloss": "bia đứng"
+      "gloss": "trụ đá dựng đặt"
     },
     {
       "surface": "אשר",
@@ -70,9 +74,9 @@
     },
     {
       "surface": "בשכם",
-      "gloss": "ở Shkhem"
+      "gloss": "tại Shkhem"
     }
   ],
-  "timestamp": "2026-08-19T03:25:13.270279872Z",
+  "timestamp": "2026-08-24T16:09:30.160849515Z",
   "model": "glm-5.3"
 }

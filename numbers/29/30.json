@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 29,
-  "translation": "Cùng lễ奋进 chay của chúng và lễ quán của chúng cho các con bò, cho các con cừu đực, và cho các chiên con, theo số lượng của chúng, theo quy định.",
+  "translation": "và lễ bánh của chúng, và lễ quán của chúng — cho các con bò đực, cho các con ram, và cho các con chiên con — theo số lượng của chúng, theo quy định;",
   "tokens": [
     {
       "surface": "ומנחתם",
-      "gloss": "và lễ chay của chúng"
+      "gloss": "và lễ bánh của chúng"
     },
     {
       "surface": "ונסכיהם",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "לפרים",
-      "gloss": "cho các con bò"
+      "gloss": "cho các con bò đực"
     },
     {
-      "surface": "לאילים",
-      "gloss": "cho các con cừu đực"
+      "surface": "לאילם",
+      "gloss": "cho các con ram"
     },
     {
       "surface": "ולכבשים",
-      "gloss": "và cho các chiên con"
+      "gloss": "và cho các con chiên con"
     },
     {
       "surface": "במספרם",
@@ -36,6 +36,6 @@
       "gloss": "theo quy định"
     }
   ],
-  "timestamp": "2026-08-19T03:01:37.299376692Z",
+  "timestamp": "2026-08-24T16:07:20.641245173Z",
   "model": "glm-5.3"
 }

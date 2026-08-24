@@ -5,20 +5,20 @@
   "book": "1-kings",
   "lang": "vi",
   "chapter": 18,
-  "translation": "Và他用 các hòn đá ấy xây một bàn thờ nhân danh Yahweh; và ông làm một mương rãnh, rộng bằng lượng hai se-át hạt giống, chung quanh bàn thờ.",
+  "translation": "Và ông xây ⟨את⟩ những viên đá thành một bàn thờ trong danh Yahweh, và ông làm một mương rãnh như thể tích hai sê-a hạt giống, bao quanh bàn thờ.",
   "tokens": [
     {
       "surface": "ויבנה",
-      "gloss": "ông xây"
+      "gloss": "và ông xây"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "các hòn đá"
+      "marks": "những viên đá"
     },
     {
       "surface": "האבנים",
-      "gloss": "các hòn đá"
+      "gloss": "những viên đá"
     },
     {
       "surface": "מזבח",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "בשם",
-      "gloss": "nhân danh"
+      "gloss": "trong danh"
     },
     {
       "surface": "יהוה",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "ויעש",
-      "gloss": "ông làm"
+      "gloss": "và ông làm"
     },
     {
       "surface": "תעלה",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "כבית",
-      "gloss": "rộng bằng lượng"
+      "gloss": "như thể tích"
     },
     {
       "surface": "סאתים",
-      "gloss": "hai se-át"
+      "gloss": "hai sê-a"
     },
     {
       "surface": "זרע",
@@ -54,13 +54,13 @@
     },
     {
       "surface": "סביב",
-      "gloss": "chung quanh"
+      "gloss": "bao quanh"
     },
     {
       "surface": "למזבח",
       "gloss": "bàn thờ"
     }
   ],
-  "timestamp": "2026-08-19T03:54:04.237860855Z",
+  "timestamp": "2026-08-24T16:12:33.073885782Z",
   "model": "glm-5.3"
 }

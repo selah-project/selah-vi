@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "vi",
   "chapter": 25,
-  "translation": "Cùng toàn bộ vàng và bạc, và ⟨את⟩ mọi dụng cụ được tìm thấy trong nhà ⟨của⟩ Elohim với Oved-Edom, và ⟨את⟩ các kho tàng của nhà vua, và ⟨את⟩ các con tin, người trở về Shomron.",
+  "translation": "Và tất cả vàng bạc, và ⟨את⟩ tất cả các đồ vật được tìm thấy trong nhà của Elohim cùng với Oved-Edom, và ⟨את⟩ các kho tàng nhà vua, và ⟨את⟩ các con tin, người trở về Shomron.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "và toàn bộ"
+      "gloss": "và tất cả"
     },
     {
       "surface": "הזהב",
@@ -21,16 +21,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "mọi dụng cụ"
+      "gloss": "và ⟨את⟩",
+      "marks": "tất cả các đồ vật"
     },
     {
       "surface": "כל",
-      "gloss": "mọi"
+      "gloss": "tất cả"
     },
     {
       "surface": "הכלים",
-      "gloss": "dụng cụ"
+      "gloss": "các đồ vật"
     },
     {
       "surface": "הנמצאים",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohim"
+      "gloss": "của Elohim"
     },
     {
       "surface": "עם",
-      "gloss": "với"
+      "gloss": "cùng với"
     },
     {
       "surface": "עבד",
@@ -58,8 +58,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "các kho tàng"
+      "gloss": "và ⟨את⟩",
+      "marks": "các kho tàng nhà vua"
     },
     {
       "surface": "אצרות",
@@ -67,24 +67,24 @@
     },
     {
       "surface": "בית",
-      "gloss": "của nhà"
+      "gloss": "nhà"
     },
     {
       "surface": "המלך",
-      "gloss": "vua"
+      "gloss": "của vua"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "và ⟨את⟩",
       "marks": "các con tin"
     },
     {
       "surface": "בני",
-      "gloss": "các con"
+      "gloss": "các con của"
     },
     {
       "surface": "התערבות",
-      "gloss": "tin (con tin) а"
+      "gloss": "con tin (sự bảo đảm)"
     },
     {
       "surface": "וישב",
@@ -95,6 +95,6 @@
       "gloss": "Shomron"
     }
   ],
-  "timestamp": "2026-08-19T05:59:37.599011125Z",
+  "timestamp": "2026-08-24T16:26:09.088001094Z",
   "model": "glm-5.3"
 }

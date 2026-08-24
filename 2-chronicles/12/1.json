@@ -5,8 +5,58 @@
   "book": "2-chronicles",
   "lang": "vi",
   "chapter": 12,
-  "translation": "Xảy ra là, khi vương quyền của Rechavam đã vững立 và khi ⟨hắn⟩ đã mạnh, hắn bɔɾ bỏ ⟨את⟩ luật pháp của Yahweh, và toàn thể Yisrael cùng với hắn.",
-  "tokens": [],
-  "timestamp": "2026-08-19T05:56:05.607274966Z",
+  "translation": "Và có chuyện vậy: khi vương quốc của Rechavam đã được vững chắc và khi ông đã mạnh mẽ, ông đã bỏ ⟨את⟩ lề luật của Yahweh, và cả Yisrael cùng với ông.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "và có chuyện vậy"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "khi đã được vững chắc"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "vương quốc"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechavam"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "và khi ông mạnh mẽ"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "đã bỏ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lề luật"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "lề luật của"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "và cả"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "cùng với ông"
+    }
+  ],
+  "timestamp": "2026-08-24T16:25:17.710315787Z",
   "model": "glm-5.3"
 }

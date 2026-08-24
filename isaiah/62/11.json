@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "vi",
   "chapter": 62,
-  "translation": "Này, Yahweh đã truyền-ra đến tận cùng đất: Hãy nói với con-gái Tsiyon: Này, sự cứu của ngươi đang đến; này, phần thưởng của Ngài ⟨את⟩ ⟨אתו⟩ cùng Ngài, và công-trình của Ngài trước mặt Ngài.",
+  "translation": "Này, Yahweh đã truyền ra cho đến tận cùng đất: Hãy nói với con gái Tsiyon: Này, sự giải cứu của ngươi đang đến; này, phần thưởng của Ngài ở cùng ⟨את⟩ Ngài, và công việc của Ngài đi trước mặt Ngài.",
   "tokens": [
     {
       "surface": "הנה",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "השמיע",
-      "gloss": "đã truyền-ra"
+      "gloss": "đã truyền ra"
     },
     {
       "surface": "אל",
-      "gloss": "đến"
+      "gloss": "cho đến"
     },
     {
       "surface": "קצה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "לבת",
-      "gloss": "với con-gái"
+      "gloss": "với con gái"
     },
     {
       "surface": "ציון",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ישעך",
-      "gloss": "sự cứu của ngươi"
+      "gloss": "sự giải cứu của ngươi"
     },
     {
       "surface": "בא",
@@ -65,17 +65,18 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩"
+      "gloss": "⟨את⟩",
+      "marks": "ở cùng Ngài"
     },
     {
       "surface": "ופעלתו",
-      "gloss": "và công-trình của Ngài"
+      "gloss": "và công việc của Ngài"
     },
     {
       "surface": "לפניו",
       "gloss": "trước mặt Ngài"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.045343496Z",
+  "timestamp": "2026-08-24T16:14:52.161189620Z",
   "model": "glm-5.3"
 }

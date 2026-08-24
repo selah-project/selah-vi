@@ -5,7 +5,7 @@
   "book": "esther",
   "lang": "vi",
   "chapter": 9,
-  "translation": "Trong ngày ấy, con số những người bị giết tại Shushan ⟨⟨the⟩ citadel⟩ đã được đưa đến trước mặt vua.",
+  "translation": "Trong ngày đó, số lượng những người bị giết tại Shushan ⟨ה⟩ khu hành dinh đã được đưa đến trước mặt ⟨ה⟩ vua.",
   "tokens": [
     {
       "surface": "ביום",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ההוא",
-      "gloss": "ấy"
+      "gloss": "đó"
     },
     {
       "surface": "בא",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "מספר",
-      "gloss": "con số"
+      "gloss": "số lượng"
     },
     {
       "surface": "ההרוגים",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הבירה",
-      "gloss": "citadel"
+      "gloss": "khu hành dinh"
     },
     {
       "surface": "לפני",
@@ -44,6 +44,6 @@
       "gloss": "vua"
     }
   ],
-  "timestamp": "2026-08-19T05:35:42.984205493Z",
+  "timestamp": "2026-08-24T16:23:14.423380996Z",
   "model": "glm-5.3"
 }

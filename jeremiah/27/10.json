@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "vi",
   "chapter": 27,
-  "translation": "Vì chúng nói tiên tri ⟨điều⟩ dối trá cho các ngươi, hầu cho các ngươi bị đẩy xa khỏi đất đai của các ngươi, và Ta sẽ đày các ngươi đi, và các ngươi sẽ灭亡 ⟨hư mất⟩.",
+  "translation": "Vì chúng đang nói tiên tri điều dối-trá cho các ngươi, nhằm dời các ngươi ⟨אתכם⟩ xa khỏi đất đai của các ngươi, và ta sẽ đày các ngươi ⟨אתכם⟩ đi, và các ngươi sẽ bị diệt vong.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "שקר",
-      "gloss": "sự dối trá"
+      "gloss": "sự dối-trá"
     },
     {
       "surface": "הם",
@@ -21,45 +21,47 @@
     },
     {
       "surface": "נבאים",
-      "gloss": "nói tiên tri"
+      "gloss": "đang-nói-tiên-tri"
     },
     {
       "surface": "לכם",
-      "gloss": "cho các ngươi"
+      "gloss": "cho-các-ngươi"
     },
     {
       "surface": "למען",
-      "gloss": "hầu cho"
+      "gloss": "nhằm-để"
     },
     {
       "surface": "הרחיק",
-      "gloss": "đẩy xa"
+      "gloss": "dời-xa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ các ngươi"
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "marks": "các ngươi"
     },
     {
       "surface": "מעל",
-      "gloss": "khỏi"
+      "gloss": "khỏi-trên"
     },
     {
       "surface": "אדמתכם",
-      "gloss": "đất đai của các ngươi"
+      "gloss": "đất-đai-của-các-ngươi"
     },
     {
       "surface": "והדחתי",
-      "gloss": "và Ta sẽ đày"
+      "gloss": "và-ta-đã-sẽ-đày-đi"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ các ngươi"
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "marks": "các ngươi"
     },
     {
       "surface": "ואבדתם",
-      "gloss": "và các ngươi sẽ hư mất"
+      "gloss": "và-các-ngươi-sẽ-bị-diệt"
     }
   ],
-  "timestamp": "2026-08-19T04:23:27.194985642Z",
+  "timestamp": "2026-08-24T16:58:27.512497214Z",
   "model": "glm-5.3"
 }

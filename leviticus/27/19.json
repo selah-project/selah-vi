@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "vi",
   "chapter": 27,
-  "translation": "Và nếu người thánh hóa nó thật sự chuộc lại ⟨את⟩ cánh đồng, thì người ấy phải thêm một phần năm bạc theo định giá của ngươi lên trên nó, và nó sẽ được确立 cho người ấy.",
+  "translation": "Và nếu người chuộc lại truly-chuộc ⟨את⟩ cánh đồng — người đã把它thánh-chiếnlà-hoá nó — thì phải thêm một phần năm bạc của định-giá ngươi lên trên nó, và nó sẽ đứng vững cho ông ta.",
   "tokens": [
     {
       "surface": "ואם",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "גאל",
-      "gloss": "chuộc lại (thật sự)"
+      "gloss": "chuộc lại"
     },
     {
       "surface": "יגאל",
-      "gloss": "người ấy chuộc"
+      "gloss": "thật-sự chuộc"
     },
     {
       "surface": "את",
@@ -30,16 +30,16 @@
     },
     {
       "surface": "המקדיש",
-      "gloss": "người thánh hóa"
+      "gloss": "người thánh-chiến-là-hoá"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩-nó",
-      "marks": "cánh đồng (tân ngữ)"
+      "gloss": "⟨את⟩ nó",
+      "marks": "cánh đồng"
     },
     {
       "surface": "ויסף",
-      "gloss": "và người ấy thêm"
+      "gloss": "thì thêm"
     },
     {
       "surface": "חמשית",
@@ -51,7 +51,7 @@
     },
     {
       "surface": "ערכך",
-      "gloss": "định giá của ngươi"
+      "gloss": "định-giá của ngươi"
     },
     {
       "surface": "עליו",
@@ -59,13 +59,13 @@
     },
     {
       "surface": "וקם",
-      "gloss": "và nó sẽ được确立"
+      "gloss": "và sẽ đứng vững"
     },
     {
       "surface": "לו",
-      "gloss": "cho người ấy"
+      "gloss": "cho ông ta"
     }
   ],
-  "timestamp": "2026-08-19T02:51:16.654230869Z",
+  "timestamp": "2026-08-24T16:05:51.930631980Z",
   "model": "glm-5.3"
 }

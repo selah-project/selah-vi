@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "vi",
   "chapter": 28,
-  "translation": "Yahweh sẽ làm ⟨את⟩ dịch bệnh dính chặt vào ngươi, cho đến khi Ngài tiêu diệt ngươi khỏi ⟨the⟩ đất mà ngươi đến đó để chiếm lấy nó.",
+  "translation": "Yahweh sẽ khiến ôn dịch dính chặt vào ngươi — ⟨את⟩ trận dịch ấy — cho đến khi Ngài tận diệt ngươi khỏi trên mặt đất mà ngươi vào đó để chiếm lấy nó.",
   "tokens": [
     {
       "surface": "ידבק",
-      "gloss": "sẽ làm dính chặt"
+      "gloss": "sẽ khiến dính chặt"
     },
     {
       "surface": "יהוה",
@@ -22,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dịch bệnh"
+      "marks": "trận dịch"
     },
     {
       "surface": "הדבר",
-      "gloss": "dịch bệnh"
+      "gloss": "trận dịch (bệnh tật)"
     },
     {
       "surface": "עד",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "כלתו",
-      "gloss": "Ngài tiêu diệt"
+      "gloss": "Ngài tận diệt"
     },
     {
       "surface": "אתך",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "האדמה",
-      "gloss": "đất"
+      "gloss": "mặt đất"
     },
     {
       "surface": "אשר",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "בא",
-      "gloss": "đến"
+      "gloss": "vào"
     },
     {
       "surface": "שמה",
@@ -69,6 +69,6 @@
       "gloss": "để chiếm lấy nó"
     }
   ],
-  "timestamp": "2026-08-19T03:12:36.172778311Z",
+  "timestamp": "2026-08-24T16:08:37.818553003Z",
   "model": "glm-5.3"
 }

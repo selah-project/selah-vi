@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "vi",
   "chapter": 6,
-  "translation": "Khi con trai ngươi hỏi ngươi trong thời tới, rằng: Những chứng cớ, những luật lệ, và những phán quyết nầy là gì, mà Yahweh Elohim của chúng ta đã truyền cho các ngươi ⟨את⟩ ⟨אתכם⟩?",
+  "translation": "Khi con trai ngươi hỏi ngươi mai sau, rằng: Các chứng cớ, các luật lệ và các phán quyết mà Yahweh Elohim của chúng ta đã truyền cho ⟨את⟩các ngươi là gì?",
   "tokens": [
     {
       "surface": "כי",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "ישאלך",
-      "gloss": "hỏi ngươi"
+      "gloss": "con trai ngươi hỏi ngươi"
     },
     {
       "surface": "בנך",
-      "gloss": "con trai ngươi"
+      "gloss": "con của ngươi"
     },
     {
       "surface": "מחר",
-      "gloss": "trong thời tới"
+      "gloss": "mai sau"
     },
     {
       "surface": "לאמר",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "מה",
-      "gloss": "là gì"
+      "gloss": "gì"
     },
     {
       "surface": "העדת",
-      "gloss": "những chứng cớ"
+      "gloss": "các chứng cớ"
     },
     {
       "surface": "והחקים",
-      "gloss": "và những luật lệ"
+      "gloss": "và các luật lệ"
     },
     {
       "surface": "והמשפטים",
-      "gloss": "và những phán quyết"
+      "gloss": "và các phán quyết"
     },
     {
       "surface": "אשר",
@@ -61,10 +61,10 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "cho các ngươi"
+      "gloss": "⟨את⟩các ngươi",
+      "marks": "các ngươi"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.022349292Z",
+  "timestamp": "2026-08-24T16:07:51.912045848Z",
   "model": "glm-5.3"
 }

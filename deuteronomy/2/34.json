@@ -5,28 +5,28 @@
   "book": "deuteronomy",
   "lang": "vi",
   "chapter": 2,
-  "translation": "Và chúng tôi chiếm lấy ⟨את⟩ mọi thành của hắn tại lúc ấy, và chúng tôi dành毁灭 hết thảy thành, người lớn, phụ nữ, và trẻ nhỏ; chúng tôi không chừa lại một người sống sót.",
+  "translation": "Chúng ta đã chiếm ⟨את⟩ toàn thể các thành của hắn vào lúc ấy, và chúng ta đã tận diệt ⟨את⟩ mỗi thành, ⟨the⟩ người lớn, cả ⟨the⟩ phụ nữ và ⟨the⟩ trẻ nhỏ; chúng ta không để lại một người sống sót nào.",
   "tokens": [
     {
       "surface": "ונלכד",
-      "gloss": "và chúng tôi chiếm lấy"
+      "gloss": "và đã chiếm"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mọi thành của hắn"
+      "marks": "toàn thể các thành của hắn"
     },
     {
       "surface": "כל",
-      "gloss": "mọi"
+      "gloss": "toàn thể"
     },
     {
       "surface": "עריו",
-      "gloss": "thành của hắn"
+      "gloss": "các thành của hắn"
     },
     {
       "surface": "בעת",
-      "gloss": "tại lúc"
+      "gloss": "vào lúc"
     },
     {
       "surface": "ההוא",
@@ -34,16 +34,16 @@
     },
     {
       "surface": "ונחרם",
-      "gloss": "và chúng tôi dành毁灭"
+      "gloss": "và đã tận diệt"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "thành, người lớn, phụ nữ, và trẻ nhỏ"
+      "marks": "mỗi thành, người lớn, phụ nữ và trẻ nhỏ"
     },
     {
       "surface": "כל",
-      "gloss": "hết thảy"
+      "gloss": "mỗi"
     },
     {
       "surface": "עיר",
@@ -55,11 +55,11 @@
     },
     {
       "surface": "והנשים",
-      "gloss": "và phụ nữ"
+      "gloss": "và các phụ nữ"
     },
     {
       "surface": "והטף",
-      "gloss": "và trẻ nhỏ"
+      "gloss": "và các trẻ nhỏ"
     },
     {
       "surface": "לא",
@@ -67,13 +67,13 @@
     },
     {
       "surface": "השארנו",
-      "gloss": "chúng tôi chừa lại"
+      "gloss": "chúng ta để lại"
     },
     {
       "surface": "שריד",
       "gloss": "người sống sót"
     }
   ],
-  "timestamp": "2026-08-19T03:04:58.819816169Z",
+  "timestamp": "2026-08-24T16:07:53.923839436Z",
   "model": "glm-5.3"
 }

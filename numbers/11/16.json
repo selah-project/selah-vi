@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 11,
-  "translation": "Và Yahweh phán cùng Moshe: Hãy tập họp cho Ta bảy mươi người trong các trưởng lão của Yisrael, mà ngươi biết rằng họ là trưởng lão của dân và các viên quan của dân; và ngươi sẽ đem ⟨את⟩ ⟨אתם⟩ chúng đến Lều Hội Kiến, và chúng sẽ đứng đó cùng ngươi.",
+  "translation": "Và Yahweh phán cùng Moshe: Hãy nhóm cho Ta bảy mươi người trong các trưởng lão của Yisrael, mà ngươi biết rằng họ là trưởng lão của dân sự và các quan cai của nó; và ngươi hãy đem ⟨את⟩ họ đến trại hội kiến, và họ sẽ đứng đó cùng ngươi.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "và Ngài phán"
+      "gloss": "Và phán"
     },
     {
       "surface": "יהוה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אספה",
-      "gloss": "hãy tập họp"
+      "gloss": "hãy nhóm"
     },
     {
       "surface": "לי",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "מזקני",
-      "gloss": "trong các trưởng lão"
+      "gloss": "trong các trưởng lão của"
     },
     {
       "surface": "ישראל",
@@ -65,24 +65,24 @@
     },
     {
       "surface": "זקני",
-      "gloss": "trưởng lão"
+      "gloss": "là trưởng lão"
     },
     {
       "surface": "העם",
-      "gloss": "của dân"
+      "gloss": "của dân sự"
     },
     {
       "surface": "ושטריו",
-      "gloss": "và các viên quan của dân"
+      "gloss": "và các quan cai của nó"
     },
     {
       "surface": "ולקחת",
-      "gloss": "và ngươi sẽ đem"
+      "gloss": "và ngươi hãy đem"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "chúng"
+      "gloss": "⟨את⟩",
+      "marks": "họ"
     },
     {
       "surface": "אל",
@@ -90,15 +90,15 @@
     },
     {
       "surface": "אהל",
-      "gloss": "Lều"
+      "gloss": "trại"
     },
     {
       "surface": "מועד",
-      "gloss": "Hội Kiến"
+      "gloss": "hội kiến"
     },
     {
       "surface": "והתיצבו",
-      "gloss": "và chúng sẽ đứng"
+      "gloss": "và họ sẽ đứng"
     },
     {
       "surface": "שם",
@@ -109,6 +109,6 @@
       "gloss": "cùng ngươi"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.047125504Z",
+  "timestamp": "2026-08-24T16:06:58.721386765Z",
   "model": "glm-5.3"
 }

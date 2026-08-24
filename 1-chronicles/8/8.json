@@ -5,19 +5,19 @@
   "book": "1-chronicles",
   "lang": "vi",
   "chapter": 8,
-  "translation": "Và Shaharaim sinh con tại đồng bằng Moav, sau khi ông đã rủa bỏ ⟨את⟩ ⟨אתם⟩ — Chushim và ⟨את⟩ Baara, các vợ ông.",
+  "translation": "Và Shacharayim sinh con tại đồng Moav sau khi ông gửi-di chuyển ⟨את⟩ họ đi — Chushim và ⟨את⟩ Baara, các vợ của ông.",
   "tokens": [
     {
       "surface": "ושחרים",
-      "gloss": "và Shaharaim"
+      "gloss": "và Shacharayim"
     },
     {
       "surface": "הוליד",
-      "gloss": "đã sinh"
+      "gloss": "sinh con"
     },
     {
       "surface": "בשדה",
-      "gloss": "tại đồng của"
+      "gloss": "tại đồng"
     },
     {
       "surface": "מואב",
@@ -25,16 +25,15 @@
     },
     {
       "surface": "מן",
-      "gloss": "sau khi (từ)"
+      "gloss": "sau khi"
     },
     {
       "surface": "שלחו",
-      "gloss": "ông đã rủa bỏ"
+      "gloss": "gửi-di chuyển"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "Chushim và Baara"
+      "gloss": "⟨את⟩ họ"
     },
     {
       "surface": "חושים",
@@ -42,7 +41,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "và ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Baara"
     },
     {
@@ -51,9 +50,9 @@
     },
     {
       "surface": "נשיו",
-      "gloss": "các vợ ông"
+      "gloss": "các vợ của ông"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.997285807Z",
+  "timestamp": "2026-08-24T16:27:17.419164443Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "vi",
   "chapter": 29,
-  "translation": "Kẻ nghèo và kẻ áp-bức gặp-gỡ nhau; Yahweh làm sáng ⟨את⟩ mắt cả hai — nhưng câu Hípri không có את; Yahweh là Đấng chiếu-sáng mắt của cả hai.",
+  "translation": "Kẻ nghèo và ⟨את⟩ kẻ áp bức cùng gặp nhau; Yahweh ⟨⟨là⟩⟩ Đấng làm sáng ⟨את⟩ mắt của cả hai.",
   "tokens": [
     {
       "surface": "רש",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "ואיש",
-      "gloss": "và (kẻ) ấy"
+      "gloss": "và kẻ"
     },
     {
       "surface": "תככים",
-      "gloss": "áp-bức"
+      "gloss": "áp bức"
     },
     {
       "surface": "נפגשו",
-      "gloss": "gặp-gỡ nhau"
+      "gloss": "cùng gặp nhau"
     },
     {
       "surface": "מאיר",
@@ -29,17 +29,17 @@
     },
     {
       "surface": "עיני",
-      "gloss": "mắt của"
+      "gloss": "mắt"
     },
     {
       "surface": "שניהם",
-      "gloss": "cả hai"
+      "gloss": "của cả hai"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-19T06:20:33.171514054Z",
+  "timestamp": "2026-08-24T16:22:22.184006194Z",
   "model": "glm-5.3"
 }

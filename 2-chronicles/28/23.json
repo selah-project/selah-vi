@@ -5,19 +5,19 @@
   "book": "2-chronicles",
   "lang": "vi",
   "chapter": 28,
-  "translation": "Và ông tế lễ cho các thần của Darmeshek là những kẻ đánh пораж ông, và nói: Vì các thần của các vua Aram giúp ⟨את⟩ chúng nó, nên tôi sẽ tế lễ cho chúng nó, và chúng nó sẽ giúp tôi. Nhưng chúng đã thành cớ vấp ngã cho ông và cho cả Yisrael.",
+  "translation": "Người ta giết tế cho các đức Chúa Trời (elohim) của Darméseq, những kẻ đánh败 ông; và ông nói: Vì các đức Chúa Trời của các vua Aramhelp họ, nên tôi sẽ giết tế cho họ, để họ giúp tôi. Nhưng chúng trở nên cớ vấp ngã cho ông và cho cả Yisrael.",
   "tokens": [
     {
       "surface": "ויזבח",
-      "gloss": "và ông tế lễ"
+      "gloss": "và người ta giết tế"
     },
     {
       "surface": "לאלהי",
-      "gloss": "cho các thần của"
+      "gloss": "cho các đức Chúa Trời (elohim) của"
     },
     {
       "surface": "דרמשק",
-      "gloss": "Darmeshek"
+      "gloss": "Darméseq"
     },
     {
       "surface": "המכים",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "và nói"
+      "gloss": "và ông nói"
     },
     {
       "surface": "כי",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "các thần của"
+      "gloss": "các đức Chúa Trời của"
     },
     {
       "surface": "מלכי",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "הם",
-      "gloss": "chúng"
+      "gloss": "họ"
     },
     {
       "surface": "מעזרים",
@@ -58,19 +58,19 @@
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "chúng nó (l'hem)"
+      "marks": "họ"
     },
     {
       "surface": "להם",
-      "gloss": "chúng nó"
+      "gloss": "cho họ"
     },
     {
       "surface": "אזבח",
-      "gloss": "tôi sẽ tế lễ"
+      "gloss": "tôi sẽ giết tế"
     },
     {
       "surface": "ויעזרוני",
-      "gloss": "và chúng sẽ giúp tôi"
+      "gloss": "để họ giúp tôi"
     },
     {
       "surface": "והם",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "היו",
-      "gloss": "đã thành"
+      "gloss": "trở nên"
     },
     {
       "surface": "לו",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "להכשילו",
-      "gloss": "cớ vấp ngã cho ông"
+      "gloss": "làm ông vấp ngã"
     },
     {
       "surface": "ולכל",
@@ -97,6 +97,6 @@
       "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-08-19T05:59:41.296008316Z",
+  "timestamp": "2026-08-24T16:25:46.444620413Z",
   "model": "glm-5.3"
 }

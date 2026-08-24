@@ -5,23 +5,24 @@
   "book": "2-chronicles",
   "lang": "vi",
   "chapter": 32,
-  "translation": "Và nay, chớ để Chizkiyahu làm ⟨אתכם⟩ lầm lạc, và chớ để nó xúi giục ⟨אתכם⟩ như vậy; chớ tin nó, vì không vị elohim nào của bất kỳ nước hay vương quốc nào thể cứu dân mình khỏi tay tôi và khỏi tay cha ông tôi — huống chi Elohim của các ngươi không sẽ cứu ⟨אתכם⟩ khỏi tay tôi!",
+  "translation": "Và bây giờ, đừng để Chizkiyahu lừa dối ⟨את⟩ các ngươi, và đừng để hắn xúi giục ⟨את⟩ các ngươi như vậy, và đừng tin hắn; vì không Elohim nào của bất kỳ dân nào và vương quốc nào có thể cứu dân mình khỏi tay tôi và khỏi tay các cha tôi — huống chi Elohim của các ngươi, các ngài sẽ không cứu ⟨את⟩ các ngươi khỏi tay tôi.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "và nay"
+      "gloss": "và bây giờ"
     },
     {
       "surface": "אל",
-      "gloss": "chớ"
+      "gloss": "đừng"
     },
     {
       "surface": "ישיא",
-      "gloss": "làm lầm lạc"
+      "gloss": "lừa dối"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩"
+      "gloss": "⟨את⟩ các ngươi",
+      "marks": "các ngươi"
     },
     {
       "surface": "חזקיהו",
@@ -29,7 +30,7 @@
     },
     {
       "surface": "ואל",
-      "gloss": "và chớ"
+      "gloss": "và đừng"
     },
     {
       "surface": "יסית",
@@ -37,7 +38,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩"
+      "gloss": "⟨את⟩ các ngươi",
+      "marks": "các ngươi"
     },
     {
       "surface": "כזאת",
@@ -45,15 +47,15 @@
     },
     {
       "surface": "ואל",
-      "gloss": "và chớ"
+      "gloss": "và đừng"
     },
     {
       "surface": "תאמינו",
-      "gloss": "tin"
+      "gloss": "các ngươi tin"
     },
     {
       "surface": "לו",
-      "gloss": "nó"
+      "gloss": "hắn"
     },
     {
       "surface": "כי",
@@ -65,15 +67,15 @@
     },
     {
       "surface": "יוכל",
-      "gloss": "thể"
+      "gloss": "có thể"
     },
     {
       "surface": "כל",
-      "gloss": "bất kỳ"
+      "gloss": "mọi"
     },
     {
       "surface": "אלוה",
-      "gloss": "vị elohim nào"
+      "gloss": "Eloah"
     },
     {
       "surface": "כל",
@@ -81,7 +83,7 @@
     },
     {
       "surface": "גוי",
-      "gloss": "nước"
+      "gloss": "dân"
     },
     {
       "surface": "וממלכה",
@@ -105,7 +107,7 @@
     },
     {
       "surface": "אבותי",
-      "gloss": "cha ông tôi"
+      "gloss": "các cha tôi"
     },
     {
       "surface": "אף",
@@ -129,13 +131,14 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩"
+      "gloss": "⟨את⟩ các ngươi",
+      "marks": "các ngươi"
     },
     {
       "surface": "מידי",
       "gloss": "khỏi tay tôi"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.003091002Z",
+  "timestamp": "2026-08-24T16:26:17.155016286Z",
   "model": "glm-5.3"
 }

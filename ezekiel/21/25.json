@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "vi",
   "chapter": 21,
-  "translation": "Ngươi hãy làm một con đường cho thanh gươm tiến đến ⟨את⟩ Rabbah của con cái Ammon, và ⟨את⟩ Yehudah tại Yerushalayim được укреп — ⟨trấn giữ kiên cố⟩.",
+  "translation": "Ngươi hãy làm một con đường cho gươm đến ⟨את⟩ Rabbah của con cái Ammon, và ⟨את⟩ Yehudah tại Yerushalayim, ⟨thành⟩ được củng cố.",
   "tokens": [
     {
       "surface": "דרך",
@@ -21,12 +21,12 @@
     },
     {
       "surface": "חרב",
-      "gloss": "thanh gươm"
+      "gloss": "gươm"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Rabbah"
+      "marks": "Rabbah của con cái Ammon"
     },
     {
       "surface": "רבת",
@@ -55,9 +55,9 @@
     },
     {
       "surface": "בצורה",
-      "gloss": "được trấn giữ kiên cố"
+      "gloss": "được củng cố"
     }
   ],
-  "timestamp": "2026-08-19T04:35:43.985797734Z",
+  "timestamp": "2026-08-24T16:17:32.038079618Z",
   "model": "glm-5.3"
 }

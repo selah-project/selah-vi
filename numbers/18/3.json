@@ -5,19 +5,19 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 18,
-  "translation": "Và họ sẽ canh giữ nhiệm vụ của ngươi và nhiệm vụ của cả ⟨the⟩ trại; chỉ riêng ⟨את⟩ các器具 của sự thánh và ⟨את⟩ bàn thờ, họ không được đến gần, hầu cho họ không chết — cả họ lẫn các ngươi.",
+  "translation": "Chúng nó canh giữ sự canh giữ của ngươi, và sự canh giữ của cả ⟨ה⟩ trại; chỉ ⟨rằng⟩ đối với các khí cụ của ⟨ה⟩ sự thánh và đối với ⟨ה⟩ bàn thờ, chúng nó không được đến gần, và không phải chết — cả chúng lẫn các ngươi.",
   "tokens": [
     {
       "surface": "ושמרו",
-      "gloss": "và họ sẽ canh giữ"
+      "gloss": "và chúng canh giữ"
     },
     {
       "surface": "משמרתך",
-      "gloss": "nhiệm vụ của ngươi"
+      "gloss": "sự canh giữ của ngươi"
     },
     {
       "surface": "ומשמרת",
-      "gloss": "và nhiệm vụ"
+      "gloss": "và sự canh giữ"
     },
     {
       "surface": "כל",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "אך",
-      "gloss": "chỉ riêng"
+      "gloss": "chỉ"
     },
     {
       "surface": "אל",
-      "gloss": "đến"
+      "gloss": "đối với"
     },
     {
       "surface": "כלי",
-      "gloss": "dụng cụ"
+      "gloss": "các khí cụ"
     },
     {
       "surface": "הקדש",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ואל",
-      "gloss": "và đến"
+      "gloss": "và đối với"
     },
     {
       "surface": "המזבח",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "יקרבו",
-      "gloss": "họ được đến gần"
+      "gloss": "được đến gần"
     },
     {
       "surface": "ולא",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "ימתו",
-      "gloss": "họ chết"
+      "gloss": "phải chết"
     },
     {
       "surface": "גם",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "הם",
-      "gloss": "họ"
+      "gloss": "chúng"
     },
     {
       "surface": "גם",
@@ -84,6 +84,6 @@
       "gloss": "các ngươi"
     }
   ],
-  "timestamp": "2026-08-19T02:58:40.254446021Z",
+  "timestamp": "2026-08-24T16:07:18.250710992Z",
   "model": "glm-5.3"
 }

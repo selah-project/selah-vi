@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "vi",
   "chapter": 21,
-  "translation": "Mười hai tuổi là Menasheh khi ⟨⟨ông⟩⟩ lên ngôi, và năm mươi lăm năm ⟨ông⟩ trị vì tại Yerushalayim; và tên mẹ ⟨ông⟩ là Cheftsi-vah.",
+  "translation": "Ben mười hai tuổi Menashsheh khi ⟨⟩ lên ngôi, và năm mươi lăm năm người trị vì tại Yerushalayim; và tên mẹ người ⟨là⟩ Cheftsi-vah.",
   "tokens": [
     {
       "surface": "בן",
-      "gloss": "tuổi (con)"
+      "gloss": "con"
     },
     {
       "surface": "שתים",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "שנה",
-      "gloss": "năm"
+      "gloss": "tuổi"
     },
     {
       "surface": "מנשה",
-      "gloss": "Menasheh"
+      "gloss": "Menashsheh"
     },
     {
       "surface": "במלכו",
-      "gloss": "khi ông lên ngôi"
+      "gloss": "khi lên ngôi"
     },
     {
       "surface": "וחמשים",
@@ -57,17 +57,17 @@
     },
     {
       "surface": "אמו",
-      "gloss": "mẹ ông"
+      "gloss": "mẹ người"
     },
     {
       "surface": "חפצי",
-      "gloss": "Cheftsi-"
+      "gloss": "Cheftsi"
     },
     {
       "surface": "בה",
       "gloss": "-vah"
     }
   ],
-  "timestamp": "2026-08-19T04:01:59.872034330Z",
+  "timestamp": "2026-08-24T16:13:03.759782951Z",
   "model": "glm-5.3"
 }

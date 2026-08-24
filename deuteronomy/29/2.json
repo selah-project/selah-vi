@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "vi",
   "chapter": 29,
-  "translation": "những sự thử thách lớn lao mà mắt ngươi đã thấy, ⟨⟨các⟩⟩ dấu kỳ và những phép lạ vĩ đại ⟨đó⟩",
+  "translation": "Những sự thử thách lớn lao mà mắt ngươi đã thấy, ⟨các⟩ dấu lạ và ⟨các⟩ phép lạ vĩ đại ⟨đó⟩.",
   "tokens": [
     {
       "surface": "המסות",
-      "gloss": "những sự thử thách"
+      "gloss": "các sự thử thách"
     },
     {
       "surface": "הגדלת",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "האתת",
-      "gloss": "các dấu kỳ"
+      "gloss": "các dấu lạ"
     },
     {
-      "surface": "והמפתים",
-      "gloss": "và những phép lạ"
+      "surface": "ו המפתים",
+      "gloss": "và các phép lạ"
     },
     {
       "surface": "הגדלים",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "ההם",
-      "gloss": "đó"
+      "gloss": "⟨đó⟩"
     }
   ],
-  "timestamp": "2026-08-19T03:13:14.061197016Z",
+  "timestamp": "2026-08-24T16:08:34.993648892Z",
   "model": "glm-5.3"
 }

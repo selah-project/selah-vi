@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "vi",
   "chapter": 2,
-  "translation": "Còn Avner con trai Ner, tướng quân đội của Sha-ul, đã bắt ⟨את⟩ Ish-Boshet con trai Sha-ul và đưa ⟨ה⟩ngài qua Machanayim.",
+  "translation": "Còn Avner con trai Ner, chỉ huy đạo quân của Shaúl, đã bắt ⟨את⟩ Ish-Boshet con trai Shaúl, và đưa người qua Machanaim.",
   "tokens": [
     {
       "surface": "ואבנר",
-      "gloss": "và Avner"
+      "gloss": "Còn Avner"
     },
     {
       "surface": "בן",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "שר",
-      "gloss": "tướng"
+      "gloss": "chỉ huy"
     },
     {
       "surface": "צבא",
-      "gloss": "quân đội"
+      "gloss": "đạo quân"
     },
     {
       "surface": "אשר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "לשאול",
-      "gloss": "của Sha-ul"
+      "gloss": "của Shaúl"
     },
     {
       "surface": "לקח",
@@ -42,7 +42,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Ish-Boshet"
+      "marks": "Ish-Boshet con trai Shaúl"
     },
     {
       "surface": "איש",
@@ -58,17 +58,17 @@
     },
     {
       "surface": "שאול",
-      "gloss": "Sha-ul"
+      "gloss": "Shaúl"
     },
     {
       "surface": "ויעברהו",
-      "gloss": "và đưa ngài qua"
+      "gloss": "và đưa người qua"
     },
     {
       "surface": "מחנים",
-      "gloss": "Machanayim"
+      "gloss": "Machanaim"
     }
   ],
-  "timestamp": "2026-08-19T06:08:38.049551250Z",
+  "timestamp": "2026-08-24T16:26:26.023880091Z",
   "model": "glm-5.3"
 }

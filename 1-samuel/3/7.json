@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "vi",
   "chapter": 3,
-  "translation": "Còn Shemuël thì chưa biết ⟨את⟩ Yahweh, và lời Yahweh chưa được tỏ ra cho 〈ngài〉... cho 〈anh ta〉.",
+  "translation": "Còn Shemuël thì chưa biết ⟨את⟩ Yahweh, và chưa có lời của Yahweh được bộc lộ cho ⟨anh⟩.",
   "tokens": [
     {
       "surface": "ושמואל",
-      "gloss": "còn Shemuël"
+      "gloss": "còn-Shemuël"
     },
     {
       "surface": "טרם",
@@ -30,15 +30,15 @@
     },
     {
       "surface": "וטרם",
-      "gloss": "và chưa"
+      "gloss": "và-chưa"
     },
     {
       "surface": "יגלה",
-      "gloss": "được tỏ ra"
+      "gloss": "được-bộc-lộ"
     },
     {
       "surface": "אליו",
-      "gloss": "cho anh ta"
+      "gloss": "cho-anh"
     },
     {
       "surface": "דבר",
@@ -49,6 +49,6 @@
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-19T03:29:44.914742789Z",
+  "timestamp": "2026-08-24T16:10:47.954570883Z",
   "model": "glm-5.3"
 }

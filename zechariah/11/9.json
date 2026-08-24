@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "vi",
   "chapter": 11,
-  "translation": "Và ta nói: Ta sẽ không chăn ⟨אתכ׶ם⟩ các ngươi nữa; ⟨cái⟩ chết hãy chết, và ⟨cái⟩ bị hủy diệt hãy bị hủy diệt, và những kẻ còn lại — đàn bà mỗi người hãy ăn ⟨את⟩ thịt bạn đồng bọn mình.",
+  "translation": "Và ta nói: Ta sẽ không chăn ⟨אתכם⟩ các ngươi; kẻ chết thì cứ chết, kẻ bị hủy thì cứ bị hủy, và những kẻ còn lại, từng người hãy ăn ⟨את⟩ thịt của bạn đồng bạn mình.",
   "tokens": [
     {
       "surface": "ואמר",
@@ -22,23 +22,23 @@
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩ các ngươi",
-      "marks": "các ngươi"
+      "marks": "các ngươi (tân ngữ)"
     },
     {
       "surface": "המתה",
-      "gloss": "cái chết"
+      "gloss": "kẻ chết"
     },
     {
       "surface": "תמות",
-      "gloss": "hãy chết"
+      "gloss": "thì cứ chết"
     },
     {
       "surface": "והנכחדת",
-      "gloss": "và cái bị hủy diệt"
+      "gloss": "và kẻ bị hủy"
     },
     {
       "surface": "תכחד",
-      "gloss": "hãy bị hủy diệt"
+      "gloss": "thì cứ bị hủy"
     },
     {
       "surface": "והנשארות",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "תאכלנה",
-      "gloss": "chúng hãy ăn"
+      "gloss": "hãy ăn"
     },
     {
       "surface": "אשה",
-      "gloss": "đàn bà mỗi người"
+      "gloss": "từng người"
     },
     {
       "surface": "את",
@@ -63,9 +63,9 @@
     },
     {
       "surface": "רעותה",
-      "gloss": "bạn đồng bắn mình"
+      "gloss": "của bạn đồng bạn mình"
     }
   ],
-  "timestamp": "2026-08-19T04:53:34.802918391Z",
+  "timestamp": "2026-08-24T16:19:32.901944594Z",
   "model": "glm-5.3"
 }

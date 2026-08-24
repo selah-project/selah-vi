@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "vi",
   "chapter": 37,
-  "translation": "Và sứ giả của Yahweh đi ra và đánh trong trại binh của Ashshur một trăm và tám mươi và năm ngàn; và họ thức dậy sớm vào buổi sáng, và kìa, tất cả ⟨là⟩ xác chết已 chết.",
+  "translation": "Và sứ giả của Yahweh đi ra, và đánh vào trại của Ashshur một trăm và tám mươi và năm ngàn; và họ thức dậy sớm lúc bình minh, và kìa, tất cả họ ⟨là⟩ xác chết đã chết.",
   "tokens": [
     {
       "surface": "ויצא",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "במחנה",
-      "gloss": "trong trại binh"
+      "gloss": "vào trại"
     },
     {
       "surface": "אשור",
-      "gloss": "của Ashshur"
+      "gloss": "Ashshur"
     },
     {
       "surface": "מאה",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "בבקר",
-      "gloss": "vào buổi sáng"
+      "gloss": "lúc sáng sớm"
     },
     {
       "surface": "והנה",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "כלם",
-      "gloss": "tất cả"
+      "gloss": "tất cả họ"
     },
     {
       "surface": "פגרים",
@@ -72,6 +72,6 @@
       "gloss": "đã chết"
     }
   ],
-  "timestamp": "2026-08-19T06:12:49.787693410Z",
+  "timestamp": "2026-08-24T16:14:31.658907640Z",
   "model": "glm-5.3"
 }

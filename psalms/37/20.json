@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "vi",
   "chapter": 37,
-  "translation": "Vì kẻ ác sẽ灭亡 diệt vong, và kẻ thù của Yahweh như sự quý báu của chiên đực — chúng sẽ hết; như khói chúng sẽ tan hết.",
+  "translation": "Vì kẻ gian ác sẽ diệt vong, và kẻ thù của Yahweh như mỡ ⟨của⟩ chiên đực — chúng sẽ tan hết, như khói chúng sẽ tan hết.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Vì"
+      "gloss": "vì"
     },
     {
       "surface": "רשעים",
-      "gloss": "kẻ ác"
+      "gloss": "kẻ gian ác"
     },
     {
       "surface": "יאבדו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "כיקר",
-      "gloss": "như sự quý báu của"
+      "gloss": "như mỡ quí"
     },
     {
       "surface": "כרים",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "כלו",
-      "gloss": "chúng sẽ hết"
+      "gloss": "chúng sẽ tan hết"
     },
     {
       "surface": "בעשן",
@@ -48,6 +48,6 @@
       "gloss": "chúng sẽ tan hết"
     }
   ],
-  "timestamp": "2026-08-19T04:59:10.111688602Z",
+  "timestamp": "2026-08-24T16:20:30.681925241Z",
   "model": "glm-5.3"
 }

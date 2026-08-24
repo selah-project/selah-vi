@@ -5,32 +5,32 @@
   "book": "leviticus",
   "lang": "vi",
   "chapter": 18,
-  "translation": "Và ⟨với את⟩ người nam, ngươi chớ nằm như nằm với người nữ; điều gớm ghiếc nó ⟨là⟩.",
+  "translation": "Và ⟨את⟩ con trai, ngươi không nằm với như nằm với phụ nữ — đó là điều gớm ghiếc.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "và ⟨את⟩",
-      "marks": "người nam"
+      "marks": "con trai (đối tượng bị hạn định)"
     },
     {
       "surface": "זכר",
-      "gloss": "người nam"
+      "gloss": "con trai \/ giống đực"
     },
     {
       "surface": "לא",
-      "gloss": "chớ"
+      "gloss": "không"
     },
     {
       "surface": "תשכב",
-      "gloss": "ngươi nằm"
+      "gloss": "ngươi nằm với"
     },
     {
       "surface": "משכבי",
-      "gloss": "nằm với"
+      "gloss": "như cách nằm của"
     },
     {
       "surface": "אשה",
-      "gloss": "người nữ"
+      "gloss": "phụ nữ"
     },
     {
       "surface": "תועבה",
@@ -38,9 +38,9 @@
     },
     {
       "surface": "הוא",
-      "gloss": "nó"
+      "gloss": "đó là"
     }
   ],
-  "timestamp": "2026-08-19T02:45:14.167153171Z",
+  "timestamp": "2026-08-24T16:05:57.713054447Z",
   "model": "glm-5.3"
 }

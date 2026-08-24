@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "vi",
   "chapter": 23,
-  "translation": "Vì vậy,thus — così — sic — так —,nach —N13 thus says Yahweh of hosts concerning the prophets: Behold, I am feeding them wormwood, and giving them water of poison to drink; for from ⟨את⟩ the prophets of Yerushalayim hypocrisy has gone out to all the land.",
+  "translation": "Vì vậy, như vậy Yahweh các đạo binh đã phán về các ngôn sứ: Này, Ta sẽ cho chúng ăn ngải đắng, và Ta sẽ cho chúng uống nước độc, vì từ ⟨את⟩ các ngôn sứ của Yerushalayim đã đi ra sự giả hình ⟨đến⟩ khắp ⟨cả⟩ đất.",
   "tokens": [
     {
       "surface": "לכן",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "כה",
-      "gloss": "thus"
+      "gloss": "như vậy"
     },
     {
       "surface": "אמר",
-      "gloss": "has said"
+      "gloss": "đã phán"
     },
     {
       "surface": "יהוה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "của các đạo quân"
+      "gloss": "các đạo binh"
     },
     {
       "surface": "על",
@@ -33,27 +33,28 @@
     },
     {
       "surface": "הנבאים",
-      "gloss": "các tiên tri"
+      "gloss": "các ngôn sứ"
     },
     {
       "surface": "הנני",
-      "gloss": "này, Ta"
+      "gloss": "này"
     },
     {
       "surface": "מאכיל",
-      "gloss": "đang cho ăn"
+      "gloss": "Ta cho ăn"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ họ"
+      "gloss": "⟨את⟩",
+      "marks": "chúng (các ngôn sứ)"
     },
     {
       "surface": "לענה",
-      "gloss": "ngải cứu đắng"
+      "gloss": "ngải đắng"
     },
     {
       "surface": "והשקתים",
-      "gloss": "và Ta sẽ cho họ uống"
+      "gloss": "và Ta cho uống"
     },
     {
       "surface": "מי",
@@ -73,7 +74,7 @@
     },
     {
       "surface": "נביאי",
-      "gloss": "các tiên tri của"
+      "gloss": "các ngôn sứ của"
     },
     {
       "surface": "ירושלם",
@@ -85,17 +86,17 @@
     },
     {
       "surface": "חנפה",
-      "gloss": "sự đạo đức giả"
+      "gloss": "sự giả hình"
     },
     {
       "surface": "לכל",
-      "gloss": "đến khắp"
+      "gloss": "⟨đến⟩ khắp"
     },
     {
       "surface": "הארץ",
       "gloss": "đất"
     }
   ],
-  "timestamp": "2026-08-19T04:22:53.227666774Z",
+  "timestamp": "2026-08-24T16:16:28.433417795Z",
   "model": "glm-5.3"
 }

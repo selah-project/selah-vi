@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 31,
-  "translation": "Con cái Yisrael bắt làm俘虏 ⟨את⟩ những người đàn bà Midian và ⟨את⟩ trẻ nhỏ của họ, và ⟨את⟩ tất cả súc vật của họ, và ⟨את⟩ tất cả gia súc của họ, và ⟨את⟩ tất cả tài sản của họ, họ đã cướp lấy.",
+  "translation": "Và con cháu của Yisrael bắt làm俘虏 ⟨את⟩ những phụ nữ của Midian và ⟨את⟩ trẻ nhỏ của chúng, và ⟨את⟩ tất cả súc vật của chúng, và ⟨את⟩ tất cả gia súc của chúng, và ⟨את⟩ tất cả tài sản của chúng — họ đã cướp phá.",
   "tokens": [
     {
       "surface": "וישבו",
-      "gloss": "đã bắt làm tù binh"
+      "gloss": "và đã bắt làm tù binh"
     },
     {
       "surface": "בני",
-      "gloss": "con cái của"
+      "gloss": "con cháu"
     },
     {
       "surface": "ישראל",
@@ -22,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "những người đàn bà Midian"
+      "marks": "những phụ nữ của Midian"
     },
     {
       "surface": "נשי",
-      "gloss": "những người đàn bà của"
+      "gloss": "những phụ nữ"
     },
     {
       "surface": "מדין",
@@ -35,16 +35,16 @@
     {
       "surface": "ואת",
       "gloss": "và ⟨את⟩",
-      "marks": "trẻ nhỏ của họ"
+      "marks": "trẻ nhỏ của chúng"
     },
     {
       "surface": "טפם",
-      "gloss": "trẻ nhỏ của họ"
+      "gloss": "trẻ nhỏ của chúng"
     },
     {
       "surface": "ואת",
       "gloss": "và ⟨את⟩",
-      "marks": "tất cả súc vật của họ"
+      "marks": "tất cả súc vật của chúng"
     },
     {
       "surface": "כל",
@@ -52,12 +52,12 @@
     },
     {
       "surface": "בהמתם",
-      "gloss": "súc vật của họ"
+      "gloss": "súc vật của chúng"
     },
     {
       "surface": "ואת",
       "gloss": "và ⟨את⟩",
-      "marks": "tất cả gia súc của họ"
+      "marks": "tất cả gia súc của chúng"
     },
     {
       "surface": "כל",
@@ -65,12 +65,12 @@
     },
     {
       "surface": "מקנהם",
-      "gloss": "gia súc của họ"
+      "gloss": "gia súc của chúng"
     },
     {
       "surface": "ואת",
       "gloss": "và ⟨את⟩",
-      "marks": "tất cả tài sản của họ"
+      "marks": "tất cả tài sản của chúng"
     },
     {
       "surface": "כל",
@@ -78,13 +78,13 @@
     },
     {
       "surface": "חילם",
-      "gloss": "tài sản của họ"
+      "gloss": "tài sản của chúng"
     },
     {
       "surface": "בזזו",
-      "gloss": "họ đã cướp lấy"
+      "gloss": "họ đã cướp phá"
     }
   ],
-  "timestamp": "2026-08-19T03:03:04.380934363Z",
+  "timestamp": "2026-08-24T16:07:33.727449908Z",
   "model": "glm-5.3"
 }

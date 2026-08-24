@@ -5,8 +5,29 @@
   "book": "psalms",
   "lang": "vi",
   "chapter": 119,
-  "translation": "Cơn khát khao ⟨vì⟩ sự cứu giúp của Ngài đã làm cạn exhausted tánh linh tôi; vì lời Ngài tôi trông đợi.",
-  "tokens": [],
-  "timestamp": "2026-08-19T05:11:12.353232208Z",
+  "translation": "Lin-hồn tôi cạn kiệt ⟨vì⟩ sự cứu-giúp của Ngài; về lời Ngài, tôi trông-mong.",
+  "tokens": [
+    {
+      "surface": "כלתה",
+      "gloss": "cạn kiệt"
+    },
+    {
+      "surface": "לתשועתך",
+      "gloss": "vì sự cứu-giúp của Ngài"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "linh-hồn tôi"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "về lời Ngài"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "tôi trông-mong"
+    }
+  ],
+  "timestamp": "2026-08-24T16:21:16.145322732Z",
   "model": "glm-5.3"
 }

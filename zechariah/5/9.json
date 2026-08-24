@@ -5,11 +5,11 @@
   "book": "zechariah",
   "lang": "vi",
   "chapter": 5,
-  "translation": "Tôi nhấc mắt tôi lên và nhìn, và kìa, hai người phụ nữ đi ra, và gió ⟨trong⟩ cánh của họ; và họ có cánh như cánh của con cò; và họ nhấc ⟨את⟩ cái epha lên giữa ⟨the⟩ đất và giữa các tầng trời.",
+  "translation": "Tôi ngước mắt lên và thấy, kìa, hai người phụ nữ đang đi ra, và có gió trong cánh của họ; và họ có cánh như cánh con cống; chúng nó nhấc lên ⟨את⟩ cái ê-pha giữa ⟨the⟩ đất và giữa ⟨the⟩ các tầng trời.",
   "tokens": [
     {
       "surface": "ואשא",
-      "gloss": "và tôi nhấc lên"
+      "gloss": "và tôi ngước lên"
     },
     {
       "surface": "עיני",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "וארא",
-      "gloss": "và tôi nhìn"
+      "gloss": "và thấy"
     },
     {
       "surface": "והנה",
-      "gloss": "và kìa"
+      "gloss": "kìa"
     },
     {
       "surface": "שתים",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "נשים",
-      "gloss": "người phụ nữ"
+      "gloss": "phụ nữ"
     },
     {
       "surface": "יוצאות",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "בכנפיהם",
-      "gloss": "trong cánh của họ"
+      "gloss": "trong cánh của chúng"
     },
     {
       "surface": "ולהנה",
-      "gloss": "và cho chúng"
+      "gloss": "và chúng có"
     },
     {
       "surface": "כנפים",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "החסידה",
-      "gloss": "con cò"
+      "gloss": "con cống"
     },
     {
       "surface": "ותשאנה",
@@ -66,11 +66,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "cái epha"
+      "marks": "cái ê-pha"
     },
     {
       "surface": "האיפה",
-      "gloss": "cái epha"
+      "gloss": "cái ê-pha"
     },
     {
       "surface": "בין",
@@ -89,6 +89,6 @@
       "gloss": "các tầng trời"
     }
   ],
-  "timestamp": "2026-08-19T04:52:34.008972441Z",
+  "timestamp": "2026-08-24T16:19:34.070802357Z",
   "model": "glm-5.3"
 }

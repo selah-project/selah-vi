@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "vi",
   "chapter": 17,
-  "translation": "Va David nói với Shaun: Tôi tớ của ngươi ⟨là⟩ kẻ chăn giữ cha mình trong đàn chiên, và sư tử đến, ⟨và⟩ ⟨את⟩ con gấu, và nó bắt走 một con chiên khỏi đàn.",
+  "translation": "Và David nói với Shaul: Kẻ tôi tớ của ngươi đã chăn nuôi cho cha mình giữa đàn chiên; sư tử đã đến, và ⟨את⟩ con gấu, và nó tha lấy một con chiên khỏi đàn.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "שאול",
-      "gloss": "Shaun"
+      "gloss": "Shaul"
     },
     {
       "surface": "רעה",
-      "gloss": "chăn giữ"
+      "gloss": "chăn nuôi"
     },
     {
       "surface": "היה",
-      "gloss": "là"
+      "gloss": "đã là"
     },
     {
       "surface": "עבדך",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "בצאן",
-      "gloss": "trong đàn chiên"
+      "gloss": "giữa đàn chiên"
     },
     {
       "surface": "ובא",
-      "gloss": "và đến"
+      "gloss": "và đã đến"
     },
     {
       "surface": "הארי",
@@ -62,17 +62,17 @@
     },
     {
       "surface": "ונשא",
-      "gloss": "và bắt đi"
+      "gloss": "và đã tha đi"
     },
     {
       "surface": "שה",
-      "gloss": "một con chiên"
+      "gloss": "con chiên"
     },
     {
       "surface": "מהעדר",
       "gloss": "khỏi đàn"
     }
   ],
-  "timestamp": "2026-08-19T03:34:26.895448871Z",
+  "timestamp": "2026-08-24T16:10:22.568329252Z",
   "model": "glm-5.3"
 }

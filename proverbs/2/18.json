@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "vi",
   "chapter": 2,
-  "translation": "Vì nhà nàng sụp xuống đến chết, và lối mòn nàng đến ⟨את⟩ירע phàm — ⟨các bóng ma⟩.",
+  "translation": "Vì nhà của nàng trầm xuống ⟨⟨đến⟩⟩ cõi chết, và các lối đi của nàng đến các bóng ma.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "שחה",
-      "gloss": "sụp xuống"
+      "gloss": "trầm xuống"
     },
     {
       "surface": "אל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "מות",
-      "gloss": "chết"
+      "gloss": "cõi chết"
     },
     {
       "surface": "ביתה",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "מעגלתיה",
-      "gloss": "lối mòn của nàng"
+      "gloss": "các lối đi của nàng"
     }
   ],
-  "timestamp": "2026-08-19T06:19:12.666594408Z",
+  "timestamp": "2026-08-24T16:21:35.908066991Z",
   "model": "glm-5.3"
 }

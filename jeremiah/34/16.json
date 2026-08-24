@@ -5,28 +5,28 @@
   "book": "jeremiah",
   "lang": "vi",
   "chapter": 34,
-  "translation": "nhưng các ngươi đã quay lại và làm ô uế ⟨את⟩ Danh Ta, và đã đưa mỗi người ⟨את⟩ tôi trai mình và mỗi người ⟨את⟩ nàng hầu mình trở lại — những kẻ các ngươi đã tha cho tự do theo ý họ — và các ngươi đã khuất phục ⟨את⟩ ⟨אתם⟩ để họ trở thành tôi trai và nàng hầu cho các ngươi.",
+  "translation": "Nhưng các ngươi đã quay lại và làm ô uế ⟨את⟩ danh Ta; các ngươi đã bắt ⟨את⟩ đầy tớ trai của mình và ⟨את⟩ nữ tỳ của mình — những kẻ các ngươi đã thả tự do theo ý riêng chúng — trở lại, và các ngươi đã bắt phục chúng, để chúng làm đầy tớ trai và nữ tỳ cho các ngươi.",
   "tokens": [
     {
       "surface": "ותשבו",
-      "gloss": "và các ngươi đã quay lại"
+      "gloss": "các ngươi đã quay lại"
     },
     {
       "surface": "ותחללו",
-      "gloss": "và đã làm ô uế"
+      "gloss": "và làm ô uế"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Danh Ta"
+      "marks": "danh Ta"
     },
     {
       "surface": "שמי",
-      "gloss": "Danh Ta"
+      "gloss": "danh Ta"
     },
     {
       "surface": "ותשבו",
-      "gloss": "và đã đưa trở lại"
+      "gloss": "các ngươi đã bắt trở lại"
     },
     {
       "surface": "איש",
@@ -35,11 +35,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tôi trai mình"
+      "marks": "đầy tớ trai của mình"
     },
     {
       "surface": "עבדו",
-      "gloss": "tôi trai mình"
+      "gloss": "đầy tớ trai của mình"
     },
     {
       "surface": "ואיש",
@@ -48,11 +48,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nàng hầu mình"
+      "marks": "nữ tỳ của mình"
     },
     {
       "surface": "שפחתו",
-      "gloss": "nàng hầu mình"
+      "gloss": "nữ tỳ của mình"
     },
     {
       "surface": "אשר",
@@ -60,7 +60,7 @@
     },
     {
       "surface": "שלחתם",
-      "gloss": "các ngươi đã tha"
+      "gloss": "các ngươi đã thả đi"
     },
     {
       "surface": "חפשים",
@@ -68,20 +68,20 @@
     },
     {
       "surface": "לנפשם",
-      "gloss": "theo ý họ"
+      "gloss": "theo ý riêng chúng"
     },
     {
       "surface": "ותכבשו",
-      "gloss": "và các ngươi đã khuất phục"
+      "gloss": "và các ngươi đã bắt phục"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "họ"
+      "gloss": "⟨את⟩",
+      "marks": "chúng"
     },
     {
       "surface": "להיות",
-      "gloss": "để trở thành"
+      "gloss": "để làm"
     },
     {
       "surface": "לכם",
@@ -89,13 +89,13 @@
     },
     {
       "surface": "לעבדים",
-      "gloss": "tôi trai"
+      "gloss": "đầy tớ trai"
     },
     {
       "surface": "ולשפחות",
-      "gloss": "và nàng hound"
+      "gloss": "và nữ tỳ"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.969188086Z",
+  "timestamp": "2026-08-24T16:16:10.031695011Z",
   "model": "glm-5.3"
 }

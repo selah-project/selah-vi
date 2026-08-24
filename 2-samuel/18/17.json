@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "vi",
   "chapter": 18,
-  "translation": "Họ lấy ⟨את⟩ Avshalom, ném hắn vào trong rừng, đến hố lớn, và chất lên hắn một đống đá rất lớn; còn cả Yisrael đều trốn, mỗi người về trại mình.",
+  "translation": "Họ lấy ⟨את⟩ Avshalom và ném hắn vào rừng, đến hố lớn, và chất lên hắn một đống đá rất lớn; còn toàn thể Yisra'el thì bỏ chạy, mỗi người về lều mình.",
   "tokens": [
     {
       "surface": "ויקחו",
@@ -22,12 +22,12 @@
     },
     {
       "surface": "וישליכו",
-      "gloss": "ném"
+      "gloss": "và ném"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "hắn (Avshalom)"
+      "gloss": "⟨את⟩ hắn",
+      "marks": "vào rừng"
     },
     {
       "surface": "ביער",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "ויצבו",
-      "gloss": "chất lên"
+      "gloss": "và chất lên"
     },
     {
       "surface": "עליו",
@@ -71,15 +71,15 @@
     },
     {
       "surface": "וכל",
-      "gloss": "và cả"
+      "gloss": "và toàn thể"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Yisra'el"
     },
     {
       "surface": "נסו",
-      "gloss": "trốn"
+      "gloss": "đã bỏ chạy"
     },
     {
       "surface": "איש",
@@ -87,9 +87,9 @@
     },
     {
       "surface": "לאהלו",
-      "gloss": "về trại mình"
+      "gloss": "về lều mình"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.943022247Z",
+  "timestamp": "2026-08-24T16:11:59.465112779Z",
   "model": "glm-5.3"
 }

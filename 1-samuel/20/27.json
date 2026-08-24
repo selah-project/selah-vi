@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "vi",
   "chapter": 20,
-  "translation": "Xảy ra ngày hôm sau ngày新月 thứ hai, chỗ của David bị kiểm điểm; Sha-ul nói với Yehonatan con trai mình: tại sao con trai Yishai không đến ăn bữa ăn, cả hôm qua lẫn hôm nay?",
+  "translation": "Xảy ra là ngày hôm sau của ⟨the⟩ ngày mới, ngày thứ hai, ⟨thì⟩ chỗ của David bị thấy trống; và Shaul nói với Yehonatan con trai mình: Vì sao con trai Yishai không đến, cả hôm qua lẫn hôm nay, đến ⟨the⟩ bữa ăn?",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "xảy ra"
+      "gloss": "xảy ra là"
     },
     {
       "surface": "ממחרת",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "החדש",
-      "gloss": "ngày tháng mới"
+      "gloss": "của ngày mới"
     },
     {
       "surface": "השני",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ויפקד",
-      "gloss": "bị kiểm điểm"
+      "gloss": "bị thấy trống"
     },
     {
       "surface": "מקום",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "nói"
+      "gloss": "và nói"
     },
     {
       "surface": "שאול",
-      "gloss": "Sha-ul"
+      "gloss": "Shaul"
     },
     {
       "surface": "אל",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "מדוע",
-      "gloss": "tại sao"
+      "gloss": "vì sao"
     },
     {
       "surface": "לא",
@@ -100,6 +100,6 @@
       "gloss": "bữa ăn"
     }
   ],
-  "timestamp": "2026-08-19T03:35:33.451787505Z",
+  "timestamp": "2026-08-24T16:11:20.457067917Z",
   "model": "glm-5.3"
 }

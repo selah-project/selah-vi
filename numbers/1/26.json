@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 1,
-  "translation": "Về con cái Yehudah, dòng dõi của họ, theo gia tộc của họ, theo tông nhà của cha họ, theo số các tên, từ hai mươi tuổi trở lên, tất cả kẻ ra trận:",
+  "translation": "Của con cái Yehudah, theo dòng dõi của họ, theo gia tộc của họ, theo nhà cha ông của họ, đếm theo số các tên, từ hai mươi tuổi trở lên, tất cả những ai đi ra quân ngũ:",
   "tokens": [
     {
       "surface": "לבני",
-      "gloss": "về con cái"
+      "gloss": "của con cái"
     },
     {
       "surface": "יהודה",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "אבתם",
-      "gloss": "cha của họ"
+      "gloss": "cha ông của họ"
     },
     {
       "surface": "במספר",
-      "gloss": "theo số"
+      "gloss": "đếm theo số"
     },
     {
       "surface": "שמת",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "מבן",
-      "gloss": "từ con"
+      "gloss": "từ con trai"
     },
     {
       "surface": "עשרים",
@@ -61,13 +61,13 @@
     },
     {
       "surface": "יצא",
-      "gloss": "ra đi"
+      "gloss": "đi ra"
     },
     {
       "surface": "צבא",
-      "gloss": "quân役 trận"
+      "gloss": "quân ngũ"
     }
   ],
-  "timestamp": "2026-08-19T02:51:45.293807199Z",
+  "timestamp": "2026-08-24T16:05:49.474371013Z",
   "model": "glm-5.3"
 }

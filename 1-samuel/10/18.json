@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "vi",
   "chapter": 10,
-  "translation": "Người nói với con cái Yisrael: Như vầy Yahweh, Elohim của Yisrael, phán: Chính Ta đã đưa ⟨את⟩ Yisrael lên khỏi Mitsrayim, và Ta đã giải thoát ⟨אתכם⟩ các ngươi khỏi tay Mitsrayim và khỏi tay mọi vương quốc đang áp bức ⟨אתכם⟩ các ngươi.",
+  "translation": "Người phán với con cái Yisrael: Như vầy Yahweh, Elohim của Yisrael, phán: Chính Ta đã đem ⟨את⟩ Yisrael lên khỏi Mitsrayim, và Ta đã cứu ⟨את⟩ các ngươi khỏi tay Mitsrayim và khỏi tay mọi vương quốc đang áp bức các ngươi.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "người nói"
+      "gloss": "và người phán"
     },
     {
       "surface": "אל",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim"
+      "gloss": "Elohim của"
     },
     {
       "surface": "ישראל",
-      "gloss": "của Yisrael"
+      "gloss": "Yisrael"
     },
     {
       "surface": "אנכי",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "העליתי",
-      "gloss": "đã đưa lên"
+      "gloss": "đã đem lên"
     },
     {
       "surface": "את",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "ואציל",
-      "gloss": "và Ta đã giải thoát"
+      "gloss": "và Ta đã cứu"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "gloss": "⟨את⟩ các ngươi",
       "marks": "các ngươi"
     },
     {
@@ -91,7 +91,7 @@
     },
     {
       "surface": "הממלכות",
-      "gloss": "vương quốc"
+      "gloss": "các vương quốc"
     },
     {
       "surface": "הלחצים",
@@ -99,10 +99,10 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "gloss": "⟨את⟩ các ngươi",
       "marks": "các ngươi"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.010853007Z",
+  "timestamp": "2026-08-24T16:10:33.759491355Z",
   "model": "glm-5.3"
 }

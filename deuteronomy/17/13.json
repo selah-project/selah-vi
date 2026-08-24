@@ -5,8 +5,37 @@
   "book": "deuteronomy",
   "lang": "vi",
   "chapter": 17,
-  "translation": "Và toàn thể ⟨ar-dân⟩ sẽ nghe và kính sợ, và không再做couser日子…",
-  "tokens": [],
-  "timestamp": "2026-08-19T03:09:45.576202791Z",
+  "translation": "Và toàn thể ⟨ה⟩ dân sự sẽ nghe, và sẽ sợ, và sẽ không còn làm ngạo mạn nữa.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "và toàn thể"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨ה⟩ dân sự"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "sẽ nghe"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "và sẽ sợ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "và không"
+    },
+    {
+      "surface": "יזידון",
+      "gloss": "làm ngạo mạn"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nữa"
+    }
+  ],
+  "timestamp": "2026-08-24T16:08:03.561017803Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "ezra",
   "lang": "vi",
   "chapter": 1,
-  "translation": "Và vua Koresh đem ra ⟨את⟩ các器 vật của nhà Yahweh, những vật mà Nevukhadnetstsar đã đem ra khỏi Yerushalayim và đặt trong nhà của các thần mình.",
+  "translation": "Vua Koresh cũng cho mang ra ⟨את⟩ các器具 của nhà Yahweh, là những vật Nebukadnetstsar đã mang ra khỏi Yerushalayim và đặt trong nhà của các đức thần của mình.",
   "tokens": [
     {
       "surface": "והמלך",
@@ -17,16 +17,16 @@
     },
     {
       "surface": "הוציא",
-      "gloss": "đem ra"
+      "gloss": "cho mang ra"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "các器 vật của nhà Yahweh"
+      "marks": "các器具 của nhà Yahweh"
     },
     {
       "surface": "כלי",
-      "gloss": "các器 vật"
+      "gloss": "dụng cụ"
     },
     {
       "surface": "בית",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "הוציא",
-      "gloss": "đã đem ra"
+      "gloss": "đã mang ra"
     },
     {
       "surface": "נבוכדנצר",
-      "gloss": "Nevukhadnetstsar"
+      "gloss": "Nebukadnetstsar"
     },
     {
       "surface": "מירושלם",
@@ -62,9 +62,9 @@
     },
     {
       "surface": "אלהיו",
-      "gloss": "các thần mình"
+      "gloss": "các đức thần của mình"
     }
   ],
-  "timestamp": "2026-08-19T05:40:41.467402540Z",
+  "timestamp": "2026-08-24T16:23:44.154750318Z",
   "model": "glm-5.3"
 }

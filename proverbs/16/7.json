@@ -5,11 +5,11 @@
   "book": "proverbs",
   "lang": "vi",
   "chapter": 16,
-  "translation": "Khi các đường lối của người làm đẹp lòng Yahweh, thì chính kẻ thù của ⟨את⟩ ⟨אתו⟩ hắn cũng sống hòa bình với hắn.",
+  "translation": "Khi đường lối của một người đẹp lòng Yahweh, thì cả kẻ thù của người ấy, Ngài khiến hòa bình cùng ⟨את⟩ người ấy.",
   "tokens": [
     {
       "surface": "ברצות",
-      "gloss": "khi làm đẹp lòng"
+      "gloss": "khi...đẹp lòng"
     },
     {
       "surface": "יהוה",
@@ -17,30 +17,30 @@
     },
     {
       "surface": "דרכי",
-      "gloss": "các đường lối"
+      "gloss": "đường lối của"
     },
     {
       "surface": "איש",
-      "gloss": "của người"
+      "gloss": "một người"
     },
     {
       "surface": "גם",
-      "gloss": "chính"
+      "gloss": "cả"
     },
     {
       "surface": "אויביו",
-      "gloss": "kẻ thù của hắn"
+      "gloss": "kẻ thù của người ấy"
     },
     {
       "surface": "ישלם",
-      "gloss": "làm hòa bình"
+      "gloss": "Ngài khiến hòa bình"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "hắn"
+      "gloss": "cùng ⟨את⟩ người ấy",
+      "marks": "người ấy"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.960511596Z",
+  "timestamp": "2026-08-24T16:21:51.100091990Z",
   "model": "glm-5.3"
 }

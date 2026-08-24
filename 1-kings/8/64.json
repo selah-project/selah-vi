@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "vi",
   "chapter": 8,
-  "translation": "Trong ngày ấy ⟨vua⟩ đã làm thánh ⟨את⟩ phần giữa ⟨⟨sân⟩⟩ mà ở trước nhà Yahweh, vì ông đã làm tại đó ⟨את⟩ tế lễ thiêu và ⟨את⟩ tế lễ vật thực và ⟨את⟩ các mỡ của sinh tế bình an; vì bàn thờ bằng đồng mà ở trước Yahweh quá nhỏ để chứa ⟨את⟩ tế lễ thiêu và ⟨את⟩ tế lễ vật thực và ⟨את⟩ các mỡ của sinh tế bình an.",
+  "translation": "Trong ngày ấy vua đã thánh hóa ⟨את⟩ phần giữa ⟨⟨the⟩⟩ sân, nơi ở trước nhà Yahweh, vì tại đó người đã làm ⟨את⟩ lễ thiêu và ⟨את⟩ lễ chay và ⟨את⟩ các mỡ của các tế lễ bình an; vì bàn thờ bằng đồng, nơi ở trước Yahweh, quá nhỏ để chứa ⟨את⟩ lễ thiêu và ⟨את⟩ lễ chay và ⟨את⟩ các mỡ của các tế lễ bình an.",
   "tokens": [
     {
       "surface": "ביום",
@@ -17,16 +17,16 @@
     },
     {
       "surface": "קדש",
-      "gloss": "đã làm thánh"
+      "gloss": "đã thánh hóa"
     },
     {
       "surface": "המלך",
-      "gloss": "⟨vua⟩"
+      "gloss": "vua"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "phần giữa ⟨sân⟩"
+      "marks": "phần giữa"
     },
     {
       "surface": "תוך",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "החצר",
-      "gloss": "⟨sân⟩"
+      "gloss": "sân"
     },
     {
       "surface": "אשר",
-      "gloss": "mà"
+      "gloss": "nơi"
     },
     {
       "surface": "לפני",
@@ -67,25 +67,25 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tế lễ thiêu"
+      "marks": "lễ thiêu"
     },
     {
       "surface": "העלה",
-      "gloss": "tế lễ thiêu"
+      "gloss": "lễ thiêu"
     },
     {
       "surface": "ואת",
       "gloss": "và ⟨את⟩",
-      "marks": "tế lễ vật thực"
+      "marks": "lễ chay"
     },
     {
       "surface": "המנחה",
-      "gloss": "tế lễ vật thực"
+      "gloss": "lễ chay"
     },
     {
       "surface": "ואת",
       "gloss": "và ⟨את⟩",
-      "marks": "các mỡ của sinh tế bình an"
+      "marks": "các mỡ"
     },
     {
       "surface": "חלבי",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "השלמים",
-      "gloss": "của sinh tế bình an"
+      "gloss": "của các tế lễ bình an"
     },
     {
       "surface": "כי",
@@ -109,7 +109,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "mà"
+      "gloss": "nơi"
     },
     {
       "surface": "לפני",
@@ -130,25 +130,25 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tế lễ thiêu"
+      "marks": "lễ thiêu"
     },
     {
       "surface": "העלה",
-      "gloss": "tế lễ thiêu"
+      "gloss": "lễ thiêu"
     },
     {
       "surface": "ואת",
       "gloss": "và ⟨את⟩",
-      "marks": "tế lễ vật thực"
+      "marks": "lễ chay"
     },
     {
       "surface": "המנחה",
-      "gloss": "tế lễ vật thực"
+      "gloss": "lễ chay"
     },
     {
       "surface": "ואת",
       "gloss": "và ⟨את⟩",
-      "marks": "các mỡ của sinh tế bình an"
+      "marks": "các mỡ"
     },
     {
       "surface": "חלבי",
@@ -156,9 +156,9 @@
     },
     {
       "surface": "השלמים",
-      "gloss": "của sinh tế bình an"
+      "gloss": "của các tế lễ bình an"
     }
   ],
-  "timestamp": "2026-08-19T03:50:08.341146902Z",
+  "timestamp": "2026-08-24T16:12:21.079551604Z",
   "model": "glm-5.3"
 }

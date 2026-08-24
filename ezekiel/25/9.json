@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "vi",
   "chapter": 25,
-  "translation": "Vì vậy, này, Ta sẽ mở bờ vai của Moav, khỏi các thành, khỏi các thành của nó, từ biên giới của nó —BUTTON光彩 đó là vinh quang của xứ: Beit ha-Yeshimot, Baal Meon, và Kiryataim —",
+  "translation": "Vì vậy, này, Ta sẽ mở ⟨את⟩ vai sườn của Moav khỏi các thành, khỏi các thành của nó, từ biên giới của nó: צְבִי (vinh quang) của đất — Beit ha-Yeshimot, Baal Meon, và Kiryataim.",
   "tokens": [
     {
       "surface": "לכן",
@@ -22,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bờ vai của Moav"
+      "marks": "vai sườn của Moav"
     },
     {
       "surface": "כתף",
-      "gloss": "bờ vai"
+      "gloss": "vai sườn"
     },
     {
       "surface": "מואב",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "của xứ"
+      "gloss": "đất"
     },
     {
       "surface": "בית",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "הישימת",
-      "gloss": "ha-Yeshimoth"
+      "gloss": "ha-Yeshimot"
     },
     {
       "surface": "בעל",
@@ -73,6 +73,6 @@
       "gloss": "và Kiryataim"
     }
   ],
-  "timestamp": "2026-08-19T04:36:58.340312075Z",
+  "timestamp": "2026-08-24T16:17:23.341560660Z",
   "model": "glm-5.3"
 }

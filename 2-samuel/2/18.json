@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "vi",
   "chapter": 2,
-  "translation": "Ở đó có ba con trai của Tseruyah: Yoav, Avishai, và Asahel; Asahel nhẹ chân như một trong những con linh dương ⟨the⟩ ở ngoài đồng.",
+  "translation": "Và có tại đó ba con trai của Tserujah: Yoav, và Avishai, và Asahel; còn Asahel thì nhẹ chân như một trong những con hươu hoang ở ngoài đồng.",
   "tokens": [
     {
       "surface": "ויהיו",
@@ -21,18 +21,18 @@
     },
     {
       "surface": "בני",
-      "gloss": "con trai"
+      "gloss": "con trai của"
     },
     {
       "surface": "צרויה",
-      "gloss": "của Tseruyah"
+      "gloss": "Tserujah"
     },
     {
       "surface": "יואב",
       "gloss": "Yoav"
     },
     {
-      "surface": "ו אבישי",
+      "surface": "ואבישי",
       "gloss": "và Avishai"
     },
     {
@@ -45,11 +45,11 @@
     },
     {
       "surface": "קל",
-      "gloss": "nhẹ"
+      "gloss": "nhanh nhẹ"
     },
     {
       "surface": "ברגליו",
-      "gloss": "chân"
+      "gloss": "trên đôi chân mình"
     },
     {
       "surface": "כאחד",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "הצבים",
-      "gloss": "những con linh dương"
+      "gloss": "những con hươu hoang"
     },
     {
       "surface": "אשר",
@@ -68,6 +68,6 @@
       "gloss": "ở ngoài đồng"
     }
   ],
-  "timestamp": "2026-08-19T03:38:51.788481989Z",
+  "timestamp": "2026-08-24T16:11:04.644316004Z",
   "model": "glm-5.3"
 }

@@ -5,23 +5,23 @@
   "book": "judges",
   "lang": "vi",
   "chapter": 14,
-  "translation": "Và ⟨הוא⟩ đi lên, thuật lại cho cha mình và mẹ mình, và nói: Người phụ nữ tôi đã thấy tại Timnah, thuộc các con gái của người Phlítshtim — giờ đây hãy lấy ⟨את⟩ ⟨אותה⟩ nàng cho tôi làm vợ.",
+  "translation": "Và Shimshon lên, kể với cha mình và mẹ mình, và nói: Tôi đã thấy một người phụ nữ ở Timnah, trong số các con gái của người Pelishtite; và bây giờ hãy lấy ⟨את⟩ cô ấy cho tôi làm vợ.",
   "tokens": [
     {
       "surface": "ויעל",
-      "gloss": "và đi lên"
+      "gloss": "đã lên"
     },
     {
       "surface": "ויגד",
-      "gloss": "và thuật lại"
+      "gloss": "và kể"
     },
     {
       "surface": "לאביו",
-      "gloss": "cho cha mình"
+      "gloss": "với cha mình"
     },
     {
-      "surface": "וולאמו",
-      "gloss": "và cho mẹ mình"
+      "surface": "ולאמו",
+      "gloss": "và với mẹ mình"
     },
     {
       "surface": "ויאמר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אשה",
-      "gloss": "người phụ nữ"
+      "gloss": "một người phụ nữ"
     },
     {
       "surface": "ראיתי",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "בתמנתה",
-      "gloss": "tại Timnah"
+      "gloss": "ở Timnah"
     },
     {
       "surface": "מבנות",
-      "gloss": "thuộc các con gái của"
+      "gloss": "trong số các con gái"
     },
     {
       "surface": "פלשתים",
-      "gloss": "người Phlítshtim"
+      "gloss": "của người Pelishtite"
     },
     {
       "surface": "ועתה",
-      "gloss": "và giờ đây"
+      "gloss": "và bây giờ"
     },
     {
       "surface": "קחו",
@@ -57,8 +57,8 @@
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ ⟨אותה⟩",
-      "marks": "nàng"
+      "gloss": "⟨את⟩",
+      "marks": "cô ấy"
     },
     {
       "surface": "לי",
@@ -69,6 +69,6 @@
       "gloss": "làm vợ"
     }
   ],
-  "timestamp": "2026-08-19T03:27:02.725802852Z",
+  "timestamp": "2026-08-24T16:10:05.399436189Z",
   "model": "glm-5.3"
 }

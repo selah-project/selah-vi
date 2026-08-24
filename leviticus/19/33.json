@@ -5,43 +5,42 @@
   "book": "leviticus",
   "lang": "vi",
   "chapter": 19,
-  "translation": "Và nếu một khách ngoại kiều cư ngụ ⟨את⟩ ⟨אתך⟩ với ngươi trong đất các ngươi, các ngươi không được ức hiếp ⟨את⟩ ⟨אתו⟩ hắn.",
+  "translation": "Và khi một khách ngoại cư ngụ ⟨את⟩ với ngươi trong đất của các ngươi, các ngươi chớ hà hiếp ⟨אתו⟩ người.",
   "tokens": [
     {
       "surface": "וכי",
-      "gloss": "và nếu"
+      "gloss": "và khi"
     },
     {
       "surface": "יגור",
-      "gloss": "cư ngụ"
+      "gloss": "ngụ ngoại cư"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ ⟨אתך⟩",
-      "marks": "với ngươi"
+      "gloss": "⟨את⟩ với ngươi"
     },
     {
       "surface": "גר",
-      "gloss": "khách ngoại kiều"
+      "gloss": "khách ngoại"
     },
     {
       "surface": "בארצכם",
-      "gloss": "trong đất các ngươi"
+      "gloss": "trong đất-của-các-ngươi"
     },
     {
       "surface": "לא",
-      "gloss": "không được"
+      "gloss": "chớ"
     },
     {
       "surface": "תונו",
-      "gloss": "ức hiếp"
+      "gloss": "hà hiếp"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "hắn"
+      "gloss": "⟨את⟩",
+      "marks": "người (khách ngoại)"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.036279665Z",
+  "timestamp": "2026-08-24T16:06:18.889345337Z",
   "model": "glm-5.3"
 }

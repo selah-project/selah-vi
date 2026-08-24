@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 13,
-  "translation": "Và đất không thể mang ⟨את⟩ ⟨אתם⟩ chúng, để họ ở chung với nhau, vì tài sản của họ thật nhiều, và họ không thể ở chung với nhau.",
+  "translation": "Và đất không thể mang ⟨אתם⟩ chúng ở cùng nhau, vì tài sản của họ thật đông, và họ không thể ở cùng nhau.",
   "tokens": [
     {
       "surface": "ולא",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "נשא",
-      "gloss": "mang \/ đỡ"
+      "gloss": "mang \/ gánh nổi"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "gloss": "⟨את⟩",
       "marks": "đất"
     },
     {
@@ -30,7 +30,7 @@
     },
     {
       "surface": "יחדו",
-      "gloss": "chung với nhau"
+      "gloss": "cùng nhau"
     },
     {
       "surface": "כי",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "רב",
-      "gloss": "nhiều"
+      "gloss": "đông"
     },
     {
       "surface": "ולא",
@@ -62,9 +62,9 @@
     },
     {
       "surface": "יחדו",
-      "gloss": "chung với nhau"
+      "gloss": "cùng nhau"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.953762970Z",
+  "timestamp": "2026-08-24T16:01:51.182432725Z",
   "model": "glm-5.3"
 }

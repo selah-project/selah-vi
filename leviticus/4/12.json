@@ -5,20 +5,20 @@
   "book": "leviticus",
   "lang": "vi",
   "chapter": 4,
-  "translation": "Và người ta sẽ đem ra ⟨את⟩ toàn bộ con bò ra ngoài trại quân, đến một nơi tinh sạch, đến nơi đổ tro, và sẽ đốt ⟨את⟩ ⟨את nó⟩ trên củi trong lửa; tại nơi đổ tro nó sẽ bị đốt.",
+  "translation": "Và người sẽ đem ⟨את⟩ cả con bò ra ngoài trại, đến nơi tinh sạch, đến nơi đổ tro, và thiêu nó trên củi trong lửa; tại nơi đổ tro nó bị thiêu.",
   "tokens": [
     {
       "surface": "והוציא",
-      "gloss": "và sẽ đem ra"
+      "gloss": "và người sẽ đem ra"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "toàn bộ con bò"
+      "marks": "cả con bò"
     },
     {
       "surface": "כל",
-      "gloss": "toàn bộ"
+      "gloss": "cả"
     },
     {
       "surface": "הפר",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "מחוץ",
-      "gloss": "bên ngoài"
+      "gloss": "ngoài"
     },
     {
       "surface": "למחנה",
-      "gloss": "trại quân"
+      "gloss": "trại"
     },
     {
       "surface": "אל",
@@ -62,12 +62,11 @@
     },
     {
       "surface": "ושרף",
-      "gloss": "và sẽ đốt"
+      "gloss": "và thiêu"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨את nó⟩",
-      "marks": "nó (con bò)"
+      "gloss": "⟨את⟩ nó"
     },
     {
       "surface": "על",
@@ -95,9 +94,9 @@
     },
     {
       "surface": "ישרף",
-      "gloss": "nó sẽ bị đốt"
+      "gloss": "nó bị thiêu"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.034163371Z",
+  "timestamp": "2026-08-24T16:05:28.394567656Z",
   "model": "glm-5.3"
 }

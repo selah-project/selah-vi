@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 4,
-  "translation": "Theo miệng Yahweh, ⟨את⟩ chúng được định số bằng tay Moshe, mỗi người theo служ dịch vụ của mình và theo gánh nặng của mình; và số của chúng, điều Yahweh đã truyền lệnh ⟨את⟩ Moshe.",
+  "translation": "Theo lời Yahweh, họ được kiểm điểm bằng tay Moshe, từng người theo việc phục vụ mình và theo gánh nặng mình; và những người được kiểm điểm, mà Yahweh đã phán dặn ⟨את⟩ Moshe.",
   "tokens": [
     {
       "surface": "על",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "פי",
-      "gloss": "miệng"
+      "gloss": "lời"
     },
     {
       "surface": "יהוה",
@@ -21,12 +21,12 @@
     },
     {
       "surface": "פקד",
-      "gloss": "định số"
+      "gloss": "được kiểm điểm"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ chúng",
-      "marks": "chúng (họ)"
+      "gloss": "⟨את⟩",
+      "marks": "họ"
     },
     {
       "surface": "ביד",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "איש",
-      "gloss": "mỗi"
+      "gloss": "từng người"
     },
     {
       "surface": "איש",
-      "gloss": "người"
+      "gloss": "từng người"
     },
     {
       "surface": "על",
@@ -50,27 +50,27 @@
     },
     {
       "surface": "עבדתו",
-      "gloss": "dịch vụ của mình"
+      "gloss": "việc phục vụ mình"
     },
     {
-      "surface": "ועל",
+      "surface": "ו על",
       "gloss": "và theo"
     },
     {
       "surface": "משאו",
-      "gloss": "gánh nặng của mình"
+      "gloss": "gánh nặng mình"
     },
     {
-      "surface": "ופקדיו",
-      "gloss": "và số của chúng"
+      "surface": "ו פקדיו",
+      "gloss": "và những người được kiểm điểm của mình"
     },
     {
       "surface": "אשר",
-      "gloss": "điều mà"
+      "gloss": "mà"
     },
     {
       "surface": "צוה",
-      "gloss": "đã truyền lệnh"
+      "gloss": "đã phán dặn"
     },
     {
       "surface": "יהוה",
@@ -86,6 +86,6 @@
       "gloss": "Moshe"
     }
   ],
-  "timestamp": "2026-08-19T02:52:12.809823251Z",
+  "timestamp": "2026-08-24T16:06:06.736494946Z",
   "model": "glm-5.3"
 }

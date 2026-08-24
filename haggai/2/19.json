@@ -5,11 +5,11 @@
   "book": "haggai",
   "lang": "vi",
   "chapter": 2,
-  "translation": "Hạt giống còn ⟨is⟩ trong kho吗? Và cho đến nay, cây nho, cây vả, cây lựu, và cây ô-liu chưa trổ quả — từ ngày này Ta sẽ ban phước.",
+  "translation": "Hạt giống còn trong kho吗? Nho, vả, lựu, và cây ô-liu chưa trái — từ ngày này ta sẽ ban phước cho ngươi.",
   "tokens": [
     {
       "surface": "העוד",
-      "gloss": "còn... chăng"
+      "gloss": "còn chưa"
     },
     {
       "surface": "הזרע",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ועד",
-      "gloss": "và cho đến nay"
+      "gloss": "và cho tới"
     },
     {
       "surface": "הגפן",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "והתאנה",
-      "gloss": "cây vả"
+      "gloss": "và cây vả"
     },
     {
-      "surface": "וההרמון→והרמון",
-      "gloss": "cây lựu"
+      "surface": "והרמון",
+      "gloss": "và cây lựu"
     },
     {
       "surface": "ועץ",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "נשא",
-      "gloss": "trổ quả"
+      "gloss": "trái"
     },
     {
       "surface": "מן",
@@ -65,9 +65,9 @@
     },
     {
       "surface": "אברך",
-      "gloss": "Ta sẽ ban phước"
+      "gloss": "ta sẽ ban phước"
     }
   ],
-  "timestamp": "2026-08-19T04:51:25.285917158Z",
+  "timestamp": "2026-08-24T16:19:09.788907914Z",
   "model": "glm-5.3"
 }

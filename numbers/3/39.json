@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 3,
-  "translation": "Tất cả những người được kiểm điểm trong số HaLevi, mà Moshe và Aharon đã kiểm điểm theo lệnh (מי̣ng) của Yahweh, theo gia tộc họ, tất cả nam giới từ một tháng tuổi trở lên, hai mươi hai ngàn.",
+  "translation": "Tất cả những người được kiểm đếm của ⟨the⟩ người Lewi, mà Moshe và Aharon đã kiểm đếm theo lệnh miệng của Yahweh, theo gia tộc họ, tất cả nam giới từ một tháng tuổi trở lên, là hai mươi hai nghìn.",
   "tokens": [
     {
       "surface": "כל",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "פקודי",
-      "gloss": "những người được kiểm điểm của"
+      "gloss": "những người được kiểm đếm"
     },
     {
       "surface": "הלוים",
-      "gloss": "HaLevi"
+      "gloss": "người Lewi"
     },
     {
       "surface": "אשר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "פקד",
-      "gloss": "đã kiểm điểm"
+      "gloss": "đã kiểm đếm"
     },
     {
       "surface": "משה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "פי",
-      "gloss": "lệnh (miệng) của"
+      "gloss": "lệnh miệng"
     },
     {
       "surface": "יהוה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "למשפחתם",
-      "gloss": "theo gia tộc của họ"
+      "gloss": "theo gia tộc họ"
     },
     {
       "surface": "כל",
@@ -61,15 +61,15 @@
     },
     {
       "surface": "מבן",
-      "gloss": "từ con trai của"
+      "gloss": "từ (con) một"
     },
     {
       "surface": "חדש",
-      "gloss": "một tháng"
+      "gloss": "tháng"
     },
     {
       "surface": "ומעלה",
-      "gloss": "và trở lên"
+      "gloss": "trở lên"
     },
     {
       "surface": "שנים",
@@ -77,13 +77,13 @@
     },
     {
       "surface": "ועשרים",
-      "gloss": "và hai mươi"
+      "gloss": "mươi"
     },
     {
       "surface": "אלף",
-      "gloss": "ngàn"
+      "gloss": "nghìn"
     }
   ],
-  "timestamp": "2026-08-19T02:53:04.573012951Z",
+  "timestamp": "2026-08-24T16:06:23.710300967Z",
   "model": "glm-5.3"
 }

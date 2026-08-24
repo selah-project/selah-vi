@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 27,
-  "translation": "Tất cả các cột của sân ⟨the⟩, chung quanh, được bọc bằng bạc; móc của chúng bằng bạc, và chân đế của chúng bằng đồng.",
+  "translation": "Tất cả các cột của sân quanh quanh đều được bọc bạc, móc của chúng bằng bạc, và chân đế của chúng bằng đồng.",
   "tokens": [
     {
       "surface": "כל",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "החצר",
-      "gloss": "sân ⟨the⟩"
+      "gloss": "sân"
     },
     {
       "surface": "סביב",
-      "gloss": "chung quanh"
+      "gloss": "quanh"
     },
     {
       "surface": "מחשקים",
-      "gloss": "được bọc bằng"
+      "gloss": "được bọc (bằng vành bạc)"
     },
     {
       "surface": "כסף",
@@ -48,6 +48,6 @@
       "gloss": "đồng"
     }
   ],
-  "timestamp": "2026-08-19T02:34:43.890463780Z",
+  "timestamp": "2026-08-24T16:04:10.483441818Z",
   "model": "glm-5.3"
 }

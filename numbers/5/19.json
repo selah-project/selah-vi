@@ -5,16 +5,16 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 5,
-  "translation": "Và vị thầy tế lễ sẽ bắt người đàn bà thề, và nói với người đàn bà: Nếu không có người đàn ông nào nằm ⟨את⟩ với ngươi, và nếu ngươi không lạc đường ô uế dưới quyền chồng ngươi, thì ngươi hãy được sạch khỏi thứ nước đắng gây咒诅 này.",
+  "translation": "Và vị thầy tế lễ sẽ làm nàng thề, và nói với người phụ nữ: Nếu không người đàn ông nào đã nằm với ⟨את⟩ ngươi, và nếu ngươi không đi lạc đến ô uế dưới quyền chồng ngươi, hãy được sạch khỏi nước đắng, thứ nước gây rủa sả nầy.",
   "tokens": [
     {
       "surface": "והשביע",
-      "gloss": "và sẽ bắt thề"
+      "gloss": "sẽ làm thề"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩",
-      "marks": "bà"
+      "gloss": "⟨את⟩ nàng",
+      "marks": "người phụ nữ"
     },
     {
       "surface": "הכהן",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "האשה",
-      "gloss": "người đàn bà"
+      "gloss": "người phụ nữ"
     },
     {
       "surface": "אם",
@@ -50,7 +50,8 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ với ngươi"
+      "gloss": "với ⟨את⟩ ngươi",
+      "marks": "ngươi"
     },
     {
       "surface": "ואם",
@@ -62,15 +63,15 @@
     },
     {
       "surface": "שטית",
-      "gloss": "ngươi lạc đường"
+      "gloss": "ngươi đi lạc"
     },
     {
       "surface": "טמאה",
-      "gloss": "ô uế"
+      "gloss": "đến ô uế"
     },
     {
       "surface": "תחת",
-      "gloss": "dưới quyền"
+      "gloss": "dưới"
     },
     {
       "surface": "אישך",
@@ -90,13 +91,13 @@
     },
     {
       "surface": "המאררים",
-      "gloss": "gây咒诅"
+      "gloss": "gây rủa sả"
     },
     {
       "surface": "האלה",
-      "gloss": "này"
+      "gloss": "nầy"
     }
   ],
-  "timestamp": "2026-08-19T02:54:27.017631528Z",
+  "timestamp": "2026-08-24T16:06:38.059238918Z",
   "model": "glm-5.3"
 }

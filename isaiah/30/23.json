@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "vi",
   "chapter": 30,
-  "translation": "Và ⟨Ngài⟩ sẽ ban mưa cho giống ngươi mà ngươi gieo ⟨את〕 đất, và bánh của sản vật đất; nó sẽ được mập mà trù phú. Gia súc ngươi sẽ gặm cỏ trong ngày đó, tại chuồng rộng lớn.",
+  "translation": "Và ⟨Ngài⟩ sẽ ban mưa cho hạt giống ngươi mà ngươi gieo trên ⟨את⟩ đất, và bánh của sản vật ⟨của⟩ đất; nó sẽ mập mạp và trù phú; gia súc ngươi sẽ gặm cỏ trong ngày ấy, ⟨trên⟩ đồng cỏ rộng.",
   "tokens": [
     {
       "surface": "ונתן",
-      "gloss": "và sẽ ban"
+      "gloss": "và Ngài sẽ ban"
     },
     {
       "surface": "מטר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "זרעך",
-      "gloss": "cho giống ngươi"
+      "gloss": "hạt giống của ngươi"
     },
     {
       "surface": "אשר",
@@ -42,23 +42,23 @@
     },
     {
       "surface": "תבואת",
-      "gloss": "của sản vật"
+      "gloss": "sản vật"
     },
     {
       "surface": "האדמה",
-      "gloss": "đất"
+      "gloss": "của đất"
     },
     {
       "surface": "והיה",
-      "gloss": "và nó sẽ được"
+      "gloss": "và nó sẽ"
     },
     {
       "surface": "דשן",
-      "gloss": "mập"
+      "gloss": "mập mạp"
     },
     {
       "surface": "ושמן",
-      "gloss": "mà trù phú (béo dầu)"
+      "gloss": "và trù phú (béo dồi dào)"
     },
     {
       "surface": "ירעה",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "מקניך",
-      "gloss": "gia súc ngươi"
+      "gloss": "gia súc của ngươi"
     },
     {
       "surface": "ביום",
@@ -74,17 +74,17 @@
     },
     {
       "surface": "ההוא",
-      "gloss": "đó"
+      "gloss": "ấy"
     },
     {
       "surface": "כר",
-      "gloss": "chuồng (bãi rộng)"
+      "gloss": "đồng cỏ (car)"
     },
     {
       "surface": "נרחב",
-      "gloss": "rộng lớn"
+      "gloss": "rộng"
     }
   ],
-  "timestamp": "2026-08-19T04:09:41.876167972Z",
+  "timestamp": "2026-08-24T16:14:15.003530563Z",
   "model": "glm-5.3"
 }

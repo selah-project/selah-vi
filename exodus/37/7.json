@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 37,
-  "translation": "Người làm hai keruvim bằng vàng, chạm nổi bằng búa — người làm ⟨את⟩ ⟨אתם⟩ chúng tại hai đầu của nắp thiêng.",
+  "translation": "Và người đã làm hai keruvim bằng vàng, tác phẩm chạm liền khối người đã làm ⟨את⟩ chúng, tại hai đầu của nắp thiêng.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "người làm"
+      "gloss": "và người đã làm"
     },
     {
       "surface": "שני",
@@ -21,24 +21,24 @@
     },
     {
       "surface": "זהב",
-      "gloss": "bằng vàng"
+      "gloss": "vàng"
     },
     {
       "surface": "מקשה",
-      "gloss": "chạm nổi bằng búa"
+      "gloss": "tác phẩm chạm liền khối"
     },
     {
       "surface": "עשה",
-      "gloss": "người làm"
+      "gloss": "người đã làm"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "chúng"
+      "gloss": "⟨את⟩",
+      "marks": "chúng (hai keruvim)"
     },
     {
       "surface": "משני",
-      "gloss": "tại hai"
+      "gloss": "từ hai"
     },
     {
       "surface": "קצות",
@@ -49,6 +49,6 @@
       "gloss": "của nắp thiêng"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.990987875Z",
+  "timestamp": "2026-08-24T16:04:17.807951987Z",
   "model": "glm-5.3"
 }

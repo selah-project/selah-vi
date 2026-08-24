@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "vi",
   "chapter": 23,
-  "translation": "Con trai của Bavel, và mọi Kashdim, Pekod, vaShoa, vaKoa, mọi con trai của Ashshur ⟨את⟩ ⟨אתם⟩ — những chàng trai đẹp đẽ, các tổng trấn và quan trưởng, tất cả chúng — các quan cao cấp và người được tung hô, cưỡi ngựa, tất cả chúng.",
+  "translation": "Các con trai của Bavel, và mọi người Kasdim, Pekod, và Shoa, và Koa, mọi con trai của Ashshur, ⟨את⟩ chúng — những chàng trai đáng ưa thích, các総 đốc và quan trưởng, tất cả bọn chúng là quan ba và người được truyền tiếng, cưỡi ngựa, tất cả bọn chúng.",
   "tokens": [
     {
       "surface": "בני",
-      "gloss": "con trai của"
+      "gloss": "các con trai của"
     },
     {
       "surface": "בבל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "כשדים",
-      "gloss": "Kashdim"
+      "gloss": "người Kasdim"
     },
     {
       "surface": "פקוד",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "ושוע",
-      "gloss": "vaShoa"
+      "gloss": "và Shoa"
     },
     {
       "surface": "וקוע",
-      "gloss": "vaKoa"
+      "gloss": "và Koa"
     },
     {
       "surface": "כל",
@@ -49,8 +49,8 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "những chàng trai đẹp đẽ"
+      "gloss": "⟨את⟩",
+      "marks": "chúng (bên bị tác động)"
     },
     {
       "surface": "בחורי",
@@ -58,27 +58,27 @@
     },
     {
       "surface": "חמד",
-      "gloss": "đẹp đẽ \/ được ưa thích"
+      "gloss": "đáng ưa thích"
     },
     {
       "surface": "פחות",
-      "gloss": "các tổng trấn"
+      "gloss": "tổng đốc"
     },
     {
       "surface": "וסגנים",
-      "gloss": "và các quan trưởng"
+      "gloss": "và quan trưởng"
     },
     {
       "surface": "כלם",
-      "gloss": "tất cả chúng"
+      "gloss": "tất cả bọn chúng"
     },
     {
       "surface": "שלשים",
-      "gloss": "các quan cao cấp"
+      "gloss": "quan ba"
     },
     {
       "surface": "וקרואים",
-      "gloss": "và người được tung hô"
+      "gloss": "và người được truyền tiếng"
     },
     {
       "surface": "רכבי",
@@ -90,9 +90,9 @@
     },
     {
       "surface": "כלם",
-      "gloss": "tất cả chúng"
+      "gloss": "tất cả bọn chúng"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.025637456Z",
+  "timestamp": "2026-08-24T16:17:41.358223190Z",
   "model": "glm-5.3"
 }

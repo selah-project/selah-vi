@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "vi",
   "chapter": 3,
-  "translation": "Rồi chúng tôi quay lại và đi lên con đường ⟨⟨đến⟩⟩ Bashan; và Og, vua của Bashan, đi ra đón chúng tôi — chính hắn và toàn thể dân sự hắn — ra trận tại Edrei.",
+  "translation": "Rồi chúng tôi quay lại và đi lên con đường ⟨the⟩ Bashan, và Og vua ⟨của⟩ Bashan ra đón встречи chúng tôi — chính ⟨הוא⟩ ông và toàn dân ông — để chiến đấu, tại Edrei.",
   "tokens": [
     {
       "surface": "ונפן",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ויצא",
-      "gloss": "và đi ra"
+      "gloss": "và ra"
     },
     {
       "surface": "עוג",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "מלך",
-      "gloss": "vua của"
+      "gloss": "vua"
     },
     {
       "surface": "הבשן",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "לקראתנו",
-      "gloss": "đón chúng tôi"
+      "gloss": "đón chống chúng tôi"
     },
     {
       "surface": "הוא",
-      "gloss": "chính hắn"
+      "gloss": "chính ông"
     },
     {
       "surface": "וכל",
@@ -53,17 +53,17 @@
     },
     {
       "surface": "עמו",
-      "gloss": "dân sự hắn"
+      "gloss": "dân ông"
     },
     {
       "surface": "למלחמה",
-      "gloss": "ra trận"
+      "gloss": "để chiến đấu"
     },
     {
       "surface": "אדרעי",
       "gloss": "Edrei"
     }
   ],
-  "timestamp": "2026-08-19T06:05:55.138257987Z",
+  "timestamp": "2026-08-24T16:07:44.249367409Z",
   "model": "glm-5.3"
 }

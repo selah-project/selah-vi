@@ -5,8 +5,121 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 47,
-  "translation": "Năm ấy chấm dứt, và họ đến với người trong năm thứ hai, và nói với người: Chúng tôi không giấu gì adoni ⟨là⟩银子 tiền đã cạn, và gia súc thú vật ⟨thuộc⟩ về adoni; không còn gì sót lại trước mặt adoni ngoài thân thể chúng tôi và đất đai của chúng tôi.",
-  "tokens": [],
-  "timestamp": "2026-08-19T02:26:23.541571791Z",
+  "translation": "Và năm đó chấm dứt, họ đến với ông vào năm thứ hai và nói với ông: Không giấu gì adoni, vì银子 đã cạn và đàn súc vật đã về adoni; không còn gì trước mặt adoni ngoài thân thể chúng tôi và đất đai chúng tôi.",
+  "tokens": [
+    {
+      "surface": "ותתם",
+      "gloss": "và chấm dứt"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "năm đó"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ấy"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "và họ đến"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "với ông"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "trong năm"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "thứ hai"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "và họ nói"
+    },
+    {
+      "surface": "לו",
+      "gloss": "với ông"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "chúng tôi giấu"
+    },
+    {
+      "surface": "מאדני",
+      "gloss": "khỏi adoni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nếu"
+    },
+    {
+      "surface": "תם",
+      "gloss": "đã cạn"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "bạc tiền"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "và đàn súc vật"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "của loài thú"
+    },
+    {
+      "surface": "אל",
+      "gloss": "đến"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "adoni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "không"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "còn lại"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "trước mặt"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "adoni"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ngoài"
+    },
+    {
+      "surface": "אם",
+      "gloss": "trừ"
+    },
+    {
+      "surface": "גויתנו",
+      "gloss": "thân thể chúng tôi"
+    },
+    {
+      "surface": "ואדמתנו",
+      "gloss": "và đất đai chúng tôi"
+    }
+  ],
+  "timestamp": "2026-08-24T16:03:11.823995694Z",
   "model": "glm-5.3"
 }

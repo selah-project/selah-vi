@@ -5,36 +5,37 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 39,
-  "translation": "Và ⟨את⟩ dây đai vải gai mảnh xe, màu xanh-tím, màu đỏ tía, và màu đỏ son虫 — công việc của người thêu — như Yahweh đã truyền lệnh cho ⟨את⟩ Moshe.",
+  "translation": "Và ⟨את⟩ dây thắt lưng bằng gai mảnh xe đôi, màu xanh tía, màu đỏ tía, và màu đỏ son, việc của thợ thêu — như Yahweh đã phán dặn ⟨את⟩ Moshe.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "và ⟨את⟩",
-      "marks": "dây đai"
+      "marks": "dây thắt lưng"
     },
     {
       "surface": "האבנט",
-      "gloss": "dây đai"
+      "gloss": "dây thắt lưng"
     },
     {
       "surface": "שש",
-      "gloss": "vải gai mảnh"
+      "gloss": "gai mảnh"
     },
     {
       "surface": "משזר",
-      "gloss": "xe"
+      "gloss": "xe đôi"
     },
     {
-      "surface": "ותכלת",
-      "gloss": "màu xanh-tím"
+      "surface": "ותכלет",
+      "gloss": "và màu xanh tía",
+      "notes": null
     },
     {
       "surface": "וארגמן",
-      "gloss": "màu đỏ tía"
+      "gloss": "và màu đỏ tía"
     },
     {
       "surface": "ותולעת",
-      "gloss": "con sâu"
+      "gloss": "và con sâu"
     },
     {
       "surface": "שני",
@@ -42,11 +43,11 @@
     },
     {
       "surface": "מעשה",
-      "gloss": "công việc"
+      "gloss": "việc"
     },
     {
       "surface": "רקם",
-      "gloss": "thêu"
+      "gloss": "thợ thêu"
     },
     {
       "surface": "כאשר",
@@ -54,7 +55,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "truyền lệnh"
+      "gloss": "đã phán dặn"
     },
     {
       "surface": "יהוה",
@@ -70,6 +71,6 @@
       "gloss": "Moshe"
     }
   ],
-  "timestamp": "2026-08-19T02:39:30.908236762Z",
+  "timestamp": "2026-08-24T16:05:12.754445940Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 27,
-  "translation": "Hãy đi, tôi nài anh, đến ⟨với⟩ đàn cừu, và bắt cho tôi từ đó hai con dê con tốt, rồi tôi sẽ làm ⟨את⟩ ⟨אתם⟩ chúng thành món ngon cho cha anh, như ngài yêu thích.",
+  "translation": "Hãy đi, tôi xin con, đến ⟨את⟩ đàn chiên, và bắt cho tôi từ đó hai con dê con tốt, rồi tôi sẽ làm ⟨את⟩ ⟨אתם⟩ chúng thành món ngon cho cha con, theo như ông ấy yêu thích.",
   "tokens": [
     {
       "surface": "לך",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "נא",
-      "gloss": "tôi nài anh"
+      "gloss": "tôi xin"
     },
     {
       "surface": "אל",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "הצאן",
-      "gloss": "đàn cừu"
+      "gloss": "đàn chiên"
     },
     {
       "surface": "וקח",
-      "gloss": "và bắt lấy"
+      "gloss": "và bắt"
     },
     {
       "surface": "לי",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "גדיי",
-      "gloss": "con dê con"
+      "gloss": "dê con"
     },
     {
       "surface": "עזים",
@@ -58,7 +58,7 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "món ngon"
+      "marks": "chúng (hai con dê con)"
     },
     {
       "surface": "מטעמים",
@@ -66,17 +66,17 @@
     },
     {
       "surface": "לאביך",
-      "gloss": "cho cha anh"
+      "gloss": "cho cha con"
     },
     {
       "surface": "כאשר",
-      "gloss": "như"
+      "gloss": "theo như"
     },
     {
       "surface": "אהב",
       "gloss": "yêu thích"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.950016015Z",
+  "timestamp": "2026-08-24T16:58:27.509608372Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "vi",
   "chapter": 19,
-  "translation": "Khi ngươi giữ ⟨את⟩ toàn bộ điều răn này để làm nó, điều mà ta (אנכי) truyền cho ngươi hôm nay, để yêu Yahweh Elohim của ngươi và đi trong các đường lối Ngài mọi ngày, thì ngươi sẽ thêm cho mình ba thành nữa trên ba thành nầy.",
+  "translation": "Nếu ngươi giữ ⟨את⟩ toàn bộ mệnh lệnh này để làm theo nó, mà ta truyền cho ngươi hôm nay, để yêu mến ⟨את⟩ Yahweh Elohim của ngươi và đi trong các đường lối của Ngài mọi ngày, thì ngươi sẽ thêm cho mình nữa ba thành phố trên ba thành phố này.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "khi"
+      "gloss": "nếu"
     },
     {
       "surface": "תשמר",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "toàn bộ điều răn này"
+      "marks": "toàn bộ mệnh lệnh này"
     },
     {
       "surface": "כל",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "המצוה",
-      "gloss": "điều răn"
+      "gloss": "mệnh lệnh"
     },
     {
       "surface": "הזאת",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "לעשתה",
-      "gloss": "để làm nó"
+      "gloss": "để làm theo nó"
     },
     {
       "surface": "אשר",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "לאהבה",
-      "gloss": "để yêu"
+      "gloss": "để yêu mến"
     },
     {
       "surface": "את",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "בדרכיו",
-      "gloss": "trong các đường lối Ngài"
+      "gloss": "trong các đường lối của Ngài"
     },
     {
       "surface": "כל",
@@ -103,7 +103,7 @@
     },
     {
       "surface": "ערים",
-      "gloss": "thành"
+      "gloss": "thành phố"
     },
     {
       "surface": "על",
@@ -115,9 +115,9 @@
     },
     {
       "surface": "האלה",
-      "gloss": "nầy"
+      "gloss": "này"
     }
   ],
-  "timestamp": "2026-08-19T03:09:34.166265569Z",
+  "timestamp": "2026-08-24T16:26:43.490709093Z",
   "model": "glm-5.3"
 }

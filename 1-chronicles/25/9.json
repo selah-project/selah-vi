@@ -5,15 +5,15 @@
   "book": "1-chronicles",
   "lang": "vi",
   "chapter": 25,
-  "translation": "Và trúng ⟨the⟩ thẻ đầu tiên cho Asaph, cho Yosef; Gedalyahu ⟨the⟩ thứ nhì, chính hắn và các anh em hắn và các con hắn, mười hai.",
+  "translation": "Và ra ⟨⟨את⟩⟩-cái-quẻ thứ nhất thuộc về Asaph, cho Yosef; Gedalyahu ⟨⟩thứ hai — ông, các anh em ông và các con ông, mười hai.",
   "tokens": [
     {
       "surface": "ויצא",
-      "gloss": "đã ra\/trúng"
+      "gloss": "và ra"
     },
     {
       "surface": "הגורל",
-      "gloss": "thẻ (bốc thăm)"
+      "gloss": "cái quẻ"
     },
     {
       "surface": "הראשון",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "הוא",
-      "gloss": "chính hắn"
+      "gloss": "ông"
     },
     {
       "surface": "ואחיו",
-      "gloss": "và các anh em hắn"
+      "gloss": "và các anh em ông"
     },
     {
       "surface": "ובניו",
-      "gloss": "và các con hắn"
+      "gloss": "và các con ông"
     },
     {
       "surface": "שנים",
@@ -56,6 +56,6 @@
       "gloss": "mười"
     }
   ],
-  "timestamp": "2026-08-19T05:52:03.475262411Z",
+  "timestamp": "2026-08-24T16:25:06.243754564Z",
   "model": "glm-5.3"
 }

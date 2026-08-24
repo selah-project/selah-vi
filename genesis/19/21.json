@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 19,
-  "translation": "Và Ngài phán cùng ông: Này, Ta đã nâng ⟨the⟩ mặt ngươi, cả về lời nói ⟨the⟩ này, để Ta không lật đổ ⟨את⟩ thành mà ngươi đã nói.",
+  "translation": "Và người nói với ông: Này, Ta đã nâng gương mặt ngươi, cả về điều này nữa — là không lật đổ ⟨את⟩ thành phố mà ngươi đã nói.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "và Ngài phán"
+      "gloss": "và người nói"
     },
     {
       "surface": "אליו",
-      "gloss": "cùng ông"
+      "gloss": "với ông"
     },
     {
       "surface": "הנה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "פניך",
-      "gloss": "mặt ngươi"
+      "gloss": "gương mặt ngươi"
     },
     {
       "surface": "גם",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "לדבר",
-      "gloss": "về lời nói"
+      "gloss": "về điều"
     },
     {
       "surface": "הזה",
@@ -41,20 +41,20 @@
     },
     {
       "surface": "לבלתי",
-      "gloss": "để không"
+      "gloss": "là không"
     },
     {
       "surface": "הפכי",
-      "gloss": "Ta lật đổ"
+      "gloss": "lật đổ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "thành"
+      "marks": "thành phố"
     },
     {
       "surface": "העיר",
-      "gloss": "thành"
+      "gloss": "thành phố"
     },
     {
       "surface": "אשר",
@@ -65,6 +65,6 @@
       "gloss": "ngươi đã nói"
     }
   ],
-  "timestamp": "2026-08-19T01:01:28.237398537Z",
+  "timestamp": "2026-08-24T16:02:02.939926646Z",
   "model": "glm-5.3"
 }

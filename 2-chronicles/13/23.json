@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "vi",
   "chapter": 13,
-  "translation": "Aviyah an giấc cùng các tổ phụ ông, và họ chôn ⟨את⟩ ⟨אתו⟩ ông trong thành của David; và Asa con trai ông làm vua thay ông; trong các ngày của ông xứ được yên tị mười năm.",
+  "translation": "Vi Aviyah ngủ cùng với các tổ phụ mình, và người ta chôn ⟨את⟩ ngài trong thành của David; và Asa con trai ngài làm vua thay cho ngài; trong những ngày của mình xứ đất được yên tĩnh mười năm.",
   "tokens": [
     {
       "surface": "וישכב",
-      "gloss": "và an giấc"
+      "gloss": "vi... ngủ"
     },
     {
       "surface": "אביה",
@@ -17,20 +17,20 @@
     },
     {
       "surface": "עם",
-      "gloss": "cùng"
+      "gloss": "cùng với"
     },
     {
       "surface": "אבתיו",
-      "gloss": "các tổ phụ ông"
+      "gloss": "các tổ phụ mình"
     },
     {
       "surface": "ויקברו",
-      "gloss": "và họ chôn"
+      "gloss": "và người ta chôn"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "ông"
+      "gloss": "⟨את⟩",
+      "marks": "ngài (Aviyah)"
     },
     {
       "surface": "בעיר",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "דויד",
-      "gloss": "David"
+      "gloss": "của David"
     },
     {
       "surface": "וימלך",
-      "gloss": "và làm vua"
+      "gloss": "và... làm vua"
     },
     {
       "surface": "אסא",
@@ -50,23 +50,23 @@
     },
     {
       "surface": "בנו",
-      "gloss": "con trai ông"
+      "gloss": "con trai ngài"
     },
     {
       "surface": "תחתיו",
-      "gloss": "thay ông"
+      "gloss": "thay cho ngài"
     },
     {
       "surface": "בימיו",
-      "gloss": "trong các ngày của ông"
+      "gloss": "trong những ngày của mình"
     },
     {
       "surface": "שקטה",
-      "gloss": "được yên tị"
+      "gloss": "được yên tĩnh"
     },
     {
       "surface": "הארץ",
-      "gloss": "xứ"
+      "gloss": "xứ đất"
     },
     {
       "surface": "עשר",
@@ -77,6 +77,6 @@
       "gloss": "năm"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.009259449Z",
+  "timestamp": "2026-08-24T16:25:18.840789612Z",
   "model": "glm-5.3"
 }

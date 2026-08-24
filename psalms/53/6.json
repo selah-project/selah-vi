@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "vi",
   "chapter": 53,
-  "translation": "Ở đó họ kinh sợ ⟨⟨một⟩⟩ cơn kinh hoàng — không có cơn kinh hoàng nào; vì Elohim đã rải tán xương kẻ vây hãm ngươi. Ngươi đã làm chúng nó xấu hổ, vì Elohim đã bỏ chúng nó.",
+  "translation": "Ở đó họ kinh hoàng ⟨vì⟩ nỗi kinh hoàng — không có nỗi kinh hoàng nào — vì Elohim đã rải tán xương kẻ đóng trại chống lại ngươi; Ngươi đã làm chúng xấu hổ, vì Elohim đã khinh bỏ chúng.",
   "tokens": [
     {
       "surface": "שם",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "פחדו",
-      "gloss": "họ kinh sợ"
+      "gloss": "họ kinh hoàng"
     },
     {
       "surface": "פחד",
-      "gloss": "cơn kinh hoàng"
+      "gloss": "nỗi kinh hoàng"
     },
     {
       "surface": "לא",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "פחד",
-      "gloss": "cơn kinh hoàng"
+      "gloss": "nỗi kinh hoàng"
     },
     {
       "surface": "כי",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "חנך",
-      "gloss": "kẻ vây hãm ngươi"
+      "gloss": "kẻ đóng trại chống lại ngươi"
     },
     {
       "surface": "הבשתה",
-      "gloss": "ngươi đã làm xấu hổ"
+      "gloss": "Ngươi đã làm xấu hổ"
     },
     {
       "surface": "כי",
@@ -65,9 +65,9 @@
     },
     {
       "surface": "מאסם",
-      "gloss": "đã bỏ chúng nó"
+      "gloss": "đã khinh bỏ chúng"
     }
   ],
-  "timestamp": "2026-08-19T05:01:27.789991912Z",
+  "timestamp": "2026-08-24T16:20:40.581110593Z",
   "model": "glm-5.3"
 }

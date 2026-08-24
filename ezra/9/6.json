@@ -5,7 +5,7 @@
   "book": "ezra",
   "lang": "vi",
   "chapter": 9,
-  "translation": "Và tôi nói: Elohim của tôi, tôi xấu-hổ và thẹn-đỏ không dám ngước khuôn mặt lên đến Ngài, Elohim của tôi, vì các tội-ác của chúng tôi đã chồng chất lên trên đầu, và tội-lỗi của chúng-icons đã lớn lên直到 các tầng trời.",
+  "translation": "và tôi nói: Elohim của tôi, tôi xấu hổ và thẹn đỏ đến nỗi không thể ngước ⟨את⟩ mặt tôi lên hướng về Ngài, Elohim của tôi, vì sự ác của chúng tôi đã tăng lên trên đầu, và tội lỗi của chúng tôi đã lớn đến tận các tầng trời.",
   "tokens": [
     {
       "surface": "ואמרה",
@@ -17,27 +17,32 @@
     },
     {
       "surface": "בשתי",
-      "gloss": "tôi xấu-hổ"
+      "gloss": "tôi xấu hổ"
     },
     {
       "surface": "ונכלמתי",
-      "gloss": "và tôi thẹn-đỏ"
+      "gloss": "và tôi thẹn đỏ"
     },
     {
       "surface": "להרים",
-      "gloss": "để ngước lên"
+      "gloss": "để nhấc lên"
     },
     {
       "surface": "אלהי",
       "gloss": "Elohim của tôi"
     },
     {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mặt tôi"
+    },
+    {
       "surface": "פני",
-      "gloss": "khuôn mặt của tôi"
+      "gloss": "mặt tôi"
     },
     {
       "surface": "אליך",
-      "gloss": "đến Ngài"
+      "gloss": "hướng về Ngài"
     },
     {
       "surface": "כי",
@@ -45,15 +50,15 @@
     },
     {
       "surface": "עונתינו",
-      "gloss": "các tội-ác của chúng tôi"
+      "gloss": "sự ác của chúng tôi"
     },
     {
       "surface": "רבו",
-      "gloss": "đã增多 chồng chất"
+      "gloss": "đã tăng lên"
     },
     {
       "surface": "למעלה",
-      "gloss": "lên trên"
+      "gloss": "trên"
     },
     {
       "surface": "ראש",
@@ -61,21 +66,21 @@
     },
     {
       "surface": "ואשמתנו",
-      "gloss": "và tội-lỗi của chúng tôi"
+      "gloss": "và tội lỗi của chúng tôi"
     },
     {
       "surface": "גדלה",
-      "gloss": "đã lớn lên"
+      "gloss": "đã lớn"
     },
     {
       "surface": "עד",
-      "gloss": "cho đến"
+      "gloss": "đến tận"
     },
     {
       "surface": "לשמים",
       "gloss": "các tầng trời"
     }
   ],
-  "timestamp": "2026-08-19T05:43:15.926765182Z",
+  "timestamp": "2026-08-24T16:23:57.372217101Z",
   "model": "glm-5.3"
 }

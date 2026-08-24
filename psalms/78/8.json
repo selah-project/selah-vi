@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "vi",
   "chapter": 78,
-  "translation": "Và đừng để họ như tổ phụ mình: một dòng đời bướng bỉnh và phản nghịch, dòng đời không chuẩn bị lòng mình, và thần hồn của mình không trung tín ⟨với את⟩ El.",
+  "translation": "Và không nên như cha ông mình, một thế hệ ngoan cố và phản nghịch, một thế hệ lòng không được vững sẵn, và thần linh mình không trung tín ⟨את⟩ ⟨với⟩ El.",
   "tokens": [
     {
       "surface": "ולא",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "יהיו",
-      "gloss": "trở nên"
+      "gloss": "nên như"
     },
     {
       "surface": "כאבותם",
-      "gloss": "như tổ phụ mình"
+      "gloss": "như cha ông mình"
     },
     {
       "surface": "דור",
-      "gloss": "dòng đời"
+      "gloss": "thế hệ"
     },
     {
       "surface": "סורר",
-      "gloss": "bướng bỉnh"
+      "gloss": "ngoan cố"
     },
     {
       "surface": "ומרה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "דור",
-      "gloss": "dòng đời"
+      "gloss": "thế hệ"
     },
     {
       "surface": "לא",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "הכין",
-      "gloss": "chuẩn bị"
+      "gloss": "được vững sẵn"
     },
     {
       "surface": "לבו",
-      "gloss": "lòng mình"
+      "gloss": "lòng"
     },
     {
       "surface": "ולא",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ ⟨với⟩",
       "marks": "El"
     },
     {
@@ -66,9 +66,9 @@
     },
     {
       "surface": "רוחו",
-      "gloss": "thần hồn của mình"
+      "gloss": "thần linh mình"
     }
   ],
-  "timestamp": "2026-08-19T05:04:58.227736278Z",
+  "timestamp": "2026-08-24T16:21:24.118147741Z",
   "model": "glm-5.3"
 }

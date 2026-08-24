@@ -5,8 +5,95 @@
   "book": "1-kings",
   "lang": "vi",
   "chapter": 13,
-  "translation": "Và kìa, những người đi ngang qua, họ thấy ⟨את⟩ cái xác chết ném躺在 đường — Vietnamese: bị ném ra giữa đường — và ⟨את⟩ con sư tử đứng cạnh cái xác; họ đến và kể lại trong thành mà vị naví già đang ngụ tại đó.",
-  "tokens": [],
-  "timestamp": "2026-08-19T03:51:39.059042290Z",
+  "translation": "Và kìa, những người đi ngang qua, thấy ⟨את⟩ xác chết ném nằm trên đường, và ⟨את⟩ con sư tử đứng bên cạnh xác chết; họ đến và kể lại trong thành mà vị nave già đang ở tại đó.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "và kìa"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "những người"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "đi ngang qua"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "và họ thấy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xác chết"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "⟨ה⟩ xác chết"
+    },
+    {
+      "surface": "משלכת",
+      "gloss": "ném nằm"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "trên đường"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "và ⟨את⟩",
+      "marks": "con sư tử"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "⟨ה⟩ con sư tử"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "đứng"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "bên cạnh"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "⟨ה⟩ xác chết"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "và họ đến"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "và họ kể lại"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "trong thành"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mà"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "⟨ה⟩ vị nave"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "⟨ה⟩ già"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ở"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tại đó"
+    }
+  ],
+  "timestamp": "2026-08-24T16:12:48.123013265Z",
   "model": "glm-5.3"
 }

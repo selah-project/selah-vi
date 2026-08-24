@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 50,
-  "translation": "Và Yosef nói với anh em mình: tôi chết; và Elohim chắc chắn sẽ thăm viếng ⟨אתכם⟩, và sẽ đưa ⟨אתכם⟩ lên khỏi đất này, đến đất mà Ngài đã thề với Avraham, với Yitschak, và với Yaakov.",
+  "translation": "Và Yosef nói với các anh em mình: \"Tôi sắp chết, và Elohim chắc chắn sẽ thăm viếng ⟨את⟩ các ngươi, và sẽ đưa các ngươi lên khỏi đất này, đến đất mà Ngài đã thề với Avraham, với Yitschak, và với Yaakov.\"",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אחיו",
-      "gloss": "anh em mình"
+      "gloss": "các anh em mình"
     },
     {
       "surface": "אנכי",
@@ -29,23 +29,23 @@
     },
     {
       "surface": "מת",
-      "gloss": "chết"
+      "gloss": "đang chết"
     },
     {
-      "surface": "ואלהים",
-      "gloss": "và Elohim"
+      "surface": "ויהוה-אלהים_placeholder",
+      "gloss": ""
     },
     {
       "surface": "פקד",
-      "gloss": "sẽ thăm viếng"
+      "gloss": "thăm viếng"
     },
     {
       "surface": "יפקד",
-      "gloss": "chắc chắn thăm viếng"
+      "gloss": "sẽ thăm viếng"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ các ngươi",
       "marks": "các ngươi"
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ các ngươi",
       "marks": "các ngươi"
     },
     {
@@ -98,6 +98,6 @@
       "gloss": "và với Yaakov"
     }
   ],
-  "timestamp": "2026-08-19T02:27:39.395898086Z",
+  "timestamp": "2026-08-24T16:03:28.819986241Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "vi",
   "chapter": 32,
-  "translation": "Không phải ⟨là⟩ những người lớn tuổi đều khôn муд, và các già cả hiểu biết phán quyết.",
+  "translation": "Không phải ⟨⟨những⟩⟩ kẻ quyền thế đều khôn ngoan, và người già năm tháng cũng không hiểu biết ⟨⟨sự⟩⟩ phán xét.",
   "tokens": [
     {
       "surface": "לא",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "רבים",
-      "gloss": "những người lớn tuổi"
+      "gloss": "những kẻ quyền thế"
     },
     {
       "surface": "יחכמו",
-      "gloss": "đều khôn муд"
+      "gloss": "đều khôn ngoan"
     },
     {
       "surface": "וזקנים",
-      "gloss": "và các già cả"
+      "gloss": "và người già năm tháng"
     },
     {
       "surface": "יבינו",
@@ -29,9 +29,9 @@
     },
     {
       "surface": "משפט",
-      "gloss": "phán quyết"
+      "gloss": "sự phán xét"
     }
   ],
-  "timestamp": "2026-08-19T05:25:54.304018488Z",
+  "timestamp": "2026-08-24T16:22:56.976458518Z",
   "model": "glm-5.3"
 }

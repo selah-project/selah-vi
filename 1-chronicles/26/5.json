@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "vi",
   "chapter": 26,
-  "translation": "Ammiel ⟨the⟩ thứ sáu, Yissaskhar ⟨the⟩ thứ bảy, Peullethai ⟨the⟩ thứ tám, vì Elohim đã phước cho ông.",
+  "translation": "Ammiel ⟨⟨the⟩⟩ thứ sáu, Yissaskar ⟨⟨the⟩⟩ thứ bảy, Peullethai ⟨⟨the⟩⟩ thứ tám, vì Elohim đã phúc cho ông.",
   "tokens": [
     {
       "surface": "עמיאל",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "הששי",
-      "gloss": "thứ sáu"
+      "gloss": "⟨the⟩ thứ sáu"
     },
     {
       "surface": "יששכר",
-      "gloss": "Yissaskhar"
+      "gloss": "Yissaskar"
     },
     {
       "surface": "השביעי",
-      "gloss": "thứ bảy"
+      "gloss": "⟨the⟩ thứ bảy"
     },
     {
       "surface": "פעלתי",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "השמיני",
-      "gloss": "thứ tám"
+      "gloss": "⟨the⟩ thứ tám"
     },
     {
       "surface": "כי",
@@ -37,13 +37,13 @@
     },
     {
       "surface": "ברכו",
-      "gloss": "đã phước cho ông"
+      "gloss": "đã phúc cho"
     },
     {
       "surface": "אלהים",
       "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-08-19T06:21:35.532117485Z",
+  "timestamp": "2026-08-24T16:25:04.298814346Z",
   "model": "glm-5.3"
 }

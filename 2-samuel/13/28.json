@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "vi",
   "chapter": 13,
-  "translation": "Avshalom truyền lệnh cho ⟨את⟩ các hạng少年 người hầu của mình rằng: Hãy xem, khi lòng Amnon vui vì rượu, và khi tôi bảo các ngươi: Hãy đánh ⟨את⟩ Amnon rồi giết ⟨את⟩ nó; đừng sợ; há chẳng phải tôi đã ra lệnh ⟨את⟩ các ngươi sao? Hãy mạnh dạn, và hãy làm con trai của sự mạnh bạo.",
+  "translation": "Avshalom đã sai ⟨את⟩ các người hầu trẻ của mình, rằng: Hãy quan sát-nào, khi lòng Amnon được vui vì rượu, và ta nói với các ngươi: Hãy đánh ⟨את⟩ Amnon rồi giết ⟨את⟩ ⟨אתו⟩ nó; đừng sợ; chẳng phải ⟨כי⟩ chính ta đã ra lệnh cho các ngươi sao? Hãy mạnh dạn, và hãy nên những con trai của sự dũng cảm.",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "truyền lệnh"
+      "gloss": "đã-sai"
     },
     {
       "surface": "אבשלום",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "các người hầu của mình"
+      "marks": "các người hầu trẻ của mình"
     },
     {
       "surface": "נעריו",
-      "gloss": "các người hầu của mình"
+      "gloss": "các người hầu trẻ của mình"
     },
     {
       "surface": "לאמר",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "ראו",
-      "gloss": "hãy xem"
+      "gloss": "hãy-quan-sát"
     },
     {
       "surface": "נא",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "כטוב",
-      "gloss": "k khi tốt"
+      "gloss": "khi được-vui"
     },
     {
       "surface": "לב",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "ואמרתי",
-      "gloss": "và khi tôi nói"
+      "gloss": "và ta-nói"
     },
     {
       "surface": "אליכם",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "הכו",
-      "gloss": "hãy đánh"
+      "gloss": "hãy-đánh"
     },
     {
       "surface": "את",
@@ -75,12 +75,12 @@
     },
     {
       "surface": "והמתם",
-      "gloss": "rồi hãy giết"
+      "gloss": "rồi hãy-giết"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ nó",
-      "marks": "nó"
+      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "marks": "nó (Amnon)"
     },
     {
       "surface": "אל",
@@ -92,42 +92,42 @@
     },
     {
       "surface": "הלוא",
-      "gloss": "há chẳng"
+      "gloss": "chẳng-phải"
     },
     {
       "surface": "כי",
-      "gloss": "phải"
+      "gloss": "⟨כי⟩"
     },
     {
       "surface": "אנכי",
-      "gloss": "tôi"
+      "gloss": "chính ta"
     },
     {
       "surface": "צויתי",
-      "gloss": "đã ra lệnh"
+      "gloss": "đã-ra-lệnh"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ các ngươi",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "các ngươi"
     },
     {
       "surface": "חזקו",
-      "gloss": "hãy mạnh dạn"
+      "gloss": "hãy-mạnh-dạn"
     },
     {
       "surface": "והיו",
-      "gloss": "và hãy là"
+      "gloss": "và hãy-nên"
     },
     {
       "surface": "לבני",
-      "gloss": "con trai của"
+      "gloss": "những con trai của"
     },
     {
       "surface": "חיל",
-      "gloss": "sự mạnh bạo"
+      "gloss": "sự dũng cảm"
     }
   ],
-  "timestamp": "2026-08-19T03:41:48.759227310Z",
+  "timestamp": "2026-08-24T16:58:27.508951915Z",
   "model": "glm-5.3"
 }

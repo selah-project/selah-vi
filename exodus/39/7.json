@@ -5,32 +5,32 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 39,
-  "translation": "Và ông đặt ⟨את⟩ ⟨אתם⟩ lên vai áo êphốt — những viên đá kỷ niệm cho con trai Yisrael, như Yahweh đã phán dặn ⟨את⟩ Moshe.",
+  "translation": "Và ông đặt ⟨את⟩ chúng trên vai-đỡ của êphốt, những đá kỷ niệm cho con cái Yisrael, như Yahweh đã truyền lệnh ⟨את⟩ Moshe.",
   "tokens": [
     {
       "surface": "וישם",
-      "gloss": "và ông đặt"
+      "gloss": "đã đặt"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "lên vai áo êphốt"
+      "gloss": "⟨את⟩ chúng",
+      "marks": "chúng (các viên đá)"
     },
     {
       "surface": "על",
-      "gloss": "lên"
+      "gloss": "trên"
     },
     {
       "surface": "כתפת",
-      "gloss": "vai"
+      "gloss": "vai-đỡ"
     },
     {
       "surface": "האפד",
-      "gloss": "của áo êphốt"
+      "gloss": "êphốt"
     },
     {
       "surface": "אבני",
-      "gloss": "các viên đá"
+      "gloss": "những đá"
     },
     {
       "surface": "זכרון",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "לבני",
-      "gloss": "cho con trai"
+      "gloss": "cho con cái"
     },
     {
       "surface": "ישראל",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "đã phán dặn"
+      "gloss": "đã truyền lệnh"
     },
     {
       "surface": "יהוה",
@@ -66,6 +66,6 @@
       "gloss": "Moshe"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.987232575Z",
+  "timestamp": "2026-08-24T16:05:11.971241469Z",
   "model": "glm-5.3"
 }

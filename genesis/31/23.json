@@ -5,24 +5,24 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 31,
-  "translation": "Ông mang theo ⟨את⟩ các anh em mình với mình, đuổi theo sau lưng ông suốt hành trình bảy ngày, và kịp bắt ⟨את⟩ ⟨אתו⟩ ông tại núi Gil'ad.",
+  "translation": "Người lấy ⟨את⟩ các anh em mình theo mình, và đuổi theo sau lưng ông, đường bảy ngày, và kịp started him tại núi HaGilad.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "và mang theo"
+      "gloss": "và người lấy"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "các anh em ông"
+      "marks": "các anh em mình"
     },
     {
       "surface": "אחיו",
-      "gloss": "các anh em ông"
+      "gloss": "các anh em mình"
     },
     {
       "surface": "עמו",
-      "gloss": "với mình"
+      "gloss": "theo mình"
     },
     {
       "surface": "וירדף",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "דרך",
-      "gloss": "hành trình"
+      "gloss": "đường"
     },
     {
       "surface": "שבעת",
@@ -46,12 +46,12 @@
     },
     {
       "surface": "וידבק",
-      "gloss": "và bám sát kịp"
+      "gloss": "và kịp started"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "ông"
+      "gloss": "⟨את⟩",
+      "marks": "tại núi HaGilad"
     },
     {
       "surface": "בהר",
@@ -59,9 +59,9 @@
     },
     {
       "surface": "הגלעד",
-      "gloss": "Gil'ad"
+      "gloss": "HaGilad"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.954215668Z",
+  "timestamp": "2026-08-24T16:02:28.266821095Z",
   "model": "glm-5.3"
 }

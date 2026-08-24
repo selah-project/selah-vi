@@ -5,16 +5,16 @@
   "book": "leviticus",
   "lang": "vi",
   "chapter": 3,
-  "translation": "Và ⟨הוא⟩ đặt tay mình lên đầu lễ vật của mình, và giết nó trước Trại Hội Mộtvà con trai của Aharon sẽ hắt ⟨את⟩ máu của nó trên bàn thờ, chung quanh.",
+  "translation": "Và người ta đặt ⟨את⟩ tay mình trên đầu lễ vật của mình, và giết nó trước Trại Hội Kiến, và các con trai của Aharon rắc ⟨את⟩ máu của nó trên bàn thờ chung quanh.",
   "tokens": [
     {
       "surface": "וסמך",
-      "gloss": "và đặt (tay)"
+      "gloss": "và đặt"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tay mình (yadô)"
+      "marks": "tay mình"
     },
     {
       "surface": "ידו",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "על",
-      "gloss": "lên trên"
+      "gloss": "trên"
     },
     {
       "surface": "ראש",
@@ -38,8 +38,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "nó (con chiên)"
+      "gloss": "⟨את⟩ nó",
+      "marks": "nó (con vật)"
     },
     {
       "surface": "לפני",
@@ -47,19 +47,19 @@
     },
     {
       "surface": "אהל",
-      "gloss": "Trại"
+      "gloss": "trại"
     },
     {
       "surface": "מועד",
-      "gloss": "Hội Mộtvà"
+      "gloss": "hội kiến"
     },
     {
       "surface": "וזרקו",
-      "gloss": "và chúng sẽ hắt"
+      "gloss": "và rắc"
     },
     {
       "surface": "בני",
-      "gloss": "con trai của"
+      "gloss": "các con trai của"
     },
     {
       "surface": "אהרן",
@@ -68,7 +68,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "máu của nó (damô)"
+      "marks": "máu của nó"
     },
     {
       "surface": "דמו",
@@ -76,7 +76,7 @@
     },
     {
       "surface": "על",
-      "gloss": "lên trên"
+      "gloss": "trên"
     },
     {
       "surface": "המזבח",
@@ -87,6 +87,6 @@
       "gloss": "chung quanh"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.033326949Z",
+  "timestamp": "2026-08-24T16:05:37.933067353Z",
   "model": "glm-5.3"
 }

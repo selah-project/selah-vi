@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "vi",
   "chapter": 22,
-  "translation": "Và ⟨ông⟩ đến với ⟨vua⟩, và ⟨vua⟩ nói với ⟨ông⟩: Mikayhu, chúng ta có đi đến Ramot Gilad để打仗 không, hay ngừng lại? Và ⟨ông⟩ nói với ⟨ông⟩: Hãy lên, và thắng lợi, và Yahweh sẽ phó ⟨nó⟩ vào tay ⟨vua⟩.",
+  "translation": "Và người đến với vua, và vua nói với người: Mikhayhu, chúng ta có nên đi đến Ramot Gilad để chiến trận, hay nên ngừng lại? Và người nói với người: Hãy lên, và thắng lợi, và Yahweh sẽ phó ⟨את⟩ nó vào tay vua.",
   "tokens": [
     {
       "surface": "ויבוא",
-      "gloss": "và ⟨ông⟩ đến"
+      "gloss": "và người đến"
     },
     {
       "surface": "אל",
@@ -17,27 +17,27 @@
     },
     {
       "surface": "המלך",
-      "gloss": "⟨vua⟩"
+      "gloss": "vua"
     },
     {
       "surface": "ויאמר",
-      "gloss": "và ⟨vua⟩ nói"
+      "gloss": "và nói"
     },
     {
       "surface": "המלך",
-      "gloss": "⟨vua⟩"
+      "gloss": "vua"
     },
     {
       "surface": "אליו",
-      "gloss": "với ⟨ông⟩"
+      "gloss": "với người"
     },
     {
       "surface": "מיכיהו",
-      "gloss": "Mikayhu"
+      "gloss": "Mikhayhu"
     },
     {
       "surface": "הנלך",
-      "gloss": "chúng ta có đi không"
+      "gloss": "chúng ta có nên đi"
     },
     {
       "surface": "אל",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "למלחמה",
-      "gloss": "để đánh trận"
+      "gloss": "để chiến trận"
     },
     {
       "surface": "אם",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "và ⟨ông⟩ nói"
+      "gloss": "và nói"
     },
     {
       "surface": "אליו",
-      "gloss": "với ⟨ông⟩"
+      "gloss": "với người"
     },
     {
       "surface": "עלה",
@@ -93,9 +93,9 @@
     },
     {
       "surface": "המלך",
-      "gloss": "⟨vua⟩"
+      "gloss": "vua"
     }
   ],
-  "timestamp": "2026-08-19T03:55:25.868706181Z",
+  "timestamp": "2026-08-24T16:33:43.925170007Z",
   "model": "glm-5.3"
 }

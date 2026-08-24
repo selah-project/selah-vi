@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 1,
-  "translation": "từ hai mươi tuổi trở lên, mọi người ra quân dịch trong Yisrael, các ngươi hãy kiểm điểm ⟨את⟩ ⟨אתם⟩ theo đạo binh của chúng, ngươi cùng Aharon.",
+  "translation": "Từ hai mươi tuổi trở lên, tất cả những ai đi ra quân dịch trong Yisrael, ngươi hãy điểm số ⟨את⟩ họ theo đội ngũ của họ — ngươi và Aharon.",
   "tokens": [
     {
       "surface": "מבן",
-      "gloss": "từ con trai"
+      "gloss": "từ (con trai)… tuổi"
     },
     {
       "surface": "עשרים",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "שנה",
-      "gloss": "tuổi"
+      "gloss": "năm"
     },
     {
       "surface": "ומעלה",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "mọi"
+      "gloss": "tất cả"
     },
     {
       "surface": "יצא",
-      "gloss": "ra"
+      "gloss": "đi ra"
     },
     {
       "surface": "צבא",
@@ -41,16 +41,16 @@
     },
     {
       "surface": "תפקדו",
-      "gloss": "hãy kiểm điểm"
+      "gloss": "hãy điểm số"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "(đạo binh của chúng — đối tượng bị kiểm điểm)"
+      "gloss": "⟨את⟩",
+      "marks": "họ"
     },
     {
       "surface": "לצבאתם",
-      "gloss": "theo đạo binh của chúng"
+      "gloss": "theo đội ngũ của họ"
     },
     {
       "surface": "אתה",
@@ -58,9 +58,9 @@
     },
     {
       "surface": "ואהרן",
-      "gloss": "cùng Aharon"
+      "gloss": "và Aharon"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.049415729Z",
+  "timestamp": "2026-08-24T16:06:08.082821310Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "vi",
   "chapter": 6,
-  "translation": "Và cỗ xe đi đến thửa ruộng của Yehoshua, người Bet-Shemesh, và dừng lại ở đó; và ở đó có một tảng đá lớn, và họ劈补axe xẻ gỗ của cỗ xe, và ⟨את⟩ các con bò cái họ dâng lên làm tế lễ thiêu cho Yahweh.",
+  "translation": "Và cỗ xe đến cánh đồng của Yehoshua người Beit HaShemesh, và nó dừng lại ở đó; và ở đó có ⟨là⟩ một tảng đá lớn; và họ chặt ⟨את⟩ gỗ của cỗ xe, và ⟨את⟩ các con bò cái họ dâng lên làm của lễ thiêu cho Yahweh.",
   "tokens": [
     {
       "surface": "והעגלה",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "באה",
-      "gloss": "đi đến"
-    },
-    {
-      "surface": "אל",
       "gloss": "đến"
     },
     {
+      "surface": "אל",
+      "gloss": "tới"
+    },
+    {
       "surface": "שדה",
-      "gloss": "thửa ruộng"
+      "gloss": "cánh đồng"
     },
     {
       "surface": "יהושע",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "בית",
-      "gloss": "người của Bet"
+      "gloss": "Beit"
     },
     {
       "surface": "השמשי",
-      "gloss": "Shemesh"
+      "gloss": "HaShemesh"
     },
     {
       "surface": "ותעמד",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "ויבקעו",
-      "gloss": "và họ xẻ"
+      "gloss": "và họ chặt"
     },
     {
       "surface": "את",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "עצי",
-      "gloss": "gỗ của"
+      "gloss": "gỗ"
     },
     {
       "surface": "העגלה",
-      "gloss": "cỗ xe"
+      "gloss": "của cỗ xe"
     },
     {
       "surface": "ואת",
@@ -87,13 +87,13 @@
     },
     {
       "surface": "עלה",
-      "gloss": "tế lễ thiêu"
+      "gloss": "của lễ thiêu"
     },
     {
       "surface": "ליהוה",
       "gloss": "cho Yahweh"
     }
   ],
-  "timestamp": "2026-08-19T03:30:46.094892128Z",
+  "timestamp": "2026-08-24T16:10:31.605119300Z",
   "model": "glm-5.3"
 }

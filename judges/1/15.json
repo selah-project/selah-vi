@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "vi",
   "chapter": 1,
-  "translation": "Và nàng nói với ông: Xin ban cho tôi một phước lành, vì ông đã cho tôi đất הנגב (phía nam); ông hãy cho tôi thêm các nguồn nước. Và Kalev ban cho nàng ⟨את⟩ nguồn trên và ⟨את⟩ nguồn dưới.",
+  "translation": "Nàng nói với ông: Hãy cho con một phước lành, vì cha đã cho con đất phía Nam; xin cha cũng cho con các hồ nước. Và Kalev cho nàng ⟨את⟩ các hồ nước trên và ⟨את⟩ các hồ nước dưới.",
   "tokens": [
     {
       "surface": "ותאמר",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "הבה",
-      "gloss": "xin ban"
+      "gloss": "hãy cho"
     },
     {
       "surface": "לי",
-      "gloss": "cho tôi"
+      "gloss": "cho con"
     },
     {
       "surface": "ברכה",
@@ -37,23 +37,23 @@
     },
     {
       "surface": "הנגב",
-      "gloss": "phía nam"
+      "gloss": "phía Nam"
     },
     {
       "surface": "נתתני",
-      "gloss": "ông đã cho tôi"
+      "gloss": "ngài đã cho con"
     },
     {
       "surface": "ונתתה",
-      "gloss": "và ông hãy cho"
+      "gloss": "và ngài hãy cho"
     },
     {
       "surface": "לי",
-      "gloss": "cho tôi"
+      "gloss": "cho con"
     },
     {
       "surface": "גלת",
-      "gloss": "các nguồn"
+      "gloss": "các hồ nước"
     },
     {
       "surface": "מים",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ויתן",
-      "gloss": "và ông ban"
+      "gloss": "và ông cho"
     },
     {
       "surface": "לה",
@@ -74,11 +74,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nguồn trên"
+      "marks": "các hồ nước trên"
     },
     {
       "surface": "גלת",
-      "gloss": "nguồn"
+      "gloss": "các hồ nước"
     },
     {
       "surface": "עלית",
@@ -86,18 +86,18 @@
     },
     {
       "surface": "ואת",
-      "gloss": "và ⟨את⟩",
-      "marks": "nguồn dưới"
+      "gloss": "⟨את⟩",
+      "marks": "các hồ nước dưới"
     },
     {
       "surface": "גלת",
-      "gloss": "nguồn"
+      "gloss": "các hồ nước"
     },
     {
       "surface": "תחתית",
       "gloss": "dưới"
     }
   ],
-  "timestamp": "2026-08-19T06:07:23.159711319Z",
+  "timestamp": "2026-08-24T16:09:58.380431107Z",
   "model": "glm-5.3"
 }

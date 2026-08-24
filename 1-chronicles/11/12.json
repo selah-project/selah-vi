@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "vi",
   "chapter": 11,
-  "translation": "Và sau người là Elazar con trai Dodo, người Achochi — chính ⟨הוא⟩ người <nằm> trong ba dũng sĩ.",
+  "translation": "Và sau ông là Elazar con trai Dodo người Achochi — ông ⟨là⟩ trong ba dũng sĩ.",
   "tokens": [
     {
       "surface": "ואחריו",
-      "gloss": "và sau người"
+      "gloss": "và sau ông"
     },
     {
       "surface": "אלעזר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "chính ⟨הוא⟩ người"
+      "gloss": "ông"
     },
     {
       "surface": "בשלושה",
@@ -40,6 +40,6 @@
       "gloss": "dũng sĩ"
     }
   ],
-  "timestamp": "2026-08-19T05:49:49.594394057Z",
+  "timestamp": "2026-08-24T16:24:44.612303338Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "vi",
   "chapter": 47,
-  "translation": "Và bên dòng suối, trên bờ của nó, bên này và bên kia, mọi cây ăn trái sẽ mọc lên; lá của nó không sẽ héo, và trái của nó không sẽ断tận; theo từng tháng nó sẽ chín sớm, vì nước của nó từ nơi Thánh đi ra; và trái của nó sẽ làm thức ăn, và lá của nó làm thuốc chữa.",
+  "translation": "Và dọc theo khe suối, trên bờ nó, bên này và bên kia, sẽ mọc lên mọi cây trái ăn được; lá của nó sẽ không héo, và trái của nó sẽ không hết; theo từng tháng nó sẽ trái sớm, vì nước của nó từ Đền Thánh chảy ra; trái của nó sẽ làm lương thực, và lá của nó làm thuốc chữa bệnh.",
   "tokens": [
     {
       "surface": "ועל",
-      "gloss": "và bên"
+      "gloss": "và trên"
     },
     {
       "surface": "הנחל",
-      "gloss": "dòng suối"
+      "gloss": "khe suối"
     },
     {
       "surface": "יעלה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "מאכל",
-      "gloss": "ăn trái"
+      "gloss": "trái ăn được"
     },
     {
       "surface": "לא",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "יתם",
-      "gloss": "sẽ断tận"
+      "gloss": "sẽ hết"
     },
     {
       "surface": "פריו",
@@ -73,11 +73,11 @@
     },
     {
       "surface": "לחדשיו",
-      "gloss": "theo từng tháng"
+      "gloss": "theo từng tháng của nó"
     },
     {
       "surface": "יבכר",
-      "gloss": "sẽ chín sớm"
+      "gloss": "sẽ trái sớm"
     },
     {
       "surface": "כי",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "המקדש",
-      "gloss": "nơi Thánh"
+      "gloss": "Đền Thánh"
     },
     {
       "surface": "המה",
@@ -101,11 +101,11 @@
     },
     {
       "surface": "יוצאים",
-      "gloss": "đi ra"
+      "gloss": "chảy ra"
     },
     {
       "surface": "והיו",
-      "gloss": "và sẽ"
+      "gloss": "và sẽ thành"
     },
     {
       "surface": "פריו",
@@ -113,7 +113,7 @@
     },
     {
       "surface": "למאכל",
-      "gloss": "làm thức ăn"
+      "gloss": "làm lương thực"
     },
     {
       "surface": "ועלהו",
@@ -121,9 +121,9 @@
     },
     {
       "surface": "לתרופה",
-      "gloss": "làm thuốc chữa"
+      "gloss": "làm thuốc chữa bệnh"
     }
   ],
-  "timestamp": "2026-08-19T04:43:16.966490893Z",
+  "timestamp": "2026-08-24T16:18:28.415839440Z",
   "model": "glm-5.3"
 }

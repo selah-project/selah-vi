@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 18,
-  "translation": "Và cả ⟨את⟩ các anh em ngươi — chi tộc Levi, chi phái của cha ngươi — hãy đem đến gần ⟨את⟩ cùng ngươi, để họ hợp với ngươi và phục sự ngươi; còn ngươi và các con trai ngươi cùng ⟨את⟩ ngươi, ở trước ⟨the⟩ trại ⟨the⟩ chứng cớ.",
+  "translation": "Cả ⟨את⟩ các anh em ngươi, chi phái của Levi, chi tộc của cha ngươi, hãy đem đến gần ⟨cùng⟩ ngươi, để chúng liên kết với ngươi và phục sự ngươi; còn ngươi và các con trai ngươi ⟨cùng⟩ ngươi ⟨thì⟩ trước mặt trại của sự làm chứng.",
   "tokens": [
     {
       "surface": "וגם",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "מטה",
-      "gloss": "chi tộc"
+      "gloss": "chi phái"
     },
     {
       "surface": "לוי",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "שבט",
-      "gloss": "chi phái"
+      "gloss": "chi tộc"
     },
     {
-      "surface": "אביך",
-      "gloss": "của cha ngươi"
+      "surface": "אביק",
+      "gloss": "cha ngươi"
     },
     {
       "surface": "הקרב",
@@ -42,15 +42,14 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ ngươi",
-      "marks": "cùng ngươi"
+      "gloss": "⟨את⟩ ngươi"
     },
     {
       "surface": "וילוו",
-      "gloss": "và họ sẽ hợp với"
+      "gloss": "để chúng liên kết"
     },
     {
-      "surface": "עלי׎",
+      "surface": "עליך",
       "gloss": "với ngươi"
     },
     {
@@ -67,12 +66,11 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ ngươi",
-      "marks": "cùng ngươi"
+      "gloss": "⟨את⟩ ngươi"
     },
     {
       "surface": "לפני",
-      "gloss": "ở trước"
+      "gloss": "trước mặt"
     },
     {
       "surface": "אהל",
@@ -80,9 +78,9 @@
     },
     {
       "surface": "העדת",
-      "gloss": "của chứng cớ"
+      "gloss": "của sự làm chứng"
     }
   ],
-  "timestamp": "2026-08-19T02:58:40.254247322Z",
+  "timestamp": "2026-08-24T16:07:18.250517694Z",
   "model": "glm-5.3"
 }

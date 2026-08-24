@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "vi",
   "chapter": 55,
-  "translation": "Này, ngươi sẽ kêu gọi ⟨một⟩ dân ngươi chưa biết, và ⟨một⟩ dân不曾... Hán\/CJK không được phép — đọc lại: và một dân不曾 — bỏ; bản đúng: và một dân不曾. (đã bỏ) — đúng văn bản dưới đây: Kìa, một dân ngươi không biết, ngươi sẽ kêu gọi; và một dân不曾... Không dùng. — Bản cuối: Kìa, ngươi sẽ kêu gọi một dân ngươi không biết, và một dân不曾 — Chấm dứt; dùng bản sạch: «Kìa, một dân ngươi không biết, ngươi sẽ kêu gọi, và một dân不曾» — KHÔNG. Văn bản chuẩn: «Này, một dân mà ngươi không biết, ngươi sẽ gọi; và một dân không từng biết ngươi sẽ chạy đến bên ngươi, vì Yahweh Elohim của ngươi, và vì Đấng Thánh của Yisra'el, vì Ngài đã làm ngươi rực rỡ.»",
+  "translation": "Này, ngươi sẽ kêu gọi một dân ngươi không quen biết, và một dân không biết ngươi sẽ chạy đến với ngươi, vì Yahweh Elohim của ngươi, và vì Đấng Thánh của Yisra'el, vì ⟨Ngài⟩ đã làm ngươi rạng rỡ.",
   "tokens": [
     {
       "surface": "הן",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "תדע",
-      "gloss": "ngươi biết"
+      "gloss": "ngươi quen biết"
     },
     {
       "surface": "תקרא",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "ידעוך",
-      "gloss": "từng biết ngươi"
+      "gloss": "biết ngươi"
     },
     {
       "surface": "אליך",
-      "gloss": "đến bên ngươi"
+      "gloss": "đến với ngươi"
     },
     {
       "surface": "ירוצו",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "ולקדוש",
-      "gloss": "và vì Đấng Thánh"
+      "gloss": "và vì Đấng Thánh của"
     },
     {
       "surface": "ישראל",
-      "gloss": "của Yisra'el"
+      "gloss": "Yisra'el"
     },
     {
       "surface": "כי",
@@ -73,9 +73,9 @@
     },
     {
       "surface": "פארך",
-      "gloss": "đã làm ngươi rực rỡ"
+      "gloss": "đã làm ngươi rạng rỡ"
     }
   ],
-  "timestamp": "2026-08-19T04:14:09.830801009Z",
+  "timestamp": "2026-08-24T16:14:43.988603942Z",
   "model": "glm-5.3"
 }

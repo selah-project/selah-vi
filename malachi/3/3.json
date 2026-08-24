@@ -5,7 +5,7 @@
   "book": "malachi",
   "lang": "vi",
   "chapter": 3,
-  "translation": "Và Ngài sẽ ngồi như người luyện và thanh luyện bạc, và sẽ thanh luyện ⟨את⟩ con trai của Levi, và luyện lọc ⟨את⟩ ⟨אתם⟩ như vàng và như bạc; và chúng sẽ thuộc về Yahweh, dâng lên lễ vật trong sự công bình.",
+  "translation": "Và ngài sẽ ngồi như người tinh luyện và làm sạch bạc, và ngài sẽ tinh luyện ⟨את⟩ con trai Levi, và thanh lọc ⟨את⟩ ⟨אתם⟩ như vàng và như bạc; và họ sẽ thuộc về Yahweh, những người dâng lễ vật trong sự công bình.",
   "tokens": [
     {
       "surface": "וישב",
@@ -13,28 +13,28 @@
     },
     {
       "surface": "מצרף",
-      "gloss": "người luyện"
+      "gloss": "người tinh luyện"
     },
     {
       "surface": "ומטהר",
-      "gloss": "và thanh luyện"
+      "gloss": "và làm sạch"
     },
     {
       "surface": "כסף",
       "gloss": "bạc"
     },
     {
-      "surface": "ויטהר",
-      "gloss": "và sẽ thanh luyện"
+      "surface": "וטהר",
+      "gloss": "và sẽ thanh tẩy"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "con trai của Levi"
+      "marks": "con trai Levi"
     },
     {
       "surface": "בני",
-      "gloss": "con trai của"
+      "gloss": "con trai"
     },
     {
       "surface": "לוי",
@@ -42,12 +42,12 @@
     },
     {
       "surface": "וזקק",
-      "gloss": "và luyện lọc"
+      "gloss": "và thanh lọc"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "chúng"
+      "marks": "họ (con trai Levi)"
     },
     {
       "surface": "כזהב",
@@ -59,15 +59,15 @@
     },
     {
       "surface": "והיו",
-      "gloss": "và chúng sẽ là"
+      "gloss": "và họ sẽ là"
     },
     {
       "surface": "ליהוה",
-      "gloss": "thuộc về Yahweh"
+      "gloss": "cho Yahweh"
     },
     {
       "surface": "מגישי",
-      "gloss": "dâng lên"
+      "gloss": "những người dâng"
     },
     {
       "surface": "מנחה",
@@ -78,6 +78,6 @@
       "gloss": "trong sự công bình"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.001378511Z",
+  "timestamp": "2026-08-24T16:58:27.516815428Z",
   "model": "glm-5.3"
 }

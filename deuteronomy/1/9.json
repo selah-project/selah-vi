@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "vi",
   "chapter": 1,
-  "translation": "Và tôi đã nói với các ngài vào thời điểm ấy, rằng: Tôi không thể một mình gánh lấy ⟨את⟩ ⟨אתכם⟩.",
+  "translation": "Và tôi đã nói với các ngươi tại thời điểm đó, rằng: Tôi không thể một mình mang ⟨את⟩ các ngươi.",
   "tokens": [
     {
       "surface": "ואמר",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "אלכם",
-      "gloss": "với các ngài"
+      "gloss": "với các ngươi"
     },
     {
       "surface": "בעת",
-      "gloss": "vào thời điểm"
+      "gloss": "tại thời điểm"
     },
     {
       "surface": "ההוא",
-      "gloss": "ấy"
+      "gloss": "đó"
     },
     {
       "surface": "לאמר",
@@ -41,14 +41,14 @@
     },
     {
       "surface": "שאת",
-      "gloss": "gánh lấy"
+      "gloss": "mang"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "các ngài"
+      "gloss": "⟨את⟩",
+      "marks": "các ngươi"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.021106713Z",
+  "timestamp": "2026-08-24T16:07:48.051499616Z",
   "model": "glm-5.3"
 }

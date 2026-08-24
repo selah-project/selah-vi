@@ -5,8 +5,58 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 25,
-  "translation": "Và ngươi hãy bọc ⟨את nó⟩ bằng vàng tinh sạch; trong và ngoài ngươi hãy bọc nó; và ngươi hãy làm trên nó một vành vàng chung quanh.",
-  "tokens": [],
-  "timestamp": "2026-08-19T02:34:07.510395152Z",
+  "translation": "Ngươi phải bọc ⟨את⟩ nó bằng vàng ròng; từ trong và từ ngoài ngươi phải bọc nó; và ngươi phải làm trên nó một vành khuyên bằng vàng ở quanh.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "và ngươi phải bọc"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ nó",
+      "marks": "Rương"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bằng vàng"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ròng"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "từ trong"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "và từ ngoài"
+    },
+    {
+      "surface": "תצפנו",
+      "gloss": "ngươi phải bọc nó"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "và ngươi phải làm"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "trên nó"
+    },
+    {
+      "surface": "זר",
+      "gloss": "một vành khuyên"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bằng vàng"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ở quanh"
+    }
+  ],
+  "timestamp": "2026-08-24T16:04:22.013476453Z",
   "model": "glm-5.3"
 }

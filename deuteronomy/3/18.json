@@ -5,20 +5,20 @@
   "book": "deuteronomy",
   "lang": "vi",
   "chapter": 3,
-  "translation": "Và tôi đã truyền lệnh cho các ngươi ⟨את⟩ tại lúc ấy, rằng: Yahweh Elohim của các ngươi ban cho các ngươi ⟨את⟩ đất này để chiếm giữ nó; hãy vũ trang đi qua trước mặt anh em mình, con cái Yisrael, tất cả những người dũng lực.",
+  "translation": "Và tôi ra lệnh cho các ngươi ⟨את⟩ ⟨אתכם⟩ vào lúc ấy, rằng: Yahweh Elohim của các ngươi đã ban cho các ngươi ⟨את⟩ đất này, để chiếm giữ nó; hãy trang bị vũ khí đi qua trước mặt anh em các ngươi, con cái Yisrael, tất cả những người dũng cảm.",
   "tokens": [
     {
       "surface": "ואצו",
-      "gloss": "và tôi đã truyền lệnh"
+      "gloss": "và tôi ra lệnh"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "các ngươi"
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "marks": "cho các ngươi (đại từ)"
     },
     {
       "surface": "בעת",
-      "gloss": "tại lúc"
+      "gloss": "vào lúc"
     },
     {
       "surface": "ההוא",
@@ -51,7 +51,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ đất"
+      "gloss": "đất"
     },
     {
       "surface": "הזאת",
@@ -63,11 +63,11 @@
     },
     {
       "surface": "חלוצים",
-      "gloss": "vũ trang"
+      "gloss": "trang bị vũ khí"
     },
     {
       "surface": "תעברו",
-      "gloss": "hãy đi qua"
+      "gloss": "các ngươi hãy đi qua"
     },
     {
       "surface": "לפני",
@@ -95,9 +95,9 @@
     },
     {
       "surface": "חיל",
-      "gloss": "dũng lực"
+      "gloss": "dũng cảm"
     }
   ],
-  "timestamp": "2026-08-19T03:05:22.102106204Z",
+  "timestamp": "2026-08-24T16:58:27.519637940Z",
   "model": "glm-5.3"
 }

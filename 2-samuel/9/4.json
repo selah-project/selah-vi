@@ -5,15 +5,15 @@
   "book": "2-samuel",
   "lang": "vi",
   "chapter": 9,
-  "translation": "Và vua nói với ⟨את⟩ông ấy: ⟨את⟩Người ở đâu? Và Tziva nói với vua: Này, ⟨את⟩người ấy ở nhà Makhir, con Ammiel, בְּלוֹ Lo-Devar.",
+  "translation": "Vua hỏi ông ta: Hắn ở đâu? Tsiba trả lời vua: Kìa, hắn ở nhà Makhir, con Ammiel, tại Lo-Devar.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "và nói"
+      "gloss": "vua hỏi"
     },
     {
       "surface": "לו",
-      "gloss": "với ông ấy"
+      "gloss": "ông ta"
     },
     {
       "surface": "המלך",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "הוא",
-      "gloss": "người"
+      "gloss": "hắn"
     },
     {
       "surface": "ויאמר",
-      "gloss": "và nói"
+      "gloss": "trả lời"
     },
     {
       "surface": "ציבא",
-      "gloss": "Tziva"
+      "gloss": "Tsiba"
     },
     {
       "surface": "אל",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "הנה",
-      "gloss": "này"
+      "gloss": "kìa"
     },
     {
       "surface": "הוא",
-      "gloss": "người ấy"
+      "gloss": "hắn"
     },
     {
       "surface": "בית",
@@ -69,13 +69,13 @@
     },
     {
       "surface": "בלו",
-      "gloss": "ở"
+      "gloss": "tại Lo"
     },
     {
       "surface": "דבר",
-      "gloss": "Lo-Devar"
+      "gloss": "Devar"
     }
   ],
-  "timestamp": "2026-08-19T03:40:46.210745058Z",
+  "timestamp": "2026-08-24T16:11:19.637097082Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "vi",
   "chapter": 12,
-  "translation": "Các trưởng lão trong nhà ông đứng lên ⟨trên⟩ ông để dựng ông dậy khỏi mặt đất, nhưng ông không chịu, và không ăn ⟨את⟩ ⟨אתם⟩ bánh với họ.",
+  "translation": "Các trưởng lão của nhà ông ấy chồm dậy lên trên ông, để dựng ông dậy khỏi mặt đất, nhưng ông chẳng chịu, và chẳng ăn ⟨את⟩ chúng nó bánh nào.",
   "tokens": [
     {
       "surface": "ויקמו",
-      "gloss": "thì đứng lên"
+      "gloss": "chồm dậy"
     },
     {
       "surface": "זקני",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "ביתו",
-      "gloss": "trong nhà ông"
+      "gloss": "của nhà ông ấy"
     },
     {
       "surface": "עליו",
-      "gloss": "⟨trên⟩ ông"
+      "gloss": "lên trên ông"
     },
     {
       "surface": "להקימו",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "nhưng không"
+      "gloss": "nhưng chẳng"
     },
     {
       "surface": "אבה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "và không"
+      "gloss": "và chẳng"
     },
     {
       "surface": "ברא",
@@ -53,14 +53,14 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "với họ"
+      "gloss": "⟨את⟩",
+      "marks": "chúng nó"
     },
     {
       "surface": "לחם",
       "gloss": "bánh"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.940826798Z",
+  "timestamp": "2026-08-24T16:11:02.171125858Z",
   "model": "glm-5.3"
 }

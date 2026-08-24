@@ -5,19 +5,19 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 24,
-  "translation": "Nếu Balak ban cho tôi đầy nhà hắn bạc và vàng, tôi cũng không thể vượt qua ⟨את⟩ miệng Yahweh để làm điều lành hay điều dữ tùy theo lòng mình; điều mà Yahweh phán — ⟨את⟩ ⟨אתו⟩ điều đó tôi sẽ nói.",
+  "translation": "Dù Balak trao cho tôi đầy nhà bạc và vàng, tôi cũng không thể vượt qua ⟨את⟩ miệng Yahweh để làm điều lành hay điều dữ theo lòng mình; điều mà Yahweh phán ⟨את⟩ nó, điều ấy tôi sẽ nói.",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "nếu"
+      "gloss": "dù nếu"
     },
     {
       "surface": "יתן",
-      "gloss": "ban"
+      "gloss": "trao cho"
     },
     {
       "surface": "לי",
-      "gloss": "cho tôi"
+      "gloss": "tôi"
     },
     {
       "surface": "בלק",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "מלא",
-      "gloss": "đầy"
+      "gloss": "sự đầy"
     },
     {
       "surface": "ביתו",
-      "gloss": "nhà hắn"
+      "gloss": "nhà ông ta"
     },
     {
       "surface": "כסף",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "לעבר",
-      "gloss": "vượt qua"
+      "gloss": "để vượt qua"
     },
     {
       "surface": "את",
@@ -82,15 +82,15 @@
     },
     {
       "surface": "מלבי",
-      "gloss": "tùy theo lòng tôi"
+      "gloss": "theo lòng tôi"
     },
     {
       "surface": "אשר",
-      "gloss": "điều mà"
+      "gloss": "mà"
     },
     {
       "surface": "ידבר",
-      "gloss": "phán"
+      "gloss": "Ngài phán"
     },
     {
       "surface": "יהוה",
@@ -98,14 +98,14 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "điều đó tôi sẽ nói"
+      "gloss": "⟨את⟩",
+      "marks": "điều ấy"
     },
     {
       "surface": "אדבר",
       "gloss": "tôi sẽ nói"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.051390615Z",
+  "timestamp": "2026-08-24T16:07:41.224349770Z",
   "model": "glm-5.3"
 }

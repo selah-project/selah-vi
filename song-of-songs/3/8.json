@@ -5,15 +5,15 @@
   "book": "song-of-songs",
   "lang": "vi",
   "chapter": 3,
-  "translation": "Tất cả bọn chúng cầm gươm, được rèn luyện chiến tranh, mỗi người gươm của mình trên đùi mình, vì cơn kinh恐 trong các đêm.",
+  "translation": "Tất cả đều nắm ⟨את⟩ gươm, được huấn luyện chiến trận, mỗi người gươm của mình trên đùi mình, vì sự kinh khiếp trong các đêm.",
   "tokens": [
     {
       "surface": "כלם",
-      "gloss": "tất-cả-bọn-chúng"
+      "gloss": "tất cả"
     },
     {
       "surface": "אחזי",
-      "gloss": "cầm"
+      "gloss": "nắm giữ"
     },
     {
       "surface": "חרב",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "מלמדי",
-      "gloss": "được-rèn-luyện"
+      "gloss": "được huấn luyện"
     },
     {
       "surface": "מלחמה",
-      "gloss": "chiến-tranh"
+      "gloss": "chiến trận"
     },
     {
       "surface": "איש",
-      "gloss": "mỗi-người"
+      "gloss": "mỗi người"
     },
     {
       "surface": "חרבו",
-      "gloss": "gươm-của-mình"
+      "gloss": "gươm của mình"
     },
     {
       "surface": "על",
@@ -41,17 +41,17 @@
     },
     {
       "surface": "ירכו",
-      "gloss": "đùi-của-mình"
+      "gloss": "đùi mình"
     },
     {
       "surface": "מפחד",
-      "gloss": "vì-cơn-kinh-hãi"
+      "gloss": "vì sự kinh khiếp"
     },
     {
       "surface": "בלילות",
-      "gloss": "trong-các-đêm"
+      "gloss": "trong các đêm"
     }
   ],
-  "timestamp": "2026-08-19T05:29:09.250230118Z",
+  "timestamp": "2026-08-24T16:23:03.401102836Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 22,
-  "translation": "Con nữ lừa thấy ⟨את⟩ sứ giả của Yahweh, bèn ép sát vào ⟨the⟩ bức tường, và nó ép ⟨את⟩ chân của Bilam vào ⟨the⟩ bức tường, nên ông lại đánh nó nữa.",
+  "translation": "Và con lừa cái thấy ⟨את⟩ thiên sứ của Yahweh, nên nó ép sát vào bức tường, và nó đè ⟨את⟩ chân của Bilam vào bức tường, và người lại tiếp tục đánh nó.",
   "tokens": [
     {
       "surface": "ותרא",
@@ -13,16 +13,16 @@
     },
     {
       "surface": "האתון",
-      "gloss": "con nữ lừa"
+      "gloss": "con lừa cái"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sứ giả"
+      "marks": "thiên sứ"
     },
     {
       "surface": "מלאך",
-      "gloss": "sứ giả"
+      "gloss": "thiên sứ"
     },
     {
       "surface": "יהוה",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "ותלחץ",
-      "gloss": "bèn ép sát"
+      "gloss": "và nó ép sát"
     },
     {
       "surface": "אל",
@@ -42,12 +42,12 @@
     },
     {
       "surface": "ותלחץ",
-      "gloss": "và ép"
+      "gloss": "và nó đè"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "chân"
+      "marks": "chân của Bilam"
     },
     {
       "surface": "רגל",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "בלעם",
-      "gloss": "của Bilam"
+      "gloss": "Bilam"
     },
     {
       "surface": "אל",
@@ -67,13 +67,13 @@
     },
     {
       "surface": "ויסף",
-      "gloss": "nên lại thêm"
+      "gloss": "và người thêm \/ tiếp tục"
     },
     {
       "surface": "להכתה",
-      "gloss": "đánh nó"
+      "gloss": "để đánh nó"
     }
   ],
-  "timestamp": "2026-08-19T02:59:38.246963595Z",
+  "timestamp": "2026-08-24T16:06:45.703372162Z",
   "model": "glm-5.3"
 }

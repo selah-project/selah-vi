@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 35,
-  "translation": "Và Moshe tập họp ⟨את⟩ toàn thể hội chúng con cái Yisrael, và nói với họ: Đây là những lời mà Yahweh đã phán dặn để làm ⟨את⟩ ⟨אתם⟩.",
+  "translation": "Moshe tập hợp ⟨את⟩ toàn thể hội chúng con cái Yisrael, và ngài phán cùng họ: Đây là những lời mà Yahweh đã truyền phán để làm ⟨את⟩ ⟨אתם⟩.",
   "tokens": [
     {
       "surface": "ויקהל",
-      "gloss": "đã tập họp"
+      "gloss": "và tập hợp"
     },
     {
       "surface": "משה",
@@ -38,15 +38,15 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "và nói"
+      "gloss": "và phán"
     },
     {
       "surface": "אלהם",
-      "gloss": "với họ"
+      "gloss": "cùng họ"
     },
     {
       "surface": "אלה",
-      "gloss": "đây là"
+      "gloss": "này là"
     },
     {
       "surface": "הדברים",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "đã phán dặn"
+      "gloss": "đã truyền phán"
     },
     {
       "surface": "יהוה",
@@ -71,9 +71,9 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "những lời ấy"
+      "marks": "những lời (việc cần làm)"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.986388518Z",
+  "timestamp": "2026-08-24T16:58:27.515032664Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,41 @@
   "book": "psalms",
   "lang": "vi",
   "chapter": 9,
-  "translation": "Vì Ngài đã xét ⟨את⟩ phán quyết của tôi và ⟨את⟩ vụ kiện của tôi; Ngài đã ngự trên ngai, Đấng phán xét công minh.",
-  "tokens": [],
-  "timestamp": "2026-08-19T04:55:51.977628655Z",
+  "translation": "Vì Ngài đã làm ⟨⟨công lý⟩⟩ cho phần xử kiện của tôi và lời biện hộ của tôi; Ngài ngự trên ngai, là Đấng xét xử công minh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vì"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "Ngài đã làm"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "phần xử kiện của tôi"
+    },
+    {
+      "surface": "ודיני",
+      "gloss": "và lời biện hộ của tôi"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "Ngài ngự \/ ngồi"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "trên ngai"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "Đấng xét xử"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "công minh"
+    }
+  ],
+  "timestamp": "2026-08-24T16:19:58.129555444Z",
   "model": "glm-5.3"
 }

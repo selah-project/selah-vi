@@ -5,16 +5,16 @@
   "book": "jeremiah",
   "lang": "vi",
   "chapter": 19,
-  "translation": "Ta sẽ làm cho ⟨את⟩ mưu kế của Yehudah và Yerushalayim ra hư không tại nơi này; Ta sẽ khiến chúng ngã bởi gươm trước mặt kẻ thù nghịch chúng nó, và bởi tay những kẻ tìm kiếm sinh mạng chúng nó; và Ta sẽ ban ⟨את】 xác chết của chúng nó làm đồ ăn cho chim trời và cho thú đồng đất.",
+  "translation": "Ta sẽ phá hủy ⟨את⟩ mưu kế của Yehudah và của Yerushalayim tại nơi này; Ta sẽ khiến chúng ngã bởi gươm trước mặt kẻ thù của chúng, và bởi tay những kẻ tìm kiếm sinh mạng của chúng; và Ta sẽ ban ⟨את⟩ xác chết của chúng làm thức ăn cho loài chim trời và cho loài thú đất.",
   "tokens": [
     {
       "surface": "ובקתי",
-      "gloss": "Ta sẽ làm cho ra hư không"
+      "gloss": "Ta sẽ phá hủy"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mưu kế của Yehudah và Yerushalayim"
+      "marks": "mưu kế"
     },
     {
       "surface": "עצת",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "וירושלם",
-      "gloss": "và Yerushalayim"
+      "gloss": "và của Yerushalayim"
     },
     {
       "surface": "במקום",
-      "gloss": "tại nơi"
+      "gloss": "tại"
     },
     {
       "surface": "הזה",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "איביהם",
-      "gloss": "kẻ thù nghịch của chúng nó"
+      "gloss": "kẻ thù của chúng"
     },
     {
       "surface": "וביד",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "נפשם",
-      "gloss": "sinh mạng của chúng nó"
+      "gloss": "sinh mạng của chúng"
     },
     {
       "surface": "ונתתי",
@@ -71,19 +71,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "xác chết của chúng nó"
+      "marks": "xác chết của chúng"
     },
     {
       "surface": "נבלתם",
-      "gloss": "xác chết của chúng nó"
+      "gloss": "xác chết của chúng"
     },
     {
       "surface": "למאכל",
-      "gloss": "làm đồ ăn"
+      "gloss": "làm thức ăn cho"
     },
     {
       "surface": "לעוף",
-      "gloss": "cho chim"
+      "gloss": "loài chim"
     },
     {
       "surface": "השמים",
@@ -91,13 +91,13 @@
     },
     {
       "surface": "ולבהמת",
-      "gloss": "và cho thú"
+      "gloss": "và cho loài thú"
     },
     {
       "surface": "הארץ",
-      "gloss": "của đất"
+      "gloss": "đất"
     }
   ],
-  "timestamp": "2026-08-19T04:22:02.882762802Z",
+  "timestamp": "2026-08-24T16:15:23.611445547Z",
   "model": "glm-5.3"
 }

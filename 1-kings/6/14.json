@@ -5,30 +5,30 @@
   "book": "1-kings",
   "lang": "vi",
   "chapter": 6,
-  "translation": "Vậy Shelomoh xây ⟨את⟩ ⟨the⟩ nhà, và hoàn tất nó.",
+  "translation": "Và Shlomoh đã xây ⟨את⟩ ngôi nhà, và đã hoàn tất nó.",
   "tokens": [
     {
       "surface": "ויבן",
-      "gloss": "và-xây"
+      "gloss": "đã xây"
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomoh"
+      "gloss": "Shlomoh"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ngôi nhà (הבית)"
+      "marks": "ngôi nhà"
     },
     {
       "surface": "הבית",
-      "gloss": "ngôi-nhà"
+      "gloss": "ngôi nhà"
     },
     {
       "surface": "ויכלהו",
-      "gloss": "và-hoàn-tất-nó"
+      "gloss": "và đã hoàn tất nó"
     }
   ],
-  "timestamp": "2026-08-19T06:09:23.154348217Z",
+  "timestamp": "2026-08-24T16:11:33.160897016Z",
   "model": "glm-5.3"
 }

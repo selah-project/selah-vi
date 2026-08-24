@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 18,
-  "translation": "Và họ sẽ xét xử ⟨את⟩ dân chúng mọi lúc; và sẽ có вся việc lớn họ đem đến cùng ngươi, còn mọi việc nhỏ họ tự xét xử; ngươi sẽ được nhẹ gánh, và họ sẽ gánh cùng ngươi.",
+  "translation": "Và họ sẽ xét xử ⟨את⟩ dân sự vào mọi lúc; và sẽ xảy ra ⟨là⟩ mọi việc lớn họ sẽ đem đến cùng ngươi, còn mọi việc nhỏ họ sẽ tự xét xử; như vậy ⟨gánh nặng⟩ sẽ nhẹ bớt trên ngươi, và họ sẽ gánh cùng ⟨את⟩ ngươi.",
   "tokens": [
     {
       "surface": "ושפטו",
@@ -14,15 +14,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dân chúng"
+      "marks": "dân sự"
     },
     {
       "surface": "העם",
-      "gloss": "dân chúng"
+      "gloss": "dân sự"
     },
     {
       "surface": "בכל",
-      "gloss": "mọi"
+      "gloss": "vào mọi"
     },
     {
       "surface": "עת",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "והיה",
-      "gloss": "và sẽ có"
+      "gloss": "và sẽ xảy ra"
     },
     {
       "surface": "כל",
-      "gloss": "vày"
+      "gloss": "mọi"
     },
     {
       "surface": "הדבר",
@@ -74,11 +74,11 @@
     },
     {
       "surface": "והקל",
-      "gloss": "và (ngươi) được nhẹ"
+      "gloss": "và nó sẽ nhẹ bớt"
     },
     {
       "surface": "מעליך",
-      "gloss": "khỏi trên ngươi"
+      "gloss": "trên ngươi"
     },
     {
       "surface": "ונשאו",
@@ -86,9 +86,9 @@
     },
     {
       "surface": "אתך",
-      "gloss": "cùng với ⟨את⟩ ngươi"
+      "gloss": "cùng ⟨את⟩ ngươi"
     }
   ],
-  "timestamp": "2026-08-19T02:32:19.808487515Z",
+  "timestamp": "2026-08-24T16:03:46.433876997Z",
   "model": "glm-5.3"
 }

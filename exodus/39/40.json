@@ -5,16 +5,16 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 39,
-  "translation": "⟨את⟩ các màn của sân, ⟨את⟩ các cột của nó và ⟨את⟩ các chân đế của nó, và ⟨את⟩ bức màn che cho cổng sân, ⟨את〕 các dây của nó và các cọc của nó, và ⟨את⟩ mọi dụng cụ của việc phục vụ Mishkan, cho lều hội kiến;",
+  "translation": "⟨את⟩ các mành chắn của sân, ⟨את⟩ các trụ của nó và ⟨את⟩ các đế của nó, và ⟨את⟩ bức màn cho cổng sân, ⟨את⟩ các dây của nó cùng các cọc của nó, và ⟨את⟩ tất cả các dụng cụ của việc phục vụ ⟨the⟩ Đền Tạm, cho Lều Hội.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "các màn của sân"
+      "marks": "các mành chắn của sân"
     },
     {
       "surface": "קלעי",
-      "gloss": "các màn"
+      "gloss": "các mành chắn"
     },
     {
       "surface": "החצר",
@@ -23,29 +23,29 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "các cột của nó"
+      "marks": "các trụ của nó"
     },
     {
       "surface": "עמדיה",
-      "gloss": "các cột của nó"
+      "gloss": "các trụ của nó"
     },
     {
       "surface": "ואת",
       "gloss": "và ⟨את⟩",
-      "marks": "các chân đế của nó"
+      "marks": "các đế của nó"
     },
     {
       "surface": "אדניה",
-      "gloss": "các chân đế của nó"
+      "gloss": "các đế của nó"
     },
     {
       "surface": "ואת",
       "gloss": "và ⟨את⟩",
-      "marks": "bức màn che cho cổng sân"
+      "marks": "bức màn cho cổng sân"
     },
     {
       "surface": "המסך",
-      "gloss": "bức màn che"
+      "gloss": "bức màn"
     },
     {
       "surface": "לשער",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "החצר",
-      "gloss": "sân"
+      "gloss": "của sân"
     },
     {
       "surface": "את",
@@ -66,16 +66,16 @@
     },
     {
       "surface": "ויתדתיה",
-      "gloss": "và các cọc của nó"
+      "gloss": "cùng các cọc của nó"
     },
     {
       "surface": "ואת",
       "gloss": "và ⟨את⟩",
-      "marks": "mọi dụng cụ của việc phục vụ"
+      "marks": "tất cả các dụng cụ"
     },
     {
       "surface": "כל",
-      "gloss": "mọi"
+      "gloss": "tất cả"
     },
     {
       "surface": "כלי",
@@ -87,17 +87,17 @@
     },
     {
       "surface": "המשכן",
-      "gloss": "của Mishkan"
+      "gloss": "Đền Tạm"
     },
     {
       "surface": "לאהל",
-      "gloss": "cho lều"
+      "gloss": "cho Lều"
     },
     {
       "surface": "מועד",
-      "gloss": "hội kiến"
+      "gloss": "Hội"
     }
   ],
-  "timestamp": "2026-08-19T02:39:22.698046025Z",
+  "timestamp": "2026-08-24T16:05:14.551873817Z",
   "model": "glm-5.3"
 }

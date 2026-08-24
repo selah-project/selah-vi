@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "vi",
   "chapter": 86,
-  "translation": "Hỡi Elohim, những kẻ ngạo mạn đã nổi lên chống con, và一群 bạo quyền đã tìm kiếm mạng sống con, và đã không đặt Ngài trước mặt chúng.",
+  "translation": "Hỡi Elohim, những kẻ kiêu ngạo đã nổi lên chống tôi, và đám bạo tàn đã tìm kiếm sinh mạng tôi, và không đặt Ngài trước mặt chúng.",
   "tokens": [
     {
       "surface": "אלהים",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "זדים",
-      "gloss": "những kẻ ngạo mạn"
+      "gloss": "những kẻ kiêu ngạo"
     },
     {
       "surface": "קמו",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "עלי",
-      "gloss": "chống con"
+      "gloss": "chống tôi"
     },
     {
       "surface": "ועדת",
-      "gloss": "và đám đông"
+      "gloss": "và đám"
     },
     {
       "surface": "עריצים",
-      "gloss": "bạo quyền"
+      "gloss": "bạo tàn"
     },
     {
       "surface": "בקשו",
@@ -37,8 +37,7 @@
     },
     {
       "surface": "נפשי",
-      "gloss": "mạng sống con",
-      "marks": "mạng sống con"
+      "gloss": "sinh mạng tôi"
     },
     {
       "surface": "ולא",
@@ -46,13 +45,13 @@
     },
     {
       "surface": "שמוך",
-      "gloss": "đã đặt Ngài"
+      "gloss": "đặt Ngài"
     },
     {
       "surface": "לנגדם",
       "gloss": "trước mặt chúng"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.981043937Z",
+  "timestamp": "2026-08-24T16:21:16.153444839Z",
   "model": "glm-5.3"
 }

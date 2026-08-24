@@ -5,19 +5,19 @@
   "book": "joshua",
   "lang": "vi",
   "chapter": 12,
-  "translation": "Và这些 là các vua của đất mà con cái Yisra'el đã đánh bại và đã chiếm ⟨את⟩ đất của họ, ở phía bên kia haYarden, về phía mặt trời mọc, từ suối Arnon cho đến núi Chermon, và cả haAravah về phía đông.",
+  "translation": "Và đây là những vị vua của ⟨vùng đất⟩ mà con cái Yisrael đã đánh bại và chiếm lấy ⟨את⟩ đất của họ, ở bên kia sông Yarden, về phía mặt trời mọc, từ suối Arnon cho đến núi Chermon, và toàn thể đồng bằng Arabah về phía đông.",
   "tokens": [
     {
       "surface": "ואלה",
-      "gloss": "và这些"
+      "gloss": "và đây là"
     },
     {
       "surface": "מלכי",
-      "gloss": "các vua của"
+      "gloss": "những vị vua của"
     },
     {
       "surface": "הארץ",
-      "gloss": "đất"
+      "gloss": "⟨vùng đất⟩"
     },
     {
       "surface": "אשר",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yisrael"
     },
     {
       "surface": "וירשו",
-      "gloss": "và đã chiếm"
+      "gloss": "và đã chiếm lấy"
     },
     {
       "surface": "את",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "בעבר",
-      "gloss": "ở phía bên kia"
+      "gloss": "ở bên kia"
     },
     {
       "surface": "הירדן",
-      "gloss": "haYarden"
+      "gloss": "sông Yarden"
     },
     {
       "surface": "מזרחה",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "השמש",
-      "gloss": "mặt trời"
+      "gloss": "của mặt trời (mọc)"
     },
     {
       "surface": "מנחל",
@@ -86,17 +86,17 @@
     },
     {
       "surface": "וכל",
-      "gloss": "và cả"
+      "gloss": "và toàn thể"
     },
     {
       "surface": "הערבה",
-      "gloss": "haAravah"
+      "gloss": "đồng bằng Arabah"
     },
     {
       "surface": "מזרחה",
       "gloss": "về phía đông"
     }
   ],
-  "timestamp": "2026-08-19T03:18:29.052953272Z",
+  "timestamp": "2026-08-24T16:08:43.845363380Z",
   "model": "glm-5.3"
 }

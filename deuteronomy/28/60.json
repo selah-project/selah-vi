@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "vi",
   "chapter": 28,
-  "translation": "Và ⟨א⟩ᴛ Người sẽ đem lại trên ngươi ⟨את⟩ mọi bệnh tật của Mitsrayim mà ngươi đã sợ hãi trước mặt chúng, và chúng sẽ bám chặt vào ngươi.",
+  "translation": "Và Người sẽ đem trở lại trên ngươi ⟨את⟩ mọi bệnh tật của Mitzrayim, điều ngươi đã sợ hãi trước mặt chúng, và chúng sẽ bám chặt lấy ngươi.",
   "tokens": [
     {
       "surface": "והשיב",
-      "gloss": "và sẽ đem lại"
+      "gloss": "và sẽ đem trở lại"
     },
     {
       "surface": "בך",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mọi bệnh tật"
+      "marks": "mọi bệnh tật của Mitzrayim"
     },
     {
       "surface": "כל",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "của Mitsrayim"
+      "gloss": "Mitzrayim"
     },
     {
       "surface": "אשר",
@@ -53,6 +53,6 @@
       "gloss": "vào ngươi"
     }
   ],
-  "timestamp": "2026-08-19T03:12:12.693338245Z",
+  "timestamp": "2026-08-24T16:08:36.428547891Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,65 @@
   "book": "isaiah",
   "lang": "vi",
   "chapter": 13,
-  "translation": "Này, ngày của Yahweh đang đến, tàn nhẫn, cùng cơn giận数据和怒 khí — hãy cẩn thận: Này, ngày của Yahweh đến, tàn nhẫn, với cơn thịnh nộ và nhiệt lòng của cơn giận, để đặt đất thành hoang vu, và kẻ phạm tội của nó Ngài sẽ hủy diệt khỏi nó.",
-  "tokens": [],
-  "timestamp": "2026-08-19T04:05:37.389982611Z",
+  "translation": "Này, ngày của Yahweh đang đến, tàn nhẫn, cùng cơn giận và_heat của cơn thịnh nộ, để đặt đất thành hoang vu, và kẻ có tội của nó nó sẽ bị tiêu diệt khỏi nó.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Này"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ngày"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בא",
+      "gloss": "đang đến"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "tàn nhẫn"
+    },
+    {
+      "surface": "ועברה",
+      "gloss": "và cơn giận"
+    },
+    {
+      "surface": "וחרון",
+      "gloss": "và_heat"
+    },
+    {
+      "surface": "אף",
+      "gloss": "của cơn thịnh nộ"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "để đặt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "đất"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "thành hoang vu"
+    },
+    {
+      "surface": "וחטאיה",
+      "gloss": "và kẻ có tội của nó"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "sẽ bị tiêu diệt"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "khỏi nó"
+    }
+  ],
+  "timestamp": "2026-08-24T16:14:07.486135048Z",
   "model": "glm-5.3"
 }

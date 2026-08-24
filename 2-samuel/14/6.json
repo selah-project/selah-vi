@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "vi",
   "chapter": 14,
-  "translation": "Tớ gái của ngươi có hai đứa con trai, và chúng đánh nhau trong cánh đồng, không có ai giải cứu ở giữa chúng; đứa này đánh ⟨את⟩ đứa kia, và nó giết chết ⟨את⟩ ⟨אתו⟩ nó.",
+  "translation": "Và nữ tỳ của ngài có hai con trai, và hai người chúng tranh đấu với nhau ngoài đồng, và không có người nào cứu vớt ở giữa chúng, và người này đánh ⟨את⟩ người kia, và làm cho người kia chết.",
   "tokens": [
     {
       "surface": "ולשפחתך",
-      "gloss": "và tớ gái của ngươi"
+      "gloss": "và nữ tỳ của ngài"
     },
     {
       "surface": "שני",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "בנים",
-      "gloss": "đứa con trai"
+      "gloss": "con trai"
     },
     {
       "surface": "וינצו",
-      "gloss": "và chúng đánh nhau"
+      "gloss": "và chúng tranh đấu"
     },
     {
       "surface": "שניהם",
-      "gloss": "cả hai"
+      "gloss": "cả hai chúng"
     },
     {
       "surface": "בשדה",
-      "gloss": "trong cánh đồng"
+      "gloss": "ngoài đồng"
     },
     {
       "surface": "ואין",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "מציל",
-      "gloss": "người giải cứu"
+      "gloss": "người cứu vớt"
     },
     {
       "surface": "ביניהם",
@@ -49,27 +49,26 @@
     },
     {
       "surface": "האחד",
-      "gloss": "đứa này"
+      "gloss": "người này"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "đứa kia"
+      "marks": "người kia"
     },
     {
       "surface": "האחד",
-      "gloss": "đứa kia"
+      "gloss": "người kia"
     },
     {
       "surface": "וימת",
-      "gloss": "và giết chết"
+      "gloss": "và làm cho chết"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "nó"
+      "gloss": "⟨את⟩ người kia"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.941966495Z",
+  "timestamp": "2026-08-24T16:11:29.892708332Z",
   "model": "glm-5.3"
 }

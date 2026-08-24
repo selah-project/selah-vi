@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "vi",
   "chapter": 34,
-  "translation": "Và khi họ đem ra ⟨את⟩银子 — ⟨את⟩ món bạc được đem vào nhà Yahweh — thì Chillkiyahu thầy tế lễ tìm thấy ⟨את⟩ cuốn sách của Torah của Yahweh, bởi tay Moshe.",
+  "translation": "Và khi họ đem ra ⟨את⟩ số bạc được đem vào nhà Yahweh, thì Chilqiyahu thầy tế lễ tìm thấy ⟨את⟩ sách Luật pháp của Yahweh, bởi tay Moshe.",
   "tokens": [
     {
       "surface": "ובהוציאם",
@@ -14,11 +14,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "món bạc"
+      "marks": "số bạc"
     },
     {
       "surface": "הכסף",
-      "gloss": "món bạc"
+      "gloss": "số bạc"
     },
     {
       "surface": "המובא",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "חלקיהו",
-      "gloss": "Chillkiyahu"
+      "gloss": "Chilqiyahu"
     },
     {
       "surface": "הכהן",
@@ -47,15 +47,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "cuốn sách"
+      "marks": "sách Luật pháp của Yahweh"
     },
     {
       "surface": "ספר",
-      "gloss": "cuốn sách"
+      "gloss": "sách"
     },
     {
       "surface": "תורת",
-      "gloss": "của Torah"
+      "gloss": "Luật pháp của"
     },
     {
       "surface": "יהוה",
@@ -70,6 +70,6 @@
       "gloss": "Moshe"
     }
   ],
-  "timestamp": "2026-08-19T06:02:08.352758683Z",
+  "timestamp": "2026-08-24T16:25:58.289294233Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "vi",
   "chapter": 12,
-  "translation": "thì họ nói với hắn: Hãy nói na: Shibbolet; và hắn nói: Sibbolet, vì không thể nói đúng như thế;他们就 bắt giữ hắn và giết hắn tại các bến vượt của sông Yarden; và trong lúc ấy, của Ephrajim ngã xuống bốn mươi hai ngàn.",
+  "translation": "Thì họ nói với ⟨אותו⟩ hắn: 'Hãy nói ngày: shibbolet'; và hắn nói: 'sibbolet', vì hắn không thể chuẩn bị nói đúng; thì họ nắm lấy ⟨אותו⟩ hắn và giết hắn tại các bến vượt của sông Yarden; và đã ngã xuống trong lúc đó, thuộc Efrayim, bốn mươi và hai nghìn.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "và họ nói"
+      "gloss": "thì họ nói"
     },
     {
       "surface": "לו",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "נא",
-      "gloss": "na (xin)"
+      "gloss": "ngay bây giờ"
     },
     {
       "surface": "שבלת",
-      "gloss": "Shibbolet"
+      "gloss": "shibbolet"
     },
     {
       "surface": "ויאמר",
@@ -33,31 +33,31 @@
     },
     {
       "surface": "סבלת",
-      "gloss": "Sibbolet"
+      "gloss": "sibbolet"
     },
     {
       "surface": "ולא",
-      "gloss": "vì không"
+      "gloss": "và không"
     },
     {
       "surface": "יכין",
-      "gloss": "có thể"
+      "gloss": "chuẩn bị được"
     },
     {
       "surface": "לדבר",
-      "gloss": "nói"
+      "gloss": "để nói"
     },
     {
       "surface": "כן",
-      "gloss": "đúng như thế"
+      "gloss": "đúng"
     },
     {
       "surface": "ויאחזו",
-      "gloss": "và họ bắt giữ"
+      "gloss": "thì họ nắm lấy"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ hắn",
+      "gloss": "⟨את⟩",
       "marks": "hắn"
     },
     {
@@ -70,15 +70,15 @@
     },
     {
       "surface": "מעברות",
-      "gloss": "các bến vượt của"
+      "gloss": "các bến vượt"
     },
     {
       "surface": "הירדן",
-      "gloss": "sông Yarden"
+      "gloss": "của Yarden"
     },
     {
       "surface": "ויפל",
-      "gloss": "và ngã xuống"
+      "gloss": "và đã ngã xuống"
     },
     {
       "surface": "בעת",
@@ -86,11 +86,11 @@
     },
     {
       "surface": "ההיא",
-      "gloss": "ấy"
+      "gloss": "đó"
     },
     {
       "surface": "מאפרים",
-      "gloss": "của Ephrajim"
+      "gloss": "thuộc Efrayim"
     },
     {
       "surface": "ארבעים",
@@ -102,9 +102,9 @@
     },
     {
       "surface": "אלף",
-      "gloss": "ngàn"
+      "gloss": "nghìn"
     }
   ],
-  "timestamp": "2026-08-19T03:25:51.091514559Z",
+  "timestamp": "2026-08-24T16:09:42.044969923Z",
   "model": "glm-5.3"
 }

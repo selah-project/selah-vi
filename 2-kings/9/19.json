@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "vi",
   "chapter": 9,
-  "translation": "Và ông sai một kỵ mã骑着 ngựa thứ hai, và ông đến với họ, và nói: \"Như vầy vua nói: Có bình an không?\" Và Yehu nói: \"Ngươi có việc gì với sự bình an? Hãy quay ra đằng sau tôi.\"",
+  "translation": "Vậy ông sai một người kỵ sĩ thứ nhì đi, và nó đến với họ, và nói: Vua phán như vầy: Có bình an chăng? Và Yehu nói: Ngươi có gì liên can đến sự bình an? Hãy quay lại đằng sau ta.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "và ông sai"
+      "gloss": "vậy ông sai đi"
     },
     {
       "surface": "רכב",
-      "gloss": "kỵ mã"
+      "gloss": "người kỵ sĩ"
     },
     {
       "surface": "סוס",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "שני",
-      "gloss": "thứ hai"
+      "gloss": "thứ nhì"
     },
     {
       "surface": "ויבא",
-      "gloss": "và ông đến"
+      "gloss": "và nó đến"
     },
     {
       "surface": "אלהם",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "nói"
+      "gloss": "phán"
     },
     {
       "surface": "המלך",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "שלום",
-      "gloss": "bình an"
+      "gloss": "bình an chăng"
     },
     {
       "surface": "ויאמר",
@@ -69,11 +69,11 @@
     },
     {
       "surface": "ולשלום",
-      "gloss": "và cho sự bình an"
+      "gloss": "và đến sự bình an"
     },
     {
       "surface": "סב",
-      "gloss": "hãy quay"
+      "gloss": "hãy quay lại"
     },
     {
       "surface": "אל",
@@ -81,9 +81,9 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "đằng sau"
+      "gloss": "đằng sau ta"
     }
   ],
-  "timestamp": "2026-08-19T03:58:55.739999196Z",
+  "timestamp": "2026-08-24T16:13:14.398436924Z",
   "model": "glm-5.3"
 }

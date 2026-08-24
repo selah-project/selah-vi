@@ -5,19 +5,19 @@
   "book": "ezekiel",
   "lang": "vi",
   "chapter": 31,
-  "translation": "Để mọi cây của nước không tự cao về tầm vóc của chúng, và không đặt ⟨את⟩ ngọn tán của mình giữa các bụi rậm, và mọi cây uống nước không đứng vững高 với chúng vì sự kiêu ngạo của chúng; vì tất cả chúng đều bị trao cho sự chết, xuống đất phần dưới, ở giữa con cháu của adam, với những kẻ đi xuống hố.",
+  "translation": "Để cho nên mọi cây bên nước chẳng tự cao về tầm vóc của chúng, chẳng đưa ngọn cây của chúng lên giữa các chốn rậm rạp, chẳng đứng vững nơi chúng về sự cao lớn của chúng — mọi cây uống nước; vì tất cả chúng đã bị trao cho sự chết, xuống đất nơi sâu thẳm, giữa con cái loài người, với những kẻ đi xuống hố.",
   "tokens": [
     {
       "surface": "למען",
-      "gloss": "để"
+      "gloss": "để cho nên"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨rằng⟩"
+      "gloss": "rằng"
     },
     {
       "surface": "לא",
-      "gloss": "không"
+      "gloss": "chẳng"
     },
     {
       "surface": "יגבהו",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "בקומתם",
-      "gloss": "trong tầm vóc của chúng"
+      "gloss": "về tầm vóc của chúng"
     },
     {
       "surface": "כל",
@@ -37,28 +37,28 @@
     },
     {
       "surface": "מים",
-      "gloss": "của nước"
+      "gloss": "bên nước"
     },
     {
       "surface": "ולא",
-      "gloss": "và không"
+      "gloss": "và chẳng"
     },
     {
       "surface": "יתנו",
-      "gloss": "đặt"
+      "gloss": "đưa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ngọn tán của mình"
+      "marks": "ngọn cây của chúng"
     },
     {
       "surface": "צמרתם",
-      "gloss": "ngọn tán của chúng"
+      "gloss": "ngọn cây của chúng"
     },
     {
       "surface": "אל",
-      "gloss": "vào"
+      "gloss": "lên"
     },
     {
       "surface": "בין",
@@ -66,23 +66,23 @@
     },
     {
       "surface": "עבתים",
-      "gloss": "các bụi rậm quấn quanh"
+      "gloss": "các chốn rậm rạp"
     },
     {
       "surface": "ולא",
-      "gloss": "và không"
+      "gloss": "và chẳng"
     },
     {
       "surface": "יעמדו",
-      "gloss": "đứng"
+      "gloss": "đứng vững"
     },
     {
       "surface": "אליהם",
-      "gloss": "với chúng"
+      "gloss": "nơi chúng"
     },
     {
       "surface": "בגבהם",
-      "gloss": "trong sự cao cả của chúng"
+      "gloss": "về sự cao lớn của chúng"
     },
     {
       "surface": "כל",
@@ -106,7 +106,7 @@
     },
     {
       "surface": "נתנו",
-      "gloss": "bị trao"
+      "gloss": "đã bị trao"
     },
     {
       "surface": "למות",
@@ -122,19 +122,19 @@
     },
     {
       "surface": "תחתית",
-      "gloss": "phần dưới"
+      "gloss": "nơi sâu thẳm"
     },
     {
       "surface": "בתוך",
-      "gloss": "ở giữa"
+      "gloss": "giữa"
     },
     {
       "surface": "בני",
-      "gloss": "con cháu của"
+      "gloss": "con cái"
     },
     {
       "surface": "אדם",
-      "gloss": "adam"
+      "gloss": "loài người"
     },
     {
       "surface": "אל",
@@ -149,6 +149,6 @@
       "gloss": "hố"
     }
   ],
-  "timestamp": "2026-08-19T04:40:20.079838522Z",
+  "timestamp": "2026-08-24T16:18:06.016204571Z",
   "model": "glm-5.3"
 }

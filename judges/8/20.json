@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "vi",
   "chapter": 8,
-  "translation": "Và ông nói với Yeter con trưởng tử của mình: \"Hãy đứng dậy, giết ⟨את⟩ ⟨אתם⟩ chúng.\" Nhưng người trai trẻ không rút gươm của mình, vì sợ, vì nó còn là trai trẻ.",
+  "translation": "Ông nói với Yeter, con trưởng nam của mình: Hãy đứng dậy, giết ⟨את⟩ họ. Nhưng người trai trẻ không rút gươm của mình ra, vì ⟨anh ta⟩ sợ, vì anh ta còn là một thiếu niên.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "và ông nói"
+      "gloss": "ông nói"
     },
     {
       "surface": "ליתר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "בכורו",
-      "gloss": "con trưởng tử của mình"
+      "gloss": "con trưởng nam của mình"
     },
     {
       "surface": "קום",
@@ -29,8 +29,8 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אתם⟩ chúng",
-      "marks": "chúng"
+      "gloss": "⟨את⟩",
+      "marks": "họ"
     },
     {
       "surface": "ולא",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "שלף",
-      "gloss": "rút"
+      "gloss": "rút ra"
     },
     {
       "surface": "הנער",
@@ -62,13 +62,13 @@
     },
     {
       "surface": "עודנו",
-      "gloss": "nó còn"
+      "gloss": "anh ta còn"
     },
     {
       "surface": "נער",
-      "gloss": "một trai trẻ"
+      "gloss": "một thiếu niên"
     }
   ],
-  "timestamp": "2026-08-19T06:41:40.964020163Z",
+  "timestamp": "2026-08-24T16:09:57.171171419Z",
   "model": "glm-5.3"
 }

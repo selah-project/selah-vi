@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "vi",
   "chapter": 4,
-  "translation": "Và ông làm ⟨את⟩ Biển bằng kim loại đúc, mười amma từ mép này đến mép kia, tròn xung quanh, và cao năm amma, và một dây dây ba mươi amma quấn ⟨את⟩ ⟨את nó⟩ quanh.",
+  "translation": "Người làm ⟨את⟩ Biển đúc, mười amma từ mép này đến mép kia, tròn xung quanh, cao năm amma, và một dây dài ba mươi amma vây lấy ⟨את⟩ nó quanh về.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "và ông làm"
+      "gloss": "người làm"
     },
     {
       "surface": "את",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "מוצק",
-      "gloss": "bằng kim loại đúc"
+      "gloss": "đúc"
     },
     {
       "surface": "עשר",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "באמה",
-      "gloss": "theo amma"
+      "gloss": "amma"
     },
     {
       "surface": "משפתו",
@@ -58,15 +58,15 @@
     },
     {
       "surface": "באמה",
-      "gloss": "theo amma"
+      "gloss": "amma"
     },
     {
       "surface": "קומתו",
-      "gloss": "cao của nó"
+      "gloss": "chiều cao của nó"
     },
     {
       "surface": "וקו",
-      "gloss": "và một sợi dây"
+      "gloss": "và một dây"
     },
     {
       "surface": "שלשים",
@@ -74,22 +74,22 @@
     },
     {
       "surface": "באמה",
-      "gloss": "theo amma"
+      "gloss": "amma"
     },
     {
       "surface": "יסב",
-      "gloss": "quấn quanh"
+      "gloss": "vây lấy"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨את nó⟩",
-      "marks": "nó (Biển)"
+      "gloss": "⟨את⟩ nó",
+      "marks": "nó"
     },
     {
       "surface": "סביב",
-      "gloss": "xung quanh"
+      "gloss": "quanh về"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.005562132Z",
+  "timestamp": "2026-08-24T16:25:34.844295196Z",
   "model": "glm-5.3"
 }

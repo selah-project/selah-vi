@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "vi",
   "chapter": 6,
-  "translation": "Và vào năm thứ mười một, vào tháng Bul — đó là tháng thứ tám — ⟨ה⟩בית được hoàn tất trong mọi chi tiết của nó và theo mọi quy cách của nó; và người ta đã xây nó trong bảy năm.",
+  "translation": "Và vào năm thứ mười một, vào tháng Bul — ⟨đó⟩ là tháng thứ tám — cái nhà hoàn tất trong mọi việc của nó và trong mọi quy chế của nó, và ⟨người ta⟩ xây nó trong bảy năm.",
   "tokens": [
     {
       "surface": "ובשנה",
-      "gloss": "Và vào năm"
+      "gloss": "và vào năm"
     },
     {
       "surface": "האחת",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "đó là"
+      "gloss": "⟨đó⟩ là"
     },
     {
       "surface": "החדש",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "כלה",
-      "gloss": "được hoàn tất"
+      "gloss": "hoàn tất"
     },
     {
       "surface": "הבית",
-      "gloss": "ngôi nhà"
+      "gloss": "cái nhà"
     },
     {
       "surface": "לכל",
@@ -53,19 +53,19 @@
     },
     {
       "surface": "דבריו",
-      "gloss": "chi tiết của nó"
+      "gloss": "việc của nó"
     },
     {
       "surface": "ולכל",
-      "gloss": "và theo mọi"
+      "gloss": "và trong mọi"
     },
     {
       "surface": "משפטו",
-      "gloss": "quy cách của nó"
+      "gloss": "quy chế của nó"
     },
     {
       "surface": "ויבנהו",
-      "gloss": "và người ta đã xây nó"
+      "gloss": "và ⟨người ta⟩ xây nó"
     },
     {
       "surface": "שבע",
@@ -76,6 +76,6 @@
       "gloss": "năm"
     }
   ],
-  "timestamp": "2026-08-19T03:48:07.821305668Z",
+  "timestamp": "2026-08-24T16:27:36.675099605Z",
   "model": "glm-5.3"
 }

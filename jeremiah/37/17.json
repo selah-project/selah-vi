@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "vi",
   "chapter": 37,
-  "translation": "Vua Tsidkijahu sai người đến đưa Yirmejahu đến, và vua hỏi riêng ⟨ה⟩y ⟨את⟩ y trong nhà mình, tại chỗ kín đáo, và nói: Có lời nào từ ⟨את⟩ Yahweh không? Yirmejahu nói: Có. Và y nói: Ngươi sẽ bị nộp vào tay vua Bavel.",
+  "translation": "Vua Tsidkijah sai phái ⟨và⟩ đem ông ấy ra, và vua hỏi ông ấy trong nhà mình, nơi kín đáo, và nói: Có lời nào từ ⟨את⟩ Yahweh không? Yirmeyahu nói: Có. Ngài phán: Vào tay vua Bavel ngươi sẽ bị trao.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "và sai đi"
+      "gloss": "sai phái"
     },
     {
       "surface": "המלך",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "צדקיהו",
-      "gloss": "Tsidkijahu"
+      "gloss": "Tsidkijah"
     },
     {
       "surface": "ויקחהו",
-      "gloss": "và đưa y đến"
+      "gloss": "đem ông ấy ra"
     },
     {
       "surface": "וישאלהו",
-      "gloss": "và hỏi y"
+      "gloss": "hỏi ông ấy"
     },
     {
       "surface": "המלך",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "בסתר",
-      "gloss": "ở nơi kín đáo"
+      "gloss": "nơi kín đáo"
     },
     {
       "surface": "ויאמר",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "היש",
-      "gloss": "có… không"
+      "gloss": "có... không"
     },
     {
       "surface": "דבר",
@@ -53,7 +53,8 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ từ"
+      "gloss": "⟨את⟩",
+      "marks": "từ Yahweh"
     },
     {
       "surface": "יהוה",
@@ -65,7 +66,7 @@
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Yirmejahu"
+      "gloss": "Yirmeyahu"
     },
     {
       "surface": "יש",
@@ -89,9 +90,9 @@
     },
     {
       "surface": "תנתן",
-      "gloss": "ngươi sẽ bị nộp"
+      "gloss": "ngươi sẽ bị trao"
     }
   ],
-  "timestamp": "2026-08-19T04:26:54.879968593Z",
+  "timestamp": "2026-08-24T16:16:18.504230644Z",
   "model": "glm-5.3"
 }

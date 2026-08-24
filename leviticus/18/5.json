@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "vi",
   "chapter": 18,
-  "translation": "Các ngươi hãy giữ ⟨את⟩ các điều lệ của Ta và ⟨את⟩ các phán quyết của Ta, mà người nào làm ⟨את⟩ chúng thì sẽ sống trong chúng; Ta là Yahweh.",
+  "translation": "Các ngươi hãy giữ ⟨את⟩ luật lệ của Ta và ⟨את⟩ phán quyết của Ta, mà người nào làm chúng thì sẽ sống trong chúng; ta ⟨là⟩ Yahweh.",
   "tokens": [
     {
       "surface": "ושמרתם",
@@ -14,20 +14,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "các điều lệ của Ta"
+      "marks": "luật lệ của Ta"
     },
     {
       "surface": "חקתי",
-      "gloss": "các điều lệ của Ta"
+      "gloss": "luật lệ của Ta"
     },
     {
       "surface": "ואת",
       "gloss": "và ⟨את⟩",
-      "marks": "các phán quyết của Ta"
+      "marks": "phán quyết của Ta"
     },
     {
       "surface": "משפטי",
-      "gloss": "các phán quyết của Ta"
+      "gloss": "phán quyết của Ta"
     },
     {
       "surface": "אשר",
@@ -39,8 +39,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "chúng"
+      "gloss": "⟨את⟩",
+      "marks": "người"
     },
     {
       "surface": "האדם",
@@ -48,7 +48,7 @@
     },
     {
       "surface": "וחי",
-      "gloss": "và sẽ sống"
+      "gloss": "thì sẽ sống"
     },
     {
       "surface": "בהם",
@@ -56,13 +56,13 @@
     },
     {
       "surface": "אני",
-      "gloss": "Ta"
+      "gloss": "ta"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.038349949Z",
+  "timestamp": "2026-08-24T16:05:49.506001734Z",
   "model": "glm-5.3"
 }

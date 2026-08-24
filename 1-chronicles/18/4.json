@@ -5,19 +5,19 @@
   "book": "1-chronicles",
   "lang": "vi",
   "chapter": 18,
-  "translation": "Daviđ bắt从他 một nghìn chiến xa, bảy nghìn kỵ binh, và hai mươi nghìn bộ binh; Daviđ cắt gân ⟨את⟩ tất cả chiến xa, nhưng để lại từ số đó một trăm chiến xa.",
+  "translation": "David bắt lấy từ nơi hắn một nghìn chiến xa, bảy nghìn kỵ binh, và hai mươi nghìn lính bộ binh; và David cắt gân ⟨את⟩ tất cả ngựa chiến xa, nhưng giữ lại từ chúng một trăm chiến xa.",
   "tokens": [
     {
       "surface": "וילכד",
-      "gloss": "bắt"
+      "gloss": "và bắt lấy"
     },
     {
       "surface": "דויד",
-      "gloss": "Daviđ"
+      "gloss": "David"
     },
     {
       "surface": "ממנו",
-      "gloss": "từ hắn"
+      "gloss": "từ nơi hắn"
     },
     {
       "surface": "אלף",
@@ -53,20 +53,20 @@
     },
     {
       "surface": "רגלי",
-      "gloss": "đi bộ"
+      "gloss": "bộ binh"
     },
     {
       "surface": "ויעקר",
-      "gloss": "cắt gân"
+      "gloss": "và cắt gân"
     },
     {
       "surface": "דויד",
-      "gloss": "Daviđ"
+      "gloss": "David"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tất cả"
+      "marks": "tất cả ngựa chiến xa"
     },
     {
       "surface": "כל",
@@ -74,15 +74,15 @@
     },
     {
       "surface": "הרכב",
-      "gloss": "chiến xa"
+      "gloss": "ngựa chiến xa"
     },
     {
       "surface": "ויותר",
-      "gloss": "để lại"
+      "gloss": "và giữ lại"
     },
     {
       "surface": "ממנו",
-      "gloss": "từ số đó"
+      "gloss": "từ chúng"
     },
     {
       "surface": "מאה",
@@ -93,6 +93,6 @@
       "gloss": "chiến xa"
     }
   ],
-  "timestamp": "2026-08-19T05:51:04.993904264Z",
+  "timestamp": "2026-08-24T16:24:49.334992986Z",
   "model": "glm-5.3"
 }

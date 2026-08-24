@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "vi",
   "chapter": 95,
-  "translation": "Bốn mươi năm Ta ghê tởm thế hệ ấy, và Ta nói: Dân này là ⟨⟨dân⟩⟩ lang thang trong lòng, và chúng nó không biết các đường lối của Ta.",
+  "translation": "Bốn mươi năm tôi ghê tởm ⟨đời⟩ nầy, và tôi nói: Dân ⟨là⟩ những kẻ lang thang trong lòng—chính họ; và họ không biết đường lối tôi.",
   "tokens": [
     {
       "surface": "ארבעים",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "אקוט",
-      "gloss": "Ta ghê tởm"
+      "gloss": "tôi ghê tởm"
     },
     {
       "surface": "בדור",
-      "gloss": "trong thế hệ ấy"
+      "gloss": "⟨đời⟩ nầy"
     },
     {
       "surface": "ואמר",
-      "gloss": "và Ta nói"
+      "gloss": "và tôi nói"
     },
     {
       "surface": "עם",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "תעי",
-      "gloss": "lang thang"
+      "gloss": "những kẻ lang thang"
     },
     {
       "surface": "לבב",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "הם",
-      "gloss": "chúng nó là"
+      "gloss": "chính họ"
     },
     {
       "surface": "והם",
-      "gloss": "và chúng nó"
+      "gloss": "và họ"
     },
     {
       "surface": "לא",
@@ -57,9 +57,9 @@
     },
     {
       "surface": "דרכי",
-      "gloss": "các đường lối của Ta"
+      "gloss": "đường lối tôi"
     }
   ],
-  "timestamp": "2026-08-19T06:18:21.663921101Z",
+  "timestamp": "2026-08-24T16:21:31.918087091Z",
   "model": "glm-5.3"
 }

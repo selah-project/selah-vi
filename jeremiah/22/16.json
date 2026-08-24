@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "vi",
   "chapter": 22,
-  "translation": "Ông xét xử ⟨את⟩ án xử của người nghèo khó và kẻ thiếu thốn; bấy giờ ấy là điều lành — há không phải ấy là sự认识 Yahweh ư? sấm của Yahweh.",
+  "translation": "Người xét xử công lý cho kẻ nghèo khó và kẻ thiếu thốn — bấy giờ mọi sự ⟨là⟩ tốt. Há chẳng ⟨phải⟩ đó là sự nhận biết ⟨את⟩ tôi sao? sấm của Yahweh.",
   "tokens": [
     {
       "surface": "דן",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "דין",
-      "gloss": "án xử"
+      "gloss": "công lý"
     },
     {
       "surface": "עני",
-      "gloss": "người nghèo khó"
+      "gloss": "kẻ nghèo khó"
     },
     {
       "surface": "ואביון",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "טוב",
-      "gloss": "là điều lành"
+      "gloss": "tốt"
     },
     {
       "surface": "הלוא",
-      "gloss": "há không"
+      "gloss": "há chẳng"
     },
     {
       "surface": "היא",
-      "gloss": "ấy là"
+      "gloss": "đó là"
     },
     {
       "surface": "הדעת",
@@ -45,8 +45,8 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ Ta",
-      "marks": "Ta (Yahweh) — đối tượng của sự nhận biết"
+      "gloss": "⟨את⟩ tôi",
+      "marks": "tôi (đại từ ngôi thứ nhất trong 'sự nhận biết tôi')"
     },
     {
       "surface": "נאם",
@@ -57,6 +57,6 @@
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-19T04:22:02.674378989Z",
+  "timestamp": "2026-08-24T16:15:21.402905588Z",
   "model": "glm-5.3"
 }

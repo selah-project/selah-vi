@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "vi",
   "chapter": 23,
-  "translation": "Thus says Yahweh of hosts: Do not listen to the words of the prophets who prophesy to you; they are making you vain; a vision of their own heart they speak, not from the mouth of Yahweh.",
+  "translation": "Như vậy Yahweh các đạo binh đã phán: Chớ nghe ⟨về⟩ lời của các ngôn sứ, đang nói tiên tri cho các ngươi; chúng làm các ngươi hư không ⟨את⟩ chúng; điều thấy từ lòng mình chúng nói ra, không phải từ miệng Yahweh.",
   "tokens": [
     {
       "surface": "כה",
-      "gloss": "thus"
+      "gloss": "như vậy"
     },
     {
       "surface": "אמר",
-      "gloss": "has said"
+      "gloss": "đã phán"
     },
     {
       "surface": "יהוה",
@@ -21,27 +21,27 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "của các đạo quân"
+      "gloss": "các đạo binh"
     },
     {
       "surface": "אל",
-      "gloss": "đừng"
+      "gloss": "chớ"
     },
     {
       "surface": "תשמעו",
-      "gloss": "nghe"
+      "gloss": "các ngươi nghe"
     },
     {
       "surface": "על",
-      "gloss": "theo"
+      "gloss": "về"
     },
     {
       "surface": "דברי",
-      "gloss": "các lời"
+      "gloss": "lời của"
     },
     {
       "surface": "הנבאים",
-      "gloss": "của các tiên tri"
+      "gloss": "các ngôn sứ"
     },
     {
       "surface": "הנבאים",
@@ -53,27 +53,28 @@
     },
     {
       "surface": "מהבלים",
-      "gloss": "họ làm cho hư không"
+      "gloss": "làm hư không"
     },
     {
       "surface": "המה",
-      "gloss": "chính họ"
+      "gloss": "chúng"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ các ngươi"
+      "gloss": "⟨את⟩",
+      "marks": "các ngươi"
     },
     {
       "surface": "חזון",
-      "gloss": "một khải tượng"
+      "gloss": "điều thấy (khải tượng)"
     },
     {
       "surface": "לבם",
-      "gloss": "của lòng họ"
+      "gloss": "lòng mình"
     },
     {
       "surface": "ידברו",
-      "gloss": "họ nói"
+      "gloss": "chúng nói"
     },
     {
       "surface": "לא",
@@ -85,9 +86,9 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "của Yahweh"
+      "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-19T04:22:53.227871435Z",
+  "timestamp": "2026-08-24T16:16:28.433684096Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "vi",
   "chapter": 1,
-  "translation": "Và có lời của Yahweh đến cùng tôi, rằng: Ngươi thấy gì, Yirmeyahu? Và tôi nói: Cành hạnh ⟨một cây gậy hạnh> tôi đang thấy.",
+  "translation": "Và có lời của Yahweh đến với tôi, rằng: Ngươi thấy gì, Yirmeyahu? Và tôi nói: Một cây gậy của cây hạnh ⟨את⟩ — tôi đang thấy.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "của Yahweh"
+      "gloss": "Yahweh"
     },
     {
       "surface": "אלי",
-      "gloss": "đến cùng tôi"
+      "gloss": "đến với tôi"
     },
     {
       "surface": "לאמר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ראה",
-      "gloss": "đang thấy"
+      "gloss": "thấy"
     },
     {
       "surface": "ירמיהו",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "מקל",
-      "gloss": "cành gậy"
+      "gloss": "một cây gậy"
     },
     {
       "surface": "שקד",
-      "gloss": "hạnh"
+      "gloss": "của cây hạnh"
     },
     {
       "surface": "אני",
@@ -64,6 +64,6 @@
       "gloss": "đang thấy"
     }
   ],
-  "timestamp": "2026-08-19T04:16:30.418771585Z",
+  "timestamp": "2026-08-24T16:58:27.513040659Z",
   "model": "glm-5.3"
 }

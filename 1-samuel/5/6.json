@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "vi",
   "chapter": 5,
-  "translation": "Tay của Yahweh nặng nề trên dân Ashdod, và Ngài tàn phá họ, và Ngài đánh họ bằng các khối u, ⟨את⟩ Ashdod và ⟨את】 các vùng biên giới của nó.",
+  "translation": "Và tay Yahweh trở nên nặng trên dân Ashdod, và Ngài phá hoang họ, và Ngài đánh ⟨אתם⟩ bằng các khối u — ⟨את⟩ Ashdod và ⟨את⟩ biên giới của nó.",
   "tokens": [
     {
       "surface": "ותכבד",
-      "gloss": "nặng nề"
+      "gloss": "và trở nên nặng"
     },
     {
       "surface": "יד",
-      "gloss": "tay của"
+      "gloss": "tay"
     },
     {
       "surface": "יהוה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "וישמם",
-      "gloss": "và tàn phá"
+      "gloss": "và phá hoang họ"
     },
     {
       "surface": "ויך",
@@ -37,11 +37,12 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ họ"
+      "gloss": "⟨את⟩",
+      "marks": "họ — dân Ashdod"
     },
     {
       "surface": "בעפלים",
-      "gloss": "bằng các khối u"
+      "gloss": "bằng các khối u (ở chỗ kín)"
     },
     {
       "surface": "את",
@@ -54,14 +55,14 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "các vùng biên giới của nó"
+      "gloss": "và ⟨את⟩",
+      "marks": "biên giới của nó"
     },
     {
       "surface": "גבוליה",
-      "gloss": "các vùng biên giới của nó"
+      "gloss": "biên giới của nó"
     }
   ],
-  "timestamp": "2026-08-19T03:31:10.570070104Z",
+  "timestamp": "2026-08-24T16:10:29.488003645Z",
   "model": "glm-5.3"
 }

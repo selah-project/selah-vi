@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "vi",
   "chapter": 6,
-  "translation": "Đây là dòng dõi của Noach: Noach, một người công chính, trọn vẹn, đã ⟨là⟩ trong các thế hệ của mình; Noach bước đi với ⟨את⟩ האלהים Elohim.",
+  "translation": "Đây là dòng dõi của Noach: Noach là người công chính, trọn vẹn trong các đời của mình; Noach bước đi với ⟨את⟩ Elohim.",
   "tokens": [
     {
       "surface": "אלה",
@@ -37,16 +37,16 @@
     },
     {
       "surface": "היה",
-      "gloss": "đã là"
+      "gloss": "là"
     },
     {
       "surface": "בדרתיו",
-      "gloss": "trong các thế hệ của mình"
+      "gloss": "trong các đời của mình"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Elohim (האלהים)"
+      "marks": "Elohim"
     },
     {
       "surface": "האלהים",
@@ -54,13 +54,13 @@
     },
     {
       "surface": "התהלך",
-      "gloss": "bước đi"
+      "gloss": "bước đi với"
     },
     {
       "surface": "נח",
       "gloss": "Noach"
     }
   ],
-  "timestamp": "2026-08-19T00:50:26.751019151Z",
+  "timestamp": "2026-08-24T16:01:48.433053342Z",
   "model": "glm-5.3"
 }

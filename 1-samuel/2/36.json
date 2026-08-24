@@ -5,19 +5,19 @@
   "book": "1-samuel",
   "lang": "vi",
   "chapter": 2,
-  "translation": "Sẽ xảy ra rằng mọi người còn sót trong nhà ngươi sẽ đến lạy người, để xin một ít bạc và một bánh mì, và sẽ nói: Xin cho tôi依附 vào một chức tế lễ, để tôi được ăn một miếng bánh.",
+  "translation": "Và nó sẽ xảy ra: mọi kẻ còn sót trong nhà ngươi sẽ đến lạy người ấy để xin một đồng bạc và một ổ bánh, và sẽ nói: Xin thu nhận tôi, làm ơn, vào một chức tư tế, để tôi được ăn một miếng bánh.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "sẽ xảy ra"
+      "gloss": "và nó sẽ xảy ra"
     },
     {
       "surface": "כל",
-      "gloss": "mọi người"
+      "gloss": "mọi"
     },
     {
       "surface": "הנותר",
-      "gloss": "còn sót"
+      "gloss": "kẻ còn sót"
     },
     {
       "surface": "בביתך",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "לו",
-      "gloss": "người"
+      "gloss": "người ấy"
     },
     {
       "surface": "לאגורת",
-      "gloss": "một ít"
+      "gloss": "để xin một (đồng)"
     },
     {
       "surface": "כסף",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "וככר",
-      "gloss": "và một bánh"
+      "gloss": "và một ổ"
     },
     {
       "surface": "לחם",
-      "gloss": "mì"
+      "gloss": "bánh"
     },
     {
       "surface": "ואמר",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "ספחני",
-      "gloss": "xin gắn tôi vào"
+      "gloss": "xin thu nhận tôi"
     },
     {
       "surface": "נא",
-      "gloss": "xin"
+      "gloss": "làm ơn"
     },
     {
       "surface": "אל",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "הכהנות",
-      "gloss": "chức tế lễ"
+      "gloss": "chức tư tế"
     },
     {
       "surface": "לאכל",
@@ -81,13 +81,13 @@
     },
     {
       "surface": "פת",
-      "gloss": "miếng"
+      "gloss": "một miếng"
     },
     {
       "surface": "לחם",
-      "gloss": "bánh mì"
+      "gloss": "bánh"
     }
   ],
-  "timestamp": "2026-08-19T03:29:41.512223347Z",
+  "timestamp": "2026-08-24T16:10:15.763409798Z",
   "model": "glm-5.3"
 }

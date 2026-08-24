@@ -5,11 +5,11 @@
   "book": "amos",
   "lang": "vi",
   "chapter": 9,
-  "translation": "Trong ngày ấy Ta sẽ dựng lại ⟨את⟩ trại của David đã ngã xuống, và Ta sẽ bít ⟨את⟩ các khe hở của nó, và các phế tích của nó Ta sẽ dựng lên, và Ta sẽ xây lại nó như những ngày xưa远古.",
+  "translation": "Trong ngày ấy Ta sẽ dựng lại ⟨את⟩ lều tạm của David đã ngã xuống, và Ta sẽ修补 ⟨את⟩ các chỗ vỡ của nó, và các đống đổ nát của nó Ta sẽ dựng lại, và Ta sẽ xây nó lại như những ngày xưa kính",
   "tokens": [
     {
       "surface": "ביום",
-      "gloss": "Trong ngày"
+      "gloss": "trong ngày"
     },
     {
       "surface": "ההוא",
@@ -22,15 +22,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "trại của David"
+      "marks": "lều tạm của David"
     },
     {
       "surface": "סכת",
-      "gloss": "trại của"
+      "gloss": "lều tạm"
     },
     {
       "surface": "דויד",
-      "gloss": "David"
+      "gloss": "của David"
     },
     {
       "surface": "הנפלת",
@@ -38,28 +38,28 @@
     },
     {
       "surface": "וגדרתי",
-      "gloss": "và Ta sẽ bít"
+      "gloss": "và Ta sẽ sửa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "các khe hở của nó"
+      "marks": "các chỗ vỡ của nó"
     },
     {
       "surface": "פרציהן",
-      "gloss": "các khe hở của nó"
+      "gloss": "các chỗ vỡ của chúng"
     },
     {
       "surface": "והרסתיו",
-      "gloss": "và các phế tích của nó"
+      "gloss": "và các đống đổ nát của nó"
     },
     {
       "surface": "אקים",
-      "gloss": "Ta sẽ dựng lên"
+      "gloss": "Ta sẽ dựng lại"
     },
     {
       "surface": "ובניתיה",
-      "gloss": "và Ta sẽ xây lại nó"
+      "gloss": "và Ta sẽ xây nó lại"
     },
     {
       "surface": "כימי",
@@ -67,9 +67,9 @@
     },
     {
       "surface": "עולם",
-      "gloss": "xưa远古"
+      "gloss": "đời xưa"
     }
   ],
-  "timestamp": "2026-08-19T04:47:58.288766738Z",
+  "timestamp": "2026-08-24T16:19:12.303632659Z",
   "model": "glm-5.3"
 }

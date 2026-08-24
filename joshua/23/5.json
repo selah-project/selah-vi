@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "vi",
   "chapter": 23,
-  "translation": "Và Yahweh Elohim của các ngươi, chính Ngài sẽ xua đuổi họ khỏi mặt các ngươi, và trục xuất ⟨את⟩ ⟨אתם⟩ khỏi trước mặt các ngươi; và các ngươi sẽ chiếm hữu ⟨את⟩ đất của họ, như Yahweh Elohim của các ngươi đã phán với các ngươi.",
+  "translation": "Và Yahweh Elohim của các ngươi, chính Ngài sẽ đuổi chúng khỏi mặt các ngươi, và truất bỏ ⟨את⟩ ⟨אתם⟩ khỏi trước mặt các ngươi; và các ngươi sẽ chiếm ⟨את⟩ đất của chúng, như Yahweh Elohim của các ngươi đã phán cùng các ngươi.",
   "tokens": [
     {
       "surface": "ויהוה",
-      "gloss": "và Yahweh"
+      "gloss": "Và Yahweh"
     },
     {
       "surface": "אלהיכם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "יהדפם",
-      "gloss": "sẽ xua đuổi họ"
+      "gloss": "sẽ đuổi chúng"
     },
     {
       "surface": "מפניכם",
@@ -29,12 +29,12 @@
     },
     {
       "surface": "והוריש",
-      "gloss": "và trục xuất"
+      "gloss": "và truất bỏ"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "họ (các dân tộc ấy)"
+      "marks": "chúng (các dân đó)"
     },
     {
       "surface": "מלפניכם",
@@ -42,16 +42,16 @@
     },
     {
       "surface": "וירשתם",
-      "gloss": "và các ngươi sẽ chiếm hữu"
+      "gloss": "và các ngươi sẽ chiếm"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "đất của họ"
+      "marks": "đất của chúng"
     },
     {
       "surface": "ארצם",
-      "gloss": "đất của họ"
+      "gloss": "đất của chúng"
     },
     {
       "surface": "כאשר",
@@ -71,9 +71,9 @@
     },
     {
       "surface": "לכם",
-      "gloss": "với các ngươi"
+      "gloss": "cùng các ngươi"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.053522960Z",
+  "timestamp": "2026-08-24T16:58:27.524723979Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "vi",
   "chapter": 19,
-  "translation": "Cân công bình, đá cân công bình, êpha công bình, và hin công bình sẽ có cho các ngươi; ta là Yahweh Elohim các ngươi, Đấng đã đưa ⟨את⟩ ⟨אתכם⟩ các ngươi ra khỏi đất Mitsrayim.",
+  "translation": "Cân đǐu công bình, quả cân công bằng, ê-pha công minh, và hin công minh sẽ có cho các ngươi: Ta ⟨là⟩ Yahweh Elohim của các ngươi, Đấng đã đưa ⟨את⟩ các ngươi ra khỏi đất Mitsrayim.",
   "tokens": [
     {
       "surface": "מאזני",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "אבני",
-      "gloss": "đá cân"
+      "gloss": "quả cân"
     },
     {
       "surface": "צדק",
-      "gloss": "công bình"
+      "gloss": "công bằng"
     },
     {
       "surface": "איפת",
-      "gloss": "êpha"
+      "gloss": "ê-pha"
     },
     {
       "surface": "צדק",
-      "gloss": "công bình"
+      "gloss": "công minh"
     },
     {
       "surface": "והין",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "צדק",
-      "gloss": "công bình"
+      "gloss": "công minh"
     },
     {
       "surface": "יהיה",
-      "gloss": "sẽ là"
+      "gloss": "sẽ có"
     },
     {
       "surface": "לכם",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "אני",
-      "gloss": "ta"
+      "gloss": "Ta"
     },
     {
       "surface": "יהוה",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elohim các ngươi"
+      "gloss": "Elohim của các ngươi"
     },
     {
       "surface": "אשר",
-      "gloss": "Đấng mà"
+      "gloss": "Đấng"
     },
     {
       "surface": "הוצאתי",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "gloss": "⟨את⟩",
       "marks": "các ngươi"
     },
     {
@@ -81,6 +81,6 @@
       "gloss": "Mitsrayim"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.036736151Z",
+  "timestamp": "2026-08-24T16:06:05.701350470Z",
   "model": "glm-5.3"
 }

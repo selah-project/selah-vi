@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "vi",
   "chapter": 33,
-  "translation": "Và ⟨he⟩ làm điều ác trong mắt Yahweh, như Menashsheh cha ⟨của anh⟩ đã làm; và Amon dâng tế ⟨ל⟩ mọi tượng chạm khắc mà Menashsheh cha ⟨của anh⟩ đã làm, và thờ phượng chúng.",
+  "translation": "Vì ông làm điều dữ trong mắt Yahweh, như Menashsheh cha ông đã làm; và Amon đã giết tế ⟨cho⟩ mọi tượng tạc mà Menashsheh cha ông đã làm, và thờ phượng chúng.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "và đã làm"
+      "gloss": "và ông làm"
     },
     {
       "surface": "הרע",
-      "gloss": "điều ác"
+      "gloss": "điều dữ"
     },
     {
       "surface": "בעיני",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אביו",
-      "gloss": "cha của anh"
+      "gloss": "cha ông"
     },
     {
       "surface": "ולכל",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "הפסילים",
-      "gloss": "tượng chạm khắc"
+      "gloss": "tượng tạc"
     },
     {
       "surface": "אשר",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "אביו",
-      "gloss": "cha của anh"
+      "gloss": "cha ông"
     },
     {
       "surface": "זבח",
-      "gloss": "dâng tế"
+      "gloss": "đã giết tế"
     },
     {
       "surface": "אמון",
@@ -76,6 +76,6 @@
       "gloss": "và thờ phượng chúng"
     }
   ],
-  "timestamp": "2026-08-19T06:01:02.799836862Z",
+  "timestamp": "2026-08-24T16:26:04.112039119Z",
   "model": "glm-5.3"
 }

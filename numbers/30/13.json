@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "vi",
   "chapter": 30,
-  "translation": "Nhưng nếu người chồng của nàng phá hủy, xóa bỏ ⟨אתם⟩ vào ngày người ấy nghe, thì mọi điều xuất ra từ môi nàng — về các lời khấn nguyện của nàng và về sự tự ràng buộc linh hồn nàng — sẽ không đứng vững: người chồng của nàng đã phá hủy chúng, và Yahweh sẽ tha thứ cho nàng.",
+  "translation": "Nhưng nếu chồng nàng phá hủy chúng ⟨את⟩ vào ngày chàng nghe, thì mọi điều xuất ra từ môi nàng — về các lời khấn nguyện của nàng hay về sự trói buộc linh hồn nàng — sẽ không đứng vững: chồng nàng đã phá hủy chúng, và Yahweh sẽ tha thứ cho nàng.",
   "tokens": [
     {
       "surface": "ואם",
@@ -17,16 +17,16 @@
     },
     {
       "surface": "יפר",
-      "gloss": "xóa bỏ"
+      "gloss": "thật sự phá hủy"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "chúng (các lời khấn nguyện)"
+      "marks": "chúng"
     },
     {
       "surface": "אישה",
-      "gloss": "người chồng của nàng"
+      "gloss": "chồng nàng"
     },
     {
       "surface": "ביום",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "שמעו",
-      "gloss": "người ấy nghe"
+      "gloss": "chàng nghe"
     },
     {
       "surface": "כל",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "ולאסר",
-      "gloss": "và về sự ràng buộc"
+      "gloss": "hay về sự trói buộc"
     },
     {
       "surface": "נפשה",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "יקום",
-      "gloss": "đứng vững"
+      "gloss": "sẽ đứng vững"
     },
     {
       "surface": "אישה",
-      "gloss": "người chồng của nàng"
+      "gloss": "chồng nàng"
     },
     {
       "surface": "הפרם",
@@ -89,6 +89,6 @@
       "gloss": "cho nàng"
     }
   ],
-  "timestamp": "2026-08-19T03:02:18.230778681Z",
+  "timestamp": "2026-08-24T16:07:41.708986048Z",
   "model": "glm-5.3"
 }

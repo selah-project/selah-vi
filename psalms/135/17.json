@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "vi",
   "chapter": 135,
-  "translation": "Tai chúng có, nhưng chúng không nghe; 〈vâng〉, không có hơi thở trong miệng chúng.",
+  "translation": "Tai chúng có, nhưng chúng không lắng nghe; mũi — không có hơi thở trong miệng chúng!",
   "tokens": [
     {
       "surface": "אזנים",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "יאזינו",
-      "gloss": "nghe"
+      "gloss": "chúng lắng nghe"
     },
     {
       "surface": "אף",
-      "gloss": "vâng"
+      "gloss": "mũi"
     },
     {
       "surface": "אין",
@@ -44,6 +44,6 @@
       "gloss": "trong miệng chúng"
     }
   ],
-  "timestamp": "2026-08-19T06:19:07.982393351Z",
+  "timestamp": "2026-08-24T16:21:52.833610543Z",
   "model": "glm-5.3"
 }

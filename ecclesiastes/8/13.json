@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "vi",
   "chapter": 8,
-  "translation": "Và điều tốt sẽ không đến ⟨với⟩ kẻ ác, và nó sẽ không kéo dài ngày tháng như bóng<cái>, bởi vì nó không phải ⟨là⟩ kẻ sợ hãi trước mặt Elohim.",
+  "translation": "Và điều tốt sẽ không đến với kẻ ác, và nó sẽ không kéo dài ⟨các⟩ ngày như bóngADOW, kẻ không sợ hãi trước mặt Elohim.",
   "tokens": [
     {
       "surface": "וטוב",
@@ -29,27 +29,27 @@
     },
     {
       "surface": "יאריך",
-      "gloss": "kéo dài"
+      "gloss": "sẽ kéo dài"
     },
     {
       "surface": "ימים",
-      "gloss": "ngày tháng"
+      "gloss": "ngày"
     },
     {
       "surface": "כצל",
-      "gloss": "như bóng"
+      "gloss": "như bóngADOW"
     },
     {
       "surface": "אשר",
-      "gloss": "bởi vì"
+      "gloss": "kẻ mà"
     },
     {
       "surface": "איננו",
-      "gloss": "nó không là"
+      "gloss": "không"
     },
     {
       "surface": "ירא",
-      "gloss": "kẻ sợ"
+      "gloss": "sợ hãi"
     },
     {
       "surface": "מלפני",
@@ -60,6 +60,6 @@
       "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-08-19T05:33:57.664881773Z",
+  "timestamp": "2026-08-24T16:23:26.654728914Z",
   "model": "glm-5.3"
 }

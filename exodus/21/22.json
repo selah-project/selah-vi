@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "vi",
   "chapter": 21,
-  "translation": "Và nếu những người đàn ông đánh nhau và va phải ⟨את⟩ người đàn bà có mang, và con của bà đi ra nhưng không có tổn hại, thì kẻ gây ra sẽ bị phạt vạ như丈夫 của người đàn bà ấy định đặt trên hắn, và hắn sẽ trả bằng ₫vía các thẩm phán.",
+  "translation": "Và nếu những người đàn ông đánh nhau, và làm vấp phải một người phụ nữ đang mang thai, và con bà đi ra, nhưng không có tai họa, thì người gây thương tổn phải bị phạt vạ, như chồng của người phụ nữ ấy đặt lên anh ta, và anh ta phải nộp theo phán quyết của các thẩm phán.",
   "tokens": [
     {
       "surface": "וכי",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "ונגפו",
-      "gloss": "và va phải"
+      "gloss": "làm vấp phải"
     },
     {
       "surface": "אשה",
-      "gloss": "người đàn bà"
+      "gloss": "một người phụ nữ"
     },
     {
       "surface": "הרה",
-      "gloss": "có mang"
+      "gloss": "đang mang thai"
     },
     {
       "surface": "ויצאו",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ילדיה",
-      "gloss": "con của bà"
+      "gloss": "những con của bà"
     },
     {
       "surface": "ולא",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "có"
+      "gloss": "xảy ra"
     },
     {
       "surface": "אסון",
-      "gloss": "tổn hại"
+      "gloss": "tai họa"
     },
     {
       "surface": "ענוש",
@@ -57,37 +57,37 @@
     },
     {
       "surface": "יענש",
-      "gloss": "sẽ bị phạt"
+      "gloss": "phải nộp phạt"
     },
     {
       "surface": "כאשר",
-      "gloss": "như"
+      "gloss": "theo như"
     },
     {
       "surface": "ישית",
-      "gloss": "định đặt"
+      "gloss": "đặt"
     },
     {
       "surface": "עליו",
-      "gloss": "trên hắn"
+      "gloss": "lên anh ta"
     },
     {
       "surface": "בעל",
-      "gloss": "chồng"
+      "gloss": "chủ \/ chồng"
     },
     {
       "surface": "האשה",
-      "gloss": "của người đàn bà"
+      "gloss": "của người phụ nữ ấy"
     },
     {
       "surface": "ונתן",
-      "gloss": "và trả"
+      "gloss": "và phải nộp"
     },
     {
       "surface": "בפללים",
-      "gloss": "qua các thẩm phán"
+      "gloss": "theo phán quyết của các thẩm phán"
     }
   ],
-  "timestamp": "2026-08-19T02:33:19.028837355Z",
+  "timestamp": "2026-08-24T16:03:45.918961145Z",
   "model": "glm-5.3"
 }

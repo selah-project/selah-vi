@@ -5,15 +5,15 @@
   "book": "joel",
   "lang": "vi",
   "chapter": 1,
-  "translation": "Cái còn lại của con sâu cắt, châu chấu đã ăn; và cái còn lại của châu chấu, sâu кон chew đã ăn — con sâu non đã ăn; và cái còn lại của sâu non, con sâu hủy hoại đã ăn.",
+  "translation": "Phần còn lại của gazam, arbeh đã ăn; và phần còn lại của arbeh, yeleq đã ăn; và phần còn lại của yeleq, hasil đã ăn.",
   "tokens": [
     {
       "surface": "יתר",
-      "gloss": "cái còn lại"
+      "gloss": "phần còn lại"
     },
     {
       "surface": "הגזם",
-      "gloss": "của con sâu cắt"
+      "gloss": "của gazam"
     },
     {
       "surface": "אכל",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "הארבה",
-      "gloss": "châu chấu"
+      "gloss": "arbeh"
     },
     {
       "surface": "ויתר",
-      "gloss": "và cái còn lại"
+      "gloss": "và phần còn lại"
     },
     {
       "surface": "הארבה",
-      "gloss": "của châu chấu"
+      "gloss": "của arbeh"
     },
     {
       "surface": "אכל",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "הילק",
-      "gloss": "sâu non"
+      "gloss": "yeleq"
     },
     {
       "surface": "ויתר",
-      "gloss": "và cái còn lại"
+      "gloss": "và phần còn lại"
     },
     {
       "surface": "הילק",
-      "gloss": "của sâu non"
+      "gloss": "của yeleq"
     },
     {
       "surface": "אכל",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "החסיל",
-      "gloss": "sâu hủy hoại"
+      "gloss": "hasil"
     }
   ],
-  "timestamp": "2026-08-19T04:46:02.552529820Z",
+  "timestamp": "2026-08-24T16:18:33.870776280Z",
   "model": "glm-5.3"
 }

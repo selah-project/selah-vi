@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "vi",
   "chapter": 31,
-  "translation": "Và Yahweh phán cùng Moshe: Này, ngươi sắp nằm cùng tổ phụ mình, và dân này sẽ nổi dậy và hành dâm theo các elohim lạ của đất mà nó đang đi vào giữa nó, và sẽ bỏ Ta, và hủy ⟨את⟩ giao ước của Ta mà Ta đã cắt với ⟨אתו⟩ nó.",
+  "translation": "Và Yahweh phán cùng Moshe: Này, ngươi sắp nằm xuống với các tổ phụ ngươi, và dân này sẽ nổi dậy và hành dâm theo các elohim ngoại bang của xứ mà nó đang vào để ở giữa nó, và nó sẽ bỏ ta, và sẽ hủy ⟨את⟩ giao ước của ta mà ta đã cắt lập ⟨את⟩ cùng nó.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "הנך",
-      "gloss": "này ngươi"
+      "gloss": "này, ngươi"
     },
     {
       "surface": "שכב",
-      "gloss": "sắp nằm"
+      "gloss": "nằm xuống"
     },
     {
       "surface": "עם",
-      "gloss": "cùng"
+      "gloss": "với"
     },
     {
       "surface": "אבתיך",
-      "gloss": "tổ phụ của ngươi"
+      "gloss": "các tổ phụ ngươi"
     },
     {
       "surface": "וקם",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "theo"
+      "gloss": "theo sau"
     },
     {
       "surface": "אלהי",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "נכר",
-      "gloss": "lạ"
+      "gloss": "ngoại bang"
     },
     {
       "surface": "הארץ",
-      "gloss": "của đất"
+      "gloss": "của xứ"
     },
     {
       "surface": "אשר",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "בא",
-      "gloss": "đang đi vào"
+      "gloss": "đang vào"
     },
     {
       "surface": "שמה",
@@ -89,24 +89,24 @@
     },
     {
       "surface": "בקרבו",
-      "gloss": "giữa nó"
+      "gloss": "ở giữa nó"
     },
     {
       "surface": "ועזבני",
-      "gloss": "và sẽ bỏ Ta"
+      "gloss": "và sẽ bỏ ta"
     },
     {
       "surface": "והפר",
-      "gloss": "và hủy"
+      "gloss": "và sẽ hủy"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "giao ước của Ta"
+      "marks": "giao ước của ta"
     },
     {
       "surface": "בריתי",
-      "gloss": "giao ước của Ta"
+      "gloss": "giao ước của ta"
     },
     {
       "surface": "אשר",
@@ -114,13 +114,13 @@
     },
     {
       "surface": "כרתי",
-      "gloss": "Ta đã cắt"
+      "gloss": "ta đã cắt lập"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩ với nó"
+      "gloss": "⟨את⟩ cùng nó"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.022768826Z",
+  "timestamp": "2026-08-24T16:09:02.730070490Z",
   "model": "glm-5.3"
 }

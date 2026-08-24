@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "vi",
   "chapter": 19,
-  "translation": "Và Yeshayahu con của Amots sai người đến với Chizkiyahu, nói rằng: Như vầy Yahweh Elohim của Yisrael phán: điều ngươi đã cầu nguyện ⟨אלי⟩ với Ta về Sancheiv vua của Ashshur — Ta đã nghe.",
+  "translation": "Và Yeshayahu con trai Amots sai đến Chizkiyahu, nói: Như vầy Yahweh, Elohim của Yisrael, phán: điều ngươi đã cầu nguyện với Ta về Sancherib vua của Ashur — Ta đã nghe.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "và sai người đến"
+      "gloss": "và đã sai"
     },
     {
       "surface": "ישעיהו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "con của"
+      "gloss": "con trai"
     },
     {
       "surface": "אמוץ",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "đến với"
+      "gloss": "đến"
     },
     {
       "surface": "חזקיהו",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "phán"
+      "gloss": "đã phán"
     },
     {
       "surface": "יהוה",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "điều mà"
+      "gloss": "mà \/ điều mà"
     },
     {
       "surface": "התפללת",
@@ -65,16 +65,15 @@
     },
     {
       "surface": "אלי",
-      "gloss": "với Ta",
-      "marks": "được giữ nguyên trong bản dịch bằng ⟨אלי⟩"
+      "gloss": "với Ta"
     },
     {
       "surface": "אל",
-      "gloss": "về"
+      "gloss": "về \/ chống"
     },
     {
-      "surface": "סנחרב",
-      "gloss": "Sancheiv"
+      "surface": "סנחריב",
+      "gloss": "Sancherib"
     },
     {
       "surface": "מלך",
@@ -82,13 +81,13 @@
     },
     {
       "surface": "אשור",
-      "gloss": "Ashshur"
+      "gloss": "Ashur"
     },
     {
       "surface": "שמעתי",
       "gloss": "Ta đã nghe"
     }
   ],
-  "timestamp": "2026-08-19T06:11:35.546107141Z",
+  "timestamp": "2026-08-24T16:13:13.607858035Z",
   "model": "glm-5.3"
 }

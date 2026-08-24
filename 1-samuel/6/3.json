@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "vi",
   "chapter": 6,
-  "translation": "Và họ nói: Nếu các ngươi gửi đi ⟨את⟩ Ap-khôn của Elohim của Yisra'el, đừng gửi nó đi ⟨את⟩ ⟨אתו⟩ rỗng không; vì các ngươi phải hoàn trả cho Ngài một của lễ tội lỗi; bấy giờ các ngươi sẽ được chữa lành, và sẽ được biết cho các ngươi vì sao tay Ngài không lìa khỏi các ngươi.",
+  "translation": "Và họ nói: Nếu các ngươi gửi đi ⟨את⟩ hòm của Elohim của Yitsraen, thì chớ gửi nó đi ⟨את⟩ trống không, vì các ngươi phải trả lại cho Ngài một của lễ tội lỗi; bấy giờ các ngươi sẽ được chữa lành, và sẽ được biết cho các ngươi tại sao tay của Ngài không lìa khỏi các ngươi.",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -22,23 +22,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Ap-khôn"
+      "marks": "hòm của Elohim của Yitsraen"
     },
     {
       "surface": "ארון",
-      "gloss": "Ap-khôn"
+      "gloss": "hòm"
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim của"
+      "gloss": "Elohim"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Yitsraen"
     },
     {
       "surface": "אל",
-      "gloss": "đừng"
+      "gloss": "chớ"
     },
     {
       "surface": "תשלחו",
@@ -46,12 +46,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "nó"
+      "gloss": "⟨את⟩",
+      "marks": "trống không (nó)"
     },
     {
       "surface": "ריקם",
-      "gloss": "rỗng không"
+      "gloss": "trống không"
     },
     {
       "surface": "כי",
@@ -59,11 +59,11 @@
     },
     {
       "surface": "השב",
-      "gloss": "chắc chắn hoàn trả"
+      "gloss": "hẳn là trả lại"
     },
     {
       "surface": "תשיבו",
-      "gloss": "các ngươi hoàn trả"
+      "gloss": "các ngươi trả lại"
     },
     {
       "surface": "לו",
@@ -91,7 +91,7 @@
     },
     {
       "surface": "למה",
-      "gloss": "vì sao"
+      "gloss": "tại sao"
     },
     {
       "surface": "לא",
@@ -103,13 +103,13 @@
     },
     {
       "surface": "ידו",
-      "gloss": "tay Ngài"
+      "gloss": "tay của Ngài"
     },
     {
       "surface": "מכם",
       "gloss": "khỏi các ngươi"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.014555985Z",
+  "timestamp": "2026-08-24T16:10:35.399824296Z",
   "model": "glm-5.3"
 }

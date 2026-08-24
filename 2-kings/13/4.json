@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "vi",
   "chapter": 13,
-  "translation": "Và Yehoachaz dịu ⟨את⟩ mặt của Yahweh, và Yahweh lắng nghe hắn, vì Ngài thấy ⟨את⟩ cơn khốn khổ của Yisrael, vì vua của Aram đã圧 đặt họ.",
+  "translation": "Và Yehoachaz cầu khẩn ⟨את⟩ nhan Yahweh, và Yahweh đã lắng nghe ông, vì Ngài thấy ⟨את⟩ nạn áp bức của Yisrael, vì vua Aram đã áp bức ⟨את⟩ họ.",
   "tokens": [
     {
       "surface": "ויחל",
-      "gloss": "và làm dịu \/ nài xin"
+      "gloss": "cầu khẩn"
     },
     {
       "surface": "יהואחז",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mặt của Yahweh"
+      "marks": "nhan"
     },
     {
       "surface": "פני",
-      "gloss": "mặt của"
+      "gloss": "nhan"
     },
     {
       "surface": "יהוה",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "וישמע",
-      "gloss": "và lắng nghe"
+      "gloss": "đã lắng nghe"
     },
     {
       "surface": "אליו",
-      "gloss": "tới hắn"
+      "gloss": "ông"
     },
     {
       "surface": "יהוה",
@@ -51,11 +51,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "cơn khốn khổ của Yisrael"
+      "marks": "nạn áp bức"
     },
     {
       "surface": "לחץ",
-      "gloss": "cơn khốn khổ (sự bóp nghẹt)"
+      "gloss": "nạn áp bức"
     },
     {
       "surface": "ישראל",
@@ -67,12 +67,11 @@
     },
     {
       "surface": "לחץ",
-      "gloss": "đã bóp nghẹt"
+      "gloss": "áp bức"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "họ"
+      "gloss": "⟨את⟩ họ"
     },
     {
       "surface": "מלך",
@@ -83,6 +82,6 @@
       "gloss": "Aram"
     }
   ],
-  "timestamp": "2026-08-19T03:59:48.271786585Z",
+  "timestamp": "2026-08-24T16:13:12.283626132Z",
   "model": "glm-5.3"
 }

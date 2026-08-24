@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "vi",
   "chapter": 6,
-  "translation": "Và bảy thầy tế lễ sẽ mang bảy cái tù và của tiếng chuông năm thứ bảy, trước ⟨ה⟩ hòm; và trong ngày thứ bảy các ngươi sẽ vây quanh ⟨את⟩ thành bảy lần, và các thầy tế lễ sẽ thổi tù và.",
+  "translation": "Và bảy thầy tế lễ sẽ mang bảy cái kèn shofar của năm jubilee trước hòm-bảng chứng, và trong ngày thứ bảy các ngươi sẽ đi vòng ⟨את⟩ thành phố bảy lần, và các thầy tế lễ sẽ thổi kèn shofar.",
   "tokens": [
     {
       "surface": "ושבעה",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "שופרות",
-      "gloss": "tù và"
+      "gloss": "cái kèn shofar"
     },
     {
       "surface": "היובלים",
-      "gloss": "của năm thứ bảy"
+      "gloss": "của năm jubilee"
     },
     {
       "surface": "לפני",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "הארון",
-      "gloss": "hòm"
+      "gloss": "hòm-bảng chứng"
     },
     {
       "surface": "וביום",
@@ -49,16 +49,16 @@
     },
     {
       "surface": "תסבו",
-      "gloss": "các ngươi sẽ vây quanh"
+      "gloss": "các ngươi sẽ đi vòng"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "thành"
+      "marks": "thành phố"
     },
     {
       "surface": "העיר",
-      "gloss": "thành"
+      "gloss": "thành phố"
     },
     {
       "surface": "שבע",
@@ -78,9 +78,9 @@
     },
     {
       "surface": "בשופרות",
-      "gloss": "tù và"
+      "gloss": "kèn shofar"
     }
   ],
-  "timestamp": "2026-08-19T06:06:34.153601514Z",
+  "timestamp": "2026-08-24T16:09:03.790939186Z",
   "model": "glm-5.3"
 }

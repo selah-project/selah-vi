@@ -5,7 +5,7 @@
   "book": "malachi",
   "lang": "vi",
   "chapter": 3,
-  "translation": "Vì nầy, ngày đến đang cháy như lò; và mọi kẻ ngạo mạn cùng mọi kẻ làm điều ác sẽ như rơm; và ngày đến sẽ thiêu đốt ⟨את⟩ ⟨אתם⟩ chúng, Yahweh Tsevaot phán, đếnỗi sẽ không còn lại cho chúng rễ và nhánh.",
+  "translation": "Vì nầy, ngày đến, cháy như lò, và mọi kẻ kiêu ngạo cùng mọi kẻ làm điều ác sẽ như rơm; và ngày đến, Yahweh Sevaot phán, sẽ thiêu đốt ⟨את⟩ họ, không chừa lại cho họ rễ hay nhánh.",
   "tokens": [
     {
       "surface": "כי",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "והיו",
-      "gloss": "và chúng sẽ là"
+      "gloss": "và sẽ là"
     },
     {
       "surface": "כל",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "זדים",
-      "gloss": "kẻ ngạo mạn"
+      "gloss": "kẻ kiêu ngạo"
     },
     {
       "surface": "וכל",
@@ -61,12 +61,12 @@
     },
     {
       "surface": "ולהט",
-      "gloss": "và sẽ thiêu đốt"
+      "gloss": "và thiêu đốt"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "chúng"
+      "gloss": "⟨את⟩",
+      "marks": "họ"
     },
     {
       "surface": "היום",
@@ -86,11 +86,11 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "Tsevaot"
+      "gloss": "Sevaot"
     },
     {
       "surface": "אשר",
-      "gloss": "đếnỗi"
+      "gloss": "rằng"
     },
     {
       "surface": "לא",
@@ -98,11 +98,11 @@
     },
     {
       "surface": "יעזב",
-      "gloss": "sẽ còn lại"
+      "gloss": "chừa lại"
     },
     {
       "surface": "להם",
-      "gloss": "cho chúng"
+      "gloss": "cho họ"
     },
     {
       "surface": "שרש",
@@ -113,6 +113,6 @@
       "gloss": "và nhánh"
     }
   ],
-  "timestamp": "2026-08-19T06:41:41.002222337Z",
+  "timestamp": "2026-08-24T16:20:10.330108385Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "esther",
   "lang": "vi",
   "chapter": 4,
-  "translation": "Và Mordekhai biết ⟨את⟩ tất cả điều đã xảy ra, thì Mordekhai xé áo mình, mặc ⟨את⟩ vải sacking cùng tro, và đi ra giữa ⟨the⟩ thành phố, và cất tiếng kêu gào một tiếng kêu lớn và đắng cay.",
+  "translation": "Và Mordekhai biết ⟨את⟩ mọi điều đã làm; Mordekhai xé ⟨את⟩ áo mình, mặc vải thô và tro, đi ra giữa thành phố, và la lên tiếng kêu lớn và đắng cay.",
   "tokens": [
     {
       "surface": "ומרדכי",
-      "gloss": "và Mordekhai"
+      "gloss": "Và Mordekhai"
     },
     {
       "surface": "ידע",
@@ -18,19 +18,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tất cả"
+      "marks": "mọi điều"
     },
     {
       "surface": "כל",
-      "gloss": "tất cả"
+      "gloss": "mọi"
     },
     {
       "surface": "אשר",
-      "gloss": "điều mà"
+      "gloss": "mà"
     },
     {
       "surface": "נעשה",
-      "gloss": "đã xảy ra"
+      "gloss": "đã làm"
     },
     {
       "surface": "ויקרע",
@@ -55,11 +55,11 @@
     },
     {
       "surface": "שק",
-      "gloss": "vải sacking"
+      "gloss": "vải thô"
     },
     {
       "surface": "ואפר",
-      "gloss": "cùng tro"
+      "gloss": "và tro"
     },
     {
       "surface": "ויצא",
@@ -75,11 +75,11 @@
     },
     {
       "surface": "ויזעק",
-      "gloss": "và cất tiếng kêu gào"
+      "gloss": "và la lên"
     },
     {
       "surface": "זעקה",
-      "gloss": "một tiếng kêu"
+      "gloss": "tiếng kêu"
     },
     {
       "surface": "גדלה",
@@ -90,6 +90,6 @@
       "gloss": "và đắng cay"
     }
   ],
-  "timestamp": "2026-08-19T05:35:12.878118343Z",
+  "timestamp": "2026-08-24T16:23:20.006292998Z",
   "model": "glm-5.3"
 }

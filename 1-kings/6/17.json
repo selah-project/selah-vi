@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "vi",
   "chapter": 6,
-  "translation": "Và bốn mươi khuỷu là ⟨the⟩ nhà — ⟨nó⟩ là ⟨the⟩ đại điện ở phía trước.",
+  "translation": "Và bốn mươi a-ma là ⟨the⟩ nhà — đó là ⟨the⟩ đại điện ở trước.",
   "tokens": [
     {
       "surface": "וארבעים",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "באמה",
-      "gloss": "khuỷu"
+      "gloss": "theo a-ma"
     },
     {
       "surface": "היה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "nó"
+      "gloss": "đó là"
     },
     {
       "surface": "ההיכל",
@@ -33,9 +33,9 @@
     },
     {
       "surface": "לפני",
-      "gloss": "ở phía trước"
+      "gloss": "ở trước"
     }
   ],
-  "timestamp": "2026-08-19T03:48:31.367535466Z",
+  "timestamp": "2026-08-24T16:26:42.892041972Z",
   "model": "glm-5.3"
 }
