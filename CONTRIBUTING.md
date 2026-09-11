@@ -61,3 +61,8 @@ Lịch sử Git giữ hồ sơ mở và chứng tích. Nhóm duy trì đối chi
 xuất với tiếng Hípri, các quy tắc, nguồn và sự khớp hàng — có thể
 chấp nhận, cùng bạn giải quyết, chờ thêm bằng chứng, hoặc từ chối có
 lý do. Thẩm định văn bản, không thẩm định con người.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
