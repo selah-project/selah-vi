@@ -1,0 +1,63 @@
+#:rendering{:label "Tiếng Việt",
+            :source
+            {:text :oshb-wlc,
+             :corpus :tanakh,
+             :verses 23213,
+             :tokens 305373},
+            :provenance
+            {:derived
+             [:lang
+              :version
+              :label
+              :status
+              :lineage
+              :source
+              :rails
+              :rails-commit
+              :name-seat
+              :models
+              :tiers
+              :produced
+              :license
+              :catalog],
+             :declared []},
+            :role :pass,
+            :produced {:from "2026-08-19", :to "2026-08-24"},
+            :id "vi.v1",
+            :catalog {:ui "resources/i18n/ui/vi.edn"},
+            :license "CC BY-SA 4.0 (The Selah Vietnamese Rendering)",
+            :model
+            {:provider :z.ai,
+             :models {"glm-5.3" 23213},
+             :tiers {"glm-5.2" 23213},
+             :prompt "selah.translate.prompt",
+             :canonical-forms "data/translation/canonical-forms.edn"},
+            :discipline
+            {:rails "docs/methodology/translation-discipline/vi.md",
+             :rails-commit "5d2aa694",
+             :foundation
+             [:hebrew-first
+              :deut-6-4-double-fidelity
+              :no-foreknowledge
+              :aleph-tav-total
+              :fills-bracketed
+              :no-translator-notes
+              :tough-verse-lay-it-bare],
+             :name-seat
+             {"אל" "El",
+              "אלהים" "Elohim",
+              "יה" "Yah",
+              "יהוה" "Yahweh",
+              "שדי" "Shaddai"},
+             :open-questions []},
+            :status :live,
+            :version "v1",
+            :lineage
+            {:git
+             {:repo "selah-project/selah-vi",
+              :ref "v1-final",
+              :commit nil,
+              :tags [],
+              :branches ["main"]},
+             :parents []},
+            :lang :vi}
